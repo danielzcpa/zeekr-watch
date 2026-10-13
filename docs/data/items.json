@@ -70,43 +70,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "93cf09a6cf95fc34",
-  "type": "competitor_news",
-  "source": "gn-brands-cn",
-  "source_name": "Google News · WhichCar",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnRaYU1mc1NNVGxOeHAxWVVwM0lTejh4emIxZHNQZ2dkMFJ1OXlqWnRkbEljdVVDOVZCYUk3WTBEWHlHVWZuZk5pVGFKNzRhZ0dCZ19PRTVNSzVVSW9rc2lGMHo0Vk5wUFlXbkJ3RHlCbWNCWmdYdnh2SHhXTDR3ZEZwbEhZZEY4dkE?oc=5",
-  "title": "New XPeng seven-seat G9L SUV promises 1200km of range and ultra-fast charging – and it's coming to Australia - WhichCar",
-  "text": "New XPeng seven-seat G9L SUV promises 1200km of range and ultra-fast charging – and it's coming to Australia WhichCar",
-  "author": "",
-  "published": "2026-10-13T04:05:04+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "xpeng-g9l"
-  ],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "competitor",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "cd69fa572df0b0c9",
   "type": "competitor_news",
   "source": "whichcar",
@@ -390,42 +353,6 @@
    "price"
   ],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "f785bba3fe5da2f6",
-  "type": "competitor_news",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2J1YUFrc1NtaEotYVBDMzYxQlU3V0dOOHFobVh4VVRmc2s3cmpfSFBNcnowZVZjWWowQk1xVlgyc2VheWlsalFyd0RSVF9odEhscjJtMExKMkM3bjlKSWFzRGpJM095dmFvd1p0VmhaTXJEbmdDcVpjRFpMYmgwZ3VDN1ZiN3NCLXkzNUljbXBoQ0RISkI1NXlteWo3LWx6VVFYUW12aHM1NnZwSXc?oc=5",
-  "title": "2027 Xpeng G9L detailed with 1200km range and luxurious three-row cabin - CarExpert",
-  "text": "2027 Xpeng G9L detailed with 1200km range and luxurious three-row cabin CarExpert",
-  "author": "",
-  "published": "2026-10-13T00:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "xpeng-g9l"
-  ],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [
-   "charging",
-   "delivery"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -766,41 +693,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "79cd7607f6513c09",
-  "type": "competitor_news",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHo3aW96Y194TlE2RkxjQVN3a2V6ZW8wci1KUWxfWW1FM21pem1wTlhDTjJwNlpjZGI3SEQ1akw3aGN6OVNqc1ZVN19EQWIxSU0zLXk3VThHbVhhUnNPb3ZhYjdBMUxMRUl6dGZYY29PUTVWeXp3aVhsbmc2a3R5eUZUdzNIOWNjNVJhaXlrMmNYN0lHeE8tWDJKRE1IX3lhVEgyY2pMLVVfLUhDbWczVENuNUVRZ2ZwSlg3V3ROZ3BOUlJ4clBwaQ?oc=5",
-  "title": "Electric Tiguan revealed: Volkswagen replaces ID.4 and ID.5 with new-look SUV offering up to 600km range - EV Central",
-  "text": "Electric Tiguan revealed: Volkswagen replaces ID.4 and ID.5 with new-look SUV offering up to 600km range EV Central",
-  "author": "",
-  "published": "2026-10-12T20:28:08+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "volkswagen"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "competitor",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "7dc489637c6e80ae",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -936,6 +828,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "3a575ca690425b6c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · FinancialContent",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaXFBcmlwMVVLQnVKUkFwYTRFX0RmTFpxVnJmc0VxLWdYUEJJN3hRM2Y2WE01VXRrWUNRVDNUWlJvQjZYTTBhYTZCYTZVNW1pRHFuQk9xWEdEUFRxRndRaFg5Umw5NWNCWTFYcDF3LU9ocEtIamM3QTV6RDJNS2VxdHpTdktWLXltc202NDFPbm5JMlJZRHpNNnZtV1A3UTE5a2JadUVITXY1dUNEQVNRNUM3VzdfTnNjTGRqNUt1anBWRDl4dXQ4V2lzV0VJaVdLc3p6dTd6M196OEt2WDVGMkZtWWQzNHF1ZUE?oc=5",
+  "title": "Geely Auto Group Makes Its Paris Motor Show Debut with Geely Auto, Lynk & Co and Zeekr - FinancialContent",
+  "text": "Geely Auto Group Makes Its Paris Motor Show Debut with Geely Auto, Lynk & Co and Zeekr FinancialContent",
+  "author": "",
+  "published": "2026-10-12T16:34:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T05:09:00+00:00"
  },
  {
   "id": "1d4be60cc252420b",
@@ -1438,6 +1363,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "1ddd44963b401210",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjNwR2dENUc1aHNQR1haanNZTGJfTkF0Qjl5UUx1a2pPbkItaS1KM21ZVElhQXBRMEg0NFJHQzNEWUpIXzY1TXlhNUEzOTRtcTVyaHlWb3N2T1RFTVNEWURXQTFYdmlmWkJCUGs4Nko4aHcwZVd1a0dUZnhzODRXZWIxV2dxMkNwVVg3M1BR?oc=5",
+  "title": "New Zeekr 9X beater confirmed - St George & Sutherland Shire Leader",
+  "text": "New Zeekr 9X beater confirmed St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-10-12T04:54:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T05:09:00+00:00"
  },
  {
   "id": "7ce563591f01c526",
@@ -11590,45 +11548,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "11247d8f821a9e6f",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQlJ6V0xsTDdOUGpJT1VfSGNQZGt1SjVaN1ZpZHozTGN0cE00WnVzOGRrVkZQbVpjTlFodGxGU3NCTzlIMzFicm1YS0RadkpnUElfT29qaHlhUkVudGFUWG9mQ1NaT3ZMbDZNdmU5TjZuQ3ZOc1FvaGdkYkFrUl9TaWU0enJ3aGRoWHpEeEoteGRpNHNfcUpZOFFGMXVwRUp3YXZLc25kbnZfOWkzRkNxeGRfamE4YktUOW5vT1c5SlJtYUlYak9vUUw5bHJYN3pTZ2hZTy1uVVg4d2RvQmpqWlg0c3dfR3o2R1pNWjRSSEc3U0xpNzhKLUNCdW1jZ29lV1R1dURRSV8wNi1pTS1v?oc=5",
-  "title": "Zeekr confirms two new models for Australia: 8X and 9X are large luxury SUVs aimed at Audi, BMW, Benz, Range Rover and even Rolls-Royce ... but prices will be lower - EV Central",
-  "text": "Zeekr confirms two new models for Australia: 8X and 9X are large luxury SUVs aimed at Audi, BMW, Benz, Range Rover and even Rolls-Royce ... but prices will be lower EV Central",
-  "author": "",
-  "published": "2026-08-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [
-   "bmw",
-   "audi"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "0e908dc084ff4f69",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -14478,6 +14397,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "fe62b5d4a8b25191",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXNnQ2NRU2RacG5lWnlJYWtDQzRYOF9rUDdUVlVqbnJibENwUzV3UUktdllDVzdRb252ck5wWTllWmxBaWdxSFN2Q1RLRWE5X2dmYU44dXpacWFiUmk0NkhtZlZIU3g3WjdPVVNQX3lWVWV5OHJPRXotZm1lLTFSRTlVc2F1Yl9lcTEwcHUzaWgwQTZDS3RwXzJnR2pZajllb1Iw?oc=5",
+  "title": "Small electric SUV from China's Zeekr outsells its entire 2025 result in six weeks after major price cut, spec boost - Drive",
+  "text": "Small electric SUV from China's Zeekr outsells its entire 2025 result in six weeks after major price cut, spec boost Drive",
+  "author": "",
+  "published": "2026-06-29T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T05:09:00+00:00"
+ },
+ {
   "id": "528f73137ec1b0e5",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -14511,6 +14463,45 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "3615e420572b5a62",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Chasing Cars",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWXZHdXdnNXh1Tm1qOXJRcUhSZDM0dElpTk9fampaSlZuOTZ1X3VIYVZucnpBODAya0k5QnNIYmJxWkdSUTZLejM5dXQyWjdxU0lwWFpmakFzcjdZNGRESFRXN3NYZ2dhbkNUbklObW5QRlVFUWV3dVZlUTUybnRjZlg5YzlBWm9NOWx4NnRjSmtPNmwtWUFEWGNnZkJ4Q29zaW5FWTBrUzZNQi10bU50SVhneG5qU3VfX0FQSVdkUTJnS0VvQTdva1RKTUdTQQ?oc=5",
+  "title": "BEST MEDIUM SUV 2026: Tesla Model Y vs Zeekr 7X vs Cupra Terramar vs Toyota RAV4 vs Mazda CX-5 - Chasing Cars",
+  "text": "BEST MEDIUM SUV 2026: Tesla Model Y vs Zeekr 7X vs Cupra Terramar vs Toyota RAV4 vs Mazda CX-5 Chasing Cars",
+  "author": "",
+  "published": "2026-06-29T00:04:58+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla",
+   "toyota",
+   "mazda"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T05:09:00+00:00"
  },
  {
   "id": "092004f638b32a55",

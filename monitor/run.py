@@ -171,7 +171,7 @@ def main(argv=None):
     # de-duplicate the same article seen via Google News and via the outlet's own feed:
     # prefer the direct URL, then the earlier first_seen.
     def tkey(it):
-        t = re.sub(r"\s*[-–|]\s*[^-–|]{2,40}$", "", it["title"].lower())  # strip " - Outlet" suffix
+        t = re.sub(r"\s+[-|]\s+(?:[^\s|-]+\s?){1,4}$", "", it["title"].lower())  # strip " - Outlet" suffix (<=4 words)
         return re.sub(r"[^a-z0-9\u4e00-\u9fff]+", "", t)[:120]
     best: dict[str, dict] = {}
     for it in items:

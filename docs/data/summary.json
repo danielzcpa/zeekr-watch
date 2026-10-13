@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-13T05:07:33+00:00",
- "duration_s": 52.3,
+ "generated": "2026-10-13T05:09:00+00:00",
+ "duration_s": 24.9,
  "items_total": 480,
- "new_this_run": 112,
+ "new_this_run": 134,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 6,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 3,
   "low_7d": 1,
-  "competitor_news_7d": 52,
-  "launch_signals_7d": 15,
+  "competitor_news_7d": 49,
+  "launch_signals_7d": 14,
   "offer_signals_7d": 0,
-  "zeekr_news_7d": 28,
+  "zeekr_news_7d": 30,
   "offer_page_changes_7d": 0
  },
  "series_30d": [
@@ -188,13 +188,13 @@
   {
    "date": "2026-10-12",
    "complaints": 1,
-   "competitor_news": 17,
-   "zeekr_news": 8
+   "competitor_news": 16,
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-13",
    "complaints": 0,
-   "competitor_news": 11,
+   "competitor_news": 9,
    "zeekr_news": 1
   }
  ],
@@ -642,10 +642,9 @@
    "latest": "205ea3973e46d6d4"
   },
   "xpeng-g9l": {
-   "n_30d": 9,
+   "n_30d": 7,
    "launch": [
     "bbb5fd6a4bc73847",
-    "93cf09a6cf95fc34",
     "cd69fa572df0b0c9",
     "0548f3f61af3f327",
     "205ea3973e46d6d4",
@@ -747,16 +746,6 @@
    "title": "XPENG G9L Large SUV Revealed with EV and Range-Extender Options - CarSauce",
    "source": "Google News · CarSauce",
    "t": "2026-10-13T04:39:44+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "93cf09a6cf95fc34",
-   "title": "New XPeng seven-seat G9L SUV promises 1200km of range and ultra-fast charging – and it's coming to Australia - WhichCar",
-   "source": "Google News · WhichCar",
-   "t": "2026-10-13T04:05:04+00:00",
    "competitors": [
     "xpeng-g9l"
    ]
@@ -883,7 +872,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 24,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -923,7 +912,7 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 35,
+   "count": 36,
    "note": ""
   },
   "carexpert": {
@@ -1026,115 +1015,10 @@
    "count": 0,
    "note": "GOOGLE_MAPS_API_KEY not set – store reviews skipped"
   },
-  "offers-volvo": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
-  },
-  "offers-kia": {
-   "ok": true,
-   "count": 27,
-   "note": "unchanged"
-  },
-  "offers-polestar": {
-   "ok": true,
-   "count": 11,
-   "note": "unchanged"
-  },
-  "offers-mini": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)"
-  },
-  "offers-mg": {
-   "ok": true,
-   "count": 19,
-   "note": "unchanged"
-  },
-  "offers-mazda": {
-   "ok": true,
-   "count": 15,
-   "note": "unchanged"
-  },
-  "offers-mercedes": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)"
-  },
-  "offers-landrover": {
-   "ok": true,
-   "count": 15,
-   "note": "unchanged"
-  },
-  "offers-audi": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
-  },
-  "offers-byd": {
+  "offers": {
    "ok": true,
    "count": 0,
-   "note": "first snapshot"
-  },
-  "offers-hyundai": {
-   "ok": true,
-   "count": 8,
-   "note": "unchanged"
-  },
-  "offers-tesla-my": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
-  },
-  "offers-tesla-m3": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
-  },
-  "offers-xpeng": {
-   "ok": true,
-   "count": 1,
-   "note": "unchanged"
-  },
-  "offers-smart": {
-   "ok": true,
-   "count": 11,
-   "note": "unchanged"
-  },
-  "offers-leapmotor": {
-   "ok": true,
-   "count": 0,
-   "note": "unchanged"
-  },
-  "offers-deepal": {
-   "ok": true,
-   "count": 5,
-   "note": "unchanged"
-  },
-  "offers-lexus": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
-  },
-  "offers-bmw": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)"
-  },
-  "offers-zecar-offers": {
-   "ok": true,
-   "count": 38,
-   "note": "unchanged"
-  },
-  "offers-thebeep-offers": {
-   "ok": true,
-   "count": 6,
-   "note": "unchanged"
-  },
-  "offers-zeekr-offers-zecar": {
-   "ok": true,
-   "count": 6,
-   "note": "unchanged"
+   "note": "skipped"
   }
  },
  "places": {

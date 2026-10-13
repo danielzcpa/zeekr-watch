@@ -179,10 +179,10 @@ function renderItem(it, opts={}){
   meta.push(`<span title="${esc(itemTime(it))}">${fmtTime(itemTime(it))} · ${ago(itemTime(it))}</span>`);
   if(it.au===false) meta.push(`<span class="badge b-muted">non-AU</span>`);
   (it.models||[]).forEach(m=>meta.push(`<span class="badge b-green">${esc(modelName(m))}</span>`));
-  (it.categories||[]).slice(0,3).forEach(c=>meta.push(`<span class="badge b-muted">${esc(catName(c))}</span>`));
+  if(it.type!=='competitor_news') (it.categories||[]).slice(0,3).forEach(c=>meta.push(`<span class="badge b-muted">${esc(catName(c))}</span>`));
   (it.signals||[]).forEach(s=>meta.push(sigBadge(s)));
   if(opts.comps) (it.competitors||[]).slice(0,4).forEach(c=>meta.push(`<span class="badge b-green">${esc(compName(c))}</span>`));
-  const x = it.text && it.text!==it.title ? `<div class="x">${esc(it.text.slice(0,260))}${it.text.length>260?'…':''}</div>` : '';
+  const x = it.text && it.text!==it.title && !(it.source==='' ) && it.text.replace(/\W/g,'').toLowerCase()!==(it.title+it.source_name.split(' · ').pop()).replace(/\W/g,'').toLowerCase() ? `<div class="x">${esc(it.text.slice(0,260))}${it.text.length>260?'…':''}</div>` : '';
   return `<div class="item"><div class="t"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title||'(untitled)')}</a></div><div class="m">${meta.join('')}</div>${x}</div>`;
 }
 
