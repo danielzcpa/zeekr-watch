@@ -2,40 +2,155 @@
   "google_news": {
     "base": "https://news.google.com/rss/search?hl=en-AU&gl=AU&ceid=AU:en&q=",
     "zeekr_queries": [
-      {"key": "gn-zeekr-au", "q": "\"zeekr\" australia", "scope": "zeekr"},
-      {"key": "gn-zeekr-1d", "q": "\"zeekr\" when:2d", "scope": "zeekr"},
-      {"key": "gn-zeekr-complaint", "q": "\"zeekr\" (problem OR issue OR recall OR complaint OR fault OR warranty OR delay OR glitch OR bug OR defect OR refund)", "scope": "zeekr_complaint"},
-      {"key": "gn-zeekr-media", "q": "\"zeekr\" (site:drive.com.au OR site:carsguide.com.au OR site:whichcar.com.au OR site:carsales.com.au OR site:zecar.com OR site:thebeep.com.au)", "scope": "zeekr"},
-      {"key": "gn-zeekr-forums", "q": "\"zeekr\" (site:forums.whirlpool.net.au OR site:ozbargain.com.au OR site:productreview.com.au)", "scope": "zeekr_complaint"},
-      {"key": "gn-zeekr-recall", "q": "zeekr recall (site:productsafety.gov.au OR site:vehicle.recalls.gov.au)", "scope": "zeekr_recall"}
+      {
+        "key": "gn-zeekr-au",
+        "q": "\"zeekr\" australia",
+        "scope": "zeekr"
+      },
+      {
+        "key": "gn-zeekr-1d",
+        "q": "\"zeekr\" when:2d",
+        "scope": "zeekr"
+      },
+      {
+        "key": "gn-zeekr-complaint",
+        "q": "\"zeekr\" (problem OR issue OR recall OR complaint OR fault OR warranty OR delay OR glitch OR bug OR defect OR refund)",
+        "scope": "zeekr_complaint"
+      },
+      {
+        "key": "gn-zeekr-media",
+        "q": "\"zeekr\" (site:drive.com.au OR site:carsguide.com.au OR site:whichcar.com.au OR site:carsales.com.au OR site:zecar.com OR site:thebeep.com.au)",
+        "scope": "zeekr"
+      },
+      {
+        "key": "gn-zeekr-forums",
+        "q": "\"zeekr\" (site:forums.whirlpool.net.au OR site:ozbargain.com.au OR site:productreview.com.au)",
+        "scope": "zeekr_complaint"
+      },
+      {
+        "key": "gn-zeekr-recall",
+        "q": "zeekr recall (site:productsafety.gov.au OR site:vehicle.recalls.gov.au)",
+        "scope": "zeekr_recall"
+      },
+      {
+        "key": "gn-zeekr-evcentral",
+        "q": "\"zeekr\" (site:evcentral.com.au OR site:thebeep.com.au)",
+        "scope": "zeekr"
+      }
     ],
     "competitor_queries": [
-      {"key": "gn-ev-launch-au", "q": "australia electric (launch OR launches OR \"on sale\" OR priced OR pricing OR arrives OR revealed OR confirmed OR \"orders open\") when:3d", "scope": "competitor"},
-      {"key": "gn-ev-offer-au", "q": "australia (\"drive-away\" OR driveaway OR cashback OR \"price cut\" OR \"finance offer\" OR \"% p.a.\" OR \"price drop\") (electric OR EV OR hybrid OR PHEV) when:3d", "scope": "competitor"},
-      {"key": "gn-brands-cn", "q": "australia (xpeng OR denza OR deepal OR leapmotor OR \"li auto\" OR avatr OR yangwang OR \"lynk & co\" OR smart OR polestar OR \"gwm wey\") when:3d", "scope": "competitor"},
-      {"key": "gn-brands-eu", "q": "australia (volvo OR \"mercedes-benz\" OR bmw OR audi OR \"range rover\" OR porsche OR mini OR lexus OR tesla OR kia OR hyundai OR byd) (electric OR EV OR PHEV OR hybrid) (price OR launch OR offer) when:3d", "scope": "competitor"}
+      {
+        "key": "gn-ev-launch-au",
+        "q": "australia electric (launch OR launches OR \"on sale\" OR priced OR pricing OR arrives OR revealed OR confirmed OR \"orders open\") when:3d",
+        "scope": "competitor"
+      },
+      {
+        "key": "gn-ev-offer-au",
+        "q": "australia (\"drive-away\" OR driveaway OR cashback OR \"price cut\" OR \"finance offer\" OR \"% p.a.\" OR \"price drop\") (electric OR EV OR hybrid OR PHEV) when:3d",
+        "scope": "competitor"
+      },
+      {
+        "key": "gn-brands-cn",
+        "q": "australia (xpeng OR denza OR deepal OR leapmotor OR \"li auto\" OR avatr OR yangwang OR \"lynk & co\" OR smart OR polestar OR \"gwm wey\") when:3d",
+        "scope": "competitor"
+      },
+      {
+        "key": "gn-brands-eu",
+        "q": "australia (volvo OR \"mercedes-benz\" OR bmw OR audi OR \"range rover\" OR porsche OR mini OR lexus OR tesla OR kia OR hyundai OR byd) (electric OR EV OR PHEV OR hybrid) (price OR launch OR offer) when:3d",
+        "scope": "competitor"
+      },
+      {
+        "key": "gn-evcentral-industry",
+        "q": "site:evcentral.com.au when:3d",
+        "scope": "industry"
+      }
     ]
   },
   "rss_feeds": [
-    {"key": "carexpert", "name": "CarExpert", "url": "https://www.carexpert.com.au/feed", "scope": "industry"},
-    {"key": "thedriven", "name": "The Driven", "url": "https://thedriven.io/feed/", "scope": "industry"},
-    {"key": "thedriven-zeekr", "name": "The Driven (Zeekr)", "url": "https://thedriven.io/?s=zeekr&feed=rss2", "scope": "zeekr"},
-    {"key": "evcentral", "name": "EV Central", "url": "https://evcentral.com.au/feed/", "scope": "industry"},
-    {"key": "evcentral-zeekr", "name": "EV Central (Zeekr)", "url": "https://evcentral.com.au/tag/zeekr/feed/", "scope": "zeekr"},
-    {"key": "chasingcars", "name": "Chasing Cars", "url": "https://www.chasingcars.com.au/feed/", "scope": "industry"},
-    {"key": "chasingcars-zeekr", "name": "Chasing Cars (Zeekr)", "url": "https://www.chasingcars.com.au/?s=zeekr&feed=rss2", "scope": "zeekr"},
-    {"key": "whichcar", "name": "WhichCar", "url": "https://www.whichcar.com.au/feed", "scope": "industry"},
-    {"key": "ozbargain-zeekr", "name": "OzBargain (Zeekr)", "url": "https://www.ozbargain.com.au/brand/zeekr/feed", "scope": "zeekr_complaint"},
-    {"key": "ozbargain-auto", "name": "OzBargain (Automotive deals)", "url": "https://www.ozbargain.com.au/cat/automotive/feed", "scope": "industry"}
+    {
+      "key": "carexpert",
+      "name": "CarExpert",
+      "url": "https://www.carexpert.com.au/feed",
+      "scope": "industry"
+    },
+    {
+      "key": "thedriven",
+      "name": "The Driven",
+      "url": "https://thedriven.io/feed/",
+      "scope": "industry"
+    },
+    {
+      "key": "thedriven-zeekr",
+      "name": "The Driven (Zeekr)",
+      "url": "https://thedriven.io/?s=zeekr&feed=rss2",
+      "scope": "zeekr"
+    },
+    {
+      "key": "evcentral",
+      "name": "EV Central",
+      "url": "https://evcentral.com.au/feed/",
+      "scope": "industry"
+    },
+    {
+      "key": "evcentral-zeekr",
+      "name": "EV Central (Zeekr)",
+      "url": "https://evcentral.com.au/tag/zeekr/feed/",
+      "scope": "zeekr"
+    },
+    {
+      "key": "chasingcars",
+      "name": "Chasing Cars",
+      "url": "https://www.chasingcars.com.au/feed/",
+      "scope": "industry"
+    },
+    {
+      "key": "chasingcars-zeekr",
+      "name": "Chasing Cars (Zeekr)",
+      "url": "https://www.chasingcars.com.au/?s=zeekr&feed=rss2",
+      "scope": "zeekr"
+    },
+    {
+      "key": "whichcar",
+      "name": "WhichCar",
+      "url": "https://www.whichcar.com.au/feed",
+      "scope": "industry"
+    },
+    {
+      "key": "ozbargain-zeekr",
+      "name": "OzBargain (Zeekr)",
+      "url": "https://www.ozbargain.com.au/brand/zeekr/feed",
+      "scope": "zeekr_complaint"
+    },
+    {
+      "key": "ozbargain-auto",
+      "name": "OzBargain (Automotive deals)",
+      "url": "https://www.ozbargain.com.au/cat/automotive/feed",
+      "scope": "industry"
+    }
   ],
   "reddit": {
     "user_agent": "zeekr-watch/1.0 (market monitoring; contact via GitHub)",
-    "subreddit_new": ["Zeekr7xAustralia", "ZeekrAustraliaNZ", "Zeekr", "ZeekrX", "Zeekr7Gt"],
-    "subreddit_search": ["CarsAustralia", "AustralianEV", "EVAustralia", "AusAutomotive", "electricvehicles"],
+    "subreddit_new": [
+      "Zeekr7xAustralia",
+      "ZeekrAustraliaNZ",
+      "Zeekr",
+      "ZeekrX",
+      "Zeekr7Gt"
+    ],
+    "subreddit_search": [
+      "CarsAustralia",
+      "AustralianEV",
+      "EVAustralia",
+      "AusAutomotive",
+      "electricvehicles"
+    ],
     "global_search": "https://www.reddit.com/search.rss?q=zeekr&sort=new"
   },
   "productreview": {
-    "listings": ["https://www.productreview.com.au/listings/zeekr", "https://www.productreview.com.au/listings/zeekr-x"],
+    "listings": [
+      "https://www.productreview.com.au/listings/zeekr",
+      "https://www.productreview.com.au/listings/zeekr-x"
+    ],
     "search": "https://www.productreview.com.au/search?q=zeekr"
   },
   "app_stores": {
@@ -52,49 +167,205 @@
     "productsafety_rss": "https://www.productsafety.gov.au/rss/feed.xml/psa_recall?search_api_fulltext=zeekr"
   },
   "offer_pages": [
-    {"key": "volvo", "brand": "Volvo", "url": "https://www.volvocars.com/au/offers/"},
-    {"key": "kia", "brand": "Kia", "url": "https://www.kia.com/au/offers.html"},
-    {"key": "polestar", "brand": "Polestar", "url": "https://www.polestar.com/au/offers/"},
-    {"key": "mini", "brand": "Mini", "url": "https://www.mini.com.au/en_AU/home/offers.html"},
-    {"key": "mg", "brand": "MG / IM", "url": "https://mgmotor.com.au/offers"},
-    {"key": "mazda", "brand": "Mazda", "url": "https://www.mazda.com.au/offers/"},
-    {"key": "mercedes", "brand": "Mercedes-Benz", "url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"},
-    {"key": "landrover", "brand": "Land Rover", "url": "https://www.landrover.com.au/offers-and-finance/index.html"},
-    {"key": "audi", "brand": "Audi", "url": "https://www.audi.com.au/au/web/en/offers.html"},
-    {"key": "byd", "brand": "BYD", "url": "https://www.byd.com.au/offers"},
-    {"key": "hyundai", "brand": "Hyundai", "url": "https://www.hyundai.com/au/en/offers"},
-    {"key": "tesla-my", "brand": "Tesla", "url": "https://www.tesla.com/en_au/modely"},
-    {"key": "tesla-m3", "brand": "Tesla", "url": "https://www.tesla.com/en_au/model3"},
-    {"key": "xpeng", "brand": "Xpeng", "url": "https://shop.xpeng.com.au/"},
-    {"key": "smart", "brand": "smart", "url": "https://www.smart.com.au/"},
-    {"key": "leapmotor", "brand": "Leapmotor", "url": "https://www.leapmotor.com.au/"},
-    {"key": "deepal", "brand": "Deepal", "url": "https://www.deepal.com.au/"},
-    {"key": "lexus", "brand": "Lexus", "url": "https://www.lexus.com.au/offers"},
-    {"key": "bmw", "brand": "BMW", "url": "https://www.bmw.com.au/en/offers.html"},
-    {"key": "zecar-offers", "brand": "Zecar (全品牌政策汇总)", "url": "https://zecar.com/offers-and-deals"},
-    {"key": "thebeep-offers", "brand": "The Beep (全品牌政策汇总)", "url": "https://thebeep.com.au/offers-and-deals"},
-    {"key": "zeekr-offers-zecar", "brand": "Zeekr (Zecar)", "url": "https://zecar.com/offers-and-deals/zeekr"}
+    {
+      "key": "volvo",
+      "brand": "Volvo",
+      "url": "https://www.volvocars.com/au/offers/"
+    },
+    {
+      "key": "kia",
+      "brand": "Kia",
+      "url": "https://www.kia.com/au/offers.html"
+    },
+    {
+      "key": "polestar",
+      "brand": "Polestar",
+      "url": "https://www.polestar.com/au/offers/"
+    },
+    {
+      "key": "mini",
+      "brand": "Mini",
+      "url": "https://www.mini.com.au/en_AU/home/offers.html"
+    },
+    {
+      "key": "mg",
+      "brand": "MG / IM",
+      "url": "https://mgmotor.com.au/offers"
+    },
+    {
+      "key": "mazda",
+      "brand": "Mazda",
+      "url": "https://www.mazda.com.au/offers/"
+    },
+    {
+      "key": "mercedes",
+      "brand": "Mercedes-Benz",
+      "url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"
+    },
+    {
+      "key": "landrover",
+      "brand": "Land Rover",
+      "url": "https://www.landrover.com.au/offers-and-finance/index.html"
+    },
+    {
+      "key": "audi",
+      "brand": "Audi",
+      "url": "https://www.audi.com.au/au/web/en/offers.html"
+    },
+    {
+      "key": "byd",
+      "brand": "BYD",
+      "url": "https://www.byd.com.au/offers"
+    },
+    {
+      "key": "hyundai",
+      "brand": "Hyundai",
+      "url": "https://www.hyundai.com/au/en/offers"
+    },
+    {
+      "key": "tesla-my",
+      "brand": "Tesla",
+      "url": "https://www.tesla.com/en_au/modely"
+    },
+    {
+      "key": "tesla-m3",
+      "brand": "Tesla",
+      "url": "https://www.tesla.com/en_au/model3"
+    },
+    {
+      "key": "xpeng",
+      "brand": "Xpeng",
+      "url": "https://shop.xpeng.com.au/"
+    },
+    {
+      "key": "smart",
+      "brand": "smart",
+      "url": "https://www.smart.com.au/"
+    },
+    {
+      "key": "leapmotor",
+      "brand": "Leapmotor",
+      "url": "https://www.leapmotor.com.au/"
+    },
+    {
+      "key": "deepal",
+      "brand": "Deepal",
+      "url": "https://www.deepal.com.au/"
+    },
+    {
+      "key": "lexus",
+      "brand": "Lexus",
+      "url": "https://www.lexus.com.au/offers"
+    },
+    {
+      "key": "bmw",
+      "brand": "BMW",
+      "url": "https://www.bmw.com.au/en/offers.html"
+    },
+    {
+      "key": "zecar-offers",
+      "brand": "Zecar (全品牌政策汇总)",
+      "url": "https://zecar.com/offers-and-deals"
+    },
+    {
+      "key": "thebeep-offers",
+      "brand": "The Beep (全品牌政策汇总)",
+      "url": "https://thebeep.com.au/offers-and-deals"
+    },
+    {
+      "key": "zeekr-offers-zecar",
+      "brand": "Zeekr (Zecar)",
+      "url": "https://zecar.com/offers-and-deals/zeekr"
+    }
   ],
   "google_places": {
     "interval_hours": 6,
     "stores": [
-      {"name": "Zeekr Sydney City", "query": "Zeekr Sydney City Waterloo NSW", "state": "NSW"},
-      {"name": "Zeekr Chatswood", "query": "Zeekr Chatswood Roseville NSW", "state": "NSW"},
-      {"name": "Zeekr Parramatta", "query": "Zeekr Parramatta NSW", "state": "NSW"},
-      {"name": "Zeekr Castle Hill", "query": "Zeekr Castle Hill NSW", "state": "NSW"},
-      {"name": "Zeekr Newcastle", "query": "Zeekr Newcastle Hamilton NSW", "state": "NSW"},
-      {"name": "Zeekr Canberra", "query": "Zeekr Canberra Fyshwick ACT", "state": "ACT"},
-      {"name": "Zeekr Doncaster", "query": "Zeekr Doncaster VIC", "state": "VIC"},
-      {"name": "Zeekr South Yarra", "query": "Zeekr South Yarra VIC", "state": "VIC"},
-      {"name": "Zeekr Essendon", "query": "Zeekr Essendon Fields VIC", "state": "VIC"},
-      {"name": "Zeekr Berwick", "query": "Zeekr Berwick VIC", "state": "VIC"},
-      {"name": "Zeekr Geelong", "query": "Zeekr Geelong West VIC", "state": "VIC"},
-      {"name": "Zeekr Brisbane City", "query": "Zeekr Brisbane City QLD", "state": "QLD"},
-      {"name": "Zeekr Springwood", "query": "Zeekr Springwood Slacks Creek QLD", "state": "QLD"},
-      {"name": "Zeekr Sunshine Coast", "query": "Zeekr Sunshine Coast Maroochydore QLD", "state": "QLD"},
-      {"name": "Zeekr Gold Coast", "query": "Zeekr Gold Coast Southport QLD", "state": "QLD"},
-      {"name": "Zeekr Adelaide City", "query": "Zeekr Adelaide SA", "state": "SA"},
-      {"name": "Zeekr Perth", "query": "Zeekr Perth Burswood WA", "state": "WA"}
+      {
+        "name": "Zeekr Sydney City",
+        "query": "Zeekr Sydney City Waterloo NSW",
+        "state": "NSW"
+      },
+      {
+        "name": "Zeekr Chatswood",
+        "query": "Zeekr Chatswood Roseville NSW",
+        "state": "NSW"
+      },
+      {
+        "name": "Zeekr Parramatta",
+        "query": "Zeekr Parramatta NSW",
+        "state": "NSW"
+      },
+      {
+        "name": "Zeekr Castle Hill",
+        "query": "Zeekr Castle Hill NSW",
+        "state": "NSW"
+      },
+      {
+        "name": "Zeekr Newcastle",
+        "query": "Zeekr Newcastle Hamilton NSW",
+        "state": "NSW"
+      },
+      {
+        "name": "Zeekr Canberra",
+        "query": "Zeekr Canberra Fyshwick ACT",
+        "state": "ACT"
+      },
+      {
+        "name": "Zeekr Doncaster",
+        "query": "Zeekr Doncaster VIC",
+        "state": "VIC"
+      },
+      {
+        "name": "Zeekr South Yarra",
+        "query": "Zeekr South Yarra VIC",
+        "state": "VIC"
+      },
+      {
+        "name": "Zeekr Essendon",
+        "query": "Zeekr Essendon Fields VIC",
+        "state": "VIC"
+      },
+      {
+        "name": "Zeekr Berwick",
+        "query": "Zeekr Berwick VIC",
+        "state": "VIC"
+      },
+      {
+        "name": "Zeekr Geelong",
+        "query": "Zeekr Geelong West VIC",
+        "state": "VIC"
+      },
+      {
+        "name": "Zeekr Brisbane City",
+        "query": "Zeekr Brisbane City QLD",
+        "state": "QLD"
+      },
+      {
+        "name": "Zeekr Springwood",
+        "query": "Zeekr Springwood Slacks Creek QLD",
+        "state": "QLD"
+      },
+      {
+        "name": "Zeekr Sunshine Coast",
+        "query": "Zeekr Sunshine Coast Maroochydore QLD",
+        "state": "QLD"
+      },
+      {
+        "name": "Zeekr Gold Coast",
+        "query": "Zeekr Gold Coast Southport QLD",
+        "state": "QLD"
+      },
+      {
+        "name": "Zeekr Adelaide City",
+        "query": "Zeekr Adelaide SA",
+        "state": "SA"
+      },
+      {
+        "name": "Zeekr Perth",
+        "query": "Zeekr Perth Burswood WA",
+        "state": "WA"
+      }
     ]
   }
 }
