@@ -1,5 +1,179 @@
 [
  {
+  "id": "5af0b09a9fe77671",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/toyota-rav4-tops-carexperts-most-popular-new-cars-in-september-2026",
+  "title": "Toyota RAV4 tops CarExpert's most popular new cars in September 2026",
+  "text": "The Toyota RAV4 was the most popular new vehicle purchased through CarExpert in September 2026, climbing from eighth place two months ago to claim the top spot. It was followed by the Geely Starray EM-i , which moved up from seventh place in July to second last month, while the Hyundai Kona rounded out the top three. The Zeekr 7X placed fourth, ahead of the Toyota Prado , reflecting continued demand for a mix of established favourites and newer electrified models. Customers who purchased a new vehicle through CarExpert in September saved an average of $3484. Most popular new cars bought through CarExpert in September 2026: Toyota RAV4 Geely Starray EM-i Hyundai Kona (including Hybrid) Zeekr 7X Toyota Prado Mazda CX-5 Kia Sportage (including Hybrid) Isuzu D-Max Isuzu MU-X Toyota LandCruiser 300 Series The results show how quickly buyer preferences can shift, even over a relatively short period. The mid-year best-seller, the Jaecoo J5 , was absent from September's leading models, while the RAV4 made the biggest move up the rankings. The Geely Starray EM-i was another standout, finishing second in both customer enquiries and completed purchases. The Hyundai Kona also performed strongl",
+  "author": "CarExpert",
+  "published": "2026-10-13T20:30:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai",
+   "toyota",
+   "geely",
+   "mazda"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
+  "id": "3035d009d393e52d",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/new-hyundai-bayon-suv-hybrid-suv-australia-specs",
+  "title": "New Hyundai Bayon small SUV is revealed with hybrid power and complete design overhaul",
+  "text": "Hyundai's smallest European SUV has received a dramatic makeover, more technology and a new hybrid drivetrain to rival the Toyota Yaris Cross. The post New Hyundai Bayon small SUV is revealed with hybrid power and complete design overhaul first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-13T19:42:32+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
+  "id": "0c648b1890f77652",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/polestar-vegan-doesnt-mean-sustainable-when-it-comes-to-interior-design",
+  "title": "Polestar: 'Vegan' doesn't mean 'sustainable' when it comes to interior design",
+  "text": "Polestar's head of colours and materials says the Swedish brand won't be ditching animal-derived leathers any time soon, suggesting many 'vegan' upholsteries aren't all that sustainable. Speaking with CarExpert at the international media launch of the new Polestar 4 SUV , head of C&M (colour and material) design at Polestar Cars, Maria Uggla, argued the brand's sustainably sourced leather options are better for the environment than some plastic and crude oil-derived animal-free alternatives. \"I think it's not the customer who demands it,\" Ms Uggla said, addressing whether Polestar keeping leather on the menu was consumer-led or company-led. \"I think that we took a stance at the time when all OEM left leather, because I felt at that time it was a misconception, believing that being vegan and being sustainable is the same thing, and we didn't really see any alternative to the leather, and I mean, doing a vegan upholstery is plastic. \"It's either polyurethane or it's PVC, but it's plastic, and you have it mostly produced by using crude oil, and that you pump up and produce, and then instead of using the waste material from the food industry, and throw all hides away to landfill, which",
+  "author": "James Wong",
+  "published": "2026-10-13T19:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
+  "id": "b75c9f38a0039783",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · HackerNoon",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkJzMnRuMF92UDM3YVd0a1BSbk1pUFB1THJ3a2MzOThPUjJ1aXZRdkhVSlZYS1FfUXdiSkFpUWUxLThGYWRIVkhFczdaRmFzWC1xeG83RTI0TUpPVEJFUXpWQU5SM0t0OU1HaEpvMkRTdml6SUZyMlo2eEg3TWo5TXhXdy1BWjJEOGp3aWFhSWs3REFYem5pbFc0X0VrNHcwcldjaVhiVGJwczQ?oc=5",
+  "title": "AirConsole Partners With Zeekr to Take In-Car Gaming Into Geely's 4 Million-Car Group - HackerNoon",
+  "text": "AirConsole Partners With Zeekr to Take In-Car Gaming Into Geely's 4 Million-Car Group HackerNoon",
+  "author": "",
+  "published": "2026-10-13T18:50:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
+  "id": "b9dded977d55b32a",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pM1dOdGhHZS1hTy1Jd0IwNlJKZVdqT0VGb1FrZTlWUGUzemdEczNoeVdnMm1zaGdjTF9KdjJ2aEhqYUtEWkVQb0w4MzZFbC1kOVplTzFhOE40RXVLMFpMUA?oc=5",
+  "title": "BYD M9 Towing Capacity - CarsGuide",
+  "text": "BYD M9 Towing Capacity CarsGuide",
+  "author": "",
+  "published": "2026-10-13T18:19:04+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
   "id": "505794e8d4cc20cb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -66,6 +240,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "98a2330553273167",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TEpDcWJDYm5IaGdPako3TlRYTUhJVVlCQXRKTUVPc1k4Z3gtYVdwZUQ1d0g0MG1MOXFhSHlZckJYTEtIOGR2b2s5a0RJMGJ6Z3pRTXJoU1dTOUk4ZlBPVXJPLV9ac28?oc=5",
+  "title": "Mercedes-Benz GLB 2026 review: Australian first drive | Tesla Model Y L rival tested - CarsGuide",
+  "text": "Mercedes-Benz GLB 2026 review: Australian first drive | Tesla Model Y L rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-13T13:01:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
  },
  {
   "id": "25c1079e0e88b315",
@@ -434,6 +642,40 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "404f8ecafa96e61b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QQjVwQjVGX1doWHhqREVhLUhMTmEteTB3cUhLb2hfM3RxaWlsbWVta3B2Yl9hODUtZlEwLW5NUmc5SnZxN00wSXo3ZmstOG0yY0UwbVhhRQ?oc=5",
+  "title": "Zeekr unveils flagship SUV 9X at Paris Motor Show, accelerates European push - 헤럴드경제",
+  "text": "Zeekr unveils flagship SUV 9X at Paris Motor Show, accelerates European push 헤럴드경제",
+  "author": "",
+  "published": "2026-10-13T06:54:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
   "id": "89970244833c69b0",
   "type": "news_zeekr",
   "source": "chasingcars-zeekr",
@@ -782,6 +1024,45 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "668210c07797ef8e",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmhIbTFoZ0hjaW5aVGViQWlfbTA3NjNVSThWRTJweW90YTRObTJhVVZVbHVTOThwSTByazNpaWVxRGxMQ25RME1uYUtack5pOW5KanhtWVdPdlh5LWNKa1o3QnRjZHdPSTJnUkUtN3lPQjVDQzF6eXpjRkRoNzVZd0FFbFE0M2RNOXM1Ykd0S2txa2dpRmpWbWQ1RWFKLW1xVlRQYlFGU1FKTVk2LXBiWmxERm94cmtNMl94UnNuTQ?oc=5",
+  "title": "Bad news for Chinese EVs in Australia as price rises loom for 2026 Tesla Model Y, BYD Sealion 7 and Geely EX5 - CarsGuide",
+  "text": "Bad news for Chinese EVs in Australia as price rises loom for 2026 Tesla Model Y, BYD Sealion 7 and Geely EX5 CarsGuide",
+  "author": "",
+  "published": "2026-10-13T02:20:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "price_rise"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
  },
  {
   "id": "3a4fb0d45c65c6ec",
@@ -2916,7 +3197,7 @@
  {
   "id": "8a2e9f62484ba664",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYlBRVDRJTkpSY3lmU2Y0Y1hjZGU5VTFHNGFfZjNyMWlLMEtHZnlpMFlYNWtKUlZySU1sQ21HYThxNWUybzJXMzRpV2xheVVPanJXU2JuVHRLM2RQQlR2SmtnSjlSLXEyV1FJRHFzdTJEeHVBenFNMzdsWTAtSUZBUkpSeGcwc29TeTZHOHJ1c0FBaXA3ek9mQ2MxOTBsWlQ1U1REYUN5WFk3YnZkdlE1ZnRMVUtMTlNJU09RWkdFOTFSb1k?oc=5",
   "title": "An unlikely EV saviour has emerged, helping to boost sales of Zeekr 7X, Geely EX5 and BYD Sealion 7 | Opinion - CarsGuide",
@@ -2945,7 +3226,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -5063,6 +5344,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "96c409f62e5ffaa8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KdlVYXzZvTndfdGx6WkVQX2dCS0xsMXIzT09TUlQyT1dEcHZrQ1RvXzM3UjJxd0xDaEZBR1BYcVVKUzlidWJHU25HenV4b2xSOURWNmc2cmNQTVhuX1E?oc=5",
+  "title": "Tesla Model Y price, range and specs - EV Central",
+  "text": "Tesla Model Y price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-04T15:48:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T21:09:37+00:00"
+ },
+ {
   "id": "e0ac318a956cd266",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -5102,7 +5418,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1wwy60f/what_is_up_with_chinese_brands_and_the_incredibly/",
   "title": "What is up with Chinese Brands and the incredibly loud locking beeps?",
-  "text": "So I've noticed recently that Chinese cars have wildly loud beeps, you're in a carpark and you can hear it over traffic on the other side of the car park. I've noticed the main offenders seem to be Chery, Omoda, and Jaecoo, but I've noticed BYD and Denza are similar, not as loud as the Chery offerings, but still very loud. The Geely/ZEEKR/Volvo/Polestar models seem to be fine, they're not obnoxious, same as LDV/MG, they seem pretty ok. And it's no longer a quick toot of the horn, it's an incredibly high pitched \"Squeak Squeak\" I get having an audible thing, but why so incredibly loud. Went past one at the shops yesterday and the owner locked it, made my ears ring and tinnitus flare up and my toddler grabbed his ears and became very upset. It was uncomfortably loud. submitted by /u/That_Car_Dude_Aus [link] [comments]",
+  "text": "So I've noticed recently that Chinese cars have wildly loud beeps, you're in a carpark and you can hear it over traffic on the other side of the car park. I've noticed the main offenders seem to be Chery, Omoda, and Jaecoo, but I've noticed BYD and Denza are similar, not as loud as the Chery offerings, but still very loud. The Geely/ZEEKR/Volvo/Polestar models seem to be fine, they're not obnoxious, same as LDV/MG, they seem pretty ok. And it's no longer a quick toot of the horn, it's an incredibly high pitched \"Squeak Squeak\" I get having an audible thing, but why so incredibly loud. Went past one at the shops yesterday and the owner locked it, made my ears ring and tinnitus flare up and my toddler grabbed his ears and became very upset. It was uncomfortably loud.",
   "author": "/u/That_Car_Dude_Aus",
   "published": "2026-10-03T21:12:42+00:00",
   "rating": null,
@@ -6662,7 +6978,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1wr6u1k/confused_about_the_quotes_i_received_for_comp/",
   "title": "Confused about the quotes I received for Comp insurance. Curious to know how it actually works",
-  "text": "Genuine question, not being snarky. Got a quote for comprehensive insurance on 3 electric SUVS $130k new BMW iX3 : about $1200/yr. $85k new Zeekr 7xP : about $2100/yr $124k used Porsche Taycan (2024): cheapest was $7500/yr All other factors like excess, driver details, suburbs etc were the same. I currently have an EV and I know EVs come with a higher insurance cost, and I also get that Porsche has higher cost for parts etc but is it really quadruple the cost? NSW if relevant submitted by /u/Gal_gadonutt [link] [comments]",
+  "text": "Genuine question, not being snarky. Got a quote for comprehensive insurance on 3 electric SUVS $130k new BMW iX3 : about $1200/yr. $85k new Zeekr 7xP : about $2100/yr $124k used Porsche Taycan (2024): cheapest was $7500/yr All other factors like excess, driver details, suburbs etc were the same. I currently have an EV and I know EVs come with a higher insurance cost, and I also get that Porsche has higher cost for parts etc but is it really quadruple the cost? NSW if relevant",
   "author": "/u/Gal_gadonutt",
   "published": "2026-09-27T01:07:10+00:00",
   "rating": null,
@@ -9727,7 +10043,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1wezndd/hyundai_refused_a_test_drive_told_to_come_back/",
   "title": "Hyundai refused a test drive - told to come back when actually buying",
-  "text": "Ok I have been looking into the market to get a SUV for a family of three with a little bubba. Test drove tesla YL and zeekr 7x and was impressed how well made EV cars are these days. Realized I might want more space in the car (I am quite stressed about space with my current coupe sedan) and Santa fe might be a good candidate. So I went to Hyundai dealership the other day for a test drive and told them I would potentially purchase in 4 months. And they told me I cannot test drive then as things will change a lot in 4 months of time so there is no point of doing a test drive now???? They were happy to show me the car so I could sit in it but said I could come back for test drive when I am actually closer to buying one Mercedes, Zeekr and Tesla all of them let me test drive regardless of how many months later or even just drive out of curiosity. Hyundai.. let me test drive ... submitted by /u/getbywith [link] [comments]",
+  "text": "Ok I have been looking into the market to get a SUV for a family of three with a little bubba. Test drove tesla YL and zeekr 7x and was impressed how well made EV cars are these days. Realized I might want more space in the car (I am quite stressed about space with my current coupe sedan) and Santa fe might be a good candidate. So I went to Hyundai dealership the other day for a test drive and told them I would potentially purchase in 4 months. And they told me I cannot test drive then as things will change a lot in 4 months of time so there is no point of doing a test drive now???? They were happy to show me the car so I could sit in it but said I could come back for test drive when I am actually closer to buying one Mercedes, Zeekr and Tesla all of them let me test drive regardless of how many months later or even just drive out of curiosity. Hyundai.. let me test drive ...",
   "author": "/u/getbywith",
   "published": "2026-09-13T06:10:44+00:00",
   "rating": null,
@@ -16587,7 +16903,6 @@
   ],
   "competitors": [
    "byd-sealion7",
-   "byd-seal",
    "kia-ev9"
   ],
   "brands": [
@@ -17028,8 +17343,7 @@
    "7X"
   ],
   "competitors": [
-   "byd-sealion7",
-   "byd-seal"
+   "byd-sealion7"
   ],
   "brands": [
    "byd"
@@ -17060,7 +17374,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1tz8jp0/quarter_life_crisis_car/",
   "title": "Quarter life crisis car",
-  "text": "Looking to buy a new car, I drive to work everyday, 30min one trip. I prefer to buy a new car since I ain't a mechanic. Only able to drive auto. Currently driving a 2019 corolla, nothing wrong with it. Budget:120k I wonder what car at this budget what car would scream 'fuckboy car' Thought about the seal wagon or waiting for the denza and zeekr wagons. Also thought about the Mercedes CLE, or a V8 Mustang. Not sure if a Merc or ford are overpriced. Any advice would be great! submitted by /u/PANDA9530 [link] [comments]",
+  "text": "Looking to buy a new car, I drive to work everyday, 30min one trip. I prefer to buy a new car since I ain't a mechanic. Only able to drive auto. Currently driving a 2019 corolla, nothing wrong with it. Budget:120k I wonder what car at this budget what car would scream 'fuckboy car' Thought about the seal wagon or waiting for the denza and zeekr wagons. Also thought about the Mercedes CLE, or a V8 Mustang. Not sure if a Merc or ford are overpriced. Any advice would be great!",
   "author": "/u/PANDA9530",
   "published": "2026-06-07T10:29:31+00:00",
   "rating": null,
@@ -18045,7 +18359,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1tfduhk/while_some_chinese_brands_like_byd_zeekr_and/",
   "title": "While some Chinese brands like BYD, Zeekr, and Chery are growing their share in Australia, others are not so lucky",
-  "text": "submitted by /u/kstetter [link] [comments]",
+  "text": "",
   "author": "/u/kstetter",
   "published": "2026-05-17T03:22:34+00:00",
   "rating": null,
@@ -18185,7 +18499,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1tctdy0/is_it_over_for_genesis_australia_when_zeekr_drops/",
   "title": "Is it over for Genesis Australia when Zeekr drops their 8X and 9X cars?",
-  "text": "Genesis Australia has been quietly struggling for years, but the arrival of Zeekr’s 8X and 9X could be the final blow. With just 464 total sales in the first four months of 2026, a GV60 that has sold 3 cars all year, and Zeekr already outselling the entire Genesis lineup 6:1 with just one model, the numbers tell a brutal story. The 8X and 9X haven’t even landed yet. submitted by /u/DarkFourze [link] [comments]",
+  "text": "Genesis Australia has been quietly struggling for years, but the arrival of Zeekr’s 8X and 9X could be the final blow. With just 464 total sales in the first four months of 2026, a GV60 that has sold 3 cars all year, and Zeekr already outselling the entire Genesis lineup 6:1 with just one model, the numbers tell a brutal story. The 8X and 9X haven’t even landed yet.",
   "author": "/u/DarkFourze",
   "published": "2026-05-14T09:51:22+00:00",
   "rating": null,
@@ -18231,8 +18545,7 @@
   ],
   "competitors": [
    "byd-sealion7",
-   "geely-ex5",
-   "byd-seal"
+   "geely-ex5"
   ],
   "brands": [
    "kia",
@@ -18264,7 +18577,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1taexjz/the_next_denza_suv_could_be_a_zeekr_7x_challenger/",
   "title": "The next Denza SUV could be a Zeekr 7X challenger",
-  "text": "submitted by /u/kstetter [link] [comments]",
+  "text": "",
   "author": "/u/kstetter",
   "published": "2026-05-11T20:11:11+00:00",
   "rating": null,
@@ -18393,7 +18706,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1t40d53/zeekr_says_its_7x_electric_suv_could_become_a/",
   "title": "Zeekr Says Its 7X Electric SUV Could Become A 2000-A-Month Hit In Australia",
-  "text": "submitted by /u/AUFalconUte [link] [comments]",
+  "text": "",
   "author": "/u/AUFalconUte",
   "published": "2026-05-05T00:53:33+00:00",
   "rating": null,
@@ -18462,7 +18775,7 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1szq9pz/ceramic_coating_sydney/",
   "title": "Ceramic Coating - SYDNEY",
-  "text": "Hey all, new to Sydney. Live in the Castle Hills area. Can anyone recommend a good shop for Ceramic Coating the entire car and Tint for the windows? Further to that, this is my first car. So I’m not sure what is a “good product”. I see so many shops using all sorts of different brand products. Super confused! Car : Zeekr 7X Yes, I’ve googled and found a lot of places, but would like some personal recommendations (from strangers on Reddit, yes, again - I’m new here!) submitted by /u/Just-Afternoon6979 [link] [comments]",
+  "text": "Hey all, new to Sydney. Live in the Castle Hills area. Can anyone recommend a good shop for Ceramic Coating the entire car and Tint for the windows? Further to that, this is my first car. So I’m not sure what is a “good product”. I see so many shops using all sorts of different brand products. Super confused! Car : Zeekr 7X Yes, I’ve googled and found a lot of places, but would like some personal recommendations (from strangers on Reddit, yes, again - I’m new here!)",
   "author": "/u/Just-Afternoon6979",
   "published": "2026-04-30T08:39:02+00:00",
   "rating": null,
@@ -18495,15 +18808,14 @@
   "source_name": "Reddit r/CarsAustralia",
   "url": "https://www.reddit.com/r/CarsAustralia/comments/1st073d/first_family_car_suggestions/",
   "title": "First Family car suggestions?",
-  "text": "Hi All, Looking at starting a family shortly and me n wife just share the one car for now. Looking for something for her around the $30-50k mark(can stretch upwards), preferably something nicer like a used X5. I’ve been interested in leasing an EV for tax benefits but I job hop often, so worried about those implications. So far I’ve test driven a BYD sealion 7 which I really liked, and a Hyundai Tucson which felt a bit light and cheap. Important for me is reliability as I don’t have time to be taking it to the shop often, I’d prefer something more fuel efficient and somewhat fun! Thanks EDIT: The X5 was just an example geez I didn’t realise how much people here hate them lol. I’ve booked in test drives with Zeekr, Mazda for the Cx90 submitted by /u/daOnetogetDafit [link] [comments]",
+  "text": "Hi All, Looking at starting a family shortly and me n wife just share the one car for now. Looking for something for her around the $30-50k mark(can stretch upwards), preferably something nicer like a used X5. I’ve been interested in leasing an EV for tax benefits but I job hop often, so worried about those implications. So far I’ve test driven a BYD sealion 7 which I really liked, and a Hyundai Tucson which felt a bit light and cheap. Important for me is reliability as I don’t have time to be taking it to the shop often, I’d prefer something more fuel efficient and somewhat fun! Thanks EDIT: The X5 was just an example geez I didn’t realise how much people here hate them lol. I’ve booked in test drives with Zeekr, Mazda for the Cx90",
   "author": "/u/daOnetogetDafit",
   "published": "2026-04-22T22:19:23+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
   "competitors": [
-   "byd-sealion7",
-   "byd-seal"
+   "byd-sealion7"
   ],
   "brands": [
    "hyundai",

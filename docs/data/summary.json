@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-13T15:51:31+00:00",
- "duration_s": 141.9,
- "items_total": 534,
- "new_this_run": 238,
+ "generated": "2026-10-13T21:09:37+00:00",
+ "duration_s": 190.7,
+ "items_total": 543,
+ "new_this_run": 208,
  "counts": {
   "complaints_24h": 2,
-  "complaints_7d": 7,
-  "complaints_30d": 37,
+  "complaints_7d": 6,
+  "complaints_30d": 36,
   "high_7d": 2,
-  "medium_7d": 3,
+  "medium_7d": 2,
   "low_7d": 2,
-  "competitor_news_7d": 56,
-  "launch_signals_7d": 15,
+  "competitor_news_7d": 61,
+  "launch_signals_7d": 16,
   "offer_signals_7d": 0,
   "zeekr_news_7d": 40,
   "offer_page_changes_7d": 2
@@ -140,7 +140,7 @@
   {
    "date": "2026-10-04",
    "complaints": 1,
-   "competitor_news": 0,
+   "competitor_news": 1,
    "zeekr_news": 0
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-13",
    "complaints": 1,
-   "competitor_news": 16,
-   "zeekr_news": 10
+   "competitor_news": 21,
+   "zeekr_news": 13
   }
  ],
  "categories_30d": [
@@ -255,8 +255,8 @@
   "7GT": 2
  },
  "sources_30d": {
-  "Google Play (AU)": 14,
   "Reddit r/Zeekr7xAustralia": 13,
+  "Google Play (AU)": 13,
   "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3
@@ -317,12 +317,12 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 4,
+   "n_30d": 7,
    "launch": [
     "8b84f73c39185863"
    ],
    "offer": [],
-   "latest": "041524fd12f15293"
+   "latest": "98a2330553273167"
   },
   "xpeng-g6": {
    "n_30d": 0,
@@ -331,12 +331,12 @@
    "latest": null
   },
   "byd-sealion7": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [],
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "2378a7f58ba29766"
+   "latest": "668210c07797ef8e"
   },
   "kia-ev5": {
    "n_30d": 0,
@@ -361,15 +361,16 @@
    "latest": "3e3f285c9229d77a"
   },
   "polestar-4": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
+    "0c648b1890f77652",
     "b5320554ddc5f545",
     "ef422204f206a3de"
    ],
    "offer": [
     "ef422204f206a3de"
    ],
-   "latest": "b5320554ddc5f545"
+   "latest": "0c648b1890f77652"
   },
   "volvo-ex40": {
    "n_30d": 0,
@@ -436,12 +437,12 @@
    "latest": "3e3f285c9229d77a"
   },
   "geely-ex5": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "a733988169d48563"
    ],
    "offer": [],
-   "latest": "2378a7f58ba29766"
+   "latest": "668210c07797ef8e"
   },
   "tesla-model-3": {
    "n_30d": 0,
@@ -557,12 +558,12 @@
    "latest": null
   },
   "byd-m9": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "2c8e385c13663939"
    ],
    "offer": [],
-   "latest": "2c8e385c13663939"
+   "latest": "b9dded977d55b32a"
   },
   "wey-g9": {
    "n_30d": 0,
@@ -743,6 +744,16 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "0c648b1890f77652",
+   "title": "Polestar: 'Vegan' doesn't mean 'sustainable' when it comes to interior design",
+   "source": "CarExpert",
+   "t": "2026-10-13T19:00:00+00:00",
+   "competitors": [
+    "polestar-4"
+   ]
+  },
+  {
    "kind": "offer_page_change",
    "id": "c1117725e6b413b3",
    "title": "MG / IM 官网政策页面变化（+0 / −12 行）",
@@ -878,16 +889,6 @@
    "competitors": [
     "polestar-4"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "20e01fbcd796f263",
-   "title": "Jetour G700: Australia-bound LandCruiser rival updated as Chinese brand heads upmarket",
-   "source": "CarExpert",
-   "t": "2026-10-10T21:00:00+00:00",
-   "competitors": [
-    "denza-b8"
-   ]
   }
  ],
  "source_status": {
@@ -898,7 +899,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 32,
+   "count": 33,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -928,27 +929,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 41,
+   "count": 40,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 23,
+   "count": 22,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 48,
+   "count": 49,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 22,
+   "count": 23,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 56,
+   "count": 60,
    "note": ""
   },
   "carexpert": {
@@ -957,14 +958,14 @@
    "note": ""
   },
   "thedriven": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
   },
   "thedriven-zeekr": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
   },
   "evcentral": {
    "ok": true,
@@ -1027,24 +1028,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1078,7 +1079,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1123,7 +1124,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
+   "count": 31,
    "note": "changed"
   },
   "offers-mazda": {
