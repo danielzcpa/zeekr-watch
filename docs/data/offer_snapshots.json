@@ -1,0 +1,400 @@
+{
+ "volvo": {
+  "last_error": "HTTP 403",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "kia": {
+  "key": "kia",
+  "brand": "Kia",
+  "url": "https://www.kia.com/au/offers.html",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "2cc621be6a20efbc",
+  "money": [
+   1000,
+   2000,
+   5000,
+   33490,
+   54990
+  ],
+  "n_lines": 27,
+  "lines": [
+   "If you tick the box, you also consent to your information being used by KIA and its dealers and related entities so that we can send you direct marketing communications which may be of interest to you, including updates and special offers.",
+   "Latest Offers & Deals from Kia",
+   "Drive Away estimate from",
+   "$33,490 Plus $2,000 Cashback",
+   "Receive $2,000 cashback",
+   "1.88% p.a. Comparison Rate* or $2,000 Cashback Offer^",
+   "Two offers. Your choice.",
+   "Choose a $2,000 cashback^ with Kia Australia, redeemable as a price reduction only, when you purchase and take delivery of an in-stock new or demo Kia EV5 in September or October. Or choose a 1.88% p.a. comparison rate* with a Kia Finance loan on in-stock new or demo Kia EV5 models. Max term 36 months. 20% deposit required.",
+   "1.88% p.a. Comparison Rate* or $1,000 Cashback Offer^",
+   "Choose a $1,000 cashback^ with Kia Australia, redeemable as a price reduction only, when you purchase and take delivery of an in-stock new or demo Kia EV3 in September or October. Or choose a 1.88% p.a. comparison rate* with a Kia Finance loan on in-stock new or demo Kia EV3 models. Max term 36 months. 20% deposit required.",
+   "5 Free Scheduled Services",
+   "Receive 5 free scheduled services",
+   "$54,990 Plus $5,000 Cashback Offer",
+   "On top of a great drive away price, receive $5,000 cashback",
+   "Capable, comfortable, captivating. Reinvigorate your drive with the turbocharged Sorento HEV, offering impressive power and control.",
+   "NO OFFERS WERE FOUND",
+   "#K4 & Tasman SX+ Cashback Offer",
+   "Drive Away Offer",
+   "Drive Away Offer for ABN holders",
+   "2. The vehicles that are eligible for the offer are listed below.",
+   "3. The offer covers the capped price of the vehicle’s first five standard scheduled services only. The offer does not cover the cost of any of the following:",
+   "4. The five free scheduled services must be carried out at an authorised Kia dealer in accordance with the applicable time and kilometre (whichever occurs first) scheduled maintenance requirements, as set out in the Owner’s Manual for the vehicle.",
+   "5. The offer is assigned to the vehicle and not the owner. The offer is transferable to subsequent owners of the vehicle but cannot be transferred to another vehicle.",
+   "6. The offer is not exchangeable or redeemable for cash. No refunds or discounts will be issued if any free scheduled services are missed or not claimed.",
+   "7. The offer is available to private and business buyers only. It is not available to fleet, government or rental buyers or in conjunction with other offers unless stated otherwise.",
+   "Kia Australia reserves the right to vary, extend or withdraw the offer at any time.",
+   "*^EV3 & EV5 Cashback & Finance Offers"
+  ]
+ },
+ "polestar": {
+  "key": "polestar",
+  "brand": "Polestar",
+  "url": "https://www.polestar.com/au/offers/",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "b63bf4a3afa4b4a9",
+  "money": [],
+  "n_lines": 11,
+  "lines": [
+   "Current offers and deals",
+   "Find the latest Polestar offers in Australia, including leasing and finance options. Browse offers for private, retail customers and businesses.",
+   "Business offers",
+   "View all business offers",
+   "Retail offers",
+   "View all private offers",
+   "What's the difference between business, private and pre-owned offers?",
+   "Can I combine multiple offers or stack discounts?",
+   "Our offers are all unique, you can find out if offers can be combined in the terms and conditions of each of our offers.Â",
+   "Are the same offers available online and in a Polestar Space?",
+   "Our Polestar spaces have access to the same offers that we publish on our website."
+  ]
+ },
+ "mini": {
+  "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "mg": {
+  "key": "mg",
+  "brand": "MG / IM",
+  "url": "https://mgmotor.com.au/offers",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "9b9dd34a8f3bfe74",
+  "money": [
+   1000,
+   2000,
+   3000,
+   4000,
+   5000,
+   6000,
+   8000
+  ],
+  "n_lines": 19,
+  "lines": [
+   "Latest Offers",
+   "2025 Build Plate Clearance Offers",
+   "Current Offers",
+   "MG latest deals and offers",
+   "Additional discounts on select new 2025 build MG models. While stocks last.",
+   "∞ Cashback offer and Plate Clearance available on selected vehicles sold from participating MG Dealers between 01 Oct to 31 Oct 2026 and delivered between 01 Oct to 31 Oct 2026.",
+   "Cashback offers are as follows:",
+   "$500 Cashback on MG3 HYBRID+ MY26; ZS 1.5L Turbo Essence (MY26 & MY26.5)",
+   "$1000 Cashback on MG3 Vibe; MG ZS 1.5L Turbo Vibe (MY26); MG ZS 1.5L Turbo Excite (MY26.5); MG ZS HYBRID+ and MGU9",
+   "$2000 Cashback on MG4 EV Urban, MGS5 EV, HS and QS",
+   "$3000 Cashback on IM5, IM6 and HS HYBRID+",
+   "$6000 Cashback on HS SUPER HYBRID",
+   "Plate clearance cashback are as follows:",
+   "$1000 Cashback on MG3 Excite 25 Build and MG3 Essence 25 Build",
+   "$2000 Cashback on MG3 HYBRID+ Excite 25 Build and MG3 HYBRID+ Essence 25 Build",
+   "$4000 Cashback on QS",
+   "$5000 Cashback on HS Petrol 25 Build and HS HYBRID+ Excite 25 Build",
+   "$6000 Cashback on HS HYBRID+ Essence 25 Build",
+   "$8000 Cashback on HS SUPER HYBRID 25 Build"
+  ]
+ },
+ "mazda": {
+  "key": "mazda",
+  "brand": "Mazda",
+  "url": "https://www.mazda.com.au/offers/",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "4bd3ee645fc40ef9",
+  "money": [
+   1000,
+   2000,
+   43990
+  ],
+  "n_lines": 15,
+  "lines": [
+   "Mazda offers",
+   "Explore the latest offers and deals available across the Mazda range.",
+   "Get an unmissable offer this M-Day Saturday October 17 - your first 3 scheduled services free* across the Mazda Range.",
+   "Plus, on M-Day, get a $1,000 deposit bonus^ for new and demo vehicles with Mazda Finance at participating Mazda dealers",
+   "Novated Lease $2,000 Cashback Offer",
+   "Cashback if you purchase a new Mazda 6e or Mazda CX-6e from your local dealer using a novated lease.",
+   "Eligible customers who purchase and take delivery of a new Mazda 6e or Mazda CX-6e between 1st October 2026 and 31st December 2026 through a novated lease can receive $2,000 cashback.",
+   "The All-Electric Mazda 6e & Mazda CX-6e Driveaway Offers",
+   "Great driveaway offers across the All-New, All-Electric Mazda EV Range.",
+   "DRIVEAWAY OFFERS",
+   "Great driveaway offers across a wide range of Mazda vehicles are on now.",
+   "Mazda CX-5 G25 Pure now from $43,990",
+   "Driveaway pricing only valid on CX-5 Pure model. Premium paint not included. Terms, conditions & exclusions apply.",
+   "Mazda Finance",
+   "Mazda Finance Portal"
+  ]
+ },
+ "mercedes": {
+  "last_error": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "landrover": {
+  "key": "landrover",
+  "brand": "Land Rover",
+  "url": "https://www.landrover.com.au/offers-and-finance/index.html",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "b3695b7a09c46c35",
+  "money": [],
+  "n_lines": 15,
+  "lines": [
+   "Offers And Finance",
+   "Finance Explained",
+   "Finance calculator",
+   "We make buying or leasing your Land Rover simple, flexible and efficient. Choose from our range of finance products, and offers - all designed to match your purchasing needs.",
+   "PERSONAL FINANCE",
+   "BUSINESS FINANCE",
+   "PERSONAL FINANCE OPTIONS",
+   "Whether you’re looking for a Consumer Loan to help you purchase your new Land Rover outright, or a Novated Lease through your salary package, the choice is yours. Finance options available to approved applicants. Fees and eligibility criteria apply.",
+   "With tailored financed solutions available, a consumer loan could be the perfect solution to experience the thrill of a brand new Land Rover. Enjoy 100% finance for approved customers, fix your interest rate, choose the term of your loan and customise your repayment.",
+   "COMMERCIAL FINANCE OPTIONS",
+   "From the self-employed to large corporations — there’s a Land Rover Financial Services solution for every business. Our financial business products can help your company meet your business finance needs.",
+   "FINANCE LEASE",
+   "AVAILABLE OFFERS",
+   "Visit our Finance Calculator to estimate your weekly payment for our range of vehicles.",
+   "We look forward to hearing from you, whether you’re looking to invest in your first Land Rover, or you’re an existing Land Rover Financial Services customer and have a question about your finance."
+  ]
+ },
+ "audi": {
+  "last_error": "HTTP 403",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "byd": {
+  "key": "byd",
+  "brand": "BYD",
+  "url": "https://www.byd.com.au/offers",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "da39a3ee5e6b4b0d",
+  "money": [],
+  "n_lines": 0,
+  "lines": []
+ },
+ "hyundai": {
+  "key": "hyundai",
+  "brand": "Hyundai",
+  "url": "https://www.hyundai.com/au/en/offers",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "15b1728c9b6e3425",
+  "money": [],
+  "n_lines": 8,
+  "lines": [
+   "Latest Offers",
+   "Hyundai Finance®",
+   "Explore our car offers and more on this page. You can also chat to the Hyundai dealers at your nearest showroom for personalised service and advice.",
+   "Replacing your car earlier might actually save you money.",
+   "Read more — Replacing your car earlier might actually save you money.",
+   "Explore car finance deals.",
+   "Learn more — Explore car finance deals.",
+   "View latest offers"
+  ]
+ },
+ "tesla-my": {
+  "last_error": "HTTP 403",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "tesla-m3": {
+  "last_error": "HTTP 403",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "xpeng": {
+  "key": "xpeng",
+  "brand": "Xpeng",
+  "url": "https://shop.xpeng.com.au/",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "a091a65391c5fd6c",
+  "money": [],
+  "n_lines": 1,
+  "lines": [
+   "Be the first to hear about new models, exclusive offers, test drive events, and the future of smart mobility."
+  ]
+ },
+ "smart": {
+  "key": "smart",
+  "brand": "smart",
+  "url": "https://www.smart.com.au/",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "9690b0ac8f1f2e9a",
+  "money": [
+   91661
+  ],
+  "n_lines": 11,
+  "lines": [
+   "Start saving on tax",
+   "Whether saving for your first home or counting down to retirement, you could save on tax by making extra super contributions.",
+   "Save tax on a tablet, laptop or phone",
+   "You may be able to salary package a device you use mainly for work, helping you save on staying connected.",
+   "Also called ‘salary sacrificing’, salary packaging is an arrangement with your employer that can help you save on income tax.",
+   "makes it simple for you to access benefits and maximise your tax savings.",
+   "Find out what benefits are available in your industry and what your employer offers, then apply.",
+   "See what you could save by salary packaging a car.",
+   "Click on your industry to see where you could make tax savings.",
+   "^ Fringe Benefits Tax (FBT) exemption available for eligible electric or hydrogen cell vehicles purchased through a novated lease up to the Luxury Car Tax limit ($91,661 in FY 2026-27). See the Australian Taxation Office website for full eligibility criteria.",
+   "A portable electronic device can only be salary packaged if it is used primarily (over 50%) for work purposes. Self-education or professional education does not count towards work use."
+  ]
+ },
+ "leapmotor": {
+  "key": "leapmotor",
+  "brand": "Leapmotor",
+  "url": "https://www.leapmotor.com.au/",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "da39a3ee5e6b4b0d",
+  "money": [],
+  "n_lines": 0,
+  "lines": []
+ },
+ "deepal": {
+  "key": "deepal",
+  "brand": "Deepal",
+  "url": "https://www.deepal.com.au/",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "6f4440b89b36719a",
+  "money": [],
+  "n_lines": 5,
+  "lines": [
+   "Special Offers",
+   "The DEEPAL S05 is designed for drivers seeking effortless urban mobility in a compact SUV format, while still offering the space and versatility needed for weekend adventures. Its agile size and smart packaging make it ideal for navigating city streets without compromising practicality.",
+   "The E07 AWD Performance offers an elevated driving experience with 440 kW of power, 645 Nm of torque, and an impressive 3.96-second 0–100 km/h sprint. With a 510 km WLTP range, 800 V fast-charging technology, and advanced all-wheel traction, it’s built for those who demand maximum capability.",
+   "The E07 RWD delivers smooth, confident performance with 252 kW of power, a 550 km WLTP range, and rapid 30–80% DC charging in just 15 minutes. Its 800 V architecture, 6.7-second 0–100 km/h acceleration, and refined suspension make it a capable multitruck for work and everyday use.",
+   "Enter your email address to become connected with DEEPAL Australia and receive the latest information on our exciting range, special offers, and upcoming events."
+  ]
+ },
+ "lexus": {
+  "last_error": "HTTP 403",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "bmw": {
+  "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
+  "last_attempt": "2026-10-13T05:08:24+00:00",
+  "lines": []
+ },
+ "zecar-offers": {
+  "key": "zecar-offers",
+  "brand": "Zecar (全品牌政策汇总)",
+  "url": "https://zecar.com/offers-and-deals",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "4fbcef9f211a66e5",
+  "money": [
+   2000,
+   2950,
+   3000,
+   4000,
+   6000,
+   7204,
+   19990,
+   28888,
+   30990,
+   33990,
+   34990,
+   35990,
+   39990,
+   42990,
+   50990,
+   51900,
+   52990,
+   55990,
+   57990
+  ],
+  "n_lines": 38,
+  "lines": [
+   "Offers and Deals",
+   "· 37 active offers",
+   "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
+   "Search Offers",
+   "Geely 0.09% p.a. Finance Offer on EX5, EX2 and Starray EM-i",
+   "Geely is offering 0.09% p.a. comparison rate finance with no deposit on the EX5, EX2 and Starray EM-i, over a 36-month term with no balloon. Novated lease buyers can instead get 6% off the vehicle price. Finance must be approved by 31 October 2026 and settled by 13 November 2026. New stock only. Government, fleet and rental buyers are excluded. Conditions apply.",
+   "Audi Q6 e-tron Novated Lease From $254 Per Week",
+   "Chery E5 October Drive Away Pricing Plus 0.70% Finance",
+   "Chery is offering October drive away pricing on the E5 Ultimate alongside a 0.70% comparison rate finance deal requiring a 10% deposit over 36 months. Chery quotes drive away pricing by postcode rather than as a single national figure, so you need to run your own postcode to see the number. The offer runs to 31 October 2026 at participating Chery dealers. Finance to approved applicants only.",
+   "GWM PHEV Drive Away Offers: Cannon Alpha, Tank 300 and Tank 500",
+   "Vehicle Discount",
+   "Nissan ARIYA October 2026 Driveaway Offer: From $42,990 Driveaway",
+   "GWM ORA 5 Free 7kW Home Charger: From $33,990 Drive Away",
+   "IM5 $3,000 Cashback Plus $500 Accessories Bonus: From $57,990 Drive Away",
+   "GWM PHEV 0.88% p.a. Finance Offer (2.71% Comparison Rate)",
+   "IM6 $3,000 Cashback Plus $500 Accessories Bonus: From $57,990 Drive Away",
+   "MGS5 EV $2,000 Cashback: From $39,990 Drive Away",
+   "Volvo EX30 From $55,990 Drive Away",
+   "Volvo is holding the EX30 at $55,990 drive away on the base Plus Single Motor Extended Range. The offer applies to vehicles ordered and delivered between 1 May and 31 October 2026 and is subject to stock availability. A separate Volvo Showcase October Event runs at participating retailers through the same month. Excludes government, fleet, and rental buyers.",
+   "Tesla Inventory Discount: Up to $2950 Off Model 3 and Model Y",
+   "Tesla Australia is taking about 5% off new Model 3 and Model Y cars already in its inventory, worth up to $2950 on a Model Y Premium Rear-Wheel Drive. The cars are pre-built stock without the new MY27 upgrades, so they can usually be delivered sooner than a factory order.",
+   "MG HS Super Hybrid $6,000 Cashback: From $42,990 Drive Away",
+   "BYD Dolphin Essential $28,888 Driveaway Offer",
+   "BYD Atto 1 Essential $19,990 Driveaway Offer (Up to $7,204 in Savings)",
+   "The BYD Atto 1 Essential is available at $19,990 driveaway, making it Australia's cheapest new car on sale, EV or petrol. The offer is available until 15 December 2026, with the vehicle needing to be delivered by 31 December 2026. The 5% novated lease offer cannot be stacked on top of this price.",
+   "BYD Sealion 8 $4,000 Cashback: From $52,990 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Sealion 8 Dynamic FWD, Dynamic AWD and Premium AWD seven-seat plug-in hybrid SUVs. That brings the range down to an effective $52,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
+   "BYD Sealion 7 $4,000 Cashback: From $50,990 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Sealion 7 Premium and Performance electric SUVs. That brings the range down to an effective $50,990 before on-road costs. Novated lease buyers can take a 6% discount instead. Orders must be placed between 1 October and 21 December 2026.",
+   "BYD Shark 6 $4,000 Cashback: From $51,900 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Shark 6 Dynamic Cab Chassis, Premium and Performance plug-in hybrid utes. That brings the range down to an effective $51,900 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
+   "BYD Seal 6 $4,000 Cashback: From $30,990 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Seal 6 Essential plug-in hybrid sedan. That brings the $34,990 list price down to an effective $30,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
+   "BYD Seal 6 Touring $4,000 Cashback: From $35,990 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Seal 6 Touring Premium plug-in hybrid wagon. That brings the $39,990 list price down to an effective $35,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
+   "We'll email you when a new offer goes live.",
+   "Are there EV rebates or incentives in Australia in 2026?",
+   "When do EV offers usually expire?"
+  ]
+ },
+ "thebeep-offers": {
+  "key": "thebeep-offers",
+  "brand": "The Beep (全品牌政策汇总)",
+  "url": "https://thebeep.com.au/offers-and-deals",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "025dcc47776d61ec",
+  "money": [
+   49990
+  ],
+  "n_lines": 6,
+  "lines": [
+   "New car offers and deals",
+   "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
+   "Junior Driveaway",
+   "The all-new Alfa Romeo Junior Ibrida is now available from $49,990 driveaway. Take advantage of this offer on new and demonstrator Junior Ibrida Series 0 vehicles with premium paint and sunroof.",
+   "Alfa Romeo is celebrating its Italian heritage with limited edition Tributo Italiano versions of the Tonale, Stelvio and Giulia. These special models feature exclusive Italian flag-inspired colors, black roof accents, Brembo brakes and premium leather interiors with red stitching. Limited to just 60 units nationwide, they offer a mix of style, performance and exclusivity for Alfa enthusiasts.",
+   "Discover exceptional savings on a select range of Alfa Romeo Veloce demonstrator models. Crafted with Italian passion and precision, Veloce delivers thrilling turbocharged performance, luxurious interiors and timeless design, engineered to ignite your senses."
+  ]
+ },
+ "zeekr-offers-zecar": {
+  "key": "zeekr-offers-zecar",
+  "brand": "Zeekr (Zecar)",
+  "url": "https://zecar.com/offers-and-deals/zeekr",
+  "fetched": "2026-10-13T05:08:24+00:00",
+  "digest": "a04f3f3b99adf262",
+  "money": [
+   6056
+  ],
+  "n_lines": 6,
+  "lines": [
+   "Offers and Deals",
+   "Compare the latest Zeekr electric vehicle deals and offers in Australia. See Zeekr discounts, rebates, charging packages and finance offers, updated regularly.",
+   "Search Offers",
+   "New ZEEKR X MY26 Launch Offer: Premium Upgrades Included (Up to $6,056 in Value)",
+   "Vehicle Discount",
+   "We'll email you when a new offer goes live."
+  ]
+ }
+}

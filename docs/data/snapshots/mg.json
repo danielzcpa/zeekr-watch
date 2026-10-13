@@ -1,0 +1,38 @@
+{
+ "key": "mg",
+ "brand": "MG / IM",
+ "url": "https://mgmotor.com.au/offers",
+ "fetched": "2026-10-13T05:08:24+00:00",
+ "digest": "9b9dd34a8f3bfe74",
+ "lines": [
+  "Latest Offers",
+  "2025 Build Plate Clearance Offers",
+  "Current Offers",
+  "MG latest deals and offers",
+  "Additional discounts on select new 2025 build MG models. While stocks last.",
+  "∞ Cashback offer and Plate Clearance available on selected vehicles sold from participating MG Dealers between 01 Oct to 31 Oct 2026 and delivered between 01 Oct to 31 Oct 2026.",
+  "Cashback offers are as follows:",
+  "$500 Cashback on MG3 HYBRID+ MY26; ZS 1.5L Turbo Essence (MY26 & MY26.5)",
+  "$1000 Cashback on MG3 Vibe; MG ZS 1.5L Turbo Vibe (MY26); MG ZS 1.5L Turbo Excite (MY26.5); MG ZS HYBRID+ and MGU9",
+  "$2000 Cashback on MG4 EV Urban, MGS5 EV, HS and QS",
+  "$3000 Cashback on IM5, IM6 and HS HYBRID+",
+  "$6000 Cashback on HS SUPER HYBRID",
+  "Plate clearance cashback are as follows:",
+  "$1000 Cashback on MG3 Excite 25 Build and MG3 Essence 25 Build",
+  "$2000 Cashback on MG3 HYBRID+ Excite 25 Build and MG3 HYBRID+ Essence 25 Build",
+  "$4000 Cashback on QS",
+  "$5000 Cashback on HS Petrol 25 Build and HS HYBRID+ Excite 25 Build",
+  "$6000 Cashback on HS HYBRID+ Essence 25 Build",
+  "$8000 Cashback on HS SUPER HYBRID 25 Build"
+ ],
+ "money": [
+  1000,
+  2000,
+  3000,
+  4000,
+  5000,
+  6000,
+  8000
+ ],
+ "n_lines": 19
+}

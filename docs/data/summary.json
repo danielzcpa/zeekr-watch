@@ -1,0 +1,1146 @@
+{
+ "generated": "2026-10-13T05:07:33+00:00",
+ "duration_s": 52.3,
+ "items_total": 480,
+ "new_this_run": 112,
+ "counts": {
+  "complaints_24h": 1,
+  "complaints_7d": 6,
+  "complaints_30d": 38,
+  "high_7d": 2,
+  "medium_7d": 3,
+  "low_7d": 1,
+  "competitor_news_7d": 52,
+  "launch_signals_7d": 15,
+  "offer_signals_7d": 0,
+  "zeekr_news_7d": 28,
+  "offer_page_changes_7d": 0
+ },
+ "series_30d": [
+  {
+   "date": "2026-09-14",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-09-15",
+   "complaints": 1,
+   "competitor_news": 1,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-09-16",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-09-17",
+   "complaints": 2,
+   "competitor_news": 0,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-09-18",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-09-19",
+   "complaints": 4,
+   "competitor_news": 0,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-09-20",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-09-21",
+   "complaints": 2,
+   "competitor_news": 0,
+   "zeekr_news": 3
+  },
+  {
+   "date": "2026-09-22",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-09-23",
+   "complaints": 2,
+   "competitor_news": 0,
+   "zeekr_news": 3
+  },
+  {
+   "date": "2026-09-24",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-09-25",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-09-26",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-09-27",
+   "complaints": 2,
+   "competitor_news": 0,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-09-28",
+   "complaints": 2,
+   "competitor_news": 0,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-09-29",
+   "complaints": 3,
+   "competitor_news": 0,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-09-30",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-10-01",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-10-02",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-10-03",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-10-04",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 0
+  },
+  {
+   "date": "2026-10-05",
+   "complaints": 1,
+   "competitor_news": 0,
+   "zeekr_news": 1
+  },
+  {
+   "date": "2026-10-06",
+   "complaints": 1,
+   "competitor_news": 1,
+   "zeekr_news": 4
+  },
+  {
+   "date": "2026-10-07",
+   "complaints": 1,
+   "competitor_news": 2,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-10-08",
+   "complaints": 1,
+   "competitor_news": 7,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-10-09",
+   "complaints": 1,
+   "competitor_news": 4,
+   "zeekr_news": 3
+  },
+  {
+   "date": "2026-10-10",
+   "complaints": 0,
+   "competitor_news": 5,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-10-11",
+   "complaints": 1,
+   "competitor_news": 6,
+   "zeekr_news": 6
+  },
+  {
+   "date": "2026-10-12",
+   "complaints": 1,
+   "competitor_news": 17,
+   "zeekr_news": 8
+  },
+  {
+   "date": "2026-10-13",
+   "complaints": 0,
+   "competitor_news": 11,
+   "zeekr_news": 1
+  }
+ ],
+ "categories_30d": [
+  {
+   "key": "software",
+   "zh": "软件/APP/车机",
+   "en": "Software / app / infotainment",
+   "n": 28
+  },
+  {
+   "key": "service",
+   "zh": "售后/服务/保修",
+   "en": "After-sales / service / warranty",
+   "n": 11
+  },
+  {
+   "key": "delivery",
+   "zh": "交付/等待/订单",
+   "en": "Delivery / waiting / orders",
+   "n": 10
+  },
+  {
+   "key": "quality",
+   "zh": "质量/故障",
+   "en": "Quality / faults",
+   "n": 8
+  },
+  {
+   "key": "charging",
+   "zh": "充电/续航/电池",
+   "en": "Charging / range / battery",
+   "n": 8
+  },
+  {
+   "key": "sales",
+   "zh": "销售体验",
+   "en": "Sales experience",
+   "n": 5
+  },
+  {
+   "key": "safety",
+   "zh": "召回/安全",
+   "en": "Recall / safety",
+   "n": 2
+  },
+  {
+   "key": "price",
+   "zh": "价格/贬值/退款",
+   "en": "Price / resale / refund",
+   "n": 2
+  }
+ ],
+ "models_30d": {
+  "7X": 14,
+  "009": 1,
+  "X": 1,
+  "7GT": 2
+ },
+ "sources_30d": {
+  "Google Play (AU)": 15,
+  "Reddit r/Zeekr7xAustralia": 12,
+  "Reddit r/Zeekr": 4,
+  "Reddit r/EVAustralia": 3,
+  "ProductReview.com.au": 3,
+  "Reddit r/CarsAustralia": 1
+ },
+ "competitor_signals": {
+  "volvo-ex30": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "smart-1": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "smart-3": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mini-aceman": {
+   "n_30d": 1,
+   "launch": [],
+   "offer": [],
+   "latest": "1271814d7dd366de"
+  },
+  "mini-countryman-e": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "kia-ev3": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "hyundai-kona-ev": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "byd-atto3": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-eqa": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "tesla-model-y": {
+   "n_30d": 4,
+   "launch": [
+    "8b84f73c39185863"
+   ],
+   "offer": [],
+   "latest": "041524fd12f15293"
+  },
+  "xpeng-g6": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "byd-sealion7": {
+   "n_30d": 2,
+   "launch": [],
+   "offer": [
+    "5d83041fcade7ace"
+   ],
+   "latest": "2378a7f58ba29766"
+  },
+  "kia-ev5": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "hyundai-elexio": {
+   "n_30d": 1,
+   "launch": [],
+   "offer": [],
+   "latest": "1fcb9074dd9fe52c"
+  },
+  "smart-5": {
+   "n_30d": 1,
+   "launch": [
+    "3e3f285c9229d77a"
+   ],
+   "offer": [
+    "3e3f285c9229d77a"
+   ],
+   "latest": "3e3f285c9229d77a"
+  },
+  "polestar-4": {
+   "n_30d": 1,
+   "launch": [
+    "b5320554ddc5f545",
+    "ef422204f206a3de"
+   ],
+   "offer": [
+    "ef422204f206a3de"
+   ],
+   "latest": "b5320554ddc5f545"
+  },
+  "volvo-ex40": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "kia-ev6": {
+   "n_30d": 1,
+   "launch": [],
+   "offer": [],
+   "latest": "bdedcf8e8e0e5c19"
+  },
+  "hyundai-ioniq5": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "deepal-s07": {
+   "n_30d": 1,
+   "launch": [],
+   "offer": [
+    "5d83041fcade7ace"
+   ],
+   "latest": "5d83041fcade7ace"
+  },
+  "bmw-ix1": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "audi-q4": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "toyota-bz4x": {
+   "n_30d": 1,
+   "launch": [
+    "3e3f285c9229d77a"
+   ],
+   "offer": [
+    "3e3f285c9229d77a"
+   ],
+   "latest": "3e3f285c9229d77a"
+  },
+  "ford-mach-e": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "skoda-enyaq": {
+   "n_30d": 1,
+   "launch": [
+    "3e3f285c9229d77a"
+   ],
+   "offer": [
+    "3e3f285c9229d77a"
+   ],
+   "latest": "3e3f285c9229d77a"
+  },
+  "geely-ex5": {
+   "n_30d": 1,
+   "launch": [],
+   "offer": [],
+   "latest": "2378a7f58ba29766"
+  },
+  "tesla-model-3": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "polestar-2": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "byd-seal": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "im5": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "kia-ev4": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mazda-6e": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-cla-ev": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "bmw-i4": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "denza-z9gt": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "xpeng-p7": {
+   "n_30d": 1,
+   "launch": [
+    "ae42ba43dffef44c"
+   ],
+   "offer": [],
+   "latest": "ae42ba43dffef44c"
+  },
+  "lexus-lm": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "denza-d9": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "xpeng-x9": {
+   "n_30d": 3,
+   "launch": [
+    "2c8e385c13663939"
+   ],
+   "offer": [],
+   "latest": "2c8e385c13663939"
+  },
+  "mb-eqv": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-vclass": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "kia-carnival-hev": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "vw-id-buzz": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "gac-m8": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "byd-m9": {
+   "n_30d": 1,
+   "launch": [
+    "2c8e385c13663939"
+   ],
+   "offer": [],
+   "latest": "2c8e385c13663939"
+  },
+  "wey-g9": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-vle": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "li-mega": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "volvo-xc90-t8": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "bmw-x5-50e": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-gle": {
+   "n_30d": 1,
+   "launch": [],
+   "offer": [],
+   "latest": "fc834a9b2d10e951"
+  },
+  "lexus-rx450h": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mazda-cx80-phev": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "denza-b8": {
+   "n_30d": 1,
+   "launch": [
+    "20e01fbcd796f263"
+   ],
+   "offer": [],
+   "latest": "20e01fbcd796f263"
+  },
+  "byd-sealion8": {
+   "n_30d": 1,
+   "launch": [
+    "7df177ffe7c98f88"
+   ],
+   "offer": [],
+   "latest": "7df177ffe7c98f88"
+  },
+  "kia-sorento-phev": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "kia-ev9": {
+   "n_30d": 4,
+   "launch": [
+    "205ea3973e46d6d4",
+    "d03e92850d21bd42"
+   ],
+   "offer": [],
+   "latest": "205ea3973e46d6d4"
+  },
+  "xpeng-g9l": {
+   "n_30d": 9,
+   "launch": [
+    "bbb5fd6a4bc73847",
+    "93cf09a6cf95fc34",
+    "cd69fa572df0b0c9",
+    "0548f3f61af3f327",
+    "205ea3973e46d6d4",
+    "29457fe8e0433a02"
+   ],
+   "offer": [],
+   "latest": "bbb5fd6a4bc73847"
+  },
+  "wey-v9x": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "rr-sport-p460e": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "rr-p460e": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "bmw-x7": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-gls": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "lexus-lx": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "porsche-cayenne-eh": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "volvo-ex90": {
+   "n_30d": 2,
+   "launch": [
+    "205ea3973e46d6d4",
+    "d03e92850d21bd42"
+   ],
+   "offer": [],
+   "latest": "205ea3973e46d6d4"
+  },
+  "bmw-ix": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "mb-gclass": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "yangwang-u8": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "audi-q9": {
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
+  },
+  "avatr": {
+   "n_30d": 3,
+   "launch": [
+    "157903045605fdfb",
+    "42ac9b11351bb021",
+    "789dc0b548142229"
+   ],
+   "offer": [],
+   "latest": "157903045605fdfb"
+  }
+ },
+ "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "bbb5fd6a4bc73847",
+   "title": "XPENG G9L Large SUV Revealed with EV and Range-Extender Options - CarSauce",
+   "source": "Google News · CarSauce",
+   "t": "2026-10-13T04:39:44+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "93cf09a6cf95fc34",
+   "title": "New XPeng seven-seat G9L SUV promises 1200km of range and ultra-fast charging – and it's coming to Australia - WhichCar",
+   "source": "Google News · WhichCar",
+   "t": "2026-10-13T04:05:04+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "cd69fa572df0b0c9",
+   "title": "New XPeng seven-seat G9L SUV promises 1200km of range and ultra-fast charging – and it’s coming to Australia",
+   "source": "WhichCar",
+   "t": "2026-10-13T04:03:25+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "7df177ffe7c98f88",
+   "title": "Australia’s BYD Sealion 8 goes fully electric and gets more power and better charging… if you live in Europe",
+   "source": "WhichCar",
+   "t": "2026-10-13T01:11:13+00:00",
+   "competitors": [
+    "byd-sealion8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "0548f3f61af3f327",
+   "title": "XPeng G9L Seven-Seat SUV Confirmed for Australia - zecar",
+   "source": "Google News · zecar",
+   "t": "2026-10-13T00:41:35+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "205ea3973e46d6d4",
+   "title": "2027 Xpeng G9L detailed with 1200km range and luxurious three-row cabin",
+   "source": "CarExpert",
+   "t": "2026-10-13T00:00:00+00:00",
+   "competitors": [
+    "kia-ev9",
+    "xpeng-g9l",
+    "volvo-ex90"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "2c8e385c13663939",
+   "title": "ANCAP awards five-star safety ratings to Chinese trio, but dings two for lack of physical buttons",
+   "source": "CarExpert",
+   "t": "2026-10-12T23:34:00+00:00",
+   "competitors": [
+    "xpeng-x9",
+    "byd-m9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "29457fe8e0433a02",
+   "title": "Australian availability of XPeng G9L confirmed after Paris Motor Show debut - www.goauto.com.au",
+   "source": "Google News · www.goauto.com.au",
+   "t": "2026-10-12T13:00:00+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "ae42ba43dffef44c",
+   "title": "Xpeng steps up Australia, New Zealand push with Mona L03 launch - CnEVPost",
+   "source": "Google News · CnEVPost",
+   "t": "2026-10-12T06:20:00+00:00",
+   "competitors": [
+    "xpeng-p7"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "157903045605fdfb",
+   "title": "Avatr 06T: Sleek EV wagon confirmed for Australia in 2027",
+   "source": "CarExpert",
+   "t": "2026-10-11T22:00:00+00:00",
+   "competitors": [
+    "avatr"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "42ac9b11351bb021",
+   "title": "AVATR reveals extravagant T09 six-seater luxury SUV for Australia for 2028",
+   "source": "Chasing Cars (Zeekr)",
+   "t": "2026-10-11T21:56:26+00:00",
+   "competitors": [
+    "avatr"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "b5320554ddc5f545",
+   "title": "Polestar looks to LFP batteries to reach carbon-neutral car goal",
+   "source": "CarExpert",
+   "t": "2026-10-11T18:00:00+00:00",
+   "competitors": [
+    "polestar-4"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "20e01fbcd796f263",
+   "title": "Jetour G700: Australia-bound LandCruiser rival updated as Chinese brand heads upmarket",
+   "source": "CarExpert",
+   "t": "2026-10-10T21:00:00+00:00",
+   "competitors": [
+    "denza-b8"
+   ]
+  }
+ ],
+ "source_status": {
+  "gn-zeekr-au": {
+   "ok": true,
+   "count": 100,
+   "note": ""
+  },
+  "gn-zeekr-1d": {
+   "ok": true,
+   "count": 23,
+   "note": ""
+  },
+  "gn-zeekr-complaint": {
+   "ok": true,
+   "count": 100,
+   "note": ""
+  },
+  "gn-zeekr-media": {
+   "ok": true,
+   "count": 100,
+   "note": ""
+  },
+  "gn-zeekr-forums": {
+   "ok": true,
+   "count": 100,
+   "note": ""
+  },
+  "gn-zeekr-recall": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "gn-ev-launch-au": {
+   "ok": true,
+   "count": 35,
+   "note": ""
+  },
+  "gn-ev-offer-au": {
+   "ok": true,
+   "count": 33,
+   "note": ""
+  },
+  "gn-brands-cn": {
+   "ok": true,
+   "count": 44,
+   "note": ""
+  },
+  "gn-brands-eu": {
+   "ok": true,
+   "count": 35,
+   "note": ""
+  },
+  "carexpert": {
+   "ok": true,
+   "count": 30,
+   "note": ""
+  },
+  "thedriven": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "thedriven-zeekr": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "evcentral": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "evcentral-zeekr": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "chasingcars": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "chasingcars-zeekr": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "whichcar": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "ozbargain-zeekr": {
+   "ok": true,
+   "count": 7,
+   "note": ""
+  },
+  "ozbargain-auto": {
+   "ok": true,
+   "count": 30,
+   "note": ""
+  },
+  "reddit": {
+   "ok": true,
+   "count": 0,
+   "note": "skipped"
+  },
+  "productreview-zeekr-agg": {
+   "ok": true,
+   "count": 0,
+   "note": "aggregate 2.0★ / 17 reviews"
+  },
+  "productreview-zeekr": {
+   "ok": true,
+   "count": 10,
+   "note": ""
+  },
+  "productreview-zeekr-x": {
+   "ok": true,
+   "count": 0,
+   "note": ""
+  },
+  "productreview-search": {
+   "ok": true,
+   "count": 2,
+   "note": "listings: zeekr, zeekr-x"
+  },
+  "appstore-ios": {
+   "ok": true,
+   "count": 25,
+   "note": ""
+  },
+  "playstore-android": {
+   "ok": true,
+   "count": 60,
+   "note": ""
+  },
+  "zeekr-official-news": {
+   "ok": true,
+   "count": 0,
+   "note": ""
+  },
+  "recalls-gov": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.vehicle.recalls.gov.au', port=443): Max retries exceeded with url: /recalls?search_api_ful (datacenter IP may be blocked; Google News fallback active)"
+  },
+  "google-places": {
+   "ok": false,
+   "count": 0,
+   "note": "GOOGLE_MAPS_API_KEY not set – store reviews skipped"
+  },
+  "offers-volvo": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-kia": {
+   "ok": true,
+   "count": 27,
+   "note": "unchanged"
+  },
+  "offers-polestar": {
+   "ok": true,
+   "count": 11,
+   "note": "unchanged"
+  },
+  "offers-mini": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)"
+  },
+  "offers-mg": {
+   "ok": true,
+   "count": 19,
+   "note": "unchanged"
+  },
+  "offers-mazda": {
+   "ok": true,
+   "count": 15,
+   "note": "unchanged"
+  },
+  "offers-mercedes": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)"
+  },
+  "offers-landrover": {
+   "ok": true,
+   "count": 15,
+   "note": "unchanged"
+  },
+  "offers-audi": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-byd": {
+   "ok": true,
+   "count": 0,
+   "note": "first snapshot"
+  },
+  "offers-hyundai": {
+   "ok": true,
+   "count": 8,
+   "note": "unchanged"
+  },
+  "offers-tesla-my": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-tesla-m3": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-xpeng": {
+   "ok": true,
+   "count": 1,
+   "note": "unchanged"
+  },
+  "offers-smart": {
+   "ok": true,
+   "count": 11,
+   "note": "unchanged"
+  },
+  "offers-leapmotor": {
+   "ok": true,
+   "count": 0,
+   "note": "unchanged"
+  },
+  "offers-deepal": {
+   "ok": true,
+   "count": 5,
+   "note": "unchanged"
+  },
+  "offers-lexus": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-bmw": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)"
+  },
+  "offers-zecar-offers": {
+   "ok": true,
+   "count": 38,
+   "note": "unchanged"
+  },
+  "offers-thebeep-offers": {
+   "ok": true,
+   "count": 6,
+   "note": "unchanged"
+  },
+  "offers-zeekr-offers-zecar": {
+   "ok": true,
+   "count": 6,
+   "note": "unchanged"
+  }
+ },
+ "places": {
+  "configured": false,
+  "last_run": null,
+  "stores": [],
+  "n_reviews": 0
+ }
+}

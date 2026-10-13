@@ -1,0 +1,30 @@
+{
+ "key": "mazda",
+ "brand": "Mazda",
+ "url": "https://www.mazda.com.au/offers/",
+ "fetched": "2026-10-13T05:08:24+00:00",
+ "digest": "4bd3ee645fc40ef9",
+ "lines": [
+  "Mazda offers",
+  "Explore the latest offers and deals available across the Mazda range.",
+  "Get an unmissable offer this M-Day Saturday October 17 - your first 3 scheduled services free* across the Mazda Range.",
+  "Plus, on M-Day, get a $1,000 deposit bonus^ for new and demo vehicles with Mazda Finance at participating Mazda dealers",
+  "Novated Lease $2,000 Cashback Offer",
+  "Cashback if you purchase a new Mazda 6e or Mazda CX-6e from your local dealer using a novated lease.",
+  "Eligible customers who purchase and take delivery of a new Mazda 6e or Mazda CX-6e between 1st October 2026 and 31st December 2026 through a novated lease can receive $2,000 cashback.",
+  "The All-Electric Mazda 6e & Mazda CX-6e Driveaway Offers",
+  "Great driveaway offers across the All-New, All-Electric Mazda EV Range.",
+  "DRIVEAWAY OFFERS",
+  "Great driveaway offers across a wide range of Mazda vehicles are on now.",
+  "Mazda CX-5 G25 Pure now from $43,990",
+  "Driveaway pricing only valid on CX-5 Pure model. Premium paint not included. Terms, conditions & exclusions apply.",
+  "Mazda Finance",
+  "Mazda Finance Portal"
+ ],
+ "money": [
+  1000,
+  2000,
+  43990
+ ],
+ "n_lines": 15
+}

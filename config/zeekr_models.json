@@ -1,0 +1,123 @@
+{
+  "as_of": "2026-10-13",
+  "currency": "AUD",
+  "price_basis": "RRP before on-road costs (user list, 万元 × 10,000)",
+  "models": [
+    {
+      "key": "X",
+      "name": "ZEEKR X",
+      "code": "BX1E-A2-M",
+      "segment": "小型高端纯电SUV",
+      "segment_en": "Small premium BEV SUV",
+      "powertrain": "BEV",
+      "status": "on_sale",
+      "price_band": [49900, 62900],
+      "use_case": "都市通勤、二台车、年轻家庭；强调设计与品牌调性",
+      "use_case_en": "Urban commuting, second car, young households; design-led premium small EV",
+      "aliases": ["zeekr x", "极氪x", "极氪 x"],
+      "variants": [
+        {"name": "Standard A2", "drive": "RWD", "battery_kwh": 61.47, "rrp": 49900},
+        {"name": "Premium A2", "drive": "RWD", "battery_kwh": 66, "rrp": 53900},
+        {"name": "Flagship A2", "drive": "AWD", "battery_kwh": 66, "rrp": 62900}
+      ],
+      "note": "澳洲媒体报道 MY26 X 自 2026-05 起以 $48,900 (RWD) / $57,900 (AWD) 全包价销售，与上表 RRP 口径不同，请以内部价目表为准。"
+    },
+    {
+      "key": "7X",
+      "name": "ZEEKR 7X",
+      "code": "CX1E-A1-G",
+      "segment": "中型高端纯电SUV",
+      "segment_en": "Medium premium BEV SUV",
+      "powertrain": "BEV",
+      "status": "on_sale",
+      "price_band": [57900, 72900],
+      "use_case": "家庭主力用车，对标 Model Y 的高端替代；重视空间、续航与配置",
+      "use_case_en": "Primary family SUV; premium alternative to Model Y with space, range and equipment",
+      "aliases": ["zeekr 7x", "7x", "极氪7x", "极氪 7x"],
+      "variants": [
+        {"name": "Standard A1", "drive": "RWD", "battery_kwh": 75, "rrp": 57900},
+        {"name": "Long Range A1", "drive": "RWD", "battery_kwh": 100, "rrp": 63900},
+        {"name": "Performance A1", "drive": "AWD", "battery_kwh": 100, "rrp": 72900}
+      ]
+    },
+    {
+      "key": "009",
+      "name": "ZEEKR 009",
+      "code": "EF1E-A2-MR",
+      "segment": "豪华纯电MPV",
+      "segment_en": "Luxury BEV people mover",
+      "powertrain": "BEV",
+      "status": "on_sale",
+      "price_band": [115900, 139900],
+      "use_case": "高端商务接待、豪华家庭出行、行政专车",
+      "use_case_en": "Executive shuttle, luxury family transport, chauffeur use",
+      "aliases": ["zeekr 009", "009", "极氪009", "极氪 009"],
+      "variants": [
+        {"name": "Standard A2", "drive": "RWD", "battery_kwh": 108, "rrp": 115900},
+        {"name": "Flagship A2", "drive": "AWD", "battery_kwh": 108, "rrp": 139900}
+      ],
+      "note": "公开报道显示澳洲 009 另有 AWD 7 座 $135,900 版本并标注 116 kWh，与内部表口径不同，请核对。"
+    },
+    {
+      "key": "7GT",
+      "name": "ZEEKR 007 GT (7GT)",
+      "code": "CC1E-A0-G",
+      "segment": "中型高端纯电猎装旅行车",
+      "segment_en": "Medium premium BEV shooting brake",
+      "powertrain": "BEV",
+      "status": "launching",
+      "expected_launch": "2026 Q4 发布，交付 2026 年底/2027 年初",
+      "price_band": [60000, 80000],
+      "price_band_note": "估计区间（媒体与 Zecar 推测 $60–75k，旗舰 AWD 低于 $100k）",
+      "use_case": "追求个性与性能的家庭/年轻专业人士；轿车与 SUV 之间的选择",
+      "use_case_en": "Design- and performance-led buyers between a sedan and an SUV",
+      "aliases": ["zeekr 007 gt", "007 gt", "007gt", "7gt", "7 gt", "zeekr 7gt", "极氪007gt", "极氪 007 gt"],
+      "variants": [
+        {"name": "Standard", "drive": "RWD", "battery_kwh": 75, "rrp": null},
+        {"name": "Long Range", "drive": "RWD", "battery_kwh": 100, "rrp": null},
+        {"name": "Performance", "drive": "AWD", "battery_kwh": 100, "rrp": null}
+      ]
+    },
+    {
+      "key": "8X",
+      "name": "ZEEKR 8X",
+      "code": "DX1H-A0-G",
+      "segment": "大型高端插混SUV（5/6座）",
+      "segment_en": "Large premium PHEV SUV (5/6 seat)",
+      "powertrain": "PHEV",
+      "status": "launching",
+      "expected_launch": "2026 Q4–2027 H1（澳洲官方口径：9X 之后约半年）",
+      "price_band": [80000, 100000],
+      "price_band_note": "估计区间（Zeekr AU 口径“低于 $100k”，较德系入门低 $20–30k）",
+      "use_case": "大家庭、长途与拖挂、豪华与实用兼顾；无需充电焦虑",
+      "use_case_en": "Large families, long-distance touring, towing; premium without charging anxiety",
+      "aliases": ["zeekr 8x", "8x", "极氪8x", "极氪 8x"],
+      "variants": [
+        {"name": "Premium 5S", "drive": "AWD", "battery_kwh": 55, "rrp": null},
+        {"name": "Flagship 5S", "drive": "AWD", "battery_kwh": 55, "rrp": null},
+        {"name": "Premium 6S", "drive": "AWD", "battery_kwh": 55, "rrp": null},
+        {"name": "Flagship 6S", "drive": "AWD", "battery_kwh": 55, "rrp": null},
+        {"name": "Performance", "drive": "AWD", "battery_kwh": 70, "rrp": null}
+      ]
+    },
+    {
+      "key": "9X",
+      "name": "ZEEKR 9X",
+      "code": "EX1H-A0-G",
+      "segment": "旗舰豪华插混SUV",
+      "segment_en": "Flagship luxury PHEV SUV",
+      "powertrain": "PHEV",
+      "status": "launching",
+      "expected_launch": "2026 年底/2027 年初",
+      "price_band": [150000, 180000],
+      "price_band_note": "估计区间（媒体引述约 $150k 起，“可能更高”）",
+      "use_case": "旗舰形象、企业主与高净值家庭；对标 Range Rover / X7 / GLS 的豪华大型 SUV",
+      "use_case_en": "Flagship image; business owners and high-net-worth families; Range Rover / X7 / GLS alternative",
+      "aliases": ["zeekr 9x", "9x", "极氪9x", "极氪 9x"],
+      "variants": [
+        {"name": "Ultra70", "drive": "AWD", "battery_kwh": 70, "rrp": null},
+        {"name": "Hyper", "drive": "AWD", "battery_kwh": 70, "rrp": null}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2926 @@
+{
+ "as_of": "2026-10-13",
+ "currency": "AUD",
+ "note": "基准价格与政策由人工核定（来源见各条 sources），抓取程序只在此基础上叠加新闻信号与官网页面变化。更新基准请直接编辑本文件。tier: core=直接对标, reference=价格带参照(上/下界), watch=待上市/未确认。basis: rrp=税前裸车价, da=全包价(drive-away)。",
+ "competitors": [
+  {
+   "id": "volvo-ex30",
+   "brand": "Volvo",
+   "model": "EX30",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "core",
+   "body": "小型高端SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024-02",
+   "variants": [
+    {
+     "name": "Single Motor ER Plus",
+     "drive": "RWD",
+     "kwh": 69,
+     "price": 49990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Single Motor ER Ultra",
+     "drive": "RWD",
+     "kwh": 69,
+     "price": 54990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Cross Country",
+     "drive": "AWD",
+     "kwh": 69,
+     "price": 62990,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-04-01 降价 $7k–$11.3k",
+   "offers": [
+    {
+     "text": "EX30 Plus Single Motor ER $55,990 drive-away（全国）",
+     "valid": "2026-05-01 至 2026-10-31 订购并交付",
+     "src": "https://www.volvocars.com/au/offers/"
+    },
+    {
+     "text": "符合条件 EV（裸车价 < $91,387）标准贷款利率减 1.00% p.a.",
+     "valid": "限时",
+     "src": "https://www.volvocars.com/au/offers/"
+    }
+   ],
+   "model_url": "https://www.volvocars.com/au/cars/ex30/",
+   "offers_url": "https://www.volvocars.com/au/offers/",
+   "sources": [
+    "https://thebeep.com.au/car-news/volvo-ex30-ex40-price-cut-australia-2026"
+   ],
+   "fit": "最接近的欧洲高端对手；4 月降价后与 X Standard/Premium 价格完全重合。",
+   "fit_en": "Closest European premium rival; now priced on top of X Standard/Premium after the April cut."
+  },
+  {
+   "id": "smart-1",
+   "brand": "smart",
+   "model": "#1",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "core",
+   "body": "小型高端SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024-11",
+   "group_flag": "Geely 合资（SEA 平台同源）",
+   "variants": [
+    {
+     "name": "Pro+",
+     "drive": "RWD",
+     "kwh": 66,
+     "price": 49900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 66,
+     "price": 53900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Brabus",
+     "drive": "AWD",
+     "kwh": 66,
+     "price": 63900,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-09-12 宣布降价 $4k–$5k（原 $54,900/$58,900/$67,900）",
+   "offers": [
+    {
+     "text": "暂无全国性现金/金融政策（Zecar 条目均已过期）",
+     "valid": "",
+     "src": "https://zecar.com/offers-and-deals/smart"
+    }
+   ],
+   "model_url": "https://www.smart.com.au/",
+   "offers_url": "https://zecar.com/offers-and-deals/smart",
+   "sources": [
+    "https://thedriven.io/2026/09/12/smart-cuts-prices-on-existing-evs-as-it-gets-ready-for-launch-of-5-electric-suv/"
+   ],
+   "fit": "同平台、逐档价格与 X 完全对齐（$49,900/$53,900/$63,900），最直接的对手。",
+   "fit_en": "Same SEA platform; price-matched grade-for-grade to X – the most direct rival."
+  },
+  {
+   "id": "smart-3",
+   "brand": "smart",
+   "model": "#3",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "core",
+   "body": "小型高端轿跑SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024-11",
+   "group_flag": "Geely 合资",
+   "variants": [
+    {
+     "name": "Pro+",
+     "drive": "RWD",
+     "kwh": 66,
+     "price": 52900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 66,
+     "price": 56900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Brabus",
+     "drive": "AWD",
+     "kwh": 66,
+     "price": 65900,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-09 降价 $5k",
+   "offers": [],
+   "model_url": "https://www.smart.com.au/",
+   "sources": [
+    "https://evcentral.com.au/smart-joins-the-ev-price-slashing-frenzy-also-confirms-5-suv-is-locked-in-for-australia/"
+   ],
+   "fit": "#1 的轿跑版本，逐档高于 X 约 $3k。",
+   "fit_en": "Coupe twin of #1, ~$3k above X grade-for-grade."
+  },
+  {
+   "id": "mini-aceman",
+   "brand": "Mini",
+   "model": "Aceman",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "core",
+   "body": "小型高端跨界车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-02",
+   "variants": [
+    {
+     "name": "SE Favoured",
+     "drive": "FWD",
+     "kwh": 49.2,
+     "price": 60990,
+     "basis": "rrp"
+    },
+    {
+     "name": "JCW E Favoured",
+     "drive": "FWD",
+     "kwh": 49.2,
+     "price": 65990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "MINI Flex 贷款 4.99% p.a. 比较利率（36 个月，20% 首付）",
+     "valid": "2026-10-01 至 2026-12-31 订购并交付",
+     "src": "https://www.mini.com.au/en_AU/home/offers.html"
+    }
+   ],
+   "model_url": "https://www.mini.com.au/en_AU/home/range/aceman.html",
+   "offers_url": "https://www.mini.com.au/en_AU/home/offers.html",
+   "sources": [
+    "https://www.evee.com.au/blog/2026-mini-aceman-australia-price-specs-range/"
+   ],
+   "fit": "高端品牌小型 EV，价格与 X Flagship 相近但电池更小。",
+   "fit_en": "Premium-badge small EV at X Flagship money with a smaller battery."
+  },
+  {
+   "id": "mini-countryman-e",
+   "brand": "Mini",
+   "model": "Countryman Electric",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "reference",
+   "body": "小型/中型高端SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024",
+   "variants": [
+    {
+     "name": "E Classic",
+     "drive": "FWD",
+     "kwh": 66,
+     "price": 68990,
+     "basis": "rrp"
+    },
+    {
+     "name": "SE ALL4 Classic",
+     "drive": "AWD",
+     "kwh": 66,
+     "price": 73990,
+     "basis": "rrp"
+    },
+    {
+     "name": "SE ALL4 JCW Sport",
+     "drive": "AWD",
+     "kwh": 66,
+     "price": 79990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "MINI Flex 贷款 4.99% p.a. 比较利率",
+     "valid": "2026-10-01 至 2026-12-31",
+     "src": "https://www.mini.com.au/en_AU/home/offers.html"
+    }
+   ],
+   "model_url": "https://www.mini.com.au/en_AU/home/range/countryman.html",
+   "offers_url": "https://www.mini.com.au/en_AU/home/offers.html",
+   "sources": [
+    "https://evcentral.com.au/significant-changes-for-mini-countryman-ev-in-australia-range-and-price-boosted/"
+   ],
+   "fit": "高于 X Flagship 的高端价格上界参照。",
+   "fit_en": "Upper-bound premium reference above X Flagship."
+  },
+  {
+   "id": "kia-ev3",
+   "brand": "Kia",
+   "model": "EV3",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "core",
+   "body": "小型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-03",
+   "variants": [
+    {
+     "name": "Air Standard Range",
+     "drive": "FWD",
+     "kwh": 58.3,
+     "price": 47600,
+     "basis": "rrp"
+    },
+    {
+     "name": "Air Long Range",
+     "drive": "FWD",
+     "kwh": 81.4,
+     "price": 53315,
+     "basis": "rrp"
+    },
+    {
+     "name": "Earth Long Range",
+     "drive": "FWD",
+     "kwh": 81.4,
+     "price": 58600,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line Long Range",
+     "drive": "FWD",
+     "kwh": 81.4,
+     "price": 63950,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line Long Range AWD",
+     "drive": "AWD",
+     "kwh": 81.4,
+     "price": 66490,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "1.88% p.a. 比较利率（Kia Finance，≤36 个月，20% 首付）或 $1,000 现金返还",
+     "valid": "2026-09-01 至 2026-10-31 购买并交付",
+     "src": "https://www.kia.com/au/offers.html"
+    }
+   ],
+   "model_url": "https://www.kia.com/au/cars/ev3/showroom.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "https://zecar.com/reviews/kia-ev3-gt-line-awd-price-and-specs"
+   ],
+   "fit": "韩系主流偏高端对手，同价位电池明显更大。",
+   "fit_en": "Mainstream-premium Korean rival with a much larger battery at X money."
+  },
+  {
+   "id": "hyundai-kona-ev",
+   "brand": "Hyundai",
+   "model": "Kona Electric",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "reference",
+   "body": "小型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "Standard Range",
+     "drive": "FWD",
+     "kwh": 48.6,
+     "price": 54000,
+     "basis": "rrp"
+    },
+    {
+     "name": "Extended Range",
+     "drive": "FWD",
+     "kwh": 64.8,
+     "price": 58000,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "2026-10 暂无全国性政策（上一轮全包价活动 $45,990–$64,990 已于 2026-06-30 结束）",
+     "valid": "",
+     "src": "https://zecar.com/reviews/hyundai-ev-deals-kona-ioniq5-elexio-inster-2026"
+    }
+   ],
+   "model_url": "https://www.hyundai.com/au/en/cars/kona-electric",
+   "offers_url": "https://www.hyundai.com/au/en/offers",
+   "sources": [
+    "https://zecar.com/electric-vehicles/Hyundai"
+   ],
+   "fit": "主流品牌；仅在大幅全包价促销时构成竞争。",
+   "fit_en": "Mainstream; competes only on deep drive-away discounts."
+  },
+  {
+   "id": "byd-atto3",
+   "brand": "BYD",
+   "model": "Atto 3 Evo",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "reference",
+   "body": "小型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "Dynamic",
+     "drive": "FWD",
+     "kwh": 60.48,
+     "price": 41990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 74.88,
+     "price": 46990,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "Evo 改款 2026-08-12 定价，2026-09 交付",
+   "offers": [
+    {
+     "text": "不在 BYD 10–12 月 $4,000 现金返还范围内；Amber V2G 计划 6% 折扣",
+     "valid": "至 2026-12-31",
+     "src": "https://zecar.com/offers-and-deals/byd"
+    }
+   ],
+   "model_url": "https://www.byd.com.au/car/atto3",
+   "offers_url": "https://www.byd.com.au/offers",
+   "sources": [
+    "https://www.carexpert.com.au/car-news/2026-byd-atto-3-evo-prices-updated-ev-available-with-front-or-rear-wheel-drive"
+   ],
+   "fit": "销量基准；低于 X Standard $3k–$8k 且电池更大。",
+   "fit_en": "Volume benchmark; $3k–$8k under X Standard with a bigger battery."
+  },
+  {
+   "id": "mb-eqa",
+   "brand": "Mercedes-Benz",
+   "model": "EQA 250+",
+   "zeekr": [
+    "X"
+   ],
+   "tier": "reference",
+   "body": "小型高端SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "variants": [
+    {
+     "name": "EQA 250+",
+     "drive": "FWD",
+     "kwh": 70,
+     "price": 80700,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mercedes-benz.com.au/passengercars/models/suv/eqa/overview.html",
+   "offers_url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html",
+   "sources": [
+    "https://www.carsguide.com.au/mercedes-benz/eq-class/eqa250/price/2026"
+   ],
+   "fit": "传统豪华品牌参照，高于 X Flagship $18k 以上。",
+   "fit_en": "Legacy-premium reference, $18k+ above X Flagship."
+  },
+  {
+   "id": "tesla-model-y",
+   "brand": "Tesla",
+   "model": "Model Y",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "Premium RWD",
+     "drive": "RWD",
+     "kwh": 62.5,
+     "price": 58900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium Long Range AWD",
+     "drive": "AWD",
+     "kwh": 78.4,
+     "price": 68900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Model Y L Premium AWD (6 座)",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 74900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Performance AWD",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 84900,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "Performance 2026-10-01 由 $89,900 降至 $84,900",
+   "offers": [
+    {
+     "text": "现车约 5% 折扣，Model Y Premium RWD 全包价最高减 $2,950",
+     "valid": "至 2026-10-31",
+     "src": "https://thedriven.io/2026/10/05/tesla-offers-almost-3000-off-model-y-inventory-in-yet-another-price-cut-to-attract-new-sales/"
+    },
+    {
+     "text": "置换补贴 $2,000（私人买家）",
+     "valid": "至 2026-12-31",
+     "src": "https://zecar.com/offers-and-deals/tesla"
+    },
+    {
+     "text": "2026-01-01 起交付的 Model 3/Y 享 5 年不限公里保修",
+     "valid": "",
+     "src": "https://www.tesla.com/en_au/modely"
+    }
+   ],
+   "model_url": "https://www.tesla.com/en_au/modely",
+   "offers_url": "https://www.tesla.com/en_au/inventory/new/my",
+   "sources": [
+    "https://thedriven.io/2026/10/01/tesla-slashes-entry-price-of-model-3-to-below-46000-boosts-range-and-adds-vehicle-to-load-on-all-new-evs/"
+   ],
+   "fit": "细分市场基准；7X Standard 低于 Model Y RWD $1,000，7X LR 低于 LR AWD $5,000。",
+   "fit_en": "Segment benchmark; 7X Standard undercuts Model Y RWD by $1,000, 7X LR undercuts LR AWD by $5,000."
+  },
+  {
+   "id": "xpeng-g6",
+   "brand": "Xpeng",
+   "model": "G6 (2026 改款)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中型轿跑SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-06",
+   "variants": [
+    {
+     "name": "RWD Standard Range",
+     "drive": "RWD",
+     "kwh": 68.5,
+     "price": 51800,
+     "basis": "rrp"
+    },
+    {
+     "name": "RWD Long Range",
+     "drive": "RWD",
+     "kwh": 80.8,
+     "price": 56800,
+     "basis": "rrp"
+    },
+    {
+     "name": "AWD Performance",
+     "drive": "AWD",
+     "kwh": 80.8,
+     "price": 63800,
+     "basis": "rrp"
+    },
+    {
+     "name": "AWD Performance Black Edition",
+     "drive": "AWD",
+     "kwh": 80.8,
+     "price": 66800,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "2.88% p.a. 固定/比较利率，零首付、无尾款，≤3 年，全系 G6",
+     "valid": "2026-12-31 前申请并放款",
+     "src": "https://zecar.com/offers-and-deals/xpeng"
+    }
+   ],
+   "model_url": "https://shop.xpeng.com.au/",
+   "offers_url": "https://shop.xpeng.com.au/",
+   "sources": [
+    "https://www.carexpert.com.au/car-news/2026-xpeng-g6-prices-refreshed-suv-undercuts-tesla-model-y-zeekr-7x-and-byd-sealion-7-in-australia"
+   ],
+   "fit": "直接的新势力高端对手；逐档低于 7X $6.1k/$7.1k/$9.1k。",
+   "fit_en": "Direct new-premium Chinese rival; undercuts 7X by $6.1k / $7.1k / $9.1k grade-for-grade."
+  },
+  {
+   "id": "byd-sealion7",
+   "brand": "BYD",
+   "model": "Sealion 7",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-02",
+   "variants": [
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 82.56,
+     "price": 54990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Performance",
+     "drive": "AWD",
+     "kwh": 82.56,
+     "price": 63990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "$4,000 现金返还（实际 $50,990 / $59,990）或 novated lease 买家 6% 折扣",
+     "valid": "2026-10-01 至 2026-12-21 下单，2026-12-31 前交付",
+     "src": "https://zecar.com/offers-and-deals/byd"
+    }
+   ],
+   "model_url": "https://www.byd.com.au/car/sealion7",
+   "offers_url": "https://www.byd.com.au/offers",
+   "sources": [
+    "https://www.canberratimes.com.au/story/9361270/byd-cuts-4000-off-its-most-popular-cars/"
+   ],
+   "fit": "销量对手；含返现后低于 7X Standard $6.9k。",
+   "fit_en": "Volume rival; with cashback sits $6.9k under 7X Standard."
+  },
+  {
+   "id": "kia-ev5",
+   "brand": "Kia",
+   "model": "EV5",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024-10",
+   "variants": [
+    {
+     "name": "Air Standard Range",
+     "drive": "FWD",
+     "kwh": 66.6,
+     "price": 56770,
+     "basis": "rrp"
+    },
+    {
+     "name": "Air Long Range",
+     "drive": "FWD",
+     "kwh": 84,
+     "price": 61170,
+     "basis": "rrp"
+    },
+    {
+     "name": "Earth AWD",
+     "drive": "AWD",
+     "kwh": 84,
+     "price": 64770,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line AWD",
+     "drive": "AWD",
+     "kwh": 84,
+     "price": 71770,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "1.88% p.a. 比较利率（≤36 个月，20% 首付）或 $2,000 现金返还",
+     "valid": "2026-09-01 至 2026-10-31 购买并交付",
+     "src": "https://www.kia.com/au/offers.html"
+    }
+   ],
+   "model_url": "https://www.kia.com/au/cars/ev5/showroom.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "https://zecar.com/electric-vehicles/kia"
+   ],
+   "fit": "韩系中最接近 7X 的价格/尺寸对手，逐档差距 $1k–$3k。",
+   "fit_en": "Closest Korean price/size match to 7X; within $1k–$3k grade-for-grade."
+  },
+  {
+   "id": "hyundai-elexio",
+   "brand": "Hyundai",
+   "model": "Elexio",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2026-02",
+   "variants": [
+    {
+     "name": "Elexio",
+     "drive": "FWD",
+     "kwh": 88.1,
+     "price": 58990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Elexio Elite",
+     "drive": "FWD",
+     "kwh": 88.1,
+     "price": 61990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "暂无全国性政策（上一轮 Elite $59,990 全包价已于 2026-05-31 结束）",
+     "valid": "",
+     "src": "https://zecar.com/offers-and-deals/hyundai"
+    }
+   ],
+   "model_url": "https://www.hyundai.com/au/en/cars/elexio",
+   "offers_url": "https://www.hyundai.com/au/en/offers",
+   "sources": [
+    "https://www.cars24.com.au/car-news/2026-hyundai-elexio-ev-price-rise-confirmed/"
+   ],
+   "fit": "中国产现代，高于 7X Standard $1k 但电池更大；直接对手。",
+   "fit_en": "China-built Hyundai $1k above 7X Standard with a bigger battery; direct rival."
+  },
+  {
+   "id": "smart-5",
+   "brand": "smart",
+   "model": "#5",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中型高端SUV",
+   "powertrain": "BEV",
+   "status": "launching",
+   "au_launch": "2026-11",
+   "group_flag": "Geely 合资",
+   "variants": [
+    {
+     "name": "Pro+",
+     "drive": "RWD",
+     "kwh": 100,
+     "price": 58900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium+",
+     "drive": "RWD",
+     "kwh": 100,
+     "price": 63900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Brabus Edition",
+     "drive": "AWD",
+     "kwh": 100,
+     "price": 73900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "前 60 台零售订单赠 7.4kW 壁挂充电桩（$1,990）",
+     "valid": "2026-09-18 至 2026-12-31 订购并交付",
+     "src": "https://zecar.com/offers-and-deals/smart"
+    }
+   ],
+   "model_url": "https://www.smart.com.au/",
+   "sources": [
+    "https://www.canberratimes.com.au/story/9354626/zeekr-7x-has-some-fresh-competition/"
+   ],
+   "fit": "集团兄弟车型，逐档高于 7X $1,000 且全系 100kWh；最直接的新对手。",
+   "fit_en": "Geely-group sibling priced $1,000 above each 7X grade with 100kWh across the range – the most direct new rival."
+  },
+  {
+   "id": "polestar-4",
+   "brand": "Polestar",
+   "model": "4",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "core",
+   "body": "中大型高端轿跑SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024-11",
+   "group_flag": "Geely 集团",
+   "variants": [
+    {
+     "name": "Rear Motor",
+     "drive": "RWD",
+     "kwh": 100,
+     "price": 73900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Dual Motor",
+     "drive": "AWD",
+     "kwh": 100,
+     "price": 81750,
+     "basis": "rrp"
+    },
+    {
+     "name": "Dual Motor Performance Pack",
+     "drive": "AWD",
+     "kwh": 100,
+     "price": 95450,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-09-09 降价 $4.6k",
+   "offers": [
+    {
+     "text": "预配置 MY27 Polestar 4 coupé 0.80% p.a. 比较利率（10% 首付，36 个月）",
+     "valid": "2026-10-01 至 2026-11-30 订购，2026-12-31 前交付",
+     "src": "https://www.polestar.com/au/offers/private/polestar-4-coupe/"
+    }
+   ],
+   "model_url": "https://www.polestar.com/au/polestar-4/",
+   "offers_url": "https://www.polestar.com/au/offers/",
+   "sources": [
+    "https://www.portnews.com.au/story/9346965/4600-price-cut-for-premium-suv/"
+   ],
+   "fit": "集团高端上界；RWD 高于 7X Performance $1k。",
+   "fit_en": "Geely-group premium upper bound; RWD $1k above 7X Performance."
+  },
+  {
+   "id": "volvo-ex40",
+   "brand": "Volvo",
+   "model": "EX40",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "小中型高端SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "variants": [
+    {
+     "name": "Single Motor ER Ultra",
+     "drive": "RWD",
+     "kwh": 82,
+     "price": 69990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Twin Motor Ultra",
+     "drive": "AWD",
+     "kwh": 82,
+     "price": 74990,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-04-01 降价 $7k",
+   "offers": [
+    {
+     "text": "符合条件 EV 贷款利率减 1.00% p.a.；Volvo Showcase 10 月零售商活动",
+     "valid": "2026-10",
+     "src": "https://www.volvocars.com/au/offers/"
+    }
+   ],
+   "model_url": "https://www.volvocars.com/au/cars/ex40/",
+   "offers_url": "https://www.volvocars.com/au/offers/",
+   "sources": [
+    "https://thebeep.com.au/car-news/volvo-ex30-ex40-price-cut-australia-2026"
+   ],
+   "fit": "欧洲高端中上参照。",
+   "fit_en": "European premium upper-mid reference."
+  },
+  {
+   "id": "kia-ev6",
+   "brand": "Kia",
+   "model": "EV6 (2026 改款)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型跨界车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "Air RWD",
+     "drive": "RWD",
+     "kwh": 84,
+     "price": 72660,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line RWD",
+     "drive": "RWD",
+     "kwh": 84,
+     "price": 79660,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line AWD",
+     "drive": "AWD",
+     "kwh": 84,
+     "price": 87660,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.kia.com/au/cars/ev6/showroom.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "https://www.cars24.com.au/car-news/2026-kia-ev6-facelift-pricing-revealed/"
+   ],
+   "fit": "起价即 7X Performance 之上；上界参照。",
+   "fit_en": "Starts where 7X Performance ends; upper reference."
+  },
+  {
+   "id": "hyundai-ioniq5",
+   "brand": "Hyundai",
+   "model": "Ioniq 5 (MY26)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型跨界车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "variants": [
+    {
+     "name": "RWD",
+     "drive": "RWD",
+     "kwh": 84,
+     "price": 76200,
+     "basis": "rrp"
+    },
+    {
+     "name": "RWD Elite",
+     "drive": "RWD",
+     "kwh": 84,
+     "price": 81200,
+     "basis": "rrp"
+    },
+    {
+     "name": "AWD N Line Premium",
+     "drive": "AWD",
+     "kwh": 84,
+     "price": 91618,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "全包价 $70,990 (RWD) / $75,990 (Elite) / $86,990 (Premium N Line) + 3.90% p.a. 比较利率",
+     "valid": "2026-10-01 至 2026-12-31 订购并交付",
+     "src": "https://zecar.com/offers-and-deals/hyundai-ioniq-5-driveaway-finance-offer-q4-2026"
+    }
+   ],
+   "model_url": "https://www.hyundai.com/au/en/cars/ioniq-5",
+   "offers_url": "https://www.hyundai.com/au/en/offers",
+   "sources": [
+    "https://www.canberratimes.com.au/story/9342146/iconic-hyundais-big-price-hike/"
+   ],
+   "fit": "韩系偏高端；全包价高于 7X Standard $13k。",
+   "fit_en": "Korean premium-ish; drive-away $13k above 7X Standard."
+  },
+  {
+   "id": "deepal-s07",
+   "brand": "Deepal",
+   "model": "S07",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-01",
+   "variants": [
+    {
+     "name": "S07",
+     "drive": "RWD",
+     "kwh": 79.97,
+     "price": 53900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "现车全包价 $46,990 (19in) / $47,990 (20in)",
+     "valid": "2026-03-24 起，未注明截止",
+     "src": "https://thebeep.com.au/offers-and-deals/deepal"
+    }
+   ],
+   "model_url": "https://www.deepal.com.au/",
+   "sources": [
+    "https://zecar.com/offers-and-deals/deepal-s07-driveaway-deal-from-46-990"
+   ],
+   "fit": "长安偏高端子品牌；全包价低于 7X Standard 约 $14k。",
+   "fit_en": "Changan's premium-ish sub-brand; ~$14k under 7X Standard drive-away."
+  },
+  {
+   "id": "bmw-ix1",
+   "brand": "BMW",
+   "model": "iX1 / iX2",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "小中型高端SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "iX1 xDrive30",
+     "drive": "AWD",
+     "kwh": 64.7,
+     "price": 77900,
+     "basis": "rrp"
+    },
+    {
+     "name": "iX2 xDrive30",
+     "drive": "AWD",
+     "kwh": 64.7,
+     "price": 79990,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-03-31 降价；eDrive20 停售",
+   "offers": [],
+   "model_url": "https://www.bmw.com.au/en-au/all-models/x-series/ix1/overview.html",
+   "offers_url": "https://www.bmw.com.au/en-au/offers-and-services/promotions.html",
+   "sources": [
+    "https://thedriven.io/2026/03/31/bmw-cuts-prices-of-fully-electric-ix1-and-ix2-models/"
+   ],
+   "fit": "德系高端上界（高于 7X Performance $5k）。",
+   "fit_en": "German premium upper bound ($5k above 7X Performance)."
+  },
+  {
+   "id": "audi-q4",
+   "brand": "Audi",
+   "model": "Q4 e-tron (2027)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "小中型高端SUV",
+   "powertrain": "BEV",
+   "status": "launching",
+   "au_launch": "2027-H1",
+   "variants": [
+    {
+     "name": "Q4 e-tron",
+     "drive": "RWD",
+     "kwh": 63,
+     "price": 71650,
+     "basis": "rrp"
+    },
+    {
+     "name": "Q4 e-tron quattro",
+     "drive": "AWD",
+     "kwh": 82,
+     "price": 81650,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "2026-12-31 前订购 2027 款享 6 年/9 万公里保养计划",
+     "valid": "至 2026-12-31",
+     "src": "https://www.carsales.com.au/editorial/details/audi-q4-e-tron-prices-slashed-by-more-than-18000-152814/"
+    }
+   ],
+   "model_url": "https://www.audi.com.au/au/web/en/models/q4-e-tron.html",
+   "offers_url": "https://www.audi.com.au/au/web/en/offers.html",
+   "sources": [
+    "https://www.carsales.com.au/editorial/details/audi-q4-e-tron-prices-slashed-by-more-than-18000-152814/"
+   ],
+   "fit": "2027 款降价 $18k+ 后落在 7X Performance 价位。",
+   "fit_en": "Repositioned to $71,650 for 2027 – lands on 7X Performance."
+  },
+  {
+   "id": "toyota-bz4x",
+   "brand": "Toyota",
+   "model": "bZ4X (2026)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2024-02",
+   "variants": [
+    {
+     "name": "2WD",
+     "drive": "FWD",
+     "kwh": 74.7,
+     "price": 55990,
+     "basis": "rrp"
+    },
+    {
+     "name": "AWD",
+     "drive": "AWD",
+     "kwh": 74.7,
+     "price": 67990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "赠 7kW 家用充电桩或 12 个月 Chargefox 订阅；novated lease 折扣 $4,200/$6,800",
+     "valid": "至 2026-12-31",
+     "src": "https://thebeep.com.au/offers-and-deals/toyota"
+    }
+   ],
+   "model_url": "https://www.toyota.com.au/bz4x",
+   "sources": [
+    "https://zecar.com/reviews/toyota-bz4x-gets-10000-price-cut-despite-major-updates"
+   ],
+   "fit": "传统主流参照；降价 $10k 后低于 7X Standard $1.9k。",
+   "fit_en": "Mainstream legacy reference; $1.9k under 7X Standard after a $10k cut."
+  },
+  {
+   "id": "ford-mach-e",
+   "brand": "Ford",
+   "model": "Mustang Mach-E (MY26)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "Select",
+     "drive": "RWD",
+     "kwh": 73,
+     "price": 65990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 88,
+     "price": 80490,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT",
+     "drive": "AWD",
+     "kwh": 91,
+     "price": 98490,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.ford.com.au/suvs/mustang-mach-e/",
+   "sources": [
+    "https://www.illawarramercury.com.au/story/9083094/2026-ford-mustang-mach-e-minor-refresh-for-mid-size-electric-suv/"
+   ],
+   "fit": "传统品牌参照，高于 7X Standard $8k。",
+   "fit_en": "Legacy-brand reference, $8k above 7X Standard."
+  },
+  {
+   "id": "skoda-enyaq",
+   "brand": "Skoda",
+   "model": "Enyaq (2026)",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-H2",
+   "variants": [
+    {
+     "name": "Select 60",
+     "drive": "RWD",
+     "kwh": 63,
+     "price": 51990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Sportline 85",
+     "drive": "RWD",
+     "kwh": 82,
+     "price": 60990,
+     "basis": "rrp"
+    },
+    {
+     "name": "RS",
+     "drive": "AWD",
+     "kwh": 84,
+     "price": 76590,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.skoda.com.au/models/enyaq",
+   "sources": [
+    "https://www.chasingcars.com.au/news/new-car-prices/skoda-enyaq-2026-cut-priced-60-select-variant-heads-a-czechian-pricing-offensive-alongside-updates-across-enyaq-and-elroq-model-ranges/"
+   ],
+   "fit": "欧洲准高端；低于 7X Standard $6k。",
+   "fit_en": "European semi-premium; $6k under 7X Standard."
+  },
+  {
+   "id": "geely-ex5",
+   "brand": "Geely",
+   "model": "EX5",
+   "zeekr": [
+    "7X"
+   ],
+   "tier": "reference",
+   "body": "中型SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-03",
+   "group_flag": "同集团（GAA 自有）",
+   "variants": [
+    {
+     "name": "Complete",
+     "drive": "FWD",
+     "kwh": 70.19,
+     "price": 41990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Inspire",
+     "drive": "FWD",
+     "kwh": 70.19,
+     "price": 45990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "0.09% p.a. 比较利率（零首付、36 个月、无尾款）或 novated lease 6% 折扣",
+     "valid": "2026-10-31 前批准，2026-11-13 前放款",
+     "src": "https://zecar.com/offers-and-deals/geely-0-09-finance-ex5-ex2-starray-em-i-october-2026"
+    }
+   ],
+   "model_url": "https://www.geelyauto.com.au/",
+   "sources": [
+    "https://zecar.com/electric-vehicles/geely"
+   ],
+   "fit": "集团内部车型，仅作内部分流检查。",
+   "fit_en": "Internal Geely-group model; listed for cannibalisation check only."
+  },
+  {
+   "id": "tesla-model-3",
+   "brand": "Tesla",
+   "model": "Model 3",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "core",
+   "body": "中型轿车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2019",
+   "variants": [
+    {
+     "name": "RWD（2026-10-01 新入门）",
+     "drive": "RWD",
+     "kwh": 60,
+     "price": 45900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium RWD",
+     "drive": "RWD",
+     "kwh": null,
+     "price": 54900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium Long Range RWD",
+     "drive": "RWD",
+     "kwh": 84,
+     "price": 61900,
+     "basis": "rrp"
+    },
+    {
+     "name": "Performance AWD",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 80900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "现车 Model 3 全包价最高减 $2,750（ACT/TAS/VIC）",
+     "valid": "未注明截止",
+     "src": "https://thedriven.io/2026/10/10/tesla-lowers-in-stock-model-3-prices-by-2750/"
+    },
+    {
+     "text": "置换补贴 $2,000",
+     "valid": "至 2026-12-31",
+     "src": "https://zecar.com/offers-and-deals/tesla"
+    }
+   ],
+   "model_url": "https://www.tesla.com/en_au/model3",
+   "offers_url": "https://www.tesla.com/en_au/inventory/new/m3",
+   "sources": [
+    "https://www.cars24.com.au/car-news/tesla-model-3-rwd-price-australia/"
+   ],
+   "fit": "轿车定价基准；$45,900 新入门价重设 7GT 的价格下限。",
+   "fit_en": "Price-setting sedan benchmark; the new $45,900 base resets the floor for 7GT."
+  },
+  {
+   "id": "polestar-2",
+   "brand": "Polestar",
+   "model": "2 (MY27)",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "core",
+   "body": "掀背轿车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "group_flag": "Geely 集团",
+   "variants": [
+    {
+     "name": "Long Range Single Motor",
+     "drive": "RWD",
+     "kwh": 82,
+     "price": 66400,
+     "basis": "rrp"
+    },
+    {
+     "name": "Long Range Dual Motor",
+     "drive": "AWD",
+     "kwh": 82,
+     "price": 71400,
+     "basis": "rrp"
+    },
+    {
+     "name": "LR Dual Motor Performance Pack",
+     "drive": "AWD",
+     "kwh": 82,
+     "price": 85080,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "部分预配置 Rear Motor 车型减 $5,000；novated $222/周起",
+     "valid": "2026-10-01 至 2026-12-31 订购，2027-01-31 前交付",
+     "src": "https://www.polestar.com/au/offers/private/polestar-2/"
+    }
+   ],
+   "model_url": "https://www.polestar.com/au/polestar-2/",
+   "offers_url": "https://www.polestar.com/au/offers/",
+   "sources": [
+    "https://thebeep.com.au/car-news/2027-polestar-2-price-australia-lineup-changes"
+   ],
+   "fit": "集团高端掀背；定义 7GT 价格带的中上区间。",
+   "fit_en": "Geely-group premium liftback; defines the upper-mid of the 7GT band."
+  },
+  {
+   "id": "byd-seal",
+   "brand": "BYD",
+   "model": "Seal",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "core",
+   "body": "中型轿车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2023-10",
+   "variants": [
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 82.56,
+     "price": 52990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Performance",
+     "drive": "AWD",
+     "kwh": 82.56,
+     "price": 61990,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "Dynamic ($46,990) 2026-06-25 停售",
+   "offers": [
+    {
+     "text": "不在 BYD 10–12 月 $4,000 返现范围；novated lease 6% 折扣",
+     "valid": "",
+     "src": "https://zecar.com/offers-and-deals/byd"
+    }
+   ],
+   "model_url": "https://www.byd.com.au/car/seal",
+   "offers_url": "https://www.byd.com.au/offers",
+   "sources": [
+    "https://www.carsguide.com.au/byd/seal/2026"
+   ],
+   "fit": "销量轿车对手；$52,990–$61,990 覆盖 7GT 可能的入门价。",
+   "fit_en": "Volume sedan rival; $52,990–$61,990 brackets a likely 7GT entry."
+  },
+  {
+   "id": "im5",
+   "brand": "IM (MG)",
+   "model": "IM5",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "core",
+   "body": "掀背轿车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025-09",
+   "variants": [
+    {
+     "name": "Premium",
+     "drive": "RWD",
+     "kwh": 75,
+     "price": 60990,
+     "basis": "da"
+    },
+    {
+     "name": "Platinum",
+     "drive": "RWD",
+     "kwh": 100,
+     "price": 67990,
+     "basis": "da"
+    },
+    {
+     "name": "Performance",
+     "drive": "AWD",
+     "kwh": 100,
+     "price": 77990,
+     "basis": "da"
+    }
+   ],
+   "offers": [
+    {
+     "text": "$3,000 现金返还 + $500 配件补贴 → 全包价 $57,990 / $64,990 / $74,990",
+     "valid": "2026-10-01 至 2026-10-31 售出并交付",
+     "src": "https://mgmotor.com.au/offers"
+    }
+   ],
+   "model_url": "https://mgmotor.com.au/vehicles/im5",
+   "offers_url": "https://mgmotor.com.au/offers",
+   "sources": [
+    "https://www.evee.com.au/blog/mg-im5-australia-price-specs-range/"
+   ],
+   "fit": "上汽高端科技掀背；75/100/100kWh 梯度与 7GT 完全一致，最直接对手。",
+   "fit_en": "SAIC's premium-tech liftback; its 75/100/100 kWh ladder mirrors 7GT – very direct rival."
+  },
+  {
+   "id": "kia-ev4",
+   "brand": "Kia",
+   "model": "EV4 轿车",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "reference",
+   "body": "小中型轿车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2026-01",
+   "variants": [
+    {
+     "name": "Air Standard Range",
+     "drive": "FWD",
+     "kwh": 58.3,
+     "price": 49990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Earth Long Range",
+     "drive": "FWD",
+     "kwh": 81.4,
+     "price": 59190,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line Long Range",
+     "drive": "FWD",
+     "kwh": 81.4,
+     "price": 64690,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "EV4 Air 全包价 $52,990 起（私人买家）",
+     "valid": "至 2026-10-31",
+     "src": "https://www.kia.com/au/offers.html"
+    }
+   ],
+   "model_url": "https://www.kia.com/au/cars/ev4/showroom.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "https://blog-service-au.c24.tech/car-news/kia-ev4-sedan-priced-australia/"
+   ],
+   "fit": "前驱主流轿车；价格带与 7GT RWD 75kWh 入门重叠。",
+   "fit_en": "FWD mainstream sedan; overlaps a 7GT RWD 75 kWh entry on price."
+  },
+  {
+   "id": "mazda-6e",
+   "brand": "Mazda",
+   "model": "6e",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "reference",
+   "body": "掀背轿车",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2026-07",
+   "variants": [
+    {
+     "name": "GT",
+     "drive": "RWD",
+     "kwh": 78,
+     "price": 49990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Atenza",
+     "drive": "RWD",
+     "kwh": 78,
+     "price": 52990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mazda.com.au/cars/mazda6e/",
+   "sources": [
+    "https://zecar.com/reviews/mazda-6e-pricing-revealed-australias-new-electric-sedan-starts-at-49990"
+   ],
+   "fit": "长安代工的马自达掀背，$50–53k，低于 7GT 入门。",
+   "fit_en": "Changan-built Mazda liftback at $50–53k; under a 7GT entry."
+  },
+  {
+   "id": "mb-cla-ev",
+   "brand": "Mercedes-Benz",
+   "model": "CLA electric（含 Shooting Brake）",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "core",
+   "body": "轿车 / 猎装车",
+   "powertrain": "BEV",
+   "status": "launching",
+   "au_launch": "2026-H2",
+   "variants": [
+    {
+     "name": "CLA 200 electric",
+     "drive": "RWD",
+     "kwh": 58,
+     "price": 72200,
+     "basis": "rrp"
+    },
+    {
+     "name": "CLA 350 4MATIC electric",
+     "drive": "AWD",
+     "kwh": 85,
+     "price": 91300,
+     "basis": "rrp"
+    },
+    {
+     "name": "CLA Shooting Brake electric",
+     "drive": null,
+     "kwh": null,
+     "price": null,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mercedes-benz.com.au/passengercars/models/sedan/cla/overview.html",
+   "offers_url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html",
+   "sources": [
+    "https://zecar.com/reviews/mercedes-benz-cla-2026-electric-hybrid-prices-specs-australia",
+    "https://www.canberratimes.com.au/story/9296460/bargain-luxury-ev-confirmed/"
+   ],
+   "fit": "7GT 的高端上限；Shooting Brake 是唯一的另一款高端电动旅行车。",
+   "fit_en": "Premium ceiling for 7GT; the Shooting Brake is the only other premium electric wagon."
+  },
+  {
+   "id": "bmw-i4",
+   "brand": "BMW",
+   "model": "i4",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "reference",
+   "body": "四门轿跑",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "eDrive35 Gran Coupe",
+     "drive": "RWD",
+     "kwh": 66.4,
+     "price": 88900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.bmw.com.au/en-au/all-models/bmw-i/i4/overview.html",
+   "sources": [
+    "https://www.canberratimes.com.au/story/9085752/2026-bmw-i4-gran-coupe-lineup-pared-down-to-single-variant/"
+   ],
+   "fit": "德系高端上界参照。",
+   "fit_en": "German premium upper reference."
+  },
+  {
+   "id": "denza-z9gt",
+   "brand": "Denza (BYD)",
+   "model": "Z9 GT",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "watch",
+   "body": "猎装车",
+   "powertrain": "BEV/PHEV",
+   "status": "watch",
+   "au_launch": "2026 年底前（预期）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.carsales.com.au/editorial/details/denza-z9-gt-coming-to-australia-151442"
+   ],
+   "fit": "唯一另一款中国高端猎装车，预计约 $80k 起；7GT 的重点观察对象。",
+   "fit_en": "The only other Chinese premium shooting brake, tipped from ~$80k – key watch item for 7GT."
+  },
+  {
+   "id": "xpeng-p7",
+   "brand": "Xpeng",
+   "model": "P7 / Mona L03",
+   "zeekr": [
+    "7GT"
+   ],
+   "tier": "watch",
+   "body": "轿车",
+   "powertrain": "BEV",
+   "status": "watch",
+   "au_launch": "Mona L03 2026 年底/2027 初；P7 2027",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.carsales.com.au/editorial/details/2027-xpeng-mona-l03-certain-for-australia-152407/"
+   ],
+   "fit": "Mona L03 为 $40k 级别的未来威胁；P7 才是 2027 年的真正 7GT 对手。",
+   "fit_en": "Mona L03 is a future sub-$50k threat; P7 is the true 7GT rival in 2027."
+  },
+  {
+   "id": "lexus-lm",
+   "brand": "Lexus",
+   "model": "LM",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "core",
+   "body": "豪华MPV",
+   "powertrain": "HEV",
+   "status": "on_sale",
+   "au_launch": "2023-Q4",
+   "variants": [
+    {
+     "name": "LM 350h Sports Luxury 2WD (7 座)",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 163520,
+     "basis": "rrp"
+    },
+    {
+     "name": "LM 350h Sports Luxury AWD (7 座)",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 168520,
+     "basis": "rrp"
+    },
+    {
+     "name": "LM 500h Ultra Luxury (4 座)",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 223520,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "无全国性政策（仅 Lexus Corporate Program）",
+     "valid": "",
+     "src": "https://thebeep.com.au/offers-and-deals/lexus"
+    }
+   ],
+   "model_url": "https://www.lexus.com.au/models/lm",
+   "offers_url": "https://www.lexus.com.au/offers",
+   "sources": [
+    "https://www.carsguide.com.au/lexus/lm-350h/price/2026"
+   ],
+   "fit": "最接近的高端品牌基准；高于 009 $25–85k，混动而非纯电。",
+   "fit_en": "Closest premium-brand benchmark; $25–85k above 009, hybrid not BEV."
+  },
+  {
+   "id": "denza-d9",
+   "brand": "Denza (BYD)",
+   "model": "D9",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "core",
+   "body": "豪华MPV 7 座",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2026-03",
+   "variants": [
+    {
+     "name": "D9 FWD",
+     "drive": "FWD",
+     "kwh": 103.3,
+     "price": 85990,
+     "basis": "rrp"
+    },
+    {
+     "name": "D9 AWD",
+     "drive": "AWD",
+     "kwh": 103.3,
+     "price": 95990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "2026-10 暂无 D9 全国性政策（Denza 仅 B5/B8 有金融政策）",
+     "valid": "",
+     "src": "https://thebeep.com.au/offers-and-deals/denza"
+    }
+   ],
+   "model_url": "https://www.denza.com.au/",
+   "sources": [
+    "https://evcentral.com.au/denza-launches-its-first-ev-in-australia-price-and-spec-for-d9-people-mover-confirmed/",
+    "https://www.carsguide.com.au/denza/d9/price/2026"
+   ],
+   "fit": "最直接的纯电对手，低于 009 $20–40k；同为中国高端定位。",
+   "fit_en": "Most direct BEV rival, $20–40k under 009; same Chinese-premium positioning."
+  },
+  {
+   "id": "xpeng-x9",
+   "brand": "Xpeng",
+   "model": "X9",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "core",
+   "body": "豪华MPV 7 座",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2026-07",
+   "variants": [
+    {
+     "name": "X9 FWD Standard Range",
+     "drive": "FWD",
+     "kwh": 94.8,
+     "price": 89900,
+     "basis": "rrp"
+    },
+    {
+     "name": "X9 AWD Performance",
+     "drive": "AWD",
+     "kwh": 110,
+     "price": 109900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "暂无；上市权益为 7 年保修、12 个月流量",
+     "valid": "",
+     "src": "https://thebeep.com.au/offers-and-deals/xpeng"
+    }
+   ],
+   "model_url": "https://shop.xpeng.com.au/pages/x9",
+   "sources": [
+    "https://www.carexpert.com.au/car-news/2026-xpeng-x9-prices-futuristic-ev-enters-growing-luxury-people-mover-segment"
+   ],
+   "fit": "科技导向的纯电直接对手（空悬、后轮转向），低于 009 $6–30k。",
+   "fit_en": "Direct tech-led BEV rival with air suspension and rear steer; $6–30k under 009."
+  },
+  {
+   "id": "mb-eqv",
+   "brand": "Mercedes-Benz",
+   "model": "EQV 300",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "豪华MPV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "EQV 300",
+     "drive": "FWD",
+     "kwh": 90,
+     "price": 154900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mercedes-benz.com.au/vans/en/eqv",
+   "offers_url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html",
+   "sources": [
+    "https://www.carexpert.com.au/mercedes-benz/eqv/2026"
+   ],
+   "fit": "欧洲纯电 MPV，价格高于 009，技术较旧；品牌参照。",
+   "fit_en": "European BEV MPV above 009 price with older tech; badge reference."
+  },
+  {
+   "id": "mb-vclass",
+   "brand": "Mercedes-Benz",
+   "model": "V-Class",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "豪华MPV",
+   "powertrain": "ICE",
+   "status": "on_sale",
+   "au_launch": "2015",
+   "variants": [
+    {
+     "name": "V250 Avantgarde",
+     "drive": "RWD",
+     "kwh": null,
+     "price": 129090,
+     "basis": "da"
+    },
+    {
+     "name": "V300 Exclusive",
+     "drive": "RWD",
+     "kwh": null,
+     "price": 162123,
+     "basis": "da"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mercedes-benz.com.au/vans/en/v-class",
+   "sources": [
+    "https://www.carexpert.com.au/mercedes-benz/v/pricing"
+   ],
+   "fit": "柴油行政接待基准，全包价区间与 009 相同。",
+   "fit_en": "Diesel executive-shuttle benchmark in the same drive-away band as 009."
+  },
+  {
+   "id": "kia-carnival-hev",
+   "brand": "Kia",
+   "model": "Carnival Hybrid",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "MPV 8 座",
+   "powertrain": "HEV",
+   "status": "on_sale",
+   "au_launch": "2024",
+   "variants": [
+    {
+     "name": "S Hybrid",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 56310,
+     "basis": "rrp"
+    },
+    {
+     "name": "Sport+ Hybrid",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 68540,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line Hybrid",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 76840,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "Carnival Hybrid S 全包价 $59,990（私人买家）",
+     "valid": "至 2026-10-31",
+     "src": "https://www.kia.com/au/offers.html"
+    }
+   ],
+   "model_url": "https://www.kia.com/au/cars/carnival.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "https://www.carsguide.com.au/kia/carnival/price/2026"
+   ],
+   "fit": "细分市场销量领导者（约 74%）；GT-Line Hybrid 是 009 需证明溢价的主流天花板。",
+   "fit_en": "Segment volume leader (~74%); GT-Line Hybrid is the mainstream ceiling 009 must justify a premium over."
+  },
+  {
+   "id": "vw-id-buzz",
+   "brand": "Volkswagen",
+   "model": "ID. Buzz LWB",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "MPV 7 座",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025",
+   "variants": [
+    {
+     "name": "Pro LWB 7 座",
+     "drive": "RWD",
+     "kwh": 86,
+     "price": 80990,
+     "basis": "rrp"
+    },
+    {
+     "name": "GTX LWB 4MOTION",
+     "drive": "AWD",
+     "kwh": 86,
+     "price": 104990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "全包价活动（Pro $84,990）有效期至 2026-04-30，当前状态待核实",
+     "valid": "",
+     "src": "https://thedriven.io/2026/02/03/volkswagen-announces-more-price-cuts-for-id-buzz-electric-vans-in-australia/"
+    }
+   ],
+   "model_url": "https://www.volkswagen.com.au/en/models/id-buzz.html",
+   "sources": [
+    "https://thedriven.io/2026/02/03/volkswagen-announces-more-price-cuts-for-id-buzz-electric-vans-in-australia/"
+   ],
+   "fit": "生活方式纯电 MPV，明确以 EQV/009 的低价替代品定位。",
+   "fit_en": "Lifestyle BEV MPV explicitly marketed as a cheaper EQV/009 alternative."
+  },
+  {
+   "id": "gac-m8",
+   "brand": "GAC",
+   "model": "M8",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "豪华MPV 7 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2026-02",
+   "variants": [
+    {
+     "name": "M8 Premium",
+     "drive": "FWD",
+     "kwh": 25.6,
+     "price": 76590,
+     "basis": "rrp"
+    },
+    {
+     "name": "M8 Luxury",
+     "drive": "FWD",
+     "kwh": 25.6,
+     "price": 83590,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.gac.com.au/",
+   "sources": [
+    "https://www.carexpert.com.au/gac/m8/2026-luxury-2l-mpv-fwd-electric-jsk8oaak20260220"
+   ],
+   "fit": "低价位中国插混 MPV，更接近 Carnival GT-Line 而非 009。",
+   "fit_en": "Lower-priced Chinese PHEV MPV; brackets Carnival GT-Line rather than 009."
+  },
+  {
+   "id": "byd-m9",
+   "brand": "BYD",
+   "model": "M9",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "watch",
+   "body": "MPV 7/8 座",
+   "powertrain": "PHEV",
+   "status": "launching",
+   "au_launch": "2026-Q4",
+   "variants": [
+    {
+     "name": "M9 Dynamic (8 座)",
+     "drive": "FWD",
+     "kwh": 20.39,
+     "price": 61990,
+     "basis": "rrp"
+    },
+    {
+     "name": "M9 Premium (7 座)",
+     "drive": "FWD",
+     "kwh": 36.6,
+     "price": 72990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.byd.com.au",
+   "offers_url": "https://www.byd.com.au/offers",
+   "sources": [
+    "https://www.cars24.com.au/car-news/2027-byd-m9-phev-price-specs-australia/"
+   ],
+   "fit": "$75k 以下插混 MPV 新入者，拉低细分市场价格预期。",
+   "fit_en": "New sub-$75k PHEV MPV; pulls segment price expectations down."
+  },
+  {
+   "id": "wey-g9",
+   "brand": "GWM Wey",
+   "model": "G9",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "watch",
+   "body": "豪华MPV",
+   "powertrain": "PHEV/HEV",
+   "status": "launching",
+   "au_launch": "2026-Q4（预期）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.carsales.com.au/editorial/details/gwm-wey-g9-people-mover-approved-for-australia-but-theres-a-surprise-153026/"
+   ],
+   "fit": "即将上市的中国豪华插混 MPV，品牌定价“低于 $100k”。",
+   "fit_en": "Upcoming Chinese luxury PHEV MPV, brand pricing 'under $100k'."
+  },
+  {
+   "id": "mb-vle",
+   "brand": "Mercedes-Benz",
+   "model": "VLE",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "watch",
+   "body": "豪华纯电MPV",
+   "powertrain": "BEV",
+   "status": "watch",
+   "au_launch": "未确认（最早 2027）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.canberratimes.com.au/story/9195910/euro-answer-to-zeekrs-lavish-family-car/"
+   ],
+   "fit": "若确认引进，将是欧洲对 009 最直接的回应。",
+   "fit_en": "Would be the most direct European answer to 009 if confirmed."
+  },
+  {
+   "id": "li-mega",
+   "brand": "Li Auto",
+   "model": "Mega",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "watch",
+   "body": "豪华纯电MPV",
+   "powertrain": "BEV",
+   "status": "watch",
+   "au_launch": "未确认（右舵 2026 年底面向港/新/东南亚）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.theleader.com.au/story/9365916/another-chinese-brand-edges-closer/"
+   ],
+   "fit": "观察名单；如进入澳洲即为 009 的直接对手。",
+   "fit_en": "Watch list; a direct 009 rival if it comes to Australia."
+  },
+  {
+   "id": "volvo-xc90-t8",
+   "brand": "Volvo",
+   "model": "XC90 T8 PHEV",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "core",
+   "body": "大型SUV 7 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2015",
+   "variants": [
+    {
+     "name": "Plus T8",
+     "drive": "AWD",
+     "kwh": 18.8,
+     "price": 120990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Ultra T8",
+     "drive": "AWD",
+     "kwh": 18.8,
+     "price": 130990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "Volvo Showcase 10 月活动（零售商层面）",
+     "valid": "2026-10-01 至 2026-10-31",
+     "src": "https://www.volvocars.com/au/offers/"
+    }
+   ],
+   "model_url": "https://www.volvocars.com/au/cars/xc90-hybrid/",
+   "offers_url": "https://www.volvocars.com/au/offers/",
+   "sources": [
+    "https://www.carsguide.com.au/volvo/xc90/price/2026"
+   ],
+   "fit": "欧洲插混 7 座关键基准；8X 定位低于其 $121–131k 约 $20–30k。",
+   "fit_en": "Key European PHEV 7-seat benchmark; 8X positioned $20–30k under its $121–131k."
+  },
+  {
+   "id": "bmw-x5-50e",
+   "brand": "BMW",
+   "model": "X5 xDrive50e",
+   "zeekr": [
+    "8X",
+    "9X"
+   ],
+   "tier": "core",
+   "body": "大型SUV",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "xDrive50e M Sport（现款，清库）",
+     "drive": "AWD",
+     "kwh": 25.7,
+     "price": 154900,
+     "basis": "rrp"
+    },
+    {
+     "name": "新一代 X5 40d/40（2026 Q4）",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 143900,
+     "basis": "rrp"
+    },
+    {
+     "name": "新一代 X5 50e（2027 Q1）",
+     "drive": "AWD",
+     "kwh": 26.5,
+     "price": null,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "X5 Runout 限量库存优惠（未公布价格）",
+     "valid": "2026-08-26 起",
+     "src": "https://thebeep.com.au/offers-and-deals/bmw"
+    }
+   ],
+   "model_url": "https://www.bmw.com.au/en/all-models/x-series/X5/",
+   "offers_url": "https://www.bmw.com.au/en/offers.html",
+   "sources": [
+    "https://www.carsguide.com.au/bmw/x5/price/2026",
+    "https://www.chasingcars.com.au/news/new-car-prices/bmw-x5-2027-pricing-confirmed-for-australia-with-only-minimal-rise-from-outgoing-generation/"
+   ],
+   "fit": "Zeekr 官方点名的 8X 对标；8X 定价约低 $55k。",
+   "fit_en": "Named by Zeekr as an 8X target; 8X priced ~$55k under."
+  },
+  {
+   "id": "mb-gle",
+   "brand": "Mercedes-Benz",
+   "model": "GLE",
+   "zeekr": [
+    "8X",
+    "9X"
+   ],
+   "tier": "core",
+   "body": "大型SUV",
+   "powertrain": "ICE（2027 新一代增插混）",
+   "status": "on_sale",
+   "au_launch": "2019",
+   "variants": [
+    {
+     "name": "GLE 300d",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 144900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "展示车活动：现货展示车赠 3 年保养",
+     "valid": "2026-10",
+     "src": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"
+    }
+   ],
+   "model_url": "https://www.mercedes-benz.com.au/passengercars/models/suv/gle/overview.html",
+   "offers_url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html",
+   "sources": [
+    "https://www.carexpert.com.au/mercedes-benz/gle/2026/price-and-specs",
+    "https://www.canberratimes.com.au/story/9212093/new-430kw-luxury-brawler-incoming/"
+   ],
+   "fit": "Zeekr 点名的 8X 对标；澳洲现款无插混，2027 新一代才有。",
+   "fit_en": "Named 8X target; no PHEV in AU until the 2027 generation."
+  },
+  {
+   "id": "lexus-rx450h",
+   "brand": "Lexus",
+   "model": "RX 450h+",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "core",
+   "body": "大型SUV 5 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "RX450h+ Luxury",
+     "drive": "AWD",
+     "kwh": 18.1,
+     "price": 105350,
+     "basis": "rrp"
+    },
+    {
+     "name": "RX450h+ Sports Luxury",
+     "drive": "AWD",
+     "kwh": 18.1,
+     "price": 123650,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.lexus.com.au/models/rx",
+   "offers_url": "https://www.lexus.com.au/offers",
+   "sources": [
+    "https://www.carexpert.com.au/car-news/2026-lexus-rx-gets-tech-upgrades-more-affordable-phev"
+   ],
+   "fit": "日系高端插混，$105–124k，5 座。",
+   "fit_en": "Japanese-premium PHEV at $105–124k; 5-seat."
+  },
+  {
+   "id": "mazda-cx80-phev",
+   "brand": "Mazda",
+   "model": "CX-80 P50e PHEV",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "core",
+   "body": "大型SUV 7 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2024-11",
+   "variants": [
+    {
+     "name": "P50e Touring",
+     "drive": "AWD",
+     "kwh": 17.8,
+     "price": 68100,
+     "basis": "rrp"
+    },
+    {
+     "name": "P50e GT",
+     "drive": "AWD",
+     "kwh": 17.8,
+     "price": 75100,
+     "basis": "rrp"
+    },
+    {
+     "name": "P50e Azami",
+     "drive": "AWD",
+     "kwh": 17.8,
+     "price": 80300,
+     "basis": "rrp"
+    },
+    {
+     "name": "P50e Azami SP",
+     "drive": "AWD",
+     "kwh": 17.8,
+     "price": 85300,
+     "basis": "rrp"
+    }
+   ],
+   "price_note": "2026-07 起降价 $7,650–8,687",
+   "offers": [
+    {
+     "text": "Mazda M-Day 2026-10-17：3 次免费保养 + $1,000 金融首付补贴（全系）",
+     "valid": "2026-10-17",
+     "src": "https://www.mazda.com.au/offers/"
+    }
+   ],
+   "model_url": "https://www.mazda.com.au/cars/cx-80/",
+   "offers_url": "https://www.mazda.com.au/offers/",
+   "sources": [
+    "https://www.carexpert.com.au/car-news/2026-mazda-cx-80-prices-diesels-phevs-more-affordable-than-before"
+   ],
+   "fit": "日系准高端插混 7 座，$68–85k，正是 8X 声称落位的价格走廊。",
+   "fit_en": "Japanese near-premium PHEV 7-seater at $68–85k – the corridor Zeekr says 8X will land in."
+  },
+  {
+   "id": "denza-b8",
+   "brand": "Denza (BYD)",
+   "model": "B8",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "core",
+   "body": "大型越野SUV 6/7 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2026-02",
+   "variants": [
+    {
+     "name": "B8 7 座",
+     "drive": "AWD",
+     "kwh": 36.8,
+     "price": 91000,
+     "basis": "rrp"
+    },
+    {
+     "name": "B8 6 座",
+     "drive": "AWD",
+     "kwh": 36.8,
+     "price": 97990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "4.99% p.a. 比较利率（36 个月，≥15% 首付，≤30% 尾款）",
+     "valid": "2026-08-26 至 2026-11-30",
+     "src": "https://thebeep.com.au/offers-and-deals/denza"
+    }
+   ],
+   "model_url": "https://www.denza.com.au/",
+   "sources": [
+    "https://www.cars24.com.au/car-news/2026-denza-b8-price-and-specs-detailed/"
+   ],
+   "fit": "8X 价位最接近的中国高端插混，但为非承载式越野车。",
+   "fit_en": "Closest Chinese-premium PHEV at the 8X price point, but a ladder-frame off-roader."
+  },
+  {
+   "id": "byd-sealion8",
+   "brand": "BYD",
+   "model": "Sealion 8",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "reference",
+   "body": "大型SUV 7 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2026-02",
+   "variants": [
+    {
+     "name": "Dynamic FWD",
+     "drive": "FWD",
+     "kwh": 19,
+     "price": 56990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Dynamic AWD",
+     "drive": "AWD",
+     "kwh": 35.6,
+     "price": 63990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Premium AWD",
+     "drive": "AWD",
+     "kwh": 35.6,
+     "price": 70990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "$4,000 现金返还或 0.99% p.a. 比较利率（36 个月，零首付无尾款）",
+     "valid": "2026-10-01 至 2026-12-21 下单，2026-12-31 前交付",
+     "src": "https://zecar.com/offers-and-deals/byd-sealion-8-4000-cashback-october-2026"
+    }
+   ],
+   "model_url": "https://www.byd.com.au/car/sealion8",
+   "offers_url": "https://www.byd.com.au/offers",
+   "sources": [
+    "https://www.cars24.com.au/car-news/2026-byd-sealion-8-phev-price/"
+   ],
+   "fit": "主流价位插混 7 座，构成 8X 之下 $20–30k 的价格地板。",
+   "fit_en": "Mainstream-price PHEV 7-seater; the floor the 8X sits $20–30k above."
+  },
+  {
+   "id": "kia-sorento-phev",
+   "brand": "Kia",
+   "model": "Sorento PHEV",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "reference",
+   "body": "大型SUV 7 座",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "variants": [
+    {
+     "name": "GT-Line PHEV AWD",
+     "drive": "AWD",
+     "kwh": 14,
+     "price": 86040,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "Sorento PHEV S AWD 全包价 $69,990（2025 年产）",
+     "valid": "至 2026-10-31",
+     "src": "https://www.kia.com/au/offers.html"
+    }
+   ],
+   "model_url": "https://www.kia.com/au/cars/sorento.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "https://www.carexpert.com.au/kia/sorento/2026-gt-line-1-6l-suv-4x4-electric-jsasomof20251118"
+   ],
+   "fit": "主流插混 7 座，位于 8X 价格下限。",
+   "fit_en": "Mainstream PHEV 7-seater at the 8X floor."
+  },
+  {
+   "id": "kia-ev9",
+   "brand": "Kia",
+   "model": "EV9",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "reference",
+   "body": "大型SUV 7 座",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "Air RWD",
+     "drive": "RWD",
+     "kwh": 76.1,
+     "price": 97000,
+     "basis": "rrp"
+    },
+    {
+     "name": "Earth AWD",
+     "drive": "AWD",
+     "kwh": 99.8,
+     "price": 106500,
+     "basis": "rrp"
+    },
+    {
+     "name": "GT-Line AWD",
+     "drive": "AWD",
+     "kwh": 99.8,
+     "price": 121000,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.kia.com/au/cars/ev9/showroom.html",
+   "offers_url": "https://www.kia.com/au/offers.html",
+   "sources": [
+    "http://thedriven.io/2026/02/17/2026-kia-ev9-pricing-reveals-new-top-trim-starts-at-129250/"
+   ],
+   "fit": "纯电大型 7 座，价格带与 8X/9X 入门重叠。",
+   "fit_en": "BEV large 7-seater overlapping the 8X/9X entry band."
+  },
+  {
+   "id": "xpeng-g9l",
+   "brand": "Xpeng",
+   "model": "G9L",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "watch",
+   "body": "大型SUV",
+   "powertrain": "BEV/REEV",
+   "status": "launching",
+   "au_launch": "2026 Q4 发布，2027 初交付",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://zecar.com/reviews/xpeng-g9l-australia-q4-launch"
+   ],
+   "fit": "最直接的即将上市中国高端增程/纯电对手，媒体直接以 8X 作比较。",
+   "fit_en": "Most direct upcoming Chinese-premium REEV/BEV rival; press benchmarks it against 8X."
+  },
+  {
+   "id": "wey-v9x",
+   "brand": "GWM Wey",
+   "model": "V9X / V8X",
+   "zeekr": [
+    "8X"
+   ],
+   "tier": "watch",
+   "body": "大型插混SUV",
+   "powertrain": "PHEV",
+   "status": "watch",
+   "au_launch": "2027（预期）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.carsales.com.au/editorial/details/gwm-wey-g9-people-mover-approved-for-australia-but-theres-a-surprise-153026/"
+   ],
+   "fit": "2027 年的中国插混直接对手，品牌定价“低于 $100k”。",
+   "fit_en": "Direct Chinese PHEV rival for 2027; brand pricing 'under $100k'."
+  },
+  {
+   "id": "rr-sport-p460e",
+   "brand": "Land Rover",
+   "model": "Range Rover Sport P460e",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "core",
+   "body": "大型豪华SUV",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "P460e Dynamic HSE",
+     "drive": "AWD",
+     "kwh": 38.2,
+     "price": 188500,
+     "basis": "rrp"
+    },
+    {
+     "name": "P460e Autobiography",
+     "drive": "AWD",
+     "kwh": 38.2,
+     "price": 211900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "JLR 现有客户购买指定 RR Sport 最高 $7,500 补贴",
+     "valid": "2026-10-01 至 2026-10-31",
+     "src": "https://thebeep.com.au/offers-and-deals/land-rover"
+    }
+   ],
+   "model_url": "https://www.landrover.com.au/vehicles/range-rover-sport/index.html",
+   "offers_url": "https://www.landrover.com.au/offers-and-finance/index.html",
+   "sources": [
+    "https://www.carsguide.com.au/land-rover/range-rover-sport/price/2026"
+   ],
+   "fit": "Zeekr 官方点名对标；$189–212k 的豪华插混 SUV 基准。",
+   "fit_en": "Named by Zeekr as a target; the PHEV luxury SUV benchmark at $189–212k."
+  },
+  {
+   "id": "rr-p460e",
+   "brand": "Land Rover",
+   "model": "Range Rover P460e",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "reference",
+   "body": "全尺寸豪华SUV",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "P460e HSE SWB",
+     "drive": "AWD",
+     "kwh": 38.2,
+     "price": 284900,
+     "basis": "rrp"
+    },
+    {
+     "name": "P460e Autobiography SWB",
+     "drive": "AWD",
+     "kwh": 38.2,
+     "price": 313700,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.landrover.com.au/vehicles/range-rover/index.html",
+   "offers_url": "https://www.landrover.com.au/offers-and-finance/index.html",
+   "sources": [
+    "https://www.carsguide.com.au/land-rover/range-rover/price/2026"
+   ],
+   "fit": "Zeekr 明确的 9X 对标；9X 低其 $135k 以上。",
+   "fit_en": "Zeekr's explicit 9X target; 9X undercuts by $135k+."
+  },
+  {
+   "id": "bmw-x7",
+   "brand": "BMW",
+   "model": "X7",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "core",
+   "body": "全尺寸SUV 7 座",
+   "powertrain": "ICE",
+   "status": "on_sale",
+   "au_launch": "2019",
+   "variants": [
+    {
+     "name": "xDrive40i M Sport",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 174400,
+     "basis": "rrp"
+    },
+    {
+     "name": "xDrive40d M Sport",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 181400,
+     "basis": "rrp"
+    },
+    {
+     "name": "M60i",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 212400,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.bmw.com.au/en/all-models/x-series/X7/",
+   "offers_url": "https://www.bmw.com.au/en/offers.html",
+   "sources": [
+    "https://www.carsguide.com.au/bmw/x7/price/2026"
+   ],
+   "fit": "Zeekr 点名的 9X 对标；无电动化版本，9X 的插混是差异点。",
+   "fit_en": "Named 9X target; no electrified option – 9X's PHEV is a differentiator."
+  },
+  {
+   "id": "mb-gls",
+   "brand": "Mercedes-Benz",
+   "model": "GLS (2027 改款)",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "core",
+   "body": "全尺寸SUV 7 座",
+   "powertrain": "ICE",
+   "status": "launching",
+   "au_launch": "2026-11",
+   "variants": [
+    {
+     "name": "GLS450",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 181900,
+     "basis": "rrp"
+    },
+    {
+     "name": "GLS450d",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 188900,
+     "basis": "rrp"
+    },
+    {
+     "name": "AMG GLS63 S",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 313900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mercedes-benz.com.au/passengercars/models/suv/gls/overview.html",
+   "offers_url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html",
+   "sources": [
+    "https://www.carexpert.com.au/car-news/2027-mercedes-benz-gls-facelifted-three-row-suv-range-priced-for-australia-including-amg-and-maybach-versions"
+   ],
+   "fit": "Zeekr 点名的 9X 对标；$182–189k 入门。",
+   "fit_en": "Named 9X target; $182–189k entry."
+  },
+  {
+   "id": "lexus-lx",
+   "brand": "Lexus",
+   "model": "LX",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "core",
+   "body": "全尺寸豪华4x4",
+   "powertrain": "ICE/HEV",
+   "status": "on_sale",
+   "au_launch": "2022",
+   "variants": [
+    {
+     "name": "LX500d Luxury 7 座",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 164200,
+     "basis": "rrp"
+    },
+    {
+     "name": "LX600 Luxury 7 座",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 167700,
+     "basis": "rrp"
+    },
+    {
+     "name": "LX700h Sports Luxury (HEV)",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 199800,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.lexus.com.au/models/lx",
+   "offers_url": "https://www.lexus.com.au/offers",
+   "sources": [
+    "https://www.cars24.com.au/car-news/2026-lexus-lx700h-hybrid-priced-detailed/"
+   ],
+   "fit": "日系旗舰；9X 约 $150k 的定位切入 LX Luxury 区间。",
+   "fit_en": "Japanese flagship; 9X at ~$150k targets LX Luxury territory."
+  },
+  {
+   "id": "porsche-cayenne-eh",
+   "brand": "Porsche",
+   "model": "Cayenne E-Hybrid",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "core",
+   "body": "大型豪华SUV",
+   "powertrain": "PHEV",
+   "status": "on_sale",
+   "au_launch": "2024",
+   "variants": [
+    {
+     "name": "Cayenne E-Hybrid",
+     "drive": "AWD",
+     "kwh": 25.9,
+     "price": 171400,
+     "basis": "rrp"
+    },
+    {
+     "name": "S E-Hybrid",
+     "drive": "AWD",
+     "kwh": 25.9,
+     "price": 187800,
+     "basis": "rrp"
+    },
+    {
+     "name": "Turbo E-Hybrid",
+     "drive": "AWD",
+     "kwh": 25.9,
+     "price": 303300,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.porsche.com/australia/models/cayenne/",
+   "sources": [
+    "https://www.carsguide.com.au/porsche/cayenne/price/2026"
+   ],
+   "fit": "性能插混基准；9X 660–1030 kW 动力对标 Turbo E-Hybrid（$303k）。",
+   "fit_en": "Performance-PHEV benchmark; 9X's 660–1030 kW targets the $303k Turbo E-Hybrid."
+  },
+  {
+   "id": "volvo-ex90",
+   "brand": "Volvo",
+   "model": "EX90",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "reference",
+   "body": "全尺寸豪华SUV 7 座",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2025",
+   "variants": [
+    {
+     "name": "Plus Single Motor",
+     "drive": "RWD",
+     "kwh": 104,
+     "price": 106990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Plus Twin Motor",
+     "drive": "AWD",
+     "kwh": 111,
+     "price": 124990,
+     "basis": "rrp"
+    },
+    {
+     "name": "Ultra Twin Motor Performance",
+     "drive": "AWD",
+     "kwh": 111,
+     "price": 134990,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [
+    {
+     "text": "Volvo Showcase 10 月活动（零售商层面）",
+     "valid": "2026-10",
+     "src": "https://www.volvocars.com/au/offers/"
+    }
+   ],
+   "model_url": "https://www.volvocars.com/au/cars/ex90/",
+   "offers_url": "https://www.volvocars.com/au/offers/",
+   "sources": [
+    "https://www.carsguide.com.au/volvo/ex90/price/2026"
+   ],
+   "fit": "9X 入门价位的纯电 7 座参照。",
+   "fit_en": "BEV 7-seater at the 9X entry price."
+  },
+  {
+   "id": "bmw-ix",
+   "brand": "BMW",
+   "model": "iX xDrive45",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "reference",
+   "body": "大型豪华SUV",
+   "powertrain": "BEV",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "variants": [
+    {
+     "name": "iX xDrive45 M Sport",
+     "drive": "AWD",
+     "kwh": 94.8,
+     "price": 142900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.bmw.com.au/en/all-models/bmw-i/ix/overview.html",
+   "sources": [
+    "https://www.evee.com.au/blog/2026-bmw-ix-australia-price-specs-range/"
+   ],
+   "fit": "9X 入门价位的纯电参照。",
+   "fit_en": "BEV at the 9X entry price."
+  },
+  {
+   "id": "mb-gclass",
+   "brand": "Mercedes-Benz",
+   "model": "G-Class",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "reference",
+   "body": "豪华4x4",
+   "powertrain": "ICE/BEV",
+   "status": "on_sale",
+   "au_launch": "2024",
+   "variants": [
+    {
+     "name": "G450d",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 214900,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.mercedes-benz.com.au/passengercars/models/suv/g-class/overview.html",
+   "sources": [
+    "https://www.thecourier.com.au/story/9056711/2026-mercedes-benz-g450d-price-and-specs-diesel-g-wagen-returns-to-australia/"
+   ],
+   "fit": "形象参照；用途（越野）不同。",
+   "fit_en": "Image benchmark; different off-road use case."
+  },
+  {
+   "id": "yangwang-u8",
+   "brand": "Yangwang (BYD)",
+   "model": "U8",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "watch",
+   "body": "旗舰豪华越野SUV",
+   "powertrain": "REEV",
+   "status": "watch",
+   "au_launch": "2027+（品牌已确认，无时间表）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://www.canberratimes.com.au/story/9144682/byd-levels-up-with-insane-new-cars-for-oz/"
+   ],
+   "fit": "2027 年以后高于 9X 的中国旗舰对手（约 $250k）。",
+   "fit_en": "2027+ Chinese flagship rival above 9X (~$250k)."
+  },
+  {
+   "id": "audi-q9",
+   "brand": "Audi",
+   "model": "Q9 / SQ9",
+   "zeekr": [
+    "9X"
+   ],
+   "tier": "watch",
+   "body": "全尺寸三排SUV",
+   "powertrain": "ICE（插混待定）",
+   "status": "watch",
+   "au_launch": "未确认",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://thebeep.com.au/car-news/2027-audi-q9-interior-australia"
+   ],
+   "fit": "2027 年潜在 9X 对手。",
+   "fit_en": "Potential 2027 9X rival."
+  },
+  {
+   "id": "avatr",
+   "brand": "Avatr",
+   "model": "07L / 11",
+   "zeekr": [
+    "7X",
+    "8X"
+   ],
+   "tier": "watch",
+   "body": "中大型高端SUV",
+   "powertrain": "BEV/REEV",
+   "status": "watch",
+   "au_launch": "2026 年底预订，2027 初交付（长安集团澳洲）",
+   "variants": [],
+   "offers": [],
+   "sources": [
+    "https://thedriven.io/2026/09/26/new-luxury-ev-brand-to-begin-deliveries-of-its-first-electric-suv-in-australia-in-2027/"
+   ],
+   "fit": "新进入的中国豪华品牌（长安/宁德/华为），定位与 Zeekr 重叠。",
+   "fit_en": "New Chinese luxury entrant (Changan/CATL/Huawei) overlapping Zeekr's positioning."
+  }
+ ]
+}

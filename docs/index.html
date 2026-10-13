@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ZEEKR 澳洲市场监控</title>
+<meta name="description" content="ZEEKR Australia market watch: complaints, competitor launches, prices and sales offers. Refreshed every 30 minutes.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%232f6b4f'/><text x='16' y='22' font-size='17' text-anchor='middle' fill='white' font-family='Arial' font-weight='700'>Z</text></svg>">
+<style>
+:root{
+  --bg:#f6f5f0;--surface:#ffffff;--surface2:#eef2ec;--ink:#1d241f;--ink2:#4a5550;--muted:#7b857f;--line:#dfe3dc;
+  --green:#2f6b4f;--green2:#4f8c6c;--green3:#a9cbb6;--green4:#dcebe1;--greenInk:#1f4d38;
+  --warn:#b7791f;--warnBg:#fbf1dc;--bad:#b23a3a;--badBg:#f8e3e3;--ok:#2f6b4f;--okBg:#e1efe6;--info:#2b5f8a;--infoBg:#e0ebf5;
+  --amber:#c9a227;--sans:"Inter","Segoe UI",system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;--radius:12px;--shadow:0 1px 2px rgba(20,30,24,.06),0 4px 14px rgba(20,30,24,.05);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141917;--surface:#1c2320;--surface2:#232c28;--ink:#e8ece9;--ink2:#b8c2bc;--muted:#86918b;--line:#2f3a34;
+  --green:#5fa583;--green2:#7fbf9c;--green3:#3f6f56;--green4:#25382e;--greenInk:#bfe3cf;
+  --warn:#e2b14e;--warnBg:#3a2f14;--bad:#e07070;--badBg:#3d2020;--ok:#5fa583;--okBg:#1f3328;--info:#7fb2dc;--infoBg:#1b2d3d;--shadow:none;}}
+:root[data-theme="dark"]{
+  --bg:#141917;--surface:#1c2320;--surface2:#232c28;--ink:#e8ece9;--ink2:#b8c2bc;--muted:#86918b;--line:#2f3a34;
+  --green:#5fa583;--green2:#7fbf9c;--green3:#3f6f56;--green4:#25382e;--greenInk:#bfe3cf;
+  --warn:#e2b14e;--warnBg:#3a2f14;--bad:#e07070;--badBg:#3d2020;--ok:#5fa583;--okBg:#1f3328;--info:#7fb2dc;--infoBg:#1b2d3d;--shadow:none;}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14.5px;line-height:1.5}
+a{color:var(--green);text-decoration:none}a:hover{text-decoration:underline}
+header{background:var(--green);color:#fff;padding:0 16px}
+.hwrap{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:14px;min-height:60px;flex-wrap:wrap;padding:8px 0}
+.brand{font-weight:700;font-size:17px;letter-spacing:.3px;display:flex;align-items:center;gap:10px}
+.brand .mark{width:30px;height:30px;border-radius:8px;background:#fff;color:var(--green);display:grid;place-items:center;font-weight:800}
+.hmeta{margin-left:auto;font-size:12.5px;opacity:.92;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.hmeta .pill{background:rgba(255,255,255,.16);padding:3px 9px;border-radius:999px}
+.hmeta button{background:rgba(255,255,255,.16);color:#fff;border:1px solid rgba(255,255,255,.35);border-radius:999px;padding:4px 11px;cursor:pointer;font:inherit;font-size:12.5px}
+nav{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.nwrap{max-width:1280px;margin:0 auto;display:flex;gap:2px;overflow-x:auto;padding:0 8px}
+.tab{padding:12px 14px;cursor:pointer;color:var(--ink2);border-bottom:2px solid transparent;white-space:nowrap;font-weight:500}
+.tab.active{color:var(--green);border-color:var(--green)}
+main{max-width:1280px;margin:0 auto;padding:18px 16px 60px}
+section.page{display:none}section.page.active{display:block}
+h2{font-size:17px;margin:22px 0 10px;font-weight:650}h2:first-child{margin-top:4px}
+h3{font-size:14.5px;margin:16px 0 8px;font-weight:650;color:var(--ink2)}
+.grid{display:grid;gap:12px}.kpis{grid-template-columns:repeat(4,1fr)}@media(max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow)}
+.kpi .v{font-size:28px;font-weight:700;letter-spacing:-.5px;line-height:1.1}.kpi .l{color:var(--muted);font-size:12.5px;margin-top:4px}
+.kpi.bad .v{color:var(--bad)}.kpi.warn .v{color:var(--warn)}.kpi.info .v{color:var(--info)}.kpi.ok .v{color:var(--green)}
+.two{grid-template-columns:1fr 1fr}@media(max-width:900px){.two{grid-template-columns:1fr}}
+.three{grid-template-columns:2fr 1fr 1fr}@media(max-width:1000px){.three{grid-template-columns:1fr}}
+.badge{display:inline-block;font-size:11.5px;padding:1px 8px;border-radius:999px;border:1px solid transparent;white-space:nowrap;vertical-align:middle}
+.b-high{background:var(--badBg);color:var(--bad)}.b-medium{background:var(--warnBg);color:var(--warn)}.b-low{background:var(--surface2);color:var(--ink2)}
+.b-green{background:var(--green4);color:var(--greenInk)}.b-info{background:var(--infoBg);color:var(--info)}.b-muted{background:var(--surface2);color:var(--muted);border-color:var(--line)}
+.b-core{background:var(--green4);color:var(--greenInk)}.b-reference{background:var(--surface2);color:var(--ink2)}.b-watch{background:var(--warnBg);color:var(--warn)}
+.item{padding:12px 0;border-top:1px solid var(--line)}.item:first-child{border-top:none;padding-top:4px}
+.item .t{font-weight:600;line-height:1.35}.item .m{color:var(--muted);font-size:12.5px;margin-top:3px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.item .x{color:var(--ink2);margin-top:5px;font-size:13.5px}
+.stars{color:var(--amber);letter-spacing:1px;font-size:12px}
+.filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0 12px}
+select,input[type=search]{font:inherit;font-size:13.5px;padding:6px 9px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+input[type=search]{min-width:200px}
+label.chk{font-size:13px;color:var(--ink2);display:inline-flex;gap:5px;align-items:center}
+table{width:100%;border-collapse:collapse;font-size:13.5px}th,td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.3px}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.delta-neg{color:var(--bad)}.delta-pos{color:var(--green)}
+.twrap{overflow-x:auto}
+.chart{width:100%;height:auto;display:block}
+.bar-row{display:grid;grid-template-columns:150px 1fr 40px;gap:8px;align-items:center;font-size:13px;margin:5px 0}
+.bar-row .bar{height:10px;border-radius:0 4px 4px 0;background:var(--green2)}
+.bar-row .n{text-align:right;font-variant-numeric:tabular-nums;color:var(--ink2)}
+.small{font-size:12.5px;color:var(--muted)}
+.model-head{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.model-head .band{color:var(--muted);font-size:13px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.chip{border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:12.5px;background:var(--surface)}
+.chip.core{border-color:var(--green3);background:var(--green4);color:var(--greenInk)}.chip.watch{border-style:dashed}
+.note{background:var(--surface2);border-left:3px solid var(--green);padding:8px 12px;border-radius:6px;font-size:13px;color:var(--ink2);margin:8px 0}
+.status-ok{color:var(--green)}.status-bad{color:var(--bad)}
+.alert{display:grid;grid-template-columns:auto 1fr;gap:10px;padding:8px 0;border-top:1px solid var(--line);align-items:start}
+.alert:first-child{border-top:none}
+.ddiff{font-family:var(--mono);font-size:12px;white-space:pre-wrap;background:var(--surface2);padding:8px 10px;border-radius:8px;max-height:220px;overflow:auto}
+.ddiff .add{color:var(--green)}.ddiff .rem{color:var(--bad)}
+details summary{cursor:pointer;color:var(--ink2);font-size:13px}
+.btn{font:inherit;font-size:12.5px;padding:4px 10px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink2);cursor:pointer}
+.btn.active{background:var(--green4);color:var(--greenInk);border-color:var(--green3)}
+footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
+.loading{color:var(--muted);padding:40px;text-align:center}
+.tag{font-family:var(--mono);font-size:11.5px;background:var(--surface2);padding:1px 6px;border-radius:5px;color:var(--ink2)}
+</style>
+</head>
+<body>
+<header><div class="hwrap">
+  <div class="brand"><span class="mark">Z</span><span data-i="title">ZEEKR 澳洲市场监控</span></div>
+  <div class="hmeta">
+    <span class="pill" id="updated">—</span>
+    <span class="pill" id="nextrun" title="GitHub Actions cron */30">—</span>
+    <button id="langBtn">EN</button>
+    <button id="themeBtn">◐</button>
+  </div>
+</div></header>
+<nav><div class="nwrap" id="tabs">
+  <div class="tab active" data-tab="overview" data-i="t.overview">总览</div>
+  <div class="tab" data-tab="complaints" data-i="t.complaints">投诉监控</div>
+  <div class="tab" data-tab="launches" data-i="t.launches">竞品上市</div>
+  <div class="tab" data-tab="prices" data-i="t.prices">价格与销售政策</div>
+  <div class="tab" data-tab="matrix" data-i="t.matrix">对标矩阵</div>
+  <div class="tab" data-tab="sources" data-i="t.sources">数据源状态</div>
+</div></nav>
+<main>
+  <div id="loading" class="loading" data-i="loading">数据加载中…</div>
+  <section class="page active" id="overview"></section>
+  <section class="page" id="complaints"></section>
+  <section class="page" id="launches"></section>
+  <section class="page" id="prices"></section>
+  <section class="page" id="matrix"></section>
+  <section class="page" id="sources"></section>
+</main>
+<footer><span data-i="footer">数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。</span></footer>
+<script>
+const I18N = {
+ zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.prices":"价格与销售政策","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
+  footer:"数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。",
+  updated:"更新于",next:"下次约",k24:"近 24 小时投诉",k7:"近 7 天投诉",khigh:"高严重度（7 天）",klaunch:"竞品上市信号（7 天）",koffer:"竞品价格/政策信号（7 天）",kpage:"官网政策页面变化（7 天）",knews:"ZEEKR 相关报道（7 天）",kitems:"数据库条目",
+  alerts:"需要关注",noalerts:"近 72 小时无新的高严重度投诉或竞品重大信号。",series:"近 30 天趋势（按发布日期）",cats:"投诉分类（近 30 天）",models:"涉及车型（近 30 天）",srcs:"投诉来源（近 30 天）",
+  latestC:"最新投诉",latestL:"最新竞品动态",more:"查看全部",
+  f_model:"车型",f_cat:"分类",f_sev:"严重度",f_src:"来源",f_type:"类型",f_all:"全部",f_search:"搜索标题/正文…",f_au:"仅澳洲来源",f_complaint:"投诉",f_post:"论坛/社区帖",f_review:"评价（非负面）",
+  sev_high:"高",sev_medium:"中",sev_low:"低",n_items:"条",empty:"没有符合条件的记录。",
+  gmaps:"Google 地图门店评价",gmaps_off:"尚未配置 Google Maps API key（仓库 Secret：GOOGLE_MAPS_API_KEY）。配置后每 6 小时抓取各门店最新评价与评分。",store:"门店",rating:"评分",count:"评价数",
+  fb:"Facebook：公开 group 无法抓取；官方 Page 评论需 Page token（可选）。Whirlpool/Drive/CarsGuide 对自动抓取有防护，通过 Google News 索引间接覆盖。",
+  l_signals:"上市/发布信号",l_watch:"待上市与观察名单（按 ZEEKR 对标车型）",l_expected:"预计时间",l_fit:"对标说明",l_tier:"层级",l_status:"状态",st_on_sale:"在售",st_launching:"即将上市",st_watch:"观察",
+  p_zeekr:"ZEEKR 现行价目",p_variant:"版本",p_drive:"驱动",p_batt:"电池",p_price:"价格",p_basis:"口径",p_delta:"相对最近 ZEEKR 版本",p_offer:"现行销售政策",p_signal:"近期新闻信号",p_src:"来源",
+  p_changes:"品牌官网政策页面变化记录",p_nochange:"尚未检测到变化（首次快照后开始比较）。",p_added:"新增",p_removed:"移除",basis_rrp:"RRP（税前裸车）",basis_da:"全包价",
+  tier_core:"直接对标",tier_reference:"价格参照",tier_watch:"待上市/观察",group:"集团内",
+  m_seg:"细分定位",m_band:"价格区间",m_use:"用途",m_comps:"竞品集",
+  s_source:"来源",s_status:"状态",s_count:"本次条数",s_note:"备注",s_runs:"最近运行",s_time:"时间",s_dur:"耗时",s_new:"新增",s_ok:"来源正常",
+  s_intro:"每 30 分钟由 GitHub Actions 运行一次抓取。失败的来源通常是对数据中心 IP 的反爬限制，不影响其他来源。",
+  cut:"降价",rise:"涨价",offer:"促销",launch:"上市",price:"价格",au:"澳洲",
+ },
+ en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
+  footer:"Public sources only (Google News, industry RSS, Reddit, ProductReview, OzBargain, app stores, Google Maps, brand sites). Rule-based keyword classification for internal reference; verify against the original before acting.",
+  updated:"Updated",next:"Next ~",k24:"Complaints, 24h",k7:"Complaints, 7d",khigh:"High severity, 7d",klaunch:"Launch signals, 7d",koffer:"Price / offer signals, 7d",kpage:"Offer-page changes, 7d",knews:"ZEEKR coverage, 7d",kitems:"Items in database",
+  alerts:"Needs attention",noalerts:"No new high-severity complaints or major competitor signals in the last 72 hours.",series:"30-day trend (by publish date)",cats:"Complaint categories, 30d",models:"Models mentioned, 30d",srcs:"Complaint sources, 30d",
+  latestC:"Latest complaints",latestL:"Latest competitor news",more:"See all",
+  f_model:"Model",f_cat:"Category",f_sev:"Severity",f_src:"Source",f_type:"Type",f_all:"All",f_search:"Search title / text…",f_au:"Australian sources only",f_complaint:"Complaints",f_post:"Forum / community posts",f_review:"Reviews (non-negative)",
+  sev_high:"High",sev_medium:"Medium",sev_low:"Low",n_items:"items",empty:"No matching records.",
+  gmaps:"Google Maps store reviews",gmaps_off:"Google Maps API key not configured yet (repo secret GOOGLE_MAPS_API_KEY). Once set, store ratings and newest reviews are pulled every 6 hours.",store:"Store",rating:"Rating",count:"Reviews",
+  fb:"Facebook: public groups cannot be scraped; official Page comments need a Page token (optional). Whirlpool / Drive / CarsGuide block automated clients and are covered indirectly via Google News.",
+  l_signals:"Launch / reveal signals",l_watch:"Upcoming & watch list (by ZEEKR benchmark model)",l_expected:"Expected",l_fit:"Fit",l_tier:"Tier",l_status:"Status",st_on_sale:"On sale",st_launching:"Launching",st_watch:"Watch",
+  p_zeekr:"ZEEKR current price list",p_variant:"Variant",p_drive:"Drive",p_batt:"Battery",p_price:"Price",p_basis:"Basis",p_delta:"vs nearest ZEEKR variant",p_offer:"Current offers",p_signal:"Recent news signals",p_src:"Source",
+  p_changes:"Brand offer-page change log",p_nochange:"No changes detected yet (comparison starts after the first snapshot).",p_added:"Added",p_removed:"Removed",basis_rrp:"RRP (before on-roads)",basis_da:"Drive-away",
+  tier_core:"Core rival",tier_reference:"Price reference",tier_watch:"Upcoming / watch",group:"Group",
+  m_seg:"Segment",m_band:"Price band",m_use:"Use case",m_comps:"Competitor set",
+  s_source:"Source",s_status:"Status",s_count:"Items this run",s_note:"Note",s_runs:"Recent runs",s_time:"Time",s_dur:"Duration",s_new:"New",s_ok:"Sources OK",
+  s_intro:"GitHub Actions runs the collector every 30 minutes. Failing sources are usually anti-bot limits on datacenter IPs and do not affect the others.",
+  cut:"price cut",rise:"price rise",offer:"offer",launch:"launch",price:"price",au:"AU",
+ }
+};
+let lang = 'zh'; try{ lang = localStorage.getItem('zw.lang') || 'zh'; }catch(e){}
+const T = k => (I18N[lang][k] ?? I18N.zh[k] ?? k);
+const D = {};  // data
+const fmtMoney = v => v==null ? '—' : '$' + Number(v).toLocaleString('en-AU');
+const esc = s => String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const tz = 'Australia/Sydney';
+function fmtTime(iso, withTime=true){ if(!iso) return '—'; const d=new Date(iso); if(isNaN(d)) return iso; return d.toLocaleString(lang==='zh'?'zh-CN':'en-AU',{timeZone:tz,year:'numeric',month:'2-digit',day:'2-digit',...(withTime?{hour:'2-digit',minute:'2-digit',hour12:false}:{})}); }
+function ago(iso){ if(!iso) return ''; const h=(Date.now()-new Date(iso))/36e5; if(h<1) return lang==='zh'?`${Math.max(1,Math.round(h*60))} 分钟前`:`${Math.max(1,Math.round(h*60))} min ago`; if(h<48) return lang==='zh'?`${Math.round(h)} 小时前`:`${Math.round(h)} h ago`; return lang==='zh'?`${Math.round(h/24)} 天前`:`${Math.round(h/24)} d ago`; }
+const stars = r => r==null?'':`<span class="stars" title="${r}">${'★'.repeat(Math.round(r))}${'☆'.repeat(5-Math.round(r))}</span>`;
+const sevBadge = s => s?`<span class="badge b-${s}">${T('sev_'+s)}</span>`:'';
+const modelName = k => (D.zeekr.models.find(m=>m.key===k)||{}).name || k;
+const catName = k => { const c=D.summary.categories_30d.find(x=>x.key===k); return c ? (lang==='zh'?c.zh:c.en) : CATS[k]?.[lang] || k; };
+const CATS = {quality:{zh:"质量/故障",en:"Quality / faults"},software:{zh:"软件/APP/车机",en:"Software / app"},charging:{zh:"充电/续航/电池",en:"Charging / range"},delivery:{zh:"交付/等待/订单",en:"Delivery / orders"},service:{zh:"售后/服务/保修",en:"After-sales / warranty"},price:{zh:"价格/贬值/退款",en:"Price / resale"},safety:{zh:"召回/安全",en:"Recall / safety"},sales:{zh:"销售体验",en:"Sales experience"}};
+const sigBadge = s => ({launch:'b-info',offer:'b-green',price_cut:'b-high',price_rise:'b-medium',price:'b-muted'}[s]) ? `<span class="badge ${({launch:'b-info',offer:'b-green',price_cut:'b-high',price_rise:'b-medium',price:'b-muted'})[s]}">${T({launch:'launch',offer:'offer',price_cut:'cut',price_rise:'rise',price:'price'}[s])}</span>` : '';
+const compName = id => { const c=D.comps.competitors.find(x=>x.id===id); return c ? `${c.brand} ${c.model}` : id; };
+const itemTime = it => it.published || it.first_seen;
+
+function renderItem(it, opts={}){
+  const meta = [];
+  if(it.severity) meta.push(sevBadge(it.severity));
+  if(it.rating!=null) meta.push(stars(it.rating));
+  meta.push(`<span>${esc(it.source_name)}</span>`);
+  meta.push(`<span title="${esc(itemTime(it))}">${fmtTime(itemTime(it))} · ${ago(itemTime(it))}</span>`);
+  if(it.au===false) meta.push(`<span class="badge b-muted">non-AU</span>`);
+  (it.models||[]).forEach(m=>meta.push(`<span class="badge b-green">${esc(modelName(m))}</span>`));
+  (it.categories||[]).slice(0,3).forEach(c=>meta.push(`<span class="badge b-muted">${esc(catName(c))}</span>`));
+  (it.signals||[]).forEach(s=>meta.push(sigBadge(s)));
+  if(opts.comps) (it.competitors||[]).slice(0,4).forEach(c=>meta.push(`<span class="badge b-green">${esc(compName(c))}</span>`));
+  const x = it.text && it.text!==it.title ? `<div class="x">${esc(it.text.slice(0,260))}${it.text.length>260?'…':''}</div>` : '';
+  return `<div class="item"><div class="t"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title||'(untitled)')}</a></div><div class="m">${meta.join('')}</div>${x}</div>`;
+}
+
+function barChart(series){
+  const w=720,h=190,padL=30,padB=24,padT=10; const n=series.length; const max=Math.max(1,...series.map(s=>s.complaints));
+  const bw=(w-padL-8)/n; let bars='', ticks='';
+  series.forEach((s,i)=>{ const x=padL+i*bw; const bh=(h-padB-padT)*s.complaints/max; const y=h-padB-bh;
+    bars+=`<rect x="${x+1}" y="${y}" width="${Math.max(2,bw-3)}" height="${bh}" rx="2" fill="var(--green2)"><title>${s.date}: ${s.complaints}</title></rect>`;
+    if(i%5===0||i===n-1) ticks+=`<text x="${x+bw/2}" y="${h-6}" font-size="10" text-anchor="middle" fill="var(--muted)">${s.date.slice(5)}</text>`; });
+  const gy=[0,Math.ceil(max/2),max].map(v=>{const y=h-padB-(h-padB-padT)*v/max; return `<line x1="${padL}" x2="${w}" y1="${y}" y2="${y}" stroke="var(--line)" stroke-width="1"/><text x="${padL-4}" y="${y+3}" font-size="10" text-anchor="end" fill="var(--muted)">${v}</text>`;}).join('');
+  return `<svg class="chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="complaints per day">${gy}${bars}${ticks}</svg>`;
+}
+function hbars(pairs){ const max=Math.max(1,...pairs.map(p=>p[1])); return pairs.map(p=>`<div class="bar-row"><div title="${esc(p[0])}" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(p[0])}</div><div><div class="bar" style="width:${100*p[1]/max}%"></div></div><div class="n">${p[1]}</div></div>`).join('') || `<div class="small">—</div>`; }
+
+function renderOverview(){
+  const s=D.summary, c=s.counts;
+  const alerts = s.alerts.map(a=>{ const kind={complaint_high:['b-high',lang==='zh'?'高严重度投诉':'High-severity complaint'],competitor_launch:['b-info',lang==='zh'?'竞品上市':'Competitor launch'],competitor_offer:['b-green',lang==='zh'?'竞品价格/政策':'Competitor price / offer'],offer_page_change:['b-medium',lang==='zh'?'官网政策变化':'Offer page changed']}[a.kind]||['b-muted',a.kind];
+    const it=D.items.find(i=>i.id===a.id); const href=it?it.url:(a.source.startsWith('http')?a.source:'#');
+    return `<div class="alert"><span class="badge ${kind[0]}">${kind[1]}</span><div><a href="${esc(href)}" target="_blank" rel="noopener">${esc(a.title)}</a><div class="small">${esc(a.source.replace(/^https?:\/\//,''))} · ${fmtTime(a.t)}${a.competitors?' · '+a.competitors.map(compName).map(esc).join(', '):''}</div></div></div>`; }).join('');
+  const latestC = D.items.filter(i=>i.type==='complaint').slice(0,8).map(renderItem).join('');
+  const latestL = D.items.filter(i=>i.type==='competitor_news' && i.competitors.length).slice(0,8).map(i=>renderItem(i,{comps:true})).join('');
+  document.getElementById('overview').innerHTML = `
+  <div class="grid kpis">
+    <div class="card kpi bad"><div class="v">${c.complaints_24h}</div><div class="l">${T('k24')}</div></div>
+    <div class="card kpi bad"><div class="v">${c.complaints_7d}</div><div class="l">${T('k7')}</div></div>
+    <div class="card kpi warn"><div class="v">${c.high_7d}</div><div class="l">${T('khigh')}</div></div>
+    <div class="card kpi info"><div class="v">${c.launch_signals_7d}</div><div class="l">${T('klaunch')}</div></div>
+    <div class="card kpi info"><div class="v">${c.offer_signals_7d}</div><div class="l">${T('koffer')}</div></div>
+    <div class="card kpi ok"><div class="v">${c.offer_page_changes_7d}</div><div class="l">${T('kpage')}</div></div>
+    <div class="card kpi ok"><div class="v">${c.zeekr_news_7d}</div><div class="l">${T('knews')}</div></div>
+    <div class="card kpi"><div class="v">${s.items_total}</div><div class="l">${T('kitems')}</div></div>
+  </div>
+  <div class="grid three" style="margin-top:12px">
+    <div class="card"><h2>${T('alerts')}</h2>${alerts || `<div class="small">${T('noalerts')}</div>`}</div>
+    <div class="card"><h2>${T('cats')}</h2>${hbars(s.categories_30d.map(x=>[lang==='zh'?x.zh:x.en,x.n]))}
+      <h3>${T('models')}</h3>${hbars(Object.entries(s.models_30d).sort((a,b)=>b[1]-a[1]).map(([k,v])=>[modelName(k),v]))}</div>
+    <div class="card"><h2>${T('srcs')}</h2>${hbars(Object.entries(s.sources_30d))}</div>
+  </div>
+  <div class="card" style="margin-top:12px"><h2>${T('series')}</h2>${barChart(s.series_30d)}</div>
+  <div class="grid two" style="margin-top:12px">
+    <div class="card"><h2>${T('latestC')} <a class="small" href="#" onclick="go('complaints');return false">${T('more')} →</a></h2>${latestC||`<div class="small">${T('empty')}</div>`}</div>
+    <div class="card"><h2>${T('latestL')} <a class="small" href="#" onclick="go('launches');return false">${T('more')} →</a></h2>${latestL||`<div class="small">${T('empty')}</div>`}</div>
+  </div>`;
+}
+
+const F = {model:'',cat:'',sev:'',src:'',type:'complaint',q:'',au:true};
+function renderComplaints(){
+  const pool = D.items.filter(i=>['complaint','post','review'].includes(i.type));
+  const srcs=[...new Set(pool.map(i=>i.source_name.split(' · ')[0]))].sort();
+  const sel=(id,opts,cur,allLabel)=>`<select id="${id}"><option value="">${allLabel}</option>${opts.map(o=>`<option value="${esc(o[0])}" ${o[0]===cur?'selected':''}>${esc(o[1])}</option>`).join('')}</select>`;
+  const list = pool.filter(i=> (F.type===''||i.type===F.type) && (!F.model||i.models.includes(F.model)) && (!F.cat||i.categories.includes(F.cat)) && (!F.sev||i.severity===F.sev) && (!F.src||i.source_name.startsWith(F.src)) && (!F.au||i.au!==false) && (!F.q||(i.title+' '+i.text).toLowerCase().includes(F.q.toLowerCase())));
+  const pl=D.places||{}; const storesTbl = (D.summary.places.stores||[]).length ? `<div class="twrap"><table><thead><tr><th>${T('store')}</th><th class="num">${T('rating')}</th><th class="num">${T('count')}</th><th></th></tr></thead><tbody>${D.summary.places.stores.map(s=>`<tr><td>${esc(s.name)} <span class="small">${esc(s.state||'')}</span></td><td class="num">${s.rating??'—'}</td><td class="num">${s.count??'—'}</td><td>${s.maps_url?`<a href="${esc(s.maps_url)}" target="_blank" rel="noopener">Maps</a>`:''}${s.error?`<span class="small status-bad"> ${esc(s.error)}</span>`:''}</td></tr>`).join('')}</tbody></table></div>`:'';
+  const greviews = (pl.reviews||[]).slice(0,30).map(r=>`<div class="item"><div class="t">${stars(r.rating)} ${esc(r.store)} <span class="small">· ${esc(r.author||'')} · ${esc(r.relative||fmtTime(r.published,false))}</span></div><div class="x">${esc((r.text||'').slice(0,300))}</div></div>`).join('');
+  document.getElementById('complaints').innerHTML = `
+  <div class="card">
+    <div class="filters">
+      ${sel('f_type',[['complaint',T('f_complaint')],['post',T('f_post')],['review',T('f_review')]],F.type,T('f_all'))}
+      ${sel('f_model',D.zeekr.models.map(m=>[m.key,m.name]),F.model,T('f_model')+': '+T('f_all'))}
+      ${sel('f_cat',Object.keys(CATS).map(k=>[k,CATS[k][lang]]),F.cat,T('f_cat')+': '+T('f_all'))}
+      ${sel('f_sev',['high','medium','low'].map(k=>[k,T('sev_'+k)]),F.sev,T('f_sev')+': '+T('f_all'))}
+      ${sel('f_src',srcs.map(s=>[s,s]),F.src,T('f_src')+': '+T('f_all'))}
+      <input type="search" id="f_q" placeholder="${T('f_search')}" value="${esc(F.q)}">
+      <label class="chk"><input type="checkbox" id="f_au" ${F.au?'checked':''}> ${T('f_au')}</label>
+      <span class="small">${list.length} ${T('n_items')}</span>
+    </div>
+    ${list.slice(0,300).map(renderItem).join('') || `<div class="small">${T('empty')}</div>`}
+  </div>
+  <div class="card" style="margin-top:12px"><h2>${T('gmaps')}</h2>${D.summary.places.configured ? (storesTbl + greviews) : `<div class="note">${T('gmaps_off')}</div>`}<div class="note">${T('fb')}</div></div>`;
+  for(const id of ['f_type','f_model','f_cat','f_sev','f_src']) document.getElementById(id).onchange = e=>{ F[id.slice(2)] = e.target.value; renderComplaints(); };
+  document.getElementById('f_q').oninput = e=>{ F.q=e.target.value; renderComplaints(); document.getElementById('f_q').focus(); };
+  document.getElementById('f_au').onchange = e=>{ F.au=e.target.checked; renderComplaints(); };
+}
+
+const L = {model:'',q:'',onlyLaunch:true};
+function renderLaunches(){
+  const compsFor = k => D.comps.competitors.filter(c=>c.zeekr.includes(k)).map(c=>c.id);
+  let pool = D.items.filter(i=>i.type==='competitor_news');
+  if(L.onlyLaunch) pool = pool.filter(i=>i.signals.includes('launch'));
+  if(L.model) { const ids=compsFor(L.model); pool = pool.filter(i=>i.competitors.some(c=>ids.includes(c))); }
+  if(L.q) pool = pool.filter(i=>(i.title+' '+i.text).toLowerCase().includes(L.q.toLowerCase()));
+  const watch = D.comps.competitors.filter(c=>c.tier==='watch'||c.status==='launching');
+  const rows = D.zeekr.models.map(m=>{ const ws=watch.filter(c=>c.zeekr.includes(m.key)); if(!ws.length) return ''; return ws.map((c,i)=>`<tr>${i===0?`<td rowspan="${ws.length}"><b>${esc(m.name)}</b><div class="small">${esc(m.status==='on_sale'?T('st_on_sale'):(m.expected_launch||''))}</div></td>`:''}<td><b>${esc(c.brand)} ${esc(c.model)}</b><div class="small">${esc(c.body)} · ${esc(c.powertrain)}</div></td><td><span class="badge b-${c.tier}">${T('tier_'+c.tier)}</span></td><td>${esc(c.au_launch||'—')}</td><td>${c.variants.filter(v=>v.price).map(v=>fmtMoney(v.price)).join(' / ')||'TBA'}</td><td class="small">${esc(lang==='zh'?c.fit:c.fit_en)} ${(D.summary.competitor_signals[c.id]||{}).n_30d?`<span class="badge b-info">${D.summary.competitor_signals[c.id].n_30d} news/30d</span>`:''}</td></tr>`).join(''); }).join('');
+  document.getElementById('launches').innerHTML = `
+  <div class="card"><h2>${T('l_signals')}</h2>
+    <div class="filters">
+      <select id="l_model"><option value="">${T('f_model')}: ${T('f_all')}</option>${D.zeekr.models.map(m=>`<option value="${m.key}" ${L.model===m.key?'selected':''}>${esc(m.name)}</option>`).join('')}</select>
+      <input type="search" id="l_q" placeholder="${T('f_search')}" value="${esc(L.q)}">
+      <label class="chk"><input type="checkbox" id="l_only" ${L.onlyLaunch?'checked':''}> ${T('l_signals')}</label>
+      <span class="small">${pool.length} ${T('n_items')}</span>
+    </div>
+    ${pool.slice(0,200).map(i=>renderItem(i,{comps:true})).join('') || `<div class="small">${T('empty')}</div>`}
+  </div>
+  <div class="card" style="margin-top:12px"><h2>${T('l_watch')}</h2><div class="twrap"><table><thead><tr><th>ZEEKR</th><th>${lang==='zh'?'竞品':'Competitor'}</th><th>${T('l_tier')}</th><th>${T('l_expected')}</th><th>${T('p_price')}</th><th>${T('l_fit')}</th></tr></thead><tbody>${rows}</tbody></table></div></div>`;
+  document.getElementById('l_model').onchange=e=>{L.model=e.target.value;renderLaunches();};
+  document.getElementById('l_q').oninput=e=>{L.q=e.target.value;renderLaunches();document.getElementById('l_q').focus();};
+  document.getElementById('l_only').onchange=e=>{L.onlyLaunch=e.target.checked;renderLaunches();};
+}
+
+function nearestDelta(price, zm){
+  const vs = zm.variants.filter(v=>v.rrp); if(!vs.length||price==null) return '';
+  let best=vs[0]; for(const v of vs) if(Math.abs(v.rrp-price)<Math.abs(best.rrp-price)) best=v;
+  const d=price-best.rrp; const cls=d<0?'delta-neg':'delta-pos';
+  return `<span class="${cls}">${d>=0?'+':'−'}${fmtMoney(Math.abs(d)).replace('$','$')}</span> <span class="small">vs ${esc(best.name)}</span>`;
+}
+function renderPrices(){
+  const tierOrder={core:0,reference:1,watch:2};
+  const html = D.zeekr.models.map(zm=>{
+    const comps=D.comps.competitors.filter(c=>c.zeekr.includes(zm.key)).sort((a,b)=>tierOrder[a.tier]-tierOrder[b.tier]||(a.variants[0]?.price||9e9)-(b.variants[0]?.price||9e9));
+    const ztbl=`<div class="twrap"><table><thead><tr><th>${T('p_variant')}</th><th>${T('p_drive')}</th><th>${T('p_batt')}</th><th class="num">${T('p_price')}</th></tr></thead><tbody>${zm.variants.map(v=>`<tr><td>${esc(v.name)}</td><td>${esc(v.drive)}</td><td>${v.battery_kwh} kWh</td><td class="num">${v.rrp?fmtMoney(v.rrp):'TBA'}</td></tr>`).join('')}</tbody></table></div>${zm.note?`<div class="note">${esc(zm.note)}</div>`:''}`;
+    const rows=comps.map(c=>{ const sig=D.summary.competitor_signals[c.id]||{}; const news=D.items.filter(i=>i.type==='competitor_news'&&i.competitors.includes(c.id)).slice(0,3);
+      const sigHtml = news.map(n=>`<div class="small">${n.signals.map(sigBadge).join('')} <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title.slice(0,70))}</a> <span class="small">${fmtTime(itemTime(n),false)}</span></div>`).join('') || '<span class="small">—</span>';
+      const offers = (c.offers||[]).map(o=>`<div class="small">• ${esc(o.text)}${o.valid?` <span class="tag">${esc(o.valid)}</span>`:''}${o.src?` <a href="${esc(o.src)}" target="_blank" rel="noopener">↗</a>`:''}</div>`).join('') || '<span class="small">—</span>';
+      const vs = c.variants.length?c.variants:[{name:'—',drive:'',kwh:null,price:null,basis:'rrp'}];
+      return vs.map((v,i)=>`<tr>${i===0?`<td rowspan="${vs.length}"><b>${esc(c.brand)} ${esc(c.model)}</b><div><span class="badge b-${c.tier}">${T('tier_'+c.tier)}</span>${c.group_flag?` <span class="badge b-muted" title="${esc(c.group_flag)}">${T('group')}</span>`:''}</div><div class="small">${esc(c.body)} · ${esc(c.powertrain)} · ${c.status==='on_sale'?T('st_on_sale'):(c.status==='launching'?T('st_launching'):T('st_watch'))}${c.au_launch?' · '+esc(c.au_launch):''}</div>${c.price_note?`<div class="small">${esc(c.price_note)}</div>`:''}<div class="small">${c.model_url?`<a href="${esc(c.model_url)}" target="_blank" rel="noopener">${lang==='zh'?'官网':'site'}</a>`:''} ${c.offers_url?`· <a href="${esc(c.offers_url)}" target="_blank" rel="noopener">${lang==='zh'?'政策页':'offers'}</a>`:''}</div></td>`:''}<td>${esc(v.name)}</td><td>${esc(v.drive||'')}</td><td>${v.kwh?v.kwh+' kWh':''}</td><td class="num">${v.price?fmtMoney(v.price):'TBA'}${v.price?`<div class="small">${v.basis==='da'?T('basis_da'):'RRP'}</div>`:''}</td><td>${nearestDelta(v.price,zm)}</td>${i===0?`<td rowspan="${vs.length}">${offers}</td><td rowspan="${vs.length}">${sigHtml}</td>`:''}</tr>`).join('');
+    }).join('');
+    return `<div class="card" style="margin-top:12px"><div class="model-head"><h2 style="margin:0">${esc(zm.name)}</h2><span class="band">${esc(lang==='zh'?zm.segment:zm.segment_en)} · ${fmtMoney(zm.price_band[0])}–${fmtMoney(zm.price_band[1])}${zm.price_band_note?' ('+esc(zm.price_band_note)+')':''}</span></div>
+      <h3>${T('p_zeekr')}</h3>${ztbl}
+      <h3>${lang==='zh'?'竞品价格与政策':'Competitor prices & offers'}</h3><div class="twrap"><table><thead><tr><th>${lang==='zh'?'竞品':'Competitor'}</th><th>${T('p_variant')}</th><th>${T('p_drive')}</th><th>${T('p_batt')}</th><th class="num">${T('p_price')}</th><th>${T('p_delta')}</th><th>${T('p_offer')}</th><th>${T('p_signal')}</th></tr></thead><tbody>${rows}</tbody></table></div></div>`;
+  }).join('');
+  const changes = (D.changes||[]).slice(0,40).map(c=>`<details class="item"><summary><b>${esc(c.brand)}</b> · ${fmtTime(c.detected)} · +${c.added.length} / −${c.removed.length} · <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.url.replace(/^https?:\/\//,''))}</a></summary><div class="ddiff">${c.added.map(l=>`<div class="add">+ ${esc(l)}</div>`).join('')}${c.removed.map(l=>`<div class="rem">− ${esc(l)}</div>`).join('')}</div></details>`).join('');
+  const snaps = Object.values(D.snaps||{}).map(s=>`<tr><td>${esc(s.brand)}</td><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc((s.url||'').replace(/^https?:\/\//,''))}</a></td><td>${s.fetched?fmtTime(s.fetched):'—'}</td><td>${s.last_error?`<span class="status-bad small">${esc(s.last_error)}</span>`:`<span class="status-ok">${s.n_lines??''} ${lang==='zh'?'行':'lines'}</span>`}</td><td class="small">${(s.money||[]).slice(0,8).map(fmtMoney).join(', ')}</td></tr>`).join('');
+  document.getElementById('prices').innerHTML = `<div class="note">${lang==='zh'?'基准价格与政策由人工核定（2026-10-13，来源见各行链接），抓取程序在此之上叠加新闻信号与品牌官网政策页面的变化检测。价格口径：RRP = 税前裸车价（不含上路费用）；全包价 = drive-away。':'Baseline prices and offers were verified manually on 2026-10-13 (see links). The collector overlays news signals and change detection on brand offer pages. RRP = before on-road costs; drive-away as stated.'}</div>
+   ${html}
+   <div class="card" style="margin-top:12px"><h2>${T('p_changes')}</h2>${changes || `<div class="small">${T('p_nochange')}</div>`}
+   <h3>${lang==='zh'?'监控的品牌页面（最近快照）':'Monitored brand pages (latest snapshot)'}</h3><div class="twrap"><table><thead><tr><th>${lang==='zh'?'品牌':'Brand'}</th><th>URL</th><th>${lang==='zh'?'抓取时间':'Fetched'}</th><th>${T('s_status')}</th><th>${lang==='zh'?'页面上的金额':'Amounts on page'}</th></tr></thead><tbody>${snaps}</tbody></table></div></div>`;
+}
+
+function renderMatrix(){
+  const html = D.zeekr.models.map(zm=>{ const comps=D.comps.competitors.filter(c=>c.zeekr.includes(zm.key));
+    const grp = t => comps.filter(c=>c.tier===t).map(c=>`<span class="chip ${c.tier}" title="${esc(lang==='zh'?c.fit:c.fit_en)}">${esc(c.brand)} ${esc(c.model)}${c.variants[0]?.price?` <span class="small">${fmtMoney(Math.min(...c.variants.filter(v=>v.price).map(v=>v.price)))}+</span>`:''}</span>`).join('');
+    return `<div class="card" style="margin-top:12px"><div class="model-head"><h2 style="margin:0">${esc(zm.name)}</h2><span class="tag">${esc(zm.code)}</span><span class="band">${zm.status==='on_sale'?T('st_on_sale'):esc(zm.expected_launch||T('st_launching'))}</span></div>
+      <div class="grid two" style="margin-top:8px"><div><div><b>${T('m_seg')}</b>: ${esc(lang==='zh'?zm.segment:zm.segment_en)} · ${esc(zm.powertrain)}</div><div><b>${T('m_band')}</b>: ${fmtMoney(zm.price_band[0])}–${fmtMoney(zm.price_band[1])} ${zm.price_band_note?`<span class="small">(${esc(zm.price_band_note)})</span>`:''}</div><div><b>${T('m_use')}</b>: ${esc(lang==='zh'?zm.use_case:zm.use_case_en)}</div></div>
+      <div><div><b>${T('m_comps')}</b></div><div class="small" style="margin-top:4px">${T('tier_core')}</div><div class="chips">${grp('core')||'—'}</div><div class="small" style="margin-top:6px">${T('tier_reference')}</div><div class="chips">${grp('reference')||'—'}</div><div class="small" style="margin-top:6px">${T('tier_watch')}</div><div class="chips">${grp('watch')||'—'}</div></div></div>
+      <details style="margin-top:10px"><summary>${lang==='zh'?'对标理由':'Why these rivals'}</summary><table style="margin-top:6px"><tbody>${comps.map(c=>`<tr><td style="white-space:nowrap"><b>${esc(c.brand)} ${esc(c.model)}</b> <span class="badge b-${c.tier}">${T('tier_'+c.tier)}</span></td><td>${esc(lang==='zh'?c.fit:c.fit_en)}</td></tr>`).join('')}</tbody></table></details></div>`; }).join('');
+  document.getElementById('matrix').innerHTML = `<div class="note">${lang==='zh'?'对标原则：价格区间重叠、车身形式与用途相近、品牌调性匹配（高端/新高端）。主流品牌仅作为价格参照列出；集团内车型标注"集团内"，用于内部分流检查。':'Selection rule: overlapping price band, similar body style and use case, matching brand tone (premium / new-premium). Mainstream brands appear only as price references; Geely-group models are flagged for cannibalisation checks.'}</div>${html}`;
+}
+
+function renderSources(){
+  const st=D.summary.source_status; const keys=Object.keys(st).sort((a,b)=>(st[a].ok===st[b].ok?0:(st[a].ok?1:-1))||a.localeCompare(b));
+  const rows=keys.map(k=>`<tr><td><span class="tag">${esc(k)}</span></td><td class="${st[k].ok?'status-ok':'status-bad'}">${st[k].ok?'OK':'FAIL'}</td><td class="num">${st[k].count}</td><td class="small">${esc(st[k].note||'')}</td></tr>`).join('');
+  const runs=(D.runs||[]).slice(0,30).map(r=>`<tr><td>${fmtTime(r.t)}</td><td class="num">${r.duration_s}s</td><td class="num">${r.new}</td><td class="num">${r.sources_ok}/${r.sources_total}</td></tr>`).join('');
+  document.getElementById('sources').innerHTML = `<div class="note">${T('s_intro')}</div>
+  <div class="grid two"><div class="card"><h2>${T('s_source')}</h2><div class="twrap"><table><thead><tr><th>${T('s_source')}</th><th>${T('s_status')}</th><th class="num">${T('s_count')}</th><th>${T('s_note')}</th></tr></thead><tbody>${rows}</tbody></table></div></div>
+  <div class="card"><h2>${T('s_runs')}</h2><div class="twrap"><table><thead><tr><th>${T('s_time')}</th><th class="num">${T('s_dur')}</th><th class="num">${T('s_new')}</th><th class="num">${T('s_ok')}</th></tr></thead><tbody>${runs}</tbody></table></div>
+  <h3>${lang==='zh'?'可选凭证（仓库 Secrets）':'Optional credentials (repo secrets)'}</h3><ul class="small"><li><b>GOOGLE_MAPS_API_KEY</b> — ${lang==='zh'?'Google 地图门店评价（Places API，每 6 小时）':'Google Maps store reviews (Places API, every 6 h)'}</li><li><b>REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET</b> — ${lang==='zh'?'Reddit 官方 API，避免匿名抓取被限流（429）':'Reddit API, avoids anonymous rate limits (429)'}</li></ul></div></div>`;
+}
+
+function renderAll(){
+  document.querySelectorAll('[data-i]').forEach(el=>{ el.textContent=T(el.dataset.i); });
+  document.documentElement.lang = lang==='zh'?'zh-CN':'en-AU'; document.title=T('title');
+  document.getElementById('langBtn').textContent = lang==='zh'?'EN':'中文';
+  const g=D.summary.generated; document.getElementById('updated').textContent=`${T('updated')} ${fmtTime(g)} (${ago(g)})`;
+  const nx=new Date(new Date(g).getTime()+30*60000); document.getElementById('nextrun').textContent=`${T('next')} ${nx.toLocaleTimeString(lang==='zh'?'zh-CN':'en-AU',{timeZone:tz,hour:'2-digit',minute:'2-digit',hour12:false})}`;
+  renderOverview(); renderComplaints(); renderLaunches(); renderPrices(); renderMatrix(); renderSources();
+}
+function go(tab){ document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===tab)); document.querySelectorAll('.page').forEach(p=>p.classList.toggle('active',p.id===tab)); try{localStorage.setItem('zw.tab',tab);}catch(e){} window.scrollTo({top:0}); }
+document.getElementById('tabs').addEventListener('click',e=>{ const t=e.target.closest('.tab'); if(t) go(t.dataset.tab); });
+document.getElementById('langBtn').onclick=()=>{ lang=lang==='zh'?'en':'zh'; try{localStorage.setItem('zw.lang',lang);}catch(e){} renderAll(); };
+document.getElementById('themeBtn').onclick=()=>{ const r=document.documentElement; const cur=r.getAttribute('data-theme'); const next=cur==='dark'?'light':(cur==='light'?'':'dark'); if(next) r.setAttribute('data-theme',next); else r.removeAttribute('data-theme'); try{localStorage.setItem('zw.theme',next);}catch(e){} };
+try{ const th=localStorage.getItem('zw.theme'); if(th) document.documentElement.setAttribute('data-theme',th); }catch(e){}
+
+async function load(){
+  const t=Date.now(); const j=async n=>{ const r=await fetch(`data/${n}.json?t=${t}`); if(!r.ok) throw new Error(n+': '+r.status); return r.json(); };
+  const opt=async n=>{ try{ return await j(n);}catch(e){ return null; } };
+  [D.summary,D.items,D.zeekr,D.comps] = await Promise.all([j('summary'),j('items'),j('zeekr'),j('competitors')]);
+  [D.changes,D.snaps,D.runs,D.places] = await Promise.all([opt('offer_changes'),opt('offer_snapshots'),opt('runs'),opt('places')]);
+  document.getElementById('loading').style.display='none';
+  renderAll();
+  try{ const tb=localStorage.getItem('zw.tab'); if(tb) go(tb); }catch(e){}
+}
+load().catch(e=>{ document.getElementById('loading').textContent='Load failed: '+e.message; });
+</script>
+</body>
+</html>
