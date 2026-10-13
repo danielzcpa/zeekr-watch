@@ -1,5 +1,547 @@
 [
  {
+  "id": "505794e8d4cc20cb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Yonhap News Agency",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnNERiWHZ0LXlhZnN5bHNMdjdzYVhyVER2cnVWNlBhV0pXOEVrM0tQb3dIQ3dCQmxEY2YtU1RPUkZXc01iNTgzNE5ySXZIcjZvd2p6TDZnUGRDUQ?oc=5",
+  "title": "Privacy watchdog chief says looking into Zeekr's personal data practices - Yonhap News Agency",
+  "text": "Privacy watchdog chief says looking into Zeekr's personal data practices Yonhap News Agency",
+  "author": "",
+  "published": "2026-10-13T14:34:09+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "653dd60768b98056",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/deepal-parent-confirms-new-chinese-brand-for-europe-and-it-could-come-to-australia",
+  "title": "Deepal parent confirms new Chinese brand for Australia – UPDATE",
+  "text": "UPDATED 07/10/2026: A spokesperson for Changan's local arm has confirmed the Nevo brand for an Australian launch sometime in 2027. Chinese auto giant Changan – the parent company of Avatr and Deepal – has confirmed another one of its brands will expand its global footprint to Europe, as well as Australia. At the Paris motor show this week, Changan confirmed a number of new models for selected European markets across its brands, including three all-new models from Nevo – the A06 sedan, as well as the Q05 and Q06 SUVs. Set to go on sale in Spain from early 2027, with other European markets to follow, the Nevo Q05 electric SUV will be the first cab off the rank. Australia will receive its first Nevo-branded vehicles sometime in 2027, with further details on the local model range to come. In other export markets like right-hand drive Thailand, the Q05 is powered by a 120kW/190Nm front-mounted electric motor, fed by a 51.9kWh LFP battery good for 462km of driving range on the less accurate NEDC test cycle. According to Changan, the Nevo Q05 has been China's top-selling compact SUV for the past six months. At 4435mm long and 1855mm wide, it is slightly larger than a Hyundai Kona . The la",
+  "author": "James Wong",
+  "published": "2026-10-13T14:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "deepal",
+   "avatr"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "25c1079e0e88b315",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-mercedes-benz-glb-review-quick-drive",
+  "title": "2027 Mercedes-Benz GLB review: Quick drive",
+  "text": "Mercedes-Benz is making moves in the electric vehicle (EV) world, and the new GLB is the latest cab off the rank. The premium mid-size SUV, an oft-forgotten member of Mercedes-Benz's incredibly broad Australian model range, has entered a second generation. It's now based on the Mercedes-Benz Modular Architecture (MMA), making it a very close relative to the new CLA sedan launched earlier this year. That's a significant step forward from the old GLB in terms of its underpinnings, given the original GLB shared its MFA2 platform with the previous A-Class, B-Class and CLA, and it contributes to the model's new multi-powertrain approach. Mercedes-Benz has retained front- and all-wheel-drive combustion powertrains, albeit supplementing them with 48-volt mild-hybrid (MHEV) tech, in keeping with the CLA. The bigger news, however, is the addition of fully electric GLB variants. The new platform allows for both single-motor rear-wheel drive and dual-motor all-wheel drive powertrains, broadening the GLB's appeal. That also means Mercedes-Benz will be dropping the older EQB bespoke electric SUV in favour of the electric GLB, simplifying its lineup. Naturally, both MHEV and EV versions of the n",
+  "author": "Max Davies",
+  "published": "2026-10-13T13:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "6eff23248ffe71a5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · TyN Magazine",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXVENHJ0LU12X0lQZGsxWTFyTmxKV0pKTlJBcUhhcjZ2ZDk0MkZ6MEJLZDhUN3k4TVA4YS1lVmVTZlo4UXpDTTFCS0ZJN09LdldYd3k1MTZwUHc2eHMtTV9YVDZVTjBVYm9Db0Z2UmY4bzRUeUcyNWpMWnFhWFNqODNSTW1fWFdRcEo3ZWgtUkdBSV9FUUZhSlloUnA0V09hS0tGejd6WjltS1MzUFE?oc=5",
+  "title": "AirConsole partners with Zeekr, marking its entry into the Geely Auto Group ecosystem - TyN Magazine",
+  "text": "AirConsole partners with Zeekr, marking its entry into the Geely Auto Group ecosystem TyN Magazine",
+  "author": "",
+  "published": "2026-10-13T12:43:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "0315a756dbb2dfd5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · ChannelLife UK",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb25JUkZVd05rczZPTEJYN3g4SXAya0ZPSzBDTVJjdVBYSUE0NHhlSEFqWE9mQ2NIdkk0Y2JCYlZzQ1Mxc3czcnVrbEdxWTlVS2VuX3FhY054cW9wcjVCWHJkNjA3S1ZGVUtyMjhrQS1GTzhHZk0tWjgzcUtZWk43WUN6bDFfMEJQZFY1ZDhB?oc=5",
+  "title": "AirConsole partners Zeekr for in-car gaming in Europe - ChannelLife UK",
+  "text": "AirConsole partners Zeekr for in-car gaming in Europe ChannelLife UK",
+  "author": "",
+  "published": "2026-10-13T11:32:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "e1aa917fdd796b7b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · EV Powered",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXl5ZEp3eEdfdmlMS0tFTmxhNktHSHhsS2lDWVdvQUh2QTEtdmJGc2otUFB4Y1BBb3NleXF1cGM4ZGF2cXpoMVpWMDR5LWp5bjZZQXNtcUFaWC0wc2FrYm8yMkI4a3pDTWhGbTUwQWp0UGhrRzAyMFBNOXUzci1UUUhfZFNjTUNqbThaZnNSX1k3YVBoZnRxQmdfRGxYQQ?oc=5",
+  "title": "Zeekr 9X arrives in Europe with massive range and huge pricetag - EV Powered",
+  "text": "Zeekr 9X arrives in Europe with massive range and huge pricetag EV Powered",
+  "author": "",
+  "published": "2026-10-13T11:27:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "86b5677c0d46a8a6",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybzAtcUcxanIwSXVkd0hxd3M3UDQ2VVdHc0hIZ3pfYzB2cDY0c3RTZ3UwdkdhZ1N5cFRKZ1dEZ2ltbF9CdGp6VzRTQ0E3dEE?oc=5",
+  "title": "Kia EV4 price, range and specs - EV Central",
+  "text": "Kia EV4 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T11:10:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev4"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "2b5f69a28740425a",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x4t87r/can_i_leave_my_7x_key_inside_the_car_when_at_home/",
+  "title": "Can I leave my 7x key inside the car when at home?",
+  "text": "My garage forms part of my house, so no need to lock the car when it's parked inside the garage. I like to leave the key fob in the car when at home, but I'm concerned that it will drain the fob's battery if it is within range of the car all the time. Any comments?",
+  "author": "/u/Leather_Lock_2101",
+  "published": "2026-10-13T10:39:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "e6454bbab85802f1",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x4s2n5/7x_is_it_comfortable_for_3_teenagers_or_adults_in/",
+  "title": "7x: is it comfortable for 3 teenagers or adults in the rear seat?",
+  "text": "Is it possible to fit 3 people in the back? How is the middle seat?",
+  "author": "/u/arthurdent1976",
+  "published": "2026-10-13T09:28:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "ecb6767e140b18e0",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tLS1WWlRaSkNiR2ZMc0ZaVjU5aXN4ZWsyS190SUpncXVLLWVoVlNZVWoxM3ZLUkZMeUUzcGVlbEU4cVVDcFg5NjBOa3E0aENTVTZB?oc=5",
+  "title": "Volvo EX30 price, range and specs - EV Central",
+  "text": "Volvo EX30 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:37:22+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex30"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "b46b64ee0eae8730",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Pluang",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNk85S3hIa0dBV2FkaDg4b2hOUUlaTFl6cC1QODN4cDFTMVVaX3VSS1ZnVXdNRldWSDZKeHpoM0NiWXN0eGNEelY5VWwzd2IwS1RHUUllNTkwMnk2VUI3ajBCZnNvUWRRbi1aeWRid3RteWtpOUtvQi1OM1NQOHhfX0h4Y05FWnZUbG0wVjd5djNwRDN1eWk3T2s0bDF4UQ?oc=5",
+  "title": "AirConsole partners with Zeekr to launch in-car gaming in Geely Auto Group vehicles at 2026 Paris Motor Show - Pluang",
+  "text": "AirConsole partners with Zeekr to launch in-car gaming in Geely Auto Group vehicles at 2026 Paris Motor Show Pluang",
+  "author": "",
+  "published": "2026-10-13T07:16:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "7aee8cbefe19dbaf",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x4q1s1/how_do_i_make_sentry_mode_automatic_through_home/",
+  "title": "How do I make sentry mode automatic through Home Assistant?",
+  "text": "Hi all I got my 7X a couple of weeks ago and am loving it, and have also linked it up to my Home Assistant. Within HA there's a toggle to turn sentry mode on/off, which of course I can do manually, but I was wondering if anyone's had any luck with automating it somehow? Ideally it'd be something like if we're not parked in the garage and we lock and leave the car, sentry mode will turn on, but I'm not too sure how to do that? Does HA know if anyone is connected to the car, or is there a better way to do it? Thanks in advanced!",
+  "author": "/u/Opaquer",
+  "published": "2026-10-13T07:14:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "a27bf89cf6f37c43",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TGJXcTk4S0lOMTNiSlpHNERyTGtMcE9ZcXdmU3lhRWdUOGstc0hDczZMUFhtTzRHZThMclNGM0dXYnpQYmsyMXFTTWN4b1U?oc=5",
+  "title": "Kia EV6 price, range and specs - EV Central",
+  "text": "Kia EV6 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:02:55+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "89970244833c69b0",
+  "type": "news_zeekr",
+  "source": "chasingcars-zeekr",
+  "source_name": "Chasing Cars (Zeekr)",
+  "url": "https://www.chasingcars.com.au/news/future-cars/smart-2-revives-two-seater-urban-icon-as-32000-290km-ev/",
+  "title": "Smart #2 revives two-seater urban icon as $32,000, 290km EV",
+  "text": "This post appeared first on Chasing Cars . The Smart #2 brings back the world’s most famous two-seater city car as an EV to make everyday parking virtually guaranteed while also promising a range of nearly 300km. Smart #2 debuted at this week’s 2026 Paris motor show as a successor to three generations of the Fortwo that was last sold globally in 2024. Adopting the hashtag naming convention of the Mercedes and Geely German-Chinese joint venture brand, the Smart #2 – pronounced hashtag two – followed the Paris show’s trend for small, affordable electric cars. 2026 Smart #2 The Smart #2 is 2.746mm long – extending beyond the original 2.5-metre Fortwo though slightly shorter than the third-generation Fortwo it more directly replaces. Smart, however, says the #2 matches the ridiculously tight 6.95 metre turning circle of the original car. The #2 sits on a freshly developed platform called the Electric Compact Architecture (ECA), different to the SCA EV platform shared with other Geely-owned brands including Volvo (EX30) and Zeekr (X). There’s a floor-mounted 35.8kWh battery and the company says there’s a targeted WLTP of 290km. Smart #2 is less than 2.8 metres long There’s a 60kW/130Nm",
+  "author": "Jez Spinks",
+  "published": "2026-10-13T06:40:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "volvo-ex30"
+  ],
+  "brands": [
+   "volvo",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "5e7f26a036fb8a06",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · WhichCar",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vdTVCZW1ZMVBWNFJGYVJud0hhQm94V2lzdThNSExad2ZpVHo4ZDVhamZqMjhnZkhNdVZIT0VIWHV4aVV2d28xajhYN3U?oc=5",
+  "title": "Xpeng X9 - WhichCar",
+  "text": "Xpeng X9 WhichCar",
+  "author": "",
+  "published": "2026-10-13T06:34:29+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "ac7a150e4fc7b748",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Exhaust Notes Australia",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zdTZCQWN3d1dEeUN1bUNLaVk1NmlvZ1NoaWgxSUo1QVREMDB5WUhFT2tSX09PMVVVcmdITjZtcWZKUmMwc2pIYjNQZG8yaHRFSGR6SjZpMmhLVmRuVkRwNzJ5TENHUXg4bGFTQlBCdlNXR2pSc1hSaA?oc=5",
+  "title": "XPENG reveals G9L large SUV in Paris - Exhaust Notes Australia",
+  "text": "XPENG reveals G9L large SUV in Paris Exhaust Notes Australia",
+  "author": "",
+  "published": "2026-10-13T06:33:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g9l"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "54fc71bc4c6ac577",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -242,6 +784,45 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "3a4fb0d45c65c6ec",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUpIVzRaa1MtRGVYZl9DWUxUWXNMakIyU21KNTRwS1pjTnZqYm5qNG11NV9CRHZ5OWk4cWRYRi1WZkVfVHpoSGpSUjNIUGR0VFVaRkRkM0JlaVYxMDFpOWFkcDdzdW94bnZsam9hM3dKeXc2bmk1bHl5NGQ0Slp1TjZUZ1lXbTNfeHd3Y2ZKYlNzSV9WcHNoRm5uOXJCeEdBU1o4WUFGcFQ4bzhpaF9yRnN6dU9ER01TdlNjaTlR?oc=5",
+  "title": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y - CarsGuide",
+  "text": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y CarsGuide",
+  "author": "",
+  "published": "2026-10-13T01:30:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "7df177ffe7c98f88",
   "type": "competitor_news",
   "source": "whichcar",
@@ -465,41 +1046,42 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "653dd60768b98056",
-  "type": "competitor_news",
-  "source": "carexpert",
-  "source_name": "CarExpert",
-  "url": "https://www.carexpert.com.au/car-news/deepal-parent-confirms-new-chinese-brand-for-europe-and-it-could-come-to-australia",
-  "title": "Deepal parent confirms new Chinese brand for Europe – and it could come to Australia",
-  "text": "Chinese auto giant Changan – the parent company of Avatr and Deepal – has confirmed another one of its brands will expand its global footprint to Europe, and potentially Australia. At the Paris motor show this week, Changan confirmed a number of new models for selected European markets across its brands, including three all-new models from Nevo – the A06 sedan, as well as the Q05 and Q06 SUVs. Set to go on sale in Spain from early 2027, with other European markets to follow, the Nevo Q05 electric SUV will be the first cab off the rank. In other export markets like right-hand drive Thailand, the Q05 is powered by a 120kW/190Nm front-mounted electric motor, fed by a 51.9kWh LFP battery good for 462km of driving range on the less accurate NEDC test cycle. According to Changan, the Nevo Q05 has been China's top-selling compact SUV for the past six months. At 4435mm long and 1855mm wide, it is slightly larger than a Hyundai Kona . The larger Q06 SUV and A06 sedan were also shown in Paris, indicating the Chinese automaker's plans to also launch its mid-size models in the region. Both can be had with battery electric (EV) or range-extended hybrid (EREV) powertrains, with the Q06 offering",
-  "author": "James Wong",
-  "published": "2026-10-12T23:56:00+00:00",
+  "id": "d64406241a9f2014",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDN4NDZ2UkRIQzJIYTR5eUNMbFZvLTRMSWJsaG5PLTJscjVUMnRxOEIzZG5ycnVBT05FQ0EzN2hhTzdRVmVURHRTQ3psQUU3RzZuNmh5Tjh5Zmh4R2NNREo1cmxiVmN3aHcxMFYxb2MyTEJoVTNWMVhZY2o2Ql9tSko2SlZ0d3o2cjVZdlV1SHFQd3RGZ3o1S1I3SzV6TlJJUmZrLUg1eFZkRG5Wc3RoU3hEQVhEbzdfaVlqcVAyeU80TVVO?oc=5",
+  "title": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X - CarsGuide",
+  "text": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X CarsGuide",
+  "author": "",
+  "published": "2026-10-13T00:00:00+00:00",
   "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [
+   "xpeng-g9l",
+   "wey-v9x"
+  ],
   "brands": [
-   "hyundai",
-   "deepal",
-   "avatr"
+   "xpeng"
   ],
-  "categories": [
-   "charging"
-  ],
+  "categories": [],
   "sentiment": {
-   "score": -1,
-   "neg_hits": 1,
+   "score": 0,
+   "neg_hits": 0,
    "pos_hits": 0,
-   "label": "negative"
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "competitor",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "2c8e385c13663939",
@@ -1070,7 +1652,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x4054i/new_7x_facelift_from_the_back/",
   "title": "New 7X facelift from the back",
-  "text": "Looks grumpy submitted by /u/WishyRater [link] [comments]",
+  "text": "Looks grumpy",
   "author": "/u/WishyRater",
   "published": "2026-10-12T12:08:47+00:00",
   "rating": null,
@@ -1090,7 +1672,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -1135,7 +1717,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x3yli4/7gt_core_in_delivery_on_december_wait_for_updated/",
   "title": "7GT core in delivery on December. Wait for updated one?",
-  "text": "I have ordered the 7GT Core, delivery expected in December. Now that the updated 7x is official in the EU, I guess in H2 2027 we will have the same for 7GT. Is there any info on that? Do you have the same doubt? submitted by /u/EliaEllis [link] [comments]",
+  "text": "I have ordered the 7GT Core, delivery expected in December. Now that the updated 7x is official in the EU, I guess in H2 2027 we will have the same for 7GT. Is there any info on that? Do you have the same doubt?",
   "author": "/u/EliaEllis",
   "published": "2026-10-12T10:45:18+00:00",
   "rating": null,
@@ -1159,7 +1741,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -1237,7 +1819,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x3wsut/zeekr_unveiled_updated_7x_at_paris_motor_show/",
   "title": "Zeekr unveiled updated 7x at Paris Motor Show",
-  "text": "I was honestly expecting release of 8x in Europe submitted by /u/ZealousidealPiano423 [link] [comments]",
+  "text": "I was honestly expecting release of 8x in Europe",
   "author": "/u/ZealousidealPiano423",
   "published": "2026-10-12T08:53:57+00:00",
   "rating": null,
@@ -1262,7 +1844,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -1273,7 +1855,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x3udlb/zeekr_x_apple_wallet_key/",
   "title": "Zeekr X Apple Wallet Key?",
-  "text": "submitted by /u/lucasajthornton [link] [comments]",
+  "text": "",
   "author": "/u/lucasajthornton",
   "published": "2026-10-12T06:20:11+00:00",
   "rating": null,
@@ -1295,7 +1877,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -1575,7 +2157,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x3q4b8/xpeng_g6_performance_vs_zeeker_7x_vs_zeeker_x/",
   "title": "Xpeng G6 Performance vs Zeeker 7x vs Zeeker X",
-  "text": "submitted by /u/briefs123 [link] [comments]",
+  "text": "",
   "author": "/u/briefs123",
   "published": "2026-10-12T02:22:30+00:00",
   "rating": null,
@@ -1599,7 +2181,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -1642,7 +2224,7 @@
  {
   "id": "ceeb073f083b6f05",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGhuRWtudTgtMmxwVkY1b2gzekdnWUNSR3VLcmN3NmNBZ1JKNVp1aVpxSVJHWnJyWHhvN3NvLUNRR0FuNU83Z1VUTjFBQWZnVzhKZkRRZDQ2RDAtNVM5VmtRQzFJRWVOcUZ0UnhFc2JIQ2FIU0RiNEpWYThkaUh0QV9IVkhaU2VzY1J1SERWSVVNQ0t2cHNYNWpjeGVEUzlEOW85bi1aWWdXQ3Z2cm5ReGdNcUpCYVA0U2NJQ3RNZ1drcXZXMlE?oc=5",
   "title": "This is VW’s car to defeat China: 2027 Volkswagen ID.Tiguan revealed to battle 2026 Zeekr 7X, Geely EX5 - CarsGuide",
@@ -1672,7 +2254,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -2163,7 +2745,7 @@
  {
   "id": "3d2fc3de4038cc14",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Local Ipswich News",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yb25RRWl3bHVpNkFmRU5ub3haSUM1UExCbGZrWGQ3bXR6cGpYLUoxS3JpV2FkbnI1UllDZE80cDZMeEJOcjhrQ0FOTFBPYWtrQkl6Yi1Cb3Mzc043QlRZdms4NWVSeEEt?oc=5",
   "title": "Zeekr 9X targets Australia’s luxury SUV heavyweights - Local Ipswich News",
@@ -2227,6 +2809,35 @@
    "thumbs": 0
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "16ae5d1618db6486",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tYVpUSGZNVHp3WkpSMjR4d0tRWDlwNWRQdEFvQ2tFalpZNWxzU1cwVU1SQmh5Ml84NENTLVcyazRNUjY2c0NOUjlobnE?oc=5",
+  "title": "Zeekr electric cars in Australia - EV Central",
+  "text": "Zeekr electric cars in Australia EV Central",
+  "author": "",
+  "published": "2026-10-10T21:43:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "1fcb9074dd9fe52c",
@@ -2409,7 +3020,7 @@
  {
   "id": "2a316a5a938e6689",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · The Supercar Blog",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHpRVGd4VWRDcm1Od0Y3LW1jeUtlVlN0UHNnSFlRdzczWVdoWE0xVWhLVGlUTnItOWdabS15UXhHYWJBNHdqTE1DSUkwS0JYOEdjU3YwajNuVl9Qbkt4VWM2ZTV6bEZaM2F0SnJoUEZLUXpWQ1Y5TUgzTk5LeVVLVTIyeXJZaUVjSFI0RXF5VnBMakc4aHliOGRERGRxMjBTS2hFYVZKU0c?oc=5",
   "title": "780 hp Zeekr 7X Facelift spotted testing in Australia for the first time - The Supercar Blog",
@@ -2432,7 +3043,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -2444,7 +3055,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x27le2/zeekr_support_in_australia/",
   "title": "Zeekr Support in Australia",
-  "text": "So, I went shopping today along a strip of car dealers in the ACT and was very, very impressed by the Zeekr 7X (in general). However, it was interesting to note other dealers reactions when I mentioned that I was so impressed by the Zeekr. There were variations on one particular theme (apart from the whole CCP subsidised thing…), and that was after sales servicing and support. The Zeekr dealers response was that all servicing would be conducted within the ACT and that a substantial stock of spares is currently maintained in Aus. What am I missing here? Is it simple cross-dealer jealousy/competitiveness or is there a real risk when buying Zeekr? submitted by /u/thadius30 [link] [comments]",
+  "text": "So, I went shopping today along a strip of car dealers in the ACT and was very, very impressed by the Zeekr 7X (in general). However, it was interesting to note other dealers reactions when I mentioned that I was so impressed by the Zeekr. There were variations on one particular theme (apart from the whole CCP subsidised thing…), and that was after sales servicing and support. The Zeekr dealers response was that all servicing would be conducted within the ACT and that a substantial stock of spares is currently maintained in Aus. What am I missing here? Is it simple cross-dealer jealousy/competitiveness or is there a real risk when buying Zeekr?",
   "author": "/u/thadius30",
   "published": "2026-10-10T05:58:40+00:00",
   "rating": null,
@@ -2541,6 +3152,39 @@
    "thumbs": 0
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "af15aa7c4a27f293",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
+  "title": "Zeekr 7X price, range and specs - EV Central",
+  "text": "Zeekr 7X price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "a40beb8cf3c8b2c4",
@@ -2667,7 +3311,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x1ocwd/zeekr_9x_test_drive_car_in_germany/",
   "title": "ZEEKR 9x test drive car in Germany",
-  "text": "Read somewhere the car can be ordered beginning of Dec 2026 (Germany), did someone already spotted the car (e.g. test drive car) somewhere or knows where to be able to have a look at? Thanks! submitted by /u/Next_Science_1242 [link] [comments]",
+  "text": "Read somewhere the car can be ordered beginning of Dec 2026 (Germany), did someone already spotted the car (e.g. test drive car) somewhere or knows where to be able to have a look at? Thanks!",
   "author": "/u/Next_Science_1242",
   "published": "2026-10-09T15:28:47+00:00",
   "rating": null,
@@ -2690,7 +3334,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -2804,7 +3448,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1x1gyhr/xpeng_g6_performance_facelift_vs_zeekr_7x_standard/",
   "title": "Xpeng G6 Performance (facelift) vs Zeekr 7X Standard",
-  "text": "Hi, these two are at the same price point in my country. At first i was pretty set on the Xpeng, however, I realized that for the same price i can get a Zeekr 7X in standard. I was wondering what 7X in standard configuration can offer that Xpeng in max trim wont? They are next to identical on things that matter to us: - charging speed (we dont have a home charger) - battery type that wont degrade from charging to 100% - fairly large range - spacious trunk - comfortable seats for kids I know i would be giving up AWD power, a bit of range, and massage chairs. Is there something that i would gain instead? submitted by /u/Jaceiro [link] [comments]",
+  "text": "Hi, these two are at the same price point in my country. At first i was pretty set on the Xpeng, however, I realized that for the same price i can get a Zeekr 7X in standard. I was wondering what 7X in standard configuration can offer that Xpeng in max trim wont? They are next to identical on things that matter to us: - charging speed (we dont have a home charger) - battery type that wont degrade from charging to 100% - fairly large range - spacious trunk - comfortable seats for kids I know i would be giving up AWD power, a bit of range, and massage chairs. Is there something that i would gain instead?",
   "author": "/u/Jaceiro",
   "published": "2026-10-09T09:35:55+00:00",
   "rating": null,
@@ -2830,7 +3474,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -3469,13 +4113,46 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "cd864d4326d59c7f",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · WhichCar",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObko1TDU4ZGJxNnIzTy16T3AwLTVDcnRnUUd5WU1kU1ZJQ2lVTG05MFhvZ3lmdUNwLS1CWV9LaXo2ODhBeUxZLW5kYVRkVndrc1A4QXFYRm9YY255aVFIYjZUc0VRRGwzamRyQ3phT28zb0Z5WmtMV1pCZjVDbU1xcHJxcWU1RHpVRjJFQ2E3Q2kwQQ?oc=5",
+  "title": "Hyundai Ioniq 3 review: The compact EV isn't coming to Australia. Here's proof we're missing out on a very good thing... - WhichCar",
+  "text": "Hyundai Ioniq 3 review: The compact EV isn't coming to Australia. Here's proof we're missing out on a very good thing... WhichCar",
+  "author": "",
+  "published": "2026-10-07T20:48:54+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "211374053dce5beb",
   "type": "post",
   "source": "reddit-Zeekr",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wzus8p/zeekr_7gt_303_user_experiences/",
   "title": "Zeekr 7GT 3.0.3 user experiences",
-  "text": "Any owners care to share their experiences with the new Zeekr 7GT 3.0.3 software update? submitted by /u/ZealousidealPiano423 [link] [comments]",
+  "text": "Any owners care to share their experiences with the new Zeekr 7GT 3.0.3 software update?",
   "author": "/u/ZealousidealPiano423",
   "published": "2026-10-07T12:06:33+00:00",
   "rating": null,
@@ -3497,7 +4174,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -4047,7 +4724,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wyh61d/zeekr_getting_ready_for_canada_geely_launches/",
   "title": "Zeekr getting ready for Canada? Geely launches Canadian website, says a dealer network is planned for key markets",
-  "text": "submitted by /u/JaanatEVuniverse [link] [comments]",
+  "text": "",
   "author": "/u/JaanatEVuniverse",
   "published": "2026-10-05T19:04:03+00:00",
   "rating": null,
@@ -4071,7 +4748,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -4191,7 +4868,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wxvu3u/chinese_zeekr_to_english/",
   "title": "Chinese Zeekr to english.",
-  "text": "I just bought a zeekr 7x from china and it finally arrived. But i have a big problem it wont let me swap from chinese to english. Ive looked everywhere but i cant find any solid guide or help to update the car. Can someone please help and point me to the right directions? Software model is: 6.7 Zeekr 7x submitted by /u/6iohazard [link] [comments]",
+  "text": "I just bought a zeekr 7x from china and it finally arrived. But i have a big problem it wont let me swap from chinese to english. Ive looked everywhere but i cant find any solid guide or help to update the car. Can someone please help and point me to the right directions? Software model is: 6.7 Zeekr 7x",
   "author": "/u/6iohazard",
   "published": "2026-10-05T01:14:51+00:00",
   "rating": null,
@@ -4213,7 +4890,7 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -4796,7 +5473,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wuuldq/zeekr_hits_6th_straight_record_delivery_month/",
   "title": "Zeekr hits 6th straight record delivery month!",
-  "text": "Zeekr's September deliveries rose 103.85% year-on-year! Congrats Zeekr! Zeekr success is mostly due to offering premium EVs for less than less-premium competitors. Great value in China, however, European customers face more than double the price tag https://cnevpost.com/2026/10/01/zeekr-sept-2026-deliveries/ submitted by /u/_Mr_D [link] [comments]",
+  "text": "Zeekr's September deliveries rose 103.85% year-on-year! Congrats Zeekr! Zeekr success is mostly due to offering premium EVs for less than less-premium competitors. Great value in China, however, European customers face more than double the price tag https://cnevpost.com/2026/10/01/zeekr-sept-2026-deliveries/",
   "author": "/u/_Mr_D",
   "published": "2026-10-01T09:07:00+00:00",
   "rating": null,
@@ -4819,7 +5496,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -5224,7 +5901,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wtwuwh/12_years_on_how_are_your_zeekrs_holding_up/",
   "title": "1-2 years on. How are your zeekrs holding up? Batteries? Software?",
-  "text": "Will you see a dramatic or any kind of slow down or battery degradation? Like is it noticeably slower on start up to load profiles etc? submitted by /u/Negative-Try6286 [link] [comments]",
+  "text": "Will you see a dramatic or any kind of slow down or battery degradation? Like is it noticeably slower on start up to load profiles etc?",
   "author": "/u/Negative-Try6286",
   "published": "2026-09-30T05:40:47+00:00",
   "rating": null,
@@ -5245,7 +5922,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -5290,7 +5967,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wtkvho/zeekr_android_app_update/",
   "title": "Zeekr Android APP update",
-  "text": "Just received and update for Android app (3.1.0) and now my Samsung S25 Ultra is enabled for digital key 1.0. submitted by /u/godboda [link] [comments]",
+  "text": "Just received and update for Android app (3.1.0) and now my Samsung S25 Ultra is enabled for digital key 1.0.",
   "author": "/u/godboda",
   "published": "2026-09-29T20:16:16+00:00",
   "rating": null,
@@ -5310,7 +5987,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -5355,7 +6032,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wt9z3o/zeekr_7gt_303_is_out_release_notes/",
   "title": "Zeekr 7GT 3.0.3 is out - release notes",
-  "text": "3.0.2 was skipped for me - got the car late July with 3.0.1. - Sweden submitted by /u/Notorious_Meerkat [link] [comments]",
+  "text": "3.0.2 was skipped for me - got the car late July with 3.0.1. - Sweden",
   "author": "/u/Notorious_Meerkat",
   "published": "2026-09-29T13:21:57+00:00",
   "rating": null,
@@ -5375,7 +6052,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -5488,7 +6165,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wt0e4z/importing_a_zeeker_in_a_market_without_a/",
   "title": "Importing a zeeker in a market without a dealership",
-  "text": "I am planning to import my right hand zeeker 7X long range, from china to Kenya. The dealer I am buying from promises to support on parts and remote technical support if need be. Personally I don't mind handing imports of replacement parts but, what worries me most are warranty claims, not covering me in this region and any over the air updates. submitted by /u/Old_Satisfaction5454 [link] [comments]",
+  "text": "I am planning to import my right hand zeeker 7X long range, from china to Kenya. The dealer I am buying from promises to support on parts and remote technical support if need be. Personally I don't mind handing imports of replacement parts but, what worries me most are warranty claims, not covering me in this region and any over the air updates.",
   "author": "/u/Old_Satisfaction5454",
   "published": "2026-09-29T04:17:49+00:00",
   "rating": null,
@@ -5513,7 +6190,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -5555,7 +6232,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wsn8pu/my_zeekr_experience_in_the_uae_is_your_country/",
   "title": "My ZEEKR experience in the UAE. Is your country similar?",
-  "text": "ZEEKR and I have beef over how they handled connectivity and after-sales service. I’m wondering if anyone else has had a similar experience with ZEEKR in their country? Not sure if my problems are because of ZEEKR China’s business decisions or the local company. submitted by /u/TheYungSheikh [link] [comments]",
+  "text": "ZEEKR and I have beef over how they handled connectivity and after-sales service. I’m wondering if anyone else has had a similar experience with ZEEKR in their country? Not sure if my problems are because of ZEEKR China’s business decisions or the local company.",
   "author": "/u/TheYungSheikh",
   "published": "2026-09-28T18:51:29+00:00",
   "rating": null,
@@ -5576,7 +6253,7 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -5626,7 +6303,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wsda3w/rear_view_mirror_dashcam_suggestions/",
   "title": "Rear view mirror dashcam suggestions?",
-  "text": "Hi friends, we are waiting for our Zeekr 7X in Australia and I was told there's no dashcam in the Zeekr 7x for road accidents or parking mode purposes. I'm thinking of getting a rearview mirror dashcam, are there any recommended models, and do we need an external dashcam battery for the 7x if wanting carpark parking mode as well? Cheers. Edit: Found this model on Aliexpress, is this a good dashcam model? aliexpres s.com/item/1005009717101279.html https://preview.redd.it/2xkfyehu89sh1.png?width=412&format=png&auto=webp&s=e0a58a6b47af946bd75a67174e556669bd9d4ffa submitted by /u/Conscious_Weather_10 [link] [comments]",
+  "text": "Hi friends, we are waiting for our Zeekr 7X in Australia and I was told there's no dashcam in the Zeekr 7x for road accidents or parking mode purposes. I'm thinking of getting a rearview mirror dashcam, are there any recommended models, and do we need an external dashcam battery for the 7x if wanting carpark parking mode as well? Cheers. Edit: Found this model on Aliexpress, is this a good dashcam model? aliexpres s.com/item/1005009717101279.html https://preview.redd.it/2xkfyehu89sh1.png?width=412&format=png&auto=webp&s=e0a58a6b47af946bd75a67174e556669bd9d4ffa",
   "author": "/u/Conscious_Weather_10",
   "published": "2026-09-28T12:29:36+00:00",
   "rating": null,
@@ -5921,7 +6598,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wri66l/7gt_in_forrest_green_pictures/",
   "title": "7GT in Forrest Green - pictures?",
-  "text": "The EU configurator now has Forrest Green and an electrochromatic pano roof option. Any real world pics apart from the renderings? Finally a color which is not another grey! submitted by /u/aebersim [link] [comments]",
+  "text": "The EU configurator now has Forrest Green and an electrochromatic pano roof option. Any real world pics apart from the renderings? Finally a color which is not another grey!",
   "author": "/u/aebersim",
   "published": "2026-09-27T11:46:04+00:00",
   "rating": null,
@@ -5941,7 +6618,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -6021,7 +6698,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wqym5w/zeekr_7x_rwd_long_range_100_kwh_battery/",
   "title": "Zeekr 7X RWD long range 100 kwh battery",
-  "text": "Hello everyone Just became part of the family, got a question The dealership told me that for better battery life only charge it up to 80% and dont drop below 20% Only to to up to 100% when driving long distance. I drive aroind 100-120 KM for work daily, aroind 15% submitted by /u/iPhonze25 [link] [comments]",
+  "text": "Hello everyone Just became part of the family, got a question The dealership told me that for better battery life only charge it up to 80% and dont drop below 20% Only to to up to 100% when driving long distance. I drive aroind 100-120 KM for work daily, aroind 15%",
   "author": "/u/iPhonze25",
   "published": "2026-09-26T19:01:32+00:00",
   "rating": null,
@@ -6045,7 +6722,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -6056,7 +6733,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wqj7v6/7gt_delivery_times_eu/",
   "title": "7GT delivery times EU",
-  "text": "My current company car's contract will end mid next year. When I return it, I wont have a spare car to use so I need my new one ready. I asked the dealership here in Belgium what the delivery time is and they said max 3 months. However I have seen some posts of people claiming to be waiting 3 months already and not have a clear delivery date yet. How long do you guys have to wait for the car? I dont want to have 2 cars for like 6 months just to be sure to have it ready when I return the company car. submitted by /u/AverageVRuser [link] [comments]",
+  "text": "My current company car's contract will end mid next year. When I return it, I wont have a spare car to use so I need my new one ready. I asked the dealership here in Belgium what the delivery time is and they said max 3 months. However I have seen some posts of people claiming to be waiting 3 months already and not have a clear delivery date yet. How long do you guys have to wait for the car? I dont want to have 2 cars for like 6 months just to be sure to have it ready when I return the company car.",
   "author": "/u/AverageVRuser",
   "published": "2026-09-26T06:22:55+00:00",
   "rating": null,
@@ -6079,7 +6756,7 @@
   "severity": "medium",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -6183,7 +6860,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wpxzam/did_the_new_software_update_help_on_adas_7_gt/",
   "title": "Did the new software update help on ADAS - 7 GT",
-  "text": "Looking for people with experience. Think the car is absolutely a bang for the buck, but like to clarify if this update has helped on the unrefined adas systems? Cheers submitted by /u/Major-Pick9763 [link] [comments]",
+  "text": "Looking for people with experience. Think the car is absolutely a bang for the buck, but like to clarify if this update has helped on the unrefined adas systems? Cheers",
   "author": "/u/Major-Pick9763",
   "published": "2026-09-25T14:35:08+00:00",
   "rating": null,
@@ -6206,7 +6883,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -6620,7 +7297,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wo5ddo/chinas_flagship_zeekr_9x_begins_first_largescale/",
   "title": "China’s Flagship ZEEKR 9X Begins First Large-Scale Overseas Shipment, Recognized as ‘the Most Expensive Chinese Vehicle Overseas’",
-  "text": "submitted by /u/grandweapon [link] [comments]",
+  "text": "",
   "author": "/u/grandweapon",
   "published": "2026-09-23T13:01:31+00:00",
   "rating": null,
@@ -6644,7 +7321,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -6808,13 +7485,49 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a733988169d48563",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDBSbkZTVGFicktmck9wWVVfaXlEWkRXaXN1eUtDMzF0a3ZwQzk2MjdpRmYyWmpFSnRNd2l6M2VmMmIyQkd5blV6d0NhWXBlcTl0VHF4QzJDYW5rampTQ0ZIQnM2NmJramF2UlROOVJvbzlSVWJfVDA3MGY1dFRwSlZMcVFRaDN1VzBLWkZZVkhTOUhRcy04R1lCZFJWUGZpaWpjelBYZmg?oc=5",
+  "title": "2027 XPeng L03 price and specs: Geely EX5 rivalled by new EV and hybrid SUV - Drive",
+  "text": "2027 XPeng L03 price and specs: Geely EX5 rivalled by new EV and hybrid SUV Drive",
+  "author": "",
+  "published": "2026-09-23T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "xpeng",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "581fd76dbca7f06b",
   "type": "post",
   "source": "reddit-Zeekr",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wnylbj/7x_fob_cover/",
   "title": "7x Fob Cover",
-  "text": "submitted by /u/Sherrocentral [link] [comments]",
+  "text": "",
   "author": "/u/Sherrocentral",
   "published": "2026-09-23T06:54:11+00:00",
   "rating": null,
@@ -6834,7 +7547,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -7225,7 +7938,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wmny7v/mattress_for_zeekr_7x/",
   "title": "Mattress for Zeekr 7x",
-  "text": "Hi, just bought my 7x and so happy about it! My boyfriend and I wanna go camping and thought it would be cool to have the option to sleep in the car - Anyone have experience with an inflatable mattress that fits? Thanks! submitted by /u/Practical_Towel2115 [link] [comments]",
+  "text": "Hi, just bought my 7x and so happy about it! My boyfriend and I wanna go camping and thought it would be cool to have the option to sleep in the car - Anyone have experience with an inflatable mattress that fits? Thanks!",
   "author": "/u/Practical_Towel2115",
   "published": "2026-09-21T20:11:16+00:00",
   "rating": null,
@@ -7247,7 +7960,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -7425,6 +8138,45 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a5d0bb51945d93e3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHlPUGQ3UEZQM0h5QzJYWkp0QXBpbU5yNjkxd2cycWhZcFRISTYxMDNGeTF3SnZVbnJOaWpBMllyQXBYNGc3OVI4M0Zld0lLRHdqQmdwdkJwTnJ6ZkpSa25KS3lpeV9pcHBqUGRjaDl1MnBFSlJybDZrZEotdUpUZzJTN2htQ3dlMHJSZlZMMkhnWDBQc1MzWUlEMkxaS0V3aHFITXl6bmNsTnhwWnNOWF9NLU5rckdHbXlvVHIyVQ?oc=5",
+  "title": "2026 Smart #5 priced in Australia ahead of launch to rival Tesla Model Y and Zeekr 7X electric mid-size SUVs - CarsGuide",
+  "text": "2026 Smart #5 priced in Australia ahead of launch to rival Tesla Model Y and Zeekr 7X electric mid-size SUVs CarsGuide",
+  "author": "",
+  "published": "2026-09-21T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "smart-5"
+  ],
+  "brands": [
+   "smart",
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "7e27f56630491929",
   "type": "complaint",
   "source": "playstore-android",
@@ -7465,7 +8217,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wlcyyi/picked_up_the_7x/",
   "title": "Picked up the 7X",
-  "text": "I just picked up a new Zeekr 7X here in Singapore, which is the most expensive place in the world to own a car. The base model alone costs over 270k SGD (210+k USD)!!! Envy everyone who are able to own this amazing car cheaply 😬 submitted by /u/Many-Satisfaction-55 [link] [comments]",
+  "text": "I just picked up a new Zeekr 7X here in Singapore, which is the most expensive place in the world to own a car. The base model alone costs over 270k SGD (210+k USD)!!! Envy everyone who are able to own this amazing car cheaply 😬",
   "author": "/u/Many-Satisfaction-55",
   "published": "2026-09-20T09:58:01+00:00",
   "rating": null,
@@ -7487,7 +8239,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -7498,7 +8250,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wlbzr1/zeekr_just_fixed_the_7x_with_a_big_summer_update/",
   "title": "Zeekr Just Fixed The 7X With A Big Summer Update - Zeekr OS 2.2 Is Here",
-  "text": "submitted by /u/RoamingNorway [link] [comments]",
+  "text": "",
   "author": "/u/RoamingNorway",
   "published": "2026-09-20T09:00:18+00:00",
   "rating": null,
@@ -7520,7 +8272,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -7562,7 +8314,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wla12r/zeekr_x_creep_standstill1_pedalauto_hold/",
   "title": "Zeekr X creep/ standstill/1 pedal/auto hold",
-  "text": "submitted by /u/Necessary_Being127 [link] [comments]",
+  "text": "",
   "author": "/u/Necessary_Being127",
   "published": "2026-09-20T07:07:13+00:00",
   "rating": null,
@@ -7582,7 +8334,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -7795,7 +8547,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wkaw40/7gt_preorder_now_open/",
   "title": "7GT pre-order now open",
-  "text": "Pre-orders now open! From what I gather pricing will be 1-2k cheaper than the 7x equivalent for Aus. I’m sure cars will land early next year. Very keen for this! submitted by /u/Advanced-Seaweed-866 [link] [comments]",
+  "text": "Pre-orders now open! From what I gather pricing will be 1-2k cheaper than the 7x equivalent for Aus. I’m sure cars will land early next year. Very keen for this!",
   "author": "/u/Advanced-Seaweed-866",
   "published": "2026-09-19T03:19:20+00:00",
   "rating": null,
@@ -7821,7 +8573,7 @@
    "price_cut"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8004,6 +8756,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "db043b9f86b9d2ca",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRDV3aWd5bndWUEZkUUttVjJoVF81MFZYTmhwcHpybEdnbWtSTkxuNUdWUzlBdU5FTmpSOUh3OTl5SEk2cVpVaHJMQ2RnX1FKQU5ndThVUWxtai1WRW1PT2QzRDZZWjBCaFNB?oc=5",
+  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range - The Beep",
+  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range The Beep",
+  "author": "",
+  "published": "2026-09-18T01:15:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "d55b60a47429185f",
   "type": "complaint",
   "source": "playstore-android",
@@ -8103,7 +8890,7 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8205,7 +8992,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8240,7 +9027,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8389,7 +9176,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1whakri/picked_up_my_7gt_today/",
   "title": "Picked up my 7GT today",
-  "text": "So far everything is great! Heavy rain all day, so no opportunities for a photo shoot. submitted by /u/ZKR_7GT [link] [comments]",
+  "text": "So far everything is great! Heavy rain all day, so no opportunities for a photo shoot.",
   "author": "/u/ZKR_7GT",
   "published": "2026-09-15T19:39:59+00:00",
   "rating": null,
@@ -8409,7 +9196,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8420,7 +9207,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wh9ryy/questions_for_tesla_owners_and_dashcam_enthusiasts/",
   "title": "Questions for Tesla owners and dashcam enthusiasts",
-  "text": "Hello everyone! Are there any Tesla owners here who have switched to Zeekr? There are a few major questions that are making me consider buying one. Autopilot How does the AP perform in Europe on motorways? With the “magic” weight, does it work well? Dashcam According to the salesperson, you just need to insert a USB drive and transfer the footage to a PC. The salesperson says that, due to GDPR privacy regulations, it’s not possible to view the footage on your phone. But Tesla is also operating in Europe and allows this, so I don’t really understand the reasoning. Does Sentry Mode record from the different camera angles? When driving, is there an option to save footage to the USB drive, for example the last 5 or 10 minutes? Software I tested both the 001 and the 7X. The 7X’s software is considerably more advanced, but the 001 is much better looking. Are there any plans for the 001’s software to be brought up to the same level as the 7X? Thank you all submitted by /u/Slow-Cardiologista [link] [comments]",
+  "text": "Hello everyone! Are there any Tesla owners here who have switched to Zeekr? There are a few major questions that are making me consider buying one. Autopilot How does the AP perform in Europe on motorways? With the “magic” weight, does it work well? Dashcam According to the salesperson, you just need to insert a USB drive and transfer the footage to a PC. The salesperson says that, due to GDPR privacy regulations, it’s not possible to view the footage on your phone. But Tesla is also operating in Europe and allows this, so I don’t really understand the reasoning. Does Sentry Mode record from the different camera angles? When driving, is there an option to save footage to the USB drive, for example the last 5 or 10 minutes? Software I tested both the 001 and the 7X. The 7X’s software is considerably more advanced, but the 001 is much better looking. Are there any plans for the 001’s software to be brought up to the same level as the 7X? Thank you all",
   "author": "/u/Slow-Cardiologista",
   "published": "2026-09-15T19:11:01+00:00",
   "rating": null,
@@ -8445,7 +9232,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8456,7 +9243,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wh6g57/pixel_phones_as_digital_key/",
   "title": "Pixel phones as digital key?",
-  "text": "Does anyone have a pixel 10 or 11 and can confirm if this phone works with digital key (and remote parking)? submitted by /u/Hertizch [link] [comments]",
+  "text": "Does anyone have a pixel 10 or 11 and can confirm if this phone works with digital key (and remote parking)?",
   "author": "/u/Hertizch",
   "published": "2026-09-15T17:13:30+00:00",
   "rating": null,
@@ -8476,7 +9263,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8630,7 +9417,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wg4icz/zeekr_7gt_how_to_auto_load_seating_positions/",
   "title": "Zeekr 7GT: How to auto load seating positions",
-  "text": "Hello! I own a 7GT and wonder if there is a way how to automatically load seating-, mirror- and steering wheel position when a driver enters the car. As the owner i have the key, the card and the Digital key 3.0 (iphone). I can create different profiles but then I have always have to manually switch between them. When i invite a different Zeekr Account to my car, I could attach the key and the card to that account but those can only have a digital key 1.0. Am I missing something? Thank you for helping. submitted by /u/milaan_muc [link] [comments]",
+  "text": "Hello! I own a 7GT and wonder if there is a way how to automatically load seating-, mirror- and steering wheel position when a driver enters the car. As the owner i have the key, the card and the Digital key 3.0 (iphone). I can create different profiles but then I have always have to manually switch between them. When i invite a different Zeekr Account to my car, I could attach the key and the card to that account but those can only have a digital key 1.0. Am I missing something? Thank you for helping.",
   "author": "/u/milaan_muc",
   "published": "2026-09-14T14:09:58+00:00",
   "rating": null,
@@ -8653,7 +9440,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8739,13 +9526,49 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "d516857eff32c1cc",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rMklWRk9lSHpPVjF4QmNvLXJxcVVqa1BoSzV4WjlISTRPOF8wbzlnTGtLbDRPclNxOGZyTUlKNEFoWEdGRlltN1hkZ3FfNlhtUnczZA?oc=5",
+  "title": "Toyota bZ4X price, range and specs - EV Central",
+  "text": "Toyota bZ4X price, range and specs EV Central",
+  "author": "",
+  "published": "2026-09-14T01:21:06+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "9f68a5c4d648c9c8",
   "type": "post",
   "source": "reddit-Zeekr",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wfgshs/poc_openzeekr_with_digitalkey_10_for_any_android/",
   "title": "PoC - OpenZeekr with DigitalKey 1.0 for any Android device",
-  "text": "Demo PoC - Z Fold 7 implemented Digital Key over BLE. After a few sleepless nights, countless chat sessions with Claude, a few nervous breakdowns, and many more f-ing and g-fing I've cracked it, fully reverse the Bluetooth digital key and created my own implementation. Next few days I'm going to do bit of clean up, fix lock/unlock on walk/leave, check if I can implement the remote parking from phone, and a few more things. This is by no means a usable product (not yet), and for now it's targeting europe and my own 7GT, but I do expect this to be extended to all other Zeekr models and potentially in other regions as well. You can monitor the state of the app and work overe here: https://github.com/borconi/openzeekr submitted by /u/borconie [link] [comments]",
+  "text": "Demo PoC - Z Fold 7 implemented Digital Key over BLE. After a few sleepless nights, countless chat sessions with Claude, a few nervous breakdowns, and many more f-ing and g-fing I've cracked it, fully reverse the Bluetooth digital key and created my own implementation. Next few days I'm going to do bit of clean up, fix lock/unlock on walk/leave, check if I can implement the remote parking from phone, and a few more things. This is by no means a usable product (not yet), and for now it's targeting europe and my own 7GT, but I do expect this to be extended to all other Zeekr models and potentially in other regions as well. You can monitor the state of the app and work overe here: https://github.com/borconi/openzeekr",
   "author": "/u/borconie",
   "published": "2026-09-13T19:14:24+00:00",
   "rating": null,
@@ -8767,7 +9590,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8844,7 +9667,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wf27qs/touring_kangaroo_island/",
   "title": "Touring Kangaroo Island",
-  "text": "submitted by /u/Kangastan [link] [comments]",
+  "text": "",
   "author": "/u/Kangastan",
   "published": "2026-09-13T08:39:43+00:00",
   "rating": null,
@@ -8862,7 +9685,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8978,7 +9801,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1we2r1z/buying_zeekr_7x_in_uae/",
   "title": "Buying Zeekr 7x in uae",
-  "text": "Thinking of getting Zeekr x7 any owners of this car can help? how is maintenance is the advertised range realistic any issues/something i should be aware of? thanks submitted by /u/SoggyRegister5092 [link] [comments]",
+  "text": "Thinking of getting Zeekr x7 any owners of this car can help? how is maintenance is the advertised range realistic any issues/something i should be aware of? thanks",
   "author": "/u/SoggyRegister5092",
   "published": "2026-09-12T04:35:56+00:00",
   "rating": null,
@@ -9000,7 +9823,7 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9011,7 +9834,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wdn7cb/zeekr_7x_and_problem_with_missing_quick_settings/",
   "title": "Zeekr 7X and problem with missing quick settings",
-  "text": "Hi guys I’m in Europe with zeekr 7X privilege awd and recently the dealership updated my car to zeekr os 2.2a But the car is missing the first row in the car options menu which is the quick settings. As a result I can’t see which mode I’m on (sport or eco or comfort) and I even can’t configure the drive modes. What version of firmware are you cars on? Do you have the same issues with me??? submitted by /u/Responsible_Oil1092 [link] [comments]",
+  "text": "Hi guys I’m in Europe with zeekr 7X privilege awd and recently the dealership updated my car to zeekr os 2.2a But the car is missing the first row in the car options menu which is the quick settings. As a result I can’t see which mode I’m on (sport or eco or comfort) and I even can’t configure the drive modes. What version of firmware are you cars on? Do you have the same issues with me???",
   "author": "/u/Responsible_Oil1092",
   "published": "2026-09-11T17:43:43+00:00",
   "rating": null,
@@ -9036,7 +9859,7 @@
   "severity": "medium",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9047,7 +9870,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wcz1q0/zeekr_9x_cost_double_the_chinese_price_in_eu/",
   "title": "Zeekr 9X cost double the Chinese price in EU",
-  "text": "What a shame, it seems to be a great car but a no brand for 120'000€ when it's 60'000€ in China is just too greedy. Am I the only one just not ready to spend that much for an unproven brand with a low life expectancy ? submitted by /u/Soonaboonga [link] [comments]",
+  "text": "What a shame, it seems to be a great car but a no brand for 120'000€ when it's 60'000€ in China is just too greedy. Am I the only one just not ready to spend that much for an unproven brand with a low life expectancy ?",
   "author": "/u/Soonaboonga",
   "published": "2026-09-10T23:13:10+00:00",
   "rating": null,
@@ -9067,7 +9890,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9140,7 +9963,7 @@
    "offer"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9151,7 +9974,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wcs694/test_driving_the_zeekr_7x_in_panama/",
   "title": "Test driving the Zeekr 7x in Panama",
-  "text": "submitted by /u/adrop62 [link] [comments]",
+  "text": "",
   "author": "/u/adrop62",
   "published": "2026-09-10T18:52:42+00:00",
   "rating": null,
@@ -9171,9 +9994,44 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "48c84653e2c3e542",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTBDbElrdjZpU1h1SThVMDNfQ0dwRlBmd0ZjQ2ZWNmtJTVdCWmF2RTRGZThhTDU2UkF2VUxZV2ZJOXRnWllZZVFrOElUdklOVFhqZ2RneXJlc3NlMFAxY1NfbnhZakt0MlY3ZW1BNmxBSnBqTW1tV3ZPWFdVM1lTbjJ3TFZUeVVXRlE?oc=5",
+  "title": "Avatr reveals Zeekr 9X rival - Carsales",
+  "text": "Avatr reveals Zeekr 9X rival Carsales",
+  "author": "",
+  "published": "2026-09-10T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "93a72529fa418dbe",
@@ -9281,7 +10139,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9292,7 +10150,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wbecra/setttings_for_music_in_zeekr_7gt/",
   "title": "Setttings for Music in Zeekr 7GT",
-  "text": "Proud owner of a new Zeekr 7GT and like the sound system, tho, I am a bit overwhelmed by the amount of settings. Has anyone a good configuring of the EQ and/or effects to make it sound good? I my opinion the subwoofer is way to aggressive when listening to electronic/techno music. The subwoofer booms loudly when playing low frequencies. submitted by /u/milaan_muc [link] [comments]",
+  "text": "Proud owner of a new Zeekr 7GT and like the sound system, tho, I am a bit overwhelmed by the amount of settings. Has anyone a good configuring of the EQ and/or effects to make it sound good? I my opinion the subwoofer is way to aggressive when listening to electronic/techno music. The subwoofer booms loudly when playing low frequencies.",
   "author": "/u/milaan_muc",
   "published": "2026-09-09T07:09:30+00:00",
   "rating": null,
@@ -9312,9 +10170,40 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "9729f9f524ff2375",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmJfeVJDT3RxVDdZREs3eF8tUV8yOEI5UWZLX2dtOU1uaEthZlZLamtVSzB6Y24tX01XcTQ0YTNRR3Jwa1lmTFB6SVlrUDFBb0k4Tnp4aW56Ul9QTDVaeFV5NFFvM29ma1BuU0xLbng5MllBbHpVUHRVOVg0MWpPNTUzUXdReHZKQjFyODBxUFczVHVNVG1NdmxTcFNYQ3FFaW1JMkRNX1VKeDVKbDI2ZWVaanlZNVd3aWF2XzF6UW1aSC1zSkNz?oc=5",
+  "title": "2026 Everything Electric to show new EV models, including 2027 iCaur V25, 2026 Zeekr 7GT and Lepas L4 - CarsGuide",
+  "text": "2026 Everything Electric to show new EV models, including 2027 iCaur V25, 2026 Zeekr 7GT and Lepas L4 CarsGuide",
+  "author": "",
+  "published": "2026-09-09T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "14a0785d845b76a9",
@@ -9358,7 +10247,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1wb3gh5/is_zeekr_service_all_bad/",
   "title": "Is Zeekr service all bad?",
-  "text": "We read so many accounts of poor customer service and after sales support from Zeekr. I know the internet attracts people venting (fair enough) but are Zeekr universally bad? Has anyone had a good experience? submitted by /u/ozbrowser [link] [comments]",
+  "text": "We read so many accounts of poor customer service and after sales support from Zeekr. I know the internet attracts people venting (fair enough) but are Zeekr universally bad? Has anyone had a good experience?",
   "author": "/u/ozbrowser",
   "published": "2026-09-08T22:33:17+00:00",
   "rating": null,
@@ -9379,7 +10268,7 @@
   "severity": "medium",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9428,7 +10317,7 @@
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1waowjn/zeekr_customer_service_hello/",
   "title": "Zeekr customer service - hello??",
-  "text": "As I am interested in a 7gt, I have sent two pretty easy to answer sales questions to zeekr via their web form. Twice. A couple of weeks later, still no reply. I dont understand. You release a brand in a new territory (EU), shouldnt you be on top of things?? Are zeekr understaffed? uninterested, or what is going on? If they cant answer simple question.. I hope they are better with their general customer support?? submitted by /u/mrbluetrain [link] [comments]",
+  "text": "As I am interested in a 7gt, I have sent two pretty easy to answer sales questions to zeekr via their web form. Twice. A couple of weeks later, still no reply. I dont understand. You release a brand in a new territory (EU), shouldnt you be on top of things?? Are zeekr understaffed? uninterested, or what is going on? If they cant answer simple question.. I hope they are better with their general customer support??",
   "author": "/u/mrbluetrain",
   "published": "2026-09-08T13:47:50+00:00",
   "rating": null,
@@ -9450,7 +10339,7 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9800,6 +10689,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "f513cb4f9a120bde",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zamROZmRaSFRNLXNzUWJLM0Y4cXpaTkI3eDFZWUEyRDkwa3Rwc243dE84QTdUWVNxLTY0b2FYYTczNzJKOXh0ZkNCV1I?oc=5",
+  "title": "Zeekr X Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Zeekr X Price, Specs & Variants | Australia 2026 The Beep",
+  "author": "",
+  "published": "2026-09-05T21:30:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "65596b3b42606985",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -9829,6 +10749,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "e76051c152431714",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MaXlnbG5VUV8tSDlEUU90SVlpa21XTFBSQ0d1UnI5cWszY3piaUZzSlZnU0Z4WGNPRGRWU294Zm9uNlIyX1pzOWdkRUpDbEN6aF9NdlNMcWZMQjhESExGNGR6ZGtLZ1U0alduSUxEN2dGZw?oc=5",
+  "title": "Mansory's first Chinese build is a 1,381hp Zeekr 9X widebody - The Beep",
+  "text": "Mansory's first Chinese build is a 1,381hp Zeekr 9X widebody The Beep",
+  "author": "",
+  "published": "2026-09-05T04:19:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "4db021f611ebc651",
@@ -9867,6 +10818,70 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "0faf91cc058adeaa",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wU1hEeFBoNWhSRjU4R0szeGRQN3pSUHhkQXRBakFpbUpURXBpZ0hBZUtSdzFyMC1FUDc3bDJ6OGZCQUtNUTdiR1BRZlV0NFpGZTlFRWFKWXRndw?oc=5",
+  "title": "Zeekr Car Deals Australia | 2026 Offers & Discounts - The Beep",
+  "text": "Zeekr Car Deals Australia | 2026 Offers & Discounts The Beep",
+  "author": "",
+  "published": "2026-09-04T05:12:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "b09506d2ef260c0b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YdWlxZXVIbVFFSTBOV3c0cmpSZ0NUZUdVZWlLV2xpdUF3X3ZPVUM0NGMzV3Nrdkh4RGdCYml0VWpSbE4wSS1jQ2NGSjBNd3I1QnNlLWJrT3NNWnpfUjFvY3FZRllIcUttYi13NW55YmN6dlJZaEE?oc=5",
+  "title": "2026 Zeekr 7X Long Range review | Car Reviews - The Beep",
+  "text": "2026 Zeekr 7X Long Range review | Car Reviews The Beep",
+  "author": "",
+  "published": "2026-09-04T02:19:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "133d7dcc969e1b25",
@@ -9909,6 +10924,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "7bce3ce3c44d4cb2",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0tkUGZPOFA3ajZuUkFCVU9lT0hncVdUc1BIeXVWbGcydXM0elYxaEprZEczNUNNNGw0YmhXSGxaVExVb3lLbjIxb3N4bWZKbU9RZ0J3RTQ1RVBpUGJYTHl2MW9qdFhLelN1RkhyZG1Mb051MXFrTTJIU0Joci1LOElHdWp5WVdZZU5HU3pxNDBEUWI1?oc=5",
+  "title": "2026 Zeekr X gets more power, faster charging and more kit for under $50K - The Beep",
+  "text": "2026 Zeekr X gets more power, faster charging and more kit for under $50K The Beep",
+  "author": "",
+  "published": "2026-09-04T00:32:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "de1d1dfb783bbeef",
   "type": "complaint",
   "source": "playstore-android",
@@ -9946,6 +10994,460 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a41e03066974598f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVnRiek12eTVSZkZyb2RaYUxFc2dhelV1MzRNamE2SWhBZmt2QVZTT1ZZWEZpZ0xNOUw5Mi12R0JMQjd0aTNIS0FKWnhhaDFBbFV6NjdiTkZwcEE2VkZuLXF4eGU3ZTczSFFhY2RYczE5LVF4dmxtY29mQno?oc=5",
+  "title": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible - The Beep",
+  "text": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible The Beep",
+  "author": "",
+  "published": "2026-09-03T18:57:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "14adb2269d468b1f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcGdRRlNjUWpaMzVRSnJiX2FrN0I3Nk55MTZBWkt0NWhmYllFaUdYMHA3QWNHTHF2Z0JkN201UXRnandjTFgweDU1OGk5U0NaU1FubmYtX0daWXQxX29nNjgtdF9HNlRsYlRZZGcwNHFENXV6NFE?oc=5",
+  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - The Beep",
+  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price The Beep",
+  "author": "",
+  "published": "2026-09-03T17:53:55+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer",
+   "price_cut"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "f8c1f2460b36cdb1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sT2lfS3o1WHQ1Wjhzc3J5M3g5aXhKZE1wVENSdzNJRER4ZERpYXJFLVpPczIwclZuYjMySEJpT0prWUZwTnNNQmQyY2JidkUwZEt0TVItMFVkdnRzQ1Jxd0tFdWZDeTFm?oc=5",
+  "title": "2026 Zeekr 009 review - The Beep",
+  "text": "2026 Zeekr 009 review The Beep",
+  "author": "",
+  "published": "2026-09-03T17:18:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "2ac5b8c60c2ecb36",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3lpQTR0RnYwZDBnNlk4a2xFSjNCN2FKRVhwdDgzZFlobHFXRGxmeEJTS2hfanNWMUlaYi02ak5tNEx4eGJkc3p5U1lqVlp1WG1WaTBlT1NHZ3ZLcHA5WXliRlJWUWZoZDRpUmpuVFVCc1hvN3F0X2JzOGtjQmdEcU1kcFhzSDhEckN2SGVEMA?oc=5",
+  "title": "Zeekr 7X Black Special Edition on sale now from $75,900 - The Beep",
+  "text": "Zeekr 7X Black Special Edition on sale now from $75,900 The Beep",
+  "author": "",
+  "published": "2026-09-03T16:02:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "5cca18ffe4483487",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QeWJWMjRhbXJ2TmpYb3R2Z3hPTXo4ZThrcUk2OHdYMExaTEtzR2lubTFYeVl4aEdnNUhMeWRWck0tU25IdjR3dGhFc24xUHZnMTRoUnZoRndHS3lHSml3bXAxYU1UWDRTbWQxVlI3cUpKZklKdm1rbjl4d3B0dw?oc=5",
+  "title": "Zeekr X scores 1200 orders in six weeks as Brisbane deliveries begin - The Beep",
+  "text": "Zeekr X scores 1200 orders in six weeks as Brisbane deliveries begin The Beep",
+  "author": "",
+  "published": "2026-09-03T14:15:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "8c402df5aeef4f78",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bmZuclljSE02VVlNdjV1di1tbnhfTUJrWWpEcUNMaGFYbThQMkYzVV9tcTJQUnNVZ3ZXa3NBUUpkRU5zM1Z4RElyeTJGSExtemZWWW8yTm8?oc=5",
+  "title": "Zeekr X - The numbers that shouldn’t add up, but do - The Beep",
+  "text": "Zeekr X - The numbers that shouldn’t add up, but do The Beep",
+  "author": "",
+  "published": "2026-09-03T11:33:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "8ebc5d599b0be1ca",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmRsQnBzb3Jsd1N2Qk5oRWN4U0dsWF8taWYzc0RYa1c3V1prQk9WMm12b2JtSDZIRDd1Y1d1MzVIU2E5TURGaXlVMU9LMEhRaFBXRS1hVXhjbHU4Y0pQcGpmSW5Yd25NamFrMU5QdVYwWlVnZFJQazF6UENMYnExdg?oc=5",
+  "title": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News - The Beep",
+  "text": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News The Beep",
+  "author": "",
+  "published": "2026-09-03T10:19:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "975ae04cbf03baf7",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MWXlodi1WTEpSWU9qWXZlOVFCVi1KSVBnSHBPeGlRWFZHeUduTzdpeFhiTExVUC0tMU9qTWRRNEhHNVlNdklsTTk5SlBvVkVxb21VVGFRTQ?oc=5",
+  "title": "Zeekr Car News - The Beep",
+  "text": "Zeekr Car News The Beep",
+  "author": "",
+  "published": "2026-09-03T09:47:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "6a462427ace47be8",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWktBSWd0TjBBLUU0VmRBWWVWSW9Cc01BQzNFTHMzTFZYc2RHYXhoVlUwVURiUVZ4dTNwenJuUzd3QkoweTd0STItV0dnVjdWb3p1b2FZYmxnUThkZDlQZHU2OUZCRURXLUlPbV9FbHVwcGtqT05UQU85NndLa1JSNWFqejJlQnM0YnVr?oc=5",
+  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - The Beep",
+  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia The Beep",
+  "author": "",
+  "published": "2026-09-03T09:45:52+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "1f0d72e1c75819b3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MZVZmQlN0bEtVS0dHbTVsUGRlMXlkZzExd1pwZ1hVWEV6Sm9PeVZ5VWh4N2xmMWlBVzlYTkFnRUlVUTdDZlBIVkoyMnQ3cXVTSElpM2tKZnk5THc1SFozdVY2dHlBWUJjRFRxZ2M3bGtqMGhyTkE?oc=5",
+  "title": "Zeekr 7X scores its first OTA update with smarter parking and digital key - The Beep",
+  "text": "Zeekr 7X scores its first OTA update with smarter parking and digital key The Beep",
+  "author": "",
+  "published": "2026-09-03T09:28:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "88e47d7b70389ded",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aQjVRUHJqVXBKUGJxd2plaFh2TElkZ0h3TnZLSTV0Qm1rcy01ZTBoNnY0TFpSYmFiODhlSGVXVnA2QmtiZjUyUmZSaFQ2YW1raXgwMS04QVo2RXV0WGVoYy1kSkE3MkhuZlNjTWk0SzBodzRLY3c?oc=5",
+  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - The Beep",
+  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months The Beep",
+  "author": "",
+  "published": "2026-09-03T08:59:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "3c627b10ed18d048",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbThOU25KcWJuams4cFJhRDlYTUQ5UWJzb0M5VTk4Qk96ZlNqbU1GcDJ5d0VONGROY1RmNWxHN3RoVmNlNnIxb2ZPcDduT3VyOXhod2ViaGM2dEMxSkF2eU1Bck5mQXgxX0Etc09pR05SS1R3cXp4Ql8wNm5kYzhKSA?oc=5",
+  "title": "Zeekr 7X beats Tesla Model Y to claim premium SUV crown - The Beep",
+  "text": "Zeekr 7X beats Tesla Model Y to claim premium SUV crown The Beep",
+  "author": "",
+  "published": "2026-09-03T08:58:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "cc9b6583e66e9011",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwRHE3WnVEOVIwTVl1STlKaWdWazVobmJKbmJuOGtia0F0Z19kSU52NWNiMUJRRTlENndXOHJJNjNlYktHU2hfazd3?oc=5",
+  "title": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals - The Beep",
+  "text": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals The Beep",
+  "author": "",
+  "published": "2026-09-03T08:57:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "447a32683ee12244",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QN2F6Wk9kZUN1OTIzd1NLTXpVeDRUSWZjRXVzOGhkeFoyRTRKcjZ5bXB6YnlCUF9McDlWYmVTRnQ0QkFUU3hVbWlSOGtGc0dHVndBOFlkN3dCZWZFd1V6YWQ5eVE2emRCSlE4QUJGRDVlUQ?oc=5",
+  "title": "How Zeekr plans to take the fight to Mercedes and BMW by 2028 - The Beep",
+  "text": "How Zeekr plans to take the fight to Mercedes and BMW by 2028 The Beep",
+  "author": "",
+  "published": "2026-09-03T08:49:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "a2ef570e752c0221",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -9979,6 +11481,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "e7632f73714080fe",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FVzg1d3VrVnNvTl9kdkdaVDU1d0ZiRTFBY0lpRkZsd05zcV9GZWx1UDZyNHpleWxldDRLWjRWZ29pN2dJR2pjaVhlOUxaM2s?oc=5",
+  "title": "Zeekr 009 Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Zeekr 009 Price, Specs & Variants | Australia 2026 The Beep",
+  "author": "",
+  "published": "2026-09-03T06:56:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "8d8e408bb219282c",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -10006,6 +11539,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "5419a5cf3287542f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWlc5NVcwZ3dBN0pyUk5rMERiRzMycTV6RHRvVFhUQUZENllfb2JMWlZFbVF6UWkwWW1iV1J6S3M2czNrQnpaM3Y2SC16UQ?oc=5",
+  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 The Beep",
+  "author": "",
+  "published": "2026-09-03T04:14:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "c898034acc6a62eb",
@@ -11039,6 +12603,35 @@
    "offer"
   ],
   "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "ed49269d40aa6f63",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · My NRMA",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQTdNeldqYmU5Zjc4RHBGek5wajlLUGVIQk5SUl9fWlQzdVhWT3NHOVFtTlh1cFE1U2gzT3FMODNDdDlHaWlGUzFGTTFUc0xfNVV6aVRKTlRfUG52M0hSb2lOSG9ET21TSWZwczdXZUM?oc=5",
+  "title": "Zeekr electric cars in Australia: what’s here and coming soon - My NRMA",
+  "text": "Zeekr electric cars in Australia: what’s here and coming soon My NRMA",
+  "author": "",
+  "published": "2026-08-21T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -13193,35 +14786,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "ed49269d40aa6f63",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · My NRMA",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQTdNeldqYmU5Zjc4RHBGek5wajlLUGVIQk5SUl9fWlQzdVhWT3NHOVFtTlh1cFE1U2gzT3FMODNDdDlHaWlGUzFGTTFUc0xfNVV6aVRKTlRfUG52M0hSb2lOSG9ET21TSWZwczdXZUM?oc=5",
-  "title": "Zeekr electric cars in Australia: what’s here and coming soon - My NRMA",
-  "text": "Zeekr electric cars in Australia: what’s here and coming soon My NRMA",
-  "author": "",
-  "published": "2026-07-28T17:05:26+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "ff400632b1280cbc",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -13536,6 +15100,42 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "59331c007457eaac",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaDdnbG14dVRwNW5IbzhvRktxQzFHbThVTFhWRl9pZFQ5T2V2dUhLNmhPUm1nc0RkMXFuWnRuM19kaFJEMnpORW5oMUl1MzQ2UmNvRkxiSTZxTTc0YmRoeFlBbTdlZ3pyUW9PbUl2RDh3TjRSd25iUkVpV0ZGLUE0N1llbjVZVksycDN0dEtDTlZQS0xZMS1OMWlnUU1JdDBtMF9KQ2UwNEh2NmM0UXJxQWxiSXhXTTAyOUxmMDZhal8yRnJySjd5VTdGaDRBQ05ibnJmdHRFVHBHOEJQcE5nY1FnUFF3UUl3VlJvMkRrY2k?oc=5",
+  "title": "XPeng X9 Aussie price and equipment: Super-smart electric seven-seater arrives to take on luxury SUVs and a new wave of high-tech people-movers - EV Central",
+  "text": "XPeng X9 Aussie price and equipment: Super-smart electric seven-seater arrives to take on luxury SUVs and a new wave of high-tech people-movers EV Central",
+  "author": "",
+  "published": "2026-07-23T14:05:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "smart",
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "e60b4efa539c4386",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -13806,6 +15406,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "503f13ccdf144961",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVVdBdm55NVJvWFh5NFNGdzJPMVhOb080UEdUNmxyQVNjZlNpc2hzdFBXaHBfM3ZFbEt4dThKdDNOeFE5QzdoQjBwb2thbDVLZWppWTltZkJDRnJqbFNLUXRHaE50ZHZwbDdJc3ZoWTNZTHFYNk5FQ1RNbnc4bU5LTUh5LWdSV1lTbTZMNEdZa3o5M29yZV9OQldTSzZyTF9SYWNIREJGblNpYmswajZiSktYWkxSZDRoTDVuQTJ3dUphNmlwQ1VzcjNZSmhWYUI1dGlKSnU1dzU2YUdpc1E?oc=5",
+  "title": "Australia's safest? New BMW iX3 and Zeekr 7GT EVs become first vehicles to earn five stars under toughest-ever NCAP tests - EV Central",
+  "text": "Australia's safest? New BMW iX3 and Zeekr 7GT EVs become first vehicles to earn five stars under toughest-ever NCAP tests EV Central",
+  "author": "",
+  "published": "2026-07-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "63bc22fac61b62ab",
   "type": "review",
   "source": "playstore-android",
@@ -13941,6 +15574,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "67120c71ee1be40e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · Carz Automedia Malaysia",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVl9fdEpjSUZsS1N4X2hJWk9fSGJqWmY2NTFFMlVta21qWDROaDYyY3FtTkNROUdiVTJjTWFMSEJjNmNTVDlpZlFIUzUzRVNMdGFBeWRieU1TUTYzQ2J1OGphX21hRXBSbEVvY1lSRWdqRWZycTUwMnNpd2p4dVZ3UGlPVkVXLW9WVldOMFFFNFpjbjAyTkIyZVpyakVHNUF2QTJ0elFaNjFYdEwtTUlVYVJsUGMyZw?oc=5",
+  "title": "Zeekr Is Taking Over: Malaysia’s No. 1 Premium EV Brand Is Opening 7 More Outlets Soon - Carz Automedia Malaysia",
+  "text": "Zeekr Is Taking Over: Malaysia’s No. 1 Premium EV Brand Is Opening 7 More Outlets Soon Carz Automedia Malaysia",
+  "author": "",
+  "published": "2026-07-14T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "a3ef5e621ca8b778",
@@ -14570,6 +16232,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T05:09:00+00:00"
+ },
+ {
+  "id": "d3ee1af09b3db29b",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtMDN1XzUyUmZjcDltbjJMRnNmLXU4SG1VbEg5RDVyYmx5NHlYR1FPa0tmMW9hdURsS2dyeUJFcDZoUU1JZE11SHRmUHlYOEFfZno4QWdhNTREVHc?oc=5",
+  "title": "Novated Lease Australia for a 2026 Tesla Model Y RWD in Victoria - OzBargain",
+  "text": "Novated Lease Australia for a 2026 Tesla Model Y RWD in Victoria OzBargain",
+  "author": "",
+  "published": "2026-06-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "092004f638b32a55",
@@ -15502,6 +17199,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "6e35513e3d00b5ca",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xamVNMTVZMURXQzRFSGJDamF3TEdMZFRJcGplRUtmRkhHRlU4dXd3MmxoMWJ1UWw0MFVBR3ZrZ2NmTEpPenp5dg?oc=5",
+  "title": "2026 MG S6 Review: New mid-size SUV takes the value fight to Tesla, BYD, Zeekr and Geely - EV Central",
+  "text": "2026 MG S6 Review: New mid-size SUV takes the value fight to Tesla, BYD, Zeekr and Geely EV Central",
+  "author": "",
+  "published": "2026-06-05T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "tesla",
+   "geely"
+  ],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "a1b506d52858b48a",
   "type": "review",
   "source": "playstore-android",
@@ -15573,6 +17305,44 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a5a08e1b5f8e35b4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUpKV2h4eGV4ZXZJWjlvXzhHR0tJMlJBc1h3QVpUbjhwc1htUVlvY3R4LXVmbXZkXzVzeXpCMzR0Q2NxVUxreEd4TmV5TmJjRjR5RGNDZGlsZzkwbXRzbEgyS3FVNzNhSmE4c0w4Zzh2Vk9EVFFGcnk2N01YeTlZX3ZjeExjb09qaS1OczRsT09MZlJibkswMlNuNGFNcVhOXzZaU2FiNXhRLVVOWlExaEtJb1lzWEcwUTlWekRJdE1tLWRuV0ppcHJEU1AxOXJaSHBCcXJmVQ?oc=5",
+  "title": "Leapmotor D99 detailed: Posh electric people-mover rivals the Zeekr 009 and Lexus LM with big range, high-tech cabin - EV Central",
+  "text": "Leapmotor D99 detailed: Posh electric people-mover rivals the Zeekr 009 and Lexus LM with big range, high-tech cabin EV Central",
+  "author": "",
+  "published": "2026-06-04T06:03:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [
+   "lexus-lm"
+  ],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "afc81e6fc8fca622",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -15632,37 +17402,6 @@
    "neg_hits": 0,
    "pos_hits": 1,
    "label": "positive"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "5d24343ee38de491",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85SW5nenNaOThwWTBMSVdRNWdOVC1KRXV0SVJLc2VIQmFaUUJVS0RJdHpkOHo3Q284RlFfLWd1TjltUHBEUi1Pd251dVo4TkR4VS1VZE1VSXMtcnpyN1Q5QUVEMA?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-06-03T05:59:12+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
   },
   "severity": null,
   "signals": [],
@@ -15847,6 +17586,38 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "592e3a1367268459",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2NIc09HVTZFTmhGREJyN2JPR1AwLWpHcDZvazR1NU9MVmw5OUd2eFVmbVQ5QkJENHhNaU9aUVhITjV0cGRadXRoOGNNejh0NXVid2g0eFk0a2NsSWVwbUMyX0s3b0NnVWpGYmNxcW96ZTNfLUJXTlJLNkVOY1YzN1IxZ3Q1YnhQdm80RFdmd0NuY2dwaTZPNXhFaFRWdlE1NTdkUThMbF9LRF9fV05ZUDZ2R3Rqd3c?oc=5",
+  "title": "Denza and Zeekr have Lexus on the luxury hitlist. Here’s why the Japanese brand isn’t worried - EV Central",
+  "text": "Denza and Zeekr have Lexus on the luxury hitlist. Here’s why the Japanese brand isn’t worried EV Central",
+  "author": "",
+  "published": "2026-06-02T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza",
+   "lexus"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "18ecf69afde055a6",
   "type": "complaint",
   "source": "playstore-android",
@@ -15879,6 +17650,41 @@
    "thumbs": 9
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "b164f6b8d8bb37c6",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdEtpNjRRWW9JeFp2T0dIQ2cyQW9leFRTNzgzY1FTbjYtTmhjOXU2S0E2VUxDZVNXZkVaRHFOdFlxWmo4Qi12QzNlX3g0aHZETC05emlIMTNjXzNhOEJIVU1TNHdGeVJuVURtUjE5WWlCSzg2YWRYODdUVWFmWnJLdkd5SHhNczZhTDlud21WTDdyYTNNNFZaNEFPcTljWERXRzAtT3lqRDVEUDVKR3UteW5PbnNHbHdiU3pFQWtQZjMtNmZYdWg1ME9rejBFOVF4OHBPS2x3?oc=5",
+  "title": "White Flag at Maranello: Has Ferrari surrendered the power wars to Tesla, Xiaomi, Zeekr, Yangwang … and Porsche? | Opinion - EV Central",
+  "text": "White Flag at Maranello: Has Ferrari surrendered the power wars to Tesla, Xiaomi, Zeekr, Yangwang … and Porsche? | Opinion EV Central",
+  "author": "",
+  "published": "2026-05-30T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla",
+   "porsche",
+   "yangwang"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "dacf304f63f3d26e",
@@ -16718,79 +18524,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "00674d7d9dd8dc4f",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
-  "source_name": "Google News · zecar",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVBIVTc4dTFzMHBFcWdCSjhaMzJ3eTlWTXlkZGZSYUZXXzM1Snkya1RVTjVvVE5Bd2JJQ1ZrT2VSVzJuUF9kRkdtYUxXc19NcVh6bmVxTUdxLXZIQU5jd2Vjd1oxbUJrYXU4REV0T0tMaGJZdDFGLXJKNS02U1N5TzdWZVFEbmVCYjB6T2JFakF0MDNw?oc=5",
-  "title": "New ZEEKR X MY26 Launch Offer: Premium Upgrades Included (Up to $6,056 in Value) - zecar",
-  "text": "New ZEEKR X MY26 Launch Offer: Premium Upgrades Included (Up to $6,056 in Value) zecar",
-  "author": "",
-  "published": "2026-04-16T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "price"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "offer"
-  ],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "4fa9d7e6b409a7bf",
-  "type": "competitor_news",
-  "source": "gn-zeekr-complaint",
-  "source_name": "Google News · CnEVPost",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbG5Gdm1uM1VDU2pBZ0Fhd25OTGlYNWpVdVlZcEE0MTZFTS16WWpCSTZfenZTblhyQVFFODlZQm5wVXpYanVfU05iSmVrQUgxNEFOTFFkaUoyWEdFZXNJSmxpRTQ5Mnp0bmc5d3dyc1hCcTVSQmRGRXRrVGFjTWZ6YWFR?oc=5",
-  "title": "Geely recalls 1,473 Polestar 4 EVs in China over battery thermal runaway risk - CnEVPost",
-  "text": "Geely recalls 1,473 Polestar 4 EVs in China over battery thermal runaway risk CnEVPost",
-  "author": "",
-  "published": "2026-04-16T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "polestar-4"
-  ],
-  "brands": [
-   "polestar",
-   "geely"
-  ],
-  "categories": [
-   "charging",
-   "safety"
-  ],
-  "sentiment": {
-   "score": -2,
-   "neg_hits": 2,
-   "pos_hits": 0,
-   "label": "negative"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  }

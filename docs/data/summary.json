@@ -1,26 +1,26 @@
 {
- "generated": "2026-10-13T06:23:54+00:00",
- "duration_s": 189.4,
- "items_total": 482,
- "new_this_run": 150,
+ "generated": "2026-10-13T15:51:31+00:00",
+ "duration_s": 141.9,
+ "items_total": 534,
+ "new_this_run": 238,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 7,
-  "complaints_30d": 38,
+  "complaints_30d": 37,
   "high_7d": 2,
   "medium_7d": 3,
   "low_7d": 2,
-  "competitor_news_7d": 49,
-  "launch_signals_7d": 14,
+  "competitor_news_7d": 56,
+  "launch_signals_7d": 15,
   "offer_signals_7d": 0,
-  "zeekr_news_7d": 30,
-  "offer_page_changes_7d": 1
+  "zeekr_news_7d": 40,
+  "offer_page_changes_7d": 2
  },
  "series_30d": [
   {
    "date": "2026-09-14",
    "complaints": 0,
-   "competitor_news": 1,
+   "competitor_news": 2,
    "zeekr_news": 0
   },
   {
@@ -45,7 +45,7 @@
    "date": "2026-09-18",
    "complaints": 1,
    "competitor_news": 0,
-   "zeekr_news": 1
+   "zeekr_news": 2
   },
   {
    "date": "2026-09-19",
@@ -63,7 +63,7 @@
    "date": "2026-09-21",
    "complaints": 2,
    "competitor_news": 0,
-   "zeekr_news": 3
+   "zeekr_news": 4
   },
   {
    "date": "2026-09-22",
@@ -74,7 +74,7 @@
   {
    "date": "2026-09-23",
    "complaints": 2,
-   "competitor_news": 0,
+   "competitor_news": 1,
    "zeekr_news": 3
   },
   {
@@ -158,7 +158,7 @@
   {
    "date": "2026-10-07",
    "complaints": 1,
-   "competitor_news": 2,
+   "competitor_news": 3,
    "zeekr_news": 2
   },
   {
@@ -171,13 +171,13 @@
    "date": "2026-10-09",
    "complaints": 1,
    "competitor_news": 4,
-   "zeekr_news": 3
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-10",
    "complaints": 0,
    "competitor_news": 5,
-   "zeekr_news": 2
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-11",
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-12",
    "complaints": 1,
-   "competitor_news": 16,
+   "competitor_news": 15,
    "zeekr_news": 10
   },
   {
    "date": "2026-10-13",
    "complaints": 1,
-   "competitor_news": 9,
-   "zeekr_news": 2
+   "competitor_news": 16,
+   "zeekr_news": 10
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 28
+   "n": 27
   },
   {
    "key": "service",
@@ -255,7 +255,7 @@
   "7GT": 2
  },
  "sources_30d": {
-  "Google Play (AU)": 15,
+  "Google Play (AU)": 14,
   "Reddit r/Zeekr7xAustralia": 13,
   "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
@@ -263,10 +263,10 @@
  },
  "competitor_signals": {
   "volvo-ex30": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "ecb6767e140b18e0"
   },
   "smart-1": {
    "n_30d": 0,
@@ -378,10 +378,10 @@
    "latest": null
   },
   "kia-ev6": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [],
    "offer": [],
-   "latest": "bdedcf8e8e0e5c19"
+   "latest": "a27bf89cf6f37c43"
   },
   "hyundai-ioniq5": {
    "n_30d": 0,
@@ -410,7 +410,7 @@
    "latest": null
   },
   "toyota-bz4x": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "3e3f285c9229d77a"
    ],
@@ -436,8 +436,10 @@
    "latest": "3e3f285c9229d77a"
   },
   "geely-ex5": {
-   "n_30d": 1,
-   "launch": [],
+   "n_30d": 2,
+   "launch": [
+    "a733988169d48563"
+   ],
    "offer": [],
    "latest": "2378a7f58ba29766"
   },
@@ -466,10 +468,10 @@
    "latest": null
   },
   "kia-ev4": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "86b5677c0d46a8a6"
   },
   "mazda-6e": {
    "n_30d": 0,
@@ -516,12 +518,13 @@
    "latest": null
   },
   "xpeng-x9": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
-    "2c8e385c13663939"
+    "2c8e385c13663939",
+    "59331c007457eaac"
    ],
    "offer": [],
-   "latest": "2c8e385c13663939"
+   "latest": "5e7f26a036fb8a06"
   },
   "mb-eqv": {
    "n_30d": 0,
@@ -641,8 +644,9 @@
    "latest": "205ea3973e46d6d4"
   },
   "xpeng-g9l": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
+    "ac7a150e4fc7b748",
     "bbb5fd6a4bc73847",
     "cd69fa572df0b0c9",
     "0548f3f61af3f327",
@@ -650,7 +654,7 @@
     "29457fe8e0433a02"
    ],
    "offer": [],
-   "latest": "bbb5fd6a4bc73847"
+   "latest": "ac7a150e4fc7b748"
   },
   "wey-v9x": {
    "n_30d": 0,
@@ -738,6 +742,23 @@
   }
  },
  "alerts": [
+  {
+   "kind": "offer_page_change",
+   "id": "c1117725e6b413b3",
+   "title": "MG / IM 官网政策页面变化（+0 / −12 行）",
+   "source": "https://mgmotor.com.au/offers",
+   "t": "2026-10-13T15:53:50+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "ac7a150e4fc7b748",
+   "title": "XPENG reveals G9L large SUV in Paris - Exhaust Notes Australia",
+   "source": "Google News · Exhaust Notes Australia",
+   "t": "2026-10-13T06:33:16+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "d62183d5029f3d1a",
@@ -877,7 +898,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 25,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -900,24 +921,34 @@
    "count": 1,
    "note": ""
   },
+  "gn-zeekr-evcentral": {
+   "ok": true,
+   "count": 100,
+   "note": ""
+  },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 38,
+   "count": 41,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 35,
+   "count": 23,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 45,
+   "count": 48,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 22,
+   "note": ""
+  },
+  "gn-evcentral-industry": {
+   "ok": true,
+   "count": 56,
    "note": ""
   },
   "carexpert": {
@@ -936,9 +967,9 @@
    "note": ""
   },
   "evcentral": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   "evcentral-zeekr": {
    "ok": false,
@@ -981,14 +1012,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 19,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1003,7 +1034,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1047,7 +1078,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 25,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1092,7 +1123,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
+   "count": 19,
    "note": "changed"
   },
   "offers-mazda": {
