@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-13T05:09:00+00:00",
- "duration_s": 24.9,
- "items_total": 480,
- "new_this_run": 134,
+ "generated": "2026-10-13T06:23:54+00:00",
+ "duration_s": 189.4,
+ "items_total": 482,
+ "new_this_run": 150,
  "counts": {
-  "complaints_24h": 1,
-  "complaints_7d": 6,
+  "complaints_24h": 2,
+  "complaints_7d": 7,
   "complaints_30d": 38,
   "high_7d": 2,
   "medium_7d": 3,
-  "low_7d": 1,
+  "low_7d": 2,
   "competitor_news_7d": 49,
   "launch_signals_7d": 14,
   "offer_signals_7d": 0,
   "zeekr_news_7d": 30,
-  "offer_page_changes_7d": 0
+  "offer_page_changes_7d": 1
  },
  "series_30d": [
   {
@@ -80,8 +80,8 @@
   {
    "date": "2026-09-24",
    "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 1
+   "competitor_news": 0,
+   "zeekr_news": 2
   },
   {
    "date": "2026-09-25",
@@ -193,9 +193,9 @@
   },
   {
    "date": "2026-10-13",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 9,
-   "zeekr_news": 1
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -209,13 +209,13 @@
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 11
+   "n": 10
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 10
+   "n": 9
   },
   {
    "key": "quality",
@@ -233,7 +233,7 @@
    "key": "sales",
    "zh": "销售体验",
    "en": "Sales experience",
-   "n": 5
+   "n": 4
   },
   {
    "key": "safety",
@@ -249,18 +249,17 @@
   }
  ],
  "models_30d": {
-  "7X": 14,
+  "7X": 13,
   "009": 1,
   "X": 1,
   "7GT": 2
  },
  "sources_30d": {
   "Google Play (AU)": 15,
-  "Reddit r/Zeekr7xAustralia": 12,
+  "Reddit r/Zeekr7xAustralia": 13,
   "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
-  "ProductReview.com.au": 3,
-  "Reddit r/CarsAustralia": 1
+  "ProductReview.com.au": 3
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -729,17 +728,23 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 3,
+   "n_30d": 2,
    "launch": [
     "157903045605fdfb",
-    "42ac9b11351bb021",
-    "789dc0b548142229"
+    "42ac9b11351bb021"
    ],
    "offer": [],
    "latest": "157903045605fdfb"
   }
  },
  "alerts": [
+  {
+   "kind": "offer_page_change",
+   "id": "d62183d5029f3d1a",
+   "title": "MG / IM 官网政策页面变化（+12 / −0 行）",
+   "source": "https://mgmotor.com.au/offers",
+   "t": "2026-10-13T06:27:01+00:00"
+  },
   {
    "kind": "competitor_launch",
    "id": "bbb5fd6a4bc73847",
@@ -872,7 +877,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -897,22 +902,22 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 35,
+   "count": 38,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 33,
+   "count": 35,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 44,
+   "count": 45,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 36,
+   "count": 30,
    "note": ""
   },
   "carexpert": {
@@ -931,14 +936,14 @@
    "note": ""
   },
   "evcentral": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
   },
   "evcentral-zeekr": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
   },
   "chasingcars": {
    "ok": true,
@@ -965,10 +970,60 @@
    "count": 30,
    "note": ""
   },
-  "reddit": {
+  "reddit-Zeekr7xAustralia": {
    "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrAustraliaNZ": {
+   "ok": false,
    "count": 0,
-   "note": "skipped"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 19,
+   "note": "anonymous RSS"
+  },
+  "reddit-Zeekr7Gt": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-CarsAustralia": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-AustralianEV": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-EVAustralia": {
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-AusAutomotive": {
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-electricvehicles": {
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-global": {
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "productreview-zeekr-agg": {
    "ok": true,
@@ -1015,10 +1070,115 @@
    "count": 0,
    "note": "GOOGLE_MAPS_API_KEY not set – store reviews skipped"
   },
-  "offers": {
+  "offers-volvo": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-kia": {
+   "ok": true,
+   "count": 27,
+   "note": "unchanged"
+  },
+  "offers-polestar": {
+   "ok": true,
+   "count": 11,
+   "note": "unchanged"
+  },
+  "offers-mini": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)"
+  },
+  "offers-mg": {
+   "ok": true,
+   "count": 31,
+   "note": "changed"
+  },
+  "offers-mazda": {
+   "ok": true,
+   "count": 15,
+   "note": "unchanged"
+  },
+  "offers-mercedes": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)"
+  },
+  "offers-landrover": {
+   "ok": true,
+   "count": 15,
+   "note": "unchanged"
+  },
+  "offers-audi": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-byd": {
    "ok": true,
    "count": 0,
-   "note": "skipped"
+   "note": "unchanged"
+  },
+  "offers-hyundai": {
+   "ok": true,
+   "count": 8,
+   "note": "unchanged"
+  },
+  "offers-tesla-my": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-tesla-m3": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-xpeng": {
+   "ok": true,
+   "count": 1,
+   "note": "unchanged"
+  },
+  "offers-smart": {
+   "ok": true,
+   "count": 11,
+   "note": "unchanged"
+  },
+  "offers-leapmotor": {
+   "ok": true,
+   "count": 0,
+   "note": "unchanged"
+  },
+  "offers-deepal": {
+   "ok": true,
+   "count": 5,
+   "note": "unchanged"
+  },
+  "offers-lexus": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-bmw": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)"
+  },
+  "offers-zecar-offers": {
+   "ok": true,
+   "count": 38,
+   "note": "unchanged"
+  },
+  "offers-thebeep-offers": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
+  },
+  "offers-zeekr-offers-zecar": {
+   "ok": true,
+   "count": 6,
+   "note": "unchanged"
   }
  },
  "places": {
