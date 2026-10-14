@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-14T03:54:39+00:00",
- "duration_s": 191.3,
- "items_total": 561,
- "new_this_run": 210,
+ "generated": "2026-10-14T05:17:23+00:00",
+ "duration_s": 162.1,
+ "items_total": 563,
+ "new_this_run": 195,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 0,
   "complaints_7d": 6,
   "complaints_30d": 37,
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 74,
+  "competitor_news_7d": 76,
   "launch_signals_7d": 19,
   "offer_signals_7d": 1,
-  "zeekr_news_7d": 41,
+  "zeekr_news_7d": 40,
   "offer_page_changes_7d": 2
  },
  "series_30d": [
@@ -188,7 +188,7 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 31,
+   "competitor_news": 33,
    "zeekr_news": 14
   },
   {
@@ -269,10 +269,10 @@
    "latest": "ecb6767e140b18e0"
   },
   "smart-1": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "93695976e0a8ea29"
   },
   "smart-3": {
    "n_30d": 0,
@@ -960,7 +960,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 29,
+   "count": 28,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -990,27 +990,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 44,
+   "count": 45,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 14,
+   "count": 15,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 53,
+   "count": 57,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 47,
+   "count": 51,
    "note": ""
   },
   "carexpert": {
@@ -1089,24 +1089,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1140,7 +1140,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1185,8 +1185,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
-   "note": "unchanged"
+   "count": 19,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
@@ -1209,9 +1209,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,

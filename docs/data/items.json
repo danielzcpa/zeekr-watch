@@ -1094,6 +1094,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "93695976e0a8ea29",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WRWNQS1NiWkUydWZ1TktoZHdqb3ZiOFpRWnNQWWwxb2J0a29PWGF3X2JYNzVyNHItMUE3RjZrc2tiUVdReHFGdE5mZEFaa0tXUU5YUTFIcw?oc=5",
+  "title": "Smart #1 price, range and specs - EV Central",
+  "text": "Smart #1 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:30:52+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "smart-1"
+  ],
+  "brands": [
+   "smart"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T05:17:23+00:00"
+ },
+ {
   "id": "b46b64ee0eae8730",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -1333,6 +1368,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "a5bec463747a0f4a",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEI0ZlBIMkxxc2pzR0JXczNkX0hVTGxROF9ESHpYRU9OMGVKVWRUOUE2cFpWY2VFY1lqdjYwbDVtX2tpRU5NVVJHLXNzcnpyLVlMRmVqLUpJRE9Ga3pUT040NGt5TEhOTGdlMXRmVFpvdnNodjF0al9mYnlPdVYwWW10YUdCRmVIWTg3YllSaFZIbkczSEE4RDd6LVlTZGhIb3ZwOWtkOU1RNDdQNGh4ZDFTd3p3Nzhsdll0Z3dBMWpuWXprX3c?oc=5",
+  "title": "2027 Leapmotor B03 revealed in Paris but is this Geely EX2 and BYD Atto 1 EV rival coming to Australia? - CarsGuide",
+  "text": "2027 Leapmotor B03 revealed in Paris but is this Geely EX2 and BYD Atto 1 EV rival coming to Australia? CarsGuide",
+  "author": "",
+  "published": "2026-10-13T06:08:12+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T05:17:23+00:00"
  },
  {
   "id": "54fc71bc4c6ac577",
