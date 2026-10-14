@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-14T00:32:44+00:00",
- "duration_s": 122.9,
- "items_total": 552,
- "new_this_run": 202,
+ "generated": "2026-10-14T03:54:39+00:00",
+ "duration_s": 191.3,
+ "items_total": 561,
+ "new_this_run": 210,
  "counts": {
   "complaints_24h": 1,
-  "complaints_7d": 5,
-  "complaints_30d": 36,
-  "high_7d": 2,
+  "complaints_7d": 6,
+  "complaints_30d": 37,
+  "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 69,
+  "competitor_news_7d": 74,
   "launch_signals_7d": 19,
   "offer_signals_7d": 1,
   "zeekr_news_7d": 41,
@@ -187,15 +187,15 @@
   },
   {
    "date": "2026-10-13",
-   "complaints": 1,
-   "competitor_news": 28,
+   "complaints": 2,
+   "competitor_news": 31,
    "zeekr_news": 14
   },
   {
    "date": "2026-10-14",
    "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 0
+   "competitor_news": 3,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 27
+   "n": 28
   },
   {
    "key": "service",
@@ -212,16 +212,16 @@
    "n": 10
   },
   {
+   "key": "quality",
+   "zh": "质量/故障",
+   "en": "Quality / faults",
+   "n": 9
+  },
+  {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
    "n": 9
-  },
-  {
-   "key": "quality",
-   "zh": "质量/故障",
-   "en": "Quality / faults",
-   "n": 8
   },
   {
    "key": "charging",
@@ -255,8 +255,8 @@
   "7GT": 2
  },
  "sources_30d": {
+  "Google Play (AU)": 14,
   "Reddit r/Zeekr7xAustralia": 13,
-  "Google Play (AU)": 13,
   "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3
@@ -353,7 +353,7 @@
    "latest": "1fcb9074dd9fe52c"
   },
   "smart-5": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [
     "3e3f285c9229d77a"
    ],
@@ -413,7 +413,7 @@
    "latest": null
   },
   "toyota-bz4x": {
-   "n_30d": 2,
+   "n_30d": 0,
    "launch": [
     "3e3f285c9229d77a"
    ],
@@ -429,7 +429,7 @@
    "latest": null
   },
   "skoda-enyaq": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [
     "3e3f285c9229d77a"
    ],
@@ -439,15 +439,15 @@
    "latest": "3e3f285c9229d77a"
   },
   "geely-ex5": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "a733988169d48563"
    ],
    "offer": [],
-   "latest": "668210c07797ef8e"
+   "latest": "06fa47391abc61ff"
   },
   "tesla-model-3": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [],
    "offer": [
     "a0bad462fa5ad448"
@@ -566,7 +566,7 @@
    "latest": null
   },
   "byd-m9": {
-   "n_30d": 2,
+   "n_30d": 4,
    "launch": [
     "2c8e385c13663939"
    ],
@@ -645,13 +645,13 @@
    "latest": null
   },
   "kia-ev9": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
     "205ea3973e46d6d4",
     "d03e92850d21bd42"
    ],
    "offer": [],
-   "latest": "205ea3973e46d6d4"
+   "latest": "2c363d35d08b8002"
   },
   "xpeng-g9l": {
    "n_30d": 9,
@@ -872,6 +872,13 @@
    ]
   },
   {
+   "kind": "complaint_high",
+   "id": "994b44db3ef57c68",
+   "title": "1★ · Again; a PATHETIC update! The car has been out for a year no",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-10-13T00:38:35+00:00"
+  },
+  {
    "kind": "competitor_launch",
    "id": "205ea3973e46d6d4",
    "title": "2027 Xpeng G9L detailed with 1200km range and luxurious three-row cabin",
@@ -953,7 +960,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 27,
+   "count": 29,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -983,22 +990,22 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 43,
+   "count": 44,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 19,
+   "count": 14,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 55,
+   "count": 53,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 26,
+   "count": 29,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1062,14 +1069,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-Zeekr": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1082,24 +1089,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,

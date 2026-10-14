@@ -1,5 +1,106 @@
 [
  {
+  "id": "7477fa2d973dd628",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · www.automuse.co.nz",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWU1kcmZyMlJOSXFQZVhvX1ZaQ2l2YjhsZXRmdFdhSC03TmdYendKYU81UmFmTjR6M0lwZk5sWFJNV3V1d0FnbGhiSDhqZHJkSkRXcms4SXdJOFZkMXgzdmFlUG9pQ1BhM0Qtc3ZZY1J1R3hrWWxvRzk4ZkNabG8?oc=5",
+  "title": "Reviewed: Zeekr 7X electric performance SUV - www.automuse.co.nz",
+  "text": "Reviewed: Zeekr 7X electric performance SUV www.automuse.co.nz",
+  "author": "",
+  "published": "2026-10-14T03:22:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "2c363d35d08b8002",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QY3kwMUI5ZmZvWXYtb1VpdndBMHdrWngyUHJ6TDQ5UGNKdXdIbVJPZ1JOWjkxZjdOVUhwMDVlbktfUzJlX1JJT3l6bEZwaUN5V25ja21R?oc=5",
+  "title": "Kia EV9 price, range and specs - EV Central",
+  "text": "Kia EV9 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-14T02:17:41+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "06fa47391abc61ff",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
+  "title": "Geely EX5 price, range and specs - EV Central",
+  "text": "Geely EX5 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-14T00:27:59+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
   "id": "bd09876b341075d3",
   "type": "competitor_news",
   "source": "carexpert",
@@ -38,6 +139,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T00:32:44+00:00"
+ },
+ {
+  "id": "d75d66f0db0c79db",
+  "type": "deal",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
+  "url": "https://www.ozbargain.com.au/node/978883",
+  "title": "Mercedes Benz All-Electric EQA 250+ from $65,490 Driveaway @ Mercedes Benz",
+  "text": "Standard price ~$93k driveaway Competition driven price - ~65.5k driveaway Screenshot Driveaway price will be shown on the final contract. Experience the all-electric EQA 250+ from $65,490 …",
+  "author": "Megatron",
+  "published": "2026-10-13T23:49:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-eqa"
+  ],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "6cceb18ce8aba462",
@@ -199,7 +336,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/byd-sealion-8-goes-ev-in-paris-with-660km-of-range",
   "title": "BYD Sealion 8 goes EV in Paris with 650km of range",
-  "text": "The BYD Atto 8 electric SUV has debuted at the Paris motor show, and will serve as the new flagship for the Chinese brand in Europe when it launches there early next year. Look familiar? That's because the Atto 8 is an EV version of the Sealion 8 plug-in hybrid (PHEV) large SUV already sold in Australia. Headline specs include up to 651km of WLTP-certified driving range from its 115kWh LFP 'Blade' battery, and it's the first BYD in Europe to offer the brand's 1500kW Flash Charging capability. It means the Atto 8 can be charged from 10 to 70 per cent \"in just 5 minutes\", and 10 to 97 per cent in \"only 9 minutes\" – hence the company's tagline \"ready in 5, full in 9, cold add 3\". The all-electric Atto 8/Sealion 8 will be available in Europe with rear- or all-wheel drive electric powertrains with up to 570kW of power and 775Nm of torque in flagship trim, boasting a claimed 0-100km/h time of just 4.6 seconds. For reference, the most potent Sealion 8 DM-P PHEV outputs 359kW/675Nm from its 1.5-litre turbo-petrol plug-in hybrid system, quoting a 4.9-second 0-100km/h sprint time. As with the local PHEV version, the Atto 8 offers seats across three rows, though the model depicted in the Euro",
+  "text": "UPDATED 14/10/2026: BYD Australia has issued a statement regarding local prospects for a Sealion 8 EV. See bottom of article for details. The BYD Atto 8 electric SUV has debuted at the Paris motor show, and will serve as the new flagship for the Chinese brand in Europe when it launches there early next year. Look familiar? That's because the Atto 8 is an EV version of the Sealion 8 plug-in hybrid (PHEV) large SUV already sold in Australia. Headline specs include up to 651km of WLTP-certified driving range from its 115kWh LFP 'Blade' battery, and it's the first BYD in Europe to offer the brand's 1500kW Flash Charging capability. It means the Atto 8 can be charged from 10 to 70 per cent \"in just 5 minutes\", and 10 to 97 per cent in \"only 9 minutes\" – hence the company's tagline \"ready in 5, full in 9, cold add 3\". The all-electric Atto 8/Sealion 8 will be available in Europe with rear- or all-wheel drive electric powertrains with up to 570kW of power and 775Nm of torque in flagship trim, boasting a claimed 0-100km/h time of just 4.6 seconds. For reference, the most potent Sealion 8 DM-P PHEV outputs 359kW/675Nm from its 1.5-litre turbo-petrol plug-in hybrid system, quoting a 4.9-seco",
   "author": "James Wong",
   "published": "2026-10-13T22:15:00+00:00",
   "rating": null,
@@ -217,10 +354,10 @@
    "delivery"
   ],
   "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
+   "score": -1,
+   "neg_hits": 1,
    "pos_hits": 0,
-   "label": "neutral"
+   "label": "negative"
   },
   "severity": null,
   "signals": [
@@ -483,6 +620,74 @@
   "first_seen": "2026-10-13T21:09:37+00:00"
  },
  {
+  "id": "362d5d4640e3bfda",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OeWZPVE9CaGlJVGYwQlhsdXQyNFdmMXc2bUJXVGNZeU1jeVd3UXo2MVdYYVo1RVFyQS1yRGlodXRUSE9FQ09NX3YzUGUwbFdraXN0Y3g1XzlLUQ?oc=5",
+  "title": "BYD M9 Wheel Size - CarsGuide",
+  "text": "BYD M9 Wheel Size CarsGuide",
+  "author": "",
+  "published": "2026-10-13T16:33:53+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "201e7240b566345b",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RS0xaHBrLVpkZk9OUFhheVBBY1ppUmMzLUd3SlowZnlITklVSkpEbVVQem9tdF9iNTNZcC1ZZWZERDFsUmpScFpvNXdvS3JfdlJvX1N3?oc=5",
+  "title": "BYD M9 Battery - Capacity, Range & Charging Specs - CarsGuide",
+  "text": "BYD M9 Battery - Capacity, Range & Charging Specs CarsGuide",
+  "author": "",
+  "published": "2026-10-13T16:27:32+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
   "id": "505794e8d4cc20cb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -518,7 +723,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/deepal-parent-confirms-new-chinese-brand-for-europe-and-it-could-come-to-australia",
   "title": "Deepal parent confirms new Chinese brand for Australia – UPDATE",
-  "text": "UPDATED 07/10/2026: A spokesperson for Changan's local arm has confirmed the Nevo brand for an Australian launch sometime in 2027. Chinese auto giant Changan – the parent company of Avatr and Deepal – has confirmed another one of its brands will expand its global footprint to Europe, as well as Australia. At the Paris motor show this week, Changan confirmed a number of new models for selected European markets across its brands, including three all-new models from Nevo – the A06 sedan, as well as the Q05 and Q06 SUVs. Set to go on sale in Spain from early 2027, with other European markets to follow, the Nevo Q05 electric SUV will be the first cab off the rank. Australia will receive its first Nevo-branded vehicles sometime in 2027, with further details on the local model range to come. In other export markets like right-hand drive Thailand, the Q05 is powered by a 120kW/190Nm front-mounted electric motor, fed by a 51.9kWh LFP battery good for 462km of driving range on the less accurate NEDC test cycle. According to Changan, the Nevo Q05 has been China's top-selling compact SUV for the past six months. At 4435mm long and 1855mm wide, it is slightly larger than a Hyundai Kona . The la",
+  "text": "UPDATED 14/10/2026: A spokesperson for Changan's local arm has confirmed the Nevo brand for an Australian launch sometime in 2027. Chinese auto giant Changan – the parent company of Avatr and Deepal – has confirmed another one of its brands will expand its global footprint to Europe, as well as Australia. At the Paris motor show this week, Changan confirmed a number of new models for selected European markets across its brands, including three all-new models from Nevo – the A06 sedan, as well as the Q05 and Q06 SUVs. Set to go on sale in Spain from early 2027, with other European markets to follow, the Nevo Q05 electric SUV will be the first cab off the rank. Australia will receive its first Nevo-branded vehicles sometime in 2027, with further details on the local model range to come. In other export markets like right-hand drive Thailand, the Q05 is powered by a 120kW/190Nm front-mounted electric motor, fed by a 51.9kWh LFP battery good for 462km of driving range on the less accurate NEDC test cycle. According to Changan, the Nevo Q05 has been China's top-selling compact SUV for the past six months. At 4435mm long and 1855mm wide, it is slightly larger than a Hyundai Kona . The la",
   "author": "James Wong",
   "published": "2026-10-13T14:00:00+00:00",
   "rating": null,
@@ -1195,6 +1400,39 @@
   "first_seen": "2026-10-13T06:23:54+00:00"
  },
  {
+  "id": "6c4149e461accfc9",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · RACV",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3dvZFhFUWVfeGRnZFlIQTdCa3JQQUE4X3hnU0RVSHU5Mkwxb2NPbmlyV3lsNEpfUGJGcFZ4OGFSdnBCQTlid21pcWJtQkRGMVNTTkRpTXJCMnpmbnh1eUhDUG5lODM2Z29yVnRxdU95bjVvT3E3eGo1dlNxM1JvODdTWk93TG1ZTlJtbmNzTzlqNFB3c1BOODd6MThNUEplblRkcFBBMGY0cjczZ2I4?oc=5",
+  "title": "2026 Tesla Model 3 price, specs and release date in Australia: Tesla cuts entry price by $9000 - RACV",
+  "text": "2026 Tesla Model 3 price, specs and release date in Australia: Tesla cuts entry price by $9000 RACV",
+  "author": "",
+  "published": "2026-10-13T04:54:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
   "id": "2de9685ec12fb062",
   "type": "competitor_news",
   "source": "gn-ev-launch-au",
@@ -1413,7 +1651,7 @@
  {
   "id": "3a4fb0d45c65c6ec",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUpIVzRaa1MtRGVYZl9DWUxUWXNMakIyU21KNTRwS1pjTnZqYm5qNG11NV9CRHZ5OWk4cWRYRi1WZkVfVHpoSGpSUjNIUGR0VFVaRkRkM0JlaVYxMDFpOWFkcDdzdW94bnZsam9hM3dKeXc2bmk1bHl5NGQ0Slp1TjZUZ1lXbTNfeHd3Y2ZKYlNzSV9WcHNoRm5uOXJCeEdBU1o4WUFGcFQ4bzhpaF9yRnN6dU9ER01TdlNjaTlR?oc=5",
   "title": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y - CarsGuide",
@@ -1444,7 +1682,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
@@ -1555,6 +1793,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "994b44db3ef57c68",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=c305e38c-de77-4b5e-8fe1-71128f29a01d",
+  "title": "1★ · Again; a PATHETIC update! The car has been out for a year no",
+  "text": "Again; a PATHETIC update! The car has been out for a year now and the basic function of the key is still BROKEN! DO WE HAVE DIGITAL KEY 3.0? Baiting us with promises of OTA and app updates that we wait forever to come; then give us nothing of what we ask for; DO NOT BUT THIS CAR! Enable for us AUTO ZONING of air cond; yes it's in the manual; should you read it. 70% of smartphone users have ANDROID. FIX THIS. UNTIL THEN I CANNOT RECOMMEND THIS CAR.",
+  "author": "Steven Dorombozo",
+  "published": "2026-10-13T00:38:35+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 3,
+   "pos_hits": 1,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.6",
+   "thumbs": 29
+  },
+  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "8e9b110e4e475964",
@@ -2641,7 +2914,7 @@
  {
   "id": "1ddd44963b401210",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · St George & Sutherland Shire Leader",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjNwR2dENUc1aHNQR1haanNZTGJfTkF0Qjl5UUx1a2pPbkItaS1KM21ZVElhQXBRMEg0NFJHQzNEWUpIXzY1TXlhNUEzOTRtcTVyaHlWb3N2T1RFTVNEWURXQTFYdmlmWkJCUGs4Nko4aHcwZVd1a0dUZnhzODRXZWIxV2dxMkNwVVg3M1BR?oc=5",
   "title": "New Zeekr 9X beater confirmed - St George & Sutherland Shire Leader",
@@ -2666,7 +2939,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T05:09:00+00:00"
@@ -13469,6 +13742,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "b831c040b9446920",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakdvWGlRM0VRUUtxQkRFQy1EVVIyTnRqSFdsd29xdkNkODdwRlJFU3NRU3Q1SENYLWE3TkhTOS1ZalpnRGdMbUpDTzBKS3dkYllXbHc0Z0FNY1FKRUhHaFdLNlc3bkwzMkZDR1VGVUZ5bTJCWG9BSnAtRjNKYkk2MEFhUDRqY3pzbVZHeEZfV24tLTdfeHF2S3RTdXFyRi03UUFUdll6RGRidXE1emJOZzNjYmVRUHl2Rlo2dzNOU1E?oc=5",
+  "title": "2027 Zeekr 7GT detailed: Chinese anti-SUV to rival Subaru WRX and Skoda Octavia - CarsGuide",
+  "text": "2027 Zeekr 7GT detailed: Chinese anti-SUV to rival Subaru WRX and Skoda Octavia CarsGuide",
+  "author": "",
+  "published": "2026-08-19T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "skoda"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
   "id": "386ee800bfec78d5",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -14323,10 +14631,10 @@
   "id": "102d481d18151cdc",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
-  "source_name": "Google News · Carscoops",
+  "source_name": "Google News · CarScoops",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wbzdhVTRSejVGRmlsYVFUWFlhQnY3cktDanRXTHlDdjJTUU4zZHcwSTZhSWhDd3VkaXJIYmIxRzlZWkk4WFdtYk9GQW5kcG9nYjRqeFRtV0lnR2RZ?oc=5",
-  "title": "Zeekr Says EV That Burst Into Flames At Chinese Charger Had A Crash It Never Told Anyone About - Carscoops",
-  "text": "Zeekr Says EV That Burst Into Flames At Chinese Charger Had A Crash It Never Told Anyone About Carscoops",
+  "title": "Zeekr Says EV That Burst Into Flames At Chinese Charger Had A Crash It Never Told Anyone About - CarScoops",
+  "text": "Zeekr Says EV That Burst Into Flames At Chinese Charger Had A Crash It Never Told Anyone About CarScoops",
   "author": "",
   "published": "2026-08-12T07:00:00+00:00",
   "rating": null,
