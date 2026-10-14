@@ -47,3 +47,7 @@ docs/data/                 抓取结果（items.json、summary.json、offer_chan
 - Facebook 公开 group 无法抓取；官方 Page 评论需 Page access token。
 - Google Places 每个门店每次只返回最新 5 条评价。
 - 分类为关键词规则，存在误判；重要事项请点开原文核对。
+
+## 访问密码
+
+网页有一层前端密码门（`docs/index.html` 中的 `PW_HASH`，为密码的 SHA-256）。更改密码：在终端运行 `echo -n '新密码' | sha256sum`，把结果替换到 `PW_HASH` 即可。注意这只能挡住普通访客与搜索引擎；仓库是公开的，`docs/data/*.json` 仍可被直接访问。若需要真正的访问控制，应迁移到 Cloudflare Pages + Cloudflare Access（免费，支持邮箱一次性验证码）或公司 Azure 静态站点 + Entra ID。
