@@ -1,5 +1,34 @@
 [
  {
+  "id": "30493e6fceac2ca4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · SpeedMe.ru",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFg4UWktTXdCNUJYczBtRmt3MlRabUV3dGJHS0JxVjRyYThwYldwcGdGdnRKRDFxTmJkaDhnQWt5Sml5QVZHMHR3bmFjWWROYVJXbjA3alZpMkkyNmlCRFFrcjYxUGI2MmZNTGhjTENoMFNueHBubzJBWG9qU3R2YW44MjBCU1laT1BvalJOU2NVVW5neVgycDR4UEdodm1OMW8tbGFQYi1aZ29JY1BaWjI0RG1KcG5xWWfSAb4BQVVfeXFMTzNjenRndEVaUE8zUnRadmZFY3BhS1g4c0t4TlRuaFRuc0F4RE9aZkhzZjNQTnJwZjltbnBZMC1CckFSUkZVencyNDZNXzlUWkpodjZOSlNXVXhqdUJLV0xSTHowRnowWm9iOWdtbldYMlRrYXYwODZhNXZMS2lkVWRKQUNFTlVRd3c4X3k3SFByZ3dXUW96YVBBMVZtVVpQYkVyT3lkcFU2QS1iN1djdVZRS2pkZUlpY3lGQ004QQ?oc=5",
+  "title": "Zeekr brings AirConsole gaming to European cars as PAC-MAN controls cabin lighting - SpeedMe.ru",
+  "text": "Zeekr brings AirConsole gaming to European cars as PAC-MAN controls cabin lighting SpeedMe.ru",
+  "author": "",
+  "published": "2026-10-14T12:09:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
   "id": "806e811b0ad93a51",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -237,12 +266,12 @@
   "id": "5c0f36f1a4a21b6c",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
-  "source_name": "Google News · safariindia.com",
+  "source_name": "Google News · https://safariindia.com/",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tbFFTUnkyUGl0bEZfWW1GM29USGtVVjMzc3VyVmw1ZmlTcGlyVEZiVGYtRTctZlBncXpzUHV0MXpIMDdXNXlobms3bVVsSWtWV28tb1hYMWtBeTFSWjNqWmk5MEhsVERwMVdJdFg4ZVQ1SkZsUGJuQUtB?oc=5",
-  "title": "Sydney Airport Debuts Zeekr EV Showcase in T3 - safariindia.com",
-  "text": "Sydney Airport Debuts Zeekr EV Showcase in T3 safariindia.com",
+  "title": "Sydney Airport Debuts Zeekr EV Showcase in T3 - https://safariindia.com/",
+  "text": "Sydney Airport Debuts Zeekr EV Showcase in T3 https://safariindia.com/",
   "author": "",
-  "published": "2026-10-14T06:40:07+00:00",
+  "published": "2026-10-14T05:30:07+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -327,6 +356,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "7560ef24987a3d67",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
+  "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
+  "text": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT CarsGuide",
+  "author": "",
+  "published": "2026-10-14T03:04:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "2c363d35d08b8002",
@@ -506,6 +570,37 @@
   "first_seen": "2026-10-14T00:32:44+00:00"
  },
  {
+  "id": "723982fc1671623b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekI1ZklvaGdwOWduRl9nVGFUN3R5YThCUGdCOGE1ZXJFVU1mYnY1a0FuZGt3aE4zbWFZOHZpUm5obU1UUGpvVmFaamJfS0l5dTl0Z1hhUkRQZzNWUGNXVG9MRXFLRDR3TzRMcXpsbUJZMlNsZHl4RU9wckpYZlhid2NVZWp1SzJLM3hzRWpySnVsUQ?oc=5",
+  "title": "Zeekr X: Good thing in a small EV package - The Canberra Times",
+  "text": "Zeekr X: Good thing in a small EV package The Canberra Times",
+  "author": "",
+  "published": "2026-10-13T23:26:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
   "id": "e42cfb3251435a2d",
   "type": "competitor_news",
   "source": "thedriven",
@@ -543,6 +638,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T00:32:44+00:00"
+ },
+ {
+  "id": "e122856f7ec6d4e8",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0tNem1JX1pfM1d5dEQ5N0tGTXZTbGNDRWQxcl82ckpBUWpzN2VvT0cwdGtDdzBBZ2RzRnh4MXpJZ0RMX2t5VFpBR05RTk8yUEl2UU9ncmtRN09VMGhtd3RUeUpRc0VlNG1xNFg5STIzdlpWY01zYWphVVlrNTdDb1BjS2xHd0tHQ1BR?oc=5",
+  "title": "Tesla Model 3 RWD 2026 Review - Carsales",
+  "text": "Tesla Model 3 RWD 2026 Review Carsales",
+  "author": "",
+  "published": "2026-10-13T23:05:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "a0bad462fa5ad448",
@@ -700,6 +828,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T00:32:44+00:00"
+ },
+ {
+  "id": "29573fffd9b26485",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IdS1GWjViRERkcGQwc0J4b0hGMUxXOEJoTmtpTW11V0w0S21xVmhnOHJzUl9IODlHRWM3a0tiYU1UVHRXaHFua2tCRW5ObEJh?oc=5",
+  "title": "Xpeng X9 price, range and specs - EV Central",
+  "text": "Xpeng X9 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T22:05:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "e64041d036473349",
@@ -1559,6 +1722,76 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "66d89eaf334c1bb2",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPWUlMZDFybUZxZVBRcmthRlJ5ZHRYb1ROd1IxLWlua0VaQ1lyNC1NU2poeE4zTjZuWXBCRXhUc0puUEluZktDa2s2dks1XzFLZGpyQUsxUQ?oc=5",
+  "title": "Smart #3 price, range and specs - EV Central",
+  "text": "Smart #3 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "smart-3"
+  ],
+  "brands": [
+   "smart"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
+  "id": "f9fe756ee928946b",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvcTZ0MExsck1RM2hKTFpTUG15UjlGVjNiTXhTWDlJWHoySlZpSmV6ZFVzbXZ2VGZQeXRHOW9TX1B5NGZIcERiZHRoLTNuUQ?oc=5",
+  "title": "IM IM5 price, range and specs - EV Central",
+  "text": "IM IM5 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "im5"
+  ],
+  "brands": [
+   "im"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "404f8ecafa96e61b",
@@ -13605,6 +13838,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "84007845d3775a33",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3VzZnc3TGRKT1k2aGJjUW9wTXNyTGNsa0JsbjY4V1pOV2NUYUk0dUdsaDRZemxhYTcwNjl1Qno5SlJ0MS1KMVphcE5Fb0JueVV6QzRjdTZFaDZkbC1Udm1KUnJDcFJqakJLLXRCTVdpbXRwU05lN054SS05T3lIbENVcTlyQTdlVFRYRHRzR3ZPdGExYURDTmJ0S255MFFabUczRUdiaWs1VmRSbUhCcTVkTnN1NVgtZ3h6SGk1ZTBwU3VX?oc=5",
+  "title": "Chinese brand drops plans to make cars after confirming Australian debut as Xiaomi, Zeekr rival: report - CarsGuide",
+  "text": "Chinese brand drops plans to make cars after confirming Australian debut as Xiaomi, Zeekr rival: report CarsGuide",
+  "author": "",
+  "published": "2026-08-26T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
   "id": "e3c2e69d9dcac475",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -15336,6 +15600,37 @@
    "thumbs": 4
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "ed4079a3e76c1db6",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00amhqY0ZrU2tjOTRGeGtVNC00eVpZc21EY2tmVlpVV0dLQXdCVnhPVWtiUGVIQ2dtYnhZdC1HajhyOW5TYmJZNnpTYUxGejh5cklfa3RTVGRxMF9rQnBfd1NHSQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-08-06T09:09:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "d4a79511a51d124d",
@@ -19856,6 +20151,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "ce70a7fe0751ea62",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RUFJlUDRoVGZ6UThFcXM1RzBmTk1uQXluSkJVd3NnYjdPS3lGcGM2d2hYR1A5QV9EOW5IR3hFdUFZUUs4dDVZUk5sX3doSGNlUWIwVldRVGlHNGJWNGdWaTVsSQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-04-27T07:50:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "a67a325b3f611d70",
