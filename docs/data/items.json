@@ -1,12 +1,310 @@
 [
  {
+  "id": "806e811b0ad93a51",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrMldFZEtZVWdUTmJxWnhkYjE4YVIyZUdQWnZxcFBEcmM0ekUySV9kaDdpbnhibmtLNDdfUWZBWDFCcFRFYURuWmJKQnotM2dGS0t5cFNGZ2s1NlFqdGlBZVVORzF0dzIyOEdBdDlGd0JsakxIQ0E?oc=5",
+  "title": "Geely Auto Posts Record September Sales of 292,000 Units as ZEEKR Doubles and Exports Surge 2.6-Fold - BigGo Finance",
+  "text": "Geely Auto Posts Record September Sales of 292,000 Units as ZEEKR Doubles and Exports Surge 2.6-Fold BigGo Finance",
+  "author": "",
+  "published": "2026-10-14T10:26:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "3fee8b62adeddda5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarNewsChina.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHI5bTRpc29wellsVlpKY2cxelJjRWI3TzdQbzZIZWZQREhvNl95djBDNDB1UF9rRW1PWHNkQ1BrTjYtLUpUaUpneHJ3YWRhZ09YaTZpdmNaa0NsRFJQYVZCQ3ZKdmJycGRiTldGT0FYQlVtZWRLNlpGNVdzZVlLblFXRDNSdnFsU2l1Y21aZmlnTGdsQUhBdVNiNURkTkwtb0JhNEdIN3YyTGtiOTdN?oc=5",
+  "title": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 52,990 EUR - CarNewsChina.com",
+  "text": "Updated Zeekr 7X launched in Europe with a 40 hp power boost at 52,990 EUR CarNewsChina.com",
+  "author": "",
+  "published": "2026-10-14T10:25:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "a8731fdf35c5de8f",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · www.juneesoutherncross.com.au",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU1tbTdvamhMbUEzUmFVWllzOWs1WlhicU9WUTJYMDN4eWlvUTRSVll3ck4wVDZkekR5OUNtV1Y0aXBIRjFRX1RXaVRtMGpoNzBTNU5HV295LW92R0VLUUxjdGNNQlNyX0pCNlBzQnItVE84LWh3XzVudXlwTXZUMlZST2tGMkNrQ3NXTExoZzZvY0IzclE?oc=5",
+  "title": "Eye-popping 712kW Zeekr rival incoming - www.juneesoutherncross.com.au",
+  "text": "Eye-popping 712kW Zeekr rival incoming www.juneesoutherncross.com.au",
+  "author": "",
+  "published": "2026-10-14T09:20:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "e29124c049454df8",
+  "type": "complaint",
+  "source": "reddit-ZeekrAustraliaNZ",
+  "source_name": "Reddit r/ZeekrAustraliaNZ",
+  "url": "https://www.reddit.com/r/ZeekrAustraliaNZ/comments/1x5m3oa/zeekr_7gt_expression_of_interest_experience/",
+  "title": "Zeekr 7GT Expression of Interest Experience",
+  "text": "Hi there, I have recently submitted my EOI deposit payment at Melbourne South Yarra, I just wanted to ask what was your experience with your chat with your sales representative. Mine was subpar. Good at the chase when it comes to money, but when asked for updates was ignored at least a week or if they even give a receipt for your deposit? All they did was sent an email with a one page terms and condition on the email with no place to sign and a photo of the company and bank account number to pay. Just wanted to hear your thoughts. Thanks 👍",
+  "author": "/u/kingzohan2",
+  "published": "2026-10-14T08:47:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "service",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "6c0d05ff38a28b1e",
+  "type": "news_zeekr",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · RACV",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1BrREZ6UU1Tb0hxajloV0kwN0l4OV9wbTBZVmd2WkQ1a2JXRmxVbS1tSkxpZGd3X3hwbWd0UUJnSDhhNG15a1loNXdPS2hFMnNyY2w2RXpHbTgtekN6VjVFZ0UybmRUbmxNalJzUHp4RTJCZDR1ZjQxX0FwMUlRTE1oazE0d3l4?oc=5",
+  "title": "2026 Zeekr 7X RWD review - RACV",
+  "text": "2026 Zeekr 7X RWD review RACV",
+  "author": "",
+  "published": "2026-10-14T07:06:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "4dd3026f0e2e569c",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Gasgoo",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFidmVKMHdJUjBkRFR1UmYtVWRDMjR4b21qYWlnSkQtOGlBMmltb3lpTTFtU1VXVVB1N1NIQWlWOGY5UnVpMDFiQzV5bGVBLWUzMFctLVMzcHd4amd4NjEtNk1DWjlCQmZBV3diRVducUZqbkp4b2lIaWg2SkdlZnFIV2hfNVlack1tbTA2cFBvN0tkWDB6M2lfeG5abjltSlJRWkllbXJmZ2JhSU5QQXl0OFBjQjRMNkV0TXNhLXFsc3F5NGxCeQ?oc=5",
+  "title": "XPENG X9 tops pure-electric MPV sales in Australia-New Zealand region - Gasgoo",
+  "text": "XPENG X9 tops pure-electric MPV sales in Australia-New Zealand region Gasgoo",
+  "author": "",
+  "published": "2026-10-14T07:03:44+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "c870152aabac62f1",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/gwms-ev-and-phev-push-ora-touring-and-bigger-jolion-spearhead-16-product-australian-expansion/",
+  "title": "GWM’s EV and PHEV push: Ora Touring and bigger Jolion spearhead 16-product Australian expansion",
+  "text": "GWM is preparing to broaden its Australian electric and plug-in hybrid line-up as it targets a 16-product portfolio by the end of 2027. The expansion includes the Ora Touring EV, a larger Haval Jolion with expected electric and plug-in hybrid options, and a PHEV version of the Haval H7. They will give GWM more entries in the electric family-car market, alongside its growing range of plug-in hybrid utes. READ MORE: Toyota RAV4 plug-in has a serious rival: 320kW GWM Haval H7 PHEV to land between $50,000 and $60,000 READ MORE: Australia’s cheapest PHEV ute: GWM Cannon Hi4-T launches from $47,990 drive-away READ MORE: 2026 GWM Ora 5 SUV Review: Sharply priced newcomer takes the EV fight to BYD Atto 2, Jaecoo J5 GWM Australia chief operating officer John Kett told EV Central the company hoped to introduce the Jolion Maxi and Ora Touring before the end of 2026. “We’re hoping by the end of the year, we’ll have the Jolion Maxi and the Ora Touring,” Kett said. The Jolion Maxi, also referred to as the Jolion Max, is a larger SUV than the existing Jolion, moving into the mid-size category. GWM Ora 5 SUV. Its expected powertrain choices include a 150kW/260Nm battery-electric version and a 238k",
+  "author": "EV Central team",
+  "published": "2026-10-14T06:59:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "5c0f36f1a4a21b6c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · safariindia.com",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tbFFTUnkyUGl0bEZfWW1GM29USGtVVjMzc3VyVmw1ZmlTcGlyVEZiVGYtRTctZlBncXpzUHV0MXpIMDdXNXlobms3bVVsSWtWV28tb1hYMWtBeTFSWjNqWmk5MEhsVERwMVdJdFg4ZVQ1SkZsUGJuQUtB?oc=5",
+  "title": "Sydney Airport Debuts Zeekr EV Showcase in T3 - safariindia.com",
+  "text": "Sydney Airport Debuts Zeekr EV Showcase in T3 safariindia.com",
+  "author": "",
+  "published": "2026-10-14T06:40:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "56cbd11b2a810c7b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Redland Bayside News",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTGNVdUFlWXg2Ni1HdmpkVGY0X1QxUnk4eVZiT0tzWFhpT2V3OFhGblpkNEUwRDVuWEc0REEyRFBENFVGcmVkc0RYVWNPc29nOGtjRlJJbGJQbnMybFB0amY4VmstenNP?oc=5",
+  "title": "Zeekr 9X targets LandCruiser and Range Rover buyers - Redland Bayside News",
+  "text": "Zeekr 9X targets LandCruiser and Range Rover buyers Redland Bayside News",
+  "author": "",
+  "published": "2026-10-14T05:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
   "id": "7477fa2d973dd628",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
-  "source_name": "Google News · www.automuse.co.nz",
+  "source_name": "Google News · AutoMuse",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWU1kcmZyMlJOSXFQZVhvX1ZaQ2l2YjhsZXRmdFdhSC03TmdYendKYU81UmFmTjR6M0lwZk5sWFJNV3V1d0FnbGhiSDhqZHJkSkRXcms4SXdJOFZkMXgzdmFlUG9pQ1BhM0Qtc3ZZY1J1R3hrWWxvRzk4ZkNabG8?oc=5",
-  "title": "Reviewed: Zeekr 7X electric performance SUV - www.automuse.co.nz",
-  "text": "Reviewed: Zeekr 7X electric performance SUV www.automuse.co.nz",
+  "title": "Reviewed: Zeekr 7X electric performance SUV - AutoMuse",
+  "text": "Reviewed: Zeekr 7X electric performance SUV AutoMuse",
   "author": "",
   "published": "2026-10-14T03:22:33+00:00",
   "rating": null,
@@ -147,7 +445,7 @@
   "source_name": "OzBargain (Automotive deals)",
   "url": "https://www.ozbargain.com.au/node/978883",
   "title": "Mercedes Benz All-Electric EQA 250+ from $65,490 Driveaway @ Mercedes Benz",
-  "text": "Standard price ~$93k driveaway Competition driven price - ~65.5k driveaway Screenshot Driveaway price will be shown on the final contract. Experience the all-electric EQA 250+ from $65,490 …",
+  "text": "Regular price ~$93k driveaway Competition driven price - ~$65.5k driveaway Screenshot Driveaway price will be shown on the final contract. Experience the all-electric EQA 250+ from $65,490 …",
   "author": "Megatron",
   "published": "2026-10-13T23:49:14+00:00",
   "rating": null,
@@ -293,6 +591,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T00:32:44+00:00"
+ },
+ {
+  "id": "f03d3da9850a290c",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lWC1WNFRvbnZneGtYNUtaSGpibkFrM3ZreHRISHpxSlBYMUQ1aUtTSkpXRng4YTRPbmJmNEpOZ2NZZjdDMzVjbUlJVktVVHpvTHBXaVA3WllGQmFUa1gzOFEwN19iZEsybS1UaFo4RUZvLTlnZzFOWQ?oc=5",
+  "title": "Tesla Model 3 2026 review: Rear-Wheel Drive | BYD Seal 6 rival tested - CarsGuide",
+  "text": "Tesla Model 3 2026 review: Rear-Wheel Drive | BYD Seal 6 rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-13T23:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3",
+   "byd-seal"
+  ],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
   "id": "e77d37add9d0e1ce",
@@ -5057,7 +5390,7 @@
   "title": "Tesla proves why it makes the best EVs after three months with Model Y - Drive",
   "text": "Tesla proves why it makes the best EVs after three months with Model Y Drive",
   "author": "",
-  "published": "2026-10-07T21:31:58+00:00",
+  "published": "2026-10-07T21:32:41+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -13305,41 +13638,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "1561e8fe8b6160c6",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
-  "source_name": "Google News · My NRMA",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUt0WGkwUTZxeVZFZ0NpU1FScjNQQjlsUHRjT1ZmWm41SlpHSGpaRkpVaGhhdl9xaWRVbVhodkZFa19OekFsUEpOU0RURWtHVWFEM2NFSmFZa3A3c0JNOHJKZFZkQ1hUcFBsOXVEM05Ta2pfa2JoSmtaWUN0YjhMQkk3ak9ZbmpZT1BnNTdzdElVNXh0SHV4SC14WDA?oc=5",
-  "title": "Ask an expert: Should I buy a Zeekr 7X or a Hyundai Ioniq 5? - My NRMA",
-  "text": "Ask an expert: Should I buy a Zeekr 7X or a Hyundai Ioniq 5? My NRMA",
-  "author": "",
-  "published": "2026-08-25T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [
-   "hyundai-ioniq5"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "c9657e194ed91eb7",
   "type": "post",
   "source": "reddit-electricvehicles",
@@ -13369,6 +13667,41 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "1561e8fe8b6160c6",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · My NRMA",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUt0WGkwUTZxeVZFZ0NpU1FScjNQQjlsUHRjT1ZmWm41SlpHSGpaRkpVaGhhdl9xaWRVbVhodkZFa19OekFsUEpOU0RURWtHVWFEM2NFSmFZa3A3c0JNOHJKZFZkQ1hUcFBsOXVEM05Ta2pfa2JoSmtaWUN0YjhMQkk3ak9ZbmpZT1BnNTdzdElVNXh0SHV4SC14WDA?oc=5",
+  "title": "Ask an expert: Should I buy a Zeekr 7X or a Hyundai Ioniq 5? - My NRMA",
+  "text": "Ask an expert: Should I buy a Zeekr 7X or a Hyundai Ioniq 5? My NRMA",
+  "author": "",
+  "published": "2026-08-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "hyundai-ioniq5"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },

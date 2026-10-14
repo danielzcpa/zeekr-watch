@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-14T05:17:23+00:00",
- "duration_s": 162.1,
- "items_total": 563,
- "new_this_run": 195,
+ "generated": "2026-10-14T10:31:43+00:00",
+ "duration_s": 124.1,
+ "items_total": 573,
+ "new_this_run": 203,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 6,
-  "complaints_30d": 37,
+  "complaints_24h": 1,
+  "complaints_7d": 7,
+  "complaints_30d": 38,
   "high_7d": 3,
   "medium_7d": 1,
-  "low_7d": 2,
-  "competitor_news_7d": 76,
+  "low_7d": 3,
+  "competitor_news_7d": 79,
   "launch_signals_7d": 19,
   "offer_signals_7d": 1,
-  "zeekr_news_7d": 40,
+  "zeekr_news_7d": 46,
   "offer_page_changes_7d": 2
  },
  "series_30d": [
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 33,
+   "competitor_news": 34,
    "zeekr_news": 14
   },
   {
    "date": "2026-10-14",
-   "complaints": 0,
-   "competitor_news": 3,
-   "zeekr_news": 1
+   "complaints": 1,
+   "competitor_news": 5,
+   "zeekr_news": 7
   }
  ],
  "categories_30d": [
@@ -203,13 +203,13 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 28
+   "n": 29
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 10
+   "n": 11
   },
   {
    "key": "quality",
@@ -233,33 +233,34 @@
    "key": "sales",
    "zh": "销售体验",
    "en": "Sales experience",
-   "n": 4
+   "n": 5
+  },
+  {
+   "key": "price",
+   "zh": "价格/贬值/退款",
+   "en": "Price / resale / refund",
+   "n": 3
   },
   {
    "key": "safety",
    "zh": "召回/安全",
    "en": "Recall / safety",
    "n": 2
-  },
-  {
-   "key": "price",
-   "zh": "价格/贬值/退款",
-   "en": "Price / resale / refund",
-   "n": 2
   }
  ],
  "models_30d": {
+  "7GT": 3,
   "7X": 13,
   "009": 1,
-  "X": 1,
-  "7GT": 2
+  "X": 1
  },
  "sources_30d": {
   "Google Play (AU)": 14,
   "Reddit r/Zeekr7xAustralia": 13,
   "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
-  "ProductReview.com.au": 3
+  "ProductReview.com.au": 3,
+  "Reddit r/ZeekrAustraliaNZ": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -447,7 +448,7 @@
    "latest": "06fa47391abc61ff"
   },
   "tesla-model-3": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [],
    "offer": [
     "a0bad462fa5ad448"
@@ -461,7 +462,7 @@
    "latest": null
   },
   "byd-seal": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [],
    "offer": [
     "a0bad462fa5ad448"
@@ -527,13 +528,13 @@
    "latest": null
   },
   "xpeng-x9": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
     "2c8e385c13663939",
     "59331c007457eaac"
    ],
    "offer": [],
-   "latest": "5e7f26a036fb8a06"
+   "latest": "4dd3026f0e2e569c"
   },
   "mb-eqv": {
    "n_30d": 0,
@@ -960,7 +961,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 28,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -990,17 +991,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 45,
+   "count": 47,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 15,
+   "count": 14,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 57,
+   "count": 60,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1010,7 +1011,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 51,
+   "count": 45,
    "note": ""
   },
   "carexpert": {
@@ -1069,14 +1070,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1091,7 +1092,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1140,7 +1141,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1185,7 +1186,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
+   "count": 31,
    "note": "changed"
   },
   "offers-mazda": {
@@ -1209,9 +1210,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
