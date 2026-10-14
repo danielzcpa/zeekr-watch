@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-13T21:09:37+00:00",
- "duration_s": 190.7,
- "items_total": 543,
- "new_this_run": 208,
+ "generated": "2026-10-14T00:32:44+00:00",
+ "duration_s": 122.9,
+ "items_total": 552,
+ "new_this_run": 202,
  "counts": {
-  "complaints_24h": 2,
-  "complaints_7d": 6,
+  "complaints_24h": 1,
+  "complaints_7d": 5,
   "complaints_30d": 36,
   "high_7d": 2,
-  "medium_7d": 2,
+  "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 61,
-  "launch_signals_7d": 16,
-  "offer_signals_7d": 0,
-  "zeekr_news_7d": 40,
+  "competitor_news_7d": 69,
+  "launch_signals_7d": 19,
+  "offer_signals_7d": 1,
+  "zeekr_news_7d": 41,
   "offer_page_changes_7d": 2
  },
  "series_30d": [
-  {
-   "date": "2026-09-14",
-   "complaints": 0,
-   "competitor_news": 2,
-   "zeekr_news": 0
-  },
   {
    "date": "2026-09-15",
    "complaints": 1,
@@ -194,8 +188,14 @@
   {
    "date": "2026-10-13",
    "complaints": 1,
-   "competitor_news": 21,
-   "zeekr_news": 13
+   "competitor_news": 28,
+   "zeekr_news": 14
+  },
+  {
+   "date": "2026-10-14",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -317,12 +317,14 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "8b84f73c39185863"
    ],
-   "offer": [],
-   "latest": "98a2330553273167"
+   "offer": [
+    "a0bad462fa5ad448"
+   ],
+   "latest": "a0bad462fa5ad448"
   },
   "xpeng-g6": {
    "n_30d": 0,
@@ -445,10 +447,12 @@
    "latest": "668210c07797ef8e"
   },
   "tesla-model-3": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
-   "offer": [],
-   "latest": null
+   "offer": [
+    "a0bad462fa5ad448"
+   ],
+   "latest": "a0bad462fa5ad448"
   },
   "polestar-2": {
    "n_30d": 0,
@@ -457,10 +461,12 @@
    "latest": null
   },
   "byd-seal": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
-   "offer": [],
-   "latest": null
+   "offer": [
+    "a0bad462fa5ad448"
+   ],
+   "latest": "a0bad462fa5ad448"
   },
   "im5": {
    "n_30d": 0,
@@ -475,10 +481,12 @@
    "latest": "86b5677c0d46a8a6"
   },
   "mazda-6e": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
-   "offer": [],
-   "latest": null
+   "offer": [
+    "a0bad462fa5ad448"
+   ],
+   "latest": "a0bad462fa5ad448"
   },
   "mb-cla-ev": {
    "n_30d": 0,
@@ -622,12 +630,13 @@
    "latest": "20e01fbcd796f263"
   },
   "byd-sealion8": {
-   "n_30d": 1,
+   "n_30d": 3,
    "launch": [
+    "25bf1b85357981b9",
     "7df177ffe7c98f88"
    ],
    "offer": [],
-   "latest": "7df177ffe7c98f88"
+   "latest": "e77d37add9d0e1ce"
   },
   "kia-sorento-phev": {
    "n_30d": 0,
@@ -645,8 +654,9 @@
    "latest": "205ea3973e46d6d4"
   },
   "xpeng-g9l": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
+    "e42cfb3251435a2d",
     "ac7a150e4fc7b748",
     "bbb5fd6a4bc73847",
     "cd69fa572df0b0c9",
@@ -655,7 +665,7 @@
     "29457fe8e0433a02"
    ],
    "offer": [],
-   "latest": "ac7a150e4fc7b748"
+   "latest": "e42cfb3251435a2d"
   },
   "wey-v9x": {
    "n_30d": 0,
@@ -733,16 +743,60 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "bd09876b341075d3",
     "157903045605fdfb",
     "42ac9b11351bb021"
    ],
    "offer": [],
-   "latest": "157903045605fdfb"
+   "latest": "bd09876b341075d3"
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "bd09876b341075d3",
+   "title": "Avatr, Nevo could beat sister brand Deepal to PHEV/EREV tech in Australia",
+   "source": "CarExpert",
+   "t": "2026-10-14T00:12:00+00:00",
+   "competitors": [
+    "avatr"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "e42cfb3251435a2d",
+   "title": "Xpeng debuts G9L, its new flagship electric SUV",
+   "source": "The Driven",
+   "t": "2026-10-13T23:14:24+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_offer",
+   "id": "a0bad462fa5ad448",
+   "title": "Tesla Model 3 RWD 2027 Review",
+   "source": "Chasing Cars (Zeekr)",
+   "t": "2026-10-13T23:00:29+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "tesla-model-3",
+    "byd-seal",
+    "mazda-6e"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "25bf1b85357981b9",
+   "title": "BYD Sealion 8 goes EV in Paris with 650km of range",
+   "source": "CarExpert",
+   "t": "2026-10-13T22:15:00+00:00",
+   "competitors": [
+    "byd-sealion8"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "0c648b1890f77652",
@@ -899,7 +953,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 33,
+   "count": 27,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -929,27 +983,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 40,
+   "count": 43,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 22,
+   "count": 19,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 49,
+   "count": 55,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 23,
+   "count": 26,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 60,
+   "count": 47,
    "note": ""
   },
   "carexpert": {
@@ -958,14 +1012,14 @@
    "note": ""
   },
   "thedriven": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   "thedriven-zeekr": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   "evcentral": {
    "ok": true,
@@ -1008,14 +1062,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1028,24 +1082,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1125,7 +1179,7 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
