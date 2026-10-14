@@ -1,5 +1,36 @@
 [
  {
+  "id": "336faeaa646cb73a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Airport Suppliers",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTMtYWtNaWxiYjVGWllOdXJndHgySDZ1dDlIMnFldDFxTmV2WWpLS3U4REpLbW91ZHZlLXlkNU5CWTZPTVJ5bXd6ODNvdFMyRHBLRVNIb3VpMk9NM0FFQnBtaGppMHQzcVZBaW9uVjIxd3ZiY1B3elpCVVhnNzdtaGxIQTBlcWhFNGR5ekxFVnNSWmhEdldlNGJ5X2tBc0p4Z2c?oc=5",
+  "title": "Zeekr debuts at Sydney Airport's T3 Domestic - Airport Suppliers",
+  "text": "Zeekr debuts at Sydney Airport's T3 Domestic Airport Suppliers",
+  "author": "",
+  "published": "2026-10-14T12:13:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T19:38:28+00:00"
+ },
+ {
   "id": "30493e6fceac2ca4",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -160,6 +191,37 @@
   "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
+  "id": "f1e775e921519892",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x5luby/zeekr_x_door_handle_option/",
+  "title": "Zeekr X Door Handle Option",
+  "text": "About to buy an AWD Zeekr X. Originally wanted either a beige AWD with black interior and the manual door handles, or a grid grey AWD with black interior and manual door handles. There are no manual door handles available anywhere local to me on a grid grey but there is on a beige awd. Zeekr have offered me a Grid grey awd, black interior with the electric automatic doors at no extra cost. Has anyone had any experience with these doors? I think I prefer the grey colour but im a bit hung up over the door. Theres literally no handle and only buttons, is that not super weird? Does anyone have this? Is it good? Do you hate it? Should I go with the beige colour and the normal doors or the grey colour and the auto door handles? Would love some advice.",
+  "author": "/u/SuspiciouslyBulky",
+  "published": "2026-10-14T08:29:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T19:38:28+00:00"
+ },
+ {
   "id": "6c0d05ff38a28b1e",
   "type": "news_zeekr",
   "source": "gn-brands-eu",
@@ -263,6 +325,42 @@
   "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
+  "id": "4c035d7c48a2ce9c",
+  "type": "complaint",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x5jwlv/do_i_buy_or_wait_7x_vs_7gt/",
+  "title": "Do I buy or wait?! 7X vs 7GT",
+  "text": "So I’m looking to purchase in Australia in the coming months. We are currently awaiting any details on when the GT is arriving but I wanted to ask our overseas friends, particularly the owners of 7GTs. If you had to choose again, would you choose the GT over the X? Also how does the leg room feel for long trips? Thanks!",
+  "author": "/u/OnionOnly",
+  "published": "2026-10-14T06:23:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T19:38:28+00:00"
+ },
+ {
   "id": "5c0f36f1a4a21b6c",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -360,7 +458,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -426,6 +524,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "8a73a09bbcc7c457",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWFDQXhocVlHT0tVTWFSaU1PSkRDemVuaHIyTkdfOGN4WEhhd0xqTDNDbDJZODg2aFJleHhjbEZOVk9zbjZQRkl5ZkwzbkdaU0U3WjJ4SmpYTDVUa2taUFlNaUkyeFdDc3d0NG5GRVFUbWhpSkxsWVhlbFdJX1FPOXQ3bkk1NFd3Vy1lRGhIOG5MNTk0QWVGVWw3bDlrTFVZRXNQclpSMjRBY09FQW9ENHVOYnNrb0FVTUFicFp5V3VnZ1dj?oc=5",
+  "title": "2026 Paris motor show debuts new electric cars 2026 Smart #2, 2027 Denza Z and more - CarsGuide",
+  "text": "2026 Paris motor show debuts new electric cars 2026 Smart #2, 2027 Denza Z and more CarsGuide",
+  "author": "",
+  "published": "2026-10-14T00:31:43+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T19:38:28+00:00"
  },
  {
   "id": "06fa47391abc61ff",
@@ -3545,6 +3676,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "5ed70c4b9f6db41c",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXVDN0JQWlNDME5wVV9XMmNxOGlsWDlGZEpTc192S29oc1JJZHMwYWwwTzJub1F6Mk5YcjFxZWVpenJXajh3QWQ1SnpzcmV1b0J2amljYnF5Qkhhd1Z1bzRJaVBkMVRmSVlpOVo5LWxEQV9HLWRMNTFQQWNPSFNFblBfdmFfeTcwM01YZEZoSmpzT3pm?oc=5",
+  "title": "Relaunched XPeng G6 takes on Tesla Model Y, but which is the better EV? - Drive",
+  "text": "Relaunched XPeng G6 takes on Tesla Model Y, but which is the better EV? Drive",
+  "author": "",
+  "published": "2026-10-12T05:02:50+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "xpeng-g6"
+  ],
+  "brands": [
+   "tesla",
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T19:38:28+00:00"
  },
  {
   "id": "1ddd44963b401210",
