@@ -1,5 +1,279 @@
 [
  {
+  "id": "beacea688be7f8ba",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/deepal-teases-s05-s07-updates-for-australia-and-they-may-include-extended-range-options",
+  "title": "Deepal teases S05, S07 updates for Australia – and they may include extended-range options",
+  "text": "Deepal Australia has hinted at announcements for its incoming S05 and existing S07 electric SUVs \"in the coming weeks\", following the reveal of product updates at this week's Paris motor show. A spokesperson for Deepal's local distributor, Inchcape Australia, said in a statement to CarExpert : \"We expect to have more to share in the coming weeks, including further details on the S05 and S07 lineup, as well as local specifications and powertrain options. \"While we're not in a position to comment on specific models or timing just yet, we're looking forward to unveiling our plans and sharing a clearer picture of what's next for the brand locally.\" Earlier this week, Deepal's parent company Changan confirmed plug-in hybrid (PHEV) versions of the mid-size S05 and S07 electric SUVs for the European market, with the S05 PHEV due to launch in the right-hand drive UK market later this month. Having initially been promised for Australia in the latter stages of 2025, the Deepal S05 now looks on track to hit the Australian market either very late this year or early in 2027. Changan's European announcement indicates that Australia may indeed get both EV and PHEV versions of the mid-size SUV, wh",
+  "author": "James Wong",
+  "published": "2026-10-14T22:36:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "deepal-s07"
+  ],
+  "brands": [
+   "deepal"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "d48e5a49e00d8770",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/new-car-prices/mercedes-benz-gle-2027-debut-phev-power-launches-local-for-german-suv-and-coupe-twins/",
+  "title": "Mercedes-Benz GLE 2027: debut PHEV power launches local for German SUV and Coupe twins",
+  "text": "This post appeared first on Chasing Cars . Mercedes-Benz Australia has released pricing and specification for its first-ever PHEV versions of its large GLE SUV , on sale today from $156,900 list for the ‘SUV’ wagon and from $160,900 list for the Coupe. The headline act for the GLE 450e 4Matic is its 3.0-litre turbo-petrol inline six-cylinder-based plug-in powertrain , bringing 320kW and 680Nm of combined outputs yielding a 0-100km/h claim of 5.6 seconds paired with the capability of towing up to 3.5 tonnes. With its 25.7kWh usable battery and 135kW motor, the 450e 4Matic offers 87km (WLTP) of pure electric driving range in Coupe form and slightly shorter 87km for the wagon, available at highway speeds of up to 140km/h. Its AC charging peak is 11kW though an on-board 60kW DC charging package can be optioned for $1100. Feature highlights include the revised styling rolled out across the GLE lineup earlier this year, with AMG Line exterior and Night Package aesthetics as standard. The SUV fits 20-inch AMG five-spoke wheels while the walk up to the Coupe brings 21-inchers. Suspension is conventional steel springs though buyers can upgrade to Airmatic air suspension for a $3800 upcharge",
+  "author": "Curt Dupriez",
+  "published": "2026-10-14T22:15:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "fdc4d0d3e836ccf5",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEZ2bUMxdGlvOUtNc0NtWVlabWR1SGhCdk5JMWNkaHF5YW1aTk8tMVJybmE4RWdRdExNbnB2bl9fVUk5aXhrekpZclZjWTBZRm9sX1R2RnFlMGJYZUhfeVo0VzFQWjA2TktBNzRyS1BlSjVveng3MFNXcjRrRXJ6N3NERTYtWWp5MlRYS3d3eUZGUGw1d2NRZnpkQUhmWTA?oc=5",
+  "title": "Mercedes-Benz GLE 450 e priced for Australia - Carsales",
+  "text": "Mercedes-Benz GLE 450 e priced for Australia Carsales",
+  "author": "",
+  "published": "2026-10-14T22:00:52+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "0cad556c45557e97",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-mercedes-benz-gle450e-phev-priced-for-australia",
+  "title": "2027 Mercedes-Benz GLE450e PHEV priced for Australia",
+  "text": "The is now officially on sale in Australia, joining the smaller existing GLA and GLC SUVs in offering a plug-in hybrid (PHEV) powertrain. An updated GLE was announced for Australia earlier this year , bringing a revised exterior and a model lineup starting with a six-cylinder turbo-diesel wagon variant, while petrol-powered AMG versions in both SUV and Coupe guises are set to arrive early next year. Joining the updated large luxury SUV range, the five-seat GLE450e PHEV will be offered in both SUV and Coupe body styles, priced from $156,900 and $160,900 before on-road costs, respectively. This compares to $142,300 before on-roads for the turbo-diesel GLE350d already in local showrooms, which like the PHEV is imported to Australia from the US. The 450e PHEV costs marginally more than the outgoing BMW X5 xDrive50e M Sport PHEV , which was priced at $153,600 plus ORCs. Prices for its replacement – the first PHEV variant the new-generation X5 due to arrive here in November – are yet to be announced. However, the Mercedes-Benz does undercut the Porsche Cayenne E-Hybrid (PHEV), which starts at $164,800 plus ORCs as an SUV and $171,400 plus ORCs in Coupe form. PHEV sales in Australia have",
+  "author": "Damion Smy",
+  "published": "2026-10-14T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "bmw-x5-50e",
+   "porsche-cayenne-eh"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "bmw",
+   "porsche"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "7d0f7f045138d1fa",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcHZDWG5wT1RtRTl1NW1JODBKWFBiMUFRN0xYR0tVdTdFamlSVDhBcFBPU0JfcHJHa3pTaXp6S0hHQzVkWng2TzlKQnhGVW9Zb2lTb2tybF9xcmFFalN6MTVZZUoycEdxUTQzQQ?oc=5",
+  "title": "2026 Zeekr 7X owner review - Drive",
+  "text": "2026 Zeekr 7X owner review Drive",
+  "author": "",
+  "published": "2026-10-14T21:04:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "d1f285d82c38ea9b",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/the-im5-offers-serious-value-for-money",
+  "title": "The IM5 offers serious value for money",
+  "text": "SPONSORED There's a lot we want when we're looking for a new car purchase, and there are more offers available than ever now. We want something that looks good pulling up to your destination, feels comfortable on the way to work, and has enough room for everything we need. Add wanting a bit of excitement behind the wheel, and the wish list starts getting longer. Getting all of that for your money? Well, this may be the conversation you have been looking for. The IM5 by IM Motors is an electric sedan that brings together technology, performance, luxury and practicality. If you’re looking at a Tesla Model 3 or BYD Seal, this is another one to put on your list. And with acceleration that IM compares to a Porsche Taycan, at a fraction of the price, there is quite a bit to talk about before you’ve even opened the door. IM stands for ‘Intelligence in Motion’. Positioned as the premium/luxury arm of MG Motor, IM Motors is a joint venture between SAIC Motor, Alibaba Group and Zhangjiang Hi-Tech. Its focus is on leading-edge technology and luxury, with Premium, Platinum and Performance variants making up the IM5 range. The Performance So, what does ‘Performance’ actually mean in the IM5? In",
+  "author": "Elle Baillieu",
+  "published": "2026-10-14T20:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3",
+   "byd-seal",
+   "im5"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "im",
+   "porsche"
+  ],
+  "categories": [
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "e876a60e05311ee2",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2lVWHhLTFI1Y0U5YjQySTNKREVubHpZSXFPX295OW5QZWNEN2psUGtCSUlsZHVYTVVZZmYwSElLWFRkaENBS090WUt5TnYxcDgwY2NNZXp5Q1psR0JQLV91RDFldjVEcG1sT3JoWHlBQVE2dlhiNGMwbHhob2FxeWIzMkRDZXBBOUNXbk8tSFFmWjFVRk1KUnFUZGpZSzBMemJkbjVTazZCVDB3MzJFQ1RHcGZIWlFQQV9tMXVqOA?oc=5",
+  "title": "2026 Tesla Model Y, BYD Sealion 7, Geely EX5, Zeekr 7X lead the electric car charge and Toyota was always going to be number 1 | Analysis - CarsGuide",
+  "text": "2026 Tesla Model Y, BYD Sealion 7, Geely EX5, Zeekr 7X lead the electric car charge and Toyota was always going to be number 1 | Analysis CarsGuide",
+  "author": "",
+  "published": "2026-10-14T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "toyota",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "336faeaa646cb73a",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -58,6 +332,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
+  "id": "e0ef91f9ec5b5e79",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
+  "title": "Hyundai Elexio price, range and specs - EV Central",
+  "text": "Hyundai Elexio price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-14T10:27:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
   "id": "806e811b0ad93a51",
@@ -458,7 +767,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -485,7 +794,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
@@ -1925,6 +2234,41 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
+  "id": "ca6819fe95ffefd8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
+  "title": "Hyundai IONIQ 5 price, range and specs - EV Central",
+  "text": "Hyundai IONIQ 5 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-ioniq5"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "404f8ecafa96e61b",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -2099,6 +2443,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T05:17:23+00:00"
+ },
+ {
+  "id": "29a49372300006b4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · eletric-vehicles.com",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0RqNHQ2U3M2S1R4UXFPSVhtSkw4OV93LUwzNDhNMjZxTHN1NjFxbG9RRGhSQkE1WDFMU0p0RGQteGZXOWpkN092dFVDOWRhSnpjZXVhR2Y3R1ctOG5jRkNPVnlUckVwRUNnN1hHQ3B6WXNxQW5MajBoVVdSTXUwdkprdDI5OFhGMHFqLXpFeS1Ma0lNRjU4d05LbGQ?oc=5",
+  "title": "Zeekr 9X Debuts at the 2026 Paris Motor Show - eletric-vehicles.com",
+  "text": "Zeekr 9X Debuts at the 2026 Paris Motor Show eletric-vehicles.com",
+  "author": "",
+  "published": "2026-10-13T06:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
   "id": "54fc71bc4c6ac577",
@@ -4125,7 +4502,7 @@
  {
   "id": "66bc4468e3ee1055",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarSauce",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb09JTndPT2xHbXZUT2w5eWJjUDlaVHdxZ3ZmUHgzRkh2UWFjYW4weUI0d3JTS1l5SjY4bXNfb3dDdzJoQ2xtWm16U2FXVS1KZGVNbE9ta3FQSnkzcnNRSk1McVdhLXZ1MlUxbl9mcXFTVkdQY2xTTGJwV1I0VE5tY1JuSWFBUEtBUHZCdjMydU9IWTc1bTIyMg?oc=5",
   "title": "Avatr Wants to Outclass Zeekr in Australia: “I Would Like to Think So” - CarSauce",
@@ -4148,7 +4525,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -4156,7 +4533,7 @@
  {
   "id": "7e6a8d489c06150e",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarSauce",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUdlMVREd2RoYk1yQ0xVQTNEWWlFTVhfWkFPZ2NERUlFSE9odFdocTJ1ZjFmaktuaS1QLUxhLVBDdXlGNjB4MlFwRTlPOXNia2QwcHFlUG5FUmM4Tk5nVFNWRld5QXI0QWViaThWMFJvUk00d3hRVlVpcEFfdmtPaUEyU1RyTXpyVEJF?oc=5",
   "title": "Avatr 06T: Zeekr 7GT Rival Confirmed for Australia in 2027 - CarSauce",
@@ -4183,7 +4560,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"

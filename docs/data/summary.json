@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-14T19:38:28+00:00",
- "duration_s": 138.5,
- "items_total": 588,
- "new_this_run": 199,
+ "generated": "2026-10-14T23:07:25+00:00",
+ "duration_s": 139.3,
+ "items_total": 598,
+ "new_this_run": 205,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 8,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 4,
-  "competitor_news_7d": 85,
-  "launch_signals_7d": 20,
-  "offer_signals_7d": 1,
-  "zeekr_news_7d": 50,
+  "competitor_news_7d": 90,
+  "launch_signals_7d": 24,
+  "offer_signals_7d": 3,
+  "zeekr_news_7d": 53,
   "offer_page_changes_7d": 2
  },
  "series_30d": [
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 38,
-   "zeekr_news": 15
+   "competitor_news": 39,
+   "zeekr_news": 16
   },
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 6,
-   "zeekr_news": 10
+   "competitor_news": 12,
+   "zeekr_news": 12
   }
  ],
  "categories_30d": [
@@ -351,10 +351,10 @@
    "latest": null
   },
   "hyundai-elexio": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [],
    "offer": [],
-   "latest": "1fcb9074dd9fe52c"
+   "latest": "e0ef91f9ec5b5e79"
   },
   "smart-5": {
    "n_30d": 0,
@@ -391,18 +391,20 @@
    "latest": "a27bf89cf6f37c43"
   },
   "hyundai-ioniq5": {
-   "n_30d": 0,
-   "launch": [],
-   "offer": [],
-   "latest": null
-  },
-  "deepal-s07": {
    "n_30d": 1,
    "launch": [],
+   "offer": [],
+   "latest": "ca6819fe95ffefd8"
+  },
+  "deepal-s07": {
+   "n_30d": 2,
+   "launch": [
+    "beacea688be7f8ba"
+   ],
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "5d83041fcade7ace"
+   "latest": "beacea688be7f8ba"
   },
   "bmw-ix1": {
    "n_30d": 0,
@@ -451,12 +453,12 @@
    "latest": "06fa47391abc61ff"
   },
   "tesla-model-3": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [],
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "e122856f7ec6d4e8"
+   "latest": "d1f285d82c38ea9b"
   },
   "polestar-2": {
    "n_30d": 0,
@@ -465,18 +467,18 @@
    "latest": null
   },
   "byd-seal": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [],
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "a0bad462fa5ad448"
+   "latest": "d1f285d82c38ea9b"
   },
   "im5": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [],
    "offer": [],
-   "latest": "f9fe756ee928946b"
+   "latest": "d1f285d82c38ea9b"
   },
   "kia-ev4": {
    "n_30d": 1,
@@ -602,16 +604,25 @@
    "latest": null
   },
   "bmw-x5-50e": {
-   "n_30d": 0,
-   "launch": [],
-   "offer": [],
-   "latest": null
+   "n_30d": 1,
+   "launch": [
+    "0cad556c45557e97"
+   ],
+   "offer": [
+    "0cad556c45557e97"
+   ],
+   "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 1,
-   "launch": [],
-   "offer": [],
-   "latest": "fc834a9b2d10e951"
+   "n_30d": 3,
+   "launch": [
+    "d48e5a49e00d8770",
+    "fdc4d0d3e836ccf5"
+   ],
+   "offer": [
+    "d48e5a49e00d8770"
+   ],
+   "latest": "d48e5a49e00d8770"
   },
   "lexus-rx450h": {
    "n_30d": 0,
@@ -708,10 +719,14 @@
    "latest": null
   },
   "porsche-cayenne-eh": {
-   "n_30d": 0,
-   "launch": [],
-   "offer": [],
-   "latest": null
+   "n_30d": 1,
+   "launch": [
+    "0cad556c45557e97"
+   ],
+   "offer": [
+    "0cad556c45557e97"
+   ],
+   "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
    "n_30d": 2,
@@ -758,6 +773,47 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "beacea688be7f8ba",
+   "title": "Deepal teases S05, S07 updates for Australia – and they may include extended-range options",
+   "source": "CarExpert",
+   "t": "2026-10-14T22:36:00+00:00",
+   "competitors": [
+    "deepal-s07"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "d48e5a49e00d8770",
+   "title": "Mercedes-Benz GLE 2027: debut PHEV power launches local for German SUV and Coupe twins",
+   "source": "Chasing Cars",
+   "t": "2026-10-14T22:15:33+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "fdc4d0d3e836ccf5",
+   "title": "Mercedes-Benz GLE 450 e priced for Australia - Carsales",
+   "source": "Google News · Carsales",
+   "t": "2026-10-14T22:00:52+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "0cad556c45557e97",
+   "title": "2027 Mercedes-Benz GLE450e PHEV priced for Australia",
+   "source": "CarExpert",
+   "t": "2026-10-14T22:00:00+00:00",
+   "competitors": [
+    "bmw-x5-50e",
+    "porsche-cayenne-eh"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "bd09876b341075d3",
@@ -935,26 +991,6 @@
     "tesla-model-y",
     "xpeng-g6"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "157903045605fdfb",
-   "title": "Avatr 06T: Sleek EV wagon confirmed for Australia in 2027",
-   "source": "CarExpert",
-   "t": "2026-10-11T22:00:00+00:00",
-   "competitors": [
-    "avatr"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "42ac9b11351bb021",
-   "title": "AVATR reveals extravagant T09 six-seater luxury SUV for Australia for 2028",
-   "source": "Chasing Cars (Zeekr)",
-   "t": "2026-10-11T21:56:26+00:00",
-   "competitors": [
-    "avatr"
-   ]
   }
  ],
  "source_status": {
@@ -965,7 +1001,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 29,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1000,17 +1036,17 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 15,
+   "count": 16,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 59,
+   "count": 56,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 35,
+   "count": 42,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1190,8 +1226,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
-   "note": "unchanged"
+   "count": 31,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
