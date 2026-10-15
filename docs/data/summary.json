@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T12:49:04+00:00",
- "duration_s": 161.6,
- "items_total": 647,
- "new_this_run": 215,
+ "generated": "2026-10-15T17:43:16+00:00",
+ "duration_s": 213.4,
+ "items_total": 655,
+ "new_this_run": 219,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 9,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 98,
+  "competitor_news_7d": 100,
   "launch_signals_7d": 26,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 58,
+  "zeekr_news_7d": 61,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -159,7 +159,7 @@
    "date": "2026-10-09",
    "complaints": 1,
    "competitor_news": 4,
-   "zeekr_news": 4
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-10",
@@ -182,20 +182,20 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 40,
-   "zeekr_news": 16
+   "competitor_news": 42,
+   "zeekr_news": 17
   },
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 16,
+   "competitor_news": 15,
    "zeekr_news": 15
   },
   {
    "date": "2026-10-15",
    "complaints": 2,
-   "competitor_news": 4,
-   "zeekr_news": 4
+   "competitor_news": 6,
+   "zeekr_news": 7
   }
  ],
  "categories_30d": [
@@ -372,7 +372,7 @@
    "latest": "3e3f285c9229d77a"
   },
   "polestar-4": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "0c648b1890f77652",
     "b5320554ddc5f545",
@@ -772,14 +772,14 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 3,
+   "n_30d": 5,
    "launch": [
     "bd09876b341075d3",
     "157903045605fdfb",
     "42ac9b11351bb021"
    ],
    "offer": [],
-   "latest": "bd09876b341075d3"
+   "latest": "97445fc112bd556e"
   }
  },
  "alerts": [
@@ -1001,16 +1001,6 @@
     "xpeng-x9",
     "byd-m9"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "29457fe8e0433a02",
-   "title": "Australian availability of XPeng G9L confirmed after Paris Motor Show debut - www.goauto.com.au",
-   "source": "Google News · www.goauto.com.au",
-   "t": "2026-10-12T13:00:00+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
   }
  ],
  "source_status": {
@@ -1021,7 +1011,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 25,
+   "count": 24,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1051,7 +1041,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 25,
+   "count": 24,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1061,17 +1051,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 56,
+   "count": 57,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 43,
+   "count": 44,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 73,
+   "count": 74,
    "note": ""
   },
   "carexpert": {
@@ -1141,7 +1131,7 @@
   },
   "reddit-ZeekrX": {
    "ok": true,
-   "count": 19,
+   "count": 20,
    "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
@@ -1155,24 +1145,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1246,7 +1236,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
+   "count": 19,
    "note": "changed"
   },
   "offers-mazda": {
