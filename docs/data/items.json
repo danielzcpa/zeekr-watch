@@ -1,5 +1,125 @@
 [
  {
+  "id": "23e3fe5fb998d81a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Malaysian Reserve",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObF9fREh1b0Z0SWVzMTRGcXVuN2pfeFdYdEpxUzBYQXVhTGZuelNtaEFlbWlwQWNITTZPbkVKSjZRcTV3X3V0RV9qQlVkMUIxcnVkcjZlTlhPZEJlSWpBT2JxQmRWMGFZdk55UmRtZlJRT2ZadWRxSXBMbkp3clJoZmtrX0xSV3dSaXNPUXA2VFl2OGlRSVB5SHJSSQ?oc=5",
+  "title": "EON opens Zeekr pop-up store at AEON Mall Shah Alam - The Malaysian Reserve",
+  "text": "EON opens Zeekr pop-up store at AEON Mall Shah Alam The Malaysian Reserve",
+  "author": "",
+  "published": "2026-10-15T12:23:58+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "a5d40610c38885fc",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6i2j7/side_mirrors_not_saving/",
+  "title": "Side mirrors not saving…",
+  "text": "Is anyone noticing that their mirror positions are not saving? I’ve tried save and save as but it always doesn’t save the next time I get back in and drive.",
+  "author": "/u/Intelligent-Ship808",
+  "published": "2026-10-15T10:26:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "d52145ebead006d8",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlR5em1tU3AydVFRVmp5TEhMaVgtcHFQUWQ4NlZjOFBkUmxXWkhpNGFpQ0ZBVzktTU9ZQmN5ejhvdUk0VG5lQXdzRmEtZF90cEh4cVBuV1dodS1TZzlHT29PVVJrNFNjVUFBMXBIdm96Vkw1SmJDblBJeGFBTmUtU1daSS1zdlFwUXpsYlVKRUIwbTZEN09Qd040N3ZuQQ?oc=5",
+  "title": "Big brand is plugging in to fight off Zeekr - St George & Sutherland Shire Leader",
+  "text": "Big brand is plugging in to fight off Zeekr St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-10-15T09:26:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "7cc9e51098a56ae1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84WGZwckpjbEU5WFkySVM4NU9WT1JIM2NQdDd0WUQ4VHNWbFpxUmo2WGVjN0stQkgwclVHV0tSM3FnZ0JPNE1VZWhhbzJTLXlrZFNRTUxWRlFueEFjNjdxMXVzTDVpM2tVbHBoaFJrSU5GSUxvWXB0elRtV1prZw?oc=5",
+  "title": "GAC Aion V 2026 review: Luxury long-term | Part 1 | Zeekr 7X rival tested - CarsGuide",
+  "text": "GAC Aion V 2026 review: Luxury long-term | Part 1 | Zeekr 7X rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-15T06:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "gac"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
   "id": "7d1b65e3b0ff5f5e",
   "type": "news_zeekr",
   "source": "carexpert",
@@ -277,6 +397,44 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "f4537ddeee79ee40",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5hRnJOUHRtaE5RRXJCYzU1cE16WlFzZGxLY2ZtRnBpOGs1ejd5SXM4SEJsMXkwcVA0N1JYM2tzV0xZZlpxbVNpdzI2N29NSDhUTVNOdE5oOVkwbDNxZURVZV9meWZ1dEF3eHhXS1BsTVNabGlpeEozUUV5SGdyNGNYUF9CMzduWE0wVG10US0zdUxMVElmMW9JWnZPd293MUFYanp4QmxLTHZIY3pRdGxYSGc5SG9fQ3Y4YW9CckN2Y1E?oc=5",
+  "title": "2026 Lepas L6 priced in Australia to rival BYD Atto 3 and Geely EX5 as new electric mid-size SUV gears up for official showroom arrival - CarsGuide",
+  "text": "2026 Lepas L6 priced in Australia to rival BYD Atto 3 and Geely EX5 as new electric mid-size SUV gears up for official showroom arrival CarsGuide",
+  "author": "",
+  "published": "2026-10-15T01:13:17+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
   "id": "37c34a9709de995f",
@@ -830,7 +988,7 @@
  {
   "id": "e0ef91f9ec5b5e79",
   "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
+  "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
   "title": "Hyundai Elexio price, range and specs - EV Central",
@@ -857,7 +1015,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
@@ -1228,6 +1386,39 @@
   "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
+  "id": "68cc3bffa9067d0a",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Chasing Cars",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlVud0ZyTjNCYTFvVGhCdmdxLVBMdnRjWWdnMGpwcXNvTnowU0ljeFhITlhWcTlqX3htYkhhbURpdUhnbFNwR1NRTHBaRVdscXJpR0hzOV9sMDdrWWlUMzhtWTlzMWhsUE9fRlBRWkpFbk5JSFB0MF9hdjdKZzI1Y29pWXZKaHdrZWVMY295eDZVenBrdTliVEpjZzNLOGhqdkUyVV9ON0RXRVkwSWpfYTVQQTAzc0VCLTJXQlBBSERjMUR1aXgySjVWeGVfekJGVG1IaEZKNU01dw?oc=5",
+  "title": "Revamped Mercedes-Benz GLE and GLS SUVs bring more power, new styling and AI-enhanced features - Chasing Cars",
+  "text": "Revamped Mercedes-Benz GLE and GLS SUVs bring more power, new styling and AI-enhanced features Chasing Cars",
+  "author": "",
+  "published": "2026-10-14T05:20:40+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
   "id": "56cbd11b2a810c7b",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -1332,7 +1523,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -1359,7 +1550,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
@@ -2460,41 +2651,6 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
-  "id": "86b5677c0d46a8a6",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybzAtcUcxanIwSXVkd0hxd3M3UDQ2VVdHc0hIZ3pfYzB2cDY0c3RTZ3UwdkdhZ1N5cFRKZ1dEZ2ltbF9CdGp6VzRTQ0E3dEE?oc=5",
-  "title": "Kia EV4 price, range and specs - EV Central",
-  "text": "Kia EV4 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T11:10:20+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "kia-ev4"
-  ],
-  "brands": [
-   "kia"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
   "id": "2b5f69a28740425a",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -2761,6 +2917,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "86b5677c0d46a8a6",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybzAtcUcxanIwSXVkd0hxd3M3UDQ2VVdHc0hIZ3pfYzB2cDY0c3RTZ3UwdkdhZ1N5cFRKZ1dEZ2ltbF9CdGp6VzRTQ0E3dEE?oc=5",
+  "title": "Kia EV4 price, range and specs - EV Central",
+  "text": "Kia EV4 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev4"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "66d89eaf334c1bb2",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -2864,6 +3055,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "e56ee2a603252f5b",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEbndpVldWUWhtdzNsTURPYUM1WTBmTFpmMWhQZXduRlRlUW9JM3JFa3JBNnlmamlaNjRhQWMxZnhLVE9saERJMUZVVDVWc3M?oc=5",
+  "title": "Kia EV3 price, range and specs - EV Central",
+  "text": "Kia EV3 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
   "id": "404f8ecafa96e61b",
@@ -3978,6 +4204,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "851fd88980e959a8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MV1MyeDdQTk4tbGsxWFljVkRmZ01zaXVUaE9zM3lfWDJNQUd3NVhLY0FRZGQyd1FRTk9DRF9MV3htQTlBbjJ3MTZFLUpJWEVTeXFNRmpvMA?oc=5",
+  "title": "BYD Sealion 7 price, range and specs - EV Central",
+  "text": "BYD Sealion 7 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-12T21:42:31+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
   "id": "7dc489637c6e80ae",
@@ -10034,6 +10295,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "ad827dd750d7969e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
+  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
+  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
+  "author": "",
+  "published": "2026-09-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "a4234614453c5a26",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -10415,39 +10709,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": false,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "ad827dd750d7969e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
-  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
-  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
-  "author": "",
-  "published": "2026-09-23T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -22146,7 +22407,7 @@
   "title": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely - OzBargain",
   "text": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely OzBargain",
   "author": "",
-  "published": "2026-04-30T21:36:39+00:00",
+  "published": "2026-05-01T06:06:17+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],

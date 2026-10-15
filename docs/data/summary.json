@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-15T07:17:47+00:00",
- "duration_s": 123.2,
- "items_total": 639,
- "new_this_run": 214,
+ "generated": "2026-10-15T12:49:04+00:00",
+ "duration_s": 161.6,
+ "items_total": 647,
+ "new_this_run": 215,
  "counts": {
-  "complaints_24h": 3,
+  "complaints_24h": 2,
   "complaints_7d": 9,
-  "complaints_30d": 43,
+  "complaints_30d": 42,
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 94,
-  "launch_signals_7d": 25,
+  "competitor_news_7d": 98,
+  "launch_signals_7d": 26,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 56,
+  "zeekr_news_7d": 58,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -63,13 +63,13 @@
    "date": "2026-09-23",
    "complaints": 2,
    "competitor_news": 1,
-   "zeekr_news": 3
+   "zeekr_news": 2
   },
   {
    "date": "2026-09-24",
    "complaints": 0,
    "competitor_news": 0,
-   "zeekr_news": 2
+   "zeekr_news": 3
   },
   {
    "date": "2026-09-25",
@@ -176,26 +176,26 @@
   {
    "date": "2026-10-12",
    "complaints": 1,
-   "competitor_news": 17,
+   "competitor_news": 18,
    "zeekr_news": 10
   },
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 39,
+   "competitor_news": 40,
    "zeekr_news": 16
   },
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 15,
+   "competitor_news": 16,
    "zeekr_news": 15
   },
   {
    "date": "2026-10-15",
    "complaints": 2,
-   "competitor_news": 3,
-   "zeekr_news": 1
+   "competitor_news": 4,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 31
+   "n": 30
   },
   {
    "key": "service",
@@ -256,7 +256,7 @@
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 15,
-  "Google Play (AU)": 14,
+  "Google Play (AU)": 13,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
@@ -295,10 +295,10 @@
    "latest": null
   },
   "kia-ev3": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "e56ee2a603252f5b"
   },
   "hyundai-kona-ev": {
    "n_30d": 0,
@@ -342,7 +342,7 @@
    "latest": "5ed70c4b9f6db41c"
   },
   "byd-sealion7": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [],
    "offer": [
     "5d83041fcade7ace"
@@ -450,15 +450,16 @@
    "latest": "70f2d9868dbafa57"
   },
   "geely-ex5": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "f4537ddeee79ee40",
     "37c34a9709de995f",
     "a733988169d48563"
    ],
    "offer": [
     "37c34a9709de995f"
    ],
-   "latest": "37c34a9709de995f"
+   "latest": "f4537ddeee79ee40"
   },
   "tesla-model-3": {
    "n_30d": 5,
@@ -622,7 +623,7 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
     "beea26123443c4b8",
     "d48e5a49e00d8770",
@@ -788,6 +789,16 @@
    "title": "Hyundai 官网政策页面变化（+1 / −0 行）",
    "source": "https://www.hyundai.com/au/en/offers",
    "t": "2026-10-15T07:19:48+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "f4537ddeee79ee40",
+   "title": "2026 Lepas L6 priced in Australia to rival BYD Atto 3 and Geely EX5 as new electric mid-size SUV gears up for official showroom arrival - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-10-15T01:13:17+00:00",
+   "competitors": [
+    "geely-ex5"
+   ]
   },
   {
    "kind": "competitor_launch",
@@ -1010,7 +1021,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 26,
+   "count": 25,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1040,7 +1051,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 50,
+   "count": 25,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1050,17 +1061,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 60,
+   "count": 56,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 38,
+   "count": 43,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 58,
+   "count": 73,
    "note": ""
   },
   "carexpert": {
@@ -1119,9 +1130,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1129,9 +1140,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 19,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1141,12 +1152,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1235,8 +1246,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
-   "note": "unchanged"
+   "count": 31,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
@@ -1259,14 +1270,14 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Read timed out. (read timeout=20)"
   },
   "offers-hyundai": {
    "ok": true,
    "count": 9,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,
