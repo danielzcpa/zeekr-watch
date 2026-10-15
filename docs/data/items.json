@@ -1,40 +1,5 @@
 [
  {
-  "id": "d49dff58d88e69a3",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzRaR1FWVWl6ekhITzJVcjhyY3ZkYzZwRFcxckpkZWhTaVE2OVhVQTMzZzdna1M3VXFIMWlnNlJPNU4yeU5qblRBRGRSa19pVDduLWRDZUxSaDZ3YUduSTJ5WEJLUkJ1TTJPVzloYUUtam1fZW04WHBoc0R3MzNEWGxoXzUtMVJNRmp3c2loSzV4UW5kRzdFdklSV19tOFVTa21IV1F4eUVITGkzbUNJdmxIS0h1ZFhjM0IzWnhTNWlyRzlkQVlwSlFBcTZzUEExYUE?oc=5",
-  "title": "New Lepas L6 electric SUV priced for Australia: Chery's latest brand takes on BYD, Geely and Leapmotor from $47,990 - EV Central",
-  "text": "New Lepas L6 electric SUV priced for Australia: Chery's latest brand takes on BYD, Geely and Leapmotor from $47,990 EV Central",
-  "author": "",
-  "published": "2026-10-15T20:51:30+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd",
-   "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "price"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T21:16:00+00:00"
- },
- {
   "id": "f15127d01af21be4",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -97,6 +62,47 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-15T21:16:00+00:00"
+ },
+ {
+  "id": "7af85f94ad85675b",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/new-lepas-l6-electric-suv-priced-for-australia-cherys-latest-brand-takes-on-byd-geely-and-leapmotor-from-47990/",
+  "title": "New Lepas L6 electric SUV priced for Australia: Chery’s latest brand takes on BYD, Geely and Leapmotor from $47,990",
+  "text": "Chery Group’s newest brand has announced Australian pricing for its first model, the Lepas L6 battery-electric SUV, which will arrive in dealerships for test drives in early November. Priced from $47,990 before on-road costs, the L6 enters an increasingly crowded electric SUV market where established brands and other Chinese newcomers are competing aggressively on price, equipment and driving range. The L6 is the first Australian offering from Lepas, another Chery Group brand joining Chery itself, Omoda Jaecoo, iCaur, Freelander and Jetour in the company’s expanding local portfolio. The five-seat electric SUV is underpinned by Chery Group’s LEXP platform and uses a 65kWh lithium iron phosphate (LFP) battery, delivering a claimed 440km driving range under the WLTP testing standard. Its single electric motor produces 160kW and 275Nm, while DC fast charging from 30 to 80 per cent is claimed to take 22 minutes using a 120kW charger. Lepas has not yet announced an official 0-100km/h acceleration time or energy consumption figure. Standard equipment includes 19-inch alloy wheels, a panoramic sunroof, acoustic front-door glass, a 13.2-inch infotainment touchscreen, an 8.88-inch digital in",
+  "author": "EV Central team",
+  "published": "2026-10-15T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T23:46:59+00:00"
  },
  {
   "id": "1e3ed6b58f5c4099",
@@ -2356,7 +2362,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/450kw-bmw-ix3-m60-confirmed-for-australia-luxury-electric-suv-range-gains-performance-flagship/",
   "title": "450kW BMW iX3 M60 confirmed for Australia: Luxury electric SUV range gains performance flagship",
-  "text": "BMW has revealed the iX3 M60 xDrive, a new electric performance flagship that will top its Australian iX3 line-up when local orders open in 2027. Announced on the same day as the related iX4 M60 xDrive coupe-style SUV, the most powerful iX3 yet combines dual-motor all-wheel drive with claimed outputs of 450kW and 875Nm. BMW claims a 0-100km/h sprint of 3.9 seconds and a driving range of up to 754km on the WLTP test cycle, although the figures remain provisional. READ MORE: BMW iX4 revealed: Neue Klasse electric coupe SUV confirmed for Australia from $103,900 with up to 828km range READ MORE: BMW’s fuel cell iX5 aims for 750km range, sub-five-second 0-100km/h and sub-five-minute refuelling READ MORE: 2026 BMW iX3 50 xDrive Review: Our first Australian test proves the hype is real! The all-new iX3 EV is a great drive with a huge real-world range. BMW Australia lists both M60 models as available to order in 2027, but has not announced local pricing or delivery dates. The iX3 M60 will sit above the rear-wheel drive iX3 40, priced at $89,900 before on-road costs, and the $109,900 dual-motor iX3 50 xDrive in the Australian range. 2027 BMW iX3 M60 xDrive. The iX3 M60 will compete with per",
+  "text": "BMW has revealed the iX3 M60 xDrive, a new electric performance flagship that will top its Australian iX3 line-up when local orders open in 2027. Announced on the same day as the related iX4 M60 xDrive coupe-style SUV, the most powerful iX3 yet combines dual-motor all-wheel drive with claimed outputs of 450kW and 875Nm. BMW claims a 0-100km/h sprint of 3.9 seconds and a driving range of up to 754km on the WLTP test cycle, although the figures remain provisional. Buyer’s guide Shopping at the premium end? We’ve ranked every luxury EV on sale in Australia – what they cost drive-away, how far they really go, and which ones are actually worth the badge. Best luxury EVs in Australia → READ MORE: BMW iX4 revealed: Neue Klasse electric coupe SUV confirmed for Australia from $103,900 with up to 828km range READ MORE: BMW’s fuel cell iX5 aims for 750km range, sub-five-second 0-100km/h and sub-five-minute refuelling READ MORE: 2026 BMW iX3 50 xDrive Review: Our first Australian test proves the hype is real! The all-new iX3 EV is a great drive with a huge real-world range. BMW Australia lists both M60 models as available to order in 2027, but has not announced local pricing or delivery dates.",
   "author": "EV Central team",
   "published": "2026-10-13T21:00:00+00:00",
   "rating": null,
@@ -2373,13 +2379,14 @@
   ],
   "sentiment": {
    "score": 1,
-   "neg_hits": 0,
-   "pos_hits": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
    "label": "positive"
   },
   "severity": null,
   "signals": [
    "launch",
+   "offer",
    "price"
   ],
   "scope": "industry",
@@ -6878,6 +6885,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "b6ecc2f7af2ae6e0",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRUYmJiWEc5OTVUcFNieGhsZkJjT0pmU19mSXJiYnNzYjBVSGVGUEt0S3hxQW16YWtKdmJINlI2UXh0OW9jdVI4MXdZTGpVUmlqcUd1LWZMb3NpN01ndTRnSlE3RDgybnotTVBSUVFXNlpfSUI3THdHbldHS0pFUDFMRjJvbHJWaGQ2WFIxRnRqMHo0NE8wT1lQVjdyZWxKOWdBUkVQN2FtakhQS2k3N19naTFLOXpWYXZjMGpGMXpoMmdyX2M0?oc=5",
+  "title": "Toyota preparing massive new car onslaught, with increased supply of 2026 Toyota RAV4, HiLux, LandCruiser and bZ4X - CarsGuide",
+  "text": "Toyota preparing massive new car onslaught, with increased supply of 2026 Toyota RAV4, HiLux, LandCruiser and bZ4X CarsGuide",
+  "author": "",
+  "published": "2026-10-09T05:21:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T23:46:59+00:00"
+ },
+ {
   "id": "5edf91e781e1dab3",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -6915,7 +6957,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/bmw-ix4-revealed-neue-klasse-electric-coupe-suv-confirmed-for-australia-from-103900-with-up-to-828km-range/",
   "title": "BMW iX4 revealed: Neue Klasse electric coupe SUV confirmed for Australia from $103,900 with up to 828km range",
-  "text": "BMW’s first iX4 electric coupe SUV will arrive in Australia in the first quarter of 2027, bringing up to 828km of claimed driving range and a starting price of $103,900 before on-road costs. Two dual-motor all-wheel-drive variants will be offered initially: the iX4 40 xDrive at $103,900 and the iX4 50 xDrive at $119,900. An M60 xDrive performance flagship will join the Australian line-up later in 2027. BMW’s global press kit lists provisional outputs of 450kW and 875Nm, a 3.9-second 0-100km/h sprint and up to 777km of WLTP range from a 108.7kWh usable battery. Australian pricing has not been announced. READ MORE: New BMW X5 revealed: The fifth-generation luxury SUV will include an iX5 EV for the first time READ MORE: BMW M3 EV revealed! Stunning wide-hipped concept previews 750kW production Neue Klasse electric weapon READ MORE: The iconic BMW 3 Series goes electric! Meet the 2027 Neue Klasse BMW i3 xDrive 50 The electric iX4 slots into similar price territory to the petrol-powered X4. Against the 2025 X4 list prices, the $103,900 iX4 40 xDrive is $6200 dearer than the X4 xDrive20i M Sport but $4500 cheaper than the xDrive30i M Sport. The $119,900 iX4 50 xDrive also undercuts the p",
+  "text": "BMW’s first iX4 electric coupe SUV will arrive in Australia in the first quarter of 2027, bringing up to 828km of claimed driving range and a starting price of $103,900 before on-road costs. Two dual-motor all-wheel-drive variants will be offered initially: the iX4 40 xDrive at $103,900 and the iX4 50 xDrive at $119,900. An M60 xDrive performance flagship will join the Australian line-up later in 2027. BMW’s global press kit lists provisional outputs of 450kW and 875Nm, a 3.9-second 0-100km/h sprint and up to 777km of WLTP range from a 108.7kWh usable battery. Australian pricing has not been announced. Buyer’s guide Shopping at the premium end? We’ve ranked every luxury EV on sale in Australia – what they cost drive-away, how far they really go, and which ones are actually worth the badge. Best luxury EVs in Australia → READ MORE: New BMW X5 revealed: The fifth-generation luxury SUV will include an iX5 EV for the first time READ MORE: BMW M3 EV revealed! Stunning wide-hipped concept previews 750kW production Neue Klasse electric weapon READ MORE: The iconic BMW 3 Series goes electric! Meet the 2027 Neue Klasse BMW i3 xDrive 50 The electric iX4 slots into similar price territory to",
   "author": "EV Central team",
   "published": "2026-10-09T03:00:00+00:00",
   "rating": null,
@@ -6932,14 +6974,14 @@
   ],
   "sentiment": {
    "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
    "label": "neutral"
   },
   "severity": null,
   "signals": [
    "launch",
-   "price_cut",
+   "offer",
    "price"
   ],
   "scope": "industry",
@@ -7053,7 +7095,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/lexus-tz-confirmed-for-australia-three-row-electric-suv-to-take-on-kia-ev9-and-volvo-ex90-in-2027/",
   "title": "Lexus TZ confirmed for Australia: Three-row electric SUV to take on Kia EV9 and Volvo EX90 in 2027",
-  "text": "Toyota-owned Japanese luxury brand Lexus has confirmed its new TZ three-row electric SUV will launch in Australia in 2027, adding a larger family model to its battery-electric line-up. The Australian commitment follows the earlier announcement of right-hand-drive production, which put the luxury SUV in contention for local sale but stopped short of confirming its arrival. The TZ will compete with the Kia EV9 Hyundai Ioniq 9 and Volvo EX90, although Australian pricing, specifications and a more precise launch date have yet to be announced. READ MORE: Just nine for Australia: Lexus RZ 600e performance flagship costs the same as original top-spec RZ READ MORE: New Lexus NX confirmed for Australia: Plug-in hybrid SUV gets bigger battery, 100km-plus EV range and DC fast charging READ MORE: New Lexus ES EV deep dive: World-first cabin tech, new operating system and safety technology that can call for help if its driver is incapacitated READ MORE: Three-row Lexus TZ EV looking good for Australia: Kia EV9 and Volvo EX90 fighter to be built in right-hand drive Local buyers will get an early opportunity to see the TZ at the 2026 Melbourne Cup Carnival, where it will be displayed alongside th",
+  "text": "Toyota-owned Japanese luxury brand Lexus has confirmed its new TZ three-row electric SUV will launch in Australia in 2027, adding a larger family model to its battery-electric line-up. The Australian commitment follows the earlier announcement of right-hand-drive production, which put the luxury SUV in contention for local sale but stopped short of confirming its arrival. The TZ will compete with the Kia EV9 Hyundai Ioniq 9 and Volvo EX90, although Australian pricing, specifications and a more precise launch date have yet to be announced. Buyer’s guide Shopping at the premium end? We’ve ranked every luxury EV on sale in Australia – what they cost drive-away, how far they really go, and which ones are actually worth the badge. Best luxury EVs in Australia → READ MORE: Just nine for Australia: Lexus RZ 600e performance flagship costs the same as original top-spec RZ READ MORE: New Lexus NX confirmed for Australia: Plug-in hybrid SUV gets bigger battery, 100km-plus EV range and DC fast charging READ MORE: New Lexus ES EV deep dive: World-first cabin tech, new operating system and safety technology that can call for help if its driver is incapacitated READ MORE: Three-row Lexus TZ EV l",
   "author": "EV Central team",
   "published": "2026-10-08T23:00:00+00:00",
   "rating": null,
@@ -7078,13 +7120,14 @@
   ],
   "sentiment": {
    "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
    "label": "neutral"
   },
   "severity": null,
   "signals": [
-   "launch"
+   "launch",
+   "offer"
   ],
   "scope": "industry",
   "au": true,
@@ -10655,39 +10698,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "ad827dd750d7969e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
-  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
-  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
-  "author": "",
-  "published": "2026-09-24T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "ed71a8b93eb31921",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -11044,6 +11054,39 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "ad827dd750d7969e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
+  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
+  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
+  "author": "",
+  "published": "2026-09-23T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
