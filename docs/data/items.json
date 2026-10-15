@@ -1,5 +1,104 @@
 [
  {
+  "id": "d49dff58d88e69a3",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzRaR1FWVWl6ekhITzJVcjhyY3ZkYzZwRFcxckpkZWhTaVE2OVhVQTMzZzdna1M3VXFIMWlnNlJPNU4yeU5qblRBRGRSa19pVDduLWRDZUxSaDZ3YUduSTJ5WEJLUkJ1TTJPVzloYUUtam1fZW04WHBoc0R3MzNEWGxoXzUtMVJNRmp3c2loSzV4UW5kRzdFdklSV19tOFVTa21IV1F4eUVITGkzbUNJdmxIS0h1ZFhjM0IzWnhTNWlyRzlkQVlwSlFBcTZzUEExYUE?oc=5",
+  "title": "New Lepas L6 electric SUV priced for Australia: Chery's latest brand takes on BYD, Geely and Leapmotor from $47,990 - EV Central",
+  "text": "New Lepas L6 electric SUV priced for Australia: Chery's latest brand takes on BYD, Geely and Leapmotor from $47,990 EV Central",
+  "author": "",
+  "published": "2026-10-15T20:51:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T21:16:00+00:00"
+ },
+ {
+  "id": "f15127d01af21be4",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6w7yl/zeekr_7x_owners_how_are_your_gloss_black_lower/",
+  "title": "Zeekr 7X owners: How are your gloss black lower trim pieces holding up?",
+  "text": "",
+  "author": "/u/itodacc",
+  "published": "2026-10-15T20:10:54+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T21:16:00+00:00"
+ },
+ {
+  "id": "7ccc91fc96cce24b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Vogue Scandinavia",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOel9KUE1RZFF5dmJkdThZQm53TTAwcEdVbVpmQVltUHdBdnFvVUZ6clRoUGgwZEdRcDBGbldoX2VIVzNDWDBMY3RwUEc1ZHJTaEMwUDNBQmtsa0VVYno1MHk0bWpvS1AtdHNSVk5vVmVoVWwtUGVTcEJna2hfLTNFQ2RHNTFyeGE0ZDlmZFUzN01fTnIzeWJYRA?oc=5",
+  "title": "Zeekr takes Stockholm by storm, unveiling the new 9X Ultra AWD - Vogue Scandinavia",
+  "text": "Zeekr takes Stockholm by storm, unveiling the new 9X Ultra AWD Vogue Scandinavia",
+  "author": "",
+  "published": "2026-10-15T17:47:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-15T21:16:00+00:00"
+ },
+ {
   "id": "1e3ed6b58f5c4099",
   "type": "post",
   "source": "reddit-ZeekrX",
@@ -44,7 +143,7 @@
   "title": "EON opens Zeekr pop-up store at AEON Mall Shah Alam - The Malaysian Reserve",
   "text": "EON opens Zeekr pop-up store at AEON Mall Shah Alam The Malaysian Reserve",
   "author": "",
-  "published": "2026-10-15T12:23:58+00:00",
+  "published": "2026-10-15T12:23:59+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -425,6 +524,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T17:43:16+00:00"
+ },
+ {
+  "id": "4183d9bf8e2ad2dc",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2xySXhSWndMZnBtT0NBa1pfMmlRc1F0cm5EV0VvWnlJS3dVWjVqcTlzUDBpOGhDeHFnU25mSjJ4NTFfdFQwdjZhdW1CMDFocnFFRk1vUXpPVTJBWHNJeW82SjJGRm1CZHdoUVliMXJIUG13TlNGNU9wOXd6LURjQmoxX2VEemdhRXhsQ3ZSQm9XNTdJNEFsM0szdGZaek1VNllkR0lFRTRwRjhIMDl6bWpMUVFEX3RpS29oa0NuSkVia21aOTNn?oc=5",
+  "title": "Shop Mercedes-Benz GLE-Class Cars - CarsGuide",
+  "text": "Shop Mercedes-Benz GLE-Class Cars CarsGuide",
+  "author": "",
+  "published": "2026-10-15T03:18:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T21:16:00+00:00"
  },
  {
   "id": "49cde9e63504d725",
@@ -10554,6 +10686,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "ed71a8b93eb31921",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTC1KTDlLTFRqN2RCRjJYUjIyX1RuM0JmN2UwclhRa2p1cEU0cWJFaXROY3pqamc4bF9tcmJVU2RGTE1SdkNkTWJQNW5xbHhzNmFIb0NpdUQ1eXpVNVFaRVJrVi04T2NXcy13Zi1ZV2lFT3NpTllURWhhenJrdG9GZV93MDJhUFk2a2RuVXI2RmhlYnptZ2ZUcnBqV3M2SER6VkI4amVUN2lxQU43MXllR3dFODFHTnJVVlV3eFhGQk1sSFFK?oc=5",
+  "title": "Seven best electric cars still due in 2026, including 2026 Zeekr 7GT, GAC Aion UT Standard Range, Kia PV5 Passenger and more - CarsGuide",
+  "text": "Seven best electric cars still due in 2026, including 2026 Zeekr 7GT, GAC Aion UT Standard Range, Kia PV5 Passenger and more CarsGuide",
+  "author": "",
+  "published": "2026-09-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "gac"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T21:16:00+00:00"
  },
  {
   "id": "a4234614453c5a26",

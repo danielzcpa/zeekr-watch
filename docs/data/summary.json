@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T17:43:16+00:00",
- "duration_s": 213.4,
- "items_total": 655,
- "new_this_run": 219,
+ "generated": "2026-10-15T21:16:00+00:00",
+ "duration_s": 166.0,
+ "items_total": 660,
+ "new_this_run": 200,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 9,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 100,
+  "competitor_news_7d": 102,
   "launch_signals_7d": 26,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 61,
+  "zeekr_news_7d": 62,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -69,7 +69,7 @@
    "date": "2026-09-24",
    "complaints": 0,
    "competitor_news": 0,
-   "zeekr_news": 3
+   "zeekr_news": 4
   },
   {
    "date": "2026-09-25",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-15",
    "complaints": 2,
-   "competitor_news": 6,
-   "zeekr_news": 7
+   "competitor_news": 8,
+   "zeekr_news": 8
   }
  ],
  "categories_30d": [
@@ -623,7 +623,7 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
     "beea26123443c4b8",
     "d48e5a49e00d8770",
@@ -632,7 +632,7 @@
    "offer": [
     "d48e5a49e00d8770"
    ],
-   "latest": "beea26123443c4b8"
+   "latest": "4183d9bf8e2ad2dc"
   },
   "lexus-rx450h": {
    "n_30d": 0,
@@ -1011,7 +1011,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 24,
+   "count": 23,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1041,7 +1041,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1051,7 +1051,7 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 57,
+   "count": 58,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1061,7 +1061,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 74,
+   "count": 76,
    "note": ""
   },
   "carexpert": {
@@ -1080,9 +1080,9 @@
    "note": ""
   },
   "evcentral": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='evcentral.com.au', port=443): Read timed out. (read timeout=25)"
   },
   "evcentral-zeekr": {
    "ok": false,
@@ -1130,39 +1130,39 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 20,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1237,7 +1237,7 @@
   "offers-mg": {
    "ok": true,
    "count": 19,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
@@ -1260,9 +1260,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Read timed out. (read timeout=20)"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
