@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-14T23:07:25+00:00",
- "duration_s": 139.3,
- "items_total": 598,
- "new_this_run": 205,
+ "generated": "2026-10-15T01:44:32+00:00",
+ "duration_s": 252.6,
+ "items_total": 627,
+ "new_this_run": 244,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 8,
-  "complaints_30d": 39,
+  "complaints_30d": 41,
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 4,
-  "competitor_news_7d": 90,
-  "launch_signals_7d": 24,
-  "offer_signals_7d": 3,
-  "zeekr_news_7d": 53,
+  "competitor_news_7d": 94,
+  "launch_signals_7d": 26,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 55,
   "offer_page_changes_7d": 2
  },
  "series_30d": [
-  {
-   "date": "2026-09-15",
-   "complaints": 1,
-   "competitor_news": 1,
-   "zeekr_news": 1
-  },
   {
    "date": "2026-09-16",
    "complaints": 1,
@@ -37,7 +31,7 @@
   },
   {
    "date": "2026-09-18",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 0,
    "zeekr_news": 2
   },
@@ -109,7 +103,7 @@
   },
   {
    "date": "2026-09-30",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 0,
    "zeekr_news": 2
   },
@@ -188,14 +182,20 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 39,
+   "competitor_news": 40,
    "zeekr_news": 16
   },
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 12,
-   "zeekr_news": 12
+   "competitor_news": 15,
+   "zeekr_news": 14
+  },
+  {
+   "date": "2026-10-15",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 29
+   "n": 30
   },
   {
    "key": "service",
@@ -227,7 +227,7 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 8
+   "n": 9
   },
   {
    "key": "sales",
@@ -245,12 +245,12 @@
    "key": "safety",
    "zh": "召回/安全",
    "en": "Recall / safety",
-   "n": 2
+   "n": 3
   }
  ],
  "models_30d": {
   "7GT": 4,
-  "7X": 14,
+  "7X": 15,
   "009": 1,
   "X": 1
  },
@@ -260,6 +260,7 @@
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
+  "Reddit r/AustralianEV": 2,
   "Reddit r/ZeekrAustraliaNZ": 1
  },
  "competitor_signals": {
@@ -306,10 +307,14 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 0,
-   "launch": [],
-   "offer": [],
-   "latest": null
+   "n_30d": 1,
+   "launch": [
+    "37c34a9709de995f"
+   ],
+   "offer": [
+    "37c34a9709de995f"
+   ],
+   "latest": "37c34a9709de995f"
   },
   "mb-eqa": {
    "n_30d": 0,
@@ -435,22 +440,25 @@
    "latest": null
   },
   "skoda-enyaq": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [
     "3e3f285c9229d77a"
    ],
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "3e3f285c9229d77a"
+   "latest": "70f2d9868dbafa57"
   },
   "geely-ex5": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
+    "37c34a9709de995f",
     "a733988169d48563"
    ],
-   "offer": [],
-   "latest": "06fa47391abc61ff"
+   "offer": [
+    "37c34a9709de995f"
+   ],
+   "latest": "37c34a9709de995f"
   },
   "tesla-model-3": {
    "n_30d": 5,
@@ -572,12 +580,12 @@
    "latest": null
   },
   "byd-m9": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
     "2c8e385c13663939"
    ],
    "offer": [],
-   "latest": "b9dded977d55b32a"
+   "latest": "09ab3573bdd21c6d"
   },
   "wey-g9": {
    "n_30d": 0,
@@ -614,15 +622,16 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "beea26123443c4b8",
     "d48e5a49e00d8770",
     "fdc4d0d3e836ccf5"
    ],
    "offer": [
     "d48e5a49e00d8770"
    ],
-   "latest": "d48e5a49e00d8770"
+   "latest": "beea26123443c4b8"
   },
   "lexus-rx450h": {
    "n_30d": 0,
@@ -773,6 +782,27 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "37c34a9709de995f",
+   "title": "Lepas L6: Chery’s new electric SUV priced from $47,990 in Australia",
+   "source": "CarExpert",
+   "t": "2026-10-15T01:02:00+00:00",
+   "competitors": [
+    "byd-atto3",
+    "geely-ex5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "beea26123443c4b8",
+   "title": "2027 Mercedes-Benz GLE 450 e price and specs: Australia gets six-cylinder plug-in hybrid power for the first time",
+   "source": "WhichCar",
+   "t": "2026-10-14T23:09:22+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "beacea688be7f8ba",
@@ -932,13 +962,6 @@
    ]
   },
   {
-   "kind": "complaint_high",
-   "id": "994b44db3ef57c68",
-   "title": "1★ · Again; a PATHETIC update! The car has been out for a year no",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-10-13T00:38:35+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "205ea3973e46d6d4",
    "title": "2027 Xpeng G9L detailed with 1200km range and luxurious three-row cabin",
@@ -1001,7 +1024,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 31,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1031,17 +1054,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 50,
+   "count": 53,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 16,
+   "count": 15,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 56,
+   "count": 53,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1051,7 +1074,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 61,
+   "count": 60,
    "note": ""
   },
   "carexpert": {
@@ -1080,14 +1103,14 @@
    "note": "HTTP 403"
   },
   "chasingcars": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 504"
   },
   "chasingcars-zeekr": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 504"
   },
   "whichcar": {
    "ok": true,
@@ -1115,14 +1138,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 19,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1135,24 +1158,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1226,7 +1249,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
+   "count": 19,
    "note": "changed"
   },
   "offers-mazda": {

@@ -1,5 +1,220 @@
 [
  {
+  "id": "37c34a9709de995f",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/lepas-l6-cherys-new-electric-suv-priced-from-dollar47990-in-australia",
+  "title": "Lepas L6: Chery’s new electric SUV priced from $47,990 in Australia",
+  "text": "Chinese brand Lepas has announced its first model in Australia, the five-seat Lepas L6 BEV Signature mid-size electric SUV, will cost $47,990 before on-road costs. Order books are now open ahead of first customer deliveries in November 2026, with the price including premium paint as part of an introductory offer, a saving of $800 – with Black a ‘pre-sale’ exclusive no-cost option. The L6 BEV Signature, the single model grade announced, includes ‘BEV’ (battery-electric vehicle) in its official name as a plug-in hybrid (PHEV) version, expected to cost less, is scheduled to arrive in Australian showrooms in 2027. Lepas, a brand of Chery, is pitched as a more upmarket brand and will be sold at both Chery dealers and standalone sites, and aims to have 40 open by the end of 2026. The two-row L6 is one of five model lines officially planned for Australia, with the smaller L4 BEV SUV planned to arrive in December 2026, as well as larger L8 and L9 SUVs in 2027 and 2028, and the L2 hatchback in 2028. The L6 BEV’s $47,990 before on-roads price is more than the similarly sized BYD Atto 3 Evo and Geely EX5 electric SUVs, which both start at $41,990 before on-road costs. Other electric SUVs arou",
+  "author": "Damion Smy",
+  "published": "2026-10-15T01:02:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "71794f28b435aa9d",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/lexus-lfa-electric-concept-australia-supercar",
+  "title": "All-electric Lexus LFA comes down under: How Aussies can get up close and personal with futuristic supercar",
+  "text": "The successor to Lexus's legendary V10-powered LFA supercar is heading to Australia and is set to make its local debut in Melbourne later this month. The post All-electric Lexus LFA comes down under: How Aussies can get up close and personal with futuristic supercar first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-14T23:57:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "8a6378274b4195f0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-14T23:46:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "3642f2da00da3236",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjZJN2haQ0FPU1VLcDVPc0xQTUV3MzVBb19xRThjOHBFamhHV0x6My1DckQyWF9pU0JUU1dMU0Z4dnVKeVVrZTJIWVdRTVZrSEszZzNzMjJLSmVnX0NSYjJNejNqZkFjOTNWUE5YQVdobk5INnA2dm56Z0hPaUpSOU5FQQ?oc=5",
+  "title": "How Does It Differ from the Domestic Version… Zeekr Deploys Performance-Boosted '7X Model Year Update' in Europe - 스타뉴스",
+  "text": "How Does It Differ from the Domestic Version… Zeekr Deploys Performance-Boosted '7X Model Year Update' in Europe 스타뉴스",
+  "author": "",
+  "published": "2026-10-14T23:40:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "e442c19a9cf3045f",
+  "type": "news_zeekr",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · caradvice.com.au",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3p1N09DQjVVV0NuSU80dEpiQzBXVXpBZ29hTmNTbklmZFRwTVU2ZVJZSG94ZGE5Q3dhLUtCbHQ2aGpNTFJMc21Obng5TlYxNmpRUDFXbE9wR0VpZXdkOWJjY3k4ZVcxNnBWb25pcDZCRjI0Mnl5bG5EaW1qVDJqV1VzdktQQlZDWFM5Ykp3MFIwSEJGZVE?oc=5",
+  "title": "An updated Zeekr 7X is coming, here's what you need to know - caradvice.com.au",
+  "text": "An updated Zeekr 7X is coming, here's what you need to know caradvice.com.au",
+  "author": "",
+  "published": "2026-10-14T23:13:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "beea26123443c4b8",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/2027-mercedes-benz-gle-450-e-price-specs-australia-hybrid",
+  "title": "2027 Mercedes-Benz GLE 450 e price and specs: Australia gets six-cylinder plug-in hybrid power for the first time",
+  "text": "Mercedes-Benz has added six-cylinder plug-in hybrid power to its GLE range with up to 91km of electric driving range and 320kW/680Nm outputs. The post 2027 Mercedes-Benz GLE 450 e price and specs: Australia gets six-cylinder plug-in hybrid power for the first time first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-14T23:09:22+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "beacea688be7f8ba",
   "type": "competitor_news",
   "source": "carexpert",
@@ -233,7 +448,7 @@
  {
   "id": "e876a60e05311ee2",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2lVWHhLTFI1Y0U5YjQySTNKREVubHpZSXFPX295OW5QZWNEN2psUGtCSUlsZHVYTVVZZmYwSElLWFRkaENBS090WUt5TnYxcDgwY2NNZXp5Q1psR0JQLV91RDFldjVEcG1sT3JoWHlBQVE2dlhiNGMwbHhob2FxeWIzMkRDZXBBOUNXbk8tSFFmWjFVRk1KUnFUZGpZSzBMemJkbjVTazZCVDB3MzJFQ1RHcGZIWlFQQV9tMXVqOA?oc=5",
   "title": "2026 Tesla Model Y, BYD Sealion 7, Geely EX5, Zeekr 7X lead the electric car charge and Toyota was always going to be number 1 | Analysis - CarsGuide",
@@ -433,6 +648,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
+  "id": "09ab3573bdd21c6d",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6LUhBMVJ4QVVpMXhPS3dKUXM4Wm1oRDB3TmZqbXpJYUVRcnJrSk1XaVBMNTk5Nm1udGc5QkpqTkM5VHdMejJic1ZaM0VPU1NZbVU1QkRRUFR2VzV3NVow?oc=5",
+  "title": "BYD M9 Dimensions - CarsGuide",
+  "text": "BYD M9 Dimensions CarsGuide",
+  "author": "",
+  "published": "2026-10-14T09:39:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "a8731fdf35c5de8f",
@@ -767,7 +1015,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -794,7 +1042,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
@@ -977,6 +1225,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "539f2197db9b5fff",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zV1N2d0VfbDlycHZtRV9mNWl5VHRXZWltYXBDU2I2MXlua3lUUEN6T2xIOU01Ry1aRzF2eFVzTl9oeWFTclliaXBDU1cwMmUyV21IVFlwY0phbEk?oc=5",
+  "title": "Mercedes Benz All-Electric EQA 250+ from $65,490 Driveaway @ Mercedes Benz (Page 3) - OzBargain",
+  "text": "Mercedes Benz All-Electric EQA 250+ from $65,490 Driveaway @ Mercedes Benz (Page 3) OzBargain",
+  "author": "",
+  "published": "2026-10-13T23:49:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-eqa"
+  ],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer",
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "6cceb18ce8aba462",
@@ -1995,6 +2277,39 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "70f2d9868dbafa57",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTV2WkYtYXdLTjNRR3hOSmlxNzN1TEE0eDRiTERHY2YzZW5qYnpodWxMUTk1ZDlLVmJFN2ZvR1hhMldPQXBFX0liMjQtTjM3aXlrTHpUYV94N296WEctQmpXaVVWVXBjRlpyZVJ2Z3NxMF9WSXVoMkQzSEZaOUF5djNnQnJZc3lzckU5Tm9UZENBaTVaNHBaVDNUSzVjWjhjb0g2elFfTDhzU2JnNmFZZTNLYnhzZWxQZnMtYjR6aWU?oc=5",
+  "title": "How this car makes you a better driver: Ice driving with a 2026 Skoda Enyaq and Kodiaq - CarsGuide",
+  "text": "How this car makes you a better driver: Ice driving with a 2026 Skoda Enyaq and Kodiaq CarsGuide",
+  "author": "",
+  "published": "2026-10-13T09:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "skoda-enyaq"
+  ],
+  "brands": [
+   "skoda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "ecb6767e140b18e0",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -2413,7 +2728,7 @@
  {
   "id": "a5bec463747a0f4a",
   "type": "competitor_news",
-  "source": "gn-brands-cn",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEI0ZlBIMkxxc2pzR0JXczNkX0hVTGxROF9ESHpYRU9OMGVKVWRUOUE2cFpWY2VFY1lqdjYwbDVtX2tpRU5NVVJHLXNzcnpyLVlMRmVqLUpJRE9Ga3pUT040NGt5TEhOTGdlMXRmVFpvdnNodjF0al9mYnlPdVYwWW10YUdCRmVIWTg3YllSaFZIbkczSEE4RDd6LVlTZGhIb3ZwOWtkOU1RNDdQNGh4ZDFTd3p3Nzhsdll0Z3dBMWpuWXprX3c?oc=5",
   "title": "2027 Leapmotor B03 revealed in Paris but is this Geely EX2 and BYD Atto 1 EV rival coming to Australia? - CarsGuide",
@@ -3823,6 +4138,42 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "d2bfd58ff059db10",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1x3xjhf/2027_avatr_06t_electric_wagon_australia_confirmed/",
+  "title": "2027 Avatr 06T electric wagon: Australia confirmed for Zeekr 7GT, Denza Z9 rival",
+  "text": "",
+  "author": "/u/His_Holiness",
+  "published": "2026-10-12T09:40:59+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "denza",
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "ffa635258e4661a6",
   "type": "news_zeekr",
   "source": "gn-ev-launch-au",
@@ -4424,7 +4775,7 @@
  {
   "id": "b94df9cb9e5addc7",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0JxRW50Um1NcnZaYTFSZEVYblNya2g2VVRuT24wWW5vNnJJRGdMNTVSS3g3SW44eFljQ1N4UklvUUxvMjBPbEMxNzBOOVFpSDl6YXZ3bGJTNE1TbWpsRHNUR2tuUHM0ZDZCUVhURE1zMUFlb01nNG9NNXNKNVRvbFdwS1hpYlAwNTl1WFQ4R3NqcEhKZUl5eVNDbkk2NE52aHNHVEY2VldzWHdEb3hBRjduZDFmM0kxaGozdnZocERWbGVp?oc=5",
   "title": "New Zeekr 9X beater confirmed: Avatr revealed new T06 plug-in hybrid SUV concept to rival 2026 XPeng GX, Wey V9X - CarsGuide",
@@ -4454,7 +4805,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -7211,6 +7562,45 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "299d2bd752469508",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wx2x8u/there_are_still_10_new_evs_expected_to_arrive/",
+  "title": "There are still 10 new EVs expected to arrive before the end of the year!",
+  "text": "We’re not done! We still have a bunch of new or facelifted EVs arriving before we see out the end of 2026. We should also expect to see big numbers next year! In order: - Zeekr 7GT (white) - Hyundai Ioniq 6 N (pastel blue) - Cadillac Lyriq-V (red) - Kia PV5 Passenger (van) - Honda Super-ONE (purple) - Renault 5 E-Tech (green) - Renault 4 E-Tech (baby blue) - Nissan Leaf (electric blue) - XPeng M-L03 (pink) - Hyundai Staria Electric (dark purple) I really like the niche options available like the Super-ONE and the Renault 5 E-tech! They look sick",
+  "author": "/u/Ok_Lunch_2933",
+  "published": "2026-10-04T01:06:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai",
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "1fdb67a91f21de1f",
   "type": "post",
   "source": "reddit-CarsAustralia",
@@ -7944,6 +8334,46 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "44a43b424d16a571",
+  "type": "complaint",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wtz1gh/replacement_ev_options/",
+  "title": "Replacement EV options",
+  "text": "I currently own a Kia EV9 that continues to have random issues that Kia are unable to get on top of. Absolutely will not buy another Kia (or anything from the extended group). I am considering replacing it, but cannot make a good decision on what to look at. 💰 Budget • ⁠Under the FBT limit for a novated lease. 🚗 Typical driving • ⁠Average weekly km: 300-500km 🔌 Charging • Currently can deal with charging the Kia off a 10amp GPO only. 🚙 Vehicle class • ⁠Open to suggestions. I like the 3 rows of the EV9, but could go back to five seats only if the seats are spacious. I have two child seats plus an almost high schooler. I am considering the Tesla Model YL, or Zeekr 7X, but looking for other suggestions which might also fit the bill.",
+  "author": "/u/Alone_Control6088",
+  "published": "2026-09-30T07:58:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia",
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "972c9ef572eb88a5",
@@ -8905,6 +9335,43 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "b9f026ff6c5863bf",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wqczgg/midsize_for_family_camping/",
+  "title": "Mid-size for family camping",
+  "text": "What is the best EV for family camping? We currently have a Ford Territory and when we go go camping we load the car up: boot is fully packed with fridge, cooking etc. Roof basket have our tent and sleeping gear. We use every inch of space. 2 kids aged 5 and 7. My mid term plan was to get a small box trailer to load all of it in so the car has more space inside. This would be no problem with the Territory, but we are looking to upgrade to an EV. I’ve been looking at options and comparing, but haven’t heard any insight into the camping experience. From what it seems no EV’s have a factory towbar, and not all have clear tow ratings. So it’s hard to compare. Looks like towbars are all aftermarket. Options we looked at: Zeekr: our ideal car - tow capacity is great, but it’s on the expensive side. Jaecoo J5: most budget friendly but not sure about storage or towing. Leapmotor C10: towing capacity seems good but tech feels not on par with the rest. We want to spend around $45k in an ideal world. Could go up to $55k. Will get this through a novated lease and will be doing mostly public charging. We camp around 3-5 times a year, but would go More if it’s easier/more comfortable. In the cit",
+  "author": "/u/unodewaal",
+  "published": "2026-09-26T00:51:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "c106839c9a99aa3b",
   "type": "complaint",
   "source": "productreview-zeekr",
@@ -9066,6 +9533,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "51feab34ed50fbcf",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wpmgcm/wireless_ev_charging/",
+  "title": "Wireless EV charging",
+  "text": "Now this is an interesting innovation. I wonder if we would ever get to some sort of wireless charging infrastructure and protocols there were universal (a bit like ethernet)? And it's good to see this innovation coming out of Europe, too. Not that I'm anti-China; I'm not (I have just ordered a Zeekr). Its more that I'd like to see Europe and China succeed rather than one or the other. https://thedriven.io/2026/09/25/porsche-quietly-unveils-wireless-ev-charging/",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-09-25T04:02:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "4f480ce44f5c3d61",
@@ -9799,6 +10300,137 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "f87663d78e4098b3",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wnsiek/about_to_pick_up_my_byd_sealion_7_premium/",
+  "title": "About to pick up my Byd Sealion 7 Premium - anything I should know?",
+  "text": "Just wondering if there's any tips from owners of the Sealion 7 Premium about things you've learnt since you've been driving it? Say on important settings or charging info etc.? I still need to find an insurer for the comprehensive insurance also, and will have to get tinting done, as I purposely didn't use the dealership tint option. Located in Melbourne. Got this one on a 3 year novated lease, a little under $1000/month out of net pay. Looking to forward to seeing how it goes. Test drove many brands - Tesla, Zeekr, Polestar, Byd (Seal), Mazda, Kia, XPeng, Skoda, Subaru, Geely, Renault, Leapmotor. One of the very best was the Zeekr 7X but unfortunately the price was quite a bit more at around 72k driveaway for the LR. Sealion 7 Premium represented great value at the price of 55k given the included features. Geely Ex5 was a close second best.",
+  "author": "/u/DrumsFishing_501",
+  "published": "2026-09-23T01:41:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "kia",
+   "byd",
+   "tesla",
+   "xpeng",
+   "polestar",
+   "skoda",
+   "geely",
+   "mazda"
+  ],
+  "categories": [
+   "charging",
+   "delivery",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": 3,
+   "neg_hits": 0,
+   "pos_hits": 3,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "198afe42199c1866",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wnru3n/xpeng_l03_launches_in_australia_from_41900_four/",
+  "title": "XPeng L03 launches in Australia from $41,900: four variants including Australia's first XPeng EREV, and advanced self-driving on the top spec",
+  "text": "Variant Powertrain Drive Price (before ORC) RWD Standard Range BEV RWD $41,900 RWD Long Range BEV RWD $46,900 Power-X Long Range EREV RWD $41,900 AWD Performance Ultra BEV AWD $53,900 At $41,900, the entry RWD Standard Range undercuts the Geely EX5 Inspire ($45,990), Tesla Model Y RWD ($58,900) and Zeekr 7X ($57,900) by a significant margin, while offering a comparable 445km WLTP range and 193kW DC charging. The longer 2,850mm wheelbase also beats all three rivals on interior space. The AWD Performance Ultra is the one to watch for tech buyers: it's the only variant getting XPeng's NGP (VLA 2.0) advanced driver assistance system, rolling out via OTA in 2027 subject to regulatory approval. All variants get a 15.6-inch touchscreen, 26.8-inch HUD, native Google Maps and wireless CarPlay and Android Auto. On-sale date not yet confirmed. Insane price, who's ordering one and which one?",
+  "author": "/u/zecar_",
+  "published": "2026-09-23T01:10:54+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "geely-ex5"
+  ],
+  "brands": [
+   "tesla",
+   "xpeng",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "9ec0206fc651f4a4",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wn81u8/will_we_ever_get_the_xpeng_p7_in_australia/",
+  "title": "Will we ever get the XPeng P7 in Australia?",
+  "text": "I just want a cool, cheap, supercar looking EV sedan and XPeng P7 is probably the coolest one I have ever seen... Why can't we get the Xiaomi Su7s, Zeekr 007s, and so on? We are stuck with the SUVs and can't even import these because they don't have RHD.",
+  "author": "/u/TheKnowledgeQuester",
+  "published": "2026-09-22T12:24:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "xpeng-p7"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "quality"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "adb646dc8d9ebda8",
@@ -10871,6 +11503,78 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "3652066195051f99",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wjd2we/torn_between_wagon_options_looking_for_general/",
+  "title": "Torn between wagon options... Looking for general advice and people's experiences going camping and touring.",
+  "text": "Hey everyone, looking for people’s thoughts and opinions here. Posed a question the other day and got some great advice so hoping people are just as friendly and helpful today. TLDR: Really want to switch to an electric wagon and would love to get the Zeekr 7GT AWD, but am not sure if I should go something a bit more practical, like the Subaru Trailseeker, for the <5% of the year that I might go on gravel roads when I go camping. Longer version: I’m looking at going electric in the next six months and I am trying to decide what sort of car I want. I'm really keen on a wagon, and have up to now been pretty obsessed with the Zeekr 7GT AWD preformance model when it drops, but am torn between that and something more practical like the Subaru Trailseeker. My must haves are AWD, full EV, not an SUV, and must cost less than the LCT threshold of $75k after 31 March next year as I'm leasing - partly budget wise but also becuase I'm not sure when I'd collect exactly yet. 90-95% of my driving is regular commuting, and highway driving between Melbourne and Canberra. I like a good coastal road trips or day trip to the beach, but I also do a little bit of camping - nothing wild or off the beaten",
+  "author": "/u/Readbeforeburning",
+  "published": "2026-09-18T01:56:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "62f8bd4171b8af9a",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wjcmol/zeekr_7gt_confirmed_for_australia_in_q4_2026_a/",
+  "title": "Zeekr 7GT confirmed for Australia in Q4 2026: a shooting brake GT with up to 670km range, three variants, pricing between the X and 7X",
+  "text": "The 7GT will launch with three variants, all on an 800V platform with ultra-fast DC charging: Variant Drive Battery WLTP range Power 0-100 DC charging RWD RWD 75kWh LFP 525km 335kW 5.2 sec Up to 420kW Long Range RWD RWD 100kWh NCM 670km 335kW 5.0 sec Up to 420kW Performance AWD AWD 100kWh NCM 590km 500kW 3.1 sec Up to 420kW Designed in Gothenburg, the 7GT is a five-door shooting brake with a 0.25 drag coefficient, 456L boot (1,390L seats folded), 35.5-inch AR head-up display, 15.4-inch central touchscreen, heated and ventilated front seats with massage, and a 5-star Euro NCAP rating. Performance AWD gets active air suspension. Expressions of interest open now, first deliveries Q1 2027. Pricing not confirmed yet but Zeekr has said it will sit between the Zeekr X ($48,900 driveaway) and Zeekr 7X ($57,900 before ORC).",
+  "author": "/u/zecar_",
+  "published": "2026-09-18T01:35:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X",
+   "7X",
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "db043b9f86b9d2ca",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
@@ -10904,6 +11608,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "71c0b1b2553da30d",
+  "type": "complaint",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wjbg3m/do_i_need_a_firewall_for_my_ev/",
+  "title": "Do I need a firewall for my EV?",
+  "text": "I've noticed a few open apps coming onto the market for various EVs. I'll provide links to two below. Both look to be vibe coded i.e. coded with the assistance of or by AI models. I don't claim that these two apps are or could create problems. What I am wondering is how an EV can be added to an approach that might secure it in the same way that many go about securing their home or work networks. The most common methods on home networks, such as firewalls, user authentication and access control, and application signing, come to mind. I'm also curious to know how owners think about this topic: is it not worth worrying about or is it worthy of prioritised consideration? https://www.reddit.com/r/Zeekr/comments/1whyk84/introducing_openzeekr/ https://www.reddit.com/r/Zeekr/comments/1wj2x18/aawirelessmanipulator_for_zeekr/",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-09-18T00:40:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "d55b60a47429185f",
@@ -11641,6 +12377,45 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "fe79c1e1dd43cc15",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wfqg85/geely_ex2_gwm_ora_5_or_zeekr_x/",
+  "title": "Geely EX2, GWM Ora 5, or Zeekr X?",
+  "text": "Hi all, I’m moving to Australia in about 2 months time and doing some research on what car to buy. Looking at something compact as I’m a new driver and don’t really need much space. It’s just me, my husband, and our cats. No kids and no plans for any. The Geely ex2 (inspire) and GWM Ora 5 (Ultra) are comfortably within my budget range but the Zeekr X (Rwd) looks so premium esp the interiors that I’m tempted to go take the plunge. My question, really, is, would it be worth it? My main priorities are really drive feel and comfort, ease of use (not the best at parking lol so camera system quality is a must) as well as of course access to parts. I will be based in Melbourne. Range is not too much of a concern (Geely EX2’s I think would be sufficient) because afaik chargers are everywhere. I also will just drive about 40km a day only, and the occasional out of town weekend trips of 150km per one way max. Any advice for a first time car buyer would be appreciated! Thanks in advance.",
+  "author": "/u/ClosedImagination",
+  "published": "2026-09-14T02:03:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "d516857eff32c1cc",
   "type": "competitor_news",
   "source": "gn-zeekr-evcentral",
@@ -11675,6 +12450,51 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "d10b490286588186",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wfkelq/spacious_ev_for_family_of_5/",
+  "title": "Spacious EV for Family of 5",
+  "text": "Family of 5 with 3 older kids and looking for something that is comfortable for all passengers. We have tried the Model Y, Zeekr 7x and Sealion 7. While all seem spacious enough for 2 older kids or 3 smaller kids, they don’t have the width/comfort for 3 older kids/adults, as the middle seat isn’t a proper seat and just not comfortable to sit in for longer drives. We are leaning towards to Model YL (6 seater) as its a nice car and sits us all in comfort with plenty of storage space left, and feels like a medium sized SUV when driving. However I want to consider other options before purchasing. I’m also aware of the Kia EV9 but it’s quite a bit more expensive. Are there any other EVs to consider that aren’t vans with similar space to the YL? ***UPDATE*** After checking out the Sealion 7, Zeekr 7x, Ev6, ev9, MGS6, IM6, Model Y and Model YL, we decided on the Tesla Model YL as being the best option for our family of 5. It was the best for us in terms of spaciousness, features and drivability at its price point. All 3 in the back agreed the 2+2 seating was far more comfortable than a bench of 3 (without a proper middle seat). Surprisingly, they like being in the back as much as the midd",
+  "author": "/u/Consistent_Day3722",
+  "published": "2026-09-13T21:33:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7",
+   "kia-ev6",
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia",
+   "tesla",
+   "im"
+  ],
+  "categories": [
+   "software",
+   "price"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "price_rise"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "9f68a5c4d648c9c8",
@@ -11873,6 +12693,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "01e75ca7d6c1a82f",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1weus07/our_findings_family_of_5_ev/",
+  "title": "Our findings, family of 5 EV",
+  "text": "Thanks to all who helped make suggestions. We have now decided on the best 5 seater EV for our family of 5. Full details have been added as to how we came to the decision, to my original post here: https://www.reddit.com/r/AustralianEV/s/fNfMphmLNy Spoiler alert, the Zeekr 7x was hands down our choice for style, size and comfort for a family of 5.",
+  "author": "/u/foodaussie",
+  "published": "2026-09-13T01:58:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "961366191a819ee3",
@@ -12112,6 +12965,52 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "839d46628a7791e4",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1wce5x1/is_the_car_off_technology_worries/",
+  "title": "Is the car off? Technology worries",
+  "text": "I have watched far too many reviews of EV's I'm considering, I had made a short list of 6 vehicles which is now down to 2, but after experiences test driving over the past month I'm interested in how others felt with their transition from either a key in ignition or push button to start/stop. How was the adjustment of putting it into \"park\" with no hand brake and just getting out while everything else seems to still be going, the radio, the heater, the GPS. After we got back to the Zeekr dealership we sat in it for 5 minutes looking around how to turn it off before I googled it and learned I'm supposed to just get out and lock it with the remote. (Incase somebody asks the shortlist was: Polestar 2; MG IM5; Mazda 6E; BYD Seal; Zeekr 7X; Zeekr 7GT)",
+  "author": "/u/Molladia",
+  "published": "2026-09-10T09:26:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "7GT"
+  ],
+  "competitors": [
+   "polestar-2",
+   "byd-seal",
+   "im5",
+   "mazda-6e"
+  ],
+  "brands": [
+   "byd",
+   "polestar",
+   "im",
+   "mazda"
+  ],
+  "categories": [
+   "quality",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "48c84653e2c3e542",
@@ -12660,6 +13559,47 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "c6ea0843cedeba2b",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1w9ozj8/alternatives_to_telsa_model_yl/",
+  "title": "Alternatives to Telsa Model YL",
+  "text": "Hello everyone, I'm looking at a new EV, budget is anything under LCT. SUV is preference but People movers have definitely look practical. Looking to get delivery before March 31st to keep the FBT breaks. Model YL is compelling but I just can't do the interior. I've test driven the Zeekr 7X Performance and it's high on the list. Ticks just about everything for me. The only few things causing me to think twice are cruise control/hardware. The \"autopilot\" is fine, just nothing too modern and doesn't seem to be any prospect of software updates to add more capabilities. One feature I love with my current car (Hyundai) is the remote park feature with the FOB, can squeeze in and out of a tight parking spot. I use it daily. Zeekr 7x has it app only and required an iPhone at the moment. Doesn't work for me as I'm an Android user and don't love the idea of buying a car they \"might\" support the feature down the track. XPeng is probably the most impressive overall package outside of Tesla but not quite as much luxury as Zeekr. G6 is too much of a step down and the X9 does interest me, albeit people mover. Ticks almost all the boxes software/capability wise though. I haven't explored anything",
+  "author": "/u/herald_",
+  "published": "2026-09-07T10:58:23+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "tesla",
+   "xpeng"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "1db38e664f202afd",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -12734,6 +13674,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "dda4f278f6cd62b6",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1w8s6ke/best_way_to_wire_up_ev_wall_charger_with_solar/",
+  "title": "Best way to wire up EV wall charger with solar and battery",
+  "text": "Hi all So I'm about to get my first EV soon (Zeekr 7X) and I was looking at wall chargers and figuring out what I need for them to work and whatnot, and was just curious how everyone's got their charger set up. We've got a 42kWh battery, and while most of the charging we expect to do can be topped up with excess solar from the charger, I'm curious what the best way to handle things if it's not a very sunny day, or if we need to do a charge at night? One option is to have the charger connected through the battery, which is good if we have small amounts of power to top up, as we can use it all from the battery, but for large top ups we could end up draining the battery often, which isn't ideal. The other option is to have the charger not connected to the battery at all (but still use excess solar). The good thing then is if we have a big day of driving and want to top it up, it'll use it from the grid so our battery won't be drained constantly, but the bad side is that if we just have 2-3kW that need topping up, it'll be costing us more than it could because it comes directly from the grid instead of only using a little bit from the battery. Ideally it'd be great if I could choose to",
+  "author": "/u/Opaquer",
+  "published": "2026-09-06T10:07:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 1,
+   "pos_hits": 3,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
   "id": "8da235e093a0d9e7",
   "type": "news_zeekr",
   "source": "thedriven-zeekr",
@@ -12802,6 +13775,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "c283ada182ab6208",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1w8gp3i/need_advice_on_electricity_plans/",
+  "title": "Need advice on electricity plans",
+  "text": "Hi all, Long time lurker, first time poster here! I’ve been debating an EV for a while, and I am getting closer to buying the bullet. I have narrowed my choices down to the BYD SL7 Performance and the Zeekr 7X Performance. My only turn off with the latter is the electric doors. I’m just wondering how people have their electricity plans set up? We have solar and 48kWh battery at home, which is very sufficient for us and we find on nicer days we actually export a decent amount back to the grid after topping up the battery. Our plan carries a $1.06 daily supply charge, and 12c FiT for the first 10kWh, then 1c thereafter - basically, if we export 10kWh we offset the daily supply charge, and end up in small credit. If I charge the car from the battery it’ll obviously deplete usable charge from the battery for the home (which is why we got it in the first place). How about charging from solar? Yeah, during the weekends, sure if it’s sunny enough, but I’m at work during the week (no WFH). I’m looking at EV electricity plans now, with either 5c or 8c overnight, which is obviously beneficial for charging the car. The only downside, the supply charges on average are $1.80 here in SA and a 1c",
+  "author": "/u/NexoSpecs",
+  "published": "2026-09-06T00:03:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "f513cb4f9a120bde",
@@ -13037,6 +14045,46 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "78f50c0ebffcd9fe",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1w6pnej/another_new_ev_brand_launches_in_australia_in/",
+  "title": "Another new EV brand launches in Australia in October: Lepas L6, 440km WLTP, 65kWh LFP, pricing TBC",
+  "text": "Lepas is Chery Group's newest premium sub-brand, sitting above Omoda Jaecoo with its own separate dealer network. The L6 is a coupe-style mid-size SUV with 160kW FWD, 440km WLTP range, 30-80% DC charging in about 22 minutes, Sony audio, heated and ventilated seats, wireless CarPlay and Android Auto, and a panoramic roof all standard. Peak DC charging speed in kW hasn't been confirmed yet. On range it trails the Model Y RWD (466km), Sealion 7 Premium (482km) and Zeekr 7X (480km), but it's also running the smallest battery of the group at 65kWh. Whether it's competitive comes down entirely to where pricing lands, which won't be confirmed until closer to launch. It will make its Australian public debut at Everything Electric Sydney, 18 to 20 September. Will the Lepas L6 sell in such a crowded marketplace? What does Lepas need to do as a brand to stand out?",
+  "author": "/u/zecar_",
+  "published": "2026-09-04T00:52:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7"
+  ],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "7bce3ce3c44d4cb2",
@@ -13849,6 +14897,48 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "20aae4c0e3c6b15f",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1w4w1og/purchasing_used_bmw_ix3_vs_brand_new_zeekr_7x/",
+  "title": "Purchasing Used BMW iX3 vs Brand New (Zeekr 7x / Sealion 7)",
+  "text": "Posted recently but after test driving a few cars, my wife and I enjoyed driving the BMW iX1. At $85k it’s out of budget but have seen some used ones from 2022-24 with about 60k km retailing for c. $50k, cheaper than a brand new Sealion 7 and about $20k cheaper than a new LR Zeekr 7x. These used ones also have about 97% battery health so no major degradation. One argument is having a bit more comfort around a BMW in terms of dealer support, however offset around a reduced warranty vs brand new. What would peoples opinion be on this?",
+  "author": "/u/One-Shop-4554",
+  "published": "2026-09-02T01:18:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-sealion7",
+   "bmw-ix1"
+  ],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "0d26c4bcd59f023e",
