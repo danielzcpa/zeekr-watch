@@ -1,5 +1,284 @@
 [
  {
+  "id": "7d1b65e3b0ff5f5e",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-zeekr-7x-export-market-facelift-revealed-misses-out-on-major-chinese-update",
+  "title": "2027 Zeekr 7X: Export-market facelift revealed, misses out on major Chinese update",
+  "text": "An upgraded 2027 Zeekr 7X has been revealed at the Paris motor show this week, but the version bound for Europe – and likely Australia – differs from the one offered in China. Instead of a 900V electrical system, something the Chinese-market 7X moved to in 100kWh battery-equipped variants late last year, the entire European-market 2027 lineup will stick with an 800V electrical system. The updated mid-size electric SUV will reach European customers during the first quarter (January to March) of 2027, while Zeekr in China is launching a separate 7X update later this year . It hasn’t specified all the changes it’ll feature, though it has confirmed it will introduce a new 85kWh ‘Golden Brick’ battery pack. We’ve contacted Zeekr Australia to confirm when the next 7X update will be introduced here. European-market 7Xs will stick with a choice of 75kWh lithium iron phosphate (LFP) and 100kWh nickel manganese cobalt (NMC) batteries, which can be charged at up to 450kW and 420kW on DC power, respectively, and at up to 22kW on AC power. While the batteries and their charge rates are unchanged, range has been increased. WLTP range figures are 482km and 627km for single-motor rear-wheel drive",
+  "author": "William Stopford",
+  "published": "2026-10-15T05:52:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "0c203bac170ff847",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6dgy8/are_you_paying_extra_for_hire_car_cover_in_case/",
+  "title": "Are you paying extra for hire car cover in case of lengthy repairs?",
+  "text": "I'm picking up my Zeekr 7X next week and currently looking at insurance options. I've never bothered adding optional hire car cover to my insurance before, but after reading about some of the lengthy repair wait times I'm a bit nervous about potentially being without a car for months. I was looking at AAMI, which offers unlimited days of hire car cover, but adding this option increases the premium by around $900 per year, which seems like a lot! Most other insurers I've looked at seem to limit hire cars to 14 or 30 days. I don't do a huge number of kilometres as I mostly work from home, but I still need a car a few times a week for running the kids around and occasional business meetings. Just curious what other 7X owners have decided to do. Are you paying extra for hire car cover, or just taking the risk?",
+  "author": "/u/Unique-Wasabi6161",
+  "published": "2026-10-15T05:36:55+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "77f9018d5b085be2",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6d41u/october_2026_delivery/",
+  "title": "October 2026 Delivery",
+  "text": "Hi, A user at Whirlpool, posted this: For those who've been advised that their cars will be delivered in October 2026, two ships, the Viking Carina ) & Viking Mediterranean have left Shangai bound for Australian shores (Carina is enroute to Freo, Mediterranean to Bris). I haven't been given my VIN yet, so I'm hoping my LR Forest Green is on one of these two vessels.",
+  "author": "/u/nswresident",
+  "published": "2026-10-15T05:15:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "4ece9f8ee95d8d97",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/hyundai-europe-unveils-new-challenger-to-small-chinese-suvs-but-australia-still-unlikely/",
+  "title": "Hyundai Europe unveils new challenger to small Chinese SUVs but Australia still unlikely",
+  "text": "This post appeared first on Chasing Cars . Hyundai has revealed a second-generation Bayon, though the European-built compact SUV is again expected to be excluded from the Australian market. Bayon Mk2 arrives five years after the original debuted as the UK and Europe’s small-SUV equivalent of the Korean-assembled Venue sold in markets such as Australia. The new Bayon was unveiled at this week’s Paris motor show and is again based on the platform of the i20 city car, though has increased slightly in size while adopting a bolder exterior design that shifts away from hatchback crossover to more conventional SUV. The styling also aligns the Bayon more closely with its bigger SUV siblings, the Tucson and Santa Fe . At 4.2 metres, the Bayon is longer than the 4.0m Venue that is priced locally from $24,000. Where the Venue is powered by 90kW 1.6-litre naturally aspirated engine, the Bayon will initially be offered with a 1.0-litre turbocharged petrol engine with at least 66kW before it’s joined for the first time by a hybrid powertrain combining a 1.6-litre petrol engine and electric motor for 101kW. The hybrid will feature adaptive regenerative braking that’s available via steering wheel",
+  "author": "Jez Spinks",
+  "published": "2026-10-15T04:20:59+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "c33b3be6f1b29925",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6blpf/charging/",
+  "title": "Charging",
+  "text": "Hi all Second week of using my 7x and first time EV user. Confused with many plugs that are compatible to 7x and including granny charger seems like doesn’t allow extension cables. (Not tried yet, but that was said to me by dealership). Used apps to set up correctly for vehicle for compatible ev chargers outside but failed few times. Anyone using with connectors that fits different most of plugs? Also whats average consumption kwh of vehicle for 100km?(local + highway). TIA",
+  "author": "/u/darkchoc_69",
+  "published": "2026-10-15T03:50:09+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "49cde9e63504d725",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6agnd/maintaining_the_paint_and_leather_seats/",
+  "title": "Maintaining the paint and leather seats",
+  "text": "I'll be picking up my Tech Grey 7X performance in the next few weeks and this will be my first \"new\" car and my first actually nice car. I'm not a car guy by any means but I would like to help keep the car as fresh as possible so was wondering about some real basic maintenance on the nappa leather (how to do this and how often) and if the ceramic coating/PFP is essential for this? I have a quote for $2100 for a ceramic coat, window tinting and interior protection from a highly recommended shop in Brisbane, is this reasonable?",
+  "author": "/u/FlowState94",
+  "published": "2026-10-15T02:49:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "76476eeae577f101",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6a8ib/discontinued_color_brook_blue/",
+  "title": "Discontinued color Brook Blue",
+  "text": "",
+  "author": "/u/tomascl",
+  "published": "2026-10-15T02:37:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "001ce9b1f5fbcbaf",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/car-industry/not-all-chinese-brands-will-survive-in-australia-but-we-will-says-leapmotor-boss/",
+  "title": "Not all Chinese brands will survive in Australia but we will, says Leapmotor boss",
+  "text": "This post appeared first on Chasing Cars . Leapmotor ’s Australian head Andy Hoang believes there will be casualties in the fight for the hearts of local car buyers. “This is my personal belief. I don’t think all Chinese brands will survive … the volume is just not there,” he said. C10 Many industry observers hold the same view and warn that buyers who pick a brand that fails could be left to endure sub-par service, parts and warranty coverage, along with poor resale values. At first glance, Leapmotor would appear to be one of the more vulnerable of the Chinese brands. It is one of the few Chinese carmakers not enjoying spectacular growth in the local market. While brands such as BYD , Chery , GWM and MG have stormed into the top ten, Leapmotor sales have been modest since it launched in November 2024. B10 The brand has found just 1168 buyers this year , up from 452 last year. For context, BYD sold more than 8000 cars last year. But Hoang believes Leapmotor can replicate its success in Europe and China, where it has grown rapidly in seven years to be one of China’s biggest brands, particularly in the EV and plug-in hybrid space. “We’ve got one of the fastest brands growing in China",
+  "author": "Richard Blackburn",
+  "published": "2026-10-15T02:15:38+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
   "id": "37c34a9709de995f",
   "type": "competitor_news",
   "source": "carexpert",
@@ -982,6 +1261,44 @@
   "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
+  "id": "19c7210908857596",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRkFYb3k2a09hOExFNXdZMzlWNFdoZ3lDcndUX29TTzBsNnhlU0hyUnBDYTh3LW1GTHJNVGNYSTlOeldwZVBHakxCd3pmb0w1bXB6Y3VleUdaUk84dHdfcEdyT0x2TVU5NUF1RjZnbURJeERaQ0pUekROQ2puaDZyNlFmU21jVTE4d29seThOcUNCNzdXY015X1hndVJXNHljQ3dvWFh5NWZxb1E0c3R5SmgtaDJvVWhQN0RITXRxc0NGd2MxWDVr?oc=5",
+  "title": "Chinese EVs $11,000 cheaper to build than European rivals as 2026 BYD Atto 3 Evo, Chery Tiggo 4 and Zeekr 7X climb sales charts globally - CarsGuide",
+  "text": "Chinese EVs $11,000 cheaper to build than European rivals as 2026 BYD Atto 3 Evo, Chery Tiggo 4 and Zeekr 7X climb sales charts globally CarsGuide",
+  "author": "",
+  "published": "2026-10-14T04:19:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-atto3"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut",
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
   "id": "7477fa2d973dd628",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -1015,7 +1332,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -1042,7 +1359,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
@@ -1476,41 +1793,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T10:31:43+00:00"
- },
- {
-  "id": "e77d37add9d0e1ce",
-  "type": "competitor_news",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmNBUGplMHdpdkNsZ1g3Tnd2eENUQTc1eGZfbERvcVJqSDR5b0Q4a2hTaW9rcWZVU3NmamVBZU1Wd0JfLTZFbGpxREQ1MXpFLVgtSzB6RWJyTUFpbjJrX0g4SmJoYkJBbU5pQk1hdFNMTVFCMDJwQkI3SGNfU1FoNkItbFllaFpFRnBlWmpfdUlQUQ?oc=5",
-  "title": "BYD Sealion 8 goes EV in Paris with 660km of range - CarExpert",
-  "text": "BYD Sealion 8 goes EV in Paris with 660km of range CarExpert",
-  "author": "",
-  "published": "2026-10-13T22:15:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-sealion8"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "competitor",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T00:32:44+00:00"
  },
  {
   "id": "25bf1b85357981b9",
@@ -2728,7 +3010,7 @@
  {
   "id": "a5bec463747a0f4a",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEI0ZlBIMkxxc2pzR0JXczNkX0hVTGxROF9ESHpYRU9OMGVKVWRUOUE2cFpWY2VFY1lqdjYwbDVtX2tpRU5NVVJHLXNzcnpyLVlMRmVqLUpJRE9Ga3pUT040NGt5TEhOTGdlMXRmVFpvdnNodjF0al9mYnlPdVYwWW10YUdCRmVIWTg3YllSaFZIbkczSEE4RDd6LVlTZGhIb3ZwOWtkOU1RNDdQNGh4ZDFTd3p3Nzhsdll0Z3dBMWpuWXprX3c?oc=5",
   "title": "2027 Leapmotor B03 revealed in Paris but is this Geely EX2 and BYD Atto 1 EV rival coming to Australia? - CarsGuide",
@@ -4207,6 +4489,42 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "c7fa1de7e8ffb81f",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hbThLQUlFRHFCcVlNQnpTT2gyaWF1TWxoeFR6QXBUX2ppdTVUMjV3d2pRMmdEcUQzSU43WTkySFdsbGx0Q3VUbWI5cUxXdGMxY0dhWEwyc0wtd04tVk1KVXA5cTcwa2VjRVRxVzM4WGlLY0VJMTh0RERRbw?oc=5",
+  "title": "Safety testing of China's GAC Aion UT and XPeng X9 have deemed them both five-star cars - Drive",
+  "text": "Safety testing of China's GAC Aion UT and XPeng X9 have deemed them both five-star cars Drive",
+  "author": "",
+  "published": "2026-10-12T09:03:36+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng",
+   "gac"
+  ],
+  "categories": [
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
   "id": "de7a3f083f5ac793",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -5626,7 +5944,7 @@
   "title": "Zeekr is about to update the car it already can't deliver fast enough - Drive",
   "text": "Zeekr is about to update the car it already can't deliver fast enough Drive",
   "author": "",
-  "published": "2026-10-09T17:56:23+00:00",
+  "published": "2026-10-09T17:57:09+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -6040,6 +6358,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "4b8634d398313855",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEJGY25ncjhzUEw3R3NZTVQ3RTVzbGFnamcxblA4eFViMFR4aUx3czlHei1oT2tDZ2ZQMXpaMks0TV9xVVpvXzBoU2tGSnNGdGdhM3pLTmxHeGxMNGY5czdPMm9FUHJIZE5rWnd0cmVXZ1JyelQwRVA2c3FjRG1CbENkVzNNQVVFeVp6MTJOVU1SSEln?oc=5",
+  "title": "Lexus confirms new EV for Australia, and it’s huge - Drive",
+  "text": "Lexus confirms new EV for Australia, and it’s huge Drive",
+  "author": "",
+  "published": "2026-10-08T23:30:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
  },
  {
   "id": "1df4bfeacd1bbd70",
@@ -17511,6 +17862,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "295028ec996649e8",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Inner East Review",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEtjb3RnRVRsUlNCY0hldUo4NHFIUmpUTlVsUzh1a2tuWGRoRVMzTnhnUGN5MnM4MDBsODNJUWhCLUJGRjdRcFJCSlcwc0N4eWhYWTljYl9hUk14cThmTGF6NmVyQXFyZEY1LTZkMU85UU5BMEE2akYtMXBleUswZGVrQUM5aEtIMDc4ZkExelR4ckE?oc=5",
+  "title": "XPeng's Oz-bound Zeekr 8X rival detailed - Inner East Review",
+  "text": "XPeng's Oz-bound Zeekr 8X rival detailed Inner East Review",
+  "author": "",
+  "published": "2026-08-05T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
   "id": "76e8f9cde94ce3f9",
   "type": "complaint",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -20918,6 +21304,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "4a34381e43ee3be9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTHFqT2F2MkhiRjZJSDNibjdCanlZMlBxM1NYbFRKUnZMTUF5NWhiMzRWdmJNVUtGZm1pZ2lnbnprc2JBREVDRzhEV21UM3pHQ2M0VTQycWxwaHVyZlBkQ0M2RnhGUE1jbGdCWlJnZXVmblM5aGctM1hPak12Q1FUeVBoU21ud2JjMkZwbXZhMU4tMmVpdVlfNmVQU3JlcV9DaDJ4NS10UW9GbTJ6TmFkR1BHQUN1SzRNeEhvOG5TbzQzUHlY?oc=5",
+  "title": "2026 Tesla Model Y's most annoying problem addressed as new accessory brings sought-after feature to the key Zeekr 7X rival - CarsGuide",
+  "text": "2026 Tesla Model Y's most annoying problem addressed as new accessory brings sought-after feature to the key Zeekr 7X rival CarsGuide",
+  "author": "",
+  "published": "2026-06-02T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": -4,
+   "neg_hits": 4,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
   "id": "18ecf69afde055a6",
   "type": "complaint",
   "source": "playstore-android",
@@ -21725,7 +22146,7 @@
   "title": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely - OzBargain",
   "text": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely OzBargain",
   "author": "",
-  "published": "2026-05-01T06:06:17+00:00",
+  "published": "2026-04-30T21:36:39+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],

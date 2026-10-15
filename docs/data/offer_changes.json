@@ -1,5 +1,16 @@
 [
  {
+  "id": "518f2175b7c190a6",
+  "key": "hyundai",
+  "brand": "Hyundai",
+  "url": "https://www.hyundai.com/au/en/offers",
+  "detected": "2026-10-15T07:19:48+00:00",
+  "added": [
+   "Explore Surprisingly Big Offers"
+  ],
+  "removed": []
+ },
+ {
   "id": "c1117725e6b413b3",
   "key": "mg",
   "brand": "MG / IM",
