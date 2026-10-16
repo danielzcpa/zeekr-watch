@@ -1,5 +1,75 @@
 [
  {
+  "id": "11b838bb4f2a74d0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVU4WXA0bUk4c0QzcnVUSFRWVV9fSWdKeW9XTy1OaXptZkxrM01nUEhxblowV3ozdnVxUDFIanlPUmFnMWxEN1ZZUXZiNi1Vem1jUC0xQ185ZXNsRDh6aWczeHFDTlBmV2VVZEYwZk81b1hZOW51VEJ0QmFKRHpJVnRUQ014Y25mOG9QUjBSajhGUkR2emc?oc=5",
+  "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
+  "text": "New Zeekr 7X rival gets closer to Australia The Canberra Times",
+  "author": "",
+  "published": "2026-10-16T23:47:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "e9ae28215eba1af9",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/2026-byd-atto-2-dm-i-review-australias-cheapest-plug-in-hybrid-drives-like-an-ev-but-its-not-as-smooth-as-some/",
+  "title": "2026 BYD Atto 2 DM-i Review: Australia’s cheapest plug-in hybrid drives like an EV, but it’s not as smooth as some",
+  "text": "BYD is making something of a habit of resetting price benchmarks, and the Atto 2 DM-i is the latest example. At $24,990 plus on-road costs, the plug-in hybrid version of the Atto 2 small SUV is the most affordable plug-in hybrid in Australia. It’s also $7000 cheaper than the entry-level Atto 2 EV, giving buyers who aren’t ready to go fully electric a cut-price way into the brand’s small SUV. READ MORE: 2026 BYD Atto 2 Dynamic review: Cheap and surprisingly cheerful compact electric SUV makes ICE rivals redundant READ MORE: What is a PHEV? Plug-in hybrid electric vehicles explained READ MORE: BYD Atto 2 news and reviews 2026 BYD Atto 2 DM-i price and equipment There are two grades of the BYD Atto 2 DM-i, as it’s badged. The Atto 2 DM-i Essential costs $24,990 plus on-road costs, and the Atto 2 DM-i Premium is $29,990. White is the only standard colour, with others another $600. As of late 2026 the BYD Atto 2 DM-i plug-in hybrid EV is the cheapest PHEV on the market. The Essential gets a 7.85kWh battery good for 39km of electric driving (WLTP), a combined output of 122kW, 16-inch alloys, a 10.1-inch central touchscreen and an 8.8-inch digital instrument display. Wired and wireless Ap",
+  "author": "Toby Hagon",
+  "published": "2026-10-16T22:28:07+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T23:51:05+00:00"
+ },
+ {
   "id": "388ef281d54e5664",
   "type": "competitor_news",
   "source": "gn-ev-offer-au",
@@ -8,7 +78,7 @@
   "title": "Nissan takes aim at Tesla Model Y, but not with an X-Trail - Carsales",
   "text": "Nissan takes aim at Tesla Model Y, but not with an X-Trail Carsales",
   "author": "",
-  "published": "2026-10-16T21:11:15+00:00",
+  "published": "2026-10-16T21:14:47+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -62,23 +132,89 @@
   "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
-  "id": "11b838bb4f2a74d0",
+  "id": "86319ed31d31c856",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · The Canberra Times",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVU4WXA0bUk4c0QzcnVUSFRWVV9fSWdKeW9XTy1OaXptZkxrM01nUEhxblowV3ozdnVxUDFIanlPUmFnMWxEN1ZZUXZiNi1Vem1jUC0xQ185ZXNsRDh6aWczeHFDTlBmV2VVZEYwZk81b1hZOW51VEJ0QmFKRHpJVnRUQ014Y25mOG9QUjBSajhGUkR2emc?oc=5",
-  "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
-  "text": "New Zeekr 7X rival gets closer to Australia The Canberra Times",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
+  "title": "Zeekr's real LandCruiser killer could look like this - Drive",
+  "text": "Zeekr's real LandCruiser killer could look like this Drive",
   "author": "",
-  "published": "2026-10-16T12:45:29+00:00",
+  "published": "2026-10-16T18:02:28+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
   "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T23:51:05+00:00"
+ },
+ {
+  "id": "6dbe98d0de9727af",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczZIUTdCVkJqc3ZFVUNZU1dMbjRKbkZjb0hvNGJVVWZjTzJVanRVWTB2VWVhMG45cGZ5b19aaFB6WE1ndTFONElBOTEyNXk1NExNY2lIc2NZNHlvaDVUN1l4WXZwWVpoQUxlUzJUc3JQRzJmQ25QQU9obGU5MFVRaTd6SGhTQkJjOEl3ekYySkx1SllSQ1FuMzkzclk3eF9Gb2dDbFByaXA5RjBaUndPUnFQRXI4X21pVlVxUVU0UXJJM3U2LVFn?oc=5",
+  "title": "Most under-rated car brand today: 2026 Subaru Uncharted and Trailseeker are proof Subaru is better than Tesla and its Model Y | Opinion - CarsGuide",
+  "text": "Most under-rated car brand today: 2026 Subaru Uncharted and Trailseeker are proof Subaru is better than Tesla and its Model Y | Opinion CarsGuide",
+  "author": "",
+  "published": "2026-10-16T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T23:51:05+00:00"
+ },
+ {
+  "id": "0ea6624a635cd203",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSF85N2RwSzFnME5ISFc3VnQ1dkxhZTZBcVJhcEFWaHlLYW9SNFktS1ZJMVhNUGhkNWdJbmpvSnVtX3NaYllBLWlXNXBEa2dIMTFHMngzUmQwRno5NEhLaEZWR2xUUE9XRzRrbnVrV3IzS1FEZkw2QTBHUjkzbHYzZm5NbFNBMXROSTdYdENGazBmenh1V2JIS2JPQXQtZkhPZkdzSHZHTmxTMjMtek1LSDRjVi1vUDhCZWZBUzJSTnllMWFu?oc=5",
+  "title": "'No need for Australian testing': Geely reveals its secret weapon that could benefit future examples of 2026 Geely EX5, Battleship 700 and Monjaro - CarsGuide",
+  "text": "'No need for Australian testing': Geely reveals its secret weapon that could benefit future examples of 2026 Geely EX5, Battleship 700 and Monjaro CarsGuide",
+  "author": "",
+  "published": "2026-10-16T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "delivery"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -92,7 +228,7 @@
   "scope": "zeekr",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
+  "first_seen": "2026-10-16T23:51:05+00:00"
  },
  {
   "id": "0c6257880c9f5a9d",
@@ -315,7 +451,7 @@
  {
   "id": "14be5849733d765f",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU0xalJSc3J0Q3dWdkc5TzJsQkg1WHRteTUxVUp4S29zeTAyRFBlSGcxZUhTYjZreVJGdXdXR1RqbTZqSThlWERUb0E2akFGYy1fTHQ5Ty1DV0VXLTdGVjlPRkkwOFRsMjFNRXFqdjY1MGtOcEFqNHZsVE5nZlp4cjhrbjl4aWR4ODRQVDhCdFFiU29mLVRBdkh4Tmo0VDlQZEZEYmhfMTdlZjJCcG5nUnBNcGdaWl9KaWR6TzhR?oc=5",
   "title": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia - CarsGuide",
@@ -580,7 +716,7 @@
  {
   "id": "672dbc3636001344",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSkRqeVdqN0F6Ulp2M0pyVkl2YWJSUzNqN3ljSFhXNzZhbV9TMTBCMXRGLS1hSlVDTnlOVWhyY3VjNjVZNHVLU1dKSlVSZHdSby1obGlqQ09pd2hVUm9vZ3k1Vld2a0g1aWM3amZhU3Fla1dSUUtHc1gwOGtkZkE5ekxMbDFJWWY1aGJUNTRxR1Z2M0REVzJBbzYxa0dwTnpTRnl3V0NXQk5kVnotazJJQ1JIZFZIb2tlZE02cERialZjYmg0?oc=5",
   "title": "China to end annoying car feature in vehicles such as 2026 BYD Sealion 7, Geely EX5, Zeekr 7X and more - CarsGuide",
@@ -11832,18 +11968,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -18475,6 +18613,40 @@
   "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
+  "id": "eff2def3afc45d13",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNOd09lTDBtMFdXcWx4WG45UnRqZWVweVJ5ZncyLTU5ZzNMVVRlNFFtUjh6TlJpZUdJWk1lVWh0WXZvcFFIRURkdUhadXV3TDF5Q1J3azdYQ3RFMEFBMk44NUpqMGRTSHloREFuempINV9ickY3ZzBhWGdUNE5yQzdmQkxOb3JfUzNxcWtzZnFXdS02SFhYdHVGRXRvYl9NTEFFTmtWOXo1NG05MEo5Q1d5N1c?oc=5",
+  "title": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch - CarExpert",
+  "text": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch CarExpert",
+  "author": "",
+  "published": "2026-08-19T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "386ee800bfec78d5",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -18588,40 +18760,6 @@
   "zeekr": true,
   "models": [
    "7GT"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "eff2def3afc45d13",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNOd09lTDBtMFdXcWx4WG45UnRqZWVweVJ5ZncyLTU5ZzNMVVRlNFFtUjh6TlJpZUdJWk1lVWh0WXZvcFFIRURkdUhadXV3TDF5Q1J3azdYQ3RFMEFBMk44NUpqMGRTSHloREFuempINV9ickY3ZzBhWGdUNE5yQzdmQkxOb3JfUzNxcWtzZnFXdS02SFhYdHVGRXRvYl9NTEFFTmtWOXo1NG05MEo5Q1d5N1c?oc=5",
-  "title": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch - CarExpert",
-  "text": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch CarExpert",
-  "author": "",
-  "published": "2026-08-18T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
   ],
   "competitors": [],
   "brands": [],

@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-16T21:36:52+00:00",
- "duration_s": 116.4,
- "items_total": 701,
- "new_this_run": 201,
+ "generated": "2026-10-16T23:51:05+00:00",
+ "duration_s": 158.0,
+ "items_total": 705,
+ "new_this_run": 213,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 8,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 101,
-  "launch_signals_7d": 31,
+  "competitor_news_7d": 104,
+  "launch_signals_7d": 32,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 70,
+  "zeekr_news_7d": 71,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-16",
    "complaints": 0,
-   "competitor_news": 8,
-   "zeekr_news": 10
+   "competitor_news": 11,
+   "zeekr_news": 11
   }
  ],
  "categories_30d": [
@@ -328,7 +328,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 12,
+   "n_30d": 13,
    "launch": [
     "5ed70c4b9f6db41c",
     "8b84f73c39185863",
@@ -459,8 +459,9 @@
    "latest": "70f2d9868dbafa57"
   },
   "geely-ex5": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
+    "0ea6624a635cd203",
     "f4537ddeee79ee40",
     "37c34a9709de995f",
     "06fa47391abc61ff",
@@ -469,7 +470,7 @@
    "offer": [
     "37c34a9709de995f"
    ],
-   "latest": "f4537ddeee79ee40"
+   "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
    "n_30d": 7,
@@ -818,6 +819,16 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "0ea6624a635cd203",
+   "title": "'No need for Australian testing': Geely reveals its secret weapon that could benefit future examples of 2026 Geely EX5, Battleship 700 and Monjaro - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-10-16T16:00:00+00:00",
+   "competitors": [
+    "geely-ex5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "d2af0ef5c3bba679",
    "title": "Tesla Roadster revealed with SpaceX thrusters: 0-100km/h in less than a second, it can fly … and you still can’t have one",
    "source": "EV Central",
@@ -937,39 +948,6 @@
    "competitors": [
     "avatr"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "e42cfb3251435a2d",
-   "title": "Xpeng debuts G9L, its new flagship electric SUV",
-   "source": "The Driven",
-   "t": "2026-10-13T23:14:24+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_offer",
-   "id": "a0bad462fa5ad448",
-   "title": "Tesla Model 3 RWD 2027 Review",
-   "source": "Chasing Cars (Zeekr)",
-   "t": "2026-10-13T23:00:29+00:00",
-   "competitors": [
-    "tesla-model-y",
-    "tesla-model-3",
-    "byd-seal",
-    "mazda-6e"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "25bf1b85357981b9",
-   "title": "BYD Sealion 8 goes EV in Paris with 650km of range",
-   "source": "CarExpert",
-   "t": "2026-10-13T22:15:00+00:00",
-   "competitors": [
-    "byd-sealion8"
-   ]
   }
  ],
  "source_status": {
@@ -980,7 +958,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1010,27 +988,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 25,
+   "count": 24,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 15,
+   "count": 12,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 40,
+   "count": 42,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 36,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 53,
+   "count": 54,
    "note": ""
   },
   "carexpert": {
@@ -1099,24 +1077,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 20,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1206,7 +1184,7 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
