@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-16T18:17:58+00:00",
- "duration_s": 114.8,
- "items_total": 699,
- "new_this_run": 206,
+ "generated": "2026-10-16T21:36:52+00:00",
+ "duration_s": 116.4,
+ "items_total": 701,
+ "new_this_run": 201,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 9,
+  "complaints_7d": 8,
   "complaints_30d": 41,
-  "high_7d": 3,
+  "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 108,
-  "launch_signals_7d": 36,
+  "competitor_news_7d": 101,
+  "launch_signals_7d": 31,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 70,
   "offer_page_changes_7d": 3
@@ -176,25 +176,25 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 37,
+   "competitor_news": 36,
    "zeekr_news": 16
   },
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 15,
+   "competitor_news": 16,
    "zeekr_news": 15
   },
   {
    "date": "2026-10-15",
    "complaints": 2,
    "competitor_news": 9,
-   "zeekr_news": 9
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-16",
    "complaints": 0,
-   "competitor_news": 7,
+   "competitor_news": 8,
    "zeekr_news": 10
   }
  ],
@@ -328,7 +328,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 11,
+   "n_30d": 12,
    "launch": [
     "5ed70c4b9f6db41c",
     "8b84f73c39185863",
@@ -337,7 +337,7 @@
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "17a61d0a8ca1af6d"
+   "latest": "388ef281d54e5664"
   },
   "xpeng-g6": {
    "n_30d": 1,
@@ -970,16 +970,6 @@
    "competitors": [
     "byd-sealion8"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "0c648b1890f77652",
-   "title": "Polestar: 'Vegan' doesn't mean 'sustainable' when it comes to interior design",
-   "source": "CarExpert",
-   "t": "2026-10-13T19:00:00+00:00",
-   "competitors": [
-    "polestar-4"
-   ]
   }
  ],
  "source_status": {
@@ -1025,22 +1015,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 16,
+   "count": 15,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 44,
+   "count": 40,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 38,
+   "count": 36,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 55,
+   "count": 53,
    "note": ""
   },
   "carexpert": {
@@ -1215,8 +1205,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
-   "note": "unchanged"
+   "count": 31,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
