@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-16T14:09:59+00:00",
- "duration_s": 169.0,
- "items_total": 692,
- "new_this_run": 223,
+ "generated": "2026-10-16T18:17:58+00:00",
+ "duration_s": 114.8,
+ "items_total": 699,
+ "new_this_run": 206,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -10,8 +10,8 @@
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 104,
-  "launch_signals_7d": 33,
+  "competitor_news_7d": 108,
+  "launch_signals_7d": 36,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 70,
   "offer_page_changes_7d": 3
@@ -152,13 +152,13 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 9,
+   "competitor_news": 13,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-10",
    "complaints": 0,
-   "competitor_news": 6,
+   "competitor_news": 8,
    "zeekr_news": 3
   },
   {
@@ -176,7 +176,7 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 38,
+   "competitor_news": 37,
    "zeekr_news": 16
   },
   {
@@ -195,7 +195,7 @@
    "date": "2026-10-16",
    "complaints": 0,
    "competitor_news": 7,
-   "zeekr_news": 8
+   "zeekr_news": 10
   }
  ],
  "categories_30d": [
@@ -398,7 +398,9 @@
   },
   "kia-ev6": {
    "n_30d": 2,
-   "launch": [],
+   "launch": [
+    "a27bf89cf6f37c43"
+   ],
    "offer": [],
    "latest": "a27bf89cf6f37c43"
   },
@@ -482,10 +484,12 @@
    "latest": "d2af0ef5c3bba679"
   },
   "polestar-2": {
-   "n_30d": 0,
-   "launch": [],
+   "n_30d": 1,
+   "launch": [
+    "479081910d666025"
+   ],
    "offer": [],
-   "latest": null
+   "latest": "479081910d666025"
   },
   "byd-seal": {
    "n_30d": 5,
@@ -516,8 +520,10 @@
    "latest": "d2af0ef5c3bba679"
   },
   "mazda-6e": {
-   "n_30d": 1,
-   "launch": [],
+   "n_30d": 2,
+   "launch": [
+    "c1d73282b7bf78ea"
+   ],
    "offer": [
     "a0bad462fa5ad448"
    ],
@@ -974,13 +980,6 @@
    "competitors": [
     "polestar-4"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "c1117725e6b413b3",
-   "title": "MG / IM 官网政策页面变化（+0 / −12 行）",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-10-13T15:53:50+00:00"
   }
  ],
  "source_status": {
@@ -991,7 +990,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1026,7 +1025,7 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 17,
+   "count": 16,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1036,7 +1035,7 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 36,
+   "count": 38,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1110,24 +1109,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 20,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1217,7 +1216,7 @@
   "offers-mg": {
    "ok": true,
    "count": 19,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,

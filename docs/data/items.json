@@ -1,5 +1,34 @@
 [
  {
+  "id": "c207f5ebbabc0e8a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · caradvice.com.au",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNktxWlFweFJmcXhvVjVjY1YtQTJhbTJIT1ZjdkNranQ5Ni1TbG85SC13cmtEM3lrWnR0OG5tam41dmJJLXY4SnRyaGI2SGFIdXAxU3dLOE90eV9ER2NFLXFQdnllUFhSY3NvY2dxejJNQXF1VzdkODV2V2g2WDZsWWtMTzJBcWhI?oc=5",
+  "title": "Look out G-Class and Defender, here comes Zeekr with the potential to do more for less - caradvice.com.au",
+  "text": "Look out G-Class and Defender, here comes Zeekr with the potential to do more for less caradvice.com.au",
+  "author": "",
+  "published": "2026-10-16T18:03:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
   "id": "11b838bb4f2a74d0",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -8,7 +37,7 @@
   "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
   "text": "New Zeekr 7X rival gets closer to Australia The Canberra Times",
   "author": "",
-  "published": "2026-10-16T12:45:00+00:00",
+  "published": "2026-10-16T12:45:29+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -218,6 +247,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "369e761aaf59aff5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Carlist.my",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZk5HYU5zTFYwUU1qcVFyZ1VNT05hbkF5cVZZYURNQ252ZWZxbXZFMnVRNk51YU9HbTdLeUJpcG9BZmk2TnVVTDRHeW0yTTZtdlJOSzZseC16TDlUc1RsSDNjcHZ1aW5YdzdFaHlqb0VpdEViS1V5NmIyd1ZRbjRnd0xkT1lnUS1rSFg2T0N2QmI5N1FDWjBLcHFmUTRMN1NLTDFrTmdnNHBHQ2dhaDRYcEI3MlZ0TUhFMmZyeFlIUQ?oc=5",
+  "title": "EON opens Zeekr pop-up store at AEON Mall Shah Alam ahead of Glenmarie showroom - Carlist.my",
+  "text": "EON opens Zeekr pop-up store at AEON Mall Shah Alam ahead of Glenmarie showroom Carlist.my",
+  "author": "",
+  "published": "2026-10-16T07:15:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
   "id": "14be5849733d765f",
@@ -2728,7 +2788,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -2755,7 +2815,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
@@ -4013,41 +4073,6 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
-  "id": "a27bf89cf6f37c43",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TGJXcTk4S0lOMTNiSlpHNERyTGtMcE9ZcXdmU3lhRWdUOGstc0hDczZMUFhtTzRHZThMclNGM0dXYnpQYmsyMXFTTWN4b1U?oc=5",
-  "title": "Kia EV6 price, range and specs - EV Central",
-  "text": "Kia EV6 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:02:55+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "kia-ev6"
-  ],
-  "brands": [
-   "kia"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
@@ -6951,6 +6976,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "c1d73282b7bf78ea",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTHMtNEZJUVk4RFlBV2wzdGFuSktEQy1JSFptX3JsWkx4SjRMNmd1dUpwS21FV0tHNU1RclIyYTNBbWtaZm5jdUdhdWZ4Ukpn?oc=5",
+  "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
+  "text": "Mazda 6e review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-10T21:43:19+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mazda-6e"
+  ],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
   "id": "977de602e7893c4e",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -6984,6 +7044,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "479081910d666025",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vZzRCbzhVS0RJdl94U2pLV0pmUmdiX2dGbzlrU0t6dzk4andldFVhcDZsTjlXa0NEYmoxT0hPWnFkUGZYbi1pckNUQTVORVVUVTJn?oc=5",
+  "title": "Polestar 2 review: every 2026 variant, price and specs - EV Central",
+  "text": "Polestar 2 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-10T21:43:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
   "id": "1fcb9074dd9fe52c",
@@ -7300,6 +7395,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "448ee5cc88d62b68",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DalUxSTVpdlE0NG50MmE2cDFJZ0JvUlNlR0xrVVFXcGJLVlVsOUV5ZTNTMmsyRDRDMmJFS2xTUnkybVAwWUlvV2NrZmpxR1c1RmZhVUhSQllpMzA4?oc=5",
+  "title": "Mercedes-Benz CLA review: every variant, price and specs - EV Central",
+  "text": "Mercedes-Benz CLA review: every variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:57:28+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
   "id": "1af84a334ac544d9",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -7403,6 +7531,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "a27bf89cf6f37c43",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TGJXcTk4S0lOMTNiSlpHNERyTGtMcE9ZcXdmU3lhRWdUOGstc0hDczZMUFhtTzRHZThMclNGM0dXYnpQYmsyMXFTTWN4b1U?oc=5",
+  "title": "Kia EV6 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Kia EV6 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "e56ee2a603252f5b",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -7436,6 +7599,72 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "cb40097f8e9bd1a7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTGxFYXh6OFV4cmxHdk1RMUJpWnoyZVY3NmlGamhMS1paeXF2c3Z1MlNJT0xjSWlKalZwSU9UclBUZjVUYmFPX2hLTE9QYVVYNFE?oc=5",
+  "title": "Geely EX2 review: every 2026 variant, price and specs - EV Central",
+  "text": "Geely EX2 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:17+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
+  "id": "05c17afb9af4e4b9",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4QVhneG8yTjVIUnhGck5wbXkxMXNCRGN5WnZKbFFrb091c29ESlFvX2pLWXlVUlhLZmMxZGl2eWJYVVAybkNvX3VwZFJ3V3dCbEtQdlhWUkU3TE9SZ3kw?oc=5",
+  "title": "Ford Mach-E review: every 2026 variant, price and specs - EV Central",
+  "text": "Ford Mach-E review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
   "id": "db98b7fc96217946",
@@ -7475,7 +7704,7 @@
  {
   "id": "a40beb8cf3c8b2c4",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RklfZno3N1h3MWMxM05rY2ZZeHlSNjl2N0I4VE9aX0pPQWc0SHBPZHQ5VE1GazVKdks4cHZIRUJrRm5pNmJUTHVCcGN6QlhUSUVqRFdDOWlpaUpodzNEVXQ5a3paUmtSLW9JX1pBR2tocHhWRVc3eTRtZUdBcEE?oc=5",
   "title": "Zeekr is about to update the car it already can't deliver fast enough - Drive",
@@ -8126,7 +8355,7 @@
   "title": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries - CnEVPost",
   "text": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries CnEVPost",
   "author": "",
-  "published": "2026-10-08T07:33:08+00:00",
+  "published": "2026-10-08T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
