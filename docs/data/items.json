@@ -1,5 +1,194 @@
 [
  {
+  "id": "d2af0ef5c3bba679",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/tesla-roadster-revealed-with-spacex-thrusters-0-100km-h-in-less-than-a-second-it-can-fly-and-you-still-cant-have-one/",
+  "title": "Tesla Roadster revealed with SpaceX thrusters: 0-100km/h in less than a second, it can fly … and you still can’t have one",
+  "text": "Tesla showed the world how to make electric cars fun, fast and desirable. It then tried to reinvent the ute – or pick-up truck – with the Cybertruck. Now the tech-focussed electric car brand is showing what happens with you mix cars with rockets. READ MORE: Tesla Cybercab in Australia: Our man Corby meets the future and comes away disturbed READ MORE: Tesla Model 3 drops below $46,000! New entry grade undercuts BYD Seal as well as Kia EV4 READ MORE: How good would it be if this thing really happens? Longbow 895kg Speedster EV sports car hits British roads before planned 2026 deliveries READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared The innovative car maker is trying to reinvent the supercar, using SpaceX technology and thrusters to deliver mind-bending acceleration and slot-car-like cornering. The Tesla Roadster has thrusters to make it fly. Really. Just don’t expect to see one in a showroom any time soon. The new Tesla Roadster has finally been revealed – almost nine years after Tesla first showed an early concept and started taking deposits. Production still isn’t due to start until 2028. Part Jetsons,",
+  "author": "Toby Hagon",
+  "published": "2026-10-16T03:53:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3",
+   "byd-seal",
+   "kia-ev4"
+  ],
+  "brands": [
+   "kia",
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "eff99744c9a86099",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/tesla-roadster-revealed-with-flying-tech-08sec-0-100kmh-sprint-time",
+  "title": "Tesla Roadster revealed with flying tech, 0.8sec 0-100km/h sprint time",
+  "text": "The long-awaited second-generation Tesla Roadster has finally been scheduled to go into production, in 2028 – over a decade after it was revealed in concept form – and the US electric vehicle (EV) maker has demonstrated the latest iteration of its electric sports car in a series of flying stunts at the SpaceX test centre in McGregor, Texas today. Tesla CEO Elon Musk, who is also the founder and CEO of SpaceX, said the vehicle will be capable of accelerating from 0-60mph (97km/h) in less than one second. A demonstration run shown during the livestreamed event recorded a claimed time of 0.81 seconds. That’s quicker than Tesla's original acceleration claim for the second-generation Roadster, first revealed in 2017, when Mr Musk promised a 0-60mph time of 1.9 seconds, a top speed exceeding 400km/h, and a driving range of approximately 1000km. Tesla is now targeting a top speed of 230mph (370km/h), but Mr Musk today said the new Roadster has “got to crack halfway to the speed of sound” of Mach 0.5, which equates to about 383.5mph (617km/h). “This is not an autonomous car, it is the last – well, it is technically autonomous for this demo to make sure we don’t kill anyone – but this will",
+  "author": "Damion Smy",
+  "published": "2026-10-16T03:37:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "6d713f22a03de667",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Auto Trader NZ",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeS1rRlhQSzNGTkJSUVlXTGNTTDY2elk4VU1HM29KVVRuS0hxODRqb0ZwQmZrdEFZVm5VR05YX3NoV3NPN3JmRG11U2VOUE1tV2NBX1hzMk8tQ3FmWWFMYlc5aDJjN3hiUW1wZk5KUHZDdWNha2c1NGl5T1JveE01cGNZSUVZMm1wUkZHZ19yQ1lQUUNOYUY5SjFlUHFJMmwtR2ZwUXZQbw?oc=5",
+  "title": "Zeekr unveils updated 7X SUV will more range and faster charging - Auto Trader NZ",
+  "text": "Zeekr unveils updated 7X SUV will more range and faster charging Auto Trader NZ",
+  "author": "",
+  "published": "2026-10-16T01:05:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "6a1bb06bcc9cb6cc",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-mazda-cx-30-gets-new-option-from-mx-5-more-tech",
+  "title": "2027 Mazda CX-30 gets new option from MX-5, more tech",
+  "text": "The Mazda CX-30 has received various specification updates in the UK, bringing new exterior paint colours and adding both luxury and safety features, but it’s unclear when the upgraded small SUV will become available in Australia. Many of these changes were announced for the Japanese market back in July, and are now being rolled out to the UK and Europe before the end of this year. We've contacted Mazda Australia to confirm when these changes will arrive here. Zinc Green Metallic joins the colour palette, after having debuted on the MX-5 earlier this year. Mazda says the paint was inspired by the colour and texture of zinc chromate primer. Aero Grey metallic is also newly available on the CX-30, while new gunmetal and gloss-black decorative interior panels are available in some variants. Ventilation is now available for the front seats, joining heating, while the surround-view camera gains a see-through view mode, and the blind-spot monitoring features a safe exit warning function. Unlike in Australia, where the CX-30 is offered with only naturally aspirated Skyactiv-G 2.0-litre and 2.5-litre four-cylinder petrol engines, Mazda in the UK gets the mild-hybrid 2.0-litre e-Skyactiv G",
+  "author": "William Stopford",
+  "published": "2026-10-16T00:38:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "73e54738eb48f209",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · GoAuto.com.au",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWJvUVZndnhXbHVMNHZiRloyc1liRUNseTBTZno1X1l4SnhidXQ1SmMwVzYzVjd0LVNLLWdhWXhHSTNwaWVvZlh6cTJkX2NYVnhDZmg0dEpibHZtNXRuMWY5bGt6VXlYeUdNdkJESHFGdFA0NklWLU5VaVpNNXJkZmREYWJhZUV0ckJPcllLTlFlVDNya0sta29wRnpOVDFkR2NROW5hQWVBNTBwSnhxcUtyUUNtVEpucTVBQl9MN0N3WGM?oc=5",
+  "title": "Mercedes-Benz GLE 450 e PHEV arrives - GoAuto.com.au",
+  "text": "Mercedes-Benz GLE 450 e PHEV arrives GoAuto.com.au",
+  "author": "",
+  "published": "2026-10-15T22:50:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
   "id": "f15127d01af21be4",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -141,6 +330,46 @@
   "first_seen": "2026-10-15T17:43:16+00:00"
  },
  {
+  "id": "c3d70628071ddce0",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x6lcae/zeekr_7x_buy_the_current_model_with_a_discount_or/",
+  "title": "Zeekr 7X: Buy the current model with a discount or wait for the 2027 facelift?",
+  "text": "I’m currently considering buying a fully loaded Zeekr 7X Privilege AWD in Belgium. I received an offer for a stock vehicle, but just a few days later, Zeekr announced the updated 2027 model. Here are the numbers for two equivalently equipped vehicles: Current 7X Privilege AWD: €66,159 including fleet and stock discounts, fully equipped with Advanced Cockpit Pack, Comfort Pack, Nappa leather, metallic paint and tow hitch. Updated 2027 7X Privilege AWD: approximately €73,389 with equivalent equipment, including an estimated €1,799 for the tow hitch (not yet available in the configurator). That’s a difference of approximately €7,230 , potentially less if fleet discounts become available for the new model. I spoke with the dealer, who genuinely believes the changes are relatively minor. Personally, I don’t care much about the additional 30–35 hp or the difference between 16 and 15 minutes of charging. The current model is already more than powerful and fast enough for me. What interests me more is: Are there meaningful improvements to the driving experience, steering behaviour or suspension? How significant is the new Bosch ADAS hardware compared to the current system? Are there any ot",
+  "author": "/u/ScottRider463",
+  "published": "2026-10-15T13:15:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
   "id": "23e3fe5fb998d81a",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -168,6 +397,109 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "7cb821f9e526c32e",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x6jmfh/updated_interior_7x/",
+  "title": "Updated interior 7X",
+  "text": "I visited a Zeekr dealership in China recently to see the updated 7X interior. We’ve all seen the exterior changes but there haven’t been any decent pics of the updated Interior. The sales person told me there’s a new purple-ish color and the center console has been redesigned (it’s now one single piece). Other than that there honestly isn’t much of a difference between the current one and the facelift.",
+  "author": "/u/Bored_Millenial-",
+  "published": "2026-10-15T11:54:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "6c70d8059e457201",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x6iupq/zeekr_7x_eu_version_design_comparison_old_vs_new/",
+  "title": "Zeekr 7X EU version - design comparison old vs new",
+  "text": "Hi, all! Since there aren't any direct comparisons between the old and the new versions of the Zeekr 7X for the EU, I decided to go into the configurators and snatch some of the photos there of the Privilege white edition (you can see the changes more clearly instead of the black colour) with dark Nappa interior. From what I could spot, the cosmetic changes involve the front and rear spoilers for the exterior and for the interior I noticed the totally different central armrest, gold stitching for the seats and, apparently, a different front door design (no pouch on the armrest). Let me know if you found something else or have any other details. Enjoy!",
+  "author": "/u/FJCReaperChief",
+  "published": "2026-10-15T11:12:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "dedd8e1aebb91e14",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GaG1UbUJSY1dENUlSR0tlS21iZVA2ZlBra2pJVkY0Uk9TajUzcFJBaDNiU1dIazRuZm5fMVFUWjh5ZjVHUjRJVVkxbkpvel84MEh6Y3lCWmFBZV85bXN5Vk5aQ21IemNGUG5JSHYxU2FveEctNWtYSA?oc=5",
+  "title": "Zeekr cars that are brands from China over $80,000 for sale or order in Australia - Carsales",
+  "text": "Zeekr cars that are brands from China over $80,000 for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-15T10:40:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
  },
  {
   "id": "6a741011172ade64",
@@ -355,6 +687,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "12aa961bb052a607",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x6do6x/bosch_adas_or_zeekr_haohan_20/",
+  "title": "Bosch ADAS or Zeekr Haohan 2.0",
+  "text": "A question for European owners: How does the ADAS in the 7GT compare with the older Zeek 7x? Another way of asking the same question is how does the older Zeekr Haohan 2.0 compare with the newer Bosch ADAS? Thanks very much!",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-10-15T05:49:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T04:18:40+00:00"
  },
  {
   "id": "0c203bac170ff847",
@@ -3978,7 +4344,7 @@
  {
   "id": "668210c07797ef8e",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmhIbTFoZ0hjaW5aVGViQWlfbTA3NjNVSThWRTJweW90YTRObTJhVVZVbHVTOThwSTByazNpaWVxRGxMQ25RME1uYUtack5pOW5KanhtWVdPdlh5LWNKa1o3QnRjZHdPSTJnUkUtN3lPQjVDQzF6eXpjRkRoNzVZd0FFbFE0M2RNOXM1Ykd0S2txa2dpRmpWbWQ1RWFKLW1xVlRQYlFGU1FKTVk2LXBiWmxERm94cmtNMl94UnNuTQ?oc=5",
   "title": "Bad news for Chinese EVs in Australia as price rises loom for 2026 Tesla Model Y, BYD Sealion 7 and Geely EX5 - CarsGuide",
@@ -4009,7 +4375,7 @@
   "signals": [
    "price_rise"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T21:09:37+00:00"
@@ -4017,7 +4383,7 @@
  {
   "id": "3a4fb0d45c65c6ec",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUpIVzRaa1MtRGVYZl9DWUxUWXNMakIyU21KNTRwS1pjTnZqYm5qNG11NV9CRHZ5OWk4cWRYRi1WZkVfVHpoSGpSUjNIUGR0VFVaRkRkM0JlaVYxMDFpOWFkcDdzdW94bnZsam9hM3dKeXc2bmk1bHl5NGQ0Slp1TjZUZ1lXbTNfeHd3Y2ZKYlNzSV9WcHNoRm5uOXJCeEdBU1o4WUFGcFQ4bzhpaF9yRnN6dU9ER01TdlNjaTlR?oc=5",
   "title": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y - CarsGuide",
@@ -4048,7 +4414,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
@@ -4314,7 +4680,7 @@
  {
   "id": "d64406241a9f2014",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDN4NDZ2UkRIQzJIYTR5eUNMbFZvLTRMSWJsaG5PLTJscjVUMnRxOEIzZG5ycnVBT05FQ0EzN2hhTzdRVmVURHRTQ3psQUU3RzZuNmh5Tjh5Zmh4R2NNREo1cmxiVmN3aHcxMFYxb2MyTEJoVTNWMVhZY2o2Ql9tSko2SlZ0d3o2cjVZdlV1SHFQd3RGZ3o1S1I3SzV6TlJJUmZrLUg1eFZkRG5Wc3RoU3hEQVhEbzdfaVlqcVAyeU80TVVO?oc=5",
   "title": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X - CarsGuide",
@@ -4344,7 +4710,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
@@ -10522,20 +10888,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -12485,8 +12849,8 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · zecar",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6Smp4NUZrZ3hCR09GM0lUVFF3VFNnZ3F0ZWJZZUJBRTVPSlZWbnlGa0pKTFRPQlQwZTZWcm1zVmg2dVUydWFELXBNWk5TWDU5WEhna0YxekNNdklNWEU0NWtkNmR2UkM1VzNnMzNYUnpXamFCTmc?oc=5",
-  "title": "Zeekr 7GT Confirmed for Australia: 670km Range - zecar",
-  "text": "Zeekr 7GT Confirmed for Australia: 670km Range zecar",
+  "title": "Zeekr 7GT Confirmed for Australia: Up to 670km Range - zecar",
+  "text": "Zeekr 7GT Confirmed for Australia: Up to 670km Range zecar",
   "author": "",
   "published": "2026-09-18T07:00:00+00:00",
   "rating": null,

@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-15T23:46:59+00:00",
- "duration_s": 113.9,
- "items_total": 661,
- "new_this_run": 205,
+ "generated": "2026-10-16T04:18:40+00:00",
+ "duration_s": 189.4,
+ "items_total": 671,
+ "new_this_run": 212,
  "counts": {
-  "complaints_24h": 2,
+  "complaints_24h": 1,
   "complaints_7d": 9,
   "complaints_30d": 42,
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 99,
-  "launch_signals_7d": 25,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 62,
+  "competitor_news_7d": 102,
+  "launch_signals_7d": 27,
+  "offer_signals_7d": 5,
+  "zeekr_news_7d": 64,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
-  {
-   "date": "2026-09-16",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 1
-  },
   {
    "date": "2026-09-17",
    "complaints": 2,
@@ -194,8 +188,14 @@
   {
    "date": "2026-10-15",
    "complaints": 2,
-   "competitor_news": 8,
-   "zeekr_news": 8
+   "competitor_news": 9,
+   "zeekr_news": 9
+  },
+  {
+   "date": "2026-10-16",
+   "complaints": 0,
+   "competitor_news": 3,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -462,12 +462,15 @@
    "latest": "f4537ddeee79ee40"
   },
   "tesla-model-3": {
-   "n_30d": 5,
-   "launch": [],
+   "n_30d": 6,
+   "launch": [
+    "d2af0ef5c3bba679"
+   ],
    "offer": [
+    "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "d1f285d82c38ea9b"
+   "latest": "d2af0ef5c3bba679"
   },
   "polestar-2": {
    "n_30d": 0,
@@ -476,12 +479,15 @@
    "latest": null
   },
   "byd-seal": {
-   "n_30d": 3,
-   "launch": [],
+   "n_30d": 4,
+   "launch": [
+    "d2af0ef5c3bba679"
+   ],
    "offer": [
+    "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "d1f285d82c38ea9b"
+   "latest": "d2af0ef5c3bba679"
   },
   "im5": {
    "n_30d": 2,
@@ -490,10 +496,14 @@
    "latest": "d1f285d82c38ea9b"
   },
   "kia-ev4": {
-   "n_30d": 1,
-   "launch": [],
-   "offer": [],
-   "latest": "86b5677c0d46a8a6"
+   "n_30d": 2,
+   "launch": [
+    "d2af0ef5c3bba679"
+   ],
+   "offer": [
+    "d2af0ef5c3bba679"
+   ],
+   "latest": "d2af0ef5c3bba679"
   },
   "mazda-6e": {
    "n_30d": 1,
@@ -623,8 +633,9 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
+    "73e54738eb48f209",
     "beea26123443c4b8",
     "d48e5a49e00d8770",
     "fdc4d0d3e836ccf5"
@@ -632,7 +643,7 @@
    "offer": [
     "d48e5a49e00d8770"
    ],
-   "latest": "4183d9bf8e2ad2dc"
+   "latest": "73e54738eb48f209"
   },
   "lexus-rx450h": {
    "n_30d": 0,
@@ -787,6 +798,28 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "d2af0ef5c3bba679",
+   "title": "Tesla Roadster revealed with SpaceX thrusters: 0-100km/h in less than a second, it can fly … and you still can’t have one",
+   "source": "EV Central",
+   "t": "2026-10-16T03:53:24+00:00",
+   "competitors": [
+    "tesla-model-3",
+    "byd-seal",
+    "kia-ev4"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "73e54738eb48f209",
+   "title": "Mercedes-Benz GLE 450 e PHEV arrives - GoAuto.com.au",
+   "source": "Google News · GoAuto.com.au",
+   "t": "2026-10-15T22:50:10+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "518f2175b7c190a6",
@@ -952,48 +985,6 @@
    "competitors": [
     "xpeng-g9l"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "cd69fa572df0b0c9",
-   "title": "New XPeng seven-seat G9L SUV promises 1200km of range and ultra-fast charging – and it’s coming to Australia",
-   "source": "WhichCar",
-   "t": "2026-10-13T04:03:25+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "7df177ffe7c98f88",
-   "title": "Australia’s BYD Sealion 8 goes fully electric and gets more power and better charging… if you live in Europe",
-   "source": "WhichCar",
-   "t": "2026-10-13T01:11:13+00:00",
-   "competitors": [
-    "byd-sealion8"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "0548f3f61af3f327",
-   "title": "XPeng G9L Seven-Seat SUV Confirmed for Australia - zecar",
-   "source": "Google News · zecar",
-   "t": "2026-10-13T00:41:35+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "205ea3973e46d6d4",
-   "title": "2027 Xpeng G9L detailed with 1200km range and luxurious three-row cabin",
-   "source": "CarExpert",
-   "t": "2026-10-13T00:00:00+00:00",
-   "competitors": [
-    "kia-ev9",
-    "xpeng-g9l",
-    "volvo-ex90"
-   ]
   }
  ],
  "source_status": {
@@ -1004,7 +995,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1034,27 +1025,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 27,
+   "count": 24,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 12,
+   "count": 11,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 56,
+   "count": 47,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 44,
+   "count": 40,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 73,
+   "count": 67,
    "note": ""
   },
   "carexpert": {
@@ -1083,9 +1074,9 @@
    "note": "HTTP 403"
   },
   "chasingcars": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.chasingcars.com.au', port=443): Read timed out. (read timeout=25)"
   },
   "chasingcars-zeekr": {
    "ok": true,
@@ -1118,9 +1109,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1130,12 +1121,12 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1230,7 +1221,7 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
