@@ -1,12 +1,155 @@
 [
  {
+  "id": "2aca3169307d9726",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x7a2vs/doing_a_7x_test_drive_tomorrow_what_should_i_test/",
+  "title": "Doing a 7x test drive tomorrow; what should I test?",
+  "text": "I've noted a comment about mirror positions not saving and thought I'd try that when doing a test drive. Does anyone else have suggestions for the 7x experts at the dealer?",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-10-16T07:48:29+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "17a61d0a8ca1af6d",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/reviews/midsize-suvs/volvo-ex60-2027-review-international-first-drive/",
+  "title": "Volvo EX60 2027 review: international first drive",
+  "text": "This post appeared first on Chasing Cars . Volvo puts itself in the key midsize electric luxury SUV buyers’ conversation with first electric equivalent of its best-seller It’s not quite the space race, but there is a fascinating battle unfolding for leadership in the Euro-luxury EV space – and Volvo is playing its biggest card yet with the new EX60 . This is the electric equivalent of the Swedish brand’s biggest-selling model, the XC60 midsize SUV. And it’s a rival to notable new electric luxury SUVs such as the BMW iX3 , Mercedes GLC Electric , as well as the sales chart-topping Tesla Model Y . Forget any relationship with the nine-year-old current XC60 beyond a numerical figure in its nameplate; the EX60 heralds an all-new 800-volt EV platform dubbed SPA3 that will underpin other future Volvos as well as some models from Chinese parent company Geely . The Volvo EX60 follows BMW’s iX3 by integrating battery cells into the vehicle structure rather than a separate battery pack, which helps reduce weight (and create more cabin space) in tandem with mega casting production. And with its biggest battery, the EX60 delivers a headline WLTP figure of 810km . Or more than 500 miles, in def",
+  "author": "Jez Spinks",
+  "published": "2026-10-16T05:29:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "volvo",
+   "tesla",
+   "bmw",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "7864955d7ce3147d",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x76oo8/waiting_on_delivery/",
+  "title": "Waiting on delivery",
+  "text": "To those who have already received delivery of their 7x. Does logging onto the Zeekr website and spinning/ playing by with the 3d rendered model of my car actually speed up delivery? Or am I just too excited? I’ve watched every YouTube video and browsed every accessory. Running out of things to do…",
+  "author": "/u/Consistent-Pin4348",
+  "published": "2026-10-16T04:22:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "380b26e6e68a2157",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/porsche-mission-s-previews-incoming-mid-engined-supercar-amid-financial-woes/",
+  "title": "Porsche Mission S previews incoming mid-engined supercar amid financial woes",
+  "text": "This post appeared first on Chasing Cars . Porsche has confirmed plans to build a dedicated mid-engined supercar based on its Mission S concept to sit above the 911 in its high-performance range. Taking styling cues from icons such as the 550 Spyder and original 356, the Mission S unveiled in New York overnight, will follow on from the space left by the 918, though it won’t be a limited edition model. It could, however, even offer a ‘ flat eight’ as its power source – if unconfirmed reports are to be believed. No on-sale dates were given, but it forms part of a strategic shift for Porsche to sell fewer cars with higher profitability, as the German brand looks to rebound from its financial woes. Engineers are currently developing an entirely new platform to underpin the eventual production version, with the ability to accommodate petrol and petrol hybrid drivetrains but not fully electric, in a sign of shifting priorities for supercar makers more broadly. A big focus of the design is clean lines, with the 911-like front end taking styling cues from the 911 GT1 from the 90s, that flow on to a massive set of wheels featuring the ‘dial design’ of the 928 coupe. A rally-style roof scoop",
+  "author": "Tom Place",
+  "published": "2026-10-16T04:07:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
   "id": "d2af0ef5c3bba679",
   "type": "competitor_news",
   "source": "evcentral",
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/tesla-roadster-revealed-with-spacex-thrusters-0-100km-h-in-less-than-a-second-it-can-fly-and-you-still-cant-have-one/",
   "title": "Tesla Roadster revealed with SpaceX thrusters: 0-100km/h in less than a second, it can fly … and you still can’t have one",
-  "text": "Tesla showed the world how to make electric cars fun, fast and desirable. It then tried to reinvent the ute – or pick-up truck – with the Cybertruck. Now the tech-focussed electric car brand is showing what happens with you mix cars with rockets. READ MORE: Tesla Cybercab in Australia: Our man Corby meets the future and comes away disturbed READ MORE: Tesla Model 3 drops below $46,000! New entry grade undercuts BYD Seal as well as Kia EV4 READ MORE: How good would it be if this thing really happens? Longbow 895kg Speedster EV sports car hits British roads before planned 2026 deliveries READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared The innovative car maker is trying to reinvent the supercar, using SpaceX technology and thrusters to deliver mind-bending acceleration and slot-car-like cornering. The Tesla Roadster has thrusters to make it fly. Really. Just don’t expect to see one in a showroom any time soon. The new Tesla Roadster has finally been revealed – almost nine years after Tesla first showed an early concept and started taking deposits. Production still isn’t due to start until 2028. Part Jetsons,",
+  "text": "Tesla showed the world how to make electric cars fun, fast and desirable. It then tried to reinvent the ute – or pick-up truck – with the Cybertruck. Now the tech-focussed electric car brand is showing what happens with you mix cars with rockets. Want the latest EV news and reviews delivered to your inbox? Sign up to our free weekly newsletter . READ MORE: Tesla Cybercab in Australia: Our man Corby meets the future and comes away disturbed READ MORE: Tesla Model 3 drops below $46,000! New entry grade undercuts BYD Seal as well as Kia EV4 READ MORE: How good would it be if this thing really happens? Longbow 895kg Speedster EV sports car hits British roads before planned 2026 deliveries READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared The innovative car maker is trying to reinvent the supercar, using SpaceX technology and thrusters to deliver mind-bending acceleration and slot-car-like cornering. The Tesla Roadster has thrusters to make it fly. Really. Just don’t expect to see one in a showroom any time soon. The new Tesla Roadster has finally been revealed – almost nine years after Tesla first showed an ear",
   "author": "Toby Hagon",
   "published": "2026-10-16T03:53:24+00:00",
   "rating": null,
@@ -24,7 +167,7 @@
   ],
   "categories": [
    "software",
-   "price",
+   "delivery",
    "sales"
   ],
   "sentiment": {
@@ -116,6 +259,43 @@
   "first_seen": "2026-10-16T04:18:40+00:00"
  },
  {
+  "id": "672dbc3636001344",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSkRqeVdqN0F6Ulp2M0pyVkl2YWJSUzNqN3ljSFhXNzZhbV9TMTBCMXRGLS1hSlVDTnlOVWhyY3VjNjVZNHVLU1dKSlVSZHdSby1obGlqQ09pd2hVUm9vZ3k1Vld2a0g1aWM3amZhU3Fla1dSUUtHc1gwOGtkZkE5ekxMbDFJWWY1aGJUNTRxR1Z2M0REVzJBbzYxa0dwTnpTRnl3V0NXQk5kVnotazJJQ1JIZFZIb2tlZE02cERialZjYmg0?oc=5",
+  "title": "China to end annoying car feature in vehicles such as 2026 BYD Sealion 7, Geely EX5, Zeekr 7X and more - CarsGuide",
+  "text": "China to end annoying car feature in vehicles such as 2026 BYD Sealion 7, Geely EX5, Zeekr 7X and more CarsGuide",
+  "author": "",
+  "published": "2026-10-16T00:55:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
   "id": "6a1bb06bcc9cb6cc",
   "type": "competitor_news",
   "source": "carexpert",
@@ -152,6 +332,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "dc1b9eec7d81c21d",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Unisba Media",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mX3ZCUVhLeTdveUQyel9TbnkwTW1WLTJIV3RsZzUtRWFOaHpEeFlvdHR1R0FzSjlaOEFHQm5JU1BFcHVCZ01LOGpab1BmZ0g1V1ZLN01BdUxKMDlweWtiSVdudXgxLXd0TzI4?oc=5",
+  "title": "Still A Go-to EV For Buyers In Australia? New BYD Atto 3 EVO Review Dominik Tarczyński (2wcryqmpXb) - Unisba Media",
+  "text": "Still A Go-to EV For Buyers In Australia? New BYD Atto 3 EVO Review Dominik Tarczyński (2wcryqmpXb) Unisba Media",
+  "author": "",
+  "published": "2026-10-16T00:00:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
  },
  {
   "id": "73e54738eb48f209",
@@ -467,6 +680,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "069ad7f0aa2c3eb0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1VlhlSkNGdkkzUjlKU1hxcUk4b0ZEVlRvSkFKNWFYSkVmZGFmNmNQUXo2NzhJc1F4bldUbmFYLWVWbkZiZDM0aXpnUTRKNVJqQkdSaXQwV3ZuSF9Fek16MUZmZw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-15T10:47:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
  },
  {
   "id": "dedd8e1aebb91e14",
@@ -2118,7 +2362,7 @@
  {
   "id": "56cbd11b2a810c7b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Redland Bayside News",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTGNVdUFlWXg2Ni1HdmpkVGY0X1QxUnk4eVZiT0tzWFhpT2V3OFhGblpkNEUwRDVuWEc0REEyRFBENFVGcmVkc0RYVWNPc29nOGtjRlJJbGJQbnMybFB0amY4VmstenNP?oc=5",
   "title": "Zeekr 9X targets LandCruiser and Range Rover buyers - Redland Bayside News",
@@ -2220,7 +2464,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -2247,7 +2491,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
@@ -3411,41 +3655,6 @@
   "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
-  "id": "ecb6767e140b18e0",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tLS1WWlRaSkNiR2ZMc0ZaVjU5aXN4ZWsyS190SUpncXVLLWVoVlNZVWoxM3ZLUkZMeUUzcGVlbEU4cVVDcFg5NjBOa3E0aENTVTZB?oc=5",
-  "title": "Volvo EX30 price, range and specs - EV Central",
-  "text": "Volvo EX30 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:37:22+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "volvo-ex30"
-  ],
-  "brands": [
-   "volvo"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
   "id": "93695976e0a8ea29",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -3792,7 +4001,7 @@
  {
   "id": "af15aa7c4a27f293",
   "type": "news_zeekr",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
   "title": "Zeekr 7X price, range and specs - EV Central",
@@ -3817,7 +4026,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
@@ -4002,7 +4211,7 @@
  {
   "id": "a5bec463747a0f4a",
   "type": "competitor_news",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNEI0ZlBIMkxxc2pzR0JXczNkX0hVTGxROF9ESHpYRU9OMGVKVWRUOUE2cFpWY2VFY1lqdjYwbDVtX2tpRU5NVVJHLXNzcnpyLVlMRmVqLUpJRE9Ga3pUT040NGt5TEhOTGdlMXRmVFpvdnNodjF0al9mYnlPdVYwWW10YUdCRmVIWTg3YllSaFZIbkczSEE4RDd6LVlTZGhIb3ZwOWtkOU1RNDdQNGh4ZDFTd3p3Nzhsdll0Z3dBMWpuWXprX3c?oc=5",
   "title": "2027 Leapmotor B03 revealed in Paris but is this Geely EX2 and BYD Atto 1 EV rival coming to Australia? - CarsGuide",
@@ -4028,7 +4237,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T05:17:23+00:00"
@@ -10048,6 +10257,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "c31fd6d92009cebc",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · zecar",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ncUxVd2dERVpiYUdhcHpocUdZOVJySGlvcXJOVjdqMi1TWE5Ed21WRnZJYjZLNzdTQ3g1Zk1KbWtvNThpZTdReXBudzB6ZWZaRTZpQXdGQjZlOHdUSHNFRUZUMWMxTFRaakNDV0w1OGhwNXZ5MzZLTE1pMUJDZw?oc=5",
+  "title": "New Chinese EV Brand Is Coming To Take On Zeekr 7X - zecar",
+  "text": "New Chinese EV Brand Is Coming To Take On Zeekr 7X zecar",
+  "author": "",
+  "published": "2026-09-29T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "3f11b386e30e3580",
   "type": "complaint",
   "source": "playstore-android",
@@ -10117,37 +10357,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": false,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "c31fd6d92009cebc",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · zecar",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ncUxVd2dERVpiYUdhcHpocUdZOVJySGlvcXJOVjdqMi1TWE5Ed21WRnZJYjZLNzdTQ3g1Zk1KbWtvNThpZTdReXBudzB6ZWZaRTZpQXdGQjZlOHdUSHNFRUZUMWMxTFRaakNDV0w1OGhwNXZ5MzZLTE1pMUJDZw?oc=5",
-  "title": "New Chinese EV Brand Is Coming To Take On Zeekr 7X - zecar",
-  "text": "New Chinese EV Brand Is Coming To Take On Zeekr 7X zecar",
-  "author": "",
-  "published": "2026-09-28T22:59:44+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -12746,7 +12955,7 @@
   "source_name": "The Driven (Zeekr)",
   "url": "https://thedriven.io/2026/09/19/zeekr-7gt-confirmed-for-2026-launch-australia-with-670km-range-and-3-1-second-sprint/?utm_source=rss&utm_medium=rss&utm_campaign=zeekr-7gt-confirmed-for-2026-launch-australia-with-670km-range-and-3-1-second-sprint",
   "title": "Zeekr 7GT confirmed for 2026 launch in Australia with 670 km range and 3.1 second sprint",
-  "text": "Zeekr’s new electric shooting brake is coming to Australia with up to 670 km of range, and a 500 kW Performance version capable of hitting 100 km/h in just 3.1 seconds. The post Zeekr 7GT confirmed for 2026 launch in Australia with 670 km range and 3.1 second sprint appeared first on The Driven IO.",
+  "text": "Zeekr’s new electric shooting brake is coming to Australia with up to 670 km of range, and a 500 kW Performance version capable of hitting 100 km/h in just 3.1 seconds. The post Zeekr 7GT confirmed for 2026 launch in Australia with 670 km range and 3.1 second sprint appeared first on The Driven.",
   "author": "Sam Parkinson",
   "published": "2026-09-19T01:21:51+00:00",
   "rating": null,
@@ -15166,7 +15375,7 @@
   "source_name": "The Driven (Zeekr)",
   "url": "https://thedriven.io/2026/09/06/popular-zeekr-7x-to-get-bigger-and-faster-charging-battery-with-more-than-500-km-of-range/?utm_source=rss&utm_medium=rss&utm_campaign=popular-zeekr-7x-to-get-bigger-and-faster-charging-battery-with-more-than-500-km-of-range",
   "title": "Popular Zeekr 7X to get bigger and faster charging battery, with more than 500 km of range",
-  "text": "Zeekr's most popular model, the 7X, is about to get a bigger battery that will push the entry-level variant to more than 530 km of range. The post Popular Zeekr 7X to get bigger and faster charging battery, with more than 500 km of range appeared first on The Driven IO.",
+  "text": "Zeekr's most popular model, the 7X, is about to get a bigger battery that will push the entry-level variant to more than 530 km of range. The post Popular Zeekr 7X to get bigger and faster charging battery, with more than 500 km of range appeared first on The Driven.",
   "author": "Riz Akhtar",
   "published": "2026-09-06T04:07:11+00:00",
   "rating": null,
@@ -17701,10 +17910,10 @@
   "id": "64307cd5b3638ec4",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
-  "source_name": "Google News · The Driven IO",
+  "source_name": "Google News · The Driven",
   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWdxRndXcWh3MVJxSldMTmd6cURNWHhBWklRbmVpamkxdTI1U0JHa2Y5c0RnT3RBamlZX3h2WEdFOGV3d3hkTlk1QW5wNzUxZTRGUmdNSmJ1Qzh0ZjFsSjJ2SWZ2ZFpINEdQem8zNkxUUEhXdVRtRmdoOFRZYjZyNmhRaDM5Mk01WGs5dktRazdPVzZRRmNIbTJUTy1xR0VwLVJPQnhSbHFCcFhlLVMxTFJJXzA1M1hJTHc3SWJxZjl1NTU5WlRySy1vd1V0NjBPZDNN?oc=5",
-  "title": "Zeekr reveals key details of its next EV for Australian market, the 7GT electric wagon, as sales top 10,000 - The Driven IO",
-  "text": "Zeekr reveals key details of its next EV for Australian market, the 7GT electric wagon, as sales top 10,000 The Driven IO",
+  "title": "Zeekr reveals key details of its next EV for Australian market, the 7GT electric wagon, as sales top 10,000 - The Driven",
+  "text": "Zeekr reveals key details of its next EV for Australian market, the 7GT electric wagon, as sales top 10,000 The Driven",
   "author": "",
   "published": "2026-08-18T07:00:00+00:00",
   "rating": null,
@@ -23340,6 +23549,76 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
+  "id": "ecb6767e140b18e0",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tLS1WWlRaSkNiR2ZMc0ZaVjU5aXN4ZWsyS190SUpncXVLLWVoVlNZVWoxM3ZLUkZMeUUzcGVlbEU4cVVDcFg5NjBOa3E0aENTVTZB?oc=5",
+  "title": "Volvo EX30 review: every 2026 variant, price and specs - EV Central",
+  "text": "Volvo EX30 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-04-27T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex30"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "8d0aa8aa5e3a8cd4",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMVlCTlpXN2xTR0U2TG1ZZndERnhrdGx5dmNaRmxEOWZ6X3BoTzZmZml6djJCMnI5VXpyeWg3aWJsczUxUDRJbllRbDNhVkdmd1FiSy1yaHAxQQ?oc=5",
+  "title": "Volvo EX30 price, range and specs - EV Central",
+  "text": "Volvo EX30 price, range and specs EV Central",
+  "author": "",
+  "published": "2026-04-27T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex30"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
  },
  {
   "id": "a67a325b3f611d70",

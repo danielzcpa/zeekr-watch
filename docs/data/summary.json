@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-16T04:18:40+00:00",
- "duration_s": 189.4,
- "items_total": 671,
- "new_this_run": 212,
+ "generated": "2026-10-16T09:14:05+00:00",
+ "duration_s": 159.6,
+ "items_total": 679,
+ "new_this_run": 218,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 0,
   "complaints_7d": 9,
   "complaints_30d": 42,
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 102,
+  "competitor_news_7d": 103,
   "launch_signals_7d": 27,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 64,
+  "zeekr_news_7d": 65,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -87,13 +87,13 @@
    "date": "2026-09-28",
    "complaints": 2,
    "competitor_news": 0,
-   "zeekr_news": 2
+   "zeekr_news": 1
   },
   {
    "date": "2026-09-29",
    "complaints": 3,
    "competitor_news": 0,
-   "zeekr_news": 0
+   "zeekr_news": 1
   },
   {
    "date": "2026-09-30",
@@ -176,7 +176,7 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 42,
+   "competitor_news": 41,
    "zeekr_news": 17
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-16",
    "complaints": 0,
-   "competitor_news": 3,
-   "zeekr_news": 1
+   "competitor_news": 6,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -265,8 +265,10 @@
  },
  "competitor_signals": {
   "volvo-ex30": {
-   "n_30d": 1,
-   "launch": [],
+   "n_30d": 0,
+   "launch": [
+    "ecb6767e140b18e0"
+   ],
    "offer": [],
    "latest": "ecb6767e140b18e0"
   },
@@ -307,14 +309,14 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "37c34a9709de995f"
    ],
    "offer": [
     "37c34a9709de995f"
    ],
-   "latest": "37c34a9709de995f"
+   "latest": "dc1b9eec7d81c21d"
   },
   "mb-eqa": {
    "n_30d": 0,
@@ -323,7 +325,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 9,
+   "n_30d": 10,
    "launch": [
     "5ed70c4b9f6db41c",
     "8b84f73c39185863"
@@ -331,7 +333,7 @@
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "a0bad462fa5ad448"
+   "latest": "17a61d0a8ca1af6d"
   },
   "xpeng-g6": {
    "n_30d": 1,
@@ -958,33 +960,6 @@
    "title": "MG / IM 官网政策页面变化（+0 / −12 行）",
    "source": "https://mgmotor.com.au/offers",
    "t": "2026-10-13T15:53:50+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "ac7a150e4fc7b748",
-   "title": "XPENG reveals G9L large SUV in Paris - Exhaust Notes Australia",
-   "source": "Google News · Exhaust Notes Australia",
-   "t": "2026-10-13T06:33:16+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "d62183d5029f3d1a",
-   "title": "MG / IM 官网政策页面变化（+12 / −0 行）",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-10-13T06:27:01+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "bbb5fd6a4bc73847",
-   "title": "XPENG G9L Large SUV Revealed with EV and Range-Extender Options - CarSauce",
-   "source": "Google News · CarSauce",
-   "t": "2026-10-13T04:39:44+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
   }
  ],
  "source_status": {
@@ -995,7 +970,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1025,7 +1000,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1035,17 +1010,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 47,
+   "count": 45,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 40,
+   "count": 41,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 67,
+   "count": 38,
    "note": ""
   },
   "carexpert": {
@@ -1074,9 +1049,9 @@
    "note": "HTTP 403"
   },
   "chasingcars": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.chasingcars.com.au', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   "chasingcars-zeekr": {
    "ok": true,
@@ -1109,14 +1084,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 20,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1131,7 +1106,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1175,7 +1150,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1244,9 +1219,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
   },
   "offers-hyundai": {
    "ok": true,
