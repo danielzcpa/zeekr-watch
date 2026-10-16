@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-16T09:14:05+00:00",
- "duration_s": 159.6,
- "items_total": 679,
- "new_this_run": 218,
+ "generated": "2026-10-16T14:09:59+00:00",
+ "duration_s": 169.0,
+ "items_total": 692,
+ "new_this_run": 223,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
-  "complaints_30d": 42,
+  "complaints_30d": 41,
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 6,
-  "competitor_news_7d": 103,
-  "launch_signals_7d": 27,
+  "competitor_news_7d": 104,
+  "launch_signals_7d": 33,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 65,
+  "zeekr_news_7d": 70,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -99,7 +99,7 @@
    "date": "2026-09-30",
    "complaints": 2,
    "competitor_news": 0,
-   "zeekr_news": 2
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-01",
@@ -116,7 +116,7 @@
   {
    "date": "2026-10-03",
    "complaints": 0,
-   "competitor_news": 0,
+   "competitor_news": 2,
    "zeekr_news": 0
   },
   {
@@ -152,13 +152,13 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 5,
-   "zeekr_news": 3
+   "competitor_news": 9,
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-10",
    "complaints": 0,
-   "competitor_news": 5,
+   "competitor_news": 6,
    "zeekr_news": 3
   },
   {
@@ -176,8 +176,8 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 41,
-   "zeekr_news": 17
+   "competitor_news": 38,
+   "zeekr_news": 16
   },
   {
    "date": "2026-10-14",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-16",
    "complaints": 0,
-   "competitor_news": 6,
-   "zeekr_news": 2
+   "competitor_news": 7,
+   "zeekr_news": 8
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 30
+   "n": 29
   },
   {
    "key": "service",
@@ -256,7 +256,7 @@
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 15,
-  "Google Play (AU)": 13,
+  "Google Play (AU)": 12,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
@@ -298,7 +298,9 @@
   },
   "kia-ev3": {
    "n_30d": 1,
-   "launch": [],
+   "launch": [
+    "e56ee2a603252f5b"
+   ],
    "offer": [],
    "latest": "e56ee2a603252f5b"
   },
@@ -309,9 +311,10 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
-    "37c34a9709de995f"
+    "37c34a9709de995f",
+    "1af84a334ac544d9"
    ],
    "offer": [
     "37c34a9709de995f"
@@ -325,10 +328,11 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 10,
+   "n_30d": 11,
    "launch": [
     "5ed70c4b9f6db41c",
-    "8b84f73c39185863"
+    "8b84f73c39185863",
+    "39ee8a224f7f89bb"
    ],
    "offer": [
     "a0bad462fa5ad448"
@@ -378,6 +382,7 @@
    "launch": [
     "0c648b1890f77652",
     "b5320554ddc5f545",
+    "db98b7fc96217946",
     "ef422204f206a3de"
    ],
    "offer": [
@@ -456,6 +461,7 @@
    "launch": [
     "f4537ddeee79ee40",
     "37c34a9709de995f",
+    "06fa47391abc61ff",
     "a733988169d48563"
    ],
    "offer": [
@@ -464,9 +470,10 @@
    "latest": "f4537ddeee79ee40"
   },
   "tesla-model-3": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
-    "d2af0ef5c3bba679"
+    "d2af0ef5c3bba679",
+    "6eceae851aeaecd7"
    ],
    "offer": [
     "d2af0ef5c3bba679",
@@ -481,9 +488,10 @@
    "latest": null
   },
   "byd-seal": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
-    "d2af0ef5c3bba679"
+    "d2af0ef5c3bba679",
+    "977de602e7893c4e"
    ],
    "offer": [
     "d2af0ef5c3bba679",
@@ -668,13 +676,14 @@
    "latest": "20e01fbcd796f263"
   },
   "byd-sealion8": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "b5c47101ca081290",
     "25bf1b85357981b9",
     "7df177ffe7c98f88"
    ],
    "offer": [],
-   "latest": "25bf1b85357981b9"
+   "latest": "b5c47101ca081290"
   },
   "kia-sorento-phev": {
    "n_30d": 0,
@@ -683,15 +692,16 @@
    "latest": null
   },
   "kia-ev9": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "b5c47101ca081290",
     "205ea3973e46d6d4",
     "d03e92850d21bd42"
    ],
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "2c363d35d08b8002"
+   "latest": "b5c47101ca081290"
   },
   "xpeng-g9l": {
    "n_30d": 9,
@@ -810,6 +820,17 @@
     "tesla-model-3",
     "byd-seal",
     "kia-ev4"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "b5c47101ca081290",
+   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-10-16T00:51:34+00:00",
+   "competitors": [
+    "byd-sealion8",
+    "kia-ev9"
    ]
   },
   {
@@ -970,7 +991,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 17,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1005,22 +1026,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 11,
+   "count": 17,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 45,
+   "count": 44,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 41,
+   "count": 36,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 38,
+   "count": 55,
    "note": ""
   },
   "carexpert": {
@@ -1150,7 +1171,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1195,8 +1216,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
-   "note": "unchanged"
+   "count": 19,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
@@ -1219,9 +1240,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,

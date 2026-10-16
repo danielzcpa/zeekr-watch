@@ -1,5 +1,191 @@
 [
  {
+  "id": "11b838bb4f2a74d0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVU4WXA0bUk4c0QzcnVUSFRWVV9fSWdKeW9XTy1OaXptZkxrM01nUEhxblowV3ozdnVxUDFIanlPUmFnMWxEN1ZZUXZiNi1Vem1jUC0xQ185ZXNsRDh6aWczeHFDTlBmV2VVZEYwZk81b1hZOW51VEJ0QmFKRHpJVnRUQ014Y25mOG9QUjBSajhGUkR2emc?oc=5",
+  "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
+  "text": "New Zeekr 7X rival gets closer to Australia The Canberra Times",
+  "author": "",
+  "published": "2026-10-16T12:45:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "0c6257880c9f5a9d",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0FXYzV5VkJJMHBFSThBRDM3WkxMYnczSGNUS2xCdlpxeElUQlNoR2ttaHZhTlNTNjJlX1hQVU9XcVo4MFM4RXZUMEZKYVVjcDJXOWt5NE9HaVZzeUxyNi1sN3FISFJBZEEtcE9xcEVtVFBxTTQwc1FfNUlrTUNCVndrTjFCZDhuS0E2RHZMT3RYZjZmazcxYzBScVRvakNt?oc=5",
+  "title": "New Zeekr 7X rival gets closer to Australia - St George & Sutherland Shire Leader",
+  "text": "New Zeekr 7X rival gets closer to Australia St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-10-16T12:36:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "1126c56894b5c64d",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x7cqua/vin_to_delivery/",
+  "title": "VIN to Delivery",
+  "text": "How long was everyone waiting between getting the VIN on an invoice and collection date? Like others here, I can only rewatch all the YouTube vids so many times while patiently (sort of) waiting. Cheers",
+  "author": "/u/Tough-Vegetable-1072",
+  "published": "2026-10-16T10:35:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "0ffd9e5d181635c0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlhoa01MdUl4bjBEM3FYZGFaWWE4RFpFd2gzMi1wVkRRWnVDcXFjTGxaR01xWHVpM0s5N3YzeHVqVFEyYm1jd2tDb2lfZ28zVWhnWlpUZDB3aENoU0xlUWh0c2wtWWc3ekFOLXQ2dGFadTdialJveFMtd1VmSkFNMFVhNVY2UjNyTWdxaVBFMXZVaXhnOHpRNGpRUmM3OEotZFI2UjZTVnJBYjUyOWdsSXh3OUh6VXdEMnN2RFh1U3M2bWJCRkc3RVJ4OFlMbGhC?oc=5",
+  "title": "Zeekr 7X facelift for global markets – still with 800V architecture but with more power, up to 627 km WLTP - Paul Tan's Automotive News",
+  "text": "Zeekr 7X facelift for global markets – still with 800V architecture but with more power, up to 627 km WLTP Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-10-16T10:00:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "e2914efc635c5655",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Moodie Davitt Report",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnJ4SW44elBFOTgzdE9BWjVQcDRrTnBWeDJnN3RwQmo4OG0tTGxoUk1qZG1uZ2phUTNpaTZDbmF4NEM2aGNNOVJKNW80MWVBWS1uY0tUaDJGWjEzSHJvRmZfTzkyQnM5NTdOZHFqakxqU0oyZmtuUy1uMjlZeWtaS2ZHck5YSnI4M2VPY3JUUUM2bmtZOG50cEhnWk82ZWdNZVdicFRNczRRRXhPdzBubQ?oc=5",
+  "title": "Sydney Airport drives passenger engagement with Zeekr electric vehicle showcase - Moodie Davitt Report",
+  "text": "Sydney Airport drives passenger engagement with Zeekr electric vehicle showcase Moodie Davitt Report",
+  "author": "",
+  "published": "2026-10-16T09:48:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "4b3f260709842dbb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · MLex",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVUtVMDhMRXA4TmhxejR2aXpyN3hxS0FWcEY4TWllc3RqWEQxUFY2VjY4aVVUQk1Kcm5SOHRUUndqQzJmS2ItdHRob1V1TThZNG9UcXFkVmpsbVA4QjJoN0E0SXRvV0JGb2g3VzdEeDlRb1BBR1FmNGdaSlM4T3o3VDhNNzV6YkE4MlRjWF9BRFg1Y0Jla29LX0ZTWnctQnFmMWdmMXN2Qmtuc0lEZUJ5UWVaX2RRUEVMZ3hZZmQwONIBWkFVX3lxTE5sa1JhaXgyeW1SQVJQcU82ZHJFS2k5QXRtZnJ0RkNCRWZvdlVvQkIzaC1WOTE3Sk1BSkU5OVpKY3gzUUNxTkY1NmczVXBvbGNiaXpIY3Z1ZEJBQQ?oc=5",
+  "title": "Chinese EV maker Zeekr faces South Korean probe over possible China data access - MLex",
+  "text": "Chinese EV maker Zeekr faces South Korean probe over possible China data access MLex",
+  "author": "",
+  "published": "2026-10-16T09:19:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
   "id": "2aca3169307d9726",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -32,6 +218,46 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "14be5849733d765f",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU0xalJSc3J0Q3dWdkc5TzJsQkg1WHRteTUxVUp4S29zeTAyRFBlSGcxZUhTYjZreVJGdXdXR1RqbTZqSThlWERUb0E2akFGYy1fTHQ5Ty1DV0VXLTdGVjlPRkkwOFRsMjFNRXFqdjY1MGtOcEFqNHZsVE5nZlp4cjhrbjl4aWR4ODRQVDhCdFFiU29mLVRBdkh4Tmo0VDlQZEZEYmhfMTdlZjJCcG5nUnBNcGdaWl9KaWR6TzhR?oc=5",
+  "title": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia - CarsGuide",
+  "text": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia CarsGuide",
+  "author": "",
+  "published": "2026-10-16T06:30:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd",
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "17a61d0a8ca1af6d",
@@ -294,6 +520,44 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "b5c47101ca081290",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXB0MHlBcTBZZmV5Q2tBbklMRUxTTEEwbThRbjR5VlRZTXo4NkZtd3ZhMjh3SG5IZUdaM2FWWEVES21jLXhMU2JmTW9MdGFvQUdSTTROVHdtNHFuellJOV9CNzdzanctTlBlZXhzamxQd21NYnY5T0RWMlNuUWZMaV85UW1sazFoZkljVnRpSHNVd203cWxaLTRZaEtWeVVzQ2N3dXdNRnQzYnAtX3hDdHFtRmltTTVVejhTLUlEcW1jZWs?oc=5",
+  "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
+  "text": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 CarsGuide",
+  "author": "",
+  "published": "2026-10-16T00:51:34+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion8",
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia",
+   "hyundai",
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "6a1bb06bcc9cb6cc",
@@ -682,37 +946,6 @@
   "first_seen": "2026-10-16T04:18:40+00:00"
  },
  {
-  "id": "069ad7f0aa2c3eb0",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1VlhlSkNGdkkzUjlKU1hxcUk4b0ZEVlRvSkFKNWFYSkVmZGFmNmNQUXo2NzhJc1F4bldUbmFYLWVWbkZiZDM0aXpnUTRKNVJqQkdSaXQwV3ZuSF9Fek16MUZmZw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-15T10:47:12+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T09:14:05+00:00"
- },
- {
   "id": "dedd8e1aebb91e14",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -1032,6 +1265,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "069ad7f0aa2c3eb0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1VlhlSkNGdkkzUjlKU1hxcUk4b0ZEVlRvSkFKNWFYSkVmZGFmNmNQUXo2NzhJc1F4bldUbmFYLWVWbkZiZDM0aXpnUTRKNVJqQkdSaXQwV3ZuSF9Fek16MUZmZw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-15T05:03:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T09:14:05+00:00"
  },
  {
   "id": "4ece9f8ee95d8d97",
@@ -1867,6 +2131,39 @@
   "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
+  "id": "4dd3026f0e2e569c",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Gasgoo",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFidmVKMHdJUjBkRFR1UmYtVWRDMjR4b21qYWlnSkQtOGlBMmltb3lpTTFtU1VXVVB1N1NIQWlWOGY5UnVpMDFiQzV5bGVBLWUzMFctLVMzcHd4amd4NjEtNk1DWjlCQmZBV3diRVducUZqbkp4b2lIaWg2SkdlZnFIV2hfNVlack1tbTA2cFBvN0tkWDB6M2lfeG5abjltSlJRWkllbXJmZ2JhSU5QQXl0OFBjQjRMNkV0TXNhLXFsc3F5NGxCeQ?oc=5",
+  "title": "XPENG X9 tops pure-electric MPV sales in Australia-New Zealand region - Gasgoo",
+  "text": "XPENG X9 tops pure-electric MPV sales in Australia-New Zealand region Gasgoo",
+  "author": "",
+  "published": "2026-10-14T15:03:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
   "id": "336faeaa646cb73a",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -2184,39 +2481,6 @@
   "signals": [],
   "scope": "competitor",
   "au": false,
-  "extra": {},
-  "first_seen": "2026-10-14T10:31:43+00:00"
- },
- {
-  "id": "4dd3026f0e2e569c",
-  "type": "competitor_news",
-  "source": "gn-brands-cn",
-  "source_name": "Google News · Gasgoo",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFidmVKMHdJUjBkRFR1UmYtVWRDMjR4b21qYWlnSkQtOGlBMmltb3lpTTFtU1VXVVB1N1NIQWlWOGY5UnVpMDFiQzV5bGVBLWUzMFctLVMzcHd4amd4NjEtNk1DWjlCQmZBV3diRVducUZqbkp4b2lIaWg2SkdlZnFIV2hfNVlack1tbTA2cFBvN0tkWDB6M2lfeG5abjltSlJRWkllbXJmZ2JhSU5QQXl0OFBjQjRMNkV0TXNhLXFsc3F5NGxCeQ?oc=5",
-  "title": "XPENG X9 tops pure-electric MPV sales in Australia-New Zealand region - Gasgoo",
-  "text": "XPENG X9 tops pure-electric MPV sales in Australia-New Zealand region Gasgoo",
-  "author": "",
-  "published": "2026-10-14T07:03:44+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "xpeng-x9"
-  ],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "competitor",
-  "au": true,
   "extra": {},
   "first_seen": "2026-10-14T10:31:43+00:00"
  },
@@ -3789,41 +4053,6 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
-  "id": "06fa47391abc61ff",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
-  "title": "Geely EX5 price, range and specs - EV Central",
-  "text": "Geely EX5 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "geely-ex5"
-  ],
-  "brands": [
-   "geely"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T03:54:39+00:00"
- },
- {
   "id": "86b5677c0d46a8a6",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -3962,109 +4191,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
-  "id": "e56ee2a603252f5b",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEbndpVldWUWhtdzNsTURPYUM1WTBmTFpmMWhQZXduRlRlUW9JM3JFa3JBNnlmamlaNjRhQWMxZnhLVE9saERJMUZVVDVWc3M?oc=5",
-  "title": "Kia EV3 price, range and specs - EV Central",
-  "text": "Kia EV3 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "kia-ev3"
-  ],
-  "brands": [
-   "kia"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T12:49:04+00:00"
- },
- {
-  "id": "af15aa7c4a27f293",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
-  "title": "Zeekr 7X price, range and specs - EV Central",
-  "text": "Zeekr 7X price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
-  "id": "db98b7fc96217946",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdEN4akQ3TDBFREdHUzV0ZGZIYzF4cGhMUS1HRmRvRUFJRk5QdVRDRFVvVDVkbFAzT28yOXhIZF93NE5TN3ZxQWlnajFuYmtxSko0?oc=5",
-  "title": "Polestar 4 price, range and specs - EV Central",
-  "text": "Polestar 4 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "polestar-4"
-  ],
-  "brands": [
-   "polestar"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T17:43:16+00:00"
  },
  {
   "id": "404f8ecafa96e61b",
@@ -6825,6 +6951,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "977de602e7893c4e",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9haVBuOHBRR196eFE3c0FoUXRyTTYwNXk3NXFlYkc5ZnZfWmNIcjNFYnpycFpPd2pMNHJWS0hGSVAtT2hPTlZCVFVQU1l2VWRG?oc=5",
+  "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Seal review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-10T21:43:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
   "id": "1fcb9074dd9fe52c",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -7137,6 +7298,179 @@
    "thumbs": 0
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "1af84a334ac544d9",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVmhVZWZpbno1UnBmck9ESm5WWkt4YnVwSHJxenZ2Z1VHcTNGNW15TE5nNGg1VGREV1FmVXdFZE1hSU5tVXJUN0hMZFMxVUFZNENWMFFQUU4?oc=5",
+  "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Atto 3 Evo review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:57:27+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "06fa47391abc61ff",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
+  "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
+  "text": "Geely EX5 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "af15aa7c4a27f293",
+  "type": "news_zeekr",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
+  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
+  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "e56ee2a603252f5b",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEbndpVldWUWhtdzNsTURPYUM1WTBmTFpmMWhQZXduRlRlUW9JM3JFa3JBNnlmamlaNjRhQWMxZnhLVE9saERJMUZVVDVWc3M?oc=5",
+  "title": "Kia EV3 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Kia EV3 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:22+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "db98b7fc96217946",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdEN4akQ3TDBFREdHUzV0ZGZIYzF4cGhMUS1HRmRvRUFJRk5QdVRDRFVvVDVkbFAzT28yOXhIZF93NE5TN3ZxQWlnajFuYmtxSko0?oc=5",
+  "title": "Polestar 4 review: every 2026 variant, price and specs - EV Central",
+  "text": "Polestar 4 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:07+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T17:43:16+00:00"
  },
  {
   "id": "a40beb8cf3c8b2c4",
@@ -9264,6 +9598,76 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "39ee8a224f7f89bb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nMXNIQTVLdmk4elhBR0JDdndtYnZ2VFNNQUpJZDlqSU9oVzV0RkJPRHdXQWlXd01xYjZ0UjRsZXcwNnJkNmVQX09RYmNmenBjVWlIYU5Xaw?oc=5",
+  "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
+  "text": "Tesla Model Y review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-03T06:57:50+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "6eceae851aeaecd7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GdFVtQm1jOFh6Ui10a1VFY1FjTTVHX1ZIMk45MllmR3Q5TUFZcXc3VGJpdmdJWXFyX214NFU0WXpfUWdYQndHeHkwVkFxUzk4WUxYS3JPWQ?oc=5",
+  "title": "Tesla Model 3 review: every 2026 variant, price and specs - EV Central",
+  "text": "Tesla Model 3 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-03T01:30:36+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
   "id": "31b49a4acc988e29",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -10028,6 +10432,42 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "217c3a07edd38b33",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ3FXTmVpaVJER1IwOFhoRlJRTVhVcnUwY2NuNTc3dkMyTXJYeHotanBUOEhQaHc1UU11cHFPQWFvbE5XTXQ5T3JnbmZxTTZMWU9zaVRqVmZmc2RFS2RYLW1VY2FjRHVnbkJCUmpNNk1IZUotTnlKNThkaFloV2dPRkxLOERVb2I0LVRTazBxUGhTdXZFSGxDcE5nbnk1QWFVRWplb1NXTGtKd0NwTGRFTDU1c3ozSkwzRWJFUmxBVEt1QQ?oc=5",
+  "title": "EV sales are booming in Australia, including 2026 BYD Atto 1, Geely EX2 and Zeekr 7X, but charging infrastructure and access must improve: EVC report - CarsGuide",
+  "text": "EV sales are booming in Australia, including 2026 BYD Atto 1, Geely EX2 and Zeekr 7X, but charging infrastructure and access must improve: EVC report CarsGuide",
+  "author": "",
+  "published": "2026-09-30T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "25c2ba8d84818f5f",
