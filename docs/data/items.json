@@ -1,5 +1,36 @@
 [
  {
+  "id": "ebc295fec44e7f56",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · DMARGE",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TUFppMHFwUmg4TnRGR3pVa3hfREJCTGg0SEN0b2R3VjFSUEp0ZUxRYmh3RGpOM0FGdk9xTUJyX1VyRXZja1B4VTcwZjgxWFJuT2tWMVRWSkdZZnM3?oc=5",
+  "title": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K - DMARGE",
+  "text": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K DMARGE",
+  "author": "",
+  "published": "2026-10-17T23:11:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T23:20:45+00:00"
+ },
+ {
   "id": "eac33af01e02e1ae",
   "type": "competitor_news",
   "source": "carexpert",
@@ -76,6 +107,116 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T18:45:02+00:00"
+ },
+ {
+  "id": "bec200054353ee97",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnVOV2NIb2JHOVMwdGdOcFZBUVlGNkk3WW9fVGx6ZTlLNzBPcFhzV1hJYUNMcWRiU1M0Y294WDBWSTM3UlZHUnpsUWpMbHd2cl9XTmM4eE9sSFJPZ1RyNnl5N0dyeFlEZXl1RFpmRDFPMWZvSE1ZTlRzTnB6dXkwSVkyWTJOUGYyckNVSzNxVDJqbk1vU3dULV8yOXo?oc=5",
+  "title": "Zeekr White cars that are brands from China with kilometres under 80,000km for sale or order in Australia - Carsales",
+  "text": "Zeekr White cars that are brands from China with kilometres under 80,000km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-17T16:25:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T23:20:45+00:00"
+ },
+ {
+  "id": "d15ef0d8cd2875b3",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEJYUVozYVEzOTh5aXpoUG1rb1BtR1VEeFdRSkZyUjNKeUM5RFhBS2Y3WU9QYjVMYXJRX09id3pfeGtIU3ZtY08zV2I3dmhIWU5PdXBVaEo0aFpYSUgzSjlzR2pxbnYyQ2c1Q25OTk5KU1REd3hGOE50bU1RUjRIeUZtN0lqSEVpWk5kSGxDaVRCZzBJVU5xYVNxcDlMS0doRWdwX1RHb1pfYzFBTFlMWHBFN1RocWp0cU9TR2swSFZRQnlvdEE?oc=5",
+  "title": "Why the 2026 Geely Emgrand, BYD Seal and Tesla Model 3 are causing confusion about a sedan comeback | Opinion - CarsGuide",
+  "text": "Why the 2026 Geely Emgrand, BYD Seal and Tesla Model 3 are causing confusion about a sedan comeback | Opinion CarsGuide",
+  "author": "",
+  "published": "2026-10-17T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3",
+   "byd-seal"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T23:20:45+00:00"
+ },
+ {
+  "id": "347f60946babed57",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/2026-tesla-model-3-rear-wheel-drive-brief-drive-is-the-cheapest-tesla-now-the-smartest-buy/",
+  "title": "2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy?",
+  "text": "Here’s a useful question to ask whenever a manufacturer introduces a cheaper version of an existing car: what would you actually pay to put the missing equipment back? In the case of the new Tesla Model 3 Rear-Wheel Drive, the answer needs to be $9000 before the next model up starts looking alluring. That’s a sizeable chunk of change, and if you decide to splurge, what extra stuff are you actually getting? Um, not that much, actually. But more on that in a sec. READ MORE: Best EVs to buy in Australia 2026: The ultimate guide to affordable electric cars at every price READ MORE: Tesla Model 3 drops below $46,000! New entry grade undercuts BYD Seal as well as Kia EV4 READ MORE: Tesla bounces back with record Q2 deliveries: But what’s going on with the share price? The new Model 3 costs $45,900 before on-road costs, with the previously entry-level Rear-Wheel Drive now wearing a Premium badge and a $54,900 price tag. Above those sit the $61,900 Premium Long Range Rear-Wheel Drive and $80,900 Performance. 2026 Tesla Model 3 Rear-Wheel Drive. Tesla says this is what its version of affordability looks like, and the cut-backs begin with cheaper Giti tyres and new black aero covers for the",
+  "author": "Andrew Chesterton",
+  "published": "2026-10-17T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3",
+   "byd-seal",
+   "kia-ev4"
+  ],
+  "brands": [
+   "kia",
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T23:20:45+00:00"
  },
  {
   "id": "ff7f848fd6e1b824",
@@ -1132,7 +1273,7 @@
  {
   "id": "b5c47101ca081290",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXB0MHlBcTBZZmV5Q2tBbklMRUxTTEEwbThRbjR5VlRZTXo4NkZtd3ZhMjh3SG5IZUdaM2FWWEVES21jLXhMU2JmTW9MdGFvQUdSTTROVHdtNHFuellJOV9CNzdzanctTlBlZXhzamxQd21NYnY5T0RWMlNuUWZMaV85UW1sazFoZkljVnRpSHNVd203cWxaLTRZaEtWeVVzQ2N3dXdNRnQzYnAtX3hDdHFtRmltTTVVejhTLUlEcW1jZWs?oc=5",
   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
@@ -1162,7 +1303,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
@@ -4331,7 +4472,7 @@
  {
   "id": "98a2330553273167",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TEpDcWJDYm5IaGdPako3TlRYTUhJVVlCQXRKTUVPc1k4Z3gtYVdwZUQ1d0g0MG1MOXFhSHlZckJYTEtIOGR2b2s5a0RJMGJ6Z3pRTXJoU1dTOUk4ZlBPVXJPLV9ac28?oc=5",
   "title": "Mercedes-Benz GLB 2026 review: Australian first drive | Tesla Model Y L rival tested - CarsGuide",
@@ -4357,7 +4498,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T21:09:37+00:00"

@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-17T21:23:10+00:00",
- "duration_s": 161.8,
- "items_total": 718,
- "new_this_run": 206,
+ "generated": "2026-10-17T23:20:45+00:00",
+ "duration_s": 124.4,
+ "items_total": 722,
+ "new_this_run": 197,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 0,
   "complaints_7d": 9,
   "complaints_30d": 41,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 7,
-  "competitor_news_7d": 104,
-  "launch_signals_7d": 32,
-  "offer_signals_7d": 5,
-  "zeekr_news_7d": 72,
+  "competitor_news_7d": 103,
+  "launch_signals_7d": 30,
+  "offer_signals_7d": 6,
+  "zeekr_news_7d": 73,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-17",
    "complaints": 0,
-   "competitor_news": 4,
-   "zeekr_news": 3
+   "competitor_news": 6,
+   "zeekr_news": 5
   }
  ],
  "categories_30d": [
@@ -474,16 +474,18 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 7,
+   "n_30d": 9,
    "launch": [
+    "347f60946babed57",
     "d2af0ef5c3bba679",
     "6eceae851aeaecd7"
    ],
    "offer": [
+    "347f60946babed57",
     "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "d2af0ef5c3bba679"
+   "latest": "d15ef0d8cd2875b3"
   },
   "polestar-2": {
    "n_30d": 1,
@@ -494,16 +496,18 @@
    "latest": "479081910d666025"
   },
   "byd-seal": {
-   "n_30d": 5,
+   "n_30d": 7,
    "launch": [
+    "347f60946babed57",
     "d2af0ef5c3bba679",
     "977de602e7893c4e"
    ],
    "offer": [
+    "347f60946babed57",
     "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "d2af0ef5c3bba679"
+   "latest": "d15ef0d8cd2875b3"
   },
   "im5": {
    "n_30d": 2,
@@ -512,14 +516,16 @@
    "latest": "d1f285d82c38ea9b"
   },
   "kia-ev4": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
    "offer": [
+    "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "d2af0ef5c3bba679"
+   "latest": "347f60946babed57"
   },
   "mazda-6e": {
    "n_30d": 2,
@@ -819,6 +825,18 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "347f60946babed57",
+   "title": "2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy?",
+   "source": "EV Central",
+   "t": "2026-10-17T16:00:00+00:00",
+   "competitors": [
+    "tesla-model-3",
+    "byd-seal",
+    "kia-ev4"
+   ]
+  },
+  {
    "kind": "complaint_high",
    "id": "994b44db3ef57c68",
    "title": "1★ · 80 Thousand Dollars for this? The car has been out for a yea",
@@ -905,57 +923,6 @@
     "byd-atto3",
     "geely-ex5"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "beea26123443c4b8",
-   "title": "2027 Mercedes-Benz GLE 450 e price and specs: Australia gets six-cylinder plug-in hybrid power for the first time",
-   "source": "WhichCar",
-   "t": "2026-10-14T23:09:22+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "beacea688be7f8ba",
-   "title": "Deepal teases S05, S07 updates for Australia – and they may include extended-range options",
-   "source": "CarExpert",
-   "t": "2026-10-14T22:36:00+00:00",
-   "competitors": [
-    "deepal-s07"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "d48e5a49e00d8770",
-   "title": "Mercedes-Benz GLE 2027: debut PHEV power launches local for German SUV and Coupe twins",
-   "source": "Chasing Cars",
-   "t": "2026-10-14T22:15:33+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "fdc4d0d3e836ccf5",
-   "title": "Mercedes-Benz GLE 450 e priced for Australia - Carsales",
-   "source": "Google News · Carsales",
-   "t": "2026-10-14T22:00:52+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "0cad556c45557e97",
-   "title": "2027 Mercedes-Benz GLE450e PHEV priced for Australia",
-   "source": "CarExpert",
-   "t": "2026-10-14T22:00:00+00:00",
-   "competitors": [
-    "bmw-x5-50e",
-    "porsche-cayenne-eh"
-   ]
   }
  ],
  "source_status": {
@@ -966,7 +933,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 11,
+   "count": 12,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -996,27 +963,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 24,
+   "count": 18,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 9,
+   "count": 10,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 34,
+   "count": 31,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 22,
+   "count": 23,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 47,
+   "count": 48,
    "note": ""
   },
   "carexpert": {
@@ -1075,9 +1042,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1085,9 +1052,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 20,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1097,12 +1064,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1191,7 +1158,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
+   "count": 31,
    "note": "changed"
   },
   "offers-mazda": {
@@ -1215,9 +1182,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
