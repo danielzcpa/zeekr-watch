@@ -1,15 +1,15 @@
 {
- "generated": "2026-10-16T23:51:05+00:00",
- "duration_s": 158.0,
- "items_total": 705,
- "new_this_run": 213,
+ "generated": "2026-10-17T04:09:34+00:00",
+ "duration_s": 136.0,
+ "items_total": 708,
+ "new_this_run": 197,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 8,
-  "complaints_30d": 41,
+  "complaints_24h": 1,
+  "complaints_7d": 9,
+  "complaints_30d": 42,
   "high_7d": 2,
   "medium_7d": 0,
-  "low_7d": 6,
+  "low_7d": 7,
   "competitor_news_7d": 104,
   "launch_signals_7d": 32,
   "offer_signals_7d": 5,
@@ -17,12 +17,6 @@
   "offer_page_changes_7d": 3
  },
  "series_30d": [
-  {
-   "date": "2026-09-17",
-   "complaints": 2,
-   "competitor_news": 0,
-   "zeekr_news": 1
-  },
   {
    "date": "2026-09-18",
    "complaints": 2,
@@ -193,9 +187,15 @@
   },
   {
    "date": "2026-10-16",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 11,
    "zeekr_news": 11
+  },
+  {
+   "date": "2026-10-17",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 29
+   "n": 30
   },
   {
    "key": "service",
@@ -249,7 +249,7 @@
   }
  ],
  "models_30d": {
-  "7X": 17,
+  "7X": 18,
   "7GT": 4,
   "009": 1,
   "X": 1
@@ -257,7 +257,7 @@
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 15,
   "Google Play (AU)": 12,
-  "Reddit r/Zeekr": 5,
+  "Reddit r/Zeekr": 6,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
   "Reddit r/AustralianEV": 2,
@@ -938,16 +938,6 @@
     "bmw-x5-50e",
     "porsche-cayenne-eh"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "bd09876b341075d3",
-   "title": "Avatr, Nevo could beat sister brand Deepal to PHEV/EREV tech in Australia",
-   "source": "CarExpert",
-   "t": "2026-10-14T00:12:00+00:00",
-   "competitors": [
-    "avatr"
-   ]
   }
  ],
  "source_status": {
@@ -958,7 +948,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 16,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -993,22 +983,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 42,
+   "count": 27,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 27,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 54,
+   "count": 49,
    "note": ""
   },
   "carexpert": {
@@ -1072,14 +1062,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 20,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1094,7 +1084,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1207,9 +1197,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,

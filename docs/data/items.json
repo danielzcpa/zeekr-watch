@@ -1,5 +1,40 @@
 [
  {
+  "id": "4921745e5f5e9640",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/what-tesla-didnt-mention-at-its-spectacular-roadster-launch",
+  "title": "What Tesla didn’t mention at its spectacular Roadster launch…",
+  "text": "Almost a decade after its original unveiling, Tesla's electric supercar has resurfaced with extraordinary performance claims – but prospective buyers should read the fine print... The post What Tesla didn’t mention at its spectacular Roadster launch… first appeared on WhichCar .",
+  "author": "Michael Pickering",
+  "published": "2026-10-17T01:24:29+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T04:09:34+00:00"
+ },
+ {
   "id": "11b838bb4f2a74d0",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -70,6 +105,39 @@
   "first_seen": "2026-10-16T23:51:05+00:00"
  },
  {
+  "id": "32c1566c8cf76355",
+  "type": "complaint",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x7tene/zeekr_7x_v22_navigation_lag/",
+  "title": "Zeekr 7x v2.2 navigation lag?",
+  "text": "Anyone have that their map while moving is super laggy? Like up to a few secs. I rebooted the car and same issue. Does downloading the map help? Its not like buffering lag its like the entire system lags. Also the menu for settings for map",
+  "author": "/u/xXKaas",
+  "published": "2026-10-16T22:03:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-17T04:09:34+00:00"
+ },
+ {
   "id": "388ef281d54e5664",
   "type": "competitor_news",
   "source": "gn-ev-offer-au",
@@ -101,6 +169,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T21:36:52+00:00"
+ },
+ {
+  "id": "8fcbe9f1e08f78e4",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1x7r10b/zeekr_coming_with_google_builtin_google/",
+  "title": "Zeekr coming with Google Built-in (Google Automotive Services) next year?",
+  "text": "Geely dropped a press release announcing a global partnership to integrate Google Automotive Services into their cars. Starting in late 2027 (for markets outside China and the US), eligible vehicles will get native access to Google Maps, Google Play, and Gemini. The press release specifically mentions brands like Geely, Lynk & Co., Proton, Riddara, and Smart. Since Zeekr is also part of group, do you guys think they'll get the Google built-in treatment as well?",
+  "author": "/u/513",
+  "published": "2026-10-16T20:25:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-17T04:09:34+00:00"
  },
  {
   "id": "c207f5ebbabc0e8a",
@@ -753,7 +855,7 @@
  {
   "id": "b5c47101ca081290",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXB0MHlBcTBZZmV5Q2tBbklMRUxTTEEwbThRbjR5VlRZTXo4NkZtd3ZhMjh3SG5IZUdaM2FWWEVES21jLXhMU2JmTW9MdGFvQUdSTTROVHdtNHFuellJOV9CNzdzanctTlBlZXhzamxQd21NYnY5T0RWMlNuUWZMaV85UW1sazFoZkljVnRpSHNVd203cWxaLTRZaEtWeVVzQ2N3dXdNRnQzYnAtX3hDdHFtRmltTTVVejhTLUlEcW1jZWs?oc=5",
   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
@@ -783,7 +885,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
@@ -2623,12 +2725,12 @@
   "id": "a8731fdf35c5de8f",
   "type": "news_zeekr",
   "source": "gn-brands-cn",
-  "source_name": "Google News · www.juneesoutherncross.com.au",
+  "source_name": "Google News · Southern Cross",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU1tbTdvamhMbUEzUmFVWllzOWs1WlhicU9WUTJYMDN4eWlvUTRSVll3ck4wVDZkekR5OUNtV1Y0aXBIRjFRX1RXaVRtMGpoNzBTNU5HV295LW92R0VLUUxjdGNNQlNyX0pCNlBzQnItVE84LWh3XzVudXlwTXZUMlZST2tGMkNrQ3NXTExoZzZvY0IzclE?oc=5",
-  "title": "Eye-popping 712kW Zeekr rival incoming - www.juneesoutherncross.com.au",
-  "text": "Eye-popping 712kW Zeekr rival incoming www.juneesoutherncross.com.au",
+  "title": "Eye-popping 712kW Zeekr rival incoming - Southern Cross",
+  "text": "Eye-popping 712kW Zeekr rival incoming Southern Cross",
   "author": "",
-  "published": "2026-10-14T09:20:18+00:00",
+  "published": "2026-10-14T09:30:17+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -2644,7 +2746,7 @@
   "severity": null,
   "signals": [],
   "scope": "competitor",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-14T10:31:43+00:00"
  },
@@ -3023,7 +3125,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -3050,7 +3152,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
