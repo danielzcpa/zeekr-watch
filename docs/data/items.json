@@ -1,5 +1,36 @@
 [
  {
+  "id": "46348d9a9c8acf15",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTdWMGpiOV9BakljY2dFMGJDZzdlbEkzY0Q2VmtBTXpPTFotREpWZURSRzNuUXdDTWU1Wk1BOWltOHhwVFB3dFBvY0pHR1IxS3Zzd0RhWFhBVjNuRC04MjNWcVltVFhxcWs3NWU4Y3R5ZWljRnFDMmFRSG43bmsyQUNBMHozQU1rbUluN2I4RkQtOHI0OEE1ZHpldERUM2M?oc=5",
+  "title": "Zeekr cars that are brands from China for sale or order in Australian Capital Territory - Carsales",
+  "text": "Zeekr cars that are brands from China for sale or order in Australian Capital Territory Carsales",
+  "author": "",
+  "published": "2026-10-17T04:02:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T12:53:42+00:00"
+ },
+ {
   "id": "4921745e5f5e9640",
   "type": "competitor_news",
   "source": "whichcar",
@@ -890,7 +921,7 @@
  {
   "id": "b5c47101ca081290",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXB0MHlBcTBZZmV5Q2tBbklMRUxTTEEwbThRbjR5VlRZTXo4NkZtd3ZhMjh3SG5IZUdaM2FWWEVES21jLXhMU2JmTW9MdGFvQUdSTTROVHdtNHFuellJOV9CNzdzanctTlBlZXhzamxQd21NYnY5T0RWMlNuUWZMaV85UW1sazFoZkljVnRpSHNVd203cWxaLTRZaEtWeVVzQ2N3dXdNRnQzYnAtX3hDdHFtRmltTTVVejhTLUlEcW1jZWs?oc=5",
   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
@@ -920,7 +951,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
@@ -1974,7 +2005,7 @@
  {
   "id": "f4537ddeee79ee40",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5hRnJOUHRtaE5RRXJCYzU1cE16WlFzZGxLY2ZtRnBpOGs1ejd5SXM4SEJsMXkwcVA0N1JYM2tzV0xZZlpxbVNpdzI2N29NSDhUTVNOdE5oOVkwbDNxZURVZV9meWZ1dEF3eHhXS1BsTVNabGlpeEozUUV5SGdyNGNYUF9CMzduWE0wVG10US0zdUxMVElmMW9JWnZPd293MUFYanp4QmxLTHZIY3pRdGxYSGc5SG9fQ3Y4YW9CckN2Y1E?oc=5",
   "title": "2026 Lepas L6 priced in Australia to rival BYD Atto 3 and Geely EX5 as new electric mid-size SUV gears up for official showroom arrival - CarsGuide",
@@ -2625,7 +2656,7 @@
  {
   "id": "e0ef91f9ec5b5e79",
   "type": "competitor_news",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
   "title": "Hyundai Elexio price, range and specs - EV Central",
@@ -2652,7 +2683,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
@@ -9397,6 +9428,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "627b36d9e5bfbab5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwd0huZ1N4ZjBCTmtJQWhHZ1pjWFRUdHIxNzhVaWZ1c0tCdk5OazV2RTU1Q2tYa25SYWJld1lDX3gzNjh6eU8wcGFfakVyYmtra2MybHlZb3hfX0k1SWVv?oc=5",
+  "title": "Mazda CX-6e 2026 review: Australian first drive | Zeekr 7X rival tested - CarsGuide",
+  "text": "Mazda CX-6e 2026 review: Australian first drive | Zeekr 7X rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-06T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "1a34cb0b250ca126",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -9602,39 +9666,6 @@
    "price_cut",
    "price"
   ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "627b36d9e5bfbab5",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarsGuide",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwd0huZ1N4ZjBCTmtJQWhHZ1pjWFRUdHIxNzhVaWZ1c0tCdk5OazV2RTU1Q2tYa25SYWJld1lDX3gzNjh6eU8wcGFfakVyYmtra2MybHlZb3hfX0k1SWVv?oc=5",
-  "title": "Mazda CX-6e 2026 review: Australian first drive | Zeekr 7X rival tested - CarsGuide",
-  "text": "Mazda CX-6e 2026 review: Australian first drive | Zeekr 7X rival tested CarsGuide",
-  "author": "",
-  "published": "2026-10-05T23:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [
-   "mazda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
   "scope": "zeekr",
   "au": true,
   "extra": {},

@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-17T08:45:22+00:00",
- "duration_s": 149.3,
- "items_total": 709,
- "new_this_run": 199,
+ "generated": "2026-10-17T12:53:42+00:00",
+ "duration_s": 189.4,
+ "items_total": 710,
+ "new_this_run": 207,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 9,
@@ -10,7 +10,7 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 7,
-  "competitor_news_7d": 105,
+  "competitor_news_7d": 104,
   "launch_signals_7d": 33,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 71,
@@ -123,13 +123,13 @@
    "date": "2026-10-05",
    "complaints": 1,
    "competitor_news": 0,
-   "zeekr_news": 1
+   "zeekr_news": 0
   },
   {
    "date": "2026-10-06",
    "complaints": 1,
    "competitor_news": 1,
-   "zeekr_news": 4
+   "zeekr_news": 5
   },
   {
    "date": "2026-10-07",
@@ -195,7 +195,7 @@
    "date": "2026-10-17",
    "complaints": 0,
    "competitor_news": 1,
-   "zeekr_news": 0
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -959,7 +959,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 13,
+   "count": 12,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -999,17 +999,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 35,
+   "count": 36,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 22,
+   "count": 23,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 48,
+   "count": 45,
    "note": ""
   },
   "carexpert": {
@@ -1088,24 +1088,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1184,8 +1184,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
-   "note": "unchanged"
+   "count": 19,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
