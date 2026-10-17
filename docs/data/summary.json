@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-17T04:09:34+00:00",
- "duration_s": 136.0,
- "items_total": 708,
- "new_this_run": 197,
+ "generated": "2026-10-17T08:45:22+00:00",
+ "duration_s": 149.3,
+ "items_total": 709,
+ "new_this_run": 199,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 9,
@@ -10,8 +10,8 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 7,
-  "competitor_news_7d": 104,
-  "launch_signals_7d": 32,
+  "competitor_news_7d": 105,
+  "launch_signals_7d": 33,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 71,
   "offer_page_changes_7d": 3
@@ -188,7 +188,7 @@
   {
    "date": "2026-10-16",
    "complaints": 1,
-   "competitor_news": 11,
+   "competitor_news": 12,
    "zeekr_news": 11
   },
   {
@@ -449,14 +449,15 @@
    "latest": null
   },
   "skoda-enyaq": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
+    "1380cc70d4605aa5",
     "3e3f285c9229d77a"
    ],
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "70f2d9868dbafa57"
+   "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
    "n_30d": 7,
@@ -819,6 +820,16 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "1380cc70d4605aa5",
+   "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-16T18:30:33+00:00",
+   "competitors": [
+    "skoda-enyaq"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "0ea6624a635cd203",
    "title": "'No need for Australian testing': Geely reveals its secret weapon that could benefit future examples of 2026 Geely EX5, Battleship 700 and Monjaro - CarsGuide",
    "source": "Google News · CarsGuide",
@@ -948,7 +959,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 16,
+   "count": 13,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -978,27 +989,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 24,
+   "count": 21,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 13,
+   "count": 11,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 27,
+   "count": 35,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 27,
+   "count": 22,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 49,
+   "count": 48,
    "note": ""
   },
   "carexpert": {
@@ -1128,7 +1139,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1199,7 +1210,7 @@
   "offers-byd": {
    "ok": false,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Read timed out. (read timeout=20)"
   },
   "offers-hyundai": {
    "ok": true,
