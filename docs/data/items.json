@@ -1,5 +1,44 @@
 [
  {
+  "id": "eac33af01e02e1ae",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/bmw-celebrates-one-million-m-cars-as-petrol-and-ev-m3s-prepare-to-coexist",
+  "title": "BMW celebrates one million M cars as petrol and EV M3s prepare to coexist",
+  "text": "BMW has built its one-millionth M car, with the milestone coming as the German automaker prepares to bring its high-performance division into the electric era with the first fully electric BMW M3 . The milestone vehicle is an M3 finished in BMW Individual Fire Orange III paintwork, built at BMW Group Plant Munich and presented at an official ceremony earlier this month. The achievement comes more than 50 years after BMW M was established, and 40 years after the original M3 went on sale. Munich will also become the exclusive production site for the first fully electric M3, which will use BMW's next-generation Neue Klasse technology. BMW has confirmed the upcoming electric performance sedan will be built alongside the company's broader shift towards electric vehicles (EVs), with Plant Munich set to produce only fully electric models from 2027. “The one-millionth BMW M vehicle shows that these values are still very much appreciated by our customers, 40 years after the market launch of the first BMW M3,” said Franciscus van Meel, CEO of BMW M. “This motivates us to continuously develop our BMW M high-performance vehicle portfolio based on BMW M Neue Klasse technology, including fully e",
+  "author": "Dave Kavermann",
+  "published": "2026-10-17T21:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "price",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T21:23:10+00:00"
+ },
+ {
   "id": "2b11304cc7aff3eb",
   "type": "competitor_news",
   "source": "chasingcars",
@@ -336,6 +375,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T21:36:52+00:00"
+ },
+ {
+  "id": "994b44db3ef57c68",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=c305e38c-de77-4b5e-8fe1-71128f29a01d",
+  "title": "1★ · 80 Thousand Dollars for this? The car has been out for a yea",
+  "text": "80 Thousand Dollars for this? The car has been out for a year now and the basic function of the key is still BROKEN! DO WE HAVE DIGITAL KEY 3.0? Baiting us with promises of OTA and app updates that we wait forever to come; then give us nothing of what we ask for; DO NOT BUY THIS CAR! Fix the (reported but ignored in app) AUTO ZONING of air cond; yes it's in the manual; should you read it. 70% of smartphone users have ANDROID. FIX THIS. UNTIL THEN I CANNOT RECOMMEND THIS CAR.",
+  "author": "Steven Dorombozo",
+  "published": "2026-10-16T20:54:54+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "service"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 3,
+   "pos_hits": 1,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.7",
+   "thumbs": 30
+  },
+  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "8fcbe9f1e08f78e4",
@@ -5391,41 +5466,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "994b44db3ef57c68",
-  "type": "complaint",
-  "source": "playstore-android",
-  "source_name": "Google Play (AU) · ZEEKR app",
-  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=c305e38c-de77-4b5e-8fe1-71128f29a01d",
-  "title": "1★ · Again; a PATHETIC update! The car has been out for a year no",
-  "text": "Again; a PATHETIC update! The car has been out for a year now and the basic function of the key is still BROKEN! DO WE HAVE DIGITAL KEY 3.0? Baiting us with promises of OTA and app updates that we wait forever to come; then give us nothing of what we ask for; DO NOT BUT THIS CAR! Enable for us AUTO ZONING of air cond; yes it's in the manual; should you read it. 70% of smartphone users have ANDROID. FIX THIS. UNTIL THEN I CANNOT RECOMMEND THIS CAR.",
-  "author": "Steven Dorombozo",
-  "published": "2026-10-13T00:38:35+00:00",
-  "rating": 1.0,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "quality",
-   "software"
-  ],
-  "sentiment": {
-   "score": -3,
-   "neg_hits": 3,
-   "pos_hits": 1,
-   "label": "negative"
-  },
-  "severity": "high",
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {
-   "version": "1.6.6",
-   "thumbs": 29
-  },
-  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "8e9b110e4e475964",
@@ -12336,20 +12376,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
