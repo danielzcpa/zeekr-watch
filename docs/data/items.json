@@ -1,5 +1,44 @@
 [
  {
+  "id": "2b11304cc7aff3eb",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/electric-vehicles/electric-mercedes-amg-gt-suv-guns-for-cayenne-turbo-ev/",
+  "title": "Electric Mercedes-AMG GT SUV guns for Cayenne Turbo EV",
+  "text": "This post appeared first on Chasing Cars . The Mercedes-Benz performance arm AMG has revealed its first dedicated electric SUV, setting up a battle of the super-rapid super-SUVs with Porsche’s Cayenne Turbo Coupe EV. AMG’s anticipated GT SUV is the high-riding twin to the division’s electric GT four-door coupe, sharing its AMG-EA 800-volt platform, triple electric motors, and many other components including design features. A GT SUV 63 sits at the top of the range, featuring a trio of electric motors to deliver up to 860kW/2000Nm and claiming a 0-100km/h time of 2.7 seconds. Porsche quotes 2.5 seconds for its 850kW Cayenne Turbo Electric using launch control. Mercedes says the GT SUV brings benchmark sustained power delivery, with the range-topping 63 and mid-range 55 producing a continuous output of 530kW. 2027 Mercedes-AMG GT SUV Doubling the sprint speed to 200km/h from standstill sees the AMG edge out the Porsche by a couple of tenths – 7.2 versus 7.4 seconds, while its top speed is 10km/h higher at 270km/h – provided an optional Driver’s Package is added. The AMG GT SUV 63 and mid-range 55 follow the GT coupe with simulated AMG V8 sounds and gearshifts that includes haptic sea",
+  "author": "Jez Spinks",
+  "published": "2026-10-17T17:03:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "porsche"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T18:45:02+00:00"
+ },
+ {
   "id": "ff7f848fd6e1b824",
   "type": "competitor_news",
   "source": "gn-zeekr-evcentral",
