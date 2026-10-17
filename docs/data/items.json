@@ -1,5 +1,71 @@
 [
  {
+  "id": "ff7f848fd6e1b824",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GLU5RNUJ5N1JoNTBJcHE3TGs4YXJvUW5DRFJyXzdQZWx2cDJsTDktenNvRjlQR2ZkNFZQRjE4UjIzRTlfNTU3YTJBOS1INU5scFZ0cw?oc=5",
+  "title": "Skoda Elroq price and specs: every 2026 variant compared - EV Central",
+  "text": "Skoda Elroq price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T08:00:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "skoda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T16:18:05+00:00"
+ },
+ {
+  "id": "6815b0ce9f64ae39",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXhpanl2Q2prUlplOGpXN1UtZTgxc3dWTjVLRlBhOUhsS0pzTDc1OV92RW5HUUllcEpvcFVWcGRNQTkyVTJZYmxpLWZIb2dqYV9KbFJub3pfNTBxbFZiQzNmYVhMaG0tWDVfTzNHaWdZazc2UnFZMFVfeTJ6cWo0eDk0MktER0U?oc=5",
+  "title": "Zeekr cars that are brands from China between $100,000 & $500,000 for sale or order in Australia - Carsales",
+  "text": "Zeekr cars that are brands from China between $100,000 & $500,000 for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-17T07:35:43+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T16:18:05+00:00"
+ },
+ {
   "id": "46348d9a9c8acf15",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -29,6 +95,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T12:53:42+00:00"
+ },
+ {
+  "id": "57044b7559d03c6a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3JVbkJMcDRSVVBsUjU0bGxjY2czYzIyazhRemNEREZ0akJXa3Q0RTJMRVczMFN5eHVQSVJMakgzTE42dm9DM0RETWQwTVgxaUNmTWo3Q1VGQk0xTm1CNEg2b2ZPVzRhT21KNnBKV3E0dkZIdlU2d0NDaU9yeXBYb1liNEhQTzNSQ1p4MGRNTnFIUE0yTXVwRjlxczJvdTZpUkpUaDlUajZRTDk5Ym5NWmNVR2taMzJHV2FZ?oc=5",
+  "title": "Zeekr cars that are brands from China with kilometres under 200,000km for sale or order in Australian Capital Territory - Carsales",
+  "text": "Zeekr cars that are brands from China with kilometres under 200,000km for sale or order in Australian Capital Territory Carsales",
+  "author": "",
+  "published": "2026-10-17T03:43:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T16:18:05+00:00"
  },
  {
   "id": "4921745e5f5e9640",
@@ -921,7 +1018,7 @@
  {
   "id": "b5c47101ca081290",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXB0MHlBcTBZZmV5Q2tBbklMRUxTTEEwbThRbjR5VlRZTXo4NkZtd3ZhMjh3SG5IZUdaM2FWWEVES21jLXhMU2JmTW9MdGFvQUdSTTROVHdtNHFuellJOV9CNzdzanctTlBlZXhzamxQd21NYnY5T0RWMlNuUWZMaV85UW1sazFoZkljVnRpSHNVd203cWxaLTRZaEtWeVVzQ2N3dXdNRnQzYnAtX3hDdHFtRmltTTVVejhTLUlEcW1jZWs?oc=5",
   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
@@ -951,7 +1048,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
@@ -11101,6 +11198,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "d73bd5e2756146ca",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Uak9aWDN5YW53dlRrbExnU25HdmdTZFFQeXF4TkZ5blJyamV2ZVJGcDctZHdRSzl0MXkxazdZWFZkUXpHUGVLc3JBZmNYcWJlWE9fNExOUm1LamxzbGVEZ2F3?oc=5",
+  "title": "Zeekr 7 GT/007 GT - Whirlpool Forums",
+  "text": "Zeekr 7 GT/007 GT Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-30T01:22:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T16:18:05+00:00"
+ },
+ {
   "id": "9b16674bb0a04e57",
   "type": "complaint",
   "source": "playstore-android",
@@ -11504,6 +11632,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "e7bf4221ec2773e3",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2U0VBWHVtUEE0MmZmUDA2YTN6a2lKNEZ3ZU5KR1ItTmRJSlpibHVKNnNTSXhYV3Y4dlowYkxBYUhUN1FVd2lBSW5zcjZnZHVOZHdLNmNabGJaYTFYeUVVQlNB?oc=5",
+  "title": "XPeng Mona L03 - Whirlpool Forums",
+  "text": "XPeng Mona L03 Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-28T11:30:38+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-p7"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T16:18:05+00:00"
  },
  {
   "id": "6c9bf142a57d9413",
@@ -14478,6 +14639,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "345032a8e175d6e7",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSnVRUFMwY3hQNlpLMjFOZGtJWk5GbDFTeGlpcHN6Nk5jWThLalp2T19LRXBoQzZWTEwtSHJjaGNoUmZkdWM3R09kcXhOaU9qb01RcVlnbzQyd2c?oc=5",
+  "title": "Tesla Model Y Purchase Now or Wait for AI5 - OzBargain",
+  "text": "Tesla Model Y Purchase Now or Wait for AI5 OzBargain",
+  "author": "",
+  "published": "2026-09-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T16:18:05+00:00"
  },
  {
   "id": "70a5876510fbc879",
