@@ -99,6 +99,39 @@
   "first_seen": "2026-10-18T14:46:36+00:00"
  },
  {
+  "id": "3c1c019013919204",
+  "type": "post",
+  "source": "reddit-ZeekrX",
+  "source_name": "Reddit r/ZeekrX",
+  "url": "https://www.reddit.com/r/ZeekrX/comments/1x8yhcq/my_zeekr_x_got_sideswiped/",
+  "title": "My Zeekr X got sideswiped 😢",
+  "text": "So a giant ute ran into my new Zeekr X. Daresay the driver’s side door will need replacing, not just the mirror. Now I get to find out how fast Zeekr parts take to get to Adelaide. At least I’ve got all the video to show insurance that I wasn’t in the wrong.",
+  "author": "/u/UniqueID85",
+  "published": "2026-10-18T08:58:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T20:29:05+00:00"
+ },
+ {
   "id": "86319ed31d31c856",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -4444,7 +4477,7 @@
  {
   "id": "f03d3da9850a290c",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lWC1WNFRvbnZneGtYNUtaSGpibkFrM3ZreHRISHpxSlBYMUQ1aUtTSkpXRng4YTRPbmJmNEpOZ2NZZjdDMzVjbUlJVktVVHpvTHBXaVA3WllGQmFUa1gzOFEwN19iZEsybS1UaFo4RUZvLTlnZzFOWQ?oc=5",
   "title": "Tesla Model 3 2026 review: Rear-Wheel Drive | BYD Seal 6 rival tested - CarsGuide",
@@ -4471,7 +4504,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T10:31:43+00:00"
