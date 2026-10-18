@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-18T01:27:25+00:00",
- "duration_s": 143.9,
- "items_total": 723,
- "new_this_run": 192,
+ "generated": "2026-10-18T06:30:46+00:00",
+ "duration_s": 118.6,
+ "items_total": 729,
+ "new_this_run": 195,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 9,
-  "complaints_30d": 39,
+  "complaints_24h": 1,
+  "complaints_7d": 10,
+  "complaints_30d": 41,
   "high_7d": 2,
   "medium_7d": 0,
-  "low_7d": 7,
+  "low_7d": 8,
   "competitor_news_7d": 103,
   "launch_signals_7d": 30,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 73,
+  "zeekr_news_7d": 74,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -39,7 +39,7 @@
    "date": "2026-09-22",
    "complaints": 1,
    "competitor_news": 0,
-   "zeekr_news": 2
+   "zeekr_news": 3
   },
   {
    "date": "2026-09-23",
@@ -187,13 +187,13 @@
   },
   {
    "date": "2026-10-17",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 6,
-   "zeekr_news": 5
+   "zeekr_news": 6
   },
   {
    "date": "2026-10-18",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 0,
    "zeekr_news": 0
   }
@@ -203,25 +203,25 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 27
+   "n": 29
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 14
+   "n": 15
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 12
+   "n": 13
   },
   {
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 10
+   "n": 11
   },
   {
    "key": "charging",
@@ -233,7 +233,7 @@
    "key": "sales",
    "zh": "销售体验",
    "en": "Sales experience",
-   "n": 5
+   "n": 6
   },
   {
    "key": "price",
@@ -255,8 +255,8 @@
   "X": 1
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 15,
-  "Google Play (AU)": 11,
+  "Reddit r/Zeekr7xAustralia": 16,
+  "Google Play (AU)": 12,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
@@ -838,6 +838,13 @@
   },
   {
    "kind": "complaint_high",
+   "id": "99ed59d066f99039",
+   "title": "1★ · I can no longer connect to my car through the app both over",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-10-17T06:21:34+00:00"
+  },
+  {
+   "kind": "complaint_high",
    "id": "994b44db3ef57c68",
    "title": "1★ · 80 Thousand Dollars for this? The car has been out for a yea",
    "source": "Google Play (AU) · ZEEKR app",
@@ -912,7 +919,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 10,
+   "count": 9,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -942,7 +949,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 15,
+   "count": 13,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -952,17 +959,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 32,
+   "count": 24,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 22,
+   "count": 20,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 46,
+   "count": 47,
    "note": ""
   },
   "carexpert": {
@@ -1021,14 +1028,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1043,7 +1050,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1092,7 +1099,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1138,7 +1145,7 @@
   "offers-mg": {
    "ok": true,
    "count": 19,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,

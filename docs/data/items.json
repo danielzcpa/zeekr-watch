@@ -1,5 +1,111 @@
 [
  {
+  "id": "5743cef7c89a5c8b",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x8stmb/what_are_the_specifications_of_the_new_7x_being/",
+  "title": "What are the specifications of the new 7x being delivered from now?",
+  "text": "I heard and read that all new orders not delivered from existing stock in Aus will be the new facelift (2027) models. Does anyone know exactly what the specs of these will be? Same as Europe or different for Australia? And, does anyone know if the 2026 or 2027 models will get the recently announced GAS updates? https://zgh.com/media-center/news/2026-10-16/?lang=en Wouldn't it be nice to actually hear answers from Zeekr Australia",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-10-18T03:20:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T06:30:46+00:00"
+ },
+ {
+  "id": "97e648b5c1627dc5",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x8rmsh/2026_vs_2027_7x_better_adas_similar_to_tesla/",
+  "title": "2026 vs 2027 7X better ADAS similar to Tesla autopilot?",
+  "text": "",
+  "author": "/u/Conscious_Weather_10",
+  "published": "2026-10-18T02:16:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T06:30:46+00:00"
+ },
+ {
+  "id": "85ca367ec4bc1c14",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x8riae/dried_water_spots_on_paint/",
+  "title": "Dried water spots on paint.",
+  "text": "Has anyone noticed dried water spots all over their paint? This photo was taken after I had paint correction and ceramic coating applied by a detailer 8 days post collection from dealer. I had never noticed this when I collected the car unfortunately. The detailer said he will have another go at removing them but I’m left feeling quite disappointed. I’m assuming if the paint is stuffed, it wouldn’t be covered by warranty?",
+  "author": "/u/Jealous-Accident-876",
+  "published": "2026-10-18T02:09:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T06:30:46+00:00"
+ },
+ {
   "id": "4cf582f497af916c",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -102,6 +208,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T21:23:10+00:00"
+ },
+ {
+  "id": "421a07654e90d1c1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWdzQUlHaTZyN2xmOVhxRFRLSkdXYnlZTndQa2FaV0gtcjRzM3AzUHVBUWR6X2hVcWNfWUNwWEVDOTNuRVg2cHc2M3dsLW8tM2xHZFdHX1NYQWI0aHZjNjNzZjEwd0wtV1hBSDRHamhMczRRcTZ0aUt6eDkxUmNoRXNSNDdPb0pteTJhYnY2TTdKdEVVYWRlamxCc28?oc=5",
+  "title": "Zeekr Black cars that are brands from China with kilometres under 60,000km for sale or order in Australia - Carsales",
+  "text": "Zeekr Black cars that are brands from China with kilometres under 60,000km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-17T20:49:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T06:30:46+00:00"
  },
  {
   "id": "2b11304cc7aff3eb",
@@ -317,6 +454,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T16:18:05+00:00"
+ },
+ {
+  "id": "99ed59d066f99039",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=0548b185-c826-476e-a5fa-cf9dfc147d92",
+  "title": "1★ · I can no longer connect to my car through the app both over",
+  "text": "I can no longer connect to my car through the app both over the internet or Bluetooth (standing right next to the car)",
+  "author": "Tin Hung Wong",
+  "published": "2026-10-17T06:21:34+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": null,
+   "thumbs": 0
+  },
+  "first_seen": "2026-10-18T06:30:46+00:00"
  },
  {
   "id": "46348d9a9c8acf15",
@@ -13610,6 +13781,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "f0f6221939519615",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOQWMxUksxRlhkdmRYOVFqaVlfblN0RnBUaHUyMWp1bTN1OGtNT1h2VmlHR3pHNXlOeUNKdkE5WkxKUmJLSllzbHRLZXl4LU5pZUtyel85eUZVN0drQkJ4VmZhQWx4TFNOc0pKUWozQ2N1WWdBemRhdmNQdWhkVy1Pa05ITjQ?oc=5",
+  "title": "Zeekr confirms a world-first for Australia - CarExpert",
+  "text": "Zeekr confirms a world-first for Australia CarExpert",
+  "author": "",
+  "published": "2026-09-22T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "5702fa1c01389729",
   "type": "news_zeekr",
   "source": "evcentral-zeekr",
@@ -13866,37 +14068,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "f0f6221939519615",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOQWMxUksxRlhkdmRYOVFqaVlfblN0RnBUaHUyMWp1bTN1OGtNT1h2VmlHR3pHNXlOeUNKdkE5WkxKUmJLSllzbHRLZXl4LU5pZUtyel85eUZVN0drQkJ4VmZhQWx4TFNOc0pKUWozQ2N1WWdBemRhdmNQdWhkVy1Pa05ITjQ?oc=5",
-  "title": "Zeekr confirms a world-first for Australia - CarExpert",
-  "text": "Zeekr confirms a world-first for Australia CarExpert",
-  "author": "",
-  "published": "2026-09-21T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "5afba98df4980270",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -14000,6 +14171,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "82bf89ca42a88527",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Inner East Review",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZG9fT0Z3ODF5clhSSWtPdmlaeGZVc1lVOWhnMkRIU2ttcDQ4aE1jSDlLNm5MS0lZTEpmVlVpaFJXbzRmRHlaMXhvTXYxMUZwdlV3am83dTFhUEVlcXJ3OHhEb3ZTLU1WZld2WnFpVi05RUd1Nm1sZ3p3WFR0NVZmUUwwcUMyZFFKUjB2eUJB?oc=5",
+  "title": "Zeekr 7X has some fresh competition - Inner East Review",
+  "text": "Zeekr 7X has some fresh competition Inner East Review",
+  "author": "",
+  "published": "2026-09-21T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-18T06:30:46+00:00"
  },
  {
   "id": "7e27f56630491929",
