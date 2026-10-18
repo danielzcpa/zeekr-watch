@@ -1,5 +1,100 @@
 [
  {
+  "id": "76659a2e02ae3733",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-byd-shark-6-premium-review",
+  "title": "2027 BYD Shark 6 Premium review",
+  "text": "The BYD Shark 6 has done what very few vehicles have been able to accomplish in modern times – launch into a competitive segment, and almost instantly overtake many of the established models. BYD’s plug-in hybrid ute caused a big splash when it arrived in Australia in late 2024, and has consistently found itself on the top-20 sales chart, making it one of the most popular choices among a sea of dual-cabs. The Chinese automaker has expanded the Shark 6 lineup as a result, offering both a cab-chassis model for those who need something other than a tub on the back, and a Performance variant – which gets a bigger 2.0-litre turbo-petrol four-cylinder engine and greater combined power. We tested the Shark 6 Performance at its launch earlier this year, driving the vehicle on country roads, as well as evaluating its towing and off-road capabilities at a proving ground in regional Victoria. And while we walked away impressed, we wanted to revisit the OG – the Shark 6 Premium. The Premium combines a 1.5-litre turbo-petrol four-cylinder engine with dual electric motors – offering owners the ability to drive using pure electric power, or a combination of petrol and electric power for low fuel",
+  "author": "Ben Zachariah",
+  "published": "2026-10-18T13:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T14:46:36+00:00"
+ },
+ {
+  "id": "d76359f27502ec3b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNjZkazRQdGh2UUQ3TDdCd0JiWDRBOUtyVTFPZ2F2b2c0Wk54cnoyVzhQdW45ZVZ5VHJBekZQMF9IcFBCSG9VX2tmSVlRRGRiS3o0X3FzYi16dHM2NWRhUTJsLUF2T3RLMVJxVVV0bERReUk0enM4V0p6M2VfN2lOcXNGZHVFcmRqZ2tR?oc=5",
+  "title": "Zeekr cars that are brands from China between $15,000 & $60,000 for sale or order in Australia - Carsales",
+  "text": "Zeekr cars that are brands from China between $15,000 & $60,000 for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-18T09:18:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T14:46:36+00:00"
+ },
+ {
+  "id": "86319ed31d31c856",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
+  "title": "Zeekr's real LandCruiser killer could look like this - Drive",
+  "text": "Zeekr's real LandCruiser killer could look like this Drive",
+  "author": "",
+  "published": "2026-10-18T06:34:27+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T23:51:05+00:00"
+ },
+ {
   "id": "5743cef7c89a5c8b",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -888,20 +983,24 @@
   "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
-  "id": "86319ed31d31c856",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
-  "title": "Zeekr's real LandCruiser killer could look like this - Drive",
-  "text": "Zeekr's real LandCruiser killer could look like this Drive",
+  "id": "75acfb2b78f5ae42",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Auto Trader NZ",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFpWNDZpRFdhY2NYSHVvMEd6VkpYM3l2ZE8xNzZidDFETXZhTndwUDJ0YllES0NlMWN3U1o1YTk5YkMyZ3A1VmpuWXZxRUJUalRnTXgzbFN5MGU0UXpXS0FPemlMMElSRWlfbEdjazAzdlF6OXZwSVNzNDlJUVVrQ29KTU0ySjI4R1QyaTdSa0lKTFpmT0I2MjVR?oc=5",
+  "title": "2026 XPeng X9 AWD Performance Review - Auto Trader NZ",
+  "text": "2026 XPeng X9 AWD Performance Review Auto Trader NZ",
   "author": "",
-  "published": "2026-10-16T18:02:28+00:00",
+  "published": "2026-10-16T17:48:26+00:00",
   "rating": null,
-  "zeekr": true,
+  "zeekr": false,
   "models": [],
-  "competitors": [],
-  "brands": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng"
+  ],
   "categories": [],
   "sentiment": {
    "score": 0,
@@ -914,7 +1013,7 @@
   "scope": "zeekr",
   "au": false,
   "extra": {},
-  "first_seen": "2026-10-16T23:51:05+00:00"
+  "first_seen": "2026-10-18T14:46:36+00:00"
  },
  {
   "id": "6dbe98d0de9727af",
@@ -985,6 +1084,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T23:51:05+00:00"
+ },
+ {
+  "id": "c1d73282b7bf78ea",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTHMtNEZJUVk4RFlBV2wzdGFuSktEQy1JSFptX3JsWkx4SjRMNmd1dUpwS21FV0tHNU1RclIyYTNBbWtaZm5jdUdhdWZ4Ukpn?oc=5",
+  "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
+  "text": "Mazda 6e review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-16T15:54:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mazda-6e"
+  ],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
   "id": "0c6257880c9f5a9d",
@@ -7899,41 +8033,6 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
-  "id": "c1d73282b7bf78ea",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTHMtNEZJUVk4RFlBV2wzdGFuSktEQy1JSFptX3JsWkx4SjRMNmd1dUpwS21FV0tHNU1RclIyYTNBbWtaZm5jdUdhdWZ4Ukpn?oc=5",
-  "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
-  "text": "Mazda 6e review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-10T21:43:19+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "mazda-6e"
-  ],
-  "brands": [
-   "mazda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
   "id": "977de602e7893c4e",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -8190,7 +8289,7 @@
   "title": "780 hp Zeekr 7X Facelift spotted testing in Australia for the first time - The Supercar Blog",
   "text": "780 hp Zeekr 7X Facelift spotted testing in Australia for the first time The Supercar Blog",
   "author": "",
-  "published": "2026-10-10T08:56:57+00:00",
+  "published": "2026-10-10T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [

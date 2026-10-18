@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T11:36:41+00:00",
- "duration_s": 183.6,
- "items_total": 730,
- "new_this_run": 198,
+ "generated": "2026-10-18T14:46:36+00:00",
+ "duration_s": 191.4,
+ "items_total": 733,
+ "new_this_run": 197,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 8,
-  "competitor_news_7d": 103,
-  "launch_signals_7d": 30,
+  "competitor_news_7d": 106,
+  "launch_signals_7d": 31,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 74,
+  "zeekr_news_7d": 75,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -146,7 +146,7 @@
   {
    "date": "2026-10-10",
    "complaints": 0,
-   "competitor_news": 8,
+   "competitor_news": 7,
    "zeekr_news": 3
   },
   {
@@ -182,8 +182,8 @@
   {
    "date": "2026-10-16",
    "complaints": 2,
-   "competitor_news": 12,
-   "zeekr_news": 11
+   "competitor_news": 14,
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-17",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-18",
    "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 0
+   "competitor_news": 1,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -535,7 +535,7 @@
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "a0bad462fa5ad448"
+   "latest": "c1d73282b7bf78ea"
   },
   "mb-cla-ev": {
    "n_30d": 0,
@@ -576,13 +576,13 @@
    "latest": null
   },
   "xpeng-x9": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "2c8e385c13663939",
     "59331c007457eaac"
    ],
    "offer": [],
-   "latest": "4dd3026f0e2e569c"
+   "latest": "75acfb2b78f5ae42"
   },
   "mb-eqv": {
    "n_30d": 0,
@@ -872,6 +872,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "c1d73282b7bf78ea",
+   "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-16T15:54:57+00:00",
+   "competitors": [
+    "mazda-6e"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "d2af0ef5c3bba679",
    "title": "Tesla Roadster revealed with SpaceX thrusters: 0-100km/h in less than a second, it can fly … and you still can’t have one",
    "source": "EV Central",
@@ -912,7 +922,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 5,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -942,17 +952,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 41,
+   "count": 42,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 11,
+   "count": 10,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 22,
+   "count": 21,
    "note": ""
   },
   "gn-brands-eu": {
@@ -962,7 +972,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 41,
+   "count": 42,
    "note": ""
   },
   "carexpert": {
@@ -1137,7 +1147,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
+   "count": 19,
    "note": "changed"
   },
   "offers-mazda": {
