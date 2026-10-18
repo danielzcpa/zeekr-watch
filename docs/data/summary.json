@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T14:46:36+00:00",
- "duration_s": 191.4,
- "items_total": 733,
- "new_this_run": 197,
+ "generated": "2026-10-18T17:59:55+00:00",
+ "duration_s": 115.1,
+ "items_total": 735,
+ "new_this_run": 185,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
@@ -10,8 +10,8 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 8,
-  "competitor_news_7d": 106,
-  "launch_signals_7d": 31,
+  "competitor_news_7d": 108,
+  "launch_signals_7d": 32,
   "offer_signals_7d": 6,
   "zeekr_news_7d": 75,
   "offer_page_changes_7d": 3
@@ -140,13 +140,13 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 13,
+   "competitor_news": 12,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-10",
    "complaints": 0,
-   "competitor_news": 7,
+   "competitor_news": 6,
    "zeekr_news": 3
   },
   {
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 6,
+   "competitor_news": 9,
    "zeekr_news": 7
   },
   {
    "date": "2026-10-18",
    "complaints": 1,
    "competitor_news": 1,
-   "zeekr_news": 2
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -837,6 +837,26 @@
    ]
   },
   {
+   "kind": "competitor_launch",
+   "id": "479081910d666025",
+   "title": "Polestar 2 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "polestar-2"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "a27bf89cf6f37c43",
+   "title": "Kia EV6 review, price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "kia-ev6"
+   ]
+  },
+  {
    "kind": "complaint_high",
    "id": "99ed59d066f99039",
    "title": "1★ · I can no longer connect to my car through the app both over",
@@ -922,7 +942,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 17,
+   "count": 14,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -952,7 +972,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 42,
+   "count": 40,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -962,17 +982,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 21,
+   "count": 22,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 20,
+   "count": 21,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 42,
+   "count": 44,
    "note": ""
   },
   "carexpert": {
@@ -1036,9 +1056,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1048,27 +1068,27 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1148,7 +1168,7 @@
   "offers-mg": {
    "ok": true,
    "count": 19,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
@@ -1171,9 +1191,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
