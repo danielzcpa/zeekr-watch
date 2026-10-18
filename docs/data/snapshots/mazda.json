@@ -2,13 +2,11 @@
  "key": "mazda",
  "brand": "Mazda",
  "url": "https://www.mazda.com.au/offers/",
- "fetched": "2026-10-18T20:31:44+00:00",
- "digest": "4bd3ee645fc40ef9",
+ "fetched": "2026-10-18T22:35:47+00:00",
+ "digest": "36124b2395b042d4",
  "lines": [
   "Mazda offers",
   "Explore the latest offers and deals available across the Mazda range.",
-  "Get an unmissable offer this M-Day Saturday October 17 - your first 3 scheduled services free* across the Mazda Range.",
-  "Plus, on M-Day, get a $1,000 deposit bonus^ for new and demo vehicles with Mazda Finance at participating Mazda dealers",
   "Novated Lease $2,000 Cashback Offer",
   "Cashback if you purchase a new Mazda 6e or Mazda CX-6e from your local dealer using a novated lease.",
   "Eligible customers who purchase and take delivery of a new Mazda 6e or Mazda CX-6e between 1st October 2026 and 31st December 2026 through a novated lease can receive $2,000 cashback.",
@@ -22,9 +20,8 @@
   "Mazda Finance Portal"
  ],
  "money": [
-  1000,
   2000,
   43990
  ],
- "n_lines": 15
+ "n_lines": 13
 }

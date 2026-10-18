@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T20:29:05+00:00",
- "duration_s": 160.5,
- "items_total": 736,
- "new_this_run": 201,
+ "generated": "2026-10-18T22:33:02+00:00",
+ "duration_s": 167.3,
+ "items_total": 737,
+ "new_this_run": 200,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
@@ -10,11 +10,11 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 8,
-  "competitor_news_7d": 108,
-  "launch_signals_7d": 32,
+  "competitor_news_7d": 105,
+  "launch_signals_7d": 31,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 75,
-  "offer_page_changes_7d": 3
+  "zeekr_news_7d": 73,
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -182,19 +182,19 @@
   {
    "date": "2026-10-16",
    "complaints": 2,
-   "competitor_news": 14,
+   "competitor_news": 13,
    "zeekr_news": 10
   },
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 9,
+   "competitor_news": 10,
    "zeekr_news": 7
   },
   {
    "date": "2026-10-18",
    "complaints": 1,
-   "competitor_news": 1,
+   "competitor_news": 2,
    "zeekr_news": 3
   }
  ],
@@ -328,8 +328,9 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 13,
+   "n_30d": 14,
    "launch": [
+    "0740f7c371cf05aa",
     "5ed70c4b9f6db41c",
     "8b84f73c39185863",
     "39ee8a224f7f89bb"
@@ -337,7 +338,7 @@
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "388ef281d54e5664"
+   "latest": "0740f7c371cf05aa"
   },
   "xpeng-g6": {
    "n_30d": 1,
@@ -348,12 +349,14 @@
    "latest": "5ed70c4b9f6db41c"
   },
   "byd-sealion7": {
-   "n_30d": 4,
-   "launch": [],
+   "n_30d": 5,
+   "launch": [
+    "0740f7c371cf05aa"
+   ],
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "668210c07797ef8e"
+   "latest": "0740f7c371cf05aa"
   },
   "kia-ev5": {
    "n_30d": 0,
@@ -825,6 +828,24 @@
  },
  "alerts": [
   {
+   "kind": "offer_page_change",
+   "id": "78a00f073551b582",
+   "title": "Mazda 官网政策页面变化（+0 / −2 行）",
+   "source": "https://www.mazda.com.au/offers/",
+   "t": "2026-10-18T22:35:47+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "0740f7c371cf05aa",
+   "title": "Mazda rules out CX-5 plug-in hybrid to fight Toyota RAV4 Hybrid: New CX-6e EV leads its electric push",
+   "source": "EV Central",
+   "t": "2026-10-18T21:48:52+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "byd-sealion7"
+   ]
+  },
+  {
    "kind": "competitor_launch",
    "id": "347f60946babed57",
    "title": "2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy?",
@@ -857,18 +878,21 @@
    ]
   },
   {
+   "kind": "competitor_launch",
+   "id": "c1d73282b7bf78ea",
+   "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "mazda-6e"
+   ]
+  },
+  {
    "kind": "complaint_high",
    "id": "99ed59d066f99039",
    "title": "1★ · I can no longer connect to my car through the app both over",
    "source": "Google Play (AU) · ZEEKR app",
    "t": "2026-10-17T06:21:34+00:00"
-  },
-  {
-   "kind": "complaint_high",
-   "id": "994b44db3ef57c68",
-   "title": "1★ · 80 Thousand Dollars for this? The car has been out for a yea",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-10-16T20:54:54+00:00"
   },
   {
    "kind": "competitor_launch",
@@ -888,16 +912,6 @@
    "t": "2026-10-16T16:00:00+00:00",
    "competitors": [
     "geely-ex5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "c1d73282b7bf78ea",
-   "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-16T15:54:57+00:00",
-   "competitors": [
-    "mazda-6e"
    ]
   },
   {
@@ -972,12 +986,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 38,
+   "count": 36,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 10,
+   "count": 11,
    "note": ""
   },
   "gn-brands-cn": {
@@ -987,7 +1001,7 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 19,
+   "count": 17,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1168,12 +1182,12 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
-   "count": 15,
-   "note": "unchanged"
+   "count": 13,
+   "note": "changed"
   },
   "offers-mercedes": {
    "ok": false,

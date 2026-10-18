@@ -1,5 +1,17 @@
 [
  {
+  "id": "78a00f073551b582",
+  "key": "mazda",
+  "brand": "Mazda",
+  "url": "https://www.mazda.com.au/offers/",
+  "detected": "2026-10-18T22:35:47+00:00",
+  "added": [],
+  "removed": [
+   "Get an unmissable offer this M-Day Saturday October 17 - your first 3 scheduled services free* across the Mazda Range.",
+   "Plus, on M-Day, get a $1,000 deposit bonus^ for new and demo vehicles with Mazda Finance at participating Mazda dealers"
+  ]
+ },
+ {
   "id": "518f2175b7c190a6",
   "key": "hyundai",
   "brand": "Hyundai",
