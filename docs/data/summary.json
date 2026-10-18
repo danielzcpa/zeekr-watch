@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-18T06:30:46+00:00",
- "duration_s": 118.6,
- "items_total": 729,
- "new_this_run": 195,
+ "generated": "2026-10-18T11:36:41+00:00",
+ "duration_s": 183.6,
+ "items_total": 730,
+ "new_this_run": 198,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
-  "complaints_30d": 41,
+  "complaints_30d": 40,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 8,
@@ -189,7 +189,7 @@
    "date": "2026-10-17",
    "complaints": 1,
    "competitor_news": 6,
-   "zeekr_news": 6
+   "zeekr_news": 7
   },
   {
    "date": "2026-10-18",
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 29
+   "n": 28
   },
   {
    "key": "service",
@@ -256,7 +256,7 @@
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 16,
-  "Google Play (AU)": 12,
+  "Google Play (AU)": 11,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
@@ -902,13 +902,6 @@
    "competitors": [
     "mb-gle"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "518f2175b7c190a6",
-   "title": "Hyundai 官网政策页面变化（+1 / −0 行）",
-   "source": "https://www.hyundai.com/au/en/offers",
-   "t": "2026-10-15T07:19:48+00:00"
   }
  ],
  "source_status": {
@@ -919,7 +912,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 9,
+   "count": 5,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -949,17 +942,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 13,
+   "count": 41,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 10,
+   "count": 11,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 24,
+   "count": 22,
    "note": ""
   },
   "gn-brands-eu": {
@@ -969,7 +962,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 47,
+   "count": 41,
    "note": ""
   },
   "carexpert": {
@@ -1028,14 +1021,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-Zeekr": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1048,24 +1041,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1099,7 +1092,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1144,8 +1137,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
-   "note": "unchanged"
+   "count": 31,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
@@ -1168,9 +1161,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,

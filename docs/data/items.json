@@ -241,6 +241,37 @@
   "first_seen": "2026-10-18T06:30:46+00:00"
  },
  {
+  "id": "e6ef064af94238e7",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFVnZXBPamdWbDlFZUk3ZXZFNmU0bXJ6SWloZzVnODN2eVRuWDJIWlkwb0JULXozQWtUWGNvWHJqNlR4Z3hpZDJIbmM0OGctcXRGV2QwMFd4akQ2UC1MZml1LWVKZV90Y2hQR2hLeVVWbG8xWHpTdWhfRC1OekVibTg5V1ZPNGM1ajZ6NHZPSElVVHloUll1Q1VDM3dROFd6VVAzOGNPSExkMDg?oc=5",
+  "title": "Zeekr cars that are brands from China with kilometres under 60,000km for sale or order in Western Australia - Carsales",
+  "text": "Zeekr cars that are brands from China with kilometres under 60,000km for sale or order in Western Australia Carsales",
+  "author": "",
+  "published": "2026-10-17T19:12:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T11:36:41+00:00"
+ },
+ {
   "id": "2b11304cc7aff3eb",
   "type": "competitor_news",
   "source": "chasingcars",
@@ -12722,18 +12753,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
