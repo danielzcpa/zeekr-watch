@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-17T23:20:45+00:00",
- "duration_s": 124.4,
- "items_total": 722,
- "new_this_run": 197,
+ "generated": "2026-10-18T01:27:25+00:00",
+ "duration_s": 143.9,
+ "items_total": 723,
+ "new_this_run": 192,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
-  "complaints_30d": 41,
+  "complaints_30d": 39,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 7,
@@ -17,12 +17,6 @@
   "offer_page_changes_7d": 3
  },
  "series_30d": [
-  {
-   "date": "2026-09-18",
-   "complaints": 2,
-   "competitor_news": 0,
-   "zeekr_news": 2
-  },
   {
    "date": "2026-09-19",
    "complaints": 4,
@@ -196,6 +190,12 @@
    "complaints": 0,
    "competitor_news": 6,
    "zeekr_news": 5
+  },
+  {
+   "date": "2026-10-18",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 29
+   "n": 27
   },
   {
    "key": "service",
@@ -245,7 +245,7 @@
    "key": "safety",
    "zh": "召回/安全",
    "en": "Recall / safety",
-   "n": 3
+   "n": 2
   }
  ],
  "models_30d": {
@@ -256,12 +256,12 @@
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 15,
-  "Google Play (AU)": 12,
+  "Google Play (AU)": 11,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 3,
-  "Reddit r/AustralianEV": 2,
-  "Reddit r/ZeekrAustraliaNZ": 1
+  "Reddit r/ZeekrAustraliaNZ": 1,
+  "Reddit r/AustralianEV": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -902,27 +902,6 @@
    "title": "Hyundai 官网政策页面变化（+1 / −0 行）",
    "source": "https://www.hyundai.com/au/en/offers",
    "t": "2026-10-15T07:19:48+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "f4537ddeee79ee40",
-   "title": "2026 Lepas L6 priced in Australia to rival BYD Atto 3 and Geely EX5 as new electric mid-size SUV gears up for official showroom arrival - CarsGuide",
-   "source": "Google News · CarsGuide",
-   "t": "2026-10-15T01:13:17+00:00",
-   "competitors": [
-    "geely-ex5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "37c34a9709de995f",
-   "title": "Lepas L6: Chery’s new electric SUV priced from $47,990 in Australia",
-   "source": "CarExpert",
-   "t": "2026-10-15T01:02:00+00:00",
-   "competitors": [
-    "byd-atto3",
-    "geely-ex5"
-   ]
   }
  ],
  "source_status": {
@@ -933,7 +912,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 12,
+   "count": 10,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -963,7 +942,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 18,
+   "count": 15,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -973,17 +952,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 31,
+   "count": 32,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 23,
+   "count": 22,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 48,
+   "count": 46,
    "note": ""
   },
   "carexpert": {
@@ -1042,14 +1021,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-Zeekr": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1064,7 +1043,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1158,7 +1137,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
+   "count": 19,
    "note": "changed"
   },
   "offers-mazda": {

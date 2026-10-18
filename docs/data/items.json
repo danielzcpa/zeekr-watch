@@ -1,5 +1,39 @@
 [
  {
+  "id": "4cf582f497af916c",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x8qhrn/colour_choice/",
+  "title": "Colour choice",
+  "text": "We are about to pull the trigger on a black 7x but I really like the Brooke Blue! We asked the dealer (Doncaster in Melbourne) if we could order the blue but he said we can't anymore because they have discontinued it. My questions are: Does anyone know of any Melbourne dealer that might have stock of a blue one? For those who have the black or green (or have ever had a black car), do you find they get really hot and are then hard to cool down? I've only ever had white, silver or red cars so not experience with darker colours!",
+  "author": "/u/Sufficient_Sparkles",
+  "published": "2026-10-18T01:15:59+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T01:27:25+00:00"
+ },
+ {
   "id": "ebc295fec44e7f56",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
