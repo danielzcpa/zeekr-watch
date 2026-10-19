@@ -1,5 +1,311 @@
 [
  {
+  "id": "12664f24e75ed5bf",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/hyundai-i30-sedan-n-monochrome-subtle-special-edition-confirmed-for-australia",
+  "title": "Hyundai i30 Sedan N Monochrome: Subtle special edition confirmed for Australia",
+  "text": "The Hyundai i30 Sedan N Monochrome has been revealed globally with confirmation Australia will be among the first countries in the world to receive the special-edition model, limited to 200 examples locally. Due in showrooms next month, the i30 Sedan N Monochrome brings what the automaker describes as more subtle exterior and interior treatments than the regular i30 Sedan N, with Korea and Canada the only other markets the special edition has been confirmed for. It’s effectively a run-out model for the i30 Sedan N, which arrived in Australian showrooms in 2021, and follows the template set by the i20 N Shadow Edition , which marked the end of the smaller hatchback when it was announced in June 2026. The current i30 Hatch N is also nearing the end of its Australian run, with stock expected to last into 2027, with the regular i30 Hatch potentially on the chopping block . Non-N versions of the i30 Hatch have already been discontinued locally. Although an N version is yet to be shown, a new generation of the i30 Sedan was revealed in June 2026 with an even more aggressively styled exterior. It’s expected to arrive in Australia with a choice of petrol and hybrid powertrains in the first",
+  "author": "Damion Smy",
+  "published": "2026-10-19T04:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "cfc103ea7620cde4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · AutoBuzz.my",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczEzUzJFZWdORmpaSDhnOWpLS2d6Q3NJblgxdUdJNTR0VWNuVnNjZldzNVAxZVNGbmpMSkNibE9xMGF3a3hFT3hFWmJPc3FaWG5rTG40LS14TGZvVmhpMS1hSFZTdnFPRlhfajBrdzljdFV5cHNuRVRua0VlR3U3VFZxSjF4ZXhDY1gwNFFqa2w1by1nQmwxdVp6YUdBWXc?oc=5",
+  "title": "Zeekr 7X facelift debuts in Europe, but keeps the old 800V platform - AutoBuzz.my",
+  "text": "Zeekr 7X facelift debuts in Europe, but keeps the old 800V platform AutoBuzz.my",
+  "author": "",
+  "published": "2026-10-19T04:20:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "4d08e2ee70b958bc",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/reviews/small-cars/kia-k4-gt-line-2026-review/",
+  "title": "Kia K4 GT-Line 2026 Review",
+  "text": "This post appeared first on Chasing Cars . Kia’s petrol-powered K4 hatch appears to be fighting a losing battle against the wave of sharply priced small Chinese EVs. But for the purists, there’s still plenty to like For two decades, Kia ’s Cerato was a popular first car for Australians. Well priced and generously equipped, it was also surprisingly fun to drive, thanks to a local suspension tuning program that delivered sharper reflexes better tailored to local roads and driving tastes. The K4 that replaced it last year was essentially an evolution of what had been a successful formula. But the local automotive landscape has changed almost beyond recognition in the past couple of years and conventional petrol-powered hatchbacks have been left behind as buyers flock to Chinese electric SUVs. This year, the new model is on course to attract roughly half the buyers its Cerato predecessor did in 2024. That’s a shame because the K4 is a handsome, well engineered car that offers the peace of mind and driving pleasure its newer, Chinese electric rivals can’t match. The new model is built on a new platform that is longer, wider and lower than the previous model. Kia says the new chassis is",
+  "author": "Curt Dupriez",
+  "published": "2026-10-19T02:47:35+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "22787ff0aea56990",
+  "type": "news_zeekr",
+  "source": "chasingcars-zeekr",
+  "source_name": "Chasing Cars (Zeekr)",
+  "url": "https://www.chasingcars.com.au/news/car-industry/luxury-chery-brand-exlantix-coming-to-australia-mid-2027-with-es-gt-wagon-and-et-suv-models/",
+  "title": "Luxury Chery brand Exlantix coming to Australia mid-2027 with ES GT wagon and ET SUV models",
+  "text": "This post appeared first on Chasing Cars . Chery will launch yet another new brand in Australia in the middle of 2027, and this time it says it is targeting the likes of Zeekr and Denza . Exlantix – which is known as Exeed in China but was renamed for right-hand drive markets due to a trademark clash with Mitsubishi – will arrive first with the ET SUV and ES GT station wagon , but larger SUVs are coming. Lilian Xiong, CEO of Exeed and Exlantix International, confirmed the two launch models to Chasing Cars at a presentation in Shanghai where late-stage prototypes of right-hand-drive models were shown. Exlantix will be Chery ’s first dedicated luxury brand locally, sitting above its fast-expanding collection of Chery, Omoda , Jaecoo and Lepas models. This means yet another badge for Australian buyers to get their head around – but it also means more direct competition for Geely’s Zeekr – where Xiong used to work, and the brand that Chery acknowledges as occupying the same Chinese premium-car territory. But BMW , Mercedes-Benz and Audi are in their sights, too. Xiong said Australian demand for Tesla and Chinese EVs and plug-in hybrids had helped convinced Chery to concentrate on elect",
+  "author": "Tom Baker",
+  "published": "2026-10-19T02:44:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "tesla",
+   "bmw",
+   "audi",
+   "geely",
+   "denza"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "ddb6b01a67c89058",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/cherys-jetour-to-tackle-toyota-rav4-with-turbo-petrol-phev-mid-size-suvs",
+  "title": "Chery’s Jetour to tackle Toyota RAV4 with turbo-petrol, PHEV mid-size SUVs",
+  "text": "Jetour’s first models in Australia, the T1 and T2 mid-size SUVs, have received Australian Design Rule (ADR) certification ahead of their expected releases in early 2027, following the Chinese brand's local launch in late November. The Jetour brand, part of the wider Chery Group but set to be managed by a local team separate from other Group brands here, is expected to launch in Australia with the T1 and T2. While they’re closely related, sharing car-like unibody underpinnings, the T2 has a boxier shape reminiscent of the Land Rover Defender , while the T1 has a sleeker rear-end. Local filings list both T1 and Jetour 10 as marketing designations for the latter model, which has also received type approval for a much wider range of powertrains. There’s a turbocharged 2.0-litre four-cylinder petrol engine mated with a seven-speed dual-clutch automatic transmission, plus a turbo-petrol 1.5-litre four-cylinder plug-in hybrid (PHEV) powertrain available with front- or all-wheel drive. The latter is listed as producing 180kW of power and offering 1900kg of braked towing capacity. While a drive type isn't listed, this variant is understood to feature all-wheel drive. The front-wheel drive P",
+  "author": "William Stopford",
+  "published": "2026-10-19T02:39:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "land rover"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "e74315be36bff5f8",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/2027-kia-seltos-standard-features-revealed-for-new-hybrid-small-suv",
+  "title": "2027 Kia Seltos: Standard features revealed for new hybrid small SUV",
+  "text": "Kia has detailed the equipment offered across its new Seltos range, with plenty of technology even in the entry-level model, priced from $39,990 driveaway. The post 2027 Kia Seltos: Standard features revealed for new hybrid small SUV first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-19T01:56:47+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "0148c4f0c14b8662",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/byd-sealion-8-goes-electric-seven-seat-atto-8-ev-revealed-with-653km-range-and-nine-minute-charging/",
+  "title": "BYD Sealion 8 goes electric! Seven-seat Atto 8 EV revealed with 653km range and nine-minute charging",
+  "text": "BYD has unveiled an all-electric version of its Sealion 8 seven-seat SUV boasting up to 653km of driving range, 570kW of power and battery charging times of just nine minutes. Badged Atto 8 for Europe, the new electric SUV is closely related to the Sealion 8 plug-in hybrid (PHEV) already on sale in Australia, sharing its body, dimensions and three-row seating layout. But despite BYD’s rapidly expanding Australian electric vehicle line-up, the company’s local operation says it has no immediate plans to introduce the battery-electric version. READ MORE: 2026 BYD Atto 2 DM-i Review: Australia’s cheapest plug-in hybrid drives like an EV, but it’s not as smooth as some READ MORE: 2026 BYD Atto 3 Evo Premium Review: Rear-drive rethink amps up the driving pizazz for BYD’s original EV READ MORE: 2026 BYD Sealion 8 Premium PHEV Seven-Day Review: The family car to build our dreams? READ MORE: Best EVs to buy in Australia: The ultimate guide to affordable EVs The Atto 8, which debuted at the Paris motor show this month, will become BYD’s flagship SUV in Europe when sales begin in the first quarter of 2027, offering a choice of rear-wheel drive and all-wheel drive powertrains. Both versions us",
+  "author": "EV Central team",
+  "published": "2026-10-19T01:28:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3",
+   "byd-sealion8"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "f05fc111c7ac03b7",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/byd-yangwang-u8-luxury-suv-one-step-closer-to-an-australian-launch",
+  "title": "BYD Yangwang U8 luxury SUV one step closer to an Australian launch",
+  "text": "The Yangwang U8 has received Australian Design Rule (ADR) certification, indicating it’s one step closer to a local launch. BYD's flagship SUV has appeared in the Australian Government’s road vehicle approval database in a single variant, featuring a 145kW turbocharged 2.0-litre four-cylinder (petrol) engine and four 220kW electric motors. Total system output is listed at 880kW; while a combined torque figure doesn't appear in the documents, it's listed at 1520Nm overseas, giving the U8 a claimed 0-100km/h time of 3.5 seconds. The filing also lists only the regular-length, five-seat U8, not the extended-length, six-seat U8L. Tare weight is listed at 3644kg, with a braked towing capacity of 3500kg and the choice of 20- or 22-inch alloy wheels. While it's listed as a plug-in hybrid (PHEV) and BYD itself refers to it as one, the U8 is more accurately described as an extended-range electric vehicle (EREV). Chinese-market specifications list a 56.58kWh lithium iron phosphate (LFP) battery and 230km of electric-only range on the CLTC cycle, with 1205km of total combined range. Yangwang is BYD's flagship brand, sitting above Denza, but it has yet to be confirmed for an Australian launch.",
+  "author": "William Stopford",
+  "published": "2026-10-19T01:23:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "yangwang-u8"
+  ],
+  "brands": [
+   "byd",
+   "denza",
+   "yangwang"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
   "id": "52b35249996eb2dd",
   "type": "news_zeekr",
   "source": "whichcar",
@@ -75,6 +381,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-18T22:33:02+00:00"
+ },
+ {
+  "id": "f6c24591e6304b21",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/new-tesla-roadster-detailed-three-fantastical-variants-revealed-but-theres-one-big-problem",
+  "title": "New Tesla Roadster detailed: Three fantastical variants revealed, but there's one big problem",
+  "text": "So the long-awaited Tesla Roadster has been revealed and three incredible variants have been promised. However, its left-hand drive-only configuration and a rocket-assisted version capable of brief, Jetsons-style airborne manoeuvres complicates its availability in Australia. Tesla has outlined three versions of its second-generation Roadster: Performance, Thrust and Rocket. The three variants offer different levels of aerodynamic technology and rocket-style propulsion. Tesla presents Thrust as an upgrade over the Performance, and Rocket as an invitation-only configuration. Tesla calls the Performance as “road ready”, the Thrust as “race ready”, and the Rocket as “air ready”. The all-new electric sports car was demonstrated at a Tesla event in Texas last week , when a prototype performed jumps and aerial manoeuvres using technology developed with SpaceX. Tesla is now targeting a production start in 2028, more than a decade after the second-generation Roadster was first revealed in 2017. The three configurations are not simply conventional equipment grades. The Performance is intended for road use, the Thrust adds rear-mounted compressed-air thrusters to increase acceleration, while",
+  "author": "Dave Kavermann",
+  "published": "2026-10-18T21:42:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
  },
  {
   "id": "76659a2e02ae3733",
@@ -659,6 +1001,37 @@
   "first_seen": "2026-10-17T23:20:45+00:00"
  },
  {
+  "id": "ccba0f23e23c2a0e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zUG4yR21qOS0xaEprTmhfT2UxWG5abnlVM1JPWEpMNWU3cTBKajRVSHhIUURTNDE2RzZHVlRrX01HNVNEVDJONk1UeExvWWhZNS1pcDVpQVdqUDFZ?oc=5",
+  "title": "Three Car Brands, One Night in Paris | Geely/Zeekr/Lynk & Co Gala - YouTube",
+  "text": "Three Car Brands, One Night in Paris | Geely/Zeekr/Lynk & Co Gala YouTube",
+  "author": "",
+  "published": "2026-10-17T15:45:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
   "id": "ff7f848fd6e1b824",
   "type": "competitor_news",
   "source": "gn-zeekr-evcentral",
@@ -932,6 +1305,340 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T00:25:32+00:00"
+ },
+ {
+  "id": "05c17afb9af4e4b9",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4QVhneG8yTjVIUnhGck5wbXkxMXNCRGN5WnZKbFFrb091c29ESlFvX2pLWXlVUlhLZmMxZGl2eWJYVVAybkNvX3VwZFJ3V3dCbEtQdlhWUkU3TE9SZ3kw?oc=5",
+  "title": "Ford Mach-E review: every 2026 variant, price and specs - EV Central",
+  "text": "Ford Mach-E review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
+  "id": "39ee8a224f7f89bb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nMXNIQTVLdmk4elhBR0JDdndtYnZ2VFNNQUpJZDlqSU9oVzV0RkJPRHdXQWlXd01xYjZ0UjRsZXcwNnJkNmVQX09RYmNmenBjVWlIYU5Xaw?oc=5",
+  "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
+  "text": "Tesla Model Y review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "832e73e0ac508dec",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZzZ3WTRRd2lwSFNSdnN3cXdSTzdKM3BoUlhVSllEYmpsUGVreDd1WVJwTE5CV1hQOFl6YzQ3SHJZUUozeHl6VElna1p1dTA?oc=5",
+  "title": "BMW iX3 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "BMW iX3 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "08d4e9376be9aad0",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCcndFZEI4RlEzQnNUQWxyX1haaGNTN2RDR01CQ0dGX0xadGp1dlRjdUJOTHVhOW0xYTE2S2wzMlhacVgzNy1nQ3BrQmVaNlowcktn?oc=5",
+  "title": "BYD Atto 2 review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Atto 2 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "e7265370d06cab77",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qVzJndDVwa1lPYURJLWR2QldKQVA1TllMNWU3THVETDVnYTdzWmtES2VIT0oxb0RtS3ZKcExiM09PdjJkV0dIQW9wZHlIUkNxN1RhTA?oc=5",
+  "title": "Mazda CX-6E price and specs: every 2026 variant compared - EV Central",
+  "text": "Mazda CX-6E price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "d2f84b56da57d865",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kX1FsRGxkbDdYRjdaWWt6X29qdXRZalBnTlNTWDZ5ZUM1SlpJMUNPeG5YZ0NPcnpndnM2Q1AwRWdEWDlZLVIyRWJVTUZQa21rY2ZWY0p2cWRoZw?oc=5",
+  "title": "Porsche Cayenne review: every 2026 variant, price and specs - EV Central",
+  "text": "Porsche Cayenne review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "5459ad877b8d39e5",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeU9PdnQzWC1zNnBqREtpXzN6QUxPSFU3bVp5TzRQem5NX1JkVTF2bkc2SXZjU1dQS3pWZC1OTWtkYVVaVUtVMlh4V0N6ZVdsNTIw?oc=5",
+  "title": "Deepal E07 review: every 2026 variant, price and specs - EV Central",
+  "text": "Deepal E07 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "deepal"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "2a88dc75cdb897b7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10NmFmQTB0LUlhc0wxdURUMGFYQnBfaTRxR0dtNEhEYXZ2VTR3V3JYQ3p2MWRlbThjZ2NyTXFNSDZSa0JzU1pVcWtFbFBpQWZaV2JwS1VBNHU?oc=5",
+  "title": "Porsche Taycan review: every 2026 variant, price and specs - EV Central",
+  "text": "Porsche Taycan review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "1b0f41d9fd29ff00",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McmNmNjdrQ2ZlT0R5MmdsQ0tNaWZsZ3NyQ2xQT2VBbUlsZDBWS2tabWUzYXBBUy15UWpvQl8wdEJMSzEweHN4Tl9Zd1Y1dHZlZ1htUXBXOEZJUQ?oc=5",
+  "title": "Hyundai IONIQ 6 review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai IONIQ 6 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "558458ec76b1b799",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vMVFUaElZeE53dklSQklibkJ5VXpYX1VYQ2l1SHdsT2xQSjNyOEJXbXlyR3hfQ1NBbjFWMnYzaXh2X1JaUU91NUNOa3ZNdVhmUjFN?oc=5",
+  "title": "Deepal S07 review: price, range and specs - EV Central",
+  "text": "Deepal S07 review: price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "deepal-s07"
+  ],
+  "brands": [
+   "deepal"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
  },
  {
   "id": "99ed59d066f99039",
@@ -1960,7 +2667,7 @@
  {
   "id": "b5c47101ca081290",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXB0MHlBcTBZZmV5Q2tBbklMRUxTTEEwbThRbjR5VlRZTXo4NkZtd3ZhMjh3SG5IZUdaM2FWWEVES21jLXhMU2JmTW9MdGFvQUdSTTROVHdtNHFuellJOV9CNzdzanctTlBlZXhzamxQd21NYnY5T0RWMlNuUWZMaV85UW1sazFoZkljVnRpSHNVd203cWxaLTRZaEtWeVVzQ2N3dXdNRnQzYnAtX3hDdHFtRmltTTVVejhTLUlEcW1jZWs?oc=5",
   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
@@ -1990,7 +2697,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
@@ -2205,7 +2912,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/new-lepas-l6-electric-suv-priced-for-australia-cherys-latest-brand-takes-on-byd-geely-and-leapmotor-from-47990/",
   "title": "New Lepas L6 electric SUV priced for Australia: Chery’s latest brand takes on BYD, Geely and Leapmotor from $47,990",
-  "text": "Chery Group’s newest brand has announced Australian pricing for its first model, the Lepas L6 battery-electric SUV, which will arrive in dealerships for test drives in early November. Priced from $47,990 before on-road costs, the L6 enters an increasingly crowded electric SUV market where established brands and other Chinese newcomers are competing aggressively on price, equipment and driving range. The L6 is the first Australian offering from Lepas, another Chery Group brand joining Chery itself, Omoda Jaecoo, iCaur, Freelander and Jetour in the company’s expanding local portfolio. The five-seat electric SUV is underpinned by Chery Group’s LEXP platform and uses a 65kWh lithium iron phosphate (LFP) battery, delivering a claimed 440km driving range under the WLTP testing standard. Its single electric motor produces 160kW and 275Nm, while DC fast charging from 30 to 80 per cent is claimed to take 22 minutes using a 120kW charger. Lepas has not yet announced an official 0-100km/h acceleration time or energy consumption figure. Standard equipment includes 19-inch alloy wheels, a panoramic sunroof, acoustic front-door glass, a 13.2-inch infotainment touchscreen, an 8.88-inch digital in",
+  "text": "Chery Group’s newest brand has announced Australian pricing for its first model, the Lepas L6 battery-electric SUV, which will arrive in dealerships for test drives in early November. Priced from $47,990 before on-road costs, the L6 enters an increasingly crowded electric SUV market where established brands and other Chinese newcomers are competing aggressively on price, equipment and driving range. The L6 is the first Australian offering from Lepas, another Chery Group brand joining Chery itself, Omoda Jaecoo, iCaur, Freelander and Jetour in the company’s expanding local portfolio. READ MORE: Best EVs to buy in Australia: The ultimate guide to affordable EVs The five-seat electric SUV is underpinned by Chery Group’s LEXP platform and uses a 65kWh lithium iron phosphate (LFP) battery, delivering a claimed 440km driving range under the WLTP testing standard. Its single electric motor produces 160kW and 275Nm, while DC fast charging from 30 to 80 per cent is claimed to take 22 minutes using a 120kW charger. Lepas has not yet announced an official 0-100km/h acceleration time or energy consumption figure. Standard equipment includes 19-inch alloy wheels, a panoramic sunroof, acoustic f",
   "author": "EV Central team",
   "published": "2026-10-15T16:00:00+00:00",
   "rating": null,
@@ -2217,17 +2924,16 @@
    "geely"
   ],
   "categories": [
-   "software",
    "charging",
    "delivery",
    "service",
    "sales"
   ],
   "sentiment": {
-   "score": 0,
+   "score": 1,
    "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
+   "pos_hits": 1,
+   "label": "positive"
   },
   "severity": null,
   "signals": [
@@ -8281,7 +8987,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8659,7 +9365,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -8850,39 +9556,6 @@
   "competitors": [],
   "brands": [
    "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
-  "id": "05c17afb9af4e4b9",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4QVhneG8yTjVIUnhGck5wbXkxMXNCRGN5WnZKbFFrb091c29ESlFvX2pLWXlVUlhLZmMxZGl2eWJYVVAybkNvX3VwZFJ3V3dCbEtQdlhWUkU3TE9SZ3kw?oc=5",
-  "title": "Ford Mach-E review: every 2026 variant, price and specs - EV Central",
-  "text": "Ford Mach-E review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-09T20:56:14+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "ford"
   ],
   "categories": [],
   "sentiment": {
@@ -10179,7 +10852,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -10325,6 +10998,35 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "747179667e8371e1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · GoAutoNews Premium",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15R0F3clA5d3VKcDQ4VldXbnpPUjJnUnlIY1JLMFQ1VlFTY0J3TUNWdnNDeUlqb1JqTVZkUWV2ZEVfVVhxNU15eHJIRmkzZExUWGhTOFlldFV0ZC11SVQ4aDF3?oc=5",
+  "title": "Zeekr opens body shop - GoAutoNews Premium",
+  "text": "Zeekr opens body shop GoAutoNews Premium",
+  "author": "",
+  "published": "2026-10-06T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "1a34cb0b250ca126",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -10356,35 +11058,6 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "747179667e8371e1",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · GoAutoNews Premium",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15R0F3clA5d3VKcDQ4VldXbnpPUjJnUnlIY1JLMFQ1VlFTY0J3TUNWdnNDeUlqb1JqTVZkUWV2ZEVfVVhxNU15eHJIRmkzZExUWGhTOFlldFV0ZC11SVQ4aDF3?oc=5",
-  "title": "Zeekr opens body shop - GoAutoNews Premium",
-  "text": "Zeekr opens body shop GoAutoNews Premium",
-  "author": "",
-  "published": "2026-10-06T06:12:03+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -11059,41 +11732,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "39ee8a224f7f89bb",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nMXNIQTVLdmk4elhBR0JDdndtYnZ2VFNNQUpJZDlqSU9oVzV0RkJPRHdXQWlXd01xYjZ0UjRsZXcwNnJkNmVQX09RYmNmenBjVWlIYU5Xaw?oc=5",
-  "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
-  "text": "Tesla Model Y review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-03T06:57:50+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "tesla-model-y"
-  ],
-  "brands": [
-   "tesla"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "6eceae851aeaecd7",
@@ -12025,7 +12663,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 2
+   "thumbs": 3
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -12090,7 +12728,7 @@
   "au": true,
   "extra": {
    "version": null,
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -12254,7 +12892,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 7
+   "thumbs": 8
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -13064,20 +13702,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -13665,7 +14301,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -13688,7 +14324,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -14577,7 +15213,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -14774,7 +15410,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 2
+   "thumbs": 3
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -14809,7 +15445,7 @@
   "au": true,
   "extra": {
    "version": "1.6.6",
-   "thumbs": 2
+   "thumbs": 3
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -15295,7 +15931,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 3
+   "thumbs": 4
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -15569,7 +16205,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 3
+   "thumbs": 4
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -15842,7 +16478,7 @@
   "au": true,
   "extra": {
    "version": "1.6.5",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -16214,7 +16850,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -16248,7 +16884,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 3
+   "thumbs": 4
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -16588,7 +17224,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 5
+   "thumbs": 6
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -17600,6 +18236,39 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "a2ef570e752c0221",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkRFd1QybGFsVDVqbE5wQ3E3S1FjT2N2dkhCVHh1QlNlcWVDd214dE55VWV4ZzU5Z3RUNjN3eWVkZEhTTThyMDNsY0lWVTN3OGc3Q0c2VkN6eWlFaTUwVUh5Q2xzVzNmRFdzbnFfbXVZS1kzSW40ZVNQTS1PeUZnOHBfR0Y3Ym1QTVEyQXZ2Wm43RVIw?oc=5",
+  "title": "Zeekr 7X getting larger battery, range boost expected - CarExpert",
+  "text": "Zeekr 7X getting larger battery, range boost expected CarExpert",
+  "author": "",
+  "published": "2026-09-04T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "4db021f611ebc651",
   "type": "complaint",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -17847,7 +18516,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 5
+   "thumbs": 6
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -18304,39 +18973,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
-  "id": "a2ef570e752c0221",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkRFd1QybGFsVDVqbE5wQ3E3S1FjT2N2dkhCVHh1QlNlcWVDd214dE55VWV4ZzU5Z3RUNjN3eWVkZEhTTThyMDNsY0lWVTN3OGc3Q0c2VkN6eWlFaTUwVUh5Q2xzVzNmRFdzbnFfbXVZS1kzSW40ZVNQTS1PeUZnOHBfR0Y3Ym1QTVEyQXZ2Wm43RVIw?oc=5",
-  "title": "Zeekr 7X getting larger battery, range boost expected - CarExpert",
-  "text": "Zeekr 7X getting larger battery, range boost expected CarExpert",
-  "author": "",
-  "published": "2026-09-03T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
   "id": "e7632f73714080fe",

@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-19T00:25:32+00:00",
- "duration_s": 137.8,
- "items_total": 740,
- "new_this_run": 146,
+ "generated": "2026-10-19T05:11:30+00:00",
+ "duration_s": 139.0,
+ "items_total": 758,
+ "new_this_run": 213,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 0,
   "complaints_7d": 10,
   "complaints_30d": 40,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 8,
-  "competitor_news_7d": 105,
-  "launch_signals_7d": 32,
+  "competitor_news_7d": 118,
+  "launch_signals_7d": 34,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 71,
+  "zeekr_news_7d": 73,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -98,7 +98,7 @@
   {
    "date": "2026-10-03",
    "complaints": 0,
-   "competitor_news": 2,
+   "competitor_news": 1,
    "zeekr_news": 0
   },
   {
@@ -134,7 +134,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 12,
+   "competitor_news": 11,
    "zeekr_news": 4
   },
   {
@@ -182,20 +182,20 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 12,
-   "zeekr_news": 7
+   "competitor_news": 22,
+   "zeekr_news": 8
   },
   {
    "date": "2026-10-18",
    "complaints": 1,
-   "competitor_news": 2,
+   "competitor_news": 3,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-19",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 0
+   "competitor_news": 6,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -311,15 +311,16 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "0148c4f0c14b8662",
     "37c34a9709de995f",
     "1af84a334ac544d9"
    ],
    "offer": [
     "37c34a9709de995f"
    ],
-   "latest": "dc1b9eec7d81c21d"
+   "latest": "0148c4f0c14b8662"
   },
   "mb-eqa": {
    "n_30d": 0,
@@ -331,9 +332,9 @@
    "n_30d": 14,
    "launch": [
     "0740f7c371cf05aa",
+    "39ee8a224f7f89bb",
     "5ed70c4b9f6db41c",
-    "8b84f73c39185863",
-    "39ee8a224f7f89bb"
+    "8b84f73c39185863"
    ],
    "offer": [
     "a0bad462fa5ad448"
@@ -415,14 +416,14 @@
    "latest": "ca6819fe95ffefd8"
   },
   "deepal-s07": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "beacea688be7f8ba"
    ],
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "beacea688be7f8ba"
+   "latest": "558458ec76b1b799"
   },
   "bmw-ix1": {
    "n_30d": 0,
@@ -694,14 +695,15 @@
    "latest": "20e01fbcd796f263"
   },
   "byd-sealion8": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "0148c4f0c14b8662",
     "b5c47101ca081290",
     "25bf1b85357981b9",
     "7df177ffe7c98f88"
    ],
    "offer": [],
-   "latest": "b5c47101ca081290"
+   "latest": "0148c4f0c14b8662"
   },
   "kia-sorento-phev": {
    "n_30d": 0,
@@ -805,10 +807,12 @@
    "latest": null
   },
   "yangwang-u8": {
-   "n_30d": 0,
-   "launch": [],
+   "n_30d": 1,
+   "launch": [
+    "f05fc111c7ac03b7"
+   ],
    "offer": [],
-   "latest": null
+   "latest": "f05fc111c7ac03b7"
   },
   "audi-q9": {
    "n_30d": 0,
@@ -828,6 +832,27 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "0148c4f0c14b8662",
+   "title": "BYD Sealion 8 goes electric! Seven-seat Atto 8 EV revealed with 653km range and nine-minute charging",
+   "source": "EV Central",
+   "t": "2026-10-19T01:28:20+00:00",
+   "competitors": [
+    "byd-atto3",
+    "byd-sealion8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "f05fc111c7ac03b7",
+   "title": "BYD Yangwang U8 luxury SUV one step closer to an Australian launch",
+   "source": "CarExpert",
+   "t": "2026-10-19T01:23:00+00:00",
+   "competitors": [
+    "yangwang-u8"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "78a00f073551b582",
@@ -899,6 +924,16 @@
    ]
   },
   {
+   "kind": "competitor_launch",
+   "id": "39ee8a224f7f89bb",
+   "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "tesla-model-y"
+   ]
+  },
+  {
    "kind": "complaint_high",
    "id": "99ed59d066f99039",
    "title": "1★ · I can no longer connect to my car through the app both over",
@@ -924,29 +959,6 @@
    "competitors": [
     "geely-ex5"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "d2af0ef5c3bba679",
-   "title": "Tesla Roadster revealed with SpaceX thrusters: 0-100km/h in less than a second, it can fly … and you still can’t have one",
-   "source": "EV Central",
-   "t": "2026-10-16T03:53:24+00:00",
-   "competitors": [
-    "tesla-model-3",
-    "byd-seal",
-    "kia-ev4"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "b5c47101ca081290",
-   "title": "BYD's next big thing revealed: 2026 BYD Sealion 8 EV debuts but not confirmed for here to take on Kia EV9 and Hyundai Ioniq 9 - CarsGuide",
-   "source": "Google News · CarsGuide",
-   "t": "2026-10-16T00:51:34+00:00",
-   "competitors": [
-    "byd-sealion8",
-    "kia-ev9"
-   ]
   }
  ],
  "source_status": {
@@ -957,12 +969,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 14,
+   "count": 19,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 33,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -987,27 +999,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 38,
+   "count": 36,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 10,
+   "count": 8,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 21,
+   "count": 18,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 14,
+   "count": 18,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 48,
+   "count": 57,
    "note": ""
   },
   "carexpert": {
@@ -1137,7 +1149,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1183,7 +1195,7 @@
   "offers-mg": {
    "ok": true,
    "count": 19,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
