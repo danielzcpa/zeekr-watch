@@ -1,5 +1,40 @@
 [
  {
+  "id": "52b35249996eb2dd",
+  "type": "news_zeekr",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/chery-premium-exlantix-another-new-brand-australia",
+  "title": "Chery to introduce premium Exlantix badge as yet another new brand in Australia",
+  "text": "Chery's Australian empire will expand yet again in 2027 with the arrival of Exlantix, a new luxury brand competing with brands such as Zeekr and Denza. The post Chery to introduce premium Exlantix badge as yet another new brand in Australia first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-18T23:00:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T00:25:32+00:00"
+ },
+ {
   "id": "0740f7c371cf05aa",
   "type": "competitor_news",
   "source": "evcentral",
@@ -828,6 +863,77 @@
   "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
+  "id": "851fd88980e959a8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MV1MyeDdQTk4tbGsxWFljVkRmZ01zaXVUaE9zM3lfWDJNQUd3NVhLY0FRZGQyd1FRTk9DRF9MV3htQTlBbjJ3MTZFLUpJWEVTeXFNRmpvMA?oc=5",
+  "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Sealion 7 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "fa1833b6abb6a5eb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DWXd0bmdmb0dIaHQyOFliYTd5X3VpS0hZR2pFWm9jM0dmc2FfbWV5cnRzM1N1QUZCdVA2YVdWS2p0Mm1uLTZhRlozaWxvRHIwelJfdDRHZlAzMWl6OC1N?oc=5",
+  "title": "Toyota bZ4X Touring review: price, range and specs - EV Central",
+  "text": "Toyota bZ4X Touring review: price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T00:25:32+00:00"
+ },
+ {
   "id": "99ed59d066f99039",
   "type": "complaint",
   "source": "playstore-android",
@@ -961,7 +1067,7 @@
  {
   "id": "11b838bb4f2a74d0",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · The Canberra Times",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVU4WXA0bUk4c0QzcnVUSFRWVV9fSWdKeW9XTy1OaXptZkxrM01nUEhxblowV3ozdnVxUDFIanlPUmFnMWxEN1ZZUXZiNi1Vem1jUC0xQ185ZXNsRDh6aWczeHFDTlBmV2VVZEYwZk81b1hZOW51VEJ0QmFKRHpJVnRUQ014Y25mOG9QUjBSajhGUkR2emc?oc=5",
   "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
@@ -6598,41 +6704,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "851fd88980e959a8",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MV1MyeDdQTk4tbGsxWFljVkRmZ01zaXVUaE9zM3lfWDJNQUd3NVhLY0FRZGQyd1FRTk9DRF9MV3htQTlBbjJ3MTZFLUpJWEVTeXFNRmpvMA?oc=5",
-  "title": "BYD Sealion 7 price, range and specs - EV Central",
-  "text": "BYD Sealion 7 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-12T21:42:31+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-sealion7"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
   "id": "7dc489637c6e80ae",
@@ -13594,7 +13665,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -13617,7 +13688,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -21168,6 +21239,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "6b20182e4c8ddeb7",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · Newswav",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSU5POXBPYUFBaTktWDFUNWtlZEdDaG9uZjh2bzBySVhPZEZQSVpkcFQtVk8tM2NJaUI1ZGZoUW5YVHJLQmhoaThoMlZuVWpmbEw4dHNIVTg5S1YweVA0Q2ttbVJtUGdwYlhGRWR6cERNcDZHSUZGYVFXWmt5VlRUbTBmd3FpNGVlVHYydW94TnBMX3RjX3JXWFlJM2lpd2dJVVZXOHZQVFpXTUNWSjY5UDJaS2dPNWc?oc=5",
+  "title": "Is Zeekr’s 8-Year Warranty Worth It? 4 Game-Changing Perks Every Buyer Needs To See - Newswav",
+  "text": "Is Zeekr’s 8-Year Warranty Worth It? 4 Game-Changing Perks Every Buyer Needs To See Newswav",
+  "author": "",
+  "published": "2026-08-05T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T00:25:32+00:00"
  },
  {
   "id": "76e8f9cde94ce3f9",

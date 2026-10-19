@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T22:33:02+00:00",
- "duration_s": 167.3,
- "items_total": 737,
- "new_this_run": 200,
+ "generated": "2026-10-19T00:25:32+00:00",
+ "duration_s": 137.8,
+ "items_total": 740,
+ "new_this_run": 146,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
@@ -11,18 +11,12 @@
   "medium_7d": 0,
   "low_7d": 8,
   "competitor_news_7d": 105,
-  "launch_signals_7d": 31,
+  "launch_signals_7d": 32,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 73,
+  "zeekr_news_7d": 71,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
-  {
-   "date": "2026-09-19",
-   "complaints": 4,
-   "competitor_news": 0,
-   "zeekr_news": 2
-  },
   {
    "date": "2026-09-20",
    "complaints": 1,
@@ -158,7 +152,7 @@
   {
    "date": "2026-10-12",
    "complaints": 1,
-   "competitor_news": 18,
+   "competitor_news": 17,
    "zeekr_news": 10
   },
   {
@@ -188,14 +182,20 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 10,
+   "competitor_news": 12,
    "zeekr_news": 7
   },
   {
    "date": "2026-10-18",
    "complaints": 1,
    "competitor_news": 2,
-   "zeekr_news": 3
+   "zeekr_news": 4
+  },
+  {
+   "date": "2026-10-19",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -351,7 +351,8 @@
   "byd-sealion7": {
    "n_30d": 5,
    "launch": [
-    "0740f7c371cf05aa"
+    "0740f7c371cf05aa",
+    "851fd88980e959a8"
    ],
    "offer": [
     "5d83041fcade7ace"
@@ -436,14 +437,14 @@
    "latest": null
   },
   "toyota-bz4x": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "3e3f285c9229d77a"
    ],
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "b6ecc2f7af2ae6e0"
+   "latest": "fa1833b6abb6a5eb"
   },
   "ford-mach-e": {
    "n_30d": 0,
@@ -888,6 +889,16 @@
    ]
   },
   {
+   "kind": "competitor_launch",
+   "id": "851fd88980e959a8",
+   "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "byd-sealion7"
+   ]
+  },
+  {
    "kind": "complaint_high",
    "id": "99ed59d066f99039",
    "title": "1★ · I can no longer connect to my car through the app both over",
@@ -936,16 +947,6 @@
     "byd-sealion8",
     "kia-ev9"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "73e54738eb48f209",
-   "title": "Mercedes-Benz GLE 450 e PHEV arrives - GoAuto.com.au",
-   "source": "Google News · GoAuto.com.au",
-   "t": "2026-10-15T22:50:10+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
   }
  ],
  "source_status": {
@@ -961,7 +962,7 @@
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 33,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -986,12 +987,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 36,
+   "count": 38,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 11,
+   "count": 10,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1001,12 +1002,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 17,
+   "count": 14,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 45,
+   "count": 48,
    "note": ""
   },
   "carexpert": {
@@ -1070,14 +1071,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1092,7 +1093,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1181,13 +1182,13 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
-   "note": "unchanged"
+   "count": 19,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
    "count": 13,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mercedes": {
    "ok": false,
