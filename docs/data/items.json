@@ -1,34 +1,38 @@
 [
  {
-  "id": "ef01a202c73b2940",
-  "type": "news_zeekr",
+  "id": "9aea9c5118922e0e",
+  "type": "competitor_news",
   "source": "gn-zeekr-1d",
-  "source_name": "Google News · Regit",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanVRYURhWmZTXzVGLUczWW9WWGFublRvbmVIQTB1ZGtadkFGZGdURW51U1JZZGVDNk9PX2pZUzd2Sm1EcTgzbC1iZnktSzJVSEEzdTRiNGZScG9zQU40TVJPUjVlX0xQSlhhMjBqT0NuV1NVbkFMVXNPVTRPc044ejdUQTE5U2ZYbVd6M2RNQjBGSUt2SGJwdVUxOWM5MUtiS2dHNXZ0Ylh3Vy1XaFdCUA?oc=5",
-  "title": "Zeekr Design Boss Stefan Sielaff on Luxury, Innovation and Taking on Range Rover - Regit",
-  "text": "Zeekr Design Boss Stefan Sielaff on Luxury, Innovation and Taking on Range Rover Regit",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNOFllM1RERjRDVXh1R0R3OV9xYmxuMy1MY1NjYXp4VlU1T1hpaHNZa2NzSlFiVnhWSGI5enR4dmNRNll4WUNqRVpRMHBRZk9DSHVtbG9iRDg0ai1HeEtnaFlJMFpJM3VhY0tz?oc=5",
+  "title": "Volvo EX30 recalled - CarExpert",
+  "text": "Volvo EX30 recalled CarExpert",
   "author": "",
-  "published": "2026-10-19T15:05:46+00:00",
+  "published": "2026-10-19T21:53:00+00:00",
   "rating": null,
-  "zeekr": true,
+  "zeekr": false,
   "models": [],
-  "competitors": [],
-  "brands": [],
+  "competitors": [
+   "volvo-ex30"
+  ],
+  "brands": [
+   "volvo"
+  ],
   "categories": [
-   "charging"
+   "safety"
   ],
   "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
+   "score": -2,
+   "neg_hits": 2,
    "pos_hits": 0,
-   "label": "neutral"
+   "label": "negative"
   },
   "severity": null,
   "signals": [],
   "scope": "zeekr",
-  "au": false,
+  "au": true,
   "extra": {},
-  "first_seen": "2026-10-19T17:42:44+00:00"
+  "first_seen": "2026-10-19T22:16:04+00:00"
  },
  {
   "id": "4362e9a45be33f4e",
@@ -82,7 +86,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/mercedes-benz-c-class-electric-australian-pricing-revealed-configurator-points-to-circa-106000-bmw-i3-rival/",
   "title": "Mercedes-Benz C-Class Electric Australian pricing revealed: Configurator points to circa-$106,000 BMW i3 rival",
-  "text": "Australian pricing for the new Mercedes-Benz C-Class Electric appears to have emerged through the brand’s local website, with its configurator indicating a price of approximately $106,000 before delivery and on-road costs. Mercedes-Benz Australia has yet to formally announce a manufacturer’s list price, but the C400 4MATIC electric can now be configured online, with estimated drive-away pricing ranging from $113,548 to $114,253 across three capital cities. That would make the new electric C-Class substantially cheaper than the outgoing EQE sedan was at launch, while positioning it between the two incoming BMW i3 variants. With no optional equipment added, the Mercedes configurator displays $114,095.53 drive-away for Melbourne postcode 3000, $114,253.03 for Sydney postcode 2000 and $113,547.88 for Brisbane postcode 4000. Each calculation uses an identical $93,146 vehicle price before tax, with GST, luxury car tax, delivery and state charges added separately. The approximately $106,000 figure is inferred from that breakdown, rather than an officially announced list price. The C-Class Electric will effectively take over the outgoing EQE’s role in Mercedes’ electric sedan line-up as th",
+  "text": "Australian pricing for the new Mercedes-Benz C-Class Electric appears to have emerged through the brand’s local website, with its configurator indicating a price of approximately $106,000 before delivery and on-road costs. Mercedes-Benz Australia has yet to formally announce a manufacturer’s list price, but the C400 4MATIC electric can now be configured online, with estimated drive-away pricing ranging from $113,548 to $114,253 across three capital cities. That would make the new electric C-Class substantially cheaper than the outgoing EQE sedan was at launch, while positioning it between the two incoming BMW i3 variants. READ MORE: Best luxury EVs in Australia: The ultimate guide to premium electric cars READ MORE: Mercedes-Benz C-Class PHEV gets 290kW flagship and 100km EV range: Major facelift headed to Australia in 2027 READ MORE: Mercedes-Benz C-Class Electric unveiled: Iconic German luxury car goes EV, headed for Australia READ MORE: Mine’s bigger than yours! Mercedes C-Class EV interior revealed with enormous touchscreen that tops new BMW i3 With no optional equipment added, the Mercedes configurator displays $114,095.53 drive-away for Melbourne postcode 3000, $114,253.03 fo",
   "author": "EV Central team",
   "published": "2026-10-19T12:26:16+00:00",
   "rating": null,
@@ -99,10 +103,10 @@
    "delivery"
   ],
   "sentiment": {
-   "score": 0,
+   "score": 1,
    "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
+   "pos_hits": 1,
+   "label": "positive"
   },
   "severity": null,
   "signals": [
@@ -705,6 +709,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T00:25:32+00:00"
+ },
+ {
+  "id": "ef01a202c73b2940",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Regit",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanVRYURhWmZTXzVGLUczWW9WWGFublRvbmVIQTB1ZGtadkFGZGdURW51U1JZZGVDNk9PX2pZUzd2Sm1EcTgzbC1iZnktSzJVSEEzdTRiNGZScG9zQU40TVJPUjVlX0xQSlhhMjBqT0NuV1NVbkFMVXNPVTRPc044ejdUQTE5U2ZYbVd6M2RNQjBGSUt2SGJwdVUxOWM5MUtiS2dHNXZ0Ylh3Vy1XaFdCUA?oc=5",
+  "title": "Zeekr Design Boss Stefan Sielaff on Luxury, Innovation and Taking on Range Rover - Regit",
+  "text": "Zeekr Design Boss Stefan Sielaff on Luxury, Innovation and Taking on Range Rover Regit",
+  "author": "",
+  "published": "2026-10-18T23:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T17:42:44+00:00"
  },
  {
   "id": "0740f7c371cf05aa",
@@ -2178,6 +2213,140 @@
   "first_seen": "2026-10-19T11:09:39+00:00"
  },
  {
+  "id": "71275ac4a559cf14",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iLXppZWJkcE5YUnV5cnI2ODlSbU5MMzVzMzhEZm9IM2tVOUFRVnU4YzZFVmJNV19DaTNCUUo0eUVQck9NN1hpa0FNM1FLNlJjWVNJ?oc=5",
+  "title": "Volvo ES90 price and specs: every 2026 variant compared - EV Central",
+  "text": "Volvo ES90 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
+  "id": "f573de4b551b4544",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMmZ3N3BZY1oxb0tXRHBYUlNvQml2YUwwUGNHU2E2Wml1NUkzZDlvajNWbVZjSHpHRzBaSDdGbG9nWTFSZU1lbWpib1hMLTFLTzMyMHoySDMyd2dF?oc=5",
+  "title": "Mercedes-Benz EQS review: every variant, price and specs - EV Central",
+  "text": "Mercedes-Benz EQS review: every variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
+  "id": "6c8a09ae665a20cb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92TDAxRDZVQ0tGNVlldkRIUmFvTl8zekt2anJUdFVVdHZfX3BBaWw4WFppeFl4aDJ4WW1kQm54emV4ckh5U0NvcjNGNGVldWs?oc=5",
+  "title": "Kia EV5 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Kia EV5 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
+  "id": "d07df568980e71c1",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zZnJJaWFJaG1SQ3l6Vl9QWXR5RWllcGN2M2o3UHY2dExZUVF5di1TZktzWFdoRHJicDgwdmJLaE9lN0pQLUtWRXJKZ2tTdw?oc=5",
+  "title": "BMW i7 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "BMW i7 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
   "id": "99ed59d066f99039",
   "type": "complaint",
   "source": "playstore-android",
@@ -2414,7 +2583,7 @@
  {
   "id": "388ef281d54e5664",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU18ybkhKdzVfYjIyZEtOOTRyMWpCeXF2OGJIOXNYZHhYY2lsSTdXdldVd3JsS19uX3dwU2NvZ1V1aWFtQWRtd2FPMUk4UmZfMWhYUHFDRGRjU3RaV0FtNC1JcHJuaDc0T3V0bGc3OEIzSE5sdzVZUDV1VExwSU1TYzR0RnNScFBxejlROVlEQ3BLVGNwMnRUVmV5OUxkMjgyQjR2c3EtTkJzdWFxZlJuRQ?oc=5",
   "title": "Nissan takes aim at Tesla Model Y, but not with an X-Trail - Carsales",
@@ -2439,7 +2608,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T21:36:52+00:00"
@@ -21210,7 +21379,7 @@
   "au": true,
   "extra": {
    "version": "1.6.2",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -22920,7 +23089,7 @@
   "au": true,
   "extra": {
    "version": "1.6.1",
-   "thumbs": 4
+   "thumbs": 5
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },

@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-19T17:42:44+00:00",
- "duration_s": 124.7,
- "items_total": 771,
- "new_this_run": 199,
+ "generated": "2026-10-19T22:16:04+00:00",
+ "duration_s": 160.7,
+ "items_total": 776,
+ "new_this_run": 208,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
-  "complaints_30d": 38,
+  "complaints_30d": 37,
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 8,
-  "competitor_news_7d": 124,
-  "launch_signals_7d": 36,
+  "competitor_news_7d": 128,
+  "launch_signals_7d": 37,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 68,
+  "zeekr_news_7d": 67,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -182,20 +182,20 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 26,
+   "competitor_news": 30,
    "zeekr_news": 8
   },
   {
    "date": "2026-10-18",
    "complaints": 2,
    "competitor_news": 3,
-   "zeekr_news": 4
+   "zeekr_news": 5
   },
   {
    "date": "2026-10-19",
    "complaints": 0,
-   "competitor_news": 14,
-   "zeekr_news": 4
+   "competitor_news": 15,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 27
+   "n": 26
   },
   {
    "key": "service",
@@ -256,7 +256,7 @@
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 16,
-  "Google Play (AU)": 11,
+  "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
   "Reddit r/ZeekrAustraliaNZ": 1,
@@ -265,12 +265,12 @@
  },
  "competitor_signals": {
   "volvo-ex30": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [
     "ecb6767e140b18e0"
    ],
    "offer": [],
-   "latest": "ecb6767e140b18e0"
+   "latest": "9aea9c5118922e0e"
   },
   "smart-1": {
    "n_30d": 1,
@@ -361,10 +361,12 @@
    "latest": "0740f7c371cf05aa"
   },
   "kia-ev5": {
-   "n_30d": 0,
-   "launch": [],
+   "n_30d": 1,
+   "launch": [
+    "6c8a09ae665a20cb"
+   ],
    "offer": [],
-   "latest": null
+   "latest": "6c8a09ae665a20cb"
   },
   "hyundai-elexio": {
    "n_30d": 2,
@@ -981,12 +983,12 @@
   },
   {
    "kind": "competitor_launch",
-   "id": "1380cc70d4605aa5",
-   "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
+   "id": "6c8a09ae665a20cb",
+   "title": "Kia EV5 review, price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-16T18:30:33+00:00",
+   "t": "2026-10-17T07:00:00+00:00",
    "competitors": [
-    "skoda-enyaq"
+    "kia-ev5"
    ]
   }
  ],
@@ -998,7 +1000,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 29,
+   "count": 34,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1028,27 +1030,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 33,
+   "count": 34,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 7,
+   "count": 8,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 14,
+   "count": 21,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 18,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 65,
+   "count": 71,
    "note": ""
   },
   "carexpert": {
@@ -1107,9 +1109,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1117,9 +1119,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1129,12 +1131,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1223,7 +1225,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 31,
+   "count": 19,
    "note": "changed"
   },
   "offers-mazda": {
