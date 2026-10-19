@@ -1,5 +1,122 @@
 [
  {
+  "id": "ef01a202c73b2940",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Regit",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanVRYURhWmZTXzVGLUczWW9WWGFublRvbmVIQTB1ZGtadkFGZGdURW51U1JZZGVDNk9PX2pZUzd2Sm1EcTgzbC1iZnktSzJVSEEzdTRiNGZScG9zQU40TVJPUjVlX0xQSlhhMjBqT0NuV1NVbkFMVXNPVTRPc044ejdUQTE5U2ZYbVd6M2RNQjBGSUt2SGJwdVUxOWM5MUtiS2dHNXZ0Ylh3Vy1XaFdCUA?oc=5",
+  "title": "Zeekr Design Boss Stefan Sielaff on Luxury, Innovation and Taking on Range Rover - Regit",
+  "text": "Zeekr Design Boss Stefan Sielaff on Luxury, Innovation and Taking on Range Rover Regit",
+  "author": "",
+  "published": "2026-10-19T15:05:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T17:42:44+00:00"
+ },
+ {
+  "id": "4362e9a45be33f4e",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-mazda-6e-atenza-review",
+  "title": "2027 Mazda 6e Atenza review",
+  "text": "This is like no Mazda 6 or 626 that came before it. The Mazda 6e , launched in Australia earlier this year, is the brand's first rear-wheel drive mid-sizer since the first-generation 626 exited production in 1982. It's also the first new Mazda in this segment since the previous Mazda 6 was launched here in 2012. But more important than any of that, the 6e is electric. Yes, instead of taking on the Toyota Camry and Hyundai Sonata , the 6e's competition now includes the Tesla Model 3 and BYD Seal . \"Wait,\" you may be thinking, \"What does Mazda know about building electric vehicles? Wasn't its last one a flop?\" It sure was. The unloved MX-30 was a distinctively restyled CX-30 small SUV with little range for a lot of money. And that's why Mazda went back to the drawing board, collaborating with its Chinese joint venture partner, automotive giant Changan. Changan and Mazda have been involved since 2005, but previously the Changan Mazda joint venture (and its predecessor, which also involved Ford) largely built existing Mazda models. That changed with this car, launched in China in 2024 as the EZ-6. The Chinese and Japanese companies worked together, creating a mid-sized liftback (no, it",
+  "author": "William Stopford",
+  "published": "2026-10-19T13:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3",
+   "byd-seal",
+   "mazda-6e"
+  ],
+  "brands": [
+   "hyundai",
+   "byd",
+   "tesla",
+   "toyota",
+   "ford",
+   "mazda"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T17:42:44+00:00"
+ },
+ {
+  "id": "54b1222bd952e65b",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/mercedes-benz-c-class-electric-australian-pricing-revealed-configurator-points-to-circa-106000-bmw-i3-rival/",
+  "title": "Mercedes-Benz C-Class Electric Australian pricing revealed: Configurator points to circa-$106,000 BMW i3 rival",
+  "text": "Australian pricing for the new Mercedes-Benz C-Class Electric appears to have emerged through the brand’s local website, with its configurator indicating a price of approximately $106,000 before delivery and on-road costs. Mercedes-Benz Australia has yet to formally announce a manufacturer’s list price, but the C400 4MATIC electric can now be configured online, with estimated drive-away pricing ranging from $113,548 to $114,253 across three capital cities. That would make the new electric C-Class substantially cheaper than the outgoing EQE sedan was at launch, while positioning it between the two incoming BMW i3 variants. With no optional equipment added, the Mercedes configurator displays $114,095.53 drive-away for Melbourne postcode 3000, $114,253.03 for Sydney postcode 2000 and $113,547.88 for Brisbane postcode 4000. Each calculation uses an identical $93,146 vehicle price before tax, with GST, luxury car tax, delivery and state charges added separately. The approximately $106,000 figure is inferred from that breakdown, rather than an officially announced list price. The C-Class Electric will effectively take over the outgoing EQE’s role in Mercedes’ electric sedan line-up as th",
+  "author": "EV Central team",
+  "published": "2026-10-19T12:26:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "bmw"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T17:42:44+00:00"
+ },
+ {
   "id": "f5e4f03cbb257ce3",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -282,6 +399,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "9629c196d2d28405",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzJMNElBVXMxOUpLMnZDc0hTYmJFdW15Z2Jsc2Vab29xaHVPMGJoemFjR0plUjhNNE50Uk9CVlItT25WbVExRGlsWHRNYnNBMU80bGxPUlZZd1hPLWpaNXd5NVFpbElSU0ZkSS00SW1RcVJ6aGUxR21hWWVzaTlqTWxRZHhCSDJJSVE5WjZYakFKN3hJNEJUanNuWjhmUkItUUlGYk5oTHlHNjB0cGVFV3c2blZyMXdYa1kzWE54MV9nNW51?oc=5",
+  "title": "Tough new SUV from incoming Chinese brand: 2026 Jetour T2 debuts in China with beefy plug-in hybrid grunt and driving range to match BYD Ti7 - CarsGuide",
+  "text": "Tough new SUV from incoming Chinese brand: 2026 Jetour T2 debuts in China with beefy plug-in hybrid grunt and driving range to match BYD Ti7 CarsGuide",
+  "author": "",
+  "published": "2026-10-19T03:11:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T17:42:44+00:00"
  },
  {
   "id": "4d08e2ee70b958bc",
@@ -14017,18 +14169,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -19896,7 +20050,7 @@
   "title": "2027 Zeekr 7GT review: Quick drive - CarExpert",
   "text": "2027 Zeekr 7GT review: Quick drive CarExpert",
   "author": "",
-  "published": "2026-08-30T07:00:00+00:00",
+  "published": "2026-08-31T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [

@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T11:09:39+00:00",
- "duration_s": 190.5,
- "items_total": 767,
- "new_this_run": 214,
+ "generated": "2026-10-19T17:42:44+00:00",
+ "duration_s": 124.7,
+ "items_total": 771,
+ "new_this_run": 199,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 8,
-  "competitor_news_7d": 123,
+  "competitor_news_7d": 124,
   "launch_signals_7d": 36,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 71,
+  "zeekr_news_7d": 68,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-19",
    "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 3
+   "competitor_news": 14,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -479,8 +479,9 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 9,
+   "n_30d": 10,
    "launch": [
+    "4362e9a45be33f4e",
     "347f60946babed57",
     "d2af0ef5c3bba679",
     "6eceae851aeaecd7"
@@ -490,7 +491,7 @@
     "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "d15ef0d8cd2875b3"
+   "latest": "4362e9a45be33f4e"
   },
   "polestar-2": {
    "n_30d": 1,
@@ -501,8 +502,9 @@
    "latest": "479081910d666025"
   },
   "byd-seal": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
+    "4362e9a45be33f4e",
     "347f60946babed57",
     "977de602e7893c4e",
     "d2af0ef5c3bba679"
@@ -512,7 +514,7 @@
     "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "d15ef0d8cd2875b3"
+   "latest": "4362e9a45be33f4e"
   },
   "im5": {
    "n_30d": 2,
@@ -533,14 +535,15 @@
    "latest": "347f60946babed57"
   },
   "mazda-6e": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "4362e9a45be33f4e",
     "c1d73282b7bf78ea"
    ],
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "c1d73282b7bf78ea"
+   "latest": "4362e9a45be33f4e"
   },
   "mb-cla-ev": {
    "n_30d": 0,
@@ -835,6 +838,18 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "4362e9a45be33f4e",
+   "title": "2027 Mazda 6e Atenza review",
+   "source": "CarExpert",
+   "t": "2026-10-19T13:00:00+00:00",
+   "competitors": [
+    "tesla-model-3",
+    "byd-seal",
+    "mazda-6e"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "f658b7a5cfd318c7",
    "title": "1180 hp BYD Yangwang U8 which can float moves closer to Australian launch - The Supercar Blog",
    "source": "Google News · The Supercar Blog",
@@ -973,16 +988,6 @@
    "competitors": [
     "skoda-enyaq"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "0ea6624a635cd203",
-   "title": "'No need for Australian testing': Geely reveals its secret weapon that could benefit future examples of 2026 Geely EX5, Battleship 700 and Monjaro - CarsGuide",
-   "source": "Google News · CarsGuide",
-   "t": "2026-10-16T16:00:00+00:00",
-   "competitors": [
-    "geely-ex5"
-   ]
   }
  ],
  "source_status": {
@@ -993,7 +998,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 29,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1023,17 +1028,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 33,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 6,
+   "count": 7,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 16,
+   "count": 14,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1043,7 +1048,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 58,
+   "count": 65,
    "note": ""
   },
   "carexpert": {
@@ -1102,14 +1107,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1122,24 +1127,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1218,8 +1223,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
-   "note": "unchanged"
+   "count": 31,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
