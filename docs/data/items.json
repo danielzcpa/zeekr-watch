@@ -1,5 +1,177 @@
 [
  {
+  "id": "f5e4f03cbb257ce3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · NewsBytes",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUhYYl9VNW9jVGZ1THcyTGhINHZ2dkNPWkpBWUJUSFFnd0F5MUx3VTZzd2toNElkaDNselJzV09mWFA2OEZIckkyYVRGbmxXWjFQVHNnYkp5S2ZVVV9SbmlWMUZtRWI5RUxZTEluUC1YbTZBOV9nYmxKVllpc3QwRGRxc1lUS25BWXNOXzdYd0FkUU5WdGQ1WGN6ZXB0eVJhTmFtUkduVlVYNjQ1dHNwYUNB?oc=5",
+  "title": "Waymo to bring 5,100 Zeekr vans amid Washington security concerns - NewsBytes",
+  "text": "Waymo to bring 5,100 Zeekr vans amid Washington security concerns NewsBytes",
+  "author": "",
+  "published": "2026-10-19T10:47:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "076e84a125bdf7fd",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · ArenaEV",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2pFQWdKNVQxQl9reDJxTUEtcU5iX1Eyd1BvY1NxRmthTTZMdlhER3NLak44dU9yU25iS1dwcTNKbWRjV0FTNVNOTm5LSnJPdFRVaU9OSDA0dWt1allwbVFZNHdWRWZTVExuY2NZOUlHVGRJWDZuRngtcHNmTUVSVjlGQjZfbVBWYVU1aXhMdGtybTZJakNVM3BCaFBkU244ZVNrTVFSaXDSAagBQVVfeXFMTW9qRUFnSjVUMUJfa3gycU1BLXFOYl9RMndQb2NTcUZrYU02THZYREdzS2pOOHVPclNuYktXcHEzSm1kY1dBUzVTTk5uS0pyT3RUVWlPTkgwNHVrdWpZcG1RWTR3VkVmU1RMbmNjWTlJR1RkSVg2bkZ4LXBzZk1FUlY5RkI2X21QVmFVNWl4THRrcm02SWpDVTNwQmhQZFNuOGVTa01RUmlw?oc=5",
+  "title": "Volkswagen ID.Cross with 37 kWh battery and sub-€28,000 launches in Europe - ArenaEV - ArenaEV",
+  "text": "Volkswagen ID.Cross with 37 kWh battery and sub-€28,000 launches in Europe - ArenaEV ArenaEV",
+  "author": "",
+  "published": "2026-10-19T09:36:01+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "ce56e4078629ae9f",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · 4X4 Australia",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXR2MjdDX2QyaE55d1NfWDA0Z2NUYi1xOEpnTWIwcEM2UGlaaVc3Z052aWd0bndtMV9BNkcyWmJOMXhTQ1MtRGVhSUNTY29IUGszcWFDN1UzZmNFNDlGZlR4ZzUxd2VMRU1PS283dUVqR20zUTBMbVFqT3F3d1VfbDNiRGo?oc=5",
+  "title": "BYD Yangwang U8 gains Australian approval - 4X4 Australia",
+  "text": "BYD Yangwang U8 gains Australian approval 4X4 Australia",
+  "author": "",
+  "published": "2026-10-19T08:32:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "yangwang-u8"
+  ],
+  "brands": [
+   "byd",
+   "yangwang"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "f658b7a5cfd318c7",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · The Supercar Blog",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MZXoyN2V0TjJrZE5oc0tjTHl6WVF2RHBYSTRKQ3BzbXp0T1FpaU85Q0NZTTY2VkdHSlNaeFpEVTN2S2xHbC1wLV9pZG1STmVYci1zM3RLazczYlVQN3pFcXNTWHBTXzVSVTZqb2hxMHprVGM?oc=5",
+  "title": "1180 hp BYD Yangwang U8 which can float moves closer to Australian launch - The Supercar Blog",
+  "text": "1180 hp BYD Yangwang U8 which can float moves closer to Australian launch The Supercar Blog",
+  "author": "",
+  "published": "2026-10-19T06:30:40+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "yangwang-u8"
+  ],
+  "brands": [
+   "byd",
+   "yangwang"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "11522807d7e74c00",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/chinese-brand-reveals-yet-another-heavily-porsche-inspired-model",
+  "title": "Chinese brand reveals yet another heavily Porsche-inspired model",
+  "text": "SAIC , the newest brand from MG and LDV parent SAIC Motor, has revealed a new SUV that bears more than a passing resemblance to the Porsche Cayenne. The SAIC Z9 has been revealed in a Chinese Ministry of Industry and Information Technology (MIIT) filing as the brand’s third model line, following shortly after the Z7 sedan and wagon which appear heavily inspired by the Porsche Taycan . SAIC was introduced in 2025 as SAIC Motor’s brand within the Harmony Intelligent Mobility Alliance (HIMA), a collaboration between various automakers and tech giant Huawei. Besides SAIC Motor’s SAIC (also known as Shangjie) brand, other HIMA marques include Chery’s Luxeed and JAC’s Maextro. Thus far, all of these HIMA brands have been confined to the Chinese market, but Seres’ AITO brand has confirmed its plans for export markets. The Z9 will slot in at the top of the SAIC lineup, above the H5 SUV and Z7 range, as a large electric SUV available with both single-motor rear-wheel drive and dual-motor all-wheel drive powertrains. Rear-wheel drive variants produce 280kW of power, while all-wheel drive variants gain a 175kW front electric motor. It measures 5139mm long, 2005mm wide and 1776mm tall on a 308",
+  "author": "William Stopford",
+  "published": "2026-10-19T05:13:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
   "id": "12664f24e75ed5bf",
   "type": "competitor_news",
   "source": "carexpert",
@@ -68,6 +240,48 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "dfc9ef4159898273",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/hyundai-inster-prices-cut-again-cheapest-non-chinese-ev-title-reclaimed-but-equipment-disappears/",
+  "title": "Hyundai Inster prices cut again: Cheapest non-Chinese EV title reclaimed, but equipment disappears",
+  "text": "Hyundai has cut prices and streamlined its Australian Inster electric car range for 2027, while its current drive-away offer puts the tiny four-seater below the Honda Super-One as Australia’s cheapest EV built outside China. However, the South Korean-built Inster remains more expensive than a growing field of Chinese electric hatchbacks and SUVs, and the latest update removes equipment as well as models. The revised line-up comprises the Inster Standard Range at $37,500 plus on-road costs and the Inster Cross at $43,500 plus on-road costs, both reductions of $1500. READ MORE: Confirmed for Australia in mid-2027: New Hyundai Tucson goes all-hybrid to battle Toyota RAV4 and an increasing number of Chinese rivals READ MORE: Another electric van enters the fray: Hyundai Staria Load Electric lands at $70,990 with 450km range and ultra-fast charging READ MORE: Hyundai’s battery breakthrough: Next-gen tech will back massive 100-model global launch program READ MORE: Best EVs to buy in Australia: The ultimate guide to affordable EVs The mid-ranking Extended Range has been discontinued, along with the Cross version fitted with a roof basket. Hyundai says the changes apply to vehicles produc",
+  "author": "EV Central team",
+  "published": "2026-10-19T04:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price_rise",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
  },
  {
   "id": "4d08e2ee70b958bc",
@@ -483,6 +697,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-18T17:59:55+00:00"
+ },
+ {
+  "id": "a169a4f14404d328",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=12c7ab89-c175-4174-92c2-b8494462e42e",
+  "title": "2★ · I have a Samsung Galaxy S25. Zeekr app uses a lot of battery",
+  "text": "I have a Samsung Galaxy S25. Zeekr app uses a lot of battery. Please investigate.",
+  "author": "Shamita Gupte",
+  "published": "2026-10-18T10:46:14+00:00",
+  "rating": 2.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.6",
+   "thumbs": 0
+  },
+  "first_seen": "2026-10-19T11:09:39+00:00"
  },
  {
   "id": "d76359f27502ec3b",
@@ -1641,6 +1890,142 @@
   "first_seen": "2026-10-19T05:11:30+00:00"
  },
  {
+  "id": "977de602e7893c4e",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9haVBuOHBRR196eFE3c0FoUXRyTTYwNXk3NXFlYkc5ZnZfWmNIcjNFYnpycFpPd2pMNHJWS0hGSVAtT2hPTlZCVFVQU1l2VWRG?oc=5",
+  "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Seal review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "e56ee2a603252f5b",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEbndpVldWUWhtdzNsTURPYUM1WTBmTFpmMWhQZXduRlRlUW9JM3JFa3JBNnlmamlaNjRhQWMxZnhLVE9saERJMUZVVDVWc3M?oc=5",
+  "title": "Kia EV3 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Kia EV3 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "4236eaa1e298c401",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFZnFZd1JCUDAweG5BTElpaWZVTWZaeWV0Z3NFaFByQ2JpaEM0SUUydU5VaGlrOVFFN2RzNTFudHhGMVQ2aGxZMUh3bUVVRDVnNkFQMXFCaGlSOGZlV2dz?oc=5",
+  "title": "Mercedes-Benz eVito price and specs: every variant compared - EV Central",
+  "text": "Mercedes-Benz eVito price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "006fe17082ba0970",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00ZkptcTctamtVMVJHeENSYlM4d1ZvQ1BITWtBSmhQMUdDNGN6OWNNOWdwdTFheVBRMUJWdDJOVTRESE1JRmVaQUxPbmlOWVp0?oc=5",
+  "title": "Lexus RZ review: every 2026 variant, price and specs - EV Central",
+  "text": "Lexus RZ review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
   "id": "99ed59d066f99039",
   "type": "complaint",
   "source": "playstore-android",
@@ -1877,7 +2262,7 @@
  {
   "id": "388ef281d54e5664",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU18ybkhKdzVfYjIyZEtOOTRyMWpCeXF2OGJIOXNYZHhYY2lsSTdXdldVd3JsS19uX3dwU2NvZ1V1aWFtQWRtd2FPMUk4UmZfMWhYUHFDRGRjU3RaV0FtNC1JcHJuaDc0T3V0bGc3OEIzSE5sdzVZUDV1VExwSU1TYzR0RnNScFBxejlROVlEQ3BLVGNwMnRUVmV5OUxkMjgyQjR2c3EtTkJzdWFxZlJuRQ?oc=5",
   "title": "Nissan takes aim at Tesla Model Y, but not with an X-Trail - Carsales",
@@ -2365,7 +2750,7 @@
  {
   "id": "14be5849733d765f",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU0xalJSc3J0Q3dWdkc5TzJsQkg1WHRteTUxVUp4S29zeTAyRFBlSGcxZUhTYjZreVJGdXdXR1RqbTZqSThlWERUb0E2akFGYy1fTHQ5Ty1DV0VXLTdGVjlPRkkwOFRsMjFNRXFqdjY1MGtOcEFqNHZsVE5nZlp4cjhrbjl4aWR4ODRQVDhCdFFiU29mLVRBdkh4Tmo0VDlQZEZEYmhfMTdlZjJCcG5nUnBNcGdaWl9KaWR6TzhR?oc=5",
   "title": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia - CarsGuide",
@@ -2397,7 +2782,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
@@ -9021,41 +9406,6 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
-  "id": "977de602e7893c4e",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9haVBuOHBRR196eFE3c0FoUXRyTTYwNXk3NXFlYkc5ZnZfWmNIcjNFYnpycFpPd2pMNHJWS0hGSVAtT2hPTlZCVFVQU1l2VWRG?oc=5",
-  "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
-  "text": "BYD Seal review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-10T21:43:18+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-seal"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
- },
- {
   "id": "1fcb9074dd9fe52c",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -9261,6 +9611,37 @@
   "signals": [],
   "scope": "zeekr",
   "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "a40beb8cf3c8b2c4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RklfZno3N1h3MWMxM05rY2ZZeHlSNjl2N0I4VE9aX0pPQWc0SHBPZHQ5VE1GazVKdks4cHZIRUJrRm5pNmJUTHVCcGN6QlhUSUVqRFdDOWlpaUpodzNEVXQ5a3paUmtSLW9JX1pBR2tocHhWRVc3eTRtZUdBcEE?oc=5",
+  "title": "Zeekr is about to update the car it already can't deliver fast enough - Drive",
+  "text": "Zeekr is about to update the car it already can't deliver fast enough Drive",
+  "author": "",
+  "published": "2026-10-10T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -9506,41 +9887,6 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
-  "id": "e56ee2a603252f5b",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEbndpVldWUWhtdzNsTURPYUM1WTBmTFpmMWhQZXduRlRlUW9JM3JFa3JBNnlmamlaNjRhQWMxZnhLVE9saERJMUZVVDVWc3M?oc=5",
-  "title": "Kia EV3 review, price and specs: every 2026 variant compared - EV Central",
-  "text": "Kia EV3 review, price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-09T20:56:22+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "kia-ev3"
-  ],
-  "brands": [
-   "kia"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T12:49:04+00:00"
- },
- {
   "id": "cb40097f8e9bd1a7",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -9607,37 +9953,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T17:43:16+00:00"
- },
- {
-  "id": "a40beb8cf3c8b2c4",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RklfZno3N1h3MWMxM05rY2ZZeHlSNjl2N0I4VE9aX0pPQWc0SHBPZHQ5VE1GazVKdks4cHZIRUJrRm5pNmJUTHVCcGN6QlhUSUVqRFdDOWlpaUpodzNEVXQ5a3paUmtSLW9JX1pBR2tocHhWRVc3eTRtZUdBcEE?oc=5",
-  "title": "Zeekr is about to update the car it already can't deliver fast enough - Drive",
-  "text": "Zeekr is about to update the car it already can't deliver fast enough Drive",
-  "author": "",
-  "published": "2026-10-09T17:57:09+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
   "id": "2378a7f58ba29766",

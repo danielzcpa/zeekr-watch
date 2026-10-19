@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-19T05:11:30+00:00",
- "duration_s": 139.0,
- "items_total": 758,
- "new_this_run": 213,
+ "generated": "2026-10-19T11:09:39+00:00",
+ "duration_s": 190.5,
+ "items_total": 767,
+ "new_this_run": 214,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 10,
-  "complaints_30d": 40,
+  "complaints_7d": 11,
+  "complaints_30d": 38,
   "high_7d": 2,
-  "medium_7d": 0,
+  "medium_7d": 1,
   "low_7d": 8,
-  "competitor_news_7d": 118,
-  "launch_signals_7d": 34,
+  "competitor_news_7d": 123,
+  "launch_signals_7d": 36,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 73,
+  "zeekr_news_7d": 71,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -134,14 +134,14 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 11,
-   "zeekr_news": 4
+   "competitor_news": 10,
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-10",
    "complaints": 0,
-   "competitor_news": 6,
-   "zeekr_news": 3
+   "competitor_news": 5,
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-11",
@@ -182,20 +182,20 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 22,
+   "competitor_news": 26,
    "zeekr_news": 8
   },
   {
    "date": "2026-10-18",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 3,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-19",
    "complaints": 0,
-   "competitor_news": 6,
-   "zeekr_news": 2
+   "competitor_news": 11,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 28
+   "n": 27
   },
   {
    "key": "service",
@@ -218,22 +218,22 @@
    "n": 13
   },
   {
-   "key": "quality",
-   "zh": "质量/故障",
-   "en": "Quality / faults",
-   "n": 11
-  },
-  {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 9
+   "n": 10
+  },
+  {
+   "key": "quality",
+   "zh": "质量/故障",
+   "en": "Quality / faults",
+   "n": 10
   },
   {
    "key": "sales",
    "zh": "销售体验",
    "en": "Sales experience",
-   "n": 6
+   "n": 5
   },
   {
    "key": "price",
@@ -249,7 +249,7 @@
   }
  ],
  "models_30d": {
-  "7X": 18,
+  "7X": 16,
   "7GT": 3,
   "009": 1,
   "X": 1
@@ -259,9 +259,9 @@
   "Google Play (AU)": 11,
   "Reddit r/Zeekr": 5,
   "Reddit r/EVAustralia": 3,
-  "ProductReview.com.au": 3,
   "Reddit r/ZeekrAustraliaNZ": 1,
-  "Reddit r/AustralianEV": 1
+  "Reddit r/AustralianEV": 1,
+  "ProductReview.com.au": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -504,8 +504,8 @@
    "n_30d": 7,
    "launch": [
     "347f60946babed57",
-    "d2af0ef5c3bba679",
-    "977de602e7893c4e"
+    "977de602e7893c4e",
+    "d2af0ef5c3bba679"
    ],
    "offer": [
     "347f60946babed57",
@@ -807,12 +807,13 @@
    "latest": null
   },
   "yangwang-u8": {
-   "n_30d": 1,
+   "n_30d": 3,
    "launch": [
+    "f658b7a5cfd318c7",
     "f05fc111c7ac03b7"
    ],
    "offer": [],
-   "latest": "f05fc111c7ac03b7"
+   "latest": "ce56e4078629ae9f"
   },
   "audi-q9": {
    "n_30d": 0,
@@ -832,6 +833,16 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "f658b7a5cfd318c7",
+   "title": "1180 hp BYD Yangwang U8 which can float moves closer to Australian launch - The Supercar Blog",
+   "source": "Google News · The Supercar Blog",
+   "t": "2026-10-19T06:30:40+00:00",
+   "competitors": [
+    "yangwang-u8"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "0148c4f0c14b8662",
@@ -934,11 +945,24 @@
    ]
   },
   {
-   "kind": "complaint_high",
-   "id": "99ed59d066f99039",
-   "title": "1★ · I can no longer connect to my car through the app both over",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-10-17T06:21:34+00:00"
+   "kind": "competitor_launch",
+   "id": "977de602e7893c4e",
+   "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "byd-seal"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "e56ee2a603252f5b",
+   "title": "Kia EV3 review, price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "kia-ev3"
+   ]
   },
   {
    "kind": "competitor_launch",
@@ -969,7 +993,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 19,
+   "count": 23,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -999,17 +1023,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 36,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 8,
+   "count": 6,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 18,
+   "count": 16,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1019,7 +1043,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 57,
+   "count": 58,
    "note": ""
   },
   "carexpert": {
@@ -1098,24 +1122,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1149,7 +1173,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
