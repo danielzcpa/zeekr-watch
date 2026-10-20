@@ -1,5 +1,141 @@
 [
  {
+  "id": "c847a47f722149eb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Electric Vehicle Web",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tMTg2VkJpd0N5NlJabzFqcFR0Z013MmdsYk1ReVFoMzZYcHlDQl9wSXdnWFVfVURtMWFUZm5sM2hIRXdpSV9NVlR0NmJiTEFEd0Rj?oc=5",
+  "title": "First Look Review: Zeekr 7GT could pass for a European grand tourer - Electric Vehicle Web",
+  "text": "First Look Review: Zeekr 7GT could pass for a European grand tourer Electric Vehicle Web",
+  "author": "",
+  "published": "2026-10-20T13:41:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "01d86fe0104d2ae2",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/australias-next-cheap-ev-leapmotor-b03-electric-hatchs-local-approval-points-to-byd-atto-1-and-geely-ex2-rival/",
+  "title": "Australia’s next cheap EV? Leapmotor B03 electric hatch’s local approval points to BYD Atto 1 and Geely EX2 rival",
+  "text": "Leapmotor has given the new B03 electric hatchback its international debut, with Australian government approval suggesting the Chinese brand is preparing to introduce another affordable EV to its local line-up. The B03, which is related to the A05 sold in China, is positioned below the larger B05 electric hatchback and could provide Leapmotor with a new rival for the BYD Atto 1, Geely EX2 and Hyundai Inster. While Leapmotor Australia says it has an interest in the B03 but has not confirmed it for local sale, it has already appeared in the federal government’s Road Vehicle Regulator (ROVER) database. READ MORE: Best EVs to buy in Australia: The ultimate guide to affordable EVs READ MORE: Australia has a new electric SUV pricing benchmark: Leapmotor B03X arrives from $29,990 drive-away READ MORE: 2026 Leapmotor B05 Priced for Australia: Rear-drive electric hatch arrives to challenge MG4 Urban and BYD Dolphin READ MORE: 2026 Leapmotor B10 Review: The cut-price Chinese EV that doesn’t drive like a Chinese EV The approval covers two front-wheel-drive versions producing 130kW and 145kW, providing the strongest indication yet that the small electric hatchback is being prepared for Austral",
+  "author": "EV Central team",
+  "published": "2026-10-20T12:54:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "byd",
+   "geely"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "4719c5c23e22eaaa",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONW9zRUk4bEEwSG1DaWZ4WlN4Ykhudk8xbDhTNEh6dTFWaHJ5REhiUzhTbHl3aDJNQmNQMzNjZnlBQnNUV2hDZzhFajNpcGlGTm5XQWlHRkphWjJMY1J1M0wzbmtaaWFqLWdoTXdlZzRUV2VIdnVycU9MUWtOT01UMWVrTTZLdw?oc=5",
+  "title": "Zeekr cars under $40,000 with battery capacity over 40kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr cars under $40,000 with battery capacity over 40kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T11:57:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "dcfef6f51f5d2e64",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTk4V2F0OFBMYy03NWdYSTc2ejJ3dENDbGFNUW55R2pvOXZOR3JaRThUVHg3bVI3R0R1ZGdKR2JSZGZyUzBrX3pMeHJiWFpjeGpULVdGOXlTQUlzajlsUTF1cDhQTGV4Mm9iRUtEaTE3SnlTSFh3a1pOMXl3UnJjaFFEeGMyZERLeU85VklYR0N2cDdjQVpwUjQ2ODRaRkhOdjNR?oc=5",
+  "title": "Zeekr SUV Small cars with electric engine range over 500km for sale or order in Australia - Carsales",
+  "text": "Zeekr SUV Small cars with electric engine range over 500km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T10:11:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
   "id": "3d96abef39cf3ed2",
   "type": "competitor_news",
   "source": "thedriven",
@@ -205,6 +341,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "e80ebfeda1363b05",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGZfaEE5R25CZmE2RHkxRk5FQzFlZEpZLTlTQ0NaeU5UaDlkRktBRjBKdHU4YlBtMU5ETkxWX09xVUlXVmZXM2FaaHl2amRfczdudGo1Zk9uZXgwT1hJLWJXM0ctMFVVNDR1STU3amRTMmhCU0lWeU02MDRNX1lCZnA4Q3FGNGRPMTJyZw?oc=5",
+  "title": "Zeekr cars under $50,000 with electric engine range over 300km for sale or order in Australia - Carsales",
+  "text": "Zeekr cars under $50,000 with electric engine range over 300km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T03:57:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
   "id": "c125e39efbf7bbd1",
@@ -579,7 +749,7 @@
  {
   "id": "53fbe7a6773aa75c",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEtwWVcwaXRfQzM0ZnhmWFdaRkJmRTh5em5uZVI4QUtFR3M0SFk2ZGFXU0gyaWR3Rm9GWHp2Q09OaTJaM1V2NmJweDVKVWZ2dTVfcHZFXzRFb3VxZnc4ZzdnMDM4M0g2VE5RQTZDQ3hNdGZXYktobTdQTlEtZ29EdWltSjBfWEJaZDV0cjNGQXlXOFdvS0FiNTZYNzZXeng0Zy1VYlJETHpzMzdCQUdz?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced for Australia - Carsales",
@@ -3235,41 +3405,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T22:16:04+00:00"
- },
- {
-  "id": "e0ef91f9ec5b5e79",
-  "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
-  "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
-  "text": "Hyundai Elexio review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-elexio"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
   "id": "53756c67f0d89bcd",
@@ -6098,6 +6233,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
+  "id": "e0ef91f9ec5b5e79",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
+  "title": "Hyundai Elexio price, range and specs - EV Central",
+  "text": "Hyundai Elexio price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-14T10:27:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
   "id": "806e811b0ad93a51",
@@ -26529,6 +26699,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "b8864caa4cd6373d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDg3ZnNCejJhV0stbm4wMWE0TFI1TTlxQU5EZU9XSjRoRWpDTDdETkMzcVlBOWRhc1pkV0VCRm4wZ3FrU2ZmTmxHUmhXZEhTSDZQWGhUbVgxUk0zaDktZFhicEVXZVgzTERNTk5ueWhvVkxXUDkyXzV2UVdNOWp6U1gzbkl6LW9GUHItd0h0TFZNQ2p0ZlZsejNqNGtWRi1iUjk2dlhwZFJwVERMRzBPcm54S0JLUQ?oc=5",
+  "title": "We want your help to review the Zeekr 7X - Drive",
+  "text": "We want your help to review the Zeekr 7X Drive",
+  "author": "",
+  "published": "2026-06-06T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
   "id": "39aa824f50e63322",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -27083,6 +27284,39 @@
    "thumbs": 9
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "106cca00f488d845",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYnd3N0tiUV9zSHo3M2Uta1EzaGdmaXZTUUJYUml0aVBqa3A0TkhiZ18xS2xCMWwxMldtd0UtZEh6QXd4TWhnX29iSHhSRktGVXI0RGRBTzNJMEtzandLUks3blBpU2pyb2QzV1hoWmNULXJyZzlTcGhpVjRmdWhweVFoalZJRGdud1c4ajkzX3M5YnkxNmtreGlqZ19teEdkaFlmaDRjck4yTW5mQUZIeVF3eVZVVDY2UnhKR2h3b1EwbHZvR2I5WVRyY20?oc=5",
+  "title": "Zeekr 7X gets first OTA update in Australia, bringing a digital key and improved remote parking - CarExpert",
+  "text": "Zeekr 7X gets first OTA update in Australia, bringing a digital key and improved remote parking CarExpert",
+  "author": "",
+  "published": "2026-06-01T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
   "id": "b164f6b8d8bb37c6",
@@ -27648,6 +27882,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "4690a874bfbc3086",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlYyS1BGOFdkT2tKWFMyZVh1ZlVUa1ZvM0JnZFFGX3JpNHdIV2c1c0pCVHlDaVRwWWFweTJYMHpXUEtnc1NjaTQ4cmxkeG9Kc2E2N2phUEJQakg4eHE5aF9EVVI4YkU4azZFM2Yyb015V2w2c2FvOEVnOHVjU0k0bUtudnQ1UWx2V204bFVGTUpmNTIzaVdzQWF6eDF6SGRrZnc?oc=5",
+  "title": "Zeekr bets on 7GT wagon rather than big sedans - Carsales",
+  "text": "Zeekr bets on 7GT wagon rather than big sedans Carsales",
+  "author": "",
+  "published": "2026-05-14T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
   "id": "b627852a752efb69",
   "type": "post",
   "source": "reddit-CarsAustralia",
@@ -27688,6 +27953,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "51017bf56aaef5f9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Chasing Cars",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbkxfdUwwT2hKX1hsb2l5WkZ3emV1bTJwRFJobEhnUzlXVmlXcDdRQ0lNRXdWMXh2S0NmYVQ1RnMySWQ4NGIwZ0NWMXlodHZmQk5YWV9jd0RvclhMeHRWOElMeXNRVmVFbUxlYkp4bFQtLWN6N3hWUll6Ym5jaWprT0toalpRemZxNDNGX3lRMTRuamRBYnhYcWtlNGFodDVRNl9RR0VNeTh4bFFIeXN1UnVGRG95OE9hLW1JR2dEaDE5Wk51OG1TT1ZZU1kyUmJZczFnM282UXlBME0?oc=5",
+  "title": "Zeekr 8X and 9X hybrid luxury SUVs locked in for Australia with summer release dates confirmed - Chasing Cars",
+  "text": "Zeekr 8X and 9X hybrid luxury SUVs locked in for Australia with summer release dates confirmed Chasing Cars",
+  "author": "",
+  "published": "2026-05-12T01:53:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
   "id": "4691cbd98ca8f227",
@@ -27819,6 +28118,73 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "26c731d76f0003f9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVJSQXlEeG9wM3BvZUtZdW1JNkYyRkFYOHhSdE5tQlhPRXVJM3dWb3F5d1U0Szg2MWRYRklwWjRrVmNSTTVVaC1JeTFNeFBoT2ZBWUJnZU56b2I0bE5mQWtzUk1sNGduVVhWX2pqbi1PdkNxVURKWFlmN2d6MXZna3h0X2RqUnhrY0JzYW1XbHBrR1ZHYlBjYXU0X1R4ZGQ1TVE?oc=5",
+  "title": "Zeekr 8X, 9X to launch in Australia this summer - Carsales",
+  "text": "Zeekr 8X, 9X to launch in Australia this summer Carsales",
+  "author": "",
+  "published": "2026-05-06T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "97a4540d6e0a2b0c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTW5zQm13YXY2dC1aM3FFaWdQWG13ZkFRQ1FLREVRYXR5SjJjVFJWemtDeEdEXzgyQk1rMUY5LTFUMDFvMVI3dWVhOGdNOHg0bG1hek5IdGRZNkMyUmZEallqVG8tQmdKTlI5dTFiY3ZOeURoeV9ERDNnUVluaEtFb1d1MGtXSnVMTjh2a0I1aUhacXNLNTlmS0FzRmFjUQ?oc=5",
+  "title": "Zeekr won't take on Tesla Model 3 with EV sedan in Australia - CarExpert",
+  "text": "Zeekr won't take on Tesla Model 3 with EV sedan in Australia CarExpert",
+  "author": "",
+  "published": "2026-05-06T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
   "id": "824e857d82f3b529",
   "type": "post",
   "source": "reddit-CarsAustralia",
@@ -27850,6 +28216,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "663559dc79a6f125",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnlndjNtQWRjeTE5dzJlVmRRQ21NQVdFdG1DWkxrWFY1a1BqNXhhMUpWUlFBNFY0T0lndjRLY3JDRVVLZ0s2MTMxS0Z3SnpnQjhmUmZBTlBrbHdGZ3pFcl9Xb0lvakxETFU5QkEtUUttQXQxZktfaDFPUGJQeWd5akwwQjdZaUpLd3VVT0RXMHVFbkx5enp6MHVJVHBFSVp3ckVLNmpXSWlGalB5VmQ4YQ?oc=5",
+  "title": "Zeekr 7X expected to dethrone Tesla Model Y as Australia's most popular EV - CarExpert",
+  "text": "Zeekr 7X expected to dethrone Tesla Model Y as Australia's most popular EV CarExpert",
+  "author": "",
+  "published": "2026-05-04T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
   "id": "33390adb97446ee3",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -27858,7 +28259,7 @@
   "title": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely - OzBargain",
   "text": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely OzBargain",
   "author": "",
-  "published": "2026-04-30T21:36:39+00:00",
+  "published": "2026-05-01T10:23:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -27886,6 +28287,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "6d2f77cd76bba226",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · WhichCar",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLW1tblprLVpqVlBqdnNQdUdkRVVVcUJoc0QwbVo1T0pUSFFuUXV2ekFMYks5SXNkYXRqeGNHc01aUXg4VEhOUTREU2k0UXpwakxSUV85TE1IT1NkM3huVjQ4WTMxcG0zdC1RcXB1VWJkTHdNSEhtcjBnQmFrNzd5Mw?oc=5",
+  "title": "Zeekr 8X and 9X large SUVs confirmed for Australia with fully electric versions also possible - WhichCar",
+  "text": "Zeekr 8X and 9X large SUVs confirmed for Australia with fully electric versions also possible WhichCar",
+  "author": "",
+  "published": "2026-05-01T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
   "id": "94906e9485014bd9",
@@ -28020,5 +28455,102 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T09:14:05+00:00"
+ },
+ {
+  "id": "1313a151d691d8d3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmxZQ29NdWx0a1dBZTM2cDNwMVVMVG5heF8yWjExeUNPcmJPOGFtT2xpZU1sY3ZaazlITXpYam83QmRVZmtSVm5kdDBDRm4ybUp5eEphOUpPSXZzRGE1eVpHVGVnZVlWTXJfaVhfei1VajhnMUNua3BjX1MxaWhUZXRpV0xHSjRYdm42RjUtMjAxQUJCUUgxcmZvamFKd3R3NWJSeUtZZ0FEUQ?oc=5",
+  "title": "Zeekr 9X hybrid locked in for Australia - Carsales",
+  "text": "Zeekr 9X hybrid locked in for Australia Carsales",
+  "author": "",
+  "published": "2026-04-26T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "843941a93ae3d045",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQTJGa3ZkQ0lvOUhPOGpRbDVuQzhLNlJCTzNaUGM3YUtmNEVpVGgzdFVOTk5LOVI4cmg0dER2WjNpc2swN3o2LWRLS2F0NXlKRm5nTW9id3hiYlRpT2VETWo5cDZfVU5hYmNTaXB5RjVpT2VqSVN2bDlZNzlBaG9YNktxQl95b3czWnhtYUI2bGgyV3hYdml4OHlUYzRSOXdC?oc=5",
+  "title": "Zeekr 8X locked in for Aus in hybrid, EV model rollout - Drive",
+  "text": "Zeekr 8X locked in for Aus in hybrid, EV model rollout Drive",
+  "author": "",
+  "published": "2026-04-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "2b7b2838cb884812",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcElvRm5DUHZBNExOVWhteDNlemt0OGtuNzlpYzAyNE92djRBZnhxZ0VLMkJpSDRqMHYzbUlCR3ljVjNBM1kzQ3pNOHd3SHgyMDgzUzBSNjBER1YtMXZoNE1GUmpXQnhNNjRNUGh6RkEwcEkyTDVrUFE3WXJXcVl2QkJfN0s3eHFtWU1fOTZVZWFvYWpGWlNKUGpLUm5NSDV3RzUzYk41YzFudVU2MUE?oc=5",
+  "title": "Zeekr 7GT leads Australian expansion - Carsales",
+  "text": "Zeekr 7GT leads Australian expansion Carsales",
+  "author": "",
+  "published": "2026-04-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
  }
 ]

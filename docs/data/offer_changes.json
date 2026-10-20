@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e2ac5e25142a7b1",
+  "key": "polestar",
+  "brand": "Polestar",
+  "url": "https://www.polestar.com/au/offers/",
+  "detected": "2026-10-20T16:50:49+00:00",
+  "added": [
+   "Find the latest Polestar offers in Australia, including novated leasing and finance options. Browse offers for private, retail customers and businesses."
+  ],
+  "removed": [
+   "Find the latest Polestar offers in Australia, including leasing and finance options. Browse offers for private, retail customers and businesses."
+  ]
+ },
+ {
   "id": "78a00f073551b582",
   "key": "mazda",
   "brand": "Mazda",
