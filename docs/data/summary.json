@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-19T22:16:04+00:00",
- "duration_s": 160.7,
- "items_total": 776,
- "new_this_run": 208,
+ "generated": "2026-10-20T01:12:14+00:00",
+ "duration_s": 213.6,
+ "items_total": 789,
+ "new_this_run": 221,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
-  "complaints_30d": 37,
+  "complaints_30d": 39,
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 8,
-  "competitor_news_7d": 128,
-  "launch_signals_7d": 37,
+  "competitor_news_7d": 125,
+  "launch_signals_7d": 35,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 67,
+  "zeekr_news_7d": 66,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
-  {
-   "date": "2026-09-20",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 1
-  },
   {
    "date": "2026-09-21",
    "complaints": 2,
@@ -157,7 +151,7 @@
   },
   {
    "date": "2026-10-13",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 36,
    "zeekr_news": 16
   },
@@ -175,7 +169,7 @@
   },
   {
    "date": "2026-10-16",
-   "complaints": 2,
+   "complaints": 3,
    "competitor_news": 13,
    "zeekr_news": 10
   },
@@ -194,8 +188,14 @@
   {
    "date": "2026-10-19",
    "complaints": 0,
-   "competitor_news": 15,
+   "competitor_news": 22,
    "zeekr_news": 3
+  },
+  {
+   "date": "2026-10-20",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 26
+   "n": 28
   },
   {
    "key": "service",
@@ -221,7 +221,7 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 10
+   "n": 11
   },
   {
    "key": "quality",
@@ -250,7 +250,7 @@
  ],
  "models_30d": {
   "7X": 16,
-  "7GT": 3,
+  "7GT": 4,
   "009": 1,
   "X": 1
  },
@@ -258,19 +258,20 @@
   "Reddit r/Zeekr7xAustralia": 16,
   "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
+  "Reddit r/AustralianEV": 3,
   "Reddit r/EVAustralia": 3,
   "Reddit r/ZeekrAustraliaNZ": 1,
-  "Reddit r/AustralianEV": 1,
   "ProductReview.com.au": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
    "n_30d": 1,
    "launch": [
+    "08c8cc1262f38033",
     "ecb6767e140b18e0"
    ],
    "offer": [],
-   "latest": "9aea9c5118922e0e"
+   "latest": "08c8cc1262f38033"
   },
   "smart-1": {
    "n_30d": 1,
@@ -297,12 +298,13 @@
    "latest": null
   },
   "kia-ev3": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
+    "61681d4b998204cc",
     "e56ee2a603252f5b"
    ],
    "offer": [],
-   "latest": "e56ee2a603252f5b"
+   "latest": "61681d4b998204cc"
   },
   "hyundai-kona-ev": {
    "n_30d": 0,
@@ -692,12 +694,12 @@
    "latest": null
   },
   "denza-b8": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "20e01fbcd796f263"
    ],
    "offer": [],
-   "latest": "20e01fbcd796f263"
+   "latest": "f10008e581c8b3f7"
   },
   "byd-sealion8": {
    "n_30d": 4,
@@ -838,6 +840,26 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "61681d4b998204cc",
+   "title": "Mitsubishi defends new EV's \"acceptable\" range against longer-driving rivals",
+   "source": "CarExpert",
+   "t": "2026-10-19T23:00:00+00:00",
+   "competitors": [
+    "kia-ev3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "08c8cc1262f38033",
+   "title": "Volvo EX30 recalled",
+   "source": "CarExpert",
+   "t": "2026-10-19T21:53:00+00:00",
+   "competitors": [
+    "volvo-ex30"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "4362e9a45be33f4e",
@@ -1030,27 +1052,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 34,
+   "count": 44,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 8,
+   "count": 9,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 21,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 37,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 71,
+   "count": 67,
    "note": ""
   },
   "carexpert": {
@@ -1134,24 +1156,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1226,7 +1248,7 @@
   "offers-mg": {
    "ok": true,
    "count": 19,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,

@@ -1,13 +1,308 @@
 [
  {
-  "id": "9aea9c5118922e0e",
+  "id": "5383cde418251886",
   "type": "competitor_news",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNOFllM1RERjRDVXh1R0R3OV9xYmxuMy1MY1NjYXp4VlU1T1hpaHNZa2NzSlFiVnhWSGI5enR4dmNRNll4WUNqRVpRMHBRZk9DSHVtbG9iRDg0ai1HeEtnaFlJMFpJM3VhY0tz?oc=5",
-  "title": "Volvo EX30 recalled - CarExpert",
-  "text": "Volvo EX30 recalled CarExpert",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/mercedes-benz-c-class-electric-price-specs-launch-australia-2027",
+  "title": "Mercedes-Benz C-Class electric pricing and specs: New sedan aims for affordability but doesn’t skimp on power",
+  "text": "Mercedes-Benz's first electric C-Class will arrive in Australia in early 2027 with up to 760km of driving range, 360kW of power and a price north of $100,000. The post Mercedes-Benz C-Class electric pricing and specs: New sedan aims for affordability but doesn’t skimp on power first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-20T00:07:55+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "f10008e581c8b3f7",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/byd-wheel-clamp-escape-suv-denza-b8-suspension-lift-wheel",
+  "title": "Wheel clamp? What wheel clamp? Video shows motorist use tech in BYD SUV to drive off with no damage",
+  "text": "The Denza B8 was able to lift its front wheel and make an escape despite the wheel clamp in a video that's doing the rounds in China. The post Wheel clamp? What wheel clamp? Video shows motorist use tech in BYD SUV to drive off with no damage first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-10-19T23:58:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-b8"
+  ],
+  "brands": [
+   "byd",
+   "denza"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "9470fb7493f56016",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/uncategorized/mercedes-benz-c-class-electric-2027-all-new-c400-4matic-electric-sedan-with-753km-of-range-priced-from-105700/",
+  "title": "Mercedes-Benz C-Class Electric 2027: all-new C400 4Matic electric sedan with 753km of range priced from $105,700",
+  "text": "This post appeared first on Chasing Cars . Mercedes-Benz Australia has revealed the pricing of its introductory C-Class Electric variant, the 360kW C400 4Matic sedan, priced from $105,700 before on-road costs. Completely unrelated to the combustion-engined W206 C-Class sedan (which will remain on sale with multiple powertrains), the C-Class Electric is underpinned by Mercedes-Benz’s all-new EA-M platform which introduces 800-volt architecture supporting ultra-fast DC charging up to 330kW for a 10-80-percent boost in 22 minutes. Standard equipment highlights include a ‘glass-look’ illuminated grille with three-pointed-star ‘Digital Light’ headlamp beams and 1050 illuminated dots, plus a ‘Sky Control’ panoramic glass roof featuring nine individually adjustable segments to control the in-cabin lighting intensity. AMG Line and Night Packages are both standard in Australia, combining more aggressive body styling with dark exterior accents and the illuminated grille and front apron in dark chrome. Wheels are 20-inch multi-spoke AMG alloys , while metallic paint and dark window tinting are standard. Inside, the C400 4Matic boasts a standard MBUX Superscreen spanning the entire dashboard w",
+  "author": "Ash Leung",
+  "published": "2026-10-19T23:53:19+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "5e6dd3f38fed46f3",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · zecar",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVhCSVlUdXBSM2VGRUJLbS03TWt1V0lYNTFnb0w3Sm1QSFc1LTJ4eGhYc2pHclFSQTdMZGRMWmplbTZuR2JoLWw1SXhqNW16dkpCQ04zbUdaM1lQNFd4aUx5UldRMHp1azJQaVlYbEZkRUxGY2NkWVhKTmxSMVN6VUhlZnQ?oc=5",
+  "title": "Mercedes-Benz C-Class Electric Priced From $105,700, 753km Range - zecar",
+  "text": "Mercedes-Benz C-Class Electric Priced From $105,700, 753km Range zecar",
   "author": "",
+  "published": "2026-10-19T23:45:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "0ee7d3d187d95f30",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUdnUnNPUzlLamJCWjBHcnVMVkZmOGFib0NBdkltb2N3NTNDMDRWRlJIVERxVHRVVWp6SFJ4bENMU1RLNnRnbndNbU93VEdJR1g4RjFLYlFtSkpmN2VvM0NFS0l4TW8xRG1IUDJhUlE2bGxJcUNGbWQtN1BjTFN6UkNydFlCMGRIQ1lj?oc=5",
+  "title": "Mercedes-Benz C 400 4MATIC electric: $105,700 AUD MRLP, up to 753km range - CarSauce",
+  "text": "Mercedes-Benz C 400 4MATIC electric: $105,700 AUD MRLP, up to 753km range CarSauce",
+  "author": "",
+  "published": "2026-10-19T23:40:50+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "53fbe7a6773aa75c",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEtwWVcwaXRfQzM0ZnhmWFdaRkJmRTh5em5uZVI4QUtFR3M0SFk2ZGFXU0gyaWR3Rm9GWHp2Q09OaTJaM1V2NmJweDVKVWZ2dTVfcHZFXzRFb3VxZnc4ZzdnMDM4M0g2VE5RQTZDQ3hNdGZXYktobTdQTlEtZ29EdWltSjBfWEJaZDV0cjNGQXlXOFdvS0FiNTZYNzZXeng0Zy1VYlJETHpzMzdCQUdz?oc=5",
+  "title": "2027 Mercedes-Benz C-Class Electric priced for Australia - Carsales",
+  "text": "2027 Mercedes-Benz C-Class Electric priced for Australia Carsales",
+  "author": "",
+  "published": "2026-10-19T23:08:02+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "db7baba3b2dcaa20",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-mercedes-benz-c-class-electric-price-and-specs",
+  "title": "2027 Mercedes-Benz C-Class electric price and specs",
+  "text": "An electric Mercedes-Benz C-Class is just months away from Australian showrooms. The 2027 Mercedes-Benz C-Class electric will arrive in Australian showrooms early in 2027, in a single variant priced almost exactly halfway between 40 xDrive and 50 xDrive variants of the rival BMW i3 , also due to arrive Down Under early in the new year. The C400 4Matic electric is priced at $105,700 before on-road costs, compared to list prices of $96,900 and $112,900 plus on-roads for the i3 40 xDrive and 50 xDrive. It features a 94kWh nickel manganese cobalt (NMC) battery providing 753km of WLTP range, and a dual-motor all-wheel drive powertrain producing 360kW of power and 800Nm of torque, rocketing the C400 to 100km/h from standstill in a claimed 4.0 seconds. That means in the range battle, the C400 also slots in between the i3 40 xDrive (566-710km WLTP) and 50 xDrive (912km). The rival Bimmers use 82.8kWh and 108.7kWh batteries, respectively. The C400 does have the BMWs beat in power and torque, with the 275kW/520Nm i3 40 xDrive and 345kW/645Nm i3 50 xDrive having claimed 0-100km/h times of 5.4 and 4.7 seconds, respectively. Pricing Model Price before on-road costs 2027 Mercedes-Benz C400 4Mati",
+  "author": "William Stopford",
+  "published": "2026-10-19T23:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "bmw"
+  ],
+  "categories": [
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "61681d4b998204cc",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/mitsubishi-defends-new-evs-acceptable-range-against-longer-driving-rivals",
+  "title": "Mitsubishi defends new EV's \"acceptable\" range against longer-driving rivals",
+  "text": "Mitsubishi will finally field a new electric vehicle (EV) in Australia before the end of 2026, and while pricing is still up in the air, it has now been confirmed that it will offer a maximum driving range of 403km. That figure applies to the range-opening Mitsubishi ASX VR-e LS , measured on the WLTP cycle. The LS is one of three rear-wheel-drive variants in the VR-e range, the others being the Aspire (398km) and the Exceed (380km). The lineup's flagship is the dual-motor, all-wheel-drive GSR, which has considerably stronger performance but a substantially shorter range claim of 328km. All variants use the same 57.7kWh lithium iron phosphate (LFP) battery. \"From the battery capacity perspective, you look at vehicles in the same segment with a similar battery capacity; they’re getting the same range claimed on the WLTP cycle,\" Mitsubishi Australia ASX VR-e product strategy manager Tim Clarke told media. \"In that regard, it’s not behind or in front; it kind of is where it is for that battery size.\" However, the ASX VR-e's small electric SUV competitors – primarily the Kia EV3 , alongside the slightly smaller MG 4 EV (technically a hatchback, not an SUV) and the slightly larger BYD A",
+  "author": "Max Davies",
+  "published": "2026-10-19T23:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia",
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "08c8cc1262f38033",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/volvo-ex30-recalled-1",
+  "title": "Volvo EX30 recalled",
+  "text": "Volvo Car Australia is recalling the Volvo EX30 to fix head restraints that may not restrain occupants in the event of a collision in the small luxury SUV. \"The front seat head restraints may not have been manufactured to specifications. As a result, they may move or detach from the seat in the event of a collision,\" the company says in its recall notice. \"If the head restraints move or detach from the seat in the event of a collision, there is an increased risk of serious injury or death to vehicle occupants.\" A total of 4141 vehicles are affected, including Cross Country variants, produced between 2024 and 2026 The Vehicle Identification Number (VIN) list is attached here The original recall notice is attached here If you own an affected vehicle, you'll need to schedule an appointment with an authorised Volvo dealership to have the fix carried out, free of charge. If you have any further questions, you can contact Volvo Car Australia Customer Care on 1300 787 802. Earlier this year, Volvo Car Australia issued two separate recalls for a battery fault in the EX30 that could lead to a vehicle fire. It subsequently confirmed work was underway to replace defective battery modules. MOR",
+  "author": "William Stopford",
   "published": "2026-10-19T21:53:00+00:00",
   "rating": null,
   "zeekr": false,
@@ -19,20 +314,27 @@
    "volvo"
   ],
   "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service",
    "safety"
   ],
   "sentiment": {
-   "score": -2,
-   "neg_hits": 2,
+   "score": -8,
+   "neg_hits": 8,
    "pos_hits": 0,
    "label": "negative"
   },
   "severity": null,
-  "signals": [],
-  "scope": "zeekr",
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-19T22:16:04+00:00"
+  "first_seen": "2026-10-20T01:12:14+00:00"
  },
  {
   "id": "4362e9a45be33f4e",
@@ -86,7 +388,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/mercedes-benz-c-class-electric-australian-pricing-revealed-configurator-points-to-circa-106000-bmw-i3-rival/",
   "title": "Mercedes-Benz C-Class Electric Australian pricing revealed: Configurator points to circa-$106,000 BMW i3 rival",
-  "text": "Australian pricing for the new Mercedes-Benz C-Class Electric appears to have emerged through the brand’s local website, with its configurator indicating a price of approximately $106,000 before delivery and on-road costs. Mercedes-Benz Australia has yet to formally announce a manufacturer’s list price, but the C400 4MATIC electric can now be configured online, with estimated drive-away pricing ranging from $113,548 to $114,253 across three capital cities. That would make the new electric C-Class substantially cheaper than the outgoing EQE sedan was at launch, while positioning it between the two incoming BMW i3 variants. READ MORE: Best luxury EVs in Australia: The ultimate guide to premium electric cars READ MORE: Mercedes-Benz C-Class PHEV gets 290kW flagship and 100km EV range: Major facelift headed to Australia in 2027 READ MORE: Mercedes-Benz C-Class Electric unveiled: Iconic German luxury car goes EV, headed for Australia READ MORE: Mine’s bigger than yours! Mercedes C-Class EV interior revealed with enormous touchscreen that tops new BMW i3 With no optional equipment added, the Mercedes configurator displays $114,095.53 drive-away for Melbourne postcode 3000, $114,253.03 fo",
+  "text": "Update 10am October 20 2026: Mercedes-Benz has confirmed the official price of the new C-Class Electric C400 at $105,700 before on-road costs in Australia. More details to come. Australian pricing for the new Mercedes-Benz C-Class Electric appears to have emerged through the brand’s local website, with its configurator indicating a price of approximately $106,000 before delivery and on-road costs. Mercedes-Benz Australia has yet to formally announce a manufacturer’s list price, but the C400 4MATIC electric can now be configured online, with estimated drive-away pricing ranging from $113,548 to $114,253 across three capital cities. That would make the new electric C-Class substantially cheaper than the outgoing EQE sedan was at launch, while positioning it between the two incoming BMW i3 variants. READ MORE: Best luxury EVs in Australia: The ultimate guide to premium electric cars READ MORE: Mercedes-Benz C-Class PHEV gets 290kW flagship and 100km EV range: Major facelift headed to Australia in 2027 READ MORE: Mercedes-Benz C-Class Electric unveiled: Iconic German luxury car goes EV, headed for Australia READ MORE: Mine’s bigger than yours! Mercedes C-Class EV interior revealed with",
   "author": "EV Central team",
   "published": "2026-10-19T12:26:16+00:00",
   "rating": null,
@@ -784,6 +1086,53 @@
   "first_seen": "2026-10-18T22:33:02+00:00"
  },
  {
+  "id": "a565328bfa7e6f05",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1x9fdgl/premium_midsized_suv_buying_experience_model_y/",
+  "title": "Premium Mid-sized SUV buying experience: Model Y, Xpeng G6, BYD Sealion 7, Zeekr 7X",
+  "text": "Sharing my recent experience buying a mid-sized SUV, for the interest/benefit of others who might be in the same market. TLDR: I bought a Tesla Model Y. I'm at the opposite end of the political spectrum to Elon Musk, but life is a spectrum of moral/immoral choices. Judge me all you like. There are a heap of good options now in this segment of the market, and I think there are decreasingly fewer things that differentiate them. For me, it came down to driving position/comfort, how it looks, and tech. Might sound vain, but I'm not spending $60k to hate looking at the thing every day. Looks are entirely subjective of course. Background: We are already an EV household, we own a Geely EX5 as my wifes car (2025 Inspire, original version before the refresh). Amazing car, super value and great to drive. It was time to replace my 10-year-old Subaru Forester and get our second EV. I'm a tall guy, so mid-sized SUV is my choice of car (excludes things like the Model 3, BYD Seal etc). No kids, just a dog. Budget $60-65k drive-away. Didn't consider buying a second EX5, only because I didn't want all our eggs in one basket with a single manufacturer. If their RWD version was available, it would ha",
+  "author": "/u/Own_Sun_6520",
+  "published": "2026-10-18T21:47:21+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "xpeng-g6",
+   "byd-sealion7",
+   "geely-ex5",
+   "tesla-model-3",
+   "byd-seal"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "xpeng",
+   "geely"
+  ],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
   "id": "f6c24591e6304b21",
   "type": "competitor_news",
   "source": "carexpert",
@@ -818,6 +1167,44 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "90cf027d6c167371",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1x9eumw/why_dont_more_people_buy_skodas_comparison_has/",
+  "title": "Why don’t more people buy Skodas? Comparison has Tesla best, Zeekr 2nd, Skoda third, ahead of BYD and Kia. But Skoda outsold by all",
+  "text": "I had a Skoda petrol a few years back, brilliant car and service. Having driven various EV agree in the ordering of this comparo, but why is Skoda so far behind the rest in sales? I found the Elroq (shorter than Enyaq tested) one of the best EVs and not that far off the clearly best Tesla. Skoda is missing connectivity, but is such a competitive package apart from that. Do people just don’t know Skoda exists?",
+  "author": "/u/Sparerye",
+  "published": "2026-10-18T21:24:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "byd",
+   "tesla",
+   "skoda"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 4,
+   "neg_hits": 0,
+   "pos_hits": 4,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
  },
  {
   "id": "76659a2e02ae3733",
@@ -1158,7 +1545,7 @@
  {
   "id": "ebc295fec44e7f56",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · DMARGE",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TUFppMHFwUmg4TnRGR3pVa3hfREJCTGg0SEN0b2R3VjFSUEp0ZUxRYmh3RGpOM0FGdk9xTUJyX1VyRXZja1B4VTcwZjgxWFJuT2tWMVRWSkdZZnM3?oc=5",
   "title": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K - DMARGE",
@@ -1532,6 +1919,48 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T16:18:05+00:00"
+ },
+ {
+  "id": "a8eee5a0eb826970",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1x83kd0/looking_to_pull_the_trigger_on_an_ev/",
+  "title": "Looking to pull the trigger on an EV",
+  "text": "So the lease on my existing ICE car is ending in February and looking to make the switch over to an EV on a new noveated lease especially with the potential of FBT changes coming in at some point soon (I know they aren't law yet, but also wouldnt affect the ones i am looking at anyway at least initially). Looking at staying in the mid size SUV style to replace my existing Eclipse Cross. The main four i have narrowed it down to are: BYD Sealion 7 Premium Zeekr 7X Long Range Geely EX5 Inspire Xpeng G6 Long Range RWD I've taken all of the four above for a test drive which has made the decision all the more harder, though as much as i hate to do it, because it was a great car to drive, but based on the price factor i've decided to rule out Zeekr 7X. And of the three left i'm torn between the Sealion and the EX5. The HUD on these was great and found it quite useful at least during the test drives, but at the same time the G6 having the DVR/USB camera recording and autopark was brilliant in it's own right as well. I'm renting so would be resorting to the trickle charger, which given most of my use case is city driving such as school runs and the like and would just top it up every so oft",
+  "author": "/u/Kussie",
+  "published": "2026-10-17T07:00:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "xpeng-g6",
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "xpeng",
+   "geely"
+  ],
+  "categories": [
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 3,
+   "neg_hits": 0,
+   "pos_hits": 3,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
  },
  {
   "id": "479081910d666025",
@@ -3298,6 +3727,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "71311b546cba483f",
+  "type": "complaint",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1x73afj/avatr_06t_spotted_doing_local_testing/",
+  "title": "Avatr 06T spotted doing local testing",
+  "text": "Here’s the upcoming Zeekr 7GT challenger slated for local launch in 2027, spotted doing some local testing in Sydney. Badges taped over, no camouflage. Nice proportions, good to see more wagons coming to our shores! https://www.carexpert.com.au/car-news/avatr-06t-sleek-ev-wagon-confirmed-for-australia-in-2027",
+  "author": "/u/Electrical-Flower907",
+  "published": "2026-10-16T01:24:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
  },
  {
   "id": "6d713f22a03de667",
@@ -7743,6 +8209,44 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "fad38db586fdfa3c",
+  "type": "complaint",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1x4hye6/should_i_stay_away_from_phev/",
+  "title": "Should I stay away from PHEV ?",
+  "text": "Morning All, Novated lease is coming to an end on my 2021 Nissan Navara and have been looking at options moving forward, Originally was looking at going over to a Shark 6 but while browsing cars around that price range the RAV4 GR Sport took my fancy as something a bit smaller. I currently drive 62km each way to work 4 days a week (120km a day 90% freeway) Over the weekend I was planning to get down to BYD and Toyota just to have a look and feel of the cars, Upon arriving at Toyota the 'ex-BYD' salesman told me to not even bother looking at either and to stay away from PHEV vehicles with the amount of daily KM i drive. Now to my point, I see a butt load of Sharks on the freeway every single day, plenty of EV's / PHEVs etc. obviously I understand that I would need to charge every single night to keep it efficient, But a salesman pushing me away from a 70k car and telling me to not even bother looking at it, Was he just being lazy or does he have a point ? Anyone driving a Shark or a GR Rav4 around that many KMs per day and can comment how they find it ? I think i read the SHARK operates differently to the RAV4 with the way it recharges etc. ? Want to work out if I should rule out ce",
+  "author": "/u/Jackintyre_",
+  "published": "2026-10-13T00:00:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [
+   "launch",
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
   "id": "56d35fd2a7a7ce56",
   "type": "competitor_news",
   "source": "evcentral",
@@ -7826,7 +8330,7 @@
  {
   "id": "d64406241a9f2014",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDN4NDZ2UkRIQzJIYTR5eUNMbFZvLTRMSWJsaG5PLTJscjVUMnRxOEIzZG5ycnVBT05FQ0EzN2hhTzdRVmVURHRTQ3psQUU3RzZuNmh5Tjh5Zmh4R2NNREo1cmxiVmN3aHcxMFYxb2MyTEJoVTNWMVhZY2o2Ql9tSko2SlZ0d3o2cjVZdlV1SHFQd3RGZ3o1S1I3SzV6TlJJUmZrLUg1eFZkRG5Wc3RoU3hEQVhEbzdfaVlqcVAyeU80TVVO?oc=5",
   "title": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X - CarsGuide",
@@ -10177,7 +10681,7 @@
  {
   "id": "af15aa7c4a27f293",
   "type": "news_zeekr",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
   "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
@@ -10202,7 +10706,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
@@ -25497,6 +26001,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "39aa824f50e63322",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NMnZaNjRsaFNHNkxIaW5JNlJpbzhGQjZCMzRRc21aVEVLM3ZZZkdrNmljUzZZdlZYOGJvWWM1VUFUbUdVRDJFeEpKdm14OUhrMk9GX0pVM0FseEFmYUxKVVJ3Zw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-06T05:51:32+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
   "id": "f56a3909bd6b4f64",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
@@ -26957,43 +27492,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T09:14:05+00:00"
- },
- {
-  "id": "a67a325b3f611d70",
-  "type": "post",
-  "source": "reddit-CarsAustralia",
-  "source_name": "Reddit r/CarsAustralia",
-  "url": "https://www.reddit.com/r/CarsAustralia/comments/1st073d/first_family_car_suggestions/",
-  "title": "First Family car suggestions?",
-  "text": "Hi All, Looking at starting a family shortly and me n wife just share the one car for now. Looking for something for her around the $30-50k mark(can stretch upwards), preferably something nicer like a used X5. I’ve been interested in leasing an EV for tax benefits but I job hop often, so worried about those implications. So far I’ve test driven a BYD sealion 7 which I really liked, and a Hyundai Tucson which felt a bit light and cheap. Important for me is reliability as I don’t have time to be taking it to the shop often, I’d prefer something more fuel efficient and somewhat fun! Thanks EDIT: The X5 was just an example geez I didn’t realise how much people here hate them lol. I’ve booked in test drives with Zeekr, Mazda for the Cx90",
-  "author": "/u/daOnetogetDafit",
-  "published": "2026-04-22T22:19:23+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [
-   "byd-sealion7"
-  ],
-  "brands": [
-   "hyundai",
-   "byd",
-   "mazda"
-  ],
-  "categories": [
-   "service",
-   "sales"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
  }
 ]
