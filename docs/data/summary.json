@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-20T06:29:57+00:00",
- "duration_s": 114.2,
- "items_total": 797,
- "new_this_run": 201,
+ "generated": "2026-10-20T11:59:50+00:00",
+ "duration_s": 117.1,
+ "items_total": 804,
+ "new_this_run": 202,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 10,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 7,
-  "competitor_news_7d": 127,
-  "launch_signals_7d": 36,
+  "competitor_news_7d": 122,
+  "launch_signals_7d": 35,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 62,
+  "zeekr_news_7d": 59,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -189,13 +189,13 @@
    "date": "2026-10-19",
    "complaints": 0,
    "competitor_news": 24,
-   "zeekr_news": 3
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-20",
    "complaints": 0,
-   "competitor_news": 6,
-   "zeekr_news": 0
+   "competitor_news": 9,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -958,96 +958,6 @@
     "byd-seal",
     "kia-ev4"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "479081910d666025",
-   "title": "Polestar 2 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "polestar-2"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "a27bf89cf6f37c43",
-   "title": "Kia EV6 review, price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "kia-ev6"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "c1d73282b7bf78ea",
-   "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "mazda-6e"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "851fd88980e959a8",
-   "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "byd-sealion7"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "39ee8a224f7f89bb",
-   "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "tesla-model-y"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "977de602e7893c4e",
-   "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "byd-seal"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "e56ee2a603252f5b",
-   "title": "Kia EV3 review, price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "kia-ev3"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "6c8a09ae665a20cb",
-   "title": "Kia EV5 review, price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "kia-ev5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "e0ef91f9ec5b5e79",
-   "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-17T07:00:00+00:00",
-   "competitors": [
-    "hyundai-elexio"
-   ]
   }
  ],
  "source_status": {
@@ -1058,7 +968,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 35,
+   "count": 37,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1088,12 +998,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 51,
+   "count": 32,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 8,
+   "count": 12,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1103,12 +1013,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 42,
+   "count": 45,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 76,
+   "count": 32,
    "note": ""
   },
   "carexpert": {
@@ -1167,9 +1077,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1184,7 +1094,7 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
@@ -1284,7 +1194,7 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,

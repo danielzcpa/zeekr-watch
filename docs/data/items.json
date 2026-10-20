@@ -1,5 +1,175 @@
 [
  {
+  "id": "3d96abef39cf3ed2",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/10/20/mercedes-benz-announces-australian-price-for-its-new-c-class-electric-with-range-of-up-to-735-km-range/?utm_source=rss&utm_medium=rss&utm_campaign=mercedes-benz-announces-australian-price-for-its-new-c-class-electric-with-range-of-up-to-735-km-range",
+  "title": "Mercedes-Benz announces Australian price for its new C-Class electric, with range of up to 735 km range",
+  "text": "Mercedes-Benz has confirmed Australian pricing for its new C-Class electric, which will boast a range of up to 753 kilometres, with deliveries expected early next year. The post Mercedes-Benz announces Australian price for its new C-Class electric, with range of up to 735 km range appeared first on The Driven.",
+  "author": "Joshua S. Hill",
+  "published": "2026-10-20T08:35:07+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "25c5c9495d8335f5",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xam8c0/request_zeekr_7x_2027_lr/",
+  "title": "Request Zeekr 7X 2027 LR?",
+  "text": "Placed an ordered with Zeekr Sydney City for a long range in white with black interior at the end of August. I haven't received my VIN and have read that people are being moved to the 2027 version. Is the improvement in ADAS worth requesting being moved to the 2027 version?",
+  "author": "/u/FOS567",
+  "published": "2026-10-20T08:04:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "f0146d89a1e16993",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ODkyRlNOLXpidmx3RC04Sjc4bHNMcDVzNU9kX3ZudUtfRGtHOXZCZFVIa3NZOWRLWUw1dnpMbmI5cy1uN1dZMktWTXh4T0hFX1phZVFn?oc=5",
+  "title": "ZEEKR X - Autohled.cz",
+  "text": "ZEEKR X Autohled.cz",
+  "author": "",
+  "published": "2026-10-20T07:22:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "c18a0237201319a9",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · autoevolution",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUdnSFZ0SkdMM3M0akNFMThhNzdtUm8zeFZTWlNjUEN1cXQ3VjVoTUtCejN2ZWh5WmlISm8zSmRVTzRuZExMNFg1ek5GcGxwYnV4Qm9KODl3QndJaHk2ek9sUFFzemhGTUZ0OGRrTm9RclFVNGFiUjNOaGloejNLcGUtM1VhV2d3Z2lQVEtocVFKdGdiTV9DVHI1a0VYYnQ1LTZIWHZUbjhTU3lyb0ROdDRBZXVSeGo1bU1oUXhqSGZVS2NmT2JiWmVOaWx0MUZRbUNSUg?oc=5",
+  "title": "All-New Mercedes-Benz C-Class Electric Arrives in the Land Down Under, Kicks Off at AU$105,700 - autoevolution",
+  "text": "All-New Mercedes-Benz C-Class Electric Arrives in the Land Down Under, Kicks Off at AU$105,700 autoevolution",
+  "author": "",
+  "published": "2026-10-20T06:25:53+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "19af34d58af98766",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnVnZnNGWkdJN0poc3FOUkJFZG80YTR2VlZ1TkU3OG5EZVdBUFJQYk5FUTVBdF9fcDEwWkZNR0hmMWtreFoyR0lVZU5TZWtsbjRKNmM0X0thR0JaRVFJejMtRy1yaHZzdGZSZmNVLWFjME1GLVRzVzdzUVlUZTRzZE9MSGdkM2JqZFQtbVNqVzA3NlFOQmdhTHJWUWU4YjVJU3lPNERqbmVDRVhhdHU5QktsVGhub1RoNDRfNTRHQXJNV05odHN3?oc=5",
+  "title": "2027 Mercedes-Benz C-Class Electric priced in Australia ahead of upcoming battle with 2027 BMW i3 luxury EV sedan - CarsGuide",
+  "text": "2027 Mercedes-Benz C-Class Electric priced in Australia ahead of upcoming battle with 2027 BMW i3 luxury EV sedan CarsGuide",
+  "author": "",
+  "published": "2026-10-20T04:22:58+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
   "id": "97666aba56406c19",
   "type": "competitor_news",
   "source": "carexpert",
@@ -595,6 +765,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "8be9e7b56d8377c1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQ20xRHE1amhMU0xKdXA3ZkNjbHpuSlJkWGtTQzQyc3lQQkZOb0RrdmZmRnF4NXRITjJQaVUxSktWUEZUS05Ub3dyTDZKeEdQZWdoN2VqZGZDQktk?oc=5",
+  "title": "Zeekr’s Golden Battery: 13-Minute Charging Without Solid-State - YouTube",
+  "text": "Zeekr’s Golden Battery: 13-Minute Charging Without Solid-State YouTube",
+  "author": "",
+  "published": "2026-10-19T13:20:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
  },
  {
   "id": "4362e9a45be33f4e",
@@ -3038,7 +3239,7 @@
  {
   "id": "e0ef91f9ec5b5e79",
   "type": "competitor_news",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
   "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
@@ -3065,7 +3266,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
@@ -18659,7 +18860,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 6
+   "thumbs": 7
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -19184,6 +19385,40 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "c721d7aa0f59fb55",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdE1rUmVnT19paGY4bVI4cjZVcjU5QjhOX0hubWx5YlFhUEliUzlDNkF5V0RCUXYwTEFnTHFySmlZWDk3OWtWMUR1Y1h0SnVFTktDYWd6bm45SkRORGZtd04xWm9tcmV2QW5kc1Z0MGxySHUzVzNrVTluT1BXbU81Nkg1SkFDSkZSbGJjUlliNmMyM2VMRllFQnoxUmlGWDFPRE9aV0FaVmdfdzlmc2RqZlNRdjg1WFZvNkRMZHVR?oc=5",
+  "title": "2026 Zeekr 7X, 7GT, 8X and 9X and more to get more buttons and dials in the future as Chinese luxury brand responds to global feedback - CarsGuide",
+  "text": "2026 Zeekr 7X, 7GT, 8X and 9X and more to get more buttons and dials in the future as Chinese luxury brand responds to global feedback CarsGuide",
+  "author": "",
+  "published": "2026-09-08T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "7GT",
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T11:59:50+00:00"
  },
  {
   "id": "878206b5916a60d5",
@@ -19951,7 +20186,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 6
+   "thumbs": 7
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -23886,7 +24121,7 @@
   "au": true,
   "extra": {
    "version": "1.6.1",
-   "thumbs": 5
+   "thumbs": 6
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -24967,7 +25202,7 @@
   "au": true,
   "extra": {
    "version": "1.6.0",
-   "thumbs": 4
+   "thumbs": 5
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -27307,43 +27542,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "612a76e39e2b0414",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · OzBargain",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zcTZhZmdKdkFfZ1pObW9wLXdXRmZZajVrLWxSMzR5UUdnRDBKT0dlUGk1NXI3YkV3X1JJSkVfcnN2dDAxLXNfM3hZbE5EM1JXNnc?oc=5",
-  "title": "GAC 36-Month Finance Offer (10% Deposit): Aion V 0.99% pa Comparison Rate, GAC M8 PHEV 2.99% pa Comparison Rate @ GAC Group - OzBargain",
-  "text": "GAC 36-Month Finance Offer (10% Deposit): Aion V 0.99% pa Comparison Rate, GAC M8 PHEV 2.99% pa Comparison Rate @ GAC Group OzBargain",
-  "author": "",
-  "published": "2026-05-15T08:07:44+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "gac-m8"
-  ],
-  "brands": [
-   "gac"
-  ],
-  "categories": [
-   "price"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "offer"
-  ],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "8548795ce1a37dba",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -27372,6 +27570,43 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "612a76e39e2b0414",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zcTZhZmdKdkFfZ1pObW9wLXdXRmZZajVrLWxSMzR5UUdnRDBKT0dlUGk1NXI3YkV3X1JJSkVfcnN2dDAxLXNfM3hZbE5EM1JXNnc?oc=5",
+  "title": "GAC 36-Month Finance Offer (10% Deposit): Aion V 0.99% pa Comparison Rate, GAC M8 PHEV 2.99% pa Comparison Rate @ GAC Group - OzBargain",
+  "text": "GAC 36-Month Finance Offer (10% Deposit): Aion V 0.99% pa Comparison Rate, GAC M8 PHEV 2.99% pa Comparison Rate @ GAC Group OzBargain",
+  "author": "",
+  "published": "2026-05-14T16:51:01+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "gac-m8"
+  ],
+  "brands": [
+   "gac"
+  ],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
