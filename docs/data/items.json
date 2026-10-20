@@ -1,5 +1,317 @@
 [
  {
+  "id": "d4758f63e8e17e08",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkVTRmVnRTdmX3F6aHQ5bEt3QzJpNl9jYl84UXM2bXpwSmFHNllLc3BVV1k3QUoteFJ4bjU1UWlNdkY5Ykd4Wng3eG8tNWxXSnJOWGdfSE1PVjhyNW1VZmJfNFFQSEpHY21jT2RVV2ExMnhoQXFCMzU5TDNqeHpXN29nSGdnU0Nuc0ZZ?oc=5",
+  "title": "2027 Audi A6 allroad Priced From $127,900 in Australia with Plug-in Hybrid Option - CarSauce",
+  "text": "2027 Audi A6 allroad Priced From $127,900 in Australia with Plug-in Hybrid Option CarSauce",
+  "author": "",
+  "published": "2026-10-20T22:30:32+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "92396fa702ef7606",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/reviews/large-cars/polestar-5-performance-2027-review/",
+  "title": "Polestar 5 Performance 2027 review",
+  "text": "This post appeared first on Chasing Cars . Swedish-branded, Chinese-built hyper GT is huge on style, manic in pace and reasonably priced. But can it seduce with enough charisma to find Aussie buyers? Fantastic looks. Fantastic pace. And after driving it at its global debut a few months back, founder Tom Baker called the new Polestar 5 flagship electric four-door GT “one of the most convincing EVs we’ve tested so far”. It was a bespoke car with model-bespoke architecture, some six years in the making. And, according to Polestar Australia, its Euro spec wasn’t quite finished, in that some bugs – mostly software related – hadn’t been exterminated from its much anticipated new hero model. Months later, Chasing Cars saddled up in its most potent Performance guise of two available Aussie debut trim levels, complete with limited Launch Edition accoutrement: localised spec, gremlins licked. So 650kW – 884 horsepower – and 1015Nm plying 2.5 tonnes, and pointed down various Targa Tasmania stages that, on most days, are some of Australia’s most spirited public backroads. Our four Performance Launch Edition event vehicles, at $193,100 list before some dauntingly pricey options, are, at the tim",
+  "author": "Curt Dupriez",
+  "published": "2026-10-20T22:00:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 2,
+   "pos_hits": 2,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "2cf606d8002c564a",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/no-pre-orders-placed-for-cheapest-polestar-5-as-buyers-favour-range-topper",
+  "title": "No pre-orders placed for cheapest Polestar 5 as buyers favour range-topper",
+  "text": "The Polestar 5 has been launched in Australia as the brand’s halo model, offering supercar-like performance in a sleek liftback body – but so far, buyers are snubbing the entry-level variant. Polestar is offering the electric GT in two versions, with the Dual Motor priced from $171,100 before on-road costs, and the flagship Performance priced from $193,100 before on-roads. According to Polestar Australia managing director Scott Maynard, all pre-orders have, so far, been for the Performance. “We often find that when a brand new model is launched, the first take up of that model goes to the higher end, and that's certainly been the case with this car,” Mr Maynard told CarExpert. “I think that the people that are buying it at the moment want the car to be fully spec'd, but in time the interest in Polestar 5 will start to broaden once the car gets out on the road and once it gets seen a little bit more. “Then, I think, it'll start to attract a broader audience who would seek the more cost-competitive example of the car, that still want the style, want all of the features, all of the safety, want all of the sustainability – but don't necessarily call on the very sharp end of performance",
+  "author": "Ben Zachariah",
+  "published": "2026-10-20T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "1ce4c98fe5c3c42b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVi03MmRmNUlXdlpkY3lGSEJrTjNRMkdQVno3VndhaDRac1V2MTZobFpJckI0S0VrNVR3OFc2VjZSbkJwSS1CUFROb05hdzdwcVRtNl9jbllwV0hWUHkxYm1VVms5MmU3WGNqVm9ucV9fTGFyTmhQMjdYNEpkSjYydEh3WVFtLXJhYVE?oc=5",
+  "title": "8 Zeekrs for Sale in Newcastle, NSW With LED Headlights - CarsGuide",
+  "text": "8 Zeekrs for Sale in Newcastle, NSW With LED Headlights CarsGuide",
+  "author": "",
+  "published": "2026-10-20T21:35:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "663a4300b1bd1ec4",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/leapmotor-australia-wants-to-one-up-rivals-with-three-row-electric-suvs",
+  "title": "Leapmotor Australia wants to one-up rivals with three-row electric SUVs",
+  "text": "Chinese brand Leapmotor’s largest model in Australia is currently the C10 , a five-seat mid-size SUV, but it’s eyeing larger and more versatile models to slot above it. The brand’s local boss, Andy Hoang, name-checked both the C16 SUV and the flagship D19 SUV as models Leapmotor is evaluating for Australia. “They’re on the books, the C16 and the D19, they’re vehicles that we’re looking at. We do think that there’s an opportunity for those cars here, a six/seven seater, customers are asking for that,” Mr Hoang told CarExpert . “It’s just a matter of us working through what is the best business scenario for those vehicles and timing for them. “These are all vehicles that Leapmotor has announced globally that these are products that we have in our stable, and these are the products we will be looking at for international markets, and it’s just a matter of us working through what is the best timing for us to get some of those products, and which ones that we think have an opportunity to help us here, grow our footprint, and customers demand.” Notably, other relatively new Chinese brands in Australia, including Deepal, GAC and Geely, don’t yet have three-row SUVs. The C16 was introduced",
+  "author": "William Stopford",
+  "published": "2026-10-20T21:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "deepal",
+   "geely",
+   "gac"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "15ab707193ab2ce1",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-honda-accord-costs-dollar1000-more-loses-two-years-of-honda-connect",
+  "title": "2027 Honda Accord costs $1000 more, loses two years of Honda Connect",
+  "text": "Honda Accord pricing has increased by $1000 to $65,900 drive-away as part of a minor cosmetic update for Australia, which also brings a shorter complimentary subscription period for Honda Connect services. The Japanese brand's updated flagship sedan competes with mid-size four-door hybrids such as the Toyota Camry , which starts at $39,990 before on-road costs, while the new Lexus ES300h is priced from $75,000 before on-roads. Once again available in a single, high-spec hybrid grade, the 2027 model-year Accord e:HEV RS gains black inserts in place of the outgoing sedan's silver front bumper trim, while the previously gloss-black lower exterior trim is now body-coloured. The headlight surrounds are also now body-coloured, while the amber reflectors within the headlights have been removed. The other external change is the removal of the blue accents from the Honda badges, previously used to denote the hybrid powertrain. Inside, the cabin is unchanged apart from red stitching on the gear selector. However, Honda has reduced the Accord's complimentary Honda Connect subscription from five years to three. Honda Connect is the brand’s connected-car service, with a smartphone app allowing",
+  "author": "Damion Smy",
+  "published": "2026-10-20T20:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "lexus"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "b9192b4fad86bf28",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VakZFbjVRSGM2Zm85VFZpdEpXb2tBczdna2IxUjV2RkRIR0VlVEc0S294UW9LQ2lIa2dNTjBkSGJWbXp4ekp0SGZaaHRVLWpRVW5PQWpuLTBuVnlrUThKdUlNSGdGN1BvSm5nOG9kTGNnN2duN2RrSWpqQWM?oc=5",
+  "title": "Zeekr cars with electric engine range over 100km for sale or order in Australia - Carsales",
+  "text": "Zeekr cars with electric engine range over 100km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T17:02:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "f517a1813d7864d3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uYTJHOXlnbmZSTVBqNW9tSF8xZDVIX2pJTEUwYTZjc3oxVDhOR0lpajhfdWI5VFBFc0l2bTMwMmlHRWxUaFBhZXBVUTRhcjNrWEU4Uy0xRnFPWk1SOTVoUUFRZG9FSFZncmNEMVlwNHloelVzdmEw?oc=5",
+  "title": "Zeekr cars with battery capacity over 100kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr cars with battery capacity over 100kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T17:02:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "d71a58bfc7ec404e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmFUdENzWHZtbXRObjNFOG93eTRzQ3BFMl82dG1PQmh5TFdvQkNubWZic0R0cGlqcjd1MDhzV09nT3M3UW5SekFGOHRETlZDcS03aDNqOV9CdWNET1VFUVY3bWhNLXo5VG53ZThKVHJsSndwZVZqRzlqaGE5X0hnVEhUMV81UGN6Z2lQdTBfSFdveEN6V2VBQnlnZUZ1VlNoWUJWYkZTdC1WM0ZyanVEc0pCSkZ0b2Z4ZUE?oc=5",
+  "title": "Zeekr People Mover Performance cars with electric engine range over 450km for sale in Australia - Carsales",
+  "text": "Zeekr People Mover Performance cars with electric engine range over 450km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T16:44:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
   "id": "c847a47f722149eb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -29,6 +341,40 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "c792d8007c543f26",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzlJTURKaG80VjllN3BIckp5MjBqcXVaektDRVpielVNb3UtZkpjVWhBTjZFRzIzSVR0RWhsMFpzdnJCYlBaRGNIZ0NlUDcxTnMyWC1DeUNfdndYWDlQR1pkbjl2NGRuZWZadlB5NkpfbmFUOU11dWtUTFRHcE9NYk96bE9udkY3Z2dNSV9lRmZ5Zw?oc=5",
+  "title": "Zeekr cars over $80,000 with electric engine range over 600km for sale or order in Australia - Carsales",
+  "text": "Zeekr cars over $80,000 with electric engine range over 600km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T12:57:29+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
   "id": "01d86fe0104d2ae2",
@@ -165,6 +511,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "902cddce6630082c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pa1ZPVkVOelh6ek52WUJUdE81X0dYOXFaeVdzbHdWYkRHR0NlbDdMNVBDVUVLUHRfZ2ZKd3drUmJ4dGtaMmxzVVVmQ2tIUHl0WmlUQjVIR1hyTzhPQXZ2aTFXVHhjT0xrVTlNZVdXWGcwRU5ZUEJ4WG9FWE4?oc=5",
+  "title": "Zeekr cars with electric engine range over 550km for sale or order in Australia - Carsales",
+  "text": "Zeekr cars with electric engine range over 550km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T09:04:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
   "id": "3d96abef39cf3ed2",
@@ -305,7 +683,7 @@
  {
   "id": "19af34d58af98766",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnVnZnNGWkdJN0poc3FOUkJFZG80YTR2VlZ1TkU3OG5EZVdBUFJQYk5FUTVBdF9fcDEwWkZNR0hmMWtreFoyR0lVZU5TZWtsbjRKNmM0X0thR0JaRVFJejMtRy1yaHZzdGZSZmNVLWFjME1GLVRzVzdzUVlUZTRzZE9MSGdkM2JqZFQtbVNqVzA3NlFOQmdhTHJWUWU4YjVJU3lPNERqbmVDRVhhdHU5QktsVGhub1RoNDRfNTRHQXJNV05odHN3?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced in Australia ahead of upcoming battle with 2027 BMW i3 luxury EV sedan - CarsGuide",
@@ -406,6 +784,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "72a3bf70a92dd66b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGhncU5Kb3NmbVlDMkR0SnVvRFNGQW01NXNtSGMzRHJDXzEzWkdqU3JMSkZXdl85YUc0SEgtTE0xMGJnLTRKSGVnOEJHd2hIM3hZRWQ5R2tZMEtXcnJMeWFLY1p4ajFwRW9CQWxmT2lMNUI4RUU1SXdycU5Pc0NFLWVFWnpPZUlwTTdz?oc=5",
+  "title": "Zeekr cars under $50,000 with electric engine range over 50km for sale or order in Australia - Carsales",
+  "text": "Zeekr cars under $50,000 with electric engine range over 50km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T03:57:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
   "id": "c125e39efbf7bbd1",
@@ -529,15 +941,14 @@
   "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnhvOGhIWUJkT2lUTnNsZ2E1c3ZjcGtRUXF2YS04WWI3ZkF5QnplTVRienlqaUNRVXVPSkJXQ3VjMkFURFA4cXV5dXQ5TFE1XzVrR1RWYkM4OXJPeWJMTFBVQ3dxMDNzZVVkcUJyekktdGMwSHc2cmwtY1dhSFdkNmt5UWpUSnFnUzZuV3VmV2o5NlgwV0hEVXRzZC1wTGtjQ0xmVzVvZElUeWhLd0JQWDRTanZVTEVRMXJkbHdXRDk?oc=5",
-  "title": "2027 Yangwang U8 approved for sale in Australia as new ultra-luxury 4WD to rival 2026 Mercedes-Benz G-Class and Range Rover - CarsGuide",
-  "text": "2027 Yangwang U8 approved for sale in Australia as new ultra-luxury 4WD to rival 2026 Mercedes-Benz G-Class and Range Rover CarsGuide",
+  "title": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen - CarsGuide",
+  "text": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen CarsGuide",
   "author": "",
   "published": "2026-10-20T00:13:10+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "mb-gclass",
    "yangwang-u8"
   ],
   "brands": [
@@ -545,8 +956,7 @@
    "yangwang"
   ],
   "categories": [
-   "software",
-   "charging"
+   "software"
   ],
   "sentiment": {
    "score": 0,
@@ -811,7 +1221,7 @@
  {
   "id": "53fbe7a6773aa75c",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEtwWVcwaXRfQzM0ZnhmWFdaRkJmRTh5em5uZVI4QUtFR3M0SFk2ZGFXU0gyaWR3Rm9GWHp2Q09OaTJaM1V2NmJweDVKVWZ2dTVfcHZFXzRFb3VxZnc4ZzdnMDM4M0g2VE5RQTZDQ3hNdGZXYktobTdQTlEtZ29EdWltSjBfWEJaZDV0cjNGQXlXOFdvS0FiNTZYNzZXeng0Zy1VYlJETHpzMzdCQUdz?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced for Australia - Carsales",
@@ -15599,20 +16009,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,

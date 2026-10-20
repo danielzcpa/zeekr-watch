@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-20T20:26:06+00:00",
- "duration_s": 157.5,
- "items_total": 823,
- "new_this_run": 209,
+ "generated": "2026-10-20T23:20:04+00:00",
+ "duration_s": 166.2,
+ "items_total": 835,
+ "new_this_run": 215,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 10,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 7,
-  "competitor_news_7d": 114,
-  "launch_signals_7d": 34,
-  "offer_signals_7d": 6,
-  "zeekr_news_7d": 62,
+  "competitor_news_7d": 111,
+  "launch_signals_7d": 32,
+  "offer_signals_7d": 5,
+  "zeekr_news_7d": 68,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-20",
    "complaints": 0,
-   "competitor_news": 10,
-   "zeekr_news": 6
+   "competitor_news": 15,
+   "zeekr_news": 13
   }
  ],
  "categories_30d": [
@@ -813,10 +813,10 @@
    "latest": null
   },
   "mb-gclass": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [],
    "offer": [],
-   "latest": "e9eb153dc549ba05"
+   "latest": null
   },
   "yangwang-u8": {
    "n_30d": 5,
@@ -963,7 +963,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 38,
+   "count": 36,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -998,22 +998,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 14,
+   "count": 20,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 31,
+   "count": 40,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 45,
+   "count": 47,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 31,
+   "count": 26,
    "note": ""
   },
   "carexpert": {
@@ -1189,7 +1189,7 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
