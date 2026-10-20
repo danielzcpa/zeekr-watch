@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-20T01:12:14+00:00",
- "duration_s": 213.6,
- "items_total": 789,
- "new_this_run": 221,
+ "generated": "2026-10-20T06:29:57+00:00",
+ "duration_s": 114.2,
+ "items_total": 797,
+ "new_this_run": 201,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 11,
+  "complaints_7d": 10,
   "complaints_30d": 39,
   "high_7d": 2,
   "medium_7d": 1,
-  "low_7d": 8,
-  "competitor_news_7d": 125,
-  "launch_signals_7d": 35,
+  "low_7d": 7,
+  "competitor_news_7d": 127,
+  "launch_signals_7d": 36,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 66,
-  "offer_page_changes_7d": 4
+  "zeekr_news_7d": 62,
+  "offer_page_changes_7d": 3
  },
  "series_30d": [
   {
@@ -158,7 +158,7 @@
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 16,
+   "competitor_news": 15,
    "zeekr_news": 15
   },
   {
@@ -176,7 +176,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 30,
+   "competitor_news": 32,
    "zeekr_news": 8
   },
   {
@@ -188,13 +188,13 @@
   {
    "date": "2026-10-19",
    "complaints": 0,
-   "competitor_news": 22,
+   "competitor_news": 24,
    "zeekr_news": 3
   },
   {
    "date": "2026-10-20",
    "complaints": 0,
-   "competitor_news": 1,
+   "competitor_news": 6,
    "zeekr_news": 0
   }
  ],
@@ -298,9 +298,10 @@
    "latest": null
   },
   "kia-ev3": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "61681d4b998204cc",
+    "3906ee719bd23b05",
     "e56ee2a603252f5b"
    ],
    "offer": [],
@@ -372,7 +373,9 @@
   },
   "hyundai-elexio": {
    "n_30d": 2,
-   "launch": [],
+   "launch": [
+    "e0ef91f9ec5b5e79"
+   ],
    "offer": [],
    "latest": "e0ef91f9ec5b5e79"
   },
@@ -719,8 +722,9 @@
    "latest": null
   },
   "kia-ev9": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
+    "2c67435d1d334093",
     "b5c47101ca081290",
     "205ea3973e46d6d4",
     "d03e92850d21bd42"
@@ -728,7 +732,7 @@
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "b5c47101ca081290"
+   "latest": "2c67435d1d334093"
   },
   "xpeng-g9l": {
    "n_30d": 9,
@@ -791,15 +795,16 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "2c67435d1d334093",
     "205ea3973e46d6d4",
     "d03e92850d21bd42"
    ],
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "205ea3973e46d6d4"
+   "latest": "2c67435d1d334093"
   },
   "bmw-ix": {
    "n_30d": 0,
@@ -814,13 +819,13 @@
    "latest": null
   },
   "yangwang-u8": {
-   "n_30d": 3,
+   "n_30d": 5,
    "launch": [
     "f658b7a5cfd318c7",
     "f05fc111c7ac03b7"
    ],
    "offer": [],
-   "latest": "ce56e4078629ae9f"
+   "latest": "c125e39efbf7bbd1"
   },
   "audi-q9": {
    "n_30d": 0,
@@ -842,9 +847,30 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "2c67435d1d334093",
+   "title": "Aussie debut: Sensational electric Lexus LFA supercar heads to Flemington as production version takes shape",
+   "source": "EV Central",
+   "t": "2026-10-20T03:00:00+00:00",
+   "competitors": [
+    "kia-ev9",
+    "volvo-ex90"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "61681d4b998204cc",
    "title": "Mitsubishi defends new EV's \"acceptable\" range against longer-driving rivals",
    "source": "CarExpert",
+   "t": "2026-10-19T23:00:00+00:00",
+   "competitors": [
+    "kia-ev3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "3906ee719bd23b05",
+   "title": "Mitsubishi finally fights back against China! 2026 Mitsubishi ASX VR-e electric car with iPhone smarts detailed for Australia to battle Kia EV3, GWM Ora 5 - CarsGuide",
+   "source": "Google News · CarsGuide",
    "t": "2026-10-19T23:00:00+00:00",
    "competitors": [
     "kia-ev3"
@@ -1012,6 +1038,16 @@
    "competitors": [
     "kia-ev5"
    ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "e0ef91f9ec5b5e79",
+   "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-17T07:00:00+00:00",
+   "competitors": [
+    "hyundai-elexio"
+   ]
   }
  ],
  "source_status": {
@@ -1022,7 +1058,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 34,
+   "count": 35,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1052,27 +1088,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 44,
+   "count": 51,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 9,
+   "count": 8,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 30,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 37,
+   "count": 42,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 67,
+   "count": 76,
    "note": ""
   },
   "carexpert": {
@@ -1141,39 +1177,39 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1247,8 +1283,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
-   "note": "unchanged"
+   "count": 31,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,

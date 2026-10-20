@@ -1,5 +1,194 @@
 [
  {
+  "id": "97666aba56406c19",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-audi-a6-allroad-returns-to-australia-with-phev-diesel-options",
+  "title": "2027 Audi A6 allroad returns to Australia with PHEV, diesel options",
+  "text": "The fifth-generation 2027 Audi A6 allroad has finally been confirmed for the Australian market, and will offer a plug-in hybrid (PHEV) option for the first time. It's the first version of the latest A6 family to be confirmed in Australia, with prices starting from $127,900 before on-road costs. Audi Australia says it's \"the most comprehensively equipped A6 allroad to date\", and will arrive Down Under during the first half of 2027. That's only $1500 up on the asking price of the previous diesel-only A6 allroad last seen Down Under in 2024, with a claimed $10,000 worth of additional specification in this latest iteration. With that said, the base price is for the new e-hybrid quattro 270kW version, which teams a 2.0-litre turbo-petrol engine with an electric motor and 25.9kWh (gross) battery pack. The like-for-like TDI quattro 220kW is $10,000 dearer, at $137,900 plus on-road costs. Australian equipment highlights include: 20-inch Audi Sport alloy wheels, gloss-turned finish – TDI 21-inch Audi Sport alloy wheels, gloss-turned finish – e-hybrid Adaptive air suspension All-wheel steering Black exterior styling package Matrix LED headlights LED tail-lights Home and public AC charging eq",
+  "author": "James Wong",
+  "published": "2026-10-20T04:18:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "quality",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "c125e39efbf7bbd1",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/byd-yangwang-u8-suv-luxury-large-sale-australia-denza",
+  "title": "BYD gets green light to sell gigantic ultra-luxurious SUV in Australia – and it should be the brand’s most expensive model",
+  "text": "The Yangwang U8, the luxurious poster product of BYD, has been given approval to be sold in Australia, potentially giving a clue as to its local release. The post BYD gets green light to sell gigantic ultra-luxurious SUV in Australia – and it should be the brand’s most expensive model first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-20T03:22:51+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "yangwang-u8"
+  ],
+  "brands": [
+   "byd",
+   "yangwang"
+  ],
+  "categories": [
+   "software",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "2c67435d1d334093",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/aussie-debut-sensational-electric-lexus-lfa-supercar-heads-to-flemington-as-production-version-takes-shape/",
+  "title": "Aussie debut: Sensational electric Lexus LFA supercar heads to Flemington as production version takes shape",
+  "text": "Lexus will bring its electric LFA Concept to Australia for the first time at the Melbourne Cup Carnival, previewing a potential battery-powered successor to its celebrated V10 supercar. The two-seat concept will appear in the Lexus pavilion alongside the new TZ electric SUV and limited-edition RZ 600e F Sport Performance. Its Australian appearance comes as overseas reporting increasingly points towards a production version, although Lexus Australia has announced neither local sales plans nor pricing. READ MORE: Best luxury EVs in Australia: The ultimate guide to premium electric cars READ MORE: Lexus TZ confirmed for Australia: Three-row electric SUV to take on Kia EV9 and Volvo EX90 in 2027 READ MORE: Just nine for Australia: Lexus RZ 600e performance flagship costs the same as original top-spec RZ READ MORE: Ferrari basher! Electric Lexus LFA takes aim at the supercar elite and is shaping up to be world’s first solid-state battery-powered hypercar Reports following July’s Goodwood Festival of Speed suggested a launch could come as early as 2027. In an Autocar interview, concept designer Shogo Kasamatsu said the production car was close to completion and would closely resemble the",
+  "author": "EV Central team",
+  "published": "2026-10-20T03:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev9",
+   "volvo-ex90"
+  ],
+  "brands": [
+   "volvo",
+   "kia",
+   "lexus"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "ae45ad3c1a469aa0",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/subaru-previews-it-first-ev-developed-without-toyota",
+  "title": "Subaru previews its first EV developed without Toyota",
+  "text": "Subaru has previewed its first in-house electric vehicle (EV) platform developed independently from Toyota , its partner on its first three EVs, and confirmed it has plans to introduce it under showroom models from 2029. As reported by Automotive News , Subaru demonstrated the dedicated EV platform at a test track in Japan. The engineering evaluation vehicle wears the body of an Outback wagon, modified to accommodate the new platform’s longer wheelbase. Toyota owns a 21.46 per cent share of Subaru, making it the smaller Japanese automaker’s largest shareholder. The two companies have partnered to bring Subaru’s first three EV models to showrooms: the Solterra , Trailseeker and Uncharted electric SUVs. The test prototype showcases platform and other technologies that will underpin the first Subaru EVs developed without the direct involvement of Toyota, and signals Subaru's intention to go it alone with future EVs. “By developing vehicles in-house and having EV technologies on our own, we can quickly deliver to our customers the peace of mind and driving pleasure that define Subaru, even in this era of change,” Takatomo Watamori, executive officer in charge of engineering, told Autom",
+  "author": "Damion Smy",
+  "published": "2026-10-20T01:20:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "e9eb153dc549ba05",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnhvOGhIWUJkT2lUTnNsZ2E1c3ZjcGtRUXF2YS04WWI3ZkF5QnplTVRienlqaUNRVXVPSkJXQ3VjMkFURFA4cXV5dXQ5TFE1XzVrR1RWYkM4OXJPeWJMTFBVQ3dxMDNzZVVkcUJyekktdGMwSHc2cmwtY1dhSFdkNmt5UWpUSnFnUzZuV3VmV2o5NlgwV0hEVXRzZC1wTGtjQ0xmVzVvZElUeWhLd0JQWDRTanZVTEVRMXJkbHdXRDk?oc=5",
+  "title": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen - CarsGuide",
+  "text": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen CarsGuide",
+  "author": "",
+  "published": "2026-10-20T00:13:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "yangwang-u8"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "yangwang"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
   "id": "5383cde418251886",
   "type": "competitor_news",
   "source": "whichcar",
@@ -32,6 +221,41 @@
    "price"
   ],
   "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "0ee7d3d187d95f30",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUdnUnNPUzlLamJCWjBHcnVMVkZmOGFib0NBdkltb2N3NTNDMDRWRlJIVERxVHRVVWp6SFJ4bENMU1RLNnRnbndNbU93VEdJR1g4RjFLYlFtSkpmN2VvM0NFS0l4TW8xRG1IUDJhUlE2bGxJcUNGbWQtN1BjTFN6UkNydFlCMGRIQ1lj?oc=5",
+  "title": "Mercedes-Benz C 400 4MATIC electric: $105,700 AUD MRLP, up to 753km range - CarSauce",
+  "text": "Mercedes-Benz C 400 4MATIC electric: $105,700 AUD MRLP, up to 753km range CarSauce",
+  "author": "",
+  "published": "2026-10-19T23:59:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
@@ -149,25 +373,24 @@
   "first_seen": "2026-10-20T01:12:14+00:00"
  },
  {
-  "id": "0ee7d3d187d95f30",
+  "id": "bd45f43453f8b9d4",
   "type": "competitor_news",
   "source": "gn-brands-eu",
-  "source_name": "Google News · CarSauce",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUdnUnNPUzlLamJCWjBHcnVMVkZmOGFib0NBdkltb2N3NTNDMDRWRlJIVERxVHRVVWp6SFJ4bENMU1RLNnRnbndNbU93VEdJR1g4RjFLYlFtSkpmN2VvM0NFS0l4TW8xRG1IUDJhUlE2bGxJcUNGbWQtN1BjTFN6UkNydFlCMGRIQ1lj?oc=5",
-  "title": "Mercedes-Benz C 400 4MATIC electric: $105,700 AUD MRLP, up to 753km range - CarSauce",
-  "text": "Mercedes-Benz C 400 4MATIC electric: $105,700 AUD MRLP, up to 753km range CarSauce",
+  "source_name": "Google News · Torquecafe",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM2ZucFRZb3VvRHlENVRsYXZLLXlHcnMtY1FGUHQxb0lGSV8tT01rZUZUYW1xMjNPR1ZsTTlReUtQQWlYM09kb1B2MDJzTEloSmtxeEplNzZ6UWEyUXJDRU5NVTQzcnp5eEhZYWh3T3FmNm5rMi1PTUZSNU9EVWZ2aUV3?oc=5",
+  "title": "Mercedes-Benz C-Class EV undercuts BMW i3 on price, not power - Torquecafe",
+  "text": "Mercedes-Benz C-Class EV undercuts BMW i3 on price, not power Torquecafe",
   "author": "",
-  "published": "2026-10-19T23:40:50+00:00",
+  "published": "2026-10-19T23:44:15+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [],
   "brands": [
-   "mercedes-benz"
+   "mercedes-benz",
+   "bmw"
   ],
-  "categories": [
-   "charging"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -176,12 +399,12 @@
   },
   "severity": null,
   "signals": [
-   "price"
+   "price_cut"
   ],
   "scope": "competitor",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-20T01:12:14+00:00"
+  "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
   "id": "53fbe7a6773aa75c",
@@ -293,6 +516,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "3906ee719bd23b05",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEdETlZ6bnQ4QS1fZnZxZ2VmLTljN3Bwc212dE1BcXNia1BlQXVaUk1KeFhPMlY5MWdaMFFlazRSakh5R25Bd2s2WUdQMldnWlJtS1VOalNiMFJIT2JxS1VfcnN1Rk1OY0pvUXoxbzRvMTl2TkVkeGxodlBXQzBaSldVM0RsN09RRmdhYWxRSENXVjFrdEZpSmRjLXFsbDFDZG9SeTBDaDUwSVc2WXYwQXllMm5rNUlGcG40YmRJVzVxTkk?oc=5",
+  "title": "Mitsubishi finally fights back against China! 2026 Mitsubishi ASX VR-e electric car with iPhone smarts detailed for Australia to battle Kia EV3, GWM Ora 5 - CarsGuide",
+  "text": "Mitsubishi finally fights back against China! 2026 Mitsubishi ASX VR-e electric car with iPhone smarts detailed for Australia to battle Kia EV3, GWM Ora 5 CarsGuide",
+  "author": "",
+  "published": "2026-10-19T23:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
   "id": "08c8cc1262f38033",
@@ -2774,6 +3034,74 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
+  "id": "e0ef91f9ec5b5e79",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
+  "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai Elexio review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "53756c67f0d89bcd",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d0R2ckxMV2d3Znliak9GVjdsSEtKRTFuMVhudGZXTzR1WTdTVWxDZzh3Z2NEQktpaXBpR1F3SHNXVkJrZC1JRmNDSjQwT0JPem5r?oc=5",
+  "title": "Polestar 5 price and specs: every 2026 variant compared - EV Central",
+  "text": "Polestar 5 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
   "id": "99ed59d066f99039",
@@ -5569,41 +5897,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
- },
- {
-  "id": "e0ef91f9ec5b5e79",
-  "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
-  "title": "Hyundai Elexio price, range and specs - EV Central",
-  "text": "Hyundai Elexio price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-14T10:27:33+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-elexio"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
   "id": "806e811b0ad93a51",
@@ -10142,7 +10435,7 @@
   "title": "Zeekr 9X targets Australia’s luxury SUV heavyweights - Local Ipswich News",
   "text": "Zeekr 9X targets Australia’s luxury SUV heavyweights Local Ipswich News",
   "author": "",
-  "published": "2026-10-11T08:00:00+00:00",
+  "published": "2026-10-11T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
