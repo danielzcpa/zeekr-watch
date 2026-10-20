@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-20T16:48:02+00:00",
- "duration_s": 168.7,
- "items_total": 820,
- "new_this_run": 237,
+ "generated": "2026-10-20T20:26:06+00:00",
+ "duration_s": 157.5,
+ "items_total": 823,
+ "new_this_run": 209,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 10,
-  "complaints_30d": 39,
+  "complaints_30d": 38,
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 7,
-  "competitor_news_7d": 117,
+  "competitor_news_7d": 114,
   "launch_signals_7d": 34,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 61,
+  "zeekr_news_7d": 62,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -158,7 +158,7 @@
   {
    "date": "2026-10-14",
    "complaints": 2,
-   "competitor_news": 16,
+   "competitor_news": 15,
    "zeekr_news": 15
   },
   {
@@ -176,7 +176,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 31,
+   "competitor_news": 32,
    "zeekr_news": 8
   },
   {
@@ -189,13 +189,13 @@
    "date": "2026-10-19",
    "complaints": 0,
    "competitor_news": 24,
-   "zeekr_news": 4
+   "zeekr_news": 5
   },
   {
    "date": "2026-10-20",
    "complaints": 0,
    "competitor_news": 10,
-   "zeekr_news": 5
+   "zeekr_news": 6
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 28
+   "n": 27
   },
   {
    "key": "service",
@@ -256,7 +256,7 @@
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 16,
-  "Google Play (AU)": 10,
+  "Google Play (AU)": 9,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 3,
   "Reddit r/EVAustralia": 3,
@@ -373,7 +373,9 @@
   },
   "hyundai-elexio": {
    "n_30d": 2,
-   "launch": [],
+   "launch": [
+    "e0ef91f9ec5b5e79"
+   ],
    "offer": [],
    "latest": "e0ef91f9ec5b5e79"
   },
@@ -811,10 +813,10 @@
    "latest": null
   },
   "mb-gclass": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "e9eb153dc549ba05"
   },
   "yangwang-u8": {
    "n_30d": 5,
@@ -956,7 +958,7 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 71,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -991,7 +993,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1001,7 +1003,7 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1011,7 +1013,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 32,
+   "count": 31,
    "note": ""
   },
   "carexpert": {
@@ -1177,7 +1179,7 @@
   "offers-polestar": {
    "ok": true,
    "count": 11,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mini": {
    "ok": false,
@@ -1186,7 +1188,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
+   "count": 31,
    "note": "changed"
   },
   "offers-mazda": {

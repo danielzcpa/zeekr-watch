@@ -70,6 +70,37 @@
   "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
+  "id": "af9c4ea3901ea3bf",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUJ6eUszQzcwekhmRU1OLUU4SzQyZVA0OGNZSlh6OGFWa3k1cnZQUzkxZlRHTUxDOXA4M2o4QlRWTTR4SjhkNzAtdmtxWGkydUJhS29HOGlhcGl1b19vYU9lY3gzTkJLbHJJRE1UVFRGcGRGNHFfd0ZVNTNSZmpqTnQzWnZKT2YtYzhFR0FPR1NiVndtQzBQdWZMSk1KSFBzUm1HaVpkZlBpVlR2S0tNU0NR?oc=5",
+  "title": "Zeekr SUV cars with kilometres under 100,000km with electric engine range over 600km for sale in Australia - Carsales",
+  "text": "Zeekr SUV cars with kilometres under 100,000km with electric engine range over 600km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T12:44:13+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T20:26:06+00:00"
+ },
+ {
   "id": "4719c5c23e22eaaa",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -498,14 +529,15 @@
   "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnhvOGhIWUJkT2lUTnNsZ2E1c3ZjcGtRUXF2YS04WWI3ZkF5QnplTVRienlqaUNRVXVPSkJXQ3VjMkFURFA4cXV5dXQ5TFE1XzVrR1RWYkM4OXJPeWJMTFBVQ3dxMDNzZVVkcUJyekktdGMwSHc2cmwtY1dhSFdkNmt5UWpUSnFnUzZuV3VmV2o5NlgwV0hEVXRzZC1wTGtjQ0xmVzVvZElUeWhLd0JQWDRTanZVTEVRMXJkbHdXRDk?oc=5",
-  "title": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen - CarsGuide",
-  "text": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen CarsGuide",
+  "title": "2027 Yangwang U8 approved for sale in Australia as new ultra-luxury 4WD to rival 2026 Mercedes-Benz G-Class and Range Rover - CarsGuide",
+  "text": "2027 Yangwang U8 approved for sale in Australia as new ultra-luxury 4WD to rival 2026 Mercedes-Benz G-Class and Range Rover CarsGuide",
   "author": "",
   "published": "2026-10-20T00:13:10+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
+   "mb-gclass",
    "yangwang-u8"
   ],
   "brands": [
@@ -513,7 +545,8 @@
    "yangwang"
   ],
   "categories": [
-   "software"
+   "software",
+   "charging"
   ],
   "sentiment": {
    "score": 0,
@@ -635,6 +668,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "f04f15427fe8af6b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Элдик Банк",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3M3bUs4QjN6NENYXzFtX216WEtWOWJUd2t3U1hpaTQ3WnM4WVFpMDdoMzhzYy1UMFp6UkplZmE2WkxmM3J0STZhQW42Tm9oOUZROXprSEtxR0pONmNyR1VROFpfaTh5RmFIZ0dZX3BTTTkxY0JrdHpTbExacmhyRmJR?oc=5",
+  "title": "Eldik Bank and ZEEKR signed a cooperation agreement - Элдик Банк",
+  "text": "Eldik Bank and ZEEKR signed a cooperation agreement Элдик Банк",
+  "author": "",
+  "published": "2026-10-19T23:54:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-20T20:26:06+00:00"
  },
  {
   "id": "9470fb7493f56016",
@@ -3440,6 +3502,41 @@
   "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
+  "id": "e0ef91f9ec5b5e79",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
+  "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai Elexio review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "99ed59d066f99039",
   "type": "complaint",
   "source": "playstore-android",
@@ -6235,41 +6332,6 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
-  "id": "e0ef91f9ec5b5e79",
-  "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
-  "title": "Hyundai Elexio price, range and specs - EV Central",
-  "text": "Hyundai Elexio price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-14T10:27:33+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-elexio"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
   "id": "806e811b0ad93a51",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -8694,7 +8756,7 @@
  {
   "id": "3a4fb0d45c65c6ec",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUpIVzRaa1MtRGVYZl9DWUxUWXNMakIyU21KNTRwS1pjTnZqYm5qNG11NV9CRHZ5OWk4cWRYRi1WZkVfVHpoSGpSUjNIUGR0VFVaRkRkM0JlaVYxMDFpOWFkcDdzdW94bnZsam9hM3dKeXc2bmk1bHl5NGQ0Slp1TjZUZ1lXbTNfeHd3Y2ZKYlNzSV9WcHNoRm5uOXJCeEdBU1o4WUFGcFQ4bzhpaF9yRnN6dU9ER01TdlNjaTlR?oc=5",
   "title": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y - CarsGuide",
@@ -10827,6 +10889,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "0ef561d968b46f02",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlS3FuNGdvSlY0VG04R2RJamU4NnQ5cUVoWkFQNUhVMFhzMTY0WEVxa1puQ0U2UE9JUVdUSkxaWXA2aHNrSldwVm5MSktXSWc2UXVBbmNtVHhpZUFFblkxMzJhRQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-11T06:23:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T20:26:06+00:00"
  },
  {
   "id": "ca8300a0bf36efb4",
