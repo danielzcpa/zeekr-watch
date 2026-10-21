@@ -109,9 +109,9 @@ window.renderTimeline = function(){
     <div class="filters" id="tl_cids">${chips}</div>
     <div class="filters" id="tl_types">${typeChips}</div>
     ${legend}
-    <div class="twrap">${gantt(TL.cids, TL.types)}</div>
+    <div class="twrap hint" data-hint="${lang==='zh'?'图表可左右滑动':'Swipe sideways to scroll the chart'}">${gantt(TL.cids, TL.types)}</div>
   </div>
-  <div class="card" style="margin-top:12px"><h2>${lang==='zh'?'逐月政策明细':'Month-by-month detail'}</h2><div class="twrap"><table class="tlt"><thead><tr><th style="width:60px"></th>${TL.cids.map(c=>`<th>${esc(compName(c))}</th>`).join('')}</tr></thead><tbody>${rows.join('')}</tbody></table></div></div>
+  <div class="card" style="margin-top:12px"><h2>${lang==='zh'?'逐月政策明细':'Month-by-month detail'}</h2><div class="twrap"><table class="tlt sticky"><thead><tr><th style="width:60px"></th>${TL.cids.map(c=>`<th>${esc(compName(c))}</th>`).join('')}</tr></thead><tbody>${rows.join('')}</tbody></table></div></div>
   <div class="card" style="margin-top:12px"><h2>${lang==='zh'?`${YEAR} 年全部政策记录`:`All ${YEAR} policy records`} <span class="small">${all.length}</span></h2>
     <div class="filters"><select id="tl_brand"><option value="">${lang==='zh'?'品牌：全部':'Brand: all'}</option>${brands.map(b=>`<option value="${b}" ${TL.brand===b?'selected':''}>${esc(brandZh(b))}</option>`).join('')}</select><span class="small">${lang==='zh'?'来源更新：':'Feeds updated: '}${fmtTime(D.policy.updated)} · ${D.policy.n_sources_ok}/${D.policy.n_sources} ${lang==='zh'?'个聚合页正常':'feeds ok'}</span></div>
     ${all.slice(0,250).map(evLine).join('')}
@@ -156,7 +156,7 @@ window.renderBenchmark = function(){
   </div>
   <div class="card" style="margin-top:12px"><h2>${zh?'证据局限':'Limitations'}</h2><ul class="small">${(G.gaps||[]).map(g=>`<li>${esc(g)}</li>`).join('')}</ul></div>
   <div class="card" style="margin-top:12px"><h2>${zh?'实时监控：DAP（NSW / VIC）':'Live: DAP (NSW / VIC)'} <span class="small">${D.dap?fmtTime(D.dap.updated):''}</span></h2>
-    <div class="twrap"><table><thead><tr><th>${zh?'车型':'Model'}</th><th>${zh?'版本':'Variant'}</th><th class="num">NSW DAP</th><th class="num">VIC DAP</th><th class="num">${zh?'较首次记录':'vs first seen'}</th><th>${zh?'走势（NSW）':'Trend (NSW)'}</th><th>${zh?'记录期间':'Window'}</th><th></th></tr></thead><tbody>${dapRows}</tbody></table></div>
+    <div class="twrap"><table class="sticky"><thead><tr><th>${zh?'车型':'Model'}</th><th>${zh?'版本':'Variant'}</th><th class="num">NSW DAP</th><th class="num">VIC DAP</th><th class="num">${zh?'较首次记录':'vs first seen'}</th><th>${zh?'走势（NSW）':'Trend (NSW)'}</th><th>${zh?'记录期间':'Window'}</th><th></th></tr></thead><tbody>${dapRows}</tbody></table></div>
     <div class="small" style="margin-top:6px">${zh?'来源：thebeep.com.au 车型页 JSON-LD（各州上路价，按日记录，价格变化时新增记录点）。':'Source: thebeep.com.au model pages (state drive-away prices; a point is recorded per day when the price changes).'}</div></div>
   <div class="card" style="margin-top:12px"><h2>${zh?'实时监控：奔驰、宝马、奥迪现行政策':'Live: current Mercedes-Benz / BMW / Audi offers'} <span class="small">${live.length}</span></h2>${live.map(evLine).join('')||`<div class="small">—</div>`}</div>`;
 };
