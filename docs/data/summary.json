@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T09:16:49+00:00",
- "duration_s": 124.8,
- "items_total": 878,
- "new_this_run": 198,
+ "generated": "2026-10-21T09:21:45+00:00",
+ "duration_s": 288.1,
+ "items_total": 884,
+ "new_this_run": 205,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
@@ -13,7 +13,7 @@
   "competitor_news_7d": 113,
   "launch_signals_7d": 31,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 68,
+  "zeekr_news_7d": 74,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -165,7 +165,7 @@
    "date": "2026-10-16",
    "complaints": 3,
    "competitor_news": 13,
-   "zeekr_news": 10
+   "zeekr_news": 11
   },
   {
    "date": "2026-10-17",
@@ -189,7 +189,7 @@
    "date": "2026-10-20",
    "complaints": 2,
    "competitor_news": 17,
-   "zeekr_news": 19
+   "zeekr_news": 24
   },
   {
    "date": "2026-10-21",
@@ -985,7 +985,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 25,
+   "count": 27,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1165,7 +1165,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1189,229 +1189,229 @@
    "note": "GOOGLE_MAPS_API_KEY not set – store reviews skipped"
   },
   "beep-zeekr/7x": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-zeekr/x": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-zeekr/009": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-mercedes-benz/eqa-suv": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 1,
+   "note": "via mirror"
   },
   "beep-mercedes-benz/cla-coupe": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": "via mirror"
   },
   "beep-mercedes-benz/glc-suv": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": "via mirror"
   },
   "beep-bmw/ix1": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 1,
+   "note": "via mirror"
   },
   "beep-bmw/ix2": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 1,
+   "note": "via mirror"
   },
   "beep-bmw/i4-gran-coupe": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 1,
+   "note": "via mirror"
   },
   "beep-audi/q4-e-tron": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-audi/q4-sportback-e-tron": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-audi/q6-e-tron": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-audi/a5-avant": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-tesla/model-y": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 4,
+   "note": "via mirror"
   },
   "beep-byd/sealion-7": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-xpeng/g6": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-kia/ev5": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 4,
+   "note": "via mirror"
   },
   "beep-smart/5": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-hyundai/elexio": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-polestar/4": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 4,
+   "note": "via mirror"
   },
   "beep-volvo/ex30": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-smart/1": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-tesla/model-3": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 4,
+   "note": "via mirror"
   },
   "beep-byd/seal": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": "via mirror"
   },
   "beep-polestar/2": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": "via mirror"
   },
   "beep-prices": {
-   "ok": false,
-   "count": 0,
-   "note": "0 models"
+   "ok": true,
+   "count": 25,
+   "note": "25 models"
   },
   "beep-offers-mercedes-benz": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-bmw": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-audi": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-tesla": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": ""
   },
   "beep-offers-byd": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-xpeng": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTP 403"
+   "note": ""
   },
   "beep-offers-kia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-smart": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": ""
   },
   "beep-offers-hyundai": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-polestar": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-volvo": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": ""
   },
   "beep-offers-geely": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-zeekr": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 1,
+   "note": ""
   },
   "beep-offers-leapmotor": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-deepal": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 2,
+   "note": ""
   },
   "beep-offers-mg": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-mini": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-lexus": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 1,
+   "note": ""
   },
   "beep-offers-denza": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 3,
+   "note": ""
   },
   "zecar-offers-mercedes-benz": {
    "ok": true,
@@ -1510,8 +1510,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 19/38 feeds ok"
+   "count": 1,
+   "note": "1 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,

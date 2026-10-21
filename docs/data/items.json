@@ -351,6 +351,39 @@
   "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
+  "id": "f03c5f90bfec5f79",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPelU1akJEMXJyTXVCamxVV1I4eU5tNzJsX0ZJbzBCX3MyYWYtUjk3a3lZZHVjSjloSmNOQzlEekplRHVIYnFDb2Jvbk5WVG5UOVUxbVJKTUlSZGFqeFFaWkpQNm9fNDBlNk14WE0ta3VGaklTNkhieUgteHVuQ2xlSXJ0WWREYTdHM3hRNGxzbUUza0RaY0hJNGZ4dWNKQQ?oc=5",
+  "title": "Zeekr cars between $50,000 & $60,000 with electric engine range over 100km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $50,000 & $60,000 with electric engine range over 100km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T23:37:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:21:45+00:00"
+ },
+ {
   "id": "d58782f8a6909c70",
   "type": "competitor_news",
   "source": "whichcar",
@@ -799,6 +832,40 @@
   "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
+  "id": "a709cd75c10e0622",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWZvMTBLc3lXLWZJbW8xNlBLaUhRTlE2SmJnRm9qekQzdGVubEg0MXRWOUw4dWtXN01JNThoVW14QVRERzZJUDU1Y2VHdVd3bzgzMjNJdndjSFhBS0lvREhrQTRJOFU5eHQtN09waUdaSENIWHdZOVRDLWFKNGJic1FEQjlrNU9PVl9JQ1huNmpoZm1fcHVDUXNKeV9UbXh2U0tTbGJLY29hbUJQRGtpT250OHNSakcy?oc=5",
+  "title": "Zeekr Not Applicable cars between $15,000 & $50,000 with electric engine range over 100km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars between $15,000 & $50,000 with electric engine range over 100km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T16:13:21+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:21:45+00:00"
+ },
+ {
   "id": "a27604c0bfdc128e",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -831,6 +898,70 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
+  "id": "dbce4f3940e76071",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHdzRU9tek5rRS1VTGZ4bUh6ZHMtTktiLWtpWTZEeU5LQkZaNDFweXJxZ0s3d01HMXZrYzZJYW9wdk15bktEcTlCelZLbTU1aUFqNmh6S3prcUxWWmVKMnhxUjI5a05XbTRvNk9ldHJZTVNkTDJVSmRseFVrZUNkdjNnSDZDcGZJQ2gzeWVXQlVZankxVnVlN1BRRHZDVmdFdHJn?oc=5",
+  "title": "Zeekr SUV Small cars with electric engine range over 150km for sale or order in Australia - Carsales",
+  "text": "Zeekr SUV Small cars with electric engine range over 150km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T15:13:58+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:21:45+00:00"
+ },
+ {
+  "id": "2aedf8f8f844f0ed",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmdrVS1XZUkySVVwYlRVM2ZPUk9ydTh6aFBKOWRDMTZXa0Z0b2UxWUZtYkRRUVhqVlhQeE5kNlB1WHMwVEI3b1hkNnF1THVrbTJXbTZUV2NlS092VUs5VllkcGxOaXoySko3UVAxQW5SdUw5bXdHNWFaSkhmQ1BBdGFxZw?oc=5",
+  "title": "2024 Zeekr cars with electric engine range over 550km for sale or order in Australia - Carsales",
+  "text": "2024 Zeekr cars with electric engine range over 550km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T15:00:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:21:45+00:00"
  },
  {
   "id": "fbb38e11ae54f8f8",
@@ -1077,6 +1208,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T20:26:06+00:00"
+ },
+ {
+  "id": "ecfbb6f80a735832",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2lTMGpxbEVyRk9BbjIxVWx6ZDhORWRDckk1ZTJnVlFwT3NxYVZlNkRfUDk1UnJ0TnNSQmRCaW8yVDg4MGVYOWdpak92VVZBaGNNQ3VoUmdaRnFmZ0N4UkNKM0ZLeV92UmpZelpFYXlpdlZpcjRZcFBfbENGWU1sMFVodGFCTExmaC1VOFY2RW4wSGZJMHZYLXBBdjN1NHpNRHhxY2xGaFZwekI0Uk05Qw?oc=5",
+  "title": "Zeekr SUV cars with kilometres under 60,000km with electric engine range over 550km for sale in Australia - Carsales",
+  "text": "Zeekr SUV cars with kilometres under 60,000km with electric engine range over 550km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T12:24:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:21:45+00:00"
  },
  {
   "id": "4719c5c23e22eaaa",
@@ -5517,6 +5679,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T23:51:05+00:00"
+ },
+ {
+  "id": "ed708a4f47968a86",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1FDM0syVnViMGJJOG5XTGdTQkxPVFVQSjBqbDV2QndfZy1tbHJqLVAtUjBKQ3VRRHRuWjFURW9TSE5uZndtSXdjY1FRUmE1UDZ1TzBMWE13ZElPQ1BoM0FQSlBsS1pqNmh1RlBFb1pPQjJEZ0Y5dXVRYVVjRWtBa1EyWFRzaGtEQk1BUDY0RUlqX013M1ZaNjBUWmlVd2RFWXZuWjRpYjZsUlJHUE1aWDNHalhxMkN1OF80?oc=5",
+  "title": "Zeekr cars that are brands from China with kilometres under 150,000km for sale or order in Australian Capital Territory - Carsales",
+  "text": "Zeekr cars that are brands from China with kilometres under 150,000km for sale or order in Australian Capital Territory Carsales",
+  "author": "",
+  "published": "2026-10-16T14:54:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:21:45+00:00"
  },
  {
   "id": "0c6257880c9f5a9d",

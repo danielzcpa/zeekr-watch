@@ -49,8 +49,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "zeekr/x": {
    "label": "ZEEKR X",
@@ -87,8 +88,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "zeekr/009": {
    "label": "ZEEKR 009",
@@ -139,8 +141,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "mercedes-benz/eqa-suv": {
    "label": "奔驰 EQA",
@@ -163,8 +166,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "mercedes-benz/cla-coupe": {
    "label": "奔驰 CLA（新一代）",
@@ -243,8 +247,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "mercedes-benz/glc-suv": {
    "label": "奔驰 GLC",
@@ -323,8 +328,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "bmw/ix1": {
    "label": "宝马 iX1",
@@ -347,8 +353,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "bmw/ix2": {
    "label": "宝马 iX2",
@@ -371,8 +378,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "bmw/i4-gran-coupe": {
    "label": "宝马 i4",
@@ -395,8 +403,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "audi/q4-e-tron": {
    "label": "奥迪 Q4 e-tron",
@@ -433,8 +442,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "audi/q4-sportback-e-tron": {
    "label": "奥迪 Q4 Sportback e-tron",
@@ -471,8 +481,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "audi/q6-e-tron": {
    "label": "奥迪 Q6 e-tron",
@@ -509,8 +520,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "audi/a5-avant": {
    "label": "奥迪 A5 Avant",
@@ -561,8 +573,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "tesla/model-y": {
    "label": "Tesla Model Y",
@@ -627,8 +640,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "byd/sealion-7": {
    "label": "BYD Sealion 7",
@@ -665,8 +679,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "xpeng/g6": {
    "label": "Xpeng G6",
@@ -717,8 +732,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "kia/ev5": {
    "label": "Kia EV5",
@@ -783,8 +799,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "smart/5": {
    "label": "smart #5",
@@ -835,8 +852,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "hyundai/elexio": {
    "label": "Hyundai Elexio",
@@ -873,8 +891,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "polestar/4": {
    "label": "Polestar 4",
@@ -939,8 +958,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "volvo/ex30": {
    "label": "Volvo EX30",
@@ -991,8 +1011,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "smart/1": {
    "label": "smart #1",
@@ -1043,8 +1064,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "tesla/model-3": {
    "label": "Tesla Model 3",
@@ -1109,8 +1131,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "byd/seal": {
    "label": "BYD Seal",
@@ -1147,8 +1170,9 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   },
   "polestar/2": {
    "label": "Polestar 2",
@@ -1199,9 +1223,10 @@
      ]
     }
    },
-   "last_error": "HTTP 403",
-   "checked": "2026-10-21T09:15:16+00:00"
+   "last_error": null,
+   "checked": "2026-10-21T09:25:00+00:00",
+   "via": "mirror"
   }
  },
- "updated": "2026-10-21T09:18:20+00:00"
+ "updated": "2026-10-21T09:25:00+00:00"
 }
