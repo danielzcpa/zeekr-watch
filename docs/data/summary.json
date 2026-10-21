@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T13:08:43+00:00",
- "duration_s": 309.6,
- "items_total": 892,
- "new_this_run": 206,
+ "generated": "2026-10-21T18:13:21+00:00",
+ "duration_s": 340.0,
+ "items_total": 898,
+ "new_this_run": 203,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
@@ -10,7 +10,7 @@
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 6,
-  "competitor_news_7d": 114,
+  "competitor_news_7d": 115,
   "launch_signals_7d": 32,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 75,
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-21",
    "complaints": 0,
-   "competitor_news": 8,
-   "zeekr_news": 5
+   "competitor_news": 10,
+   "zeekr_news": 6
   }
  ],
  "categories_30d": [
@@ -487,7 +487,7 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 10,
+   "n_30d": 11,
    "launch": [
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -499,7 +499,7 @@
     "d2af0ef5c3bba679",
     "a0bad462fa5ad448"
    ],
-   "latest": "4362e9a45be33f4e"
+   "latest": "d0382fb4a965ddda"
   },
   "polestar-2": {
    "n_30d": 2,
@@ -560,10 +560,10 @@
    "latest": null
   },
   "bmw-i4": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "8defc78fc17ad815"
   },
   "denza-z9gt": {
    "n_30d": 0,
@@ -996,7 +996,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 42,
+   "count": 28,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1026,17 +1026,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 36,
+   "count": 35,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 24,
+   "count": 23,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 46,
+   "count": 50,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1046,7 +1046,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 19,
+   "count": 18,
    "note": ""
   },
   "carexpert": {
@@ -1105,14 +1105,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-Zeekr": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1127,7 +1127,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1575,9 +1575,9 @@
    "note": "unchanged"
   },
   "offers-hyundai": {
-   "ok": true,
-   "count": 9,
-   "note": "unchanged"
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.hyundai.com', port=443): Read timed out. (read timeout=20)"
   },
   "offers-tesla-my": {
    "ok": false,

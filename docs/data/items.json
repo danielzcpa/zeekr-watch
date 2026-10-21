@@ -1,5 +1,67 @@
 [
  {
+  "id": "8defc78fc17ad815",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SejVaM1I3akxzZTdQWDR4aXBrUVRtOGFYdUVNSWtUUkFkZE1lek1rVXJub0Z0N3paclgtbms5cUFmeVdVMEZMQjV0NWZBLWY3NG1aQ2llakN6YTkwVWtrb3dBLXpNS0h6ZFZxejlhTUZCc3JodWdHTEEyTQ?oc=5",
+  "title": "Check out this 2023 BMW I4 Edrive35 Gran Coupe for sale - CarsGuide",
+  "text": "Check out this 2023 BMW I4 Edrive35 Gran Coupe for sale CarsGuide",
+  "author": "",
+  "published": "2026-10-21T15:36:13+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "bmw-i4"
+  ],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T18:13:21+00:00"
+ },
+ {
+  "id": "a75e87cc717bc417",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · NewsBytes",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDJtbEhMZlJkYm44RzFvRE0ybnVQNHlyY0VSSlNZR0QyclRSYTNhOE03aVIycXRSNDFQOGtseEpmQ0k3aWFWWUxvMUFxWTV6a0lsOU1XTFllUkdPYW96T3RHTE9Ga2lzSHhFWFk2STFLMGNjYXE1WlU1WWQwdzdPdzNEMXc4WThYek84Y05Uc2dlMzVSNE00TC1CY3F3RVZKbkhRN19B?oc=5",
+  "title": "Waymo to bring 5,100 Zeekr vans, raising security concerns - NewsBytes",
+  "text": "Waymo to bring 5,100 Zeekr vans, raising security concerns NewsBytes",
+  "author": "",
+  "published": "2026-10-21T14:48:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T18:13:21+00:00"
+ },
+ {
   "id": "1e61acaaa5114c85",
   "type": "competitor_news",
   "source": "evcentral",
@@ -41,6 +103,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-21T13:08:43+00:00"
+ },
+ {
+  "id": "c2f4f7aabd75818d",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xblcz4/001_awd_vs_007gt_awd/",
+  "title": "001 AWD vs 007GT AWD",
+  "text": "I love the 001 more but the software of fhe 007GT is on another level. So please help me choose. Thanks in advance. I’m based in the GCC (Dubai). I believe that both are the same versions available in the eu.",
+  "author": "/u/zodz23",
+  "published": "2026-10-21T12:07:21+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T18:13:21+00:00"
  },
  {
   "id": "b89e8f752e996826",
@@ -251,7 +346,7 @@
  {
   "id": "a0c683f8f0e663ad",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · The Cool Down",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWJfMklSUnE1bG8xOGZWTHNsQ2Z6UmNWYTJKam9Qc2RkSjlsd2h5ZVA2VFR5S0tMVVlmVnB4TnctUWpjekk5RHV2eHBPS18zZVBocXF6T1FRR0lLSTBhdE1WTWZxbktOcVdkQmNrcERjSVFTZVpWdWpYS0pkRDNkdFJ4QQ?oc=5",
   "title": "In Australia, BYD's $19,990 EV undercuts every new car on sale, gas or electric - The Cool Down",
@@ -352,6 +447,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
+  "id": "d0382fb4a965ddda",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkZwU0NNNlJudEtlaUp1TEdPTnhhaHNsQjJLMmlUMm4tdGR4U2dfN0syLXU0c2hoSThPYkpoMm5mRndIeGw3NjZMS1RfY3pKcUVrVUhlZXR4VFJQaDY4ZjdEYXFyVXc4RTZ0VkJFQkpHWnFNRFJGYjB0SnEyVGZpVnNRNWdjdVVwMHdYTURCd2FHNlRfSzN5Z1EzMUI?oc=5",
+  "title": "2023 Tesla Model 3 Long Range Auto AWD - Carsales",
+  "text": "2023 Tesla Model 3 Long Range Auto AWD Carsales",
+  "author": "",
+  "published": "2026-10-21T01:27:26+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T18:13:21+00:00"
  },
  {
   "id": "0f37aca95c083fcd",
@@ -1856,7 +1986,7 @@
  {
   "id": "19af34d58af98766",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnVnZnNGWkdJN0poc3FOUkJFZG80YTR2VlZ1TkU3OG5EZVdBUFJQYk5FUTVBdF9fcDEwWkZNR0hmMWtreFoyR0lVZU5TZWtsbjRKNmM0X0thR0JaRVFJejMtRy1yaHZzdGZSZmNVLWFjME1GLVRzVzdzUVlUZTRzZE9MSGdkM2JqZFQtbVNqVzA3NlFOQmdhTHJWUWU4YjVJU3lPNERqbmVDRVhhdHU5QktsVGhub1RoNDRfNTRHQXJNV05odHN3?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced in Australia ahead of upcoming battle with 2027 BMW i3 luxury EV sedan - CarsGuide",
@@ -21293,6 +21423,37 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "89838b8ad7d5097f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNk9KbXVza2lRejJreEhwMTZFVW5lYm9QOUItcEZMNEJmdDBZUzVXR2g5eVlLU09QQlZXS3hHX3hwZnJZeTdjVHJBYTE0QkZEWlVRTkxUVkROVHpubjhfUG5HVktJc3lQXzJNSnZpYnVMbkQ1dmZ0WnlEQUVjdF9UazNSN1AtWWc?oc=5",
+  "title": "This new EV could be the Zeekr 7X's worst nightmare - Drive",
+  "text": "This new EV could be the Zeekr 7X's worst nightmare Drive",
+  "author": "",
+  "published": "2026-09-10T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -4,
+   "neg_hits": 4,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T18:13:21+00:00"
+ },
+ {
   "id": "93a72529fa418dbe",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -22180,6 +22341,35 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "62b5d25f7aad2e52",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdXZVQ2kxRDlBckU5alN5NUZ1TlM0SjY4MGJjSEhtMEJqRWdjQ3F0MXFaYWpoYkxOSkgtRlhiMURMdE5HQWhJQkVfUk0tU2NISDhMWnBIQ004MUlIV2lUMF9YMUlZYldMSXJpVlFuakFKaF9SZk5TQXFNNGxXTk9HQ2J2TFN0SVZ3MEVMY28wcUpoMExIeWJQbHE4amROWk4zZGpZQUhQYk0zUEhBQVZ2SUxsTkh3ZUNwZTBXRmlmdzBQMFk?oc=5",
+  "title": "A chief designer at Zeekr has explained the brand's different design languages - CarsGuide",
+  "text": "A chief designer at Zeekr has explained the brand's different design languages CarsGuide",
+  "author": "",
+  "published": "2026-09-05T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T18:13:21+00:00"
  },
  {
   "id": "e76051c152431714",
@@ -24447,40 +24637,6 @@
   "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
-  "id": "eff2def3afc45d13",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNOd09lTDBtMFdXcWx4WG45UnRqZWVweVJ5ZncyLTU5ZzNMVVRlNFFtUjh6TlJpZUdJWk1lVWh0WXZvcFFIRURkdUhadXV3TDF5Q1J3azdYQ3RFMEFBMk44NUpqMGRTSHloREFuempINV9ickY3ZzBhWGdUNE5yQzdmQkxOb3JfUzNxcWtzZnFXdS02SFhYdHVGRXRvYl9NTEFFTmtWOXo1NG05MEo5Q1d5N1c?oc=5",
-  "title": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch - CarExpert",
-  "text": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch CarExpert",
-  "author": "",
-  "published": "2026-08-19T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "386ee800bfec78d5",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -24578,6 +24734,40 @@
    "version": "1.6.2",
    "thumbs": 3
   },
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "eff2def3afc45d13",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmNOd09lTDBtMFdXcWx4WG45UnRqZWVweVJ5ZncyLTU5ZzNMVVRlNFFtUjh6TlJpZUdJWk1lVWh0WXZvcFFIRURkdUhadXV3TDF5Q1J3azdYQ3RFMEFBMk44NUpqMGRTSHloREFuempINV9ickY3ZzBhWGdUNE5yQzdmQkxOb3JfUzNxcWtzZnFXdS02SFhYdHVGRXRvYl9NTEFFTmtWOXo1NG05MEo5Q1d5N1c?oc=5",
+  "title": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch - CarExpert",
+  "text": "Zeekr 8X and 9X preview: Luxury SUVs driven on ice ahead of Australian launch CarExpert",
+  "author": "",
+  "published": "2026-08-18T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
