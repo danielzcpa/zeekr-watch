@@ -43,29 +43,48 @@ window.monthStrip = function(cid){
 };
 
 // ---------------------------------------------------------------- gantt
+function dedupe(evs){
+  // one bar per policy: curated baseline wins over Zecar over The Beep. Two records of the same type whose
+  // start dates are within 31 days and end dates within 7 days (or identical titles) are treated as one policy.
+  const rank={baseline:0, zecar:1, thebeep:2};
+  const D1=86400000; const t=s=>{ const d=dayOf(s||''); return d?d.getTime():null; };
+  const norm=e=>(e.title||'').toLowerCase().replace(/[^a-z0-9一-鿿]/g,'');
+  const sorted=[...evs].sort((a,b)=>((rank[a.source]??3)-(rank[b.source]??3))||(a.start||'').localeCompare(b.start||''));
+  const kept=[];
+  for(const e of sorted){
+    const es=t(e.start), ee=e.end?t(e.end):null;
+    const dup=kept.some(k=>{ if(norm(k)===norm(e)) return true; if(k.type!==e.type) return false; const ks=t(k.start), ke=k.end?t(k.end):null;
+      if(es==null||ks==null||Math.abs(es-ks)>31*D1) return false; if(ee==null&&ke==null) return Math.abs(es-ks)<=7*D1; if(ee==null||ke==null) return false; return Math.abs(ee-ke)<=7*D1; });
+    if(!dup) kept.push(e);
+  }
+  return kept;
+}
+function fitText(t, px){ let acc=0, out=''; for(const ch of t){ acc += ch.charCodeAt(0)>0x2e80 ? 11.2 : 6.3; if(acc>px) return out ? out.replace(/\s+$/,'')+'…' : ''; out+=ch; } return out; }
 function gantt(cids, types){
-  const W=1180, L=190, R=16, rowGap=10, laneH=18, top=34;
+  const W=1240, L=168, R=14, laneH=30, barH=22, rowPad=10, top=40;
   const ms = []; for(let m=0;m<12;m++) ms.push(Date.UTC(YEAR,m,1)); ms.push(y1);
   const x = t => L + (t-y0)/(y1-y0)*(W-L-R);
-  let y = top; let out=[]; let rowsHtml=[];
-  for(const cid of cids){
-    const evs = eventsIn(cid).filter(e=>!types.size||types.has(e.type)).map(e=>({e, r:clampYear(e.start,e.end)})).filter(o=>o.r).sort((a,b)=>a.r[0]-b.r[0]);
-    const lanes=[]; // lane end times
-    const placed = evs.map(o=>{ let li=lanes.findIndex(end=>end<=o.r[0]); if(li<0){ li=lanes.length; lanes.push(0);} lanes[li]=o.r[1]+2*86400000; return {...o, lane:li}; });
-    const h = Math.max(1,lanes.length)*laneH + rowGap;
-    rowsHtml.push(`<rect x="0" y="${y-4}" width="${W}" height="${h}" fill="${rowsHtml.length%2?'#F6F8F5':'#FFFFFF'}"/>`);
-    rowsHtml.push(`<text x="${L-10}" y="${y+laneH*Math.max(1,lanes.length)/2+1}" text-anchor="end" font-size="12" font-weight="600" fill="var(--ink)">${esc(compName(cid))}</text>`);
+  let y = top; const rows=[]; const bars=[];
+  cids.forEach((cid,ri)=>{
+    const evs = dedupe(eventsIn(cid).filter(e=>!types.size||types.has(e.type))).map(e=>({e, r:clampYear(e.start,e.end)})).filter(o=>o.r).sort((a,b)=>a.r[0]-b.r[0]||b.r[1]-a.r[1]);
+    const lanes=[];
+    const placed = evs.map(o=>{ let li=lanes.findIndex(end=>end<=o.r[0]); if(li<0){ li=lanes.length; lanes.push(0);} lanes[li]=o.r[1]+3*86400000; return {...o, lane:li}; });
+    const n=Math.max(1,lanes.length); const h=n*laneH+rowPad;
+    if(ri%2) rows.push(`<rect x="0" y="${y}" width="${W}" height="${h}" fill="var(--surface2)" opacity="0.55"/>`);
+    rows.push(`<line x1="0" x2="${W}" y1="${y+h}" y2="${y+h}" stroke="var(--line)"/>`);
+    rows.push(`<text x="${L-12}" y="${y+h/2-2}" text-anchor="end" font-size="13" font-weight="650" fill="var(--ink)">${esc(compName(cid))}</text><text x="${L-12}" y="${y+h/2+13}" text-anchor="end" font-size="10.5" fill="var(--muted)">${placed.length} ${lang==='zh'?'项政策':'policies'}</text>`);
     for(const p of placed){
-      const x1=x(p.r[0]), x2=Math.max(x(p.r[1]), x1+6), yy=y+p.lane*laneH;
-      const col=tcol(p.e.type); const open=p.r[2];
-      rowsHtml.push(`<a href="${esc(p.e.url||'#')}" target="_blank"><rect x="${x1}" y="${yy}" width="${x2-x1}" height="${laneH-5}" rx="3" fill="${col}" opacity="${open?0.55:0.9}"><title>${esc(p.e.title)}\n${esc(p.e.start)}${p.e.end?' → '+esc(p.e.end):''}\n${esc(tname(p.e.type))} · ${esc(SRC[p.e.source]||p.e.source)}</title></rect>${(x2-x1)>70?`<text x="${x1+5}" y="${yy+laneH-9}" font-size="10" fill="#fff">${esc(p.e.title.slice(0, Math.floor((x2-x1)/6.2)))}</text>`:''}</a>`);
+      const x1=x(p.r[0]), x2=Math.max(x(p.r[1]), x1+8), yy=y+rowPad/2+p.lane*laneH+(laneH-barH)/2;
+      const col=tcol(p.e.type); const open=p.r[2]; const w=x2-x1;
+      const label = w>44 ? esc(fitText(p.e.title, w-12)) : '';
+      bars.push(`<a href="${esc(p.e.url||'#')}" target="_blank"><rect x="${x1}" y="${yy}" width="${w}" height="${barH}" rx="4" fill="${col}" opacity="${open?0.5:0.92}"${open?' stroke="'+col+'" stroke-dasharray="3 2"':''}><title>${esc(p.e.title)}\n${esc(p.e.start)}${p.e.end?' → '+esc(p.e.end):(lang==='zh'?'（未注明截止）':' (open)')}\n${esc(tname(p.e.type))} · ${esc(SRC[p.e.source]||p.e.source)}</title></rect>${label?`<text x="${x1+6}" y="${yy+barH/2+4}" font-size="11" fill="#fff" style="pointer-events:none">${label}</text>`:''}</a>`);
     }
     y += h;
-  }
-  const H = y + 8;
-  const grid = ms.slice(0,12).map((m,i)=>`<line x1="${x(m)}" x2="${x(m)}" y1="${top-6}" y2="${H}" stroke="var(--line)"/><text x="${(x(m)+x(ms[i+1]))/2}" y="${top-12}" text-anchor="middle" font-size="11" fill="var(--muted)">${mname(i)}</text>`).join('');
-  const today = Date.now(); const todayLine = (today>y0&&today<y1)?`<line x1="${x(today)}" x2="${x(today)}" y1="${top-6}" y2="${H}" stroke="#B23A3A" stroke-dasharray="4 3"/><text x="${x(today)+4}" y="${H-2}" font-size="10" fill="#B23A3A">${lang==='zh'?'今日':'today'}</text>`:'';
-  return `<svg viewBox="0 0 ${W} ${H}" class="gantt" role="img">${rowsHtml.join('')}${grid}${todayLine}</svg>`;
+  });
+  const H = y + 22;
+  const header = `<rect x="${L}" y="${top-28}" width="${W-L-R}" height="24" rx="4" fill="var(--green4)"/>` + ms.slice(0,12).map((m,i)=>`<line x1="${x(m)}" x2="${x(m)}" y1="${top-4}" y2="${y}" stroke="var(--line)"${i%3===0?' stroke-width="1.6"':' stroke-dasharray="2 3"'}/><text x="${(x(m)+x(ms[i+1]))/2}" y="${top-11}" text-anchor="middle" font-size="12" font-weight="600" fill="var(--greenInk)">${mname(i)}</text>`).join('') + `<line x1="${x(y1)}" x2="${x(y1)}" y1="${top-4}" y2="${y}" stroke="var(--line)" stroke-width="1.6"/>`;
+  const today = Date.now(); const todayLine = (today>y0&&today<y1)?`<line x1="${x(today)}" x2="${x(today)}" y1="${top-4}" y2="${y}" stroke="var(--bad)" stroke-width="1.5" stroke-dasharray="5 3"/><rect x="${x(today)-18}" y="${y+4}" width="36" height="16" rx="8" fill="var(--bad)"/><text x="${x(today)}" y="${y+16}" text-anchor="middle" font-size="10.5" fill="#fff">${lang==='zh'?'今日':'today'}</text>`:'';
+  return `<svg viewBox="0 0 ${W} ${H}" class="gantt" role="img">${rows.join('')}${header}${bars.join('')}${todayLine}</svg>`;
 }
 
 // ---------------------------------------------------------------- timeline page
@@ -76,9 +95,9 @@ window.renderTimeline = function(){
   const pool = D.bench.focus_pool||[];
   const chips = pool.map(c=>`<button class="btn${TL.cids.includes(c)?' active':''}" data-cid="${c}">${esc(compName(c))}</button>`).join(' ');
   const typeChips = Object.keys(TYPES).map(t=>`<button class="btn tchip${TL.types.has(t)?' active':''}" data-t="${t}" style="border-color:${tcol(t)}55"><i style="display:inline-block;width:9px;height:9px;border-radius:2px;background:${tcol(t)};margin-right:5px;vertical-align:middle"></i>${tname(t)}</button>`).join(' ');
-  const legend = `<div class="small" style="margin:6px 0 4px">${lang==='zh'?'颜色 = 政策类型；浅色条 = 未注明截止日期（按 14 天显示）；点击色条打开来源。':'Colour = policy type; faded bar = no end date stated (shown as 14 days); click a bar to open the source.'}</div>`;
+  const legend = `<div class="small" style="margin:6px 0 4px">${lang==='zh'?'颜色 = 政策类型；虚线浅色条 = 未注明截止日期（按 14 天显示）；同一政策在多个来源重复出现时只保留一条；点击色条打开来源。':'Colour = policy type; dashed faded bar = no end date stated (shown as 14 days); a policy listed by several sources is drawn once; click a bar to open the source.'}</div>`;
   // month-by-month table: rows = months, columns = selected competitors
-  const cellFor=(cid,m)=>{ const ms=Date.UTC(YEAR,m,1), me=Date.UTC(YEAR,m+1,1); const inM=eventsIn(cid).filter(e=>(!TL.types.size||TL.types.has(e.type))&&(()=>{const r=clampYear(e.start,e.end);return r&&r[0]<me&&r[1]>ms;})()); return inM.map(e=>`<div class="tlc"><span class="badge" style="background:${tcol(e.type)}22;color:${tcol(e.type)}">${tname(e.type)}</span> <a href="${esc(e.url||'#')}" target="_blank" rel="noopener" title="${esc(e.detail||'')}">${esc(e.title.slice(0,90))}</a> <span class="small">${esc(e.start||'')}${e.end?'→'+esc(e.end):''}</span></div>`).join('')||'<span class="small">—</span>'; };
+  const cellFor=(cid,m)=>{ const ms=Date.UTC(YEAR,m,1), me=Date.UTC(YEAR,m+1,1); const inM=dedupe(eventsIn(cid).filter(e=>(!TL.types.size||TL.types.has(e.type)))).filter(e=>(()=>{const r=clampYear(e.start,e.end);return r&&r[0]<me&&r[1]>ms;})()).sort((a,b)=>(a.start||'').localeCompare(b.start||'')); return inM.map(e=>`<div class="tlc"><span class="badge" style="background:${tcol(e.type)}22;color:${tcol(e.type)}">${tname(e.type)}</span> <a href="${esc(e.url||'#')}" target="_blank" rel="noopener" title="${esc(e.detail||'')}">${esc(e.title.slice(0,90))}</a> <span class="small">${esc(e.start||'')}${e.end?'→'+esc(e.end):''}</span></div>`).join('')||'<span class="small">—</span>'; };
   const now=new Date(); const curM=now.getUTCFullYear()===YEAR?now.getUTCMonth():-1;
   const rows=[]; for(let m=0;m<12;m++) rows.push(`<tr${m===curM?' class="curm"':''}><th style="white-space:nowrap">${mname(m)}</th>${TL.cids.map(cid=>`<td>${cellFor(cid,m)}</td>`).join('')}</tr>`);
   // all events list by brand for the year
@@ -124,12 +143,8 @@ window.renderBenchmark = function(){
   const lbars = G.listings_q4.filter(r=>r.pct!=null).sort((a,b)=>b.pct-a.pct).map(r=>[`${BZ(r.brand)} ${r.model.replace(/（.*?）/g,'')}`, r.pct]);
   const hb = pairs => { const max=Math.max(1,...pairs.map(p=>p[1])); return pairs.map(p=>`<div class="bar-row" style="grid-template-columns:260px 1fr 56px"><div style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${esc(p[0])}">${esc(p[0])}</div><div><div class="bar" style="width:${100*p[1]/max}%;background:var(--bad)"></div></div><div class="n">−${p[1]}%</div></div>`).join(''); };
   document.getElementById('benchmark').innerHTML = `
-  <div class="note">${zh?'奔驰、宝马、奥迪在 7X / 7GT 价格带的终端价格证据。上半部分为实时监控（每 30 分钟）：The Beep 各州 DAP 与三个品牌的现行政策；下半部分为 2026-10-21 人工核定的基线（第四季度官方政策、展车挂牌价、MSRP 调整、金融贴息演变）。MSRP = 厂商指导价（不含上路费用）；DAP = 上路价（drive-away price）。':'Terminal-price evidence for Mercedes-Benz, BMW and Audi in the 7X / 7GT band. Top: live monitoring (every 30 min) of state DAP from The Beep and current offers; bottom: curated baseline as at 2026-10-21. MSRP = list price before on-roads; DAP = drive-away price.'}</div>
-  <div class="card"><h2>${zh?'实时监控：DAP（NSW / VIC）':'Live: DAP (NSW / VIC)'} <span class="small">${D.dap?fmtTime(D.dap.updated):''}</span></h2>
-    <div class="twrap"><table><thead><tr><th>${zh?'车型':'Model'}</th><th>${zh?'版本':'Variant'}</th><th class="num">NSW DAP</th><th class="num">VIC DAP</th><th class="num">${zh?'较首次记录':'vs first seen'}</th><th>${zh?'走势（NSW）':'Trend (NSW)'}</th><th>${zh?'记录期间':'Window'}</th><th></th></tr></thead><tbody>${dapRows}</tbody></table></div>
-    <div class="small" style="margin-top:6px">${zh?'来源：thebeep.com.au 车型页 JSON-LD（各州上路价，按日记录，价格变化时新增记录点）。':'Source: thebeep.com.au model pages (state drive-away prices; a point is recorded per day when the price changes).'}</div></div>
-  <div class="card" style="margin-top:12px"><h2>${zh?'实时监控：奔驰、宝马、奥迪现行政策':'Live: current Mercedes-Benz / BMW / Audi offers'} <span class="small">${live.length}</span></h2>${live.map(evLine).join('')||`<div class="small">—</div>`}</div>
-  <div class="card" style="margin-top:12px"><h2>${zh?'基线一：2026 年第四季度官方政策（2026-10-21 核定）':'Baseline 1: Q4 2026 official offers (as at 2026-10-21)'}</h2>
+  <div class="note">${zh?'奔驰、宝马、奥迪在 7X / 7GT 价格带的终端价格证据。前半部分为 2026-10-21 人工核定的基线（第四季度官方政策、展车挂牌价、MSRP 调整、金融贴息演变）；后半部分为实时监控（每 30 分钟）：The Beep 各州 DAP 与三个品牌的现行政策。MSRP = 厂商指导价（不含上路费用）；DAP = 上路价（drive-away price）。':'Terminal-price evidence for Mercedes-Benz, BMW and Audi in the 7X / 7GT band. First the curated baseline as at 2026-10-21; then live monitoring (every 30 min) of state DAP from The Beep and current offers. MSRP = list price before on-roads; DAP = drive-away price.'}</div>
+  <div class="card"><h2>${zh?'基线一：2026 年第四季度官方政策（2026-10-21 核定）':'Baseline 1: Q4 2026 official offers (as at 2026-10-21)'}</h2>
     <div class="twrap"><table><thead><tr><th>${zh?'品牌':'Brand'}</th><th>${zh?'车型 / 政策':'Model / offer'}</th><th class="num">MSRP</th><th class="num">${zh?'常规 DAP':'Normal DAP'}</th><th class="num">${zh?'政策 DAP':'Offer DAP'}</th><th class="num">${zh?'折扣':'Discount'}</th><th>${zh?'有效期':'Valid'}</th><th>${zh?'说明':'Note'}</th></tr></thead><tbody>${q4}</tbody></table></div><h3>${zh?'官方政策折扣幅度（对常规 DAP）':'Official-offer discount vs normal DAP'}</h3>${hb(bars)}</div>
   <div class="card" style="margin-top:12px"><h2>${zh?'基线二：展车 / 近新车挂牌价（2026-10-21 快照）':'Baseline 2: demo / near-new listings (snapshot 2026-10-21)'}</h2>
     <div class="twrap"><table><thead><tr><th>${zh?'品牌':'Brand'}</th><th>${zh?'车型':'Model'}</th><th class="num">km</th><th>${zh?'地点':'Location'}</th><th class="num">${zh?'常规 DAP':'Normal DAP'}</th><th class="num">${zh?'挂牌 DAP':'Asking DAP'}</th><th class="num">${zh?'折扣':'Discount'}</th><th>${zh?'调价轨迹':'Price history'}</th></tr></thead><tbody>${lst}</tbody></table></div>
@@ -139,6 +154,10 @@ window.renderBenchmark = function(){
     <div class="card"><h2>${zh?'基线三：2026 年官方 MSRP 调整':'Baseline 3: 2026 MSRP changes'}</h2><div class="twrap"><table><thead><tr><th>${zh?'日期':'Date'}</th><th>${zh?'车型':'Model'}</th><th class="num">MSRP</th><th class="num">%</th><th>${zh?'说明':'Note'}</th></tr></thead><tbody>${cuts}</tbody></table></div></div>
     <div class="card"><h2>${zh?'基线四：金融贴息演变':'Baseline 4: finance subvention timeline'}</h2><div class="twrap"><table><thead><tr><th>${zh?'品牌':'Brand'}</th><th>${zh?'时间':'Period'}</th><th>${zh?'政策':'Offer'}</th></tr></thead><tbody>${fin}</tbody></table></div></div>
   </div>
-  <div class="card" style="margin-top:12px"><h2>${zh?'证据局限':'Limitations'}</h2><ul class="small">${(G.gaps||[]).map(g=>`<li>${esc(g)}</li>`).join('')}</ul></div>`;
+  <div class="card" style="margin-top:12px"><h2>${zh?'证据局限':'Limitations'}</h2><ul class="small">${(G.gaps||[]).map(g=>`<li>${esc(g)}</li>`).join('')}</ul></div>
+  <div class="card" style="margin-top:12px"><h2>${zh?'实时监控：DAP（NSW / VIC）':'Live: DAP (NSW / VIC)'} <span class="small">${D.dap?fmtTime(D.dap.updated):''}</span></h2>
+    <div class="twrap"><table><thead><tr><th>${zh?'车型':'Model'}</th><th>${zh?'版本':'Variant'}</th><th class="num">NSW DAP</th><th class="num">VIC DAP</th><th class="num">${zh?'较首次记录':'vs first seen'}</th><th>${zh?'走势（NSW）':'Trend (NSW)'}</th><th>${zh?'记录期间':'Window'}</th><th></th></tr></thead><tbody>${dapRows}</tbody></table></div>
+    <div class="small" style="margin-top:6px">${zh?'来源：thebeep.com.au 车型页 JSON-LD（各州上路价，按日记录，价格变化时新增记录点）。':'Source: thebeep.com.au model pages (state drive-away prices; a point is recorded per day when the price changes).'}</div></div>
+  <div class="card" style="margin-top:12px"><h2>${zh?'实时监控：奔驰、宝马、奥迪现行政策':'Live: current Mercedes-Benz / BMW / Audi offers'} <span class="small">${live.length}</span></h2>${live.map(evLine).join('')||`<div class="small">—</div>`}</div>`;
 };
 })();

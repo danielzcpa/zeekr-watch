@@ -92,7 +92,7 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
 .mcell{border:1px solid var(--line);border-radius:3px;padding:1px 0 2px;text-align:center;font-size:9px;line-height:1.1;color:var(--muted);min-height:20px;white-space:nowrap}
 .mcell.has{background:var(--green4);color:var(--greenInk)}.mcell.cur{outline:1.5px solid var(--green)}
 .mcell .dots{display:flex;justify-content:center;gap:1px;margin-top:1px}.mcell .dots i{display:block;width:5px;height:5px;border-radius:50%}
-.gantt{width:100%;min-width:900px;height:auto;display:block}
+.gantt{width:100%;min-width:1000px;height:auto;display:block}
 .tlt th{vertical-align:top}.tlt{table-layout:fixed;width:100%}.tlt td{vertical-align:top;font-size:11.5px;word-break:break-word}.tlt tr.curm th{color:var(--green);}.tlt tr.curm td{background:var(--green4)}.tlc{margin-bottom:5px;line-height:1.35}
 </style>
 </head>
@@ -113,7 +113,7 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
   <div class="tab" data-tab="launches" data-i="t.launches">竞品上市</div>
   <div class="tab" data-tab="prices" data-i="t.prices">价格与销售政策</div>
   <div class="tab" data-tab="timeline" data-i="t.timeline">政策时间线 2026</div>
-  <div class="tab" data-tab="benchmark" data-i="t.benchmark">终端折扣证据</div>
+  <div class="tab" data-tab="benchmark" data-i="t.benchmark">终端折扣</div>
   <div class="tab" data-tab="matrix" data-i="t.matrix">对标矩阵</div>
   <div class="tab" data-tab="sources" data-i="t.sources">数据源状态</div>
 </div></nav>
@@ -140,7 +140,7 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
 <footer><span data-i="footer">数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。</span></footer>
 <script>
 const I18N = {
- zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.prices":"价格与销售政策","t.timeline":"政策时间线 2026","t.benchmark":"终端折扣证据","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
+ zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.prices":"价格与销售政策","t.timeline":"政策时间线 2026","t.benchmark":"终端折扣","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
   footer:"数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。",
   updated:"更新于",next:"下次约",k24:"近 24 小时投诉",k7:"近 7 天投诉",khigh:"高严重度（7 天）",klaunch:"竞品上市信号（7 天）",koffer:"竞品价格/政策信号（7 天）",kpage:"官网政策页面变化（7 天）",knews:"ZEEKR 相关报道（7 天）",kitems:"数据库条目",
   alerts:"需要关注",noalerts:"近 72 小时无新的高严重度投诉或竞品重大信号。",series:"近 30 天趋势（按发布日期）",cats:"投诉分类（近 30 天）",models:"涉及车型（近 30 天）",srcs:"投诉来源（近 30 天）",
@@ -160,7 +160,7 @@ const I18N = {
   f_win:"时间",w24:"近 24 小时",w7:"近 7 天",w30:"近 30 天",f_news:"ZEEKR 报道/官方",l_sig:"信号",l_sig_launch:"上市/发布信号",l_sig_offer:"价格/政策信号",l_sig_all:"全部竞品动态",
   login_t:"ZEEKR 澳洲市场监控",login_p:"请输入访问密码",login_b:"进入",login_e:"密码不正确",logout:"退出",
  },
- en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Discount evidence","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
+ en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Terminal discounts","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
   footer:"Public sources only (Google News, industry RSS, Reddit, ProductReview, OzBargain, app stores, Google Maps, brand sites). Rule-based keyword classification for internal reference; verify against the original before acting.",
   updated:"Updated",next:"Next ~",k24:"Complaints, 24h",k7:"Complaints, 7d",khigh:"High severity, 7d",klaunch:"Launch signals, 7d",koffer:"Price / offer signals, 7d",kpage:"Offer-page changes, 7d",knews:"ZEEKR coverage, 7d",kitems:"Items in database",
   alerts:"Needs attention",noalerts:"No new high-severity complaints or major competitor signals in the last 72 hours.",series:"30-day trend (by publish date)",cats:"Complaint categories, 30d",models:"Models mentioned, 30d",srcs:"Complaint sources, 30d",
@@ -413,6 +413,6 @@ async function load(){
 }
 if(gateOK()) load().catch(e=>{ document.getElementById('loading').textContent='Load failed: '+e.message; }); else showGate();
 </script>
-<script src="timeline.js?v=1"></script>
+<script src="timeline.js?v=2"></script>
 </body>
 </html>
