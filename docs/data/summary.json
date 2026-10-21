@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T18:13:21+00:00",
- "duration_s": 340.0,
- "items_total": 898,
- "new_this_run": 203,
+ "generated": "2026-10-21T21:56:09+00:00",
+ "duration_s": 350.3,
+ "items_total": 904,
+ "new_this_run": 209,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 6,
-  "competitor_news_7d": 115,
-  "launch_signals_7d": 32,
-  "offer_signals_7d": 5,
-  "zeekr_news_7d": 75,
+  "competitor_news_7d": 113,
+  "launch_signals_7d": 30,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 77,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -189,12 +189,12 @@
    "date": "2026-10-20",
    "complaints": 2,
    "competitor_news": 17,
-   "zeekr_news": 26
+   "zeekr_news": 29
   },
   {
    "date": "2026-10-21",
    "complaints": 0,
-   "competitor_news": 10,
+   "competitor_news": 11,
    "zeekr_news": 6
   }
  ],
@@ -975,17 +975,6 @@
    "title": "Mazda 官网政策页面变化（+0 / −2 行）",
    "source": "https://www.mazda.com.au/offers/",
    "t": "2026-10-18T22:35:47+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "0740f7c371cf05aa",
-   "title": "Mazda rules out CX-5 plug-in hybrid to fight Toyota RAV4 Hybrid: New CX-6e EV leads its electric push",
-   "source": "EV Central",
-   "t": "2026-10-18T21:48:52+00:00",
-   "competitors": [
-    "tesla-model-y",
-    "byd-sealion7"
-   ]
   }
  ],
  "source_status": {
@@ -996,7 +985,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 28,
+   "count": 38,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1031,17 +1020,17 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 23,
+   "count": 24,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 50,
+   "count": 49,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 54,
+   "count": 53,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1110,14 +1099,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1132,7 +1121,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1575,9 +1564,9 @@
    "note": "unchanged"
   },
   "offers-hyundai": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.hyundai.com', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 9,
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,

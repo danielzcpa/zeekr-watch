@@ -1,5 +1,44 @@
 [
  {
+  "id": "c528e5cb02676cb3",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/forthing-electric-suv-recalled",
+  "title": "Forthing Electric SUV recalled",
+  "text": "Forthing Australia will recall 263 examples of the Forthing Electric – previously known as the Taikon 5 – produced in 2026 to rectify an issue which may cause a loss of drive. \"Due to a manufacturing defect, the drive motor high-voltage power cable may rub against its mounting bracket during normal vehicle operation and become damaged. This may result in a loss of motive power while driving,\" the company says in its recall notice. “A loss of motive power while driving increases the risk of an accident, resulting in serious injury or death to vehicle occupants and other road users.\" Revealed for Australia earlier this year as the Taikon 5, the electric SUV is now sold as the Forthing Electric following legal action by German carmakers Porsche and Volkswagen over the Taikon 5 name. The legal action appears to be ongoing. The range-extender version has also been renamed Forthing Range Extender Hybrid, but isn't included in this recall. A total of 263 vehicles are affected, produced in 2026 The Vehicle Identification Number (VIN) list is attached here The original recall notice is attached here Forthing Australia will contact owners of affected vehicles to arrange an inspection and rep",
+  "author": "Damion Smy",
+  "published": "2026-10-21T19:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen",
+   "porsche"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -7,
+   "neg_hits": 7,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T21:56:09+00:00"
+ },
+ {
   "id": "8defc78fc17ad815",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -758,6 +797,39 @@
   "first_seen": "2026-10-21T01:56:14+00:00"
  },
  {
+  "id": "a4af78963eca4043",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlkyaWJ6Z0ZrVXFTN2ZGeUpNcUZNdEdqcEIxa0VWaGoyVUxXUnNOQkhsM2p3RHVHV3BiMXRRcVZiNUxGWVJwdXFScU5YZDdYUFpVN2oydTFiYmxYWkM0VEc3LWdkcXlxQ1BOV1NSSTZaeGUtQ0tfUGpmNURvdDkxOVQ0TVVqdVByTTlFSFgyWmR2amc?oc=5",
+  "title": "Zeekr cars between $100,000 & $400,000 with battery capacity over 10kWh for sale in Australia - Carsales",
+  "text": "Zeekr cars between $100,000 & $400,000 with battery capacity over 10kWh for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T22:42:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T21:56:09+00:00"
+ },
+ {
   "id": "feb6d80cba4a3a26",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -935,6 +1007,39 @@
   "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
+  "id": "a0f09cbe2fe26cd1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFNxc25KYnRJTzZwZS1aMzdaZUZ5MWNoVDdWSzlGYnFMQ1FaWDJFTTNKY1pyVzFIY0dUMTRlZUo2TF9vUUNOajdaajRURFpLeXBEcjFxTFhEdUMySkxLRUZBTGFHZ3hUeFRHN1REbWtaS0ZFdGhmMDlVd1l6R29iUXpFNDYzSklUMzBRLTdhMWZ1bjh6WXphbGJR?oc=5",
+  "title": "Zeekr cars between $100,000 & $400,000 with electric engine range over 500km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $100,000 & $400,000 with electric engine range over 500km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T21:43:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T21:56:09+00:00"
+ },
+ {
   "id": "1ce4c98fe5c3c42b",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -1040,6 +1145,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "3131e08db8b47260",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVRaUVo4UVhJN2pRZFphNWE0OFlENEFkZVBxRnRUOXM5UlcxTUlsT3RGTFVrMXE2a2hCMVRBT1l5SkhQX3dRaEFzWks2ZUhhekExZWRXSzl5cFBVNTVvZHlhcUxEc1l5MW5ORWN5VjdkV2RjR0dJN19xLXJxd2FQQzhwMFhPeTUwRWU0SzNxQk1qRnVUUGhCck1WcE9aZl9mMWF5NkViWkZBV0Z2b0E?oc=5",
+  "title": "Zeekr Not Applicable cars under $50,000 with electric engine range over 150km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars under $50,000 with electric engine range over 150km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T19:37:58+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T21:56:09+00:00"
  },
  {
   "id": "3cf57de485ddadb0",
@@ -3948,7 +4087,7 @@
  {
   "id": "3c1c019013919204",
   "type": "post",
-  "source": "reddit-global",
+  "source": "reddit-ZeekrX",
   "source_name": "Reddit r/ZeekrX",
   "url": "https://www.reddit.com/r/ZeekrX/comments/1x8yhcq/my_zeekr_x_got_sideswiped/",
   "title": "My Zeekr X got sideswiped 😢",
@@ -10376,6 +10515,45 @@
   "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
+  "id": "3a4fb0d45c65c6ec",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUpIVzRaa1MtRGVYZl9DWUxUWXNMakIyU21KNTRwS1pjTnZqYm5qNG11NV9CRHZ5OWk4cWRYRi1WZkVfVHpoSGpSUjNIUGR0VFVaRkRkM0JlaVYxMDFpOWFkcDdzdW94bnZsam9hM3dKeXc2bmk1bHl5NGQ0Slp1TjZUZ1lXbTNfeHd3Y2ZKYlNzSV9WcHNoRm5uOXJCeEdBU1o4WUFGcFQ4bzhpaF9yRnN6dU9ER01TdlNjaTlR?oc=5",
+  "title": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y - CarsGuide",
+  "text": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y CarsGuide",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "404f8ecafa96e61b",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -10864,45 +11042,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T21:09:37+00:00"
- },
- {
-  "id": "3a4fb0d45c65c6ec",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarsGuide",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUpIVzRaa1MtRGVYZl9DWUxUWXNMakIyU21KNTRwS1pjTnZqYm5qNG11NV9CRHZ5OWk4cWRYRi1WZkVfVHpoSGpSUjNIUGR0VFVaRkRkM0JlaVYxMDFpOWFkcDdzdW94bnZsam9hM3dKeXc2bmk1bHl5NGQ0Slp1TjZUZ1lXbTNfeHd3Y2ZKYlNzSV9WcHNoRm5uOXJCeEdBU1o4WUFGcFQ4bzhpaF9yRnN6dU9ER01TdlNjaTlR?oc=5",
-  "title": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y - CarsGuide",
-  "text": "Electric Vehicle Council announces $1.43 million funding for 2027 Australian charging roadmap, including 2026 Zeekr 7X, BYD Sealion 7 and Tesla Model Y CarsGuide",
-  "author": "",
-  "published": "2026-10-13T01:30:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [
-   "tesla-model-y",
-   "byd-sealion7"
-  ],
-  "brands": [
-   "byd",
-   "tesla"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "7df177ffe7c98f88",
@@ -23426,6 +23565,38 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "3f3c350733ef6293",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSlVPUW0zVE02QlRCX2duVUwtSkdTRy12VVdIWlJYeVJZcjlNTWp0MWl2aDlSd1puYU9xTTJCVXZ3VFkyYzQ3eHJUdnQ3eV82Z21abzV1Rk9ZUnVoaTNJbmhnT3Fua2JBNEwwallNWnJNbXJPZU54ZW10REtENzd2NTh2dzI3ak1GSnJ0NkZxbk9OazhYYmRGTDRJQ0h3N2IzVG9BaDFwa0JZcXNoRnNVOWJIXzkzQzZZM1Y4NDQwMjhhUQ?oc=5",
+  "title": "Zeekr global sales double year-on-year as Chinese premium brand takes off in threat to XPeng and BYD - CarsGuide",
+  "text": "Zeekr global sales double year-on-year as Chinese premium brand takes off in threat to XPeng and BYD CarsGuide",
+  "author": "",
+  "published": "2026-09-02T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T21:56:09+00:00"
+ },
+ {
   "id": "20aae4c0e3c6b15f",
   "type": "post",
   "source": "reddit-AustralianEV",
@@ -23963,6 +24134,39 @@
    "thumbs": 2
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "acd9dbc38d2ff816",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wd18zX3cwbEpPQXNma2ZjbHpyWVRGVm4tQV9DQjFuMElhYjE2SmpVR2Ridm1ub25uSDVzUnVrMkxzQVN4YnlzanNuTlZQU3VIbzNLQ3ZudlF2R1k?oc=5",
+  "title": "Xpeng X9 - Whirlpool Forums",
+  "text": "Xpeng X9 Whirlpool Forums",
+  "author": "",
+  "published": "2026-08-27T23:48:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T21:56:09+00:00"
  },
  {
   "id": "0510f6bfb8b873bb",
