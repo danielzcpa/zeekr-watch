@@ -63,4 +63,6 @@ docs/data/                 抓取结果（items.json、summary.json、offer_chan
 
 - 登录为用户名 + 密码，账号表在 `docs/auth.json`（仅保存 `sha256(小写用户名:密码)`，不保存明文）。
 - 新增或改密：`python3 tools/add_user.py <用户名> <密码> [显示名]`，然后提交 `docs/auth.json`；删除账号直接删掉对应条目。
+- 用户自助改密：登录后点顶栏「修改密码」，校验当前密码后生成一条 `{u,name,h}` 记录，用户把记录发给管理员（页面提供邮件按钮，收件人为 `auth.json` 里的 `admin_email`）；管理员执行 `python3 tools/set_hash.py '<记录>'` 或直接在 GitHub 网页上替换 `docs/auth.json` 中该用户的条目并提交，之后用新密码登录。
+- 登录页右上角可切换中文 / English。
 - 说明：站点为 GitHub Pages 静态页面，登录是前端校验，用于日常访问隔离；数据文件本身可被直接访问。如需真正的访问控制，需要把仓库设为私有并放到 Cloudflare Pages + Cloudflare Access（或类似）之后。

@@ -134,6 +134,7 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
     <span class="pill" id="whoami" style="display:none"></span>
     <button id="langBtn">EN</button>
     <button id="themeBtn">◐</button>
+    <button onclick="openPw()" data-i="pw_title" id="pwBtn" style="display:none">修改密码</button>
     <button onclick="logout()" data-i="logout">退出</button>
   </div>
 </div></header>
@@ -149,12 +150,28 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
 </div></nav>
 <div id="gate" style="display:none;position:fixed;inset:0;background:var(--bg);z-index:50;place-items:center;padding:16px">
   <form id="gateForm" class="card" style="width:min(360px,100%);padding:26px 24px">
-    <div class="brand" style="color:var(--green);margin-bottom:14px"><span class="mark" style="background:var(--green);color:#fff">Z</span><span id="gateT">ZEEKR 澳洲市场监控</span></div>
+    <div class="brand" style="color:var(--green);margin-bottom:14px"><span class="mark" style="background:var(--green);color:#fff">Z</span><span id="gateT">ZEEKR 澳洲市场监控</span><button type="button" class="btn" id="gateLang" style="margin-left:auto;font-size:12px;padding:3px 9px">EN</button></div>
     <label class="small" for="gateUser" id="gateP">请输入用户名与密码</label>
     <input id="gateUser" type="text" autocomplete="username" autocapitalize="none" spellcheck="false" placeholder="用户名" style="width:100%;margin:8px 0 8px;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
     <input id="gatePw" type="password" autocomplete="current-password" placeholder="密码" style="width:100%;margin:0 0 10px;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
     <button class="btn" type="submit" id="gateB" style="width:100%;padding:9px;background:var(--green);color:#fff;border-color:var(--green)">进入</button>
     <div id="gateE" class="small" style="color:var(--bad);margin-top:8px;min-height:18px"></div>
+  </form>
+</div>
+<div id="pwModal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:60;place-items:center;padding:16px" onclick="if(event.target===this) closePw()">
+  <form id="pwForm" class="card" style="width:min(420px,100%);padding:22px 22px">
+    <h2 style="margin:0 0 6px" data-i="pw_title">修改密码</h2>
+    <div class="small" style="margin-bottom:10px" data-i="pw_note">站点为静态页面，新密码需要管理员更新账号表后生效。提交后请把生成的记录发给管理员，或由管理员直接在 GitHub 上更新。</div>
+    <input id="pwCur" type="password" autocomplete="current-password" style="width:100%;margin:6px 0;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
+    <input id="pwNew" type="password" autocomplete="new-password" style="width:100%;margin:6px 0;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
+    <input id="pwNew2" type="password" autocomplete="new-password" style="width:100%;margin:6px 0 10px;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
+    <div style="display:flex;gap:8px"><button class="btn" type="submit" id="pwGo" style="flex:1;padding:9px;background:var(--green);color:#fff;border-color:var(--green)" data-i="pw_btn">生成新密码记录</button><button class="btn" type="button" onclick="closePw()" data-i="pw_cancel" style="padding:9px 14px">取消</button></div>
+    <div id="pwErr" class="small" style="color:var(--bad);margin-top:8px;min-height:18px"></div>
+    <div id="pwOut" style="display:none;margin-top:8px">
+      <div class="small" data-i="pw_done">已生成。请把下面这条记录发给管理员；管理员提交后用新密码重新登录。</div>
+      <textarea id="pwRec" readonly rows="3" style="width:100%;margin:6px 0;font:12px var(--mono);padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--surface2);color:var(--ink)"></textarea>
+      <div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" type="button" onclick="copyPw()" data-i="pw_copy">复制记录</button><a class="btn" id="pwMail" href="#" data-i="pw_mail">发邮件给管理员</a><a class="btn" id="pwGit" href="#" target="_blank" rel="noopener" data-i="pw_github">管理员：在 GitHub 上更新</a></div>
+    </div>
   </form>
 </div>
 <main>
@@ -189,7 +206,7 @@ const I18N = {
   s_intro:"每 30 分钟由 GitHub Actions 运行一次抓取。失败的来源通常是对数据中心 IP 的反爬限制，不影响其他来源。",
   cut:"降价",rise:"涨价",offer:"促销",launch:"上市",price:"价格",au:"澳洲",
   f_win:"时间",w24:"近 24 小时",w7:"近 7 天",w30:"近 30 天",f_news:"ZEEKR 报道/官方",l_sig:"信号",l_sig_launch:"上市/发布信号",l_sig_offer:"价格/政策信号",l_sig_all:"全部竞品动态",
-  login_t:"ZEEKR 澳洲市场监控",login_p:"请输入用户名与密码",login_b:"进入",login_e:"用户名或密码不正确",login_u:"用户名",login_pw:"密码",logout:"退出",
+  login_t:"ZEEKR 澳洲市场监控",login_p:"请输入用户名与密码",login_b:"进入",login_e:"用户名或密码不正确",login_u:"用户名",login_pw:"密码",logout:"退出",pw_title:"修改密码",pw_note:"站点为静态页面，新密码需由管理员更新账号表后生效。生成记录后发给管理员，或由管理员直接在 GitHub 上更新。",pw_cur:"当前密码",pw_new:"新密码（至少 8 位）",pw_new2:"再次输入新密码",pw_btn:"生成新密码记录",pw_cancel:"取消",pw_err_cur:"当前密码不正确",pw_err_match:"两次输入的新密码不一致",pw_err_len:"新密码至少 8 位",pw_err_same:"新密码不能与当前密码相同",pw_done:"已生成。请把下面这条记录发给管理员；管理员提交后请用新密码重新登录。",pw_copy:"复制记录",pw_copied:"已复制",pw_mail:"发邮件给管理员",pw_github:"管理员：在 GitHub 上更新",
  },
  en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Terminal discounts","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
   footer:"Public sources only (Google News, industry RSS, Reddit, ProductReview, OzBargain, app stores, Google Maps, brand sites). Rule-based keyword classification for internal reference; verify against the original before acting.",
@@ -209,7 +226,7 @@ const I18N = {
   s_intro:"GitHub Actions runs the collector every 30 minutes. Failing sources are usually anti-bot limits on datacenter IPs and do not affect the others.",
   cut:"price cut",rise:"price rise",offer:"offer",launch:"launch",price:"price",au:"AU",
   f_win:"Window",w24:"Last 24 h",w7:"Last 7 days",w30:"Last 30 days",f_news:"ZEEKR coverage / official",l_sig:"Signal",l_sig_launch:"Launch / reveal signals",l_sig_offer:"Price / offer signals",l_sig_all:"All competitor news",
-  login_t:"ZEEKR Australia Market Watch",login_p:"Enter your username and password",login_b:"Enter",login_e:"Incorrect username or password",login_u:"Username",login_pw:"Password",logout:"Sign out",
+  login_t:"ZEEKR Australia Market Watch",login_p:"Enter your username and password",login_b:"Enter",login_e:"Incorrect username or password",login_u:"Username",login_pw:"Password",logout:"Sign out",pw_title:"Change password",pw_note:"This is a static site: a new password takes effect once the administrator updates the account file. Generate the record, then send it to the administrator (or update it on GitHub if you are the administrator).",pw_cur:"Current password",pw_new:"New password (8+ characters)",pw_new2:"Repeat new password",pw_btn:"Generate password record",pw_cancel:"Cancel",pw_err_cur:"Current password is incorrect",pw_err_match:"The new passwords do not match",pw_err_len:"New password must be at least 8 characters",pw_err_same:"New password must differ from the current one",pw_done:"Done. Send the record below to the administrator; once it is committed, sign in again with the new password.",pw_copy:"Copy record",pw_copied:"Copied",pw_mail:"Email the administrator",pw_github:"Administrator: update on GitHub",
  }
 };
 let lang = 'zh'; try{ lang = localStorage.getItem('zw.lang') || 'zh'; }catch(e){}
@@ -429,15 +446,32 @@ async function loadAuth(){ if(AUTH) return AUTH; try{ const r=await fetch('auth.
 async function sha256(t){ const b=await crypto.subtle.digest('SHA-256', new TextEncoder().encode(t)); return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join(''); }
 function userOf(h){ return ((AUTH&&AUTH.users)||[]).find(x=>x.h===h); }
 async function gateOK(){ await loadAuth(); try{ const h=localStorage.getItem('zw.auth'); const u=userOf(h); if(u){ showUser(u); return true; } }catch(e){} return false; }
-function showUser(u){ const el=document.getElementById('whoami'); if(el){ el.textContent=u.name||u.u; el.style.display=''; } }
+function showUser(u){ CURRENT_USER=u; const el=document.getElementById('whoami'); if(el){ el.textContent=u.name||u.u; el.style.display=''; } const pb=document.getElementById('pwBtn'); if(pb) pb.style.display=''; }
 function showGate(){ const g=document.getElementById('gate'); g.style.display='grid'; document.getElementById('loading').style.display='none';
   document.getElementById('gateT').textContent=T('login_t'); document.getElementById('gateP').textContent=T('login_p'); document.getElementById('gateB').textContent=T('login_b');
   document.getElementById('gateUser').placeholder=T('login_u'); document.getElementById('gatePw').placeholder=T('login_pw');
   document.getElementById('gateForm').onsubmit=async e=>{ e.preventDefault(); await loadAuth(); const un=document.getElementById('gateUser').value.trim().toLowerCase(); const pw=document.getElementById('gatePw').value; const h=await sha256(un+':'+pw); const u=userOf(h);
     if(u){ try{localStorage.setItem('zw.auth',h);}catch(x){} showUser(u); g.style.display='none'; document.getElementById('loading').style.display=''; load().catch(err=>{ document.getElementById('loading').textContent='Load failed: '+err.message; }); }
     else { document.getElementById('gateE').textContent=T('login_e'); document.getElementById('gatePw').value=''; } };
-  setTimeout(()=>document.getElementById('gateUser').focus(),50); }
+  document.getElementById('gateLang').textContent = lang==='zh'?'EN':'中文';
+  document.getElementById('gateLang').onclick=()=>{ lang=lang==='zh'?'en':'zh'; try{localStorage.setItem('zw.lang',lang);}catch(e){} document.documentElement.lang = lang==='zh'?'zh-CN':'en-AU'; document.title=T('title'); showGate(); };
+  if(!document.getElementById('gateUser').value) setTimeout(()=>document.getElementById('gateUser').focus(),50); }
 function logout(){ try{localStorage.removeItem('zw.auth');}catch(e){} location.reload(); }
+let CURRENT_USER=null;
+function openPw(){ const m=document.getElementById('pwModal'); m.style.display='grid'; ['pwCur','pwNew','pwNew2'].forEach(id=>document.getElementById(id).value=''); document.getElementById('pwErr').textContent=''; document.getElementById('pwOut').style.display='none';
+  document.getElementById('pwCur').placeholder=T('pw_cur'); document.getElementById('pwNew').placeholder=T('pw_new'); document.getElementById('pwNew2').placeholder=T('pw_new2');
+  document.querySelectorAll('#pwModal [data-i]').forEach(el=>{ el.textContent=T(el.dataset.i); }); setTimeout(()=>document.getElementById('pwCur').focus(),50); }
+function closePw(){ document.getElementById('pwModal').style.display='none'; }
+function copyPw(){ const t=document.getElementById('pwRec'); t.select(); try{ navigator.clipboard.writeText(t.value); }catch(e){ document.execCommand('copy'); } const b=document.querySelector('#pwOut [data-i="pw_copy"]'); b.textContent=T('pw_copied'); setTimeout(()=>b.textContent=T('pw_copy'),1500); }
+document.getElementById('pwForm').onsubmit=async e=>{ e.preventDefault(); const err=document.getElementById('pwErr'); err.textContent=''; const u=CURRENT_USER; if(!u) return;
+  const cur=document.getElementById('pwCur').value, n1=document.getElementById('pwNew').value, n2=document.getElementById('pwNew2').value;
+  if(await sha256(u.u+':'+cur)!==u.h){ err.textContent=T('pw_err_cur'); return; }
+  if(n1.length<8){ err.textContent=T('pw_err_len'); return; } if(n1!==n2){ err.textContent=T('pw_err_match'); return; } if(n1===cur){ err.textContent=T('pw_err_same'); return; }
+  const nh=await sha256(u.u+':'+n1); const rec=JSON.stringify({u:u.u,name:u.name||u.u,h:nh});
+  document.getElementById('pwRec').value=rec; document.getElementById('pwOut').style.display='';
+  const admin=(AUTH&&AUTH.admin_email)||''; const subj=encodeURIComponent(`[zeekr-watch] password change: ${u.u}`); const body=encodeURIComponent(`Please replace the entry for "${u.u}" in docs/auth.json with:\n\n${rec}\n`);
+  document.getElementById('pwMail').href=`mailto:${admin}?subject=${subj}&body=${body}`;
+  document.getElementById('pwGit').href=(AUTH&&AUTH.repo_edit_url)||'#'; };
 async function load(){
   const t=Date.now(); const j=async n=>{ const r=await fetch(`data/${n}.json?t=${t}`); if(!r.ok) throw new Error(n+': '+r.status); return r.json(); };
   const opt=async n=>{ try{ return await j(n);}catch(e){ return null; } };
