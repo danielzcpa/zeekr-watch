@@ -22,7 +22,11 @@ BENCH = config("benchmark.json")
 H = {"User-Agent": UA, "Accept-Language": "en-AU,en;q=0.9"}
 
 
-def _get(url, timeout=25, retries=1):
+MIRROR = "https://r.jina.ai/"  # read-only HTML mirror; used only when the origin blocks datacenter IPs (403)
+_mirror_lock = __import__("threading").Lock()
+
+
+def _get(url, timeout=25, retries=1, mirror=True):
     err = None
     for i in range(retries + 1):
         try:
@@ -33,10 +37,29 @@ def _get(url, timeout=25, retries=1):
             if r.status_code in (429, 502, 503):
                 time.sleep(4 * (i + 1))
                 continue
-            return None, err
+            break
         except requests.RequestException as e:
             err = str(e)[:120]
             time.sleep(3)
+    if mirror and err and (err.startswith("HTTP 403") or err.startswith("HTTP 503")):
+        # Cloudflare blocks GitHub-hosted runners; fetch the same HTML through the mirror, serialised to respect its rate limit
+        with _mirror_lock:
+            for i in range(3):
+                try:
+                    r = requests.get(MIRROR + url, headers={**H, "X-Return-Format": "html"}, timeout=60)
+                    if r.status_code == 200 and len(r.text) > 2000:
+                        r.via_mirror = True
+                        time.sleep(2.5)
+                        return r, None
+                    merr = f"mirror HTTP {r.status_code}"
+                    if r.status_code == 429:
+                        time.sleep(15 * (i + 1))
+                        continue
+                    break
+                except requests.RequestException as e:
+                    merr = "mirror " + str(e)[:80]
+                    time.sleep(5)
+            err = f"{err}; {merr}"
     return None, err
 
 
@@ -74,7 +97,7 @@ def beep_prices():
                     continue
                 if st in states:
                     out.setdefault(name, {})[st] = price
-        return m, out, None
+        return m, out, ("via mirror" if getattr(r, "via_mirror", False) else None)
 
     with ThreadPoolExecutor(max_workers=4) as ex:
         results = list(ex.map(work, BENCH["beep_models"]))
@@ -88,6 +111,7 @@ def beep_prices():
             statuses["beep-" + key] = _st(False, 0, err or "")
             continue
         rec["last_error"] = None
+        rec["via"] = "mirror" if err == "via mirror" else "direct"
         rec["checked"] = now_iso()
         for name, byst in out.items():
             v = rec["variants"].setdefault(name, {})
@@ -99,7 +123,7 @@ def beep_prices():
                     series.append([today, price])
                 v[st] = series[-600:]
         n_models += 1
-        statuses["beep-" + key] = _st(True, len(out))
+        statuses["beep-" + key] = _st(True, len(out), err or "")
     store["updated"] = now_iso()
     save_json(path, store)
     return store, statuses, n_models
