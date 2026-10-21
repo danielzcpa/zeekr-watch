@@ -281,6 +281,40 @@
   "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
+  "id": "d0ee419af82d79a9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1hlbnJEeG9sdDJUOElEQTN4UW1XNEU4OFN0UjF5bEQzTkd4a25xUnRsRFduN3hTZVZhM1ctMlVPTzJnUEpkSUpobVkzeElQajhiVzZlLVNxZ1ZMZDNaYWpzcHVJZWJMX1M2aXl3c3E2dzk2YkZWci1ab0dTaEdqdmRPcXNWdk4yV1plSVJR?oc=5",
+  "title": "Zeekr cars under $500,000 with electric engine range over 550km for sale or order in Australia - Carsales",
+  "text": "Zeekr cars under $500,000 with electric engine range over 550km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T00:14:09+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:29:39+00:00"
+ },
+ {
   "id": "b261a01e8ca986f6",
   "type": "competitor_news",
   "source": "carexpert",
@@ -520,6 +554,38 @@
   "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
+  "id": "ac66d2d679fa5893",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm5uZmctLU8wY2FjSDRvb1Z3WE1ZS3VlWlB4NndnN29LY0NMdUpsblcxVWJPVTlidHl0TnNGaEp6a1pjeFZUUDh4cXdwSUUzSi1ELXZkckJnbG1DOEd5ZTZVM3BmVUo0enE1WktXX19TdkZ4aW9GVC1TOFUwT0xBall4N200QWRCNko4RzhqZXNCb3EyY1dBUU9FdWdLRXdqQUJCa1N2V1dCOHNLTm1lOUtR?oc=5",
+  "title": "Zeekr People Mover Green cars with electric engine range over 250km for sale or order in Australia - Carsales",
+  "text": "Zeekr People Mover Green cars with electric engine range over 250km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T22:24:09+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:29:39+00:00"
+ },
+ {
   "id": "92396fa702ef7606",
   "type": "competitor_news",
   "source": "chasingcars",
@@ -701,6 +767,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "3cf57de485ddadb0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXl0ckhpRGZmMGZVUUhFYnlxSS00aW16Tm84eFZlWTBwYTJSclh1aS1UNmE4dGQzd3RsQ3dSeWI1MXI0VkZ4bEhhRkFHc1VtTUY0YUhDQzlGNS1hNXQwaE1URDh0RmFMS2NsOVd6VFd3VzN5NmlDRzhnSGtOUHJlTndYRmNGLU9FdGxDUG4tU21BUDc4?oc=5",
+  "title": "2024 Zeekr Family cars with battery capacity over 20kWh for sale or order in Australia - Carsales",
+  "text": "2024 Zeekr Family cars with battery capacity over 20kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T18:17:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:29:39+00:00"
  },
  {
   "id": "49526a499a6172d9",
@@ -1072,7 +1170,7 @@
  {
   "id": "2243c905135ed82a",
   "type": "post",
-  "source": "reddit-global",
+  "source": "reddit-Zeekr",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1xarmc5/zeekr_001_to_zeekr_7x/",
   "title": "Zeekr 001 to Zeekr 7X",
@@ -2375,7 +2473,7 @@
  {
   "id": "9782d1ab801c7a4e",
   "type": "post",
-  "source": "reddit-global",
+  "source": "reddit-Zeekr",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1xa92ly/zeekr_001_software_version/",
   "title": "Zeekr 001 Software Version",
