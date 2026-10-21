@@ -257,7 +257,8 @@ def offers_feeds():
                 known[e["id"]] = e
                 n_new += 1
         statuses[key] = _st(True, len(ev))
-    # baseline events from config (curated, with sources)
+    # baseline events from config (curated, with sources); stale curated entries are dropped
+    known = {k: v for k, v in known.items() if v.get("source") != "baseline"}
     for e in config("policy_baseline.json").get("events", []):
         e = dict(e)
         e.setdefault("id", "base:" + sha(e.get("brand", "") + e.get("title", "") + e.get("start", ""), 12))

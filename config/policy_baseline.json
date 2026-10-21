@@ -1,67 +1,1664 @@
 {
-  "note": "人工核定的 2026 年政策事件基线（含来源）。抓取程序每次运行把 The Beep / Zecar 的实时政策与本文件合并，形成 docs/data/policy_events.json。type: price_cut | price_rise | driveaway | cashback | finance_rate | bonus | novated | launch | runout | offer。",
-  "events": [
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "EQA 250+", "cids": ["mb-eqa"], "type": "driveaway", "title": "EQA 250+ 新车固定 DAP $65,490", "detail": "全国统一上路价 $65,490（常规约 $93,628）；$189/周 Agility 贷款，6.99% 比较利率；私人买家、基础版、售完即止", "start": "2026-09-24", "end": "2026-12-31", "url": "https://www.mercedes-benz.com.au/passengercars/buy/new-car.html"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "EQA 250+", "cids": ["mb-eqa"], "type": "cashback", "title": "EQA 250+ 价格下调 $4,700 起 + 首付补贴 $3,000", "detail": "通过奔驰金融购买时首付补贴 $3,000", "start": "2026-08-01", "end": "2026-09-30", "url": "https://thebeep.com.au/cars/mercedes-benz/gla-suv/"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "EQA 250+ City Edition", "cids": ["mb-eqa"], "type": "bonus", "title": "EQA City Edition 厂家折扣 + 3 年免费保养", "detail": "通过 novated 渠道公布，金额未披露", "start": "2026-01-01", "end": "2026-02-28", "url": "https://www.remserv.com.au/vehicle-offers/mercedes-benz-eqa-eqa250-city-edition-auto"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "GLC 200 4MATIC Avantgarde", "cids": ["mb-glc"], "type": "driveaway", "title": "GLC 200 4MATIC Avantgarde $79,990 DAP", "detail": "常规 DAP 约 $98,797；7.49% p.a. 金融", "start": "2026-10-01", "end": "2026-12-31", "url": "https://thebeep.com.au/offers-and-deals/mercedes-benz/"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "GLC 200 Avantgarde Edition", "cids": ["mb-glc"], "type": "driveaway", "title": "GLC 200 Avantgarde Edition $89,490 DAP", "detail": "特别版全包价", "start": "2026-03-03", "end": "2026-06-30", "url": "https://www.canberratimes.com.au/story/9191107/sharp-price-for-special-mercedes-suv"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "GLC 350e", "cids": ["mb-glc"], "type": "driveaway", "title": "GLC 350e PHEV $98,990 DAP", "detail": "常规 DAP 约 $107,969；7.49% p.a.", "start": "2026-10-01", "end": "2026-12-31", "url": "https://thebeep.com.au/offers-and-deals/mercedes-benz/"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "GLA 200 Special Edition", "cids": [], "type": "driveaway", "title": "GLA 200 Special Edition $65,490 DAP", "detail": "常规 GLA 200 DAP 约 $70,288", "start": "2026-08-01", "end": "2026-12-31", "url": "https://www.mercedes-benz.com.au/passengercars/brand/mercedes-me-magazine/performance/articles/where-the-gla-special-edition-fits-in-the-mercedes-benz-suv-line-up.html"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "GLA / GLC / GLE / A / C 级展示车", "cids": ["mb-glc"], "type": "runout", "title": "展示车季：展车优惠价 + 3 年免费保养", "detail": "展车由 MBAuP 持有并定价", "start": "2026-10-01", "end": "2026-12-31", "url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "CLA 200 electric / CLA 350 4MATIC electric", "cids": ["mb-cla-ev"], "type": "launch", "title": "新一代 CLA 上市定价：CLA 200 electric $72,200", "detail": "CLA 350 4MATIC electric $91,300；CLA 200 混动 $68,100（较上代低 $5,100）", "start": "2026-05-06", "end": null, "url": "https://thebeep.com.au/car-news/2026-mercedes-benz-cla-australia-price"},
-    {"brand": "mercedes-benz", "brand_name": "Mercedes-Benz", "models": "燃油/柴油/混动全系", "cids": [], "type": "cashback", "title": "EOFY：厂家承担 GST 等额（C200 最高 $10,000）", "detail": "EQ 纯电车型不在活动范围", "start": "2026-06-01", "end": "2026-06-30", "url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia"},
-
-    {"brand": "bmw", "brand_name": "BMW", "models": "iX1 xDrive30 / iX2 xDrive30", "cids": ["bmw-ix1"], "type": "price_cut", "title": "iX1 xDrive30 MSRP $86,800 → $77,900；iX2 xDrive30 $87,600 → $79,900", "detail": "eDrive20 入门版停售", "start": "2026-03-31", "end": null, "url": "https://www.goauto.com.au/new-models/bmw/ix1/bmw-slashes-prices-of-electric-ix1-and-ix2/2026-04-02/98895.html"},
-    {"brand": "bmw", "brand_name": "BMW", "models": "iX1 xDrive30 Sport Collection", "cids": ["bmw-ix1"], "type": "driveaway", "title": "iX1 xDrive30 Sport Collection $79,900 DAP", "detail": "含 M Sport 套件、19 寸轮毂、自适应悬架、HUD", "start": "2026-04-01", "end": null, "url": "https://mail.wp.bmw.adtorqueedge.com/offers/bmw-sport-collection"},
-    {"brand": "bmw", "brand_name": "BMW", "models": "iX1 / iX2 / i4（2024 年产）", "cids": ["bmw-ix1", "bmw-i4"], "type": "finance_rate", "title": "纯电贷款 4.99% p.a. 比较利率", "detail": "零首付、零手续费、最高 $100k；i4 eDrive35 限 2024 年产", "start": "2026-01-01", "end": "2026-03-31", "url": "https://wp.bmw.adtorqueedge.com/offers/bev-loan-rate-offer"},
-    {"brand": "bmw", "brand_name": "BMW", "models": "iX1 / iX2", "cids": ["bmw-ix1"], "type": "finance_rate", "title": "纯电贷款 / novated 6.99% p.a.", "detail": "新车及展车，24–48 个月", "start": "2026-07-01", "end": "2026-12-31", "url": "https://www.smart.com.au/p/bmw/"},
-    {"brand": "bmw", "brand_name": "BMW", "models": "全系展车", "cids": ["bmw-ix1", "bmw-i4"], "type": "runout", "title": "BMW Demo Sale Event", "detail": "全国展车清库活动，价格由经销商设定", "start": "2026-10-14", "end": "2026-11-15", "url": "https://thebeep.com.au/offers-and-deals/bmw/"},
-    {"brand": "bmw", "brand_name": "BMW", "models": "X1–X7（不含 i 系列）", "cids": [], "type": "cashback", "title": "EOFY：厂家承担 GST 等额；X1/X3 0% 金融", "detail": "iX1、iX2、iX3、iX 明确排除", "start": "2026-05-22", "end": "2026-06-30", "url": "https://www.whichcar.com.au/news/eofy-offers-2026-deals-kia-byd-bmw-toyota-mazda-mg"},
-    {"brand": "bmw", "brand_name": "BMW", "models": "iX3 50 xDrive / iX3 40", "cids": [], "type": "launch", "title": "新一代 iX3 定价：50 xDrive $109,900，40 版 $89,900", "detail": "40 版 2026 年 Q4 到店", "start": "2026-03-10", "end": null, "url": "https://thebeep.com.au/car-news/bmw-ix3-undercuts-premium-ev-rivals-by-up-to-30000"},
-
-    {"brand": "audi", "brand_name": "Audi", "models": "Q4 e-tron MY27", "cids": ["audi-q4"], "type": "price_cut", "title": "Q4 e-tron MY27 MSRP 下调：RWD $71,650（−$13,250），quattro $81,650（−$18,168）", "detail": "Sportback RWD $71,650，Sportback quattro $83,250；2027 年上半年交付", "start": "2026-08-20", "end": null, "url": "https://evcentral.com.au/massive-discounts-overhauled-audi-q4-e-tron-line-up-reshaped-with-price-cuts-up-to-24250/"},
-    {"brand": "audi", "brand_name": "Audi", "models": "Q4 e-tron quattro MY27", "cids": ["audi-q4"], "type": "bonus", "title": "MY27 Q4 quattro 订单附 6 年/9 万公里保养计划", "detail": "2026-12-31 前下单", "start": "2026-08-21", "end": "2026-12-31", "url": "https://www.drive.com.au/news/2027-audi-q4-e-tron-price-and-specs-updated-ev-cut-by-nearly-20000/"},
-    {"brand": "audi", "brand_name": "Audi", "models": "Q6 e-tron MY27 / SQ6", "cids": ["audi-q6"], "type": "price_cut", "title": "Q6 e-tron RWD MSRP $99,818 → $89,900；SQ6 $151,318 → $129,900", "detail": "降至 LCT 节能门槛之下", "start": "2026-09-11", "end": null, "url": "https://www.carexpert.com.au/car-news/2027-audi-q6-e-tron-prices-slashed-by-more-than-dollar20000"},
-    {"brand": "audi", "brand_name": "Audi", "models": "Q6 e-tron Sport Edition MY26", "cids": ["audi-q6"], "type": "driveaway", "title": "Q6 e-tron Sport Edition 库存车 $95,900 DAP", "detail": "常规 DAP $111,336；不含 WA 与车队；12-31 前交付", "start": "2026-09-10", "end": "2026-10-31", "url": "https://www.drive.com.au/news/2027-audi-q6-e-tron-sq6-e-tron-prices-slashed-in-australia/"},
-    {"brand": "audi", "brand_name": "Audi", "models": "Q3 / Q5 / Q5 e-hybrid / Q6 e-tron / Q7", "cids": ["audi-q6"], "type": "driveaway", "title": "Audi Q Sales Event：Q3 $64,900、Q5 TFSI $78,900、Q5 e-hybrid $96,900 DAP；Q7 $20,000 补贴", "detail": "Q5 TFSI 全包价低于 MSRP $2,100", "start": "2026-10-01", "end": "2026-10-31", "url": "https://thebeep.com.au/offers-and-deals/audi/"},
-    {"brand": "audi", "brand_name": "Audi", "models": "Q4 e-tron / Q6 e-tron / A5 / Q5 / Q7", "cids": ["audi-q4", "audi-q6"], "type": "cashback", "title": "EOFY：MSRP 减去 LCT 等额（Q4 55 −$2,581，Q6 quattro −$9,334）", "detail": "MY25/MY26 库存，私人买家", "start": "2026-04-15", "end": "2026-06-30", "url": "https://www.audi.com.au/en/offers/end-of-financial-year-event/"},
-    {"brand": "audi", "brand_name": "Audi", "models": "Q3 TFSI 110kW", "cids": [], "type": "finance_rate", "title": "Q3 $67,714 DAP，8.55% 比较利率，GFV 结构", "detail": "60 个月，10% 首付", "start": "2026-07-01", "end": "2026-09-30", "url": "https://www.audi.com.au/en/offers/audi-q3-finance-offer/"},
-
-    {"brand": "zeekr", "brand_name": "ZEEKR", "models": "X MY26", "cids": [], "type": "launch", "title": "ZEEKR X MY26 上市权益：高级漆、内饰色、电动门、7kW 充电桩（价值最高 $6,056）", "detail": "", "start": "2026-04-10", "end": "2026-05-31", "url": "https://thebeep.com.au/car-news/2026-zeekr-x-price-specs-australia"},
-    {"brand": "zeekr", "brand_name": "ZEEKR", "models": "7X Black Special Edition", "cids": [], "type": "launch", "title": "7X Black Special Edition $75,900（基于 Performance）", "detail": "", "start": "2026-03-01", "end": null, "url": "https://thebeep.com.au/cars/zeekr/7x"},
-
-    {"brand": "tesla", "brand_name": "Tesla", "models": "Model Y Performance", "cids": ["tesla-model-y"], "type": "price_cut", "title": "Model Y Performance MSRP $89,900 → $84,900", "detail": "", "start": "2026-10-01", "end": null, "url": "https://thedriven.io/2026/10/01/tesla-slashes-entry-price-of-model-3-to-below-46000-boosts-range-and-adds-vehicle-to-load-on-all-new-evs/"},
-    {"brand": "tesla", "brand_name": "Tesla", "models": "Model 3 RWD", "cids": ["tesla-model-3"], "type": "price_cut", "title": "Model 3 新入门 RWD $45,900", "detail": "", "start": "2026-10-01", "end": null, "url": "https://www.cars24.com.au/car-news/tesla-model-3-rwd-price-australia/"},
-    {"brand": "tesla", "brand_name": "Tesla", "models": "Model 3 / Model Y 现车", "cids": ["tesla-model-y", "tesla-model-3"], "type": "cashback", "title": "现车约 5% 折扣（Model Y Premium RWD 最高 $2,950）", "detail": "MY27 升级前库存", "start": "2026-10-06", "end": "2026-10-31", "url": "https://zecar.com/offers-and-deals/tesla-inventory-discount-up-to-2950-off-model-3-model-y"},
-    {"brand": "tesla", "brand_name": "Tesla", "models": "Model 3 / Model Y", "cids": ["tesla-model-y", "tesla-model-3"], "type": "bonus", "title": "置换补贴 $2,000", "detail": "私人买家，新车及展车", "start": "2026-08-28", "end": "2026-12-31", "url": "https://zecar.com/offers-and-deals/tesla-model-3-model-y-trade-in-bonus-2000"},
-    {"brand": "tesla", "brand_name": "Tesla", "models": "Model 3 / Model Y", "cids": ["tesla-model-y", "tesla-model-3"], "type": "bonus", "title": "置换补贴最高 $3,000（Model 3）/ $2,000（Model Y）", "detail": "6 月 30 日前订购并交付", "start": "2026-03-01", "end": "2026-06-30", "url": "https://zecar.com/offers-and-deals/tesla"},
-    {"brand": "tesla", "brand_name": "Tesla", "models": "Model 3 / Model Y", "cids": ["tesla-model-y", "tesla-model-3"], "type": "bonus", "title": "2026-01-01 起交付车辆享 5 年不限公里保修", "detail": "", "start": "2026-01-01", "end": null, "url": "https://www.tesla.com/en_au/modely"},
-
-    {"brand": "byd", "brand_name": "BYD", "models": "Sealion 7", "cids": ["byd-sealion7"], "type": "cashback", "title": "Sealion 7 $4,000 现金返还（Premium 实际 $50,990）或 novated 6% 折扣", "detail": "10-01 至 12-21 下单，12-31 前交付", "start": "2026-10-01", "end": "2026-12-21", "url": "https://zecar.com/offers-and-deals/byd"},
-    {"brand": "byd", "brand_name": "BYD", "models": "Sealion 7 Premium", "cids": ["byd-sealion7"], "type": "price_cut", "title": "Sealion 7 Premium MSRP 下调至 $54,990", "detail": "", "start": "2026-08-02", "end": null, "url": "https://thedriven.io/2026/08/02/byd-slashes-price-of-sealion-7-premium-model-as-it-chases-down-toyota-to-be-countrys-best-selling-car-company/"},
-    {"brand": "byd", "brand_name": "BYD", "models": "Sealion 7 Premium", "cids": ["byd-sealion7"], "type": "driveaway", "title": "Sealion 7 Premium $54,990 DAP", "detail": "", "start": "2026-02-03", "end": "2026-03-30", "url": "https://zecar.com/offers-and-deals/byd"},
-    {"brand": "byd", "brand_name": "BYD", "models": "Atto 3 / Seal / Sealion 6 / Sealion 7 / Shark 6", "cids": ["byd-sealion7", "byd-seal", "byd-atto3"], "type": "cashback", "title": "$3,000 现金返还", "detail": "", "start": "2026-01-03", "end": "2026-01-30", "url": "https://zecar.com/offers-and-deals/byd"},
-
-    {"brand": "xpeng", "brand_name": "Xpeng", "models": "G6（2026 改款）", "cids": ["xpeng-g6"], "type": "price_cut", "title": "G6 改款定价：RWD 版本较 2025 款低 $3,000（Standard $51,800）", "detail": "AWD Performance $63,800", "start": "2026-07-01", "end": null, "url": "https://www.carexpert.com.au/car-news/2026-xpeng-g6-prices-refreshed-suv-undercuts-tesla-model-y-zeekr-7x-and-byd-sealion-7-in-australia"},
-    {"brand": "xpeng", "brand_name": "Xpeng", "models": "G6 全系", "cids": ["xpeng-g6"], "type": "finance_rate", "title": "G6 2.88% p.a. 固定/比较利率，零首付无尾款", "detail": "12-31 前申请并放款", "start": "2026-10-06", "end": "2026-12-31", "url": "https://zecar.com/offers-and-deals/xpeng"},
-
-    {"brand": "kia", "brand_name": "Kia", "models": "EV5", "cids": ["kia-ev5"], "type": "finance_rate", "title": "EV5 1.88% 比较利率或 $2,000 现金返还", "detail": "", "start": "2026-09-01", "end": "2026-10-31", "url": "https://www.kia.com/au/offers.html"},
-    {"brand": "kia", "brand_name": "Kia", "models": "EV3", "cids": ["kia-ev3"], "type": "finance_rate", "title": "EV3 1.88% 比较利率或 $1,000 现金返还", "detail": "", "start": "2026-09-01", "end": "2026-10-31", "url": "https://www.kia.com/au/offers.html"},
-    {"brand": "kia", "brand_name": "Kia", "models": "EV4 Air", "cids": ["kia-ev4"], "type": "driveaway", "title": "EV4 Air $52,990 DAP", "detail": "", "start": "2026-09-01", "end": "2026-10-31", "url": "https://www.kia.com/au/offers.html"},
-    {"brand": "smart", "brand_name": "smart", "models": "#5", "cids": ["smart-5"], "type": "bonus", "title": "#5 前 60 台订单赠 7.4kW 壁挂充电桩", "detail": "", "start": "2026-09-18", "end": "2026-12-31", "url": "https://zecar.com/offers-and-deals/smart"},
-    {"brand": "smart", "brand_name": "smart", "models": "#1 / #3", "cids": ["smart-1"], "type": "price_cut", "title": "#1 MSRP 下调 $4,000–5,000（Pro+ $49,900）；#3 下调 $5,000", "detail": "", "start": "2026-09-12", "end": null, "url": "https://thedriven.io/2026/09/12/smart-cuts-prices-on-existing-evs-as-it-gets-ready-for-launch-of-5-electric-suv/"},
-    {"brand": "hyundai", "brand_name": "Hyundai", "models": "Ioniq 5", "cids": ["hyundai-ioniq5"], "type": "driveaway", "title": "Ioniq 5 $70,990 / $75,990 / $86,990 DAP + 3.90% 比较利率", "detail": "", "start": "2026-10-01", "end": "2026-12-31", "url": "https://zecar.com/offers-and-deals/hyundai-ioniq-5-driveaway-finance-offer-q4-2026"},
-    {"brand": "hyundai", "brand_name": "Hyundai", "models": "Elexio Elite", "cids": ["hyundai-elexio"], "type": "driveaway", "title": "Elexio Elite $59,990 DAP", "detail": "", "start": "2026-03-01", "end": "2026-05-31", "url": "https://zecar.com/offers-and-deals/hyundai"},
-    {"brand": "polestar", "brand_name": "Polestar", "models": "Polestar 4", "cids": ["polestar-4"], "type": "price_cut", "title": "Polestar 4 MSRP 下调 $4,600（Rear Motor $73,900）", "detail": "", "start": "2026-09-09", "end": null, "url": "https://www.portnews.com.au/story/9346965/4600-price-cut-for-premium-suv/"},
-    {"brand": "polestar", "brand_name": "Polestar", "models": "Polestar 4 coupé MY27", "cids": ["polestar-4"], "type": "finance_rate", "title": "Polestar 4 0.80% 比较利率", "detail": "10% 首付，36 个月；12-31 前交付", "start": "2026-10-01", "end": "2026-11-30", "url": "https://www.polestar.com/au/offers/private/polestar-4-coupe/"},
-    {"brand": "polestar", "brand_name": "Polestar", "models": "Polestar 2 Rear Motor", "cids": ["polestar-2"], "type": "cashback", "title": "Polestar 2 预配置车减 $5,000", "detail": "", "start": "2026-10-01", "end": "2026-12-31", "url": "https://www.polestar.com/au/offers/private/polestar-2/"},
-    {"brand": "volvo", "brand_name": "Volvo", "models": "EX30 / EX40", "cids": ["volvo-ex30", "volvo-ex40"], "type": "price_cut", "title": "EX30 MSRP 下调 $7k–11.3k（Plus $49,990）；EX40 下调 $7k", "detail": "", "start": "2026-04-01", "end": null, "url": "https://thebeep.com.au/car-news/volvo-ex30-ex40-price-cut-australia-2026"},
-    {"brand": "volvo", "brand_name": "Volvo", "models": "EX30 Plus Single Motor ER", "cids": ["volvo-ex30"], "type": "driveaway", "title": "EX30 Plus $55,990 DAP", "detail": "", "start": "2026-05-01", "end": "2026-10-31", "url": "https://www.volvocars.com/au/offers/"},
-    {"brand": "mini", "brand_name": "Mini", "models": "Aceman / Countryman Electric", "cids": ["mini-aceman", "mini-countryman-e"], "type": "finance_rate", "title": "MINI Flex 4.99% 比较利率", "detail": "", "start": "2026-10-01", "end": "2026-12-31", "url": "https://www.mini.com.au/en_AU/home/offers.html"},
-    {"brand": "mg", "brand_name": "MG / IM", "models": "IM5", "cids": ["im5"], "type": "cashback", "title": "IM5 $3,000 现金返还 + $500 配件补贴", "detail": "", "start": "2026-10-01", "end": "2026-10-31", "url": "https://mgmotor.com.au/offers"},
-    {"brand": "geely", "brand_name": "Geely", "models": "EX5 / EX2 / Starray EM-i", "cids": ["geely-ex5"], "type": "finance_rate", "title": "0.09% 比较利率或 novated 6% 折扣", "detail": "10-31 前批准，11-13 前放款", "start": "2026-10-02", "end": "2026-10-31", "url": "https://zecar.com/offers-and-deals/geely-0-09-finance-ex5-ex2-starray-em-i-october-2026"},
-    {"brand": "deepal", "brand_name": "Deepal", "models": "S07", "cids": ["deepal-s07"], "type": "driveaway", "title": "S07 现车 $46,990 / $47,990 DAP", "detail": "", "start": "2026-03-24", "end": null, "url": "https://thebeep.com.au/offers-and-deals/deepal"},
-    {"brand": "leapmotor", "brand_name": "Leapmotor", "models": "C10", "cids": ["leapmotor-c10"], "type": "bonus", "title": "C10 免上路费用 + 免高级漆；AWD 预订赠壁挂桩", "detail": "", "start": "2026-10-01", "end": "2026-12-31", "url": "https://thebeep.com.au/offers-and-deals/leapmotor"}
-  ]
+ "note": "人工核定的 2026 年政策事件基线（含来源）。抓取程序每次运行把 The Beep / Zecar 的实时政策与本文件合并，形成 docs/data/policy_events.json。type: price_cut | price_rise | driveaway | cashback | finance_rate | bonus | novated | launch | runout | offer。 2026-10-21：Tesla Model Y、BYD Sealion 7、Xpeng G6、Kia EV5、smart #5、Hyundai Elexio、Polestar 4、Volvo EX30/EX40、Geely EX5、Leapmotor C10、Deepal S07 的 2026 年逐月政策经 Zecar/The Beep/The Driven/Drive/CarExpert/品牌官网交叉核对后重写；verified=false 表示仅有单一聚合页来源。",
+ "events": [
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "EQA 250+",
+   "cids": [
+    "mb-eqa"
+   ],
+   "type": "driveaway",
+   "title": "EQA 250+ 新车固定 DAP $65,490",
+   "detail": "全国统一上路价 $65,490（常规约 $93,628）；$189/周 Agility 贷款，6.99% 比较利率；私人买家、基础版、售完即止",
+   "start": "2026-09-24",
+   "end": "2026-12-31",
+   "url": "https://www.mercedes-benz.com.au/passengercars/buy/new-car.html"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "EQA 250+",
+   "cids": [
+    "mb-eqa"
+   ],
+   "type": "cashback",
+   "title": "EQA 250+ 价格下调 $4,700 起 + 首付补贴 $3,000",
+   "detail": "通过奔驰金融购买时首付补贴 $3,000",
+   "start": "2026-08-01",
+   "end": "2026-09-30",
+   "url": "https://thebeep.com.au/cars/mercedes-benz/gla-suv/"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "EQA 250+ City Edition",
+   "cids": [
+    "mb-eqa"
+   ],
+   "type": "bonus",
+   "title": "EQA City Edition 厂家折扣 + 3 年免费保养",
+   "detail": "通过 novated 渠道公布，金额未披露",
+   "start": "2026-01-01",
+   "end": "2026-02-28",
+   "url": "https://www.remserv.com.au/vehicle-offers/mercedes-benz-eqa-eqa250-city-edition-auto"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "GLC 200 4MATIC Avantgarde",
+   "cids": [
+    "mb-glc"
+   ],
+   "type": "driveaway",
+   "title": "GLC 200 4MATIC Avantgarde $79,990 DAP",
+   "detail": "常规 DAP 约 $98,797；7.49% p.a. 金融",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://thebeep.com.au/offers-and-deals/mercedes-benz/"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "GLC 200 Avantgarde Edition",
+   "cids": [
+    "mb-glc"
+   ],
+   "type": "driveaway",
+   "title": "GLC 200 Avantgarde Edition $89,490 DAP",
+   "detail": "特别版全包价",
+   "start": "2026-03-03",
+   "end": "2026-06-30",
+   "url": "https://www.canberratimes.com.au/story/9191107/sharp-price-for-special-mercedes-suv"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "GLC 350e",
+   "cids": [
+    "mb-glc"
+   ],
+   "type": "driveaway",
+   "title": "GLC 350e PHEV $98,990 DAP",
+   "detail": "常规 DAP 约 $107,969；7.49% p.a.",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://thebeep.com.au/offers-and-deals/mercedes-benz/"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "GLA 200 Special Edition",
+   "cids": [],
+   "type": "driveaway",
+   "title": "GLA 200 Special Edition $65,490 DAP",
+   "detail": "常规 GLA 200 DAP 约 $70,288",
+   "start": "2026-08-01",
+   "end": "2026-12-31",
+   "url": "https://www.mercedes-benz.com.au/passengercars/brand/mercedes-me-magazine/performance/articles/where-the-gla-special-edition-fits-in-the-mercedes-benz-suv-line-up.html"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "GLA / GLC / GLE / A / C 级展示车",
+   "cids": [
+    "mb-glc"
+   ],
+   "type": "runout",
+   "title": "展示车季：展车优惠价 + 3 年免费保养",
+   "detail": "展车由 MBAuP 持有并定价",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "CLA 200 electric / CLA 350 4MATIC electric",
+   "cids": [
+    "mb-cla-ev"
+   ],
+   "type": "launch",
+   "title": "新一代 CLA 上市定价：CLA 200 electric $72,200",
+   "detail": "CLA 350 4MATIC electric $91,300；CLA 200 混动 $68,100（较上代低 $5,100）",
+   "start": "2026-05-06",
+   "end": null,
+   "url": "https://thebeep.com.au/car-news/2026-mercedes-benz-cla-australia-price"
+  },
+  {
+   "brand": "mercedes-benz",
+   "brand_name": "Mercedes-Benz",
+   "models": "燃油/柴油/混动全系",
+   "cids": [],
+   "type": "cashback",
+   "title": "EOFY：厂家承担 GST 等额（C200 最高 $10,000）",
+   "detail": "EQ 纯电车型不在活动范围",
+   "start": "2026-06-01",
+   "end": "2026-06-30",
+   "url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "iX1 xDrive30 / iX2 xDrive30",
+   "cids": [
+    "bmw-ix1"
+   ],
+   "type": "price_cut",
+   "title": "iX1 xDrive30 MSRP $86,800 → $77,900；iX2 xDrive30 $87,600 → $79,900",
+   "detail": "eDrive20 入门版停售",
+   "start": "2026-03-31",
+   "end": null,
+   "url": "https://www.goauto.com.au/new-models/bmw/ix1/bmw-slashes-prices-of-electric-ix1-and-ix2/2026-04-02/98895.html"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "iX1 xDrive30 Sport Collection",
+   "cids": [
+    "bmw-ix1"
+   ],
+   "type": "driveaway",
+   "title": "iX1 xDrive30 Sport Collection $79,900 DAP",
+   "detail": "含 M Sport 套件、19 寸轮毂、自适应悬架、HUD",
+   "start": "2026-04-01",
+   "end": null,
+   "url": "https://mail.wp.bmw.adtorqueedge.com/offers/bmw-sport-collection"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "iX1 / iX2 / i4（2024 年产）",
+   "cids": [
+    "bmw-ix1",
+    "bmw-i4"
+   ],
+   "type": "finance_rate",
+   "title": "纯电贷款 4.99% p.a. 比较利率",
+   "detail": "零首付、零手续费、最高 $100k；i4 eDrive35 限 2024 年产",
+   "start": "2026-01-01",
+   "end": "2026-03-31",
+   "url": "https://wp.bmw.adtorqueedge.com/offers/bev-loan-rate-offer"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "iX1 / iX2",
+   "cids": [
+    "bmw-ix1"
+   ],
+   "type": "finance_rate",
+   "title": "纯电贷款 / novated 6.99% p.a.",
+   "detail": "新车及展车，24–48 个月",
+   "start": "2026-07-01",
+   "end": "2026-12-31",
+   "url": "https://www.smart.com.au/p/bmw/"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "全系展车",
+   "cids": [
+    "bmw-ix1",
+    "bmw-i4"
+   ],
+   "type": "runout",
+   "title": "BMW Demo Sale Event",
+   "detail": "全国展车清库活动，价格由经销商设定",
+   "start": "2026-10-14",
+   "end": "2026-11-15",
+   "url": "https://thebeep.com.au/offers-and-deals/bmw/"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "X1–X7（不含 i 系列）",
+   "cids": [],
+   "type": "cashback",
+   "title": "EOFY：厂家承担 GST 等额；X1/X3 0% 金融",
+   "detail": "iX1、iX2、iX3、iX 明确排除",
+   "start": "2026-05-22",
+   "end": "2026-06-30",
+   "url": "https://www.whichcar.com.au/news/eofy-offers-2026-deals-kia-byd-bmw-toyota-mazda-mg"
+  },
+  {
+   "brand": "bmw",
+   "brand_name": "BMW",
+   "models": "iX3 50 xDrive / iX3 40",
+   "cids": [],
+   "type": "launch",
+   "title": "新一代 iX3 定价：50 xDrive $109,900，40 版 $89,900",
+   "detail": "40 版 2026 年 Q4 到店",
+   "start": "2026-03-10",
+   "end": null,
+   "url": "https://thebeep.com.au/car-news/bmw-ix3-undercuts-premium-ev-rivals-by-up-to-30000"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q4 e-tron MY27",
+   "cids": [
+    "audi-q4"
+   ],
+   "type": "price_cut",
+   "title": "Q4 e-tron MY27 MSRP 下调：RWD $71,650（−$13,250），quattro $81,650（−$18,168）",
+   "detail": "Sportback RWD $71,650，Sportback quattro $83,250；2027 年上半年交付",
+   "start": "2026-08-20",
+   "end": null,
+   "url": "https://evcentral.com.au/massive-discounts-overhauled-audi-q4-e-tron-line-up-reshaped-with-price-cuts-up-to-24250/"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q4 e-tron quattro MY27",
+   "cids": [
+    "audi-q4"
+   ],
+   "type": "bonus",
+   "title": "MY27 Q4 quattro 订单附 6 年/9 万公里保养计划",
+   "detail": "2026-12-31 前下单",
+   "start": "2026-08-21",
+   "end": "2026-12-31",
+   "url": "https://www.drive.com.au/news/2027-audi-q4-e-tron-price-and-specs-updated-ev-cut-by-nearly-20000/"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q6 e-tron MY27 / SQ6",
+   "cids": [
+    "audi-q6"
+   ],
+   "type": "price_cut",
+   "title": "Q6 e-tron RWD MSRP $99,818 → $89,900；SQ6 $151,318 → $129,900",
+   "detail": "降至 LCT 节能门槛之下",
+   "start": "2026-09-11",
+   "end": null,
+   "url": "https://www.carexpert.com.au/car-news/2027-audi-q6-e-tron-prices-slashed-by-more-than-dollar20000"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q6 e-tron Sport Edition MY26",
+   "cids": [
+    "audi-q6"
+   ],
+   "type": "driveaway",
+   "title": "Q6 e-tron Sport Edition 库存车 $95,900 DAP",
+   "detail": "常规 DAP $111,336；不含 WA 与车队；12-31 前交付",
+   "start": "2026-09-10",
+   "end": "2026-10-31",
+   "url": "https://www.drive.com.au/news/2027-audi-q6-e-tron-sq6-e-tron-prices-slashed-in-australia/"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q3 / Q5 / Q5 e-hybrid / Q6 e-tron / Q7",
+   "cids": [
+    "audi-q6"
+   ],
+   "type": "driveaway",
+   "title": "Audi Q Sales Event：Q3 $64,900、Q5 TFSI $78,900、Q5 e-hybrid $96,900 DAP；Q7 $20,000 补贴",
+   "detail": "Q5 TFSI 全包价低于 MSRP $2,100",
+   "start": "2026-10-01",
+   "end": "2026-10-31",
+   "url": "https://thebeep.com.au/offers-and-deals/audi/"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q4 e-tron / Q6 e-tron / A5 / Q5 / Q7",
+   "cids": [
+    "audi-q4",
+    "audi-q6"
+   ],
+   "type": "cashback",
+   "title": "EOFY：MSRP 减去 LCT 等额（Q4 55 −$2,581，Q6 quattro −$9,334）",
+   "detail": "MY25/MY26 库存，私人买家",
+   "start": "2026-04-15",
+   "end": "2026-06-30",
+   "url": "https://www.audi.com.au/en/offers/end-of-financial-year-event/"
+  },
+  {
+   "brand": "audi",
+   "brand_name": "Audi",
+   "models": "Q3 TFSI 110kW",
+   "cids": [],
+   "type": "finance_rate",
+   "title": "Q3 $67,714 DAP，8.55% 比较利率，GFV 结构",
+   "detail": "60 个月，10% 首付",
+   "start": "2026-07-01",
+   "end": "2026-09-30",
+   "url": "https://www.audi.com.au/en/offers/audi-q3-finance-offer/"
+  },
+  {
+   "brand": "zeekr",
+   "brand_name": "ZEEKR",
+   "models": "X MY26",
+   "cids": [],
+   "type": "launch",
+   "title": "ZEEKR X MY26 上市权益：高级漆、内饰色、电动门、7kW 充电桩（价值最高 $6,056）",
+   "detail": "",
+   "start": "2026-04-10",
+   "end": "2026-05-31",
+   "url": "https://thebeep.com.au/car-news/2026-zeekr-x-price-specs-australia"
+  },
+  {
+   "brand": "zeekr",
+   "brand_name": "ZEEKR",
+   "models": "7X Black Special Edition",
+   "cids": [],
+   "type": "launch",
+   "title": "7X Black Special Edition $75,900（基于 Performance）",
+   "detail": "",
+   "start": "2026-03-01",
+   "end": null,
+   "url": "https://thebeep.com.au/cars/zeekr/7x"
+  },
+  {
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "models": "Model 3 RWD",
+   "cids": [
+    "tesla-model-3"
+   ],
+   "type": "price_cut",
+   "title": "Model 3 新入门 RWD $45,900",
+   "detail": "",
+   "start": "2026-10-01",
+   "end": null,
+   "url": "https://www.cars24.com.au/car-news/tesla-model-3-rwd-price-australia/"
+  },
+  {
+   "brand": "kia",
+   "brand_name": "Kia",
+   "models": "EV3",
+   "cids": [
+    "kia-ev3"
+   ],
+   "type": "finance_rate",
+   "title": "EV3 1.88% 比较利率或 $1,000 现金返还",
+   "detail": "",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "url": "https://www.kia.com/au/offers.html"
+  },
+  {
+   "brand": "kia",
+   "brand_name": "Kia",
+   "models": "EV4 Air",
+   "cids": [
+    "kia-ev4"
+   ],
+   "type": "driveaway",
+   "title": "EV4 Air $52,990 DAP",
+   "detail": "",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "url": "https://www.kia.com/au/offers.html"
+  },
+  {
+   "brand": "smart",
+   "brand_name": "smart",
+   "models": "#1 / #3",
+   "cids": [
+    "smart-1"
+   ],
+   "type": "price_cut",
+   "title": "#1 MSRP 下调 $4,000–5,000（Pro+ $49,900）；#3 下调 $5,000",
+   "detail": "",
+   "start": "2026-09-12",
+   "end": null,
+   "url": "https://thedriven.io/2026/09/12/smart-cuts-prices-on-existing-evs-as-it-gets-ready-for-launch-of-5-electric-suv/"
+  },
+  {
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "models": "Ioniq 5",
+   "cids": [
+    "hyundai-ioniq5"
+   ],
+   "type": "driveaway",
+   "title": "Ioniq 5 $70,990 / $75,990 / $86,990 DAP + 3.90% 比较利率",
+   "detail": "",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://zecar.com/offers-and-deals/hyundai-ioniq-5-driveaway-finance-offer-q4-2026"
+  },
+  {
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "models": "Polestar 2 Rear Motor",
+   "cids": [
+    "polestar-2"
+   ],
+   "type": "cashback",
+   "title": "Polestar 2 预配置车减 $5,000",
+   "detail": "",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://www.polestar.com/au/offers/private/polestar-2/"
+  },
+  {
+   "brand": "mini",
+   "brand_name": "Mini",
+   "models": "Aceman / Countryman Electric",
+   "cids": [
+    "mini-aceman",
+    "mini-countryman-e"
+   ],
+   "type": "finance_rate",
+   "title": "MINI Flex 4.99% 比较利率",
+   "detail": "",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://www.mini.com.au/en_AU/home/offers.html"
+  },
+  {
+   "brand": "mg",
+   "brand_name": "MG / IM",
+   "models": "IM5",
+   "cids": [
+    "im5"
+   ],
+   "type": "cashback",
+   "title": "IM5 $3,000 现金返还 + $500 配件补贴",
+   "detail": "",
+   "start": "2026-10-01",
+   "end": "2026-10-31",
+   "url": "https://mgmotor.com.au/offers"
+  },
+  {
+   "id": "base:fb1ddf87281d",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "2026-01-01 起交付车辆享 5 年不限公里保修",
+   "title_en": "5-year unlimited-km warranty from 1 Jan 2026",
+   "detail": "All new Model 3/Model Y delivered from 1 Jan 2026 get a 5-yr/unlimited-km vehicle warranty (up from 4 yr/80,000 km).",
+   "models": "Tesla Model Y",
+   "start": "2026-01-01",
+   "end": null,
+   "url": "https://thedriven.io/2026/02/03/tesla-renames-its-lineup-in-australia-no-cheaper-model-on-the-cards/",
+   "type": "bonus",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:f4c926b47e89",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "Model Y 置换补贴 $2,000（第一季度，3-31 前交付）",
+   "title_en": "Model Y $2,000 trade-in bonus (Q1)",
+   "detail": "$2,000 trade-in bonus on new/demo Model Y RWD and Long Range AWD (Model 3 got $3,000 from January); order and deliver by 31 Mar 2026.",
+   "models": "Tesla Model Y",
+   "start": "2026-01-30",
+   "end": "2026-03-31",
+   "url": "https://thedriven.io/2026/02/01/tesla-offers-2000-trade-in-bonus-on-best-selling-model-y/",
+   "type": "bonus",
+   "cids": [
+    "tesla-model-y",
+    "tesla-model-3"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:d807d37e6b81",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "含 FSD 现车折价：RWD −$1,770 / AWD −$2,070",
+   "title_en": "Inventory discount on FSD-equipped Model Y stock",
+   "detail": "In-stock Model Y with FSD Supervised listed $1,770 (RWD) / $2,070 (AWD) below list; FSD transfer for existing owners also available to 31 Mar 2026.",
+   "models": "Tesla Model Y",
+   "start": "2026-02-01",
+   "end": "2026-03-31",
+   "url": "https://thedriven.io/2026/02/04/tesla-sales-in-january-dip-despite-multiple-incentives/",
+   "type": "price_cut",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:06e746b69942",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "版本更名为 Premium，MSRP 不变（RWD $58,900 / LR AWD $68,900）",
+   "title_en": "Lineup renamed to 'Premium' (no price change)",
+   "detail": "Model Y RWD -> Premium RWD $58,900; Long Range AWD -> Premium Long Range AWD $68,900; Performance AWD unchanged (The Driven quotes $89,900, other outlets $89,400); no spec/price change.",
+   "models": "Tesla Model Y",
+   "start": "2026-02-03",
+   "end": null,
+   "url": "https://thedriven.io/2026/02/03/tesla-renames-its-lineup-in-australia-no-cheaper-model-on-the-cards/",
+   "type": "launch",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:f04598197f86",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "置换补贴延至 6-30：Model Y $2,000 / Model 3 $3,000",
+   "title_en": "Trade-in bonus extended to 30 Jun 2026",
+   "detail": "Up to $3,000 trade-in bonus: $3,000 on Model 3 RWD/LR RWD, $2,000 on Model Y Premium RWD and Premium LR AWD; order and deliver by 30 Jun 2026.",
+   "models": "Tesla Model Y",
+   "start": "2026-04-01",
+   "end": "2026-06-30",
+   "url": "https://zecar.com/offers-and-deals/tesla-trade-in-bonus-get-up-to-3000-towards-your-new-model-3-or-model-y",
+   "type": "bonus",
+   "cids": [
+    "tesla-model-y",
+    "tesla-model-3"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:e044b5b1cfa8",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "Model Y L（六座）开放订购，MSRP $74,900",
+   "title_en": "Model Y L (6-seat) orders open",
+   "detail": "Model Y L Premium AWD priced at $74,900 before on-roads ($6,000 above Premium LR AWD); orders open 13 Mar 2026, deliveries from Q2 2026.",
+   "models": "Tesla Model Y",
+   "start": "2026-03-13",
+   "end": null,
+   "url": "https://www.carexpert.com.au/car-news/2026-tesla-model-y-l-price-and-specs",
+   "type": "launch",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:88f48bbe7421",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "置换补贴 $2,000（Model 3 / Model Y 全系，至 12-31）",
+   "title_en": "$2,000 trade-in bonus to year-end",
+   "detail": "$2,000 trade-in bonus on new/demo Model 3 and Model Y (all variants), applied on top of trade-in value; order and deliver by 31 Dec 2026.",
+   "models": "Tesla Model Y",
+   "start": "2026-08-04",
+   "end": "2026-12-31",
+   "url": "https://thedriven.io/2026/08/04/tesla-adds-new-trade-in-offer-to-boost-sales-of-model-3-and-model-y/",
+   "type": "bonus",
+   "cids": [
+    "tesla-model-y",
+    "tesla-model-3"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:22eab54c25a0",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "MY27 改款：Performance MSRP $89,400 → $84,900（−$4,500）",
+   "title_en": "MY27 update: Model Y Performance cut to $84,900",
+   "detail": "Performance AWD RRP cut $4,500 from $89,400 to $84,900 (premium paint now up to $2,600 option); Premium RWD $58,900, Premium LR AWD $68,900, Model Y L $74,900 unchanged; V2L added across range; MY27 orders open 1 Oct 2026.",
+   "models": "Tesla Model Y",
+   "start": "2026-10-01",
+   "end": null,
+   "url": "https://www.drive.com.au/news/2027-tesla-model-y-model-3-updated-in-australia-with-longer-ranges/",
+   "type": "price_cut",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:89ddd8f9b5a8",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "MY27 前现车约 5% 折扣：Premium RWD −$2,950、Model Y L −$3,750，可叠加置换补贴",
+   "title_en": "~5% inventory discount on pre-MY27 stock",
+   "detail": "In-stock (pre-MY27) Model Y discounted ~5%: $2,950 off Premium RWD ($58,900 -> $55,950), $3,750 off Model Y L ($74,900 -> $71,150), Premium LR AWD also eligible; stackable with $2,000 trade-in bonus; order and deliver by 31 Dec 2026 while stocks last.",
+   "models": "Tesla Model Y",
+   "start": "2026-10-05",
+   "end": "2026-12-31",
+   "url": "https://www.whichcar.com.au/news/tesla-price-cut-drop-offer-model-3-model-y-cars-australia",
+   "type": "price_cut",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:0eebe5686af7",
+   "brand": "tesla",
+   "brand_name": "Tesla",
+   "title": "第三方 novated 租赁（Driva）：Model Y 约 $160/周",
+   "title_en": "LeaseMyTesla novated lease (Driva)",
+   "detail": "Third-party novated lease marketing: Model Y from $160/week (indicative), listed from 1 Jun 2026, open-ended.",
+   "models": "Tesla Model Y",
+   "start": "2026-06-01",
+   "end": null,
+   "url": "https://thebeep.com.au/offers-and-deals/tesla/",
+   "type": "novated",
+   "cids": [
+    "tesla-model-y"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:17ac754b6736",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "$3,000 现金返还延至 1-31（私人买家）",
+   "title_en": "$3,000 cashback extended into January",
+   "detail": "$3,000 cashback on Sealion 7 (both variants), Seal, Atto 3, Sealion 6, Shark 6 for private buyers who purchase and take delivery by 31 Jan 2026 (originally for Nov-Dec 2025 orders); claim form due 31 Mar 2026.",
+   "models": "BYD Sealion 7",
+   "start": "2026-01-01",
+   "end": "2026-01-31",
+   "url": "https://thedriven.io/2026/01/05/byd-extends-3000-cashback-offer-into-2026/",
+   "type": "cashback",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:9103a9b6e220",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "Sealion 7 Premium $54,990 DAP（厂家承担上路费用）",
+   "title_en": "Sealion 7 Premium $54,990 driveaway",
+   "detail": "Premium at $54,990 driveaway (on-road costs absorbed, worth ~$3,700+ in VIC); order 1 Feb-31 Mar 2026, deliver by 19 Apr 2026; retail only, metallic paint extra.",
+   "models": "BYD Sealion 7",
+   "start": "2026-02-01",
+   "end": "2026-03-31",
+   "url": "https://thedriven.io/2026/02/02/byd-slashes-driveway-prices-on-its-best-selling-ev-in-australia/",
+   "type": "driveaway",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:6b90c7541016",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "novated 租赁 5% 折扣（第二季度；Sealion 7 不在同期现金返还范围）",
+   "title_en": "5% novated lease discount (Q2)",
+   "detail": "5% off base list price for novated-lease buyers via approved FMO on Atto 1/2/3, Dolphin, Seal, Sealion 7; order 1 Apr-30 Jun 2026, deliver by 31 Jul 2026. (Sealion 7 was NOT in the Q2 $3,000 cashback or 1.88% finance offers.)",
+   "models": "BYD Sealion 7",
+   "start": "2026-04-01",
+   "end": "2026-06-30",
+   "url": "https://zecar.com/offers-and-deals/byd-novated-lease-discount-save-5-on-the-byd-ev-range-up-to-2900-in-savings",
+   "type": "novated",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:219faa5b5540",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "取消低价 Dynamic 版本计划，维持 Premium $54,990 / Performance $63,990",
+   "title_en": "Cheaper Sealion 7 Dynamic variant cancelled",
+   "detail": "BYD Australia confirmed no sub-$50k Sealion 7 Dynamic will be offered; lineup stays Premium $54,990 / Performance $63,990.",
+   "models": "BYD Sealion 7",
+   "start": "2026-05-22",
+   "end": null,
+   "url": "https://www.carsales.com.au/editorial/details/cheaper-byd-sealion-7-cancelled-152107/",
+   "type": "runout",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:91c7a076e007",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "7 月 $2,500 现金返还（仅 Premium）",
+   "title_en": "July $2,500 cashback (Premium only)",
+   "detail": "$2,500 cashback on Sealion 7 Premium (also Sealion 5/6/8, Shark 6); order 1-31 Jul 2026, deliver by 30 Aug 2026; excludes fleet/demo.",
+   "models": "BYD Sealion 7",
+   "start": "2026-07-01",
+   "end": "2026-07-31",
+   "url": "https://thedriven.io/2026/07/06/byd-announces-new-cash-back-offer-for-top-selling-ev-as-it-chases-down-toyota-to-be-australias-biggest-car-seller/",
+   "type": "cashback",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:4b56abbd87d2",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "Premium $54,990 DAP（8–9 月，厂家承担上路费用；MSRP 未变）",
+   "title_en": "Aug-Sep: Premium $54,990 driveaway (free on-roads)",
+   "detail": "Sealion 7 Premium $54,990 driveaway (on-roads absorbed, >$4,000 saving in NSW/VIC); order 1 Aug-30 Sep 2026, deliver by 31 Oct 2026. Note: this is a driveaway campaign, RRP unchanged at $54,990.",
+   "models": "BYD Sealion 7",
+   "start": "2026-08-01",
+   "end": "2026-09-30",
+   "url": "https://thedriven.io/2026/08/02/byd-slashes-price-of-sealion-7-premium-model-as-it-chases-down-toyota-to-be-countrys-best-selling-car-company/",
+   "type": "driveaway",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:2afb8d4dbdd4",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "9 月 novated 租赁 5% 折扣（Flare）",
+   "title_en": "September 5% novated lease discount (Flare / BYD)",
+   "detail": "5% off base list price on Sealion 7 (and Atto 1/2/3, Dolphin, Seal) via novated lease; order 1-30 Sep 2026, deliver by 31 Oct 2026.",
+   "models": "BYD Sealion 7",
+   "start": "2026-09-01",
+   "end": "2026-09-30",
+   "url": "https://zecar.com/offers-and-deals/byd-5-percent-off-novated-lease-deal-with-flare",
+   "type": "novated",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:a12c7dcfcbcb",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "第四季度 $4,000 现金返还：Premium 实际 $50,990 / Performance $59,990",
+   "title_en": "Q4 $4,000 cashback (Premium and Performance)",
+   "detail": "$4,000 cashback (incl GST) on Sealion 7 Premium ($54,990 -> effective $50,990) and Performance ($63,990 -> $59,990); order 1 Oct-21 Dec 2026, deliver by 31 Dec 2026; Sealion 7 excluded from BYD's 0.99% finance offer.",
+   "models": "BYD Sealion 7",
+   "start": "2026-10-01",
+   "end": "2026-12-21",
+   "url": "https://zecar.com/offers-and-deals/byd-sealion-7-4000-cashback-october-2026",
+   "type": "cashback",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:60672ea8e5eb",
+   "brand": "byd",
+   "brand_name": "BYD",
+   "title": "第四季度 novated 租赁 6% 折扣（不与现金返还叠加）",
+   "title_en": "Q4 6% novated lease discount",
+   "detail": "6% off base list price for novated-lease buyers (Sealion 7, Atto 1/2/3, Dolphin, Seal), not stackable with cashback; order by 21 Dec 2026, delivery allowed to 31 Jan 2027.",
+   "models": "BYD Sealion 7",
+   "start": "2026-09-01",
+   "end": "2026-12-21",
+   "url": "https://thebeep.com.au/offers-and-deals/byd/",
+   "type": "novated",
+   "cids": [
+    "byd-sealion7"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:9f17439970ad",
+   "brand": "xpeng",
+   "brand_name": "Xpeng",
+   "title": "1 月 $5,000 现金返还 + 5 年免费保养（TrueEV 时期）",
+   "title_en": "January: $5,000 cashback + 5 yr free servicing (TrueEV era)",
+   "detail": "$5,000 cashback plus 5 yr/100,000 km free servicing on G6 (SR $54,800 / LR $59,800 RRP); optional 10-yr warranty for $880; zecar lists valid to 30 Jan 2026 (carried over from Dec 2025 Christmas offer).",
+   "models": "Xpeng G6",
+   "start": "2026-01-01",
+   "end": "2026-01-31",
+   "url": "https://zecar.com/offers-and-deals/xpeng-g6-5-years-free-servicing-5000-cashback",
+   "type": "cashback",
+   "cids": [
+    "xpeng-g6"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:603fc7f98120",
+   "brand": "xpeng",
+   "brand_name": "Xpeng",
+   "title": "小鹏澳新厂家直营接手 TrueEV 分销（4-1 起），承诺兑付未付现金返还",
+   "title_en": "XPeng ANZ takes over direct distribution from TrueEV",
+   "detail": "Factory-backed XPENG Motors Australia took over distribution from 1 Apr 2026; TrueEV continued selling amid Federal Court dispute; XPeng later agreed to honour TrueEV's unpaid $5,000 cashbacks.",
+   "models": "Xpeng G6",
+   "start": "2026-04-01",
+   "end": null,
+   "url": "https://www.carexpert.com.au/car-news/chinese-brand-stepping-in-to-honour-aussie-importers-previous-cashback-offers-amid-messy-court-battle",
+   "type": "launch",
+   "cids": [
+    "xpeng-g6"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:9bcec2e45985",
+   "brand": "xpeng",
+   "brand_name": "Xpeng",
+   "title": "旧款 G6 Long Range 清库约 $52,900（不含上路费用，经销商层面）",
+   "title_en": "Outgoing G6 Long Range run-out ~ $52,900 ex-ORC",
+   "detail": "Factory-backed dealers advertising outgoing (pre-facelift) G6 Long Range at ~$52,900 before on-roads, ~$6,900 under the $59,800 RRP, ahead of the facelift.",
+   "models": "Xpeng G6",
+   "start": "2026-06-10",
+   "end": "2026-07-31",
+   "url": "https://zecar.com/reviews/xpeng-g6-long-range-drops-to-usd52-900-as-facelift-nears",
+   "type": "runout",
+   "cids": [
+    "xpeng-g6"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:f9ee9ad9b6ce",
+   "brand": "xpeng",
+   "brand_name": "Xpeng",
+   "title": "改款 G6 定价：RWD 两版本各下调 $3,000（SR $51,800 / LR $56,800），新增 AWD Performance $63,800",
+   "title_en": "Facelifted 2026 G6: RWD prices cut $3,000, AWD added",
+   "detail": "New G6 RRP: RWD Standard Range $51,800 (was $54,800), RWD Long Range $56,800 (was $59,800), new AWD Performance $63,800 and AWD Performance Black Edition $66,800; orders open 7 Jul 2026, showrooms late July; 7-yr warranty.",
+   "models": "Xpeng G6",
+   "start": "2026-07-07",
+   "end": null,
+   "url": "https://www.drive.com.au/news/2026-xpeng-g6-price-and-specs-updated-ev-is-cheaper-and-charges-faster/",
+   "type": "price_cut",
+   "cids": [
+    "xpeng-g6"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:4d5b135d5e2b",
+   "brand": "xpeng",
+   "brand_name": "Xpeng",
+   "title": "新 G6 2.88% p.a. 固定/比较利率，零首付无尾款（至 12-31）",
+   "title_en": "New G6 2.88% p.a. finance (2.88% comparison), no deposit/balloon",
+   "detail": "2.88% p.a. fixed consumer loan via Angle Auto Finance, max 36 months, no minimum deposit, no balloon, no establishment/account fees; SR, LR and AWD Performance (built after 1 May 2026); apply and settle by 31 Dec 2026; not stackable.",
+   "models": "Xpeng G6",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://www.xpeng.com/au/explore/New_G6_Offer",
+   "type": "finance_rate",
+   "cids": [
+    "xpeng-g6"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:e92e93c7a5c3",
+   "brand": "kia",
+   "brand_name": "Kia",
+   "title": "2 月：EV5 Air SR $49,990 DAP（MY25 库存）",
+   "title_en": "February: EV5 Air SR $49,990 driveaway (MY25 stock)",
+   "detail": "Air SR $49,990 ($50,990 WA), Air LR $59,990, Earth $64,990, GT-Line $75,990 driveaway on 2025-built stock, private buyers, deliver by 28 Feb 2026 (Air SR previously $56,770).",
+   "models": "Kia EV5",
+   "start": "2026-02-01",
+   "end": "2026-02-28",
+   "url": "https://www.drive.com.au/news/kia-ev5-electric-suv-slips-under-50k-drive-away-in-australia/",
+   "type": "driveaway",
+   "cids": [
+    "kia-ev5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:e2befa99ddea",
+   "brand": "kia",
+   "brand_name": "Kia",
+   "title": "4 月：EV5 $49,990 DAP 起（MY25 库存）",
+   "title_en": "April: EV5 from $49,990 driveaway (MY25 stock)",
+   "detail": "Air SR $49,990 driveaway (up to $6,780 saving), four grades; purchase and deliver 1-30 Apr 2026, private buyers, MY25 stock.",
+   "models": "Kia EV5",
+   "start": "2026-04-01",
+   "end": "2026-04-30",
+   "url": "https://thedriven.io/2026/04/04/kia-slashes-prices-on-the-ev3-and-ev5-electric-suvs/",
+   "type": "driveaway",
+   "cids": [
+    "kia-ev5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:792cf81042e6",
+   "brand": "kia",
+   "brand_name": "Kia",
+   "title": "EOFY：EV5 Air SR $49,990 / Air LR $59,990 DAP",
+   "title_en": "EOFY: EV5 Air SR $49,990 / Air $59,990 driveaway",
+   "detail": "Fixed driveaway EV5 Air SR $49,990 and EV5 Air (LR) $59,990 for private buyers until 30 Jun 2026 (alongside EV3/EV4 deals).",
+   "models": "Kia EV5",
+   "start": "2026-06-01",
+   "end": "2026-06-30",
+   "url": "https://zecar.com/offers-and-deals/kia-eofy-drive-away-deals-ev3-ev4-ev5-2026",
+   "type": "driveaway",
+   "cids": [
+    "kia-ev5"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:9daf621c0b5b",
+   "brand": "kia",
+   "brand_name": "Kia",
+   "title": "9–10 月：1.88% 比较利率或 $2,000 现金返还（全系）",
+   "title_en": "Sep-Oct: 1.88% p.a. comparison rate OR $2,000 cashback",
+   "detail": "All EV5 grades: choose 1.88% p.a. comparison rate (max 36 months, 20% deposit) or $2,000 cashback; purchase/deliver 1 Sep-31 Oct 2026 (finance apps by 31 Oct, settle by 14 Nov); excludes fleet/govt/rental.",
+   "models": "Kia EV5",
+   "start": "2026-09-01",
+   "end": "2026-10-31",
+   "url": "https://www.kia.com/au/shopping-tools/offers/car-offers/ev-offers.html",
+   "type": "finance_rate",
+   "cids": [
+    "kia-ev5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:a31ea886168c",
+   "brand": "smart",
+   "brand_name": "smart",
+   "title": "smart #5 公布定价并开放订购：Pro+ $58,900 / Premium+ $63,900 / Brabus $73,900",
+   "title_en": "smart #5 Australian pricing announced / orders open",
+   "detail": "#5 Pro+ RWD $58,900, Premium+ RWD $63,900, Brabus AWD $73,900 before on-roads; orders from 18 Sep 2026, deliveries from Nov 2026 via LSH Auto's three-dealer east-coast network.",
+   "models": "smart #5",
+   "start": "2026-09-18",
+   "end": null,
+   "url": "https://evcentral.com.au/tesla-model-y-has-yet-another-rival-smart-5-lands-from-58900-with-590km-range-and-400kw-charging/",
+   "type": "launch",
+   "cids": [
+    "smart-5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:52e56349b732",
+   "brand": "smart",
+   "brand_name": "smart",
+   "title": "上市政策：前 60 台零售订单赠 7.4kW 壁挂充电桩（价值 $1,990）",
+   "title_en": "Introductory offer: free $1,990 7.4 kW wall box (first 60)",
+   "detail": "First 60 retail customers who order 18 Sep-31 Dec 2026 and take delivery by 31 Dec 2026 get a smart 7.4 kW Wi-Fi wall box valued $1,990 (installation not included).",
+   "models": "smart #5",
+   "start": "2026-09-18",
+   "end": "2026-12-31",
+   "url": "https://zecar.com/offers-and-deals/smart-5-introductory-offer-free-wall-box",
+   "type": "bonus",
+   "cids": [
+    "smart-5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:c86b3450562f",
+   "brand": "smart",
+   "brand_name": "smart",
+   "title": "smart Connections 推荐计划：$500 Evie 充电券",
+   "title_en": "smart Connections referral: $500 Evie voucher",
+   "detail": "Refer a buyer who takes delivery of a new smart from a LSH Auto dealership and receive a $500 Evie charging voucher; from 1 Aug 2026, open-ended.",
+   "models": "smart #5",
+   "start": "2026-08-01",
+   "end": null,
+   "url": "https://thebeep.com.au/offers-and-deals/smart/",
+   "type": "bonus",
+   "cids": [
+    "smart-5"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:dd8238341143",
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "title": "Elexio Elite 上市，首发 $59,990 DAP（MSRP $61,990）",
+   "title_en": "Elexio Elite launch with $59,990 driveaway intro price",
+   "detail": "Elexio Elite FWD (160 kW, 88.1 kWh, 546 km) launched 23 Feb 2026 at $59,990 driveaway introductory price (zecar lists offer window 1 Jan-31 Mar 2026); regular RRP $61,990.",
+   "models": "Hyundai Elexio",
+   "start": "2026-02-23",
+   "end": "2026-03-31",
+   "url": "https://www.chasingcars.com.au/news/new-car-prices/hyundai-elexio-2026-midsize-twin-to-kia-ev5-launches-in-sole-front-drive-large-battery-guise-from-59990-drive-away/",
+   "type": "launch",
+   "cids": [
+    "hyundai-elexio"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:ce9bd2f05fd0",
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "title": "首发 DAP 结束，恢复 MSRP 定价；新增入门版 $58,990",
+   "title_en": "Intro driveaway ends; RRP pricing applies, base variant added",
+   "detail": "From 1 Apr 2026 Elite reverts to $61,990 before on-roads ($6,034-$9,221 dearer in real terms); new base Elexio FWD at $58,990 before on-roads arrives Q2 2026.",
+   "models": "Hyundai Elexio",
+   "start": "2026-04-01",
+   "end": null,
+   "url": "https://www.cars24.com.au/car-news/2026-hyundai-elexio-ev-price-rise-confirmed/",
+   "type": "price_rise",
+   "cids": [
+    "hyundai-elexio"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:6f7b4ae3ff64",
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "title": "5 月：Elexio $57,990 / Elite $59,990 DAP",
+   "title_en": "May: Elexio $57,990 / Elite $59,990 driveaway",
+   "detail": "Base Elexio $57,990 driveaway (saving $3,932-$8,026 by state), Elite $59,990 driveaway; new stock, purchase and deliver by 31 May 2026.",
+   "models": "Hyundai Elexio",
+   "start": "2026-05-01",
+   "end": "2026-05-31",
+   "url": "https://zecar.com/reviews/hyundai-ev-deals-kona-ioniq5-elexio-inster-2026",
+   "type": "driveaway",
+   "cids": [
+    "hyundai-elexio"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:03707ca60c36",
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "title": "7–9 月：入门版 Elexio 约 $55,990 DAP（The Beep 价格记录）",
+   "title_en": "Jul-Sep: base Elexio ~$55,990 driveaway (thebeep price history)",
+   "detail": "thebeep driveaway tracker shows base Elexio at $55,990 from 5 Jul to ~11 Oct 2026 (Elite $59,990); no primary Hyundai terms retrieved for this window.",
+   "models": "Hyundai Elexio",
+   "start": "2026-07-01",
+   "end": "2026-09-30",
+   "url": "https://thebeep.com.au/cars/hyundai/elexio/",
+   "type": "driveaway",
+   "cids": [
+    "hyundai-elexio"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:1eb84b16ab1f",
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "title": "第四季度：Elexio $57,990 DAP（至 12-31）；Elite $60,990（10 月）",
+   "title_en": "Q4: Elexio $57,990 driveaway; Elite $60,990 (October)",
+   "detail": "Base Elexio FWD $57,990 driveaway for new stock purchased and delivered 1 Oct-31 Dec 2026; Elite $60,990 driveaway 1-31 Oct 2026; excludes fleet/govt/rental.",
+   "models": "Hyundai Elexio",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://www.hyundai.com/au/en/offers",
+   "type": "driveaway",
+   "cids": [
+    "hyundai-elexio"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:b853c1f48a63",
+   "brand": "hyundai",
+   "brand_name": "Hyundai",
+   "title": "第四季度：3.90% 比较利率（Hyundai Finance GFV，$179/周起）",
+   "title_en": "Q4: 3.90% p.a. comparison rate (Hyundai Finance GFV)",
+   "detail": "3.90% p.a. comparison rate on in-stock new/demo Elexio, Ioniq 5, Kona Electric; 10% deposit, max 36 months; Elexio from $179/week (GFV loan, $5,899 deposit, $30,000 final); apply by 31 Dec 2026, settle by 14 Jan 2027.",
+   "models": "Hyundai Elexio",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://www.hyundai.com/au/en/offers",
+   "type": "finance_rate",
+   "cids": [
+    "hyundai-elexio"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:a59dee16340b",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "第一季度：预配置 Polestar 4 $79,000 DAP",
+   "title_en": "Q1: pre-configured Polestar 4 $79,000 driveaway",
+   "detail": "MY25/MY26 pre-configured Polestar 4 Long Range Single Motor with Pilot pack and premium paint for $79,000 driveaway (discount applied to driveaway price) until 31 Mar 2026.",
+   "models": "Polestar 4",
+   "start": "2026-01-01",
+   "end": "2026-03-31",
+   "url": "https://www.polestar.com/au/offers/q1-26-ps4-driveaway-offer/",
+   "type": "driveaway",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:e338d83ea518",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "Flare novated 租赁：Polestar 4 最高 16% 折扣",
+   "title_en": "Flare novated lease: up to 16% off Polestar 4",
+   "detail": "Flare novated lease deal: up to 16% off Polestar 4 (18% off selected Polestar 2 MY26), from $183/week; ends 31 Mar 2026.",
+   "models": "Polestar 4",
+   "start": "2026-03-18",
+   "end": "2026-03-31",
+   "url": "https://zecar.com/offers-and-deals/polestar-novated-lease-flare-save-up-to-66757",
+   "type": "novated",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:dab61cff3781",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "合作 novated 租赁：预配置 Polestar 4 Rear Motor $249/周起",
+   "title_en": "Polestar 4 partner lease from $249/week",
+   "detail": "Pre-configured 2026 Polestar 4 Rear Motor via partner novated lease from $249/week incl. running costs; 8 Apr-31 Dec 2026 while stock lasts.",
+   "models": "Polestar 4",
+   "start": "2026-04-08",
+   "end": "2026-12-31",
+   "url": "https://thebeep.com.au/offers-and-deals/polestar/",
+   "type": "novated",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:12f6186cd43d",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "MY27 Polestar 4 轿跑更新，定价暂未变（$78,500 / $88,350）",
+   "title_en": "MY27 Polestar 4 coupe update (pricing initially unchanged)",
+   "detail": "MY27 coupe launched June 2026 with recalibrated chassis and new trim names (Rear motor / Dual motor / Dual motor Performance pack); prices initially unchanged at $78,500 / $88,350.",
+   "models": "Polestar 4",
+   "start": "2026-06-01",
+   "end": null,
+   "url": "https://www.drive.com.au/news/2027-polestar-4-coupe-prices-cut-aligning-it-with-the-new-suv/",
+   "type": "launch",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:519658e33ae9",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "Polestar 4 轿跑 MSRP 下调：Rear $73,900（−$4,600）/ Dual $81,750（−$6,600）",
+   "title_en": "Polestar 4 coupe RRP cut to match new Polestar 4 SUV",
+   "detail": "From 2 Sep 2026: Rear motor $73,900 (was $78,500, -$4,600), Dual motor $81,750 (was $88,350, -$6,600), Dual motor Performance pack $95,450; new Polestar 4 SUV priced $73,900 / $81,750, due by end-2026.",
+   "models": "Polestar 4",
+   "start": "2026-09-02",
+   "end": null,
+   "url": "https://zecar.com/reviews/polestar-4-coupe-my27-price-specs-australia",
+   "type": "price_cut",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:b46eef3a3a09",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "9 月：MY25 库存最高 −$16,500（$10,000 + Plus Pack），MY26 −$2,500",
+   "title_en": "Sep: up to $16,500 off MY25 stock, $2,500 off MY26",
+   "detail": "MY25 Polestar 4 stock: $10,000 off plus $6,500 Plus Pack free (up to $16,500); MY26 stock $2,500 off plus free Plus Pack; $200 off Evnex charger; order by 30 Sep, deliver by 31 Oct 2026; not combinable with novated offer.",
+   "models": "Polestar 4",
+   "start": "2026-09-01",
+   "end": "2026-09-30",
+   "url": "https://www.drive.com.au/news/polestar-4-ev-offers-up-to-16500-off-novated-leasing-deals-to-clear-older-stock/",
+   "type": "runout",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:c53b3f6d3669",
+   "brand": "polestar",
+   "brand_name": "Polestar",
+   "title": "0.80% 比较利率（预配置 MY27 轿跑，10-1 至 11-30 订购）",
+   "title_en": "0.80% p.a. comparison rate on pre-configured MY27 Polestar 4 coupe",
+   "detail": "0.80% p.a. comparison rate, min 10% deposit, 36-month term, no balloon; pre-configured MY27 coupe ordered 1 Oct-30 Nov 2026, delivered by 31 Dec 2026; excludes govt/fleet/rental/novated.",
+   "models": "Polestar 4",
+   "start": "2026-10-01",
+   "end": "2026-11-30",
+   "url": "https://www.polestar.com/au/offers/private/polestar-4-coupe/",
+   "type": "finance_rate",
+   "cids": [
+    "polestar-4"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:90a17efdf8da",
+   "brand": "volvo",
+   "brand_name": "Volvo",
+   "title": "EX30 MSRP 下调最高 $11,300：Plus $49,990 / Ultra $54,990 / Cross Country $62,990",
+   "title_en": "EX30 RRP cut up to $11,300",
+   "detail": "From 1 Apr 2026: Single Motor Extended Range Plus $49,990 (was $59,990), Ultra $54,990 (was $66,290, -$11,300), Cross Country AWD $62,990 (was $69,990); no spec change.",
+   "models": "Volvo EX30",
+   "start": "2026-04-01",
+   "end": null,
+   "url": "https://thebeep.com.au/car-news/volvo-ex30-ex40-price-cut-australia-2026/",
+   "type": "price_cut",
+   "cids": [
+    "volvo-ex30"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:51d6954d8368",
+   "brand": "volvo",
+   "brand_name": "Volvo",
+   "title": "CEFC 合作：符合条件 EV 贷款利率减 1.00% p.a.",
+   "title_en": "1.00% p.a. loan-rate discount with CEFC",
+   "detail": "1.00% p.a. off standard Volvo Car Financial Services consumer loan / chattel mortgage rate on eligible EVs with base price <= $91,387 (CEFC funds half); from 1 Apr 2026, listed to 31 Dec 2026; excludes govt/novated/fleet/rental.",
+   "models": "Volvo EX30",
+   "start": "2026-04-01",
+   "end": "2026-12-31",
+   "url": "https://zecar.com/offers-and-deals/volvo-ev-1-percent-loan-rate-discount-cefc",
+   "type": "finance_rate",
+   "cids": [
+    "volvo-ex30"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:f5472061fd0d",
+   "brand": "volvo",
+   "brand_name": "Volvo",
+   "title": "EX30 Plus $55,990 DAP（5-1 至 10-31）",
+   "title_en": "EX30 Plus from $55,990 driveaway",
+   "detail": "EX30 Plus Single Motor Extended Range $55,990 driveaway, ordered and delivered 1 May-31 Oct 2026, subject to stock; excludes govt/fleet/rental.",
+   "models": "Volvo EX30",
+   "start": "2026-05-01",
+   "end": "2026-10-31",
+   "url": "https://zecar.com/offers-and-deals/volvo-ex30-driveaway-offer-october-2026",
+   "type": "driveaway",
+   "cids": [
+    "volvo-ex30"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:62a0f5c00878",
+   "brand": "volvo",
+   "brand_name": "Volvo",
+   "title": "Volvo Showcase 10 月活动（经销商层面）",
+   "title_en": "Volvo Showcase October Event",
+   "detail": "Dealer-level 'exclusive offers' across the Volvo range for cars ordered and delivered 1-31 Oct 2026 (no national amounts published).",
+   "models": "Volvo EX30",
+   "start": "2026-10-01",
+   "end": "2026-10-31",
+   "url": "https://thebeep.com.au/offers-and-deals/volvo/",
+   "type": "bonus",
+   "cids": [
+    "volvo-ex30"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:0774ac4e2651",
+   "brand": "volvo",
+   "brand_name": "Volvo",
+   "title": "EX40 两版本 MSRP 各下调 $7,000：$69,990 / $74,990",
+   "title_en": "EX40 RRP cut $7,000 on both variants",
+   "detail": "From 1 Apr 2026: Single Motor Extended Range Ultra $69,990 (was $76,990), Twin Motor Ultra $74,990 (was $81,990); no spec change; cuts made ahead of EX60 arrival.",
+   "models": "Volvo EX40",
+   "start": "2026-04-01",
+   "end": null,
+   "url": "https://thebeep.com.au/car-news/volvo-ex30-ex40-price-cut-australia-2026/",
+   "type": "price_cut",
+   "cids": [
+    "volvo-ex40"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:e2642a4b3adf",
+   "brand": "volvo",
+   "brand_name": "Volvo",
+   "title": "CEFC 合作：EX40 贷款利率减 1.00% p.a.",
+   "title_en": "1.00% p.a. loan-rate discount with CEFC (EX40 eligible)",
+   "detail": "Same CEFC 1.00% p.a. rate discount applies to EX40 (base price under $91,387 cap); from 1 Apr 2026.",
+   "models": "Volvo EX40",
+   "start": "2026-04-01",
+   "end": "2026-12-31",
+   "url": "https://thebeep.com.au/offers-and-deals/volvo/",
+   "type": "finance_rate",
+   "cids": [
+    "volvo-ex40"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:fbf18794de72",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "1 月：EX5 厂家补贴 $2,500",
+   "title_en": "January: EX5 $2,500 factory bonus",
+   "detail": "$2,500 factory bonus on MY25/26 EX5 purchased and delivered by 31 Jan 2026 at participating dealers.",
+   "models": "Geely EX5",
+   "start": "2026-01-01",
+   "end": "2026-01-31",
+   "url": "https://zecar.com/offers-and-deals/geely-ex5-factory-bonus",
+   "type": "bonus",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:a6321cac345e",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "1 月：EX5 novated 租赁补贴 $2,500",
+   "title_en": "January: EX5 novated lease $2,500 contribution",
+   "detail": "$2,500 contribution on new EX5 Complete or Inspire financed via a registered FMO novated lease, until 31 Jan 2026.",
+   "models": "Geely EX5",
+   "start": "2026-01-01",
+   "end": "2026-01-31",
+   "url": "https://zecar.com/offers-and-deals/geely-ex5-novated-lease-program",
+   "type": "novated",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:f30433db880c",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "2026 款 EX5 Extended Range：MSRP +$1,000，电池增至 68.39kWh",
+   "title_en": "2026 EX5 Extended Range: +$1,000, bigger 68.39 kWh battery",
+   "detail": "EX5 Complete $41,990 (was $40,990), Inspire $45,990 (was $44,990) before on-roads; battery 60.22 -> 68.39 kWh, WLTP 475/450 km; announced 2 Mar 2026.",
+   "models": "Geely EX5",
+   "start": "2026-03-02",
+   "end": null,
+   "url": "https://www.carexpert.com.au/car-news/2026-geely-ex5-price-and-specs-mid-size-electric-suv-gets-bigger-battery",
+   "type": "price_rise",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:13772cdaf178",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "3–4 月：1.88% 比较利率 + 赠 7kW 家用充电桩",
+   "title_en": "Mar-Apr: 1.88% p.a. comparison rate + free 7 kW home charger",
+   "detail": "1.88% p.a. comparison rate, zero deposit, 36 months on new EX5 Extended Range stock, plus free 7 kW single-phase wall charger (valued up to $2,000); ends 30 Apr 2026.",
+   "models": "Geely EX5",
+   "start": "2026-03-03",
+   "end": "2026-04-30",
+   "url": "https://zecar.com/offers-and-deals/geely-ex5-extended-range-finance-offer-188-pa-comparison-rate-free-ev-home-charger-up-to-2000-in-value",
+   "type": "finance_rate",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:dae6423ce714",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "novated 租赁 6% 折扣（4–10 月）",
+   "title_en": "6% novated lease discount (Apr-Oct)",
+   "detail": "6% off vehicle price for EX5 (Extended Range) bought through an approved FMO novated lease; thebeep lists 1 Apr-31 Oct 2026 (Geely's Oct terms also quote 6% novated).",
+   "models": "Geely EX5",
+   "start": "2026-04-01",
+   "end": "2026-10-31",
+   "url": "https://thebeep.com.au/offers-and-deals/geely/",
+   "type": "novated",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:60431eea0f44",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "EOFY：0.88% 比较利率 + 赠 7kW 充电桩",
+   "title_en": "EOFY: 0.88% p.a. comparison rate + free 7 kW charger",
+   "detail": "0.88% comparison rate, no deposit/establishment fee, on EX5 Extended Range (and Starray EM-i) until 30 Jun 2026; EX5 buyers get free 7 kW home charger (hardware only).",
+   "models": "Geely EX5",
+   "start": "2026-05-01",
+   "end": "2026-06-30",
+   "url": "https://thedriven.io/2026/05/03/geely-offers-low-finance-rate-and-free-charger-with-ex5-extended-range-model/",
+   "type": "finance_rate",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:b770e0a4e0c2",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "7 月：1.88% 比较利率 + 赠家用充电桩",
+   "title_en": "July: 1.88% comparison rate + free home charger",
+   "detail": "1.88% p.a. comparison rate over 36 months plus free 7 kW single-phase home charger (no installation) on new in-stock EX5 purchased by 31 Jul 2026.",
+   "models": "Geely EX5",
+   "start": "2026-07-01",
+   "end": "2026-07-31",
+   "url": "https://thedriven.io/2026/07/07/geely-extends-low-finance-and-free-charger-offer-to-upgraded-ex5-extended-range-model/",
+   "type": "finance_rate",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:b00f1c2a6034",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "8–9 月：0.68% 比较利率 + 赠家用充电桩",
+   "title_en": "Aug-Sep: 0.68% p.a. comparison rate + free home charger",
+   "detail": "0.68% p.a. comparison rate, 36 months, $0 deposit, plus free 7 kW home charger on all new EX5 stock; finance approval by 31 Aug 2026, later extended to 30 Sep 2026.",
+   "models": "Geely EX5",
+   "start": "2026-08-01",
+   "end": "2026-09-30",
+   "url": "https://zecar.com/offers-and-deals/geely-ex5-finance-offer",
+   "type": "finance_rate",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:fc8089bccaab",
+   "brand": "geely",
+   "brand_name": "Geely",
+   "title": "10 月：0.09% 比较利率（EX5 / EX2 / Starray EM-i）",
+   "title_en": "October: 0.09% p.a. comparison rate (EX5, EX2, Starray EM-i)",
+   "detail": "0.09% p.a. comparison rate, no deposit, 36 months, no balloon on EX5/EX2/Starray EM-i (plus free 7 kW wall charger on EX5 per thebeep); approval by 31 Oct 2026, settle by 13 Nov 2026; novated buyers 6% off instead; new stock only.",
+   "models": "Geely EX5",
+   "start": "2026-10-01",
+   "end": "2026-10-31",
+   "url": "https://zecar.com/offers-and-deals/geely-0-09-finance-ex5-ex2-starray-em-i-october-2026",
+   "type": "finance_rate",
+   "cids": [
+    "geely-ex5"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:375fb3045cf3",
+   "brand": "leapmotor",
+   "brand_name": "Leapmotor",
+   "title": "1–3 月：C10 Summer Bonus，DAP $44,990 起 + 最高 $4,000 补贴",
+   "title_en": "Jan-Mar: C10 'Summer Bonus' driveaway from $44,990 + up to $4,000 bonus",
+   "detail": "C10 driveaway from $44,990 (thebeep tracker: BEV Style $47,990, REEV Style $44,990, REEV Design $47,990 from 4 Jan) plus summer bonuses up to $4,000; listed 5 Feb-30 Mar 2026.",
+   "models": "Leapmotor C10",
+   "start": "2026-01-04",
+   "end": "2026-03-31",
+   "url": "https://zecar.com/offers-and-deals/leapmotor-c10-summer-bonus-up-to-4000-in-value",
+   "type": "driveaway",
+   "cids": [
+    "leapmotor-c10"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:72a681034f79",
+   "brand": "leapmotor",
+   "brand_name": "Leapmotor",
+   "title": "C10 AWD Sports+ 特别版发布，MSRP $53,888",
+   "title_en": "C10 AWD Sports+ Special Edition announced, $53,888",
+   "detail": "440 kW/760 Nm dual-motor AWD Sports+ Special Edition, 81.9 kWh, 800 V, $53,888 MSRP; on sale April 2026 (limited run).",
+   "models": "Leapmotor C10",
+   "start": "2026-03-24",
+   "end": null,
+   "url": "https://thebeep.com.au/car-news/leapmotor-c10-awd-sports-plus-special-edition-australia/",
+   "type": "launch",
+   "cids": [
+    "leapmotor-c10"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:4c627412d233",
+   "brand": "leapmotor",
+   "brand_name": "Leapmotor",
+   "title": "4–6 月：B10 / C10 0.88% 比较利率",
+   "title_en": "Apr-Jun: 0.88% p.a. comparison rate on B10 & C10",
+   "detail": "0.88% p.a. comparison rate, min 10% deposit, max 36 months on B10 BEV and selected C10; 1 Apr-30 Jun 2026, approval by 30 Jun, settle by 15 Jul 2026.",
+   "models": "Leapmotor C10",
+   "start": "2026-04-01",
+   "end": "2026-06-30",
+   "url": "https://zecar.com/offers-and-deals/leapmotor-088-comparison-rate-finance-on-b10-c10-ends-30-june-2026",
+   "type": "finance_rate",
+   "cids": [
+    "leapmotor-c10"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:147895bed3c2",
+   "brand": "leapmotor",
+   "brand_name": "Leapmotor",
+   "title": "MY26 C10 BEV Design Long Range：81.9kWh / 800V，MSRP 维持 $49,888",
+   "title_en": "MY26 C10 BEV Design Long Range: 81.9 kWh, 800 V, same $49,888",
+   "detail": "MY26 C10 BEV Design LR (510 km WLTP, 220 kW, 180 kW DC) replaces Style/Design BEV at unchanged $49,888 MSRP; BEV Style ($45,888) dropped; REEV Style $43,888 / Design $45,888 (MY25) unchanged.",
+   "models": "Leapmotor C10",
+   "start": "2026-06-18",
+   "end": null,
+   "url": "https://www.drive.com.au/news/2026-leapmotor-c10-bev-price-and-specs-power-range-boost-at-no-extra-cost/",
+   "type": "launch",
+   "cids": [
+    "leapmotor-c10"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:3a3aa8785a00",
+   "brand": "leapmotor",
+   "brand_name": "Leapmotor",
+   "title": "7–9 月：C10 EV $47,990 / Hybrid EV $42,990 DAP + 额外 $3,000 现金返还",
+   "title_en": "Jul-Sep 'So Much to Love': C10 EV $47,990 / Hybrid EV $42,990 driveaway + $3,000 cashback",
+   "detail": "C10 BEV from $47,990 and C10 Hybrid EV (REEV) from $42,990 driveaway (selected colours) plus additional $3,000 cashback at point of sale; AWD Sports+ excluded; purchase and deliver 1 Jul-30 Sep 2026.",
+   "models": "Leapmotor C10",
+   "start": "2026-07-01",
+   "end": "2026-09-30",
+   "url": "https://zecar.com/reviews/leapmotor-driveaway-sale-b10-c10-august-2026",
+   "type": "driveaway",
+   "cids": [
+    "leapmotor-c10"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:5ae79a8624aa",
+   "brand": "leapmotor",
+   "brand_name": "Leapmotor",
+   "title": "第四季度：C10 免上路费用 + 免高级漆 + 赠壁挂充电桩",
+   "title_en": "Q4: C10 $0 on-road costs + $0 premium paint + free wall box",
+   "detail": "C10 BEV and Hybrid EV: on-road costs and premium paint waived plus complimentary wall box charger (driveaway = MSRP, e.g. Design LR $49,888, REEV Style $43,888); AWD Sports+ gets wall box only; 1 Oct-31 Dec 2026.",
+   "models": "Leapmotor C10",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "url": "https://thebeep.com.au/offers-and-deals/leapmotor/",
+   "type": "driveaway",
+   "cids": [
+    "leapmotor-c10"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:764773b0991a",
+   "brand": "deepal",
+   "brand_name": "Deepal",
+   "title": "1 月：$5,000 现金返还 + 3 年免费保养（MY24）",
+   "title_en": "January: $5,000 cashback + 3 yr free servicing (MY24)",
+   "detail": "$5,000 cashback and 3 years free servicing on new MY24 S07 purchased in January 2026.",
+   "models": "Deepal S07",
+   "start": "2026-01-01",
+   "end": "2026-01-31",
+   "url": "https://zecar.com/offers-and-deals/deepal-s07-5000-cashback-3-years-free-servicing",
+   "type": "cashback",
+   "cids": [
+    "deepal-s07"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:a557f869082d",
+   "brand": "deepal",
+   "brand_name": "Deepal",
+   "title": "2 月：春节 $6,088 现金返还 + 12 个月 Evie 充电",
+   "title_en": "February: Chinese New Year $6,088 cashback + 12 months Evie charging",
+   "detail": "$6,088 cashback plus 12 months free Evie public charging on all MY24 S07 purchased 1-28 Feb 2026.",
+   "models": "Deepal S07",
+   "start": "2026-02-01",
+   "end": "2026-02-28",
+   "url": "https://zecar.com/offers-and-deals/deepal-s07-chinese-new-year-offer",
+   "type": "cashback",
+   "cids": [
+    "deepal-s07"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:b57ac9e4a1fe",
+   "brand": "deepal",
+   "brand_name": "Deepal",
+   "title": "3–4 月：0.88% 比较利率或 $6,000 现金返还，另含 3 年保养",
+   "title_en": "Mar-Apr: 0.88% p.a. comparison rate OR $6,000 cashback, + 3 yr servicing",
+   "detail": "Choice of 0.88% p.a. comparison rate (36 months) or $6,000 cashback off driveaway, both with 3 yr/60,000 km free servicing; sold 1 Mar-30 Apr 2026.",
+   "models": "Deepal S07",
+   "start": "2026-03-01",
+   "end": "2026-04-30",
+   "url": "https://zecar.com/offers-and-deals/deepal-s07-088-pa-finance-rate-or-6000-cashback-3-years-free-servicing",
+   "type": "finance_rate",
+   "cids": [
+    "deepal-s07"
+   ],
+   "verified": false
+  },
+  {
+   "id": "base:71e7fbe476b6",
+   "brand": "deepal",
+   "brand_name": "Deepal",
+   "title": "S07 现车 $46,990（19 寸）/ $47,990（20 寸）DAP（MSRP $53,900）",
+   "title_en": "S07 $46,990 (19-in) / $47,990 (20-in) driveaway",
+   "detail": "S07 from $46,990 driveaway (19-inch wheels) or $47,990 (20-inch) on 2025-built stock from 24 Mar 2026 while stocks last (RRP $53,900); 19-inch sold out by July, 20-inch offer extended to 31 Jul and still listed by thebeep as open-ended.",
+   "models": "Deepal S07",
+   "start": "2026-03-24",
+   "end": null,
+   "url": "https://www.carexpert.com.au/car-news/deepal-deals-not-over-yet-as-discounted-s07-ev-stock-remains-after-eofy-sales-rush",
+   "type": "driveaway",
+   "cids": [
+    "deepal-s07"
+   ],
+   "verified": true
+  },
+  {
+   "id": "base:22b605a81855",
+   "brand": "deepal",
+   "brand_name": "Deepal",
+   "title": "S07 附件包（7 月起）",
+   "title_en": "S07 accessory packs (from July)",
+   "detail": "Limited-time accessory packs (floor mats, cargo tray, second key fob, handbook wallet) bundled with S07 from 1 Jul 2026, no end date.",
+   "models": "Deepal S07",
+   "start": "2026-07-01",
+   "end": null,
+   "url": "https://thebeep.com.au/offers-and-deals/deepal/",
+   "type": "bonus",
+   "cids": [
+    "deepal-s07"
+   ],
+   "verified": false
+  }
+ ]
 }
