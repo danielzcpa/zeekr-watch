@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-21T01:56:14+00:00",
- "duration_s": 214.5,
- "items_total": 844,
- "new_this_run": 215,
+ "generated": "2026-10-21T07:26:38+00:00",
+ "duration_s": 189.3,
+ "items_total": 852,
+ "new_this_run": 204,
  "counts": {
-  "complaints_24h": 1,
-  "complaints_7d": 11,
+  "complaints_24h": 0,
+  "complaints_7d": 10,
   "complaints_30d": 39,
   "high_7d": 2,
   "medium_7d": 2,
-  "low_7d": 7,
+  "low_7d": 6,
   "competitor_news_7d": 113,
   "launch_signals_7d": 31,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 70,
-  "offer_page_changes_7d": 3
+  "zeekr_news_7d": 68,
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -171,7 +171,7 @@
    "date": "2026-10-17",
    "complaints": 1,
    "competitor_news": 32,
-   "zeekr_news": 8
+   "zeekr_news": 9
   },
   {
    "date": "2026-10-18",
@@ -189,13 +189,13 @@
    "date": "2026-10-20",
    "complaints": 1,
    "competitor_news": 17,
-   "zeekr_news": 17
+   "zeekr_news": 19
   },
   {
    "date": "2026-10-21",
    "complaints": 0,
-   "competitor_news": 2,
-   "zeekr_news": 0
+   "competitor_news": 6,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -847,6 +847,13 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "99419ac300069eac",
+   "title": "Zecar (全品牌政策汇总) 官网政策页面变化（+2 / −3 行）",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-10-21T07:29:45+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "8e2ac5e25142a7b1",
    "title": "Polestar 官网政策页面变化（+1 / −1 行）",
    "source": "https://www.polestar.com/au/offers/",
@@ -988,32 +995,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 76,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 35,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 21,
+   "count": 23,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 41,
+   "count": 38,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 45,
+   "count": 50,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 26,
+   "count": 21,
    "note": ""
   },
   "carexpert": {
@@ -1077,14 +1084,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1092,14 +1099,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-AustralianEV": {
    "ok": true,
    "count": 25,
    "note": "anonymous RSS"
+  },
+  "reddit-AustralianEV": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1114,7 +1121,7 @@
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1143,7 +1150,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1188,7 +1195,7 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 19,
+   "count": 31,
    "note": "changed"
   },
   "offers-mazda": {
@@ -1212,14 +1219,14 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by NewConnectionError(\"HTTPSConnection"
   },
   "offers-hyundai": {
-   "ok": true,
-   "count": 9,
-   "note": "unchanged"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "offers-tesla-my": {
    "ok": false,
@@ -1263,8 +1270,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 38,
-   "note": "unchanged"
+   "count": 37,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

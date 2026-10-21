@@ -1,5 +1,21 @@
 [
  {
+  "id": "99419ac300069eac",
+  "key": "zecar-offers",
+  "brand": "Zecar (全品牌政策汇总)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-10-21T07:29:45+00:00",
+  "added": [
+   "· 38 active offers",
+   "GWM Cannon PHEV: $2,000 Cash Bonus or $2,000 Fuel Card"
+  ],
+  "removed": [
+   "· 37 active offers",
+   "BYD Seal 6 Touring $4,000 Cashback: From $35,990 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Seal 6 Touring Premium plug-in hybrid wagon. That brings the $39,990 list price down to an effective $35,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026."
+  ]
+ },
+ {
   "id": "8e2ac5e25142a7b1",
   "key": "polestar",
   "brand": "Polestar",

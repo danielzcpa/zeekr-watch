@@ -1,5 +1,115 @@
 [
  {
+  "id": "f33f9df23a714e2d",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-kia-seltos-hybrid-initial-specs-confirmed-for-australia",
+  "title": "2027 Kia Seltos Hybrid: Initial specs confirmed for Australia",
+  "text": "Kia Australia has quietly confirmed initial details for the second-generation Seltos Hybrid (HEV) lineup as it hits dealerships this week. The 2027 Kia Seltos Hybrid range is available in six variants total – S, S with Safety Pack, Sport, Sport+, GT-Line FWD and GT-Line e-AWD – and punters may be pleasantly surprised with the level of standard specification from the base grades. Pricing starts from $39,990 drive-away, with standard kit including 16-inch alloy wheels, LED headlights, the full Integrated Panoramic Display (12.3 + 5.0 + 12.3-inch displays) with wireless Apple CarPlay and Android Auto, Kia Connect services with over-the-air updates, as well as dual-zone climate control and a reversing camera with front and rear sensors. The base model is available with a $2500 Safety Pack that adds a surround-view camera system, Blind Spot View Monitor cameras, Remote Smart Parking Assist, as well as side parking sensors – see the full breakdown based on a dealer bulletin obtained by CarExpert below. 2027 Kia Seltos S equipment highlights: 16-inch alloy wheels Space-saver spare Manual flush door handles Roof rails Electrochromatic rear-view mirror Electric parking brake incl. auto hold",
+  "author": "James Wong",
+  "published": "2026-10-21T04:48:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
+  "id": "a0c683f8f0e663ad",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · The Cool Down",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWJfMklSUnE1bG8xOGZWTHNsQ2Z6UmNWYTJKam9Qc2RkSjlsd2h5ZVA2VFR5S0tMVVlmVnB4TnctUWpjekk5RHV2eHBPS18zZVBocXF6T1FRR0lLSTBhdE1WTWZxbktOcVdkQmNrcERjSVFTZVpWdWpYS0pkRDNkdFJ4QQ?oc=5",
+  "title": "In Australia, BYD's $19,990 EV undercuts every new car on sale, gas or electric - The Cool Down",
+  "text": "In Australia, BYD's $19,990 EV undercuts every new car on sale, gas or electric The Cool Down",
+  "author": "",
+  "published": "2026-10-21T02:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
+  "id": "08fba64e4d2cfe81",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTR3TGluSEFmdElHMUNQZEt4bDJJQVF3Ujh4eDVSb1NULVhxX0o5ZkRHS1Y1M05GTERTQ3NhanpSQ0huRG9DaTNvWnFPTGg0dFpoYzRWV3h6SzFHcEdzZWx3NlpCYXgtX2RDUWE5RWVNT2dxaXhFME1BNzkwdk9xQllUNThqMk1tLXJqU3NaeGU3SE91dkp2ZTZoUnJXUQ?oc=5",
+  "title": "Zeekr cars between $50,000 & $80,000 with electric engine range over 600km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $50,000 & $80,000 with electric engine range over 600km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T01:58:11+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
   "id": "f3afb3f7d848b6e9",
   "type": "competitor_news",
   "source": "carexpert",
@@ -37,6 +147,76 @@
   "first_seen": "2026-10-21T01:56:14+00:00"
  },
  {
+  "id": "0f37aca95c083fcd",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS190ZmxneTRKNXpDWUh5eU1VTE5tbmQ1dkU5M0s3bWpYdWpXdi1jbGVwUjVIUm5qNzFQeFh4WS05SHFEZTdoRVNTVGFZdEZrMkx5S0ZleXVHZm1VR1c5QkhVTGh3Zk1zVzQ0OW5kcEh5X3JhbEdHYUlKUFhDWnROcDZtaVd0VUVqVFV3TFZwTzdDLVFIRjVUVnhyN3M5dXg0Qmh6a01UY1Judw?oc=5",
+  "title": "Lexus LFA electric supercar set for Australian debut - Carsales",
+  "text": "Lexus LFA electric supercar set for Australian debut Carsales",
+  "author": "",
+  "published": "2026-10-21T01:04:53+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
+  "id": "8367da6922b672f9",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/mercedes-amg-unleashes-first-original-model-860kw-gt-suv-brings-700km-range-and-v8-theatrics-to-threaten-porsche-cayenne/",
+  "title": "Mercedes-AMG unleashes first original model: 860kW GT SUV brings 700km range and V8 theatrics to threaten Porsche Cayenne",
+  "text": "Mercedes-AMG has revealed its first full-size SUV developed entirely in-house, an electric performance flagship packing up to 860kW and 2000Nm, with a claimed driving range of up to 700km. Called the Mercedes-AMG GT SUV, the five-seat newcomer will challenge the Porsche Cayenne Electric, Lotus Eletre and incoming Bentley Torcal with three model grades, rapid charging and a simulated combustion-engine experience complete with gear changes and vibrating seats. Australian launch details have not been announced. However, overseas reporting points to a late-2027 local arrival, with pricing and the Australian model line-up still to be confirmed. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared 2027 Mercedes-AMG GT SUV. READ MORE: Mercedes-AMG CLA 45 EV sets new Nurburgring lap record: 20km torture test proves the worth of axial-flux motors, maker claims READ MORE: Is this the sensible supercar? Mercedes-AMG GT 53 EV revealed with less power but 112km more range than crazy axial-flux 860kW flagship READ MORE: What the heck are axial-flux motors and why are they significant? The enormous and repeatable performance",
+  "author": "EV Central team",
+  "published": "2026-10-21T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
   "id": "b261a01e8ca986f6",
   "type": "competitor_news",
   "source": "carexpert",
@@ -72,6 +252,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
+  "id": "6ae2c3a6fd4a8288",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTVhmd3BxZ1RYeFBaUWJ2SWdSR0NJcmhuZHJYTi1zb3lXY084YUhWOTBoeFRueFJmQldYOVhzamZWbXpNa2lzWkoxaXAzNFRVOHdtNElZSDVUVDJub3JLc3F4MHB5UncwS0VMUXZaNkVSQ0lMa1VoaHVkT2U3SE84UmRsbGVFZEhiUlZBRXJ3UzlQalJTMGdIOHFjQ0lRZw?oc=5",
+  "title": "Zeekr cars between $50,000 & $60,000 with electric engine range over 350km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $50,000 & $60,000 with electric engine range over 350km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T23:38:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
   "id": "d58782f8a6909c70",
@@ -522,6 +735,40 @@
   "first_seen": "2026-10-20T23:20:04+00:00"
  },
  {
+  "id": "a27604c0bfdc128e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlNwTGttSEdWNXFvLUNqMXFzYi1XSWJzM3FheDZTNWpOTGZqX2dLbV95ZllGMVBzbFl2RzNyOU9PWHN4bkFXcEJvekJjYUx1WGRERmEwV0dOTGFoYmQ3TG5fYk5uNEdtM3VYN0hVZ2ZXS3pSdzVxQzNQbDdqVjVGbHRoTmdEQ2NwMXFEdkMxdFI5ZUMyV1hnbHVOR01MRXZoRi12QWdPV3VESkl0VjJrYWhma3RHTzJU?oc=5",
+  "title": "Zeekr Not Applicable cars between $15,000 & $50,000 with electric engine range over 150km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars between $15,000 & $50,000 with electric engine range over 150km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T16:08:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
   "id": "c847a47f722149eb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -551,6 +798,42 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "2243c905135ed82a",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xarmc5/zeekr_001_to_zeekr_7x/",
+  "title": "Zeekr 001 to Zeekr 7X",
+  "text": "For those here who owned a 001 Flagship (AWD 544hp) and switched to a 7X Flagship (AWD 644hp) - or vice versa (7X to 001) - could you share what you consider the best and worst aspects of the change? I spent a year with the X Flagship (AWD 428hp) and am now nearing a year with the 001. In my opinion, the software in the X is much faster and more up-to-date than the one in the 001. The X is also significantly more comfortable, though it borders on being too soft/mushy. The suspension and driving dynamics of the 001 are incredibly good - even in comfort mode. I did take the 7X for a test drive, but a single day isn't enough to determine whether it’s truly an upgrade over the 001. First downside of the 7X is the absence of the dashcam. I’d love to hear your thoughts. Current 001 Previous X Next one probably",
+  "author": "/u/SociopataComAsperger",
+  "published": "2026-10-20T13:05:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
   "id": "c792d8007c543f26",
@@ -1531,7 +1814,7 @@
  {
   "id": "53fbe7a6773aa75c",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEtwWVcwaXRfQzM0ZnhmWFdaRkJmRTh5em5uZVI4QUtFR3M0SFk2ZGFXU0gyaWR3Rm9GWHp2Q09OaTJaM1V2NmJweDVKVWZ2dTVfcHZFXzRFb3VxZnc4ZzdnMDM4M0g2VE5RQTZDQ3hNdGZXYktobTdQTlEtZ29EdWltSjBfWEJaZDV0cjNGQXlXOFdvS0FiNTZYNzZXeng0Zy1VYlJETHpzMzdCQUdz?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced for Australia - Carsales",
@@ -1717,6 +2000,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "9782d1ab801c7a4e",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xa92ly/zeekr_001_software_version/",
+  "title": "Zeekr 001 Software Version",
+  "text": "Hi All, I recently adquired a Zeekr 001 (2027) and the software version on the car is 1.3. No OTA has been pushed to my car and the dealership here says I'm on the latest version (although they said that in 5 seconds). Wondering if anyone has a more recent software update on their 001 so I can check with their corporate and see if they can push through an OTA? Thanks.",
+  "author": "/u/OneGolfXray",
+  "published": "2026-10-19T21:05:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
   "id": "8be9e7b56d8377c1",
@@ -3055,6 +3371,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-18T06:30:46+00:00"
+ },
+ {
+  "id": "c33e4de776d92189",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmp5RFVMTVBGaXFjMXBLWjlYcGVJX2p1Z0pIZ2daQ19scnNZRXFuVE1SZHVGTGNzaFU2aGpwYVRFeGF0LUZ1em9NakFmRXl3YWhLd3ltdmhxaW5ZNWZaSkE1MzBTZVZvSXhsWV9ZMm83YklzMDZUQlZqTUxGVWZSSXU0QlgtV3hfUy1IaXBIYUFjU1dzU0ExTUFEdDU?oc=5",
+  "title": "Zeekr White cars that are brands from China with kilometres under 60,000km for sale or order in Australia - Carsales",
+  "text": "Zeekr White cars that are brands from China with kilometres under 60,000km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-17T19:13:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
   "id": "e6ef064af94238e7",
@@ -7554,7 +7901,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -16319,18 +16666,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -20887,39 +21236,6 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
-  "id": "a2ef570e752c0221",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkRFd1QybGFsVDVqbE5wQ3E3S1FjT2N2dkhCVHh1QlNlcWVDd214dE55VWV4ZzU5Z3RUNjN3eWVkZEhTTThyMDNsY0lWVTN3OGc3Q0c2VkN6eWlFaTUwVUh5Q2xzVzNmRFdzbnFfbXVZS1kzSW40ZVNQTS1PeUZnOHBfR0Y3Ym1QTVEyQXZ2Wm43RVIw?oc=5",
-  "title": "Zeekr 7X getting larger battery, range boost expected - CarExpert",
-  "text": "Zeekr 7X getting larger battery, range boost expected CarExpert",
-  "author": "",
-  "published": "2026-09-04T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "4db021f611ebc651",
   "type": "complaint",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -21624,6 +21940,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "a2ef570e752c0221",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkRFd1QybGFsVDVqbE5wQ3E3S1FjT2N2dkhCVHh1QlNlcWVDd214dE55VWV4ZzU5Z3RUNjN3eWVkZEhTTThyMDNsY0lWVTN3OGc3Q0c2VkN6eWlFaTUwVUh5Q2xzVzNmRFdzbnFfbXVZS1kzSW40ZVNQTS1PeUZnOHBfR0Y3Ym1QTVEyQXZ2Wm43RVIw?oc=5",
+  "title": "Zeekr 7X getting larger battery, range boost expected - CarExpert",
+  "text": "Zeekr 7X getting larger battery, range boost expected CarExpert",
+  "author": "",
+  "published": "2026-09-03T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
   "id": "e7632f73714080fe",
@@ -29295,70 +29644,6 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "843941a93ae3d045",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQTJGa3ZkQ0lvOUhPOGpRbDVuQzhLNlJCTzNaUGM3YUtmNEVpVGgzdFVOTk5LOVI4cmg0dER2WjNpc2swN3o2LWRLS2F0NXlKRm5nTW9id3hiYlRpT2VETWo5cDZfVU5hYmNTaXB5RjVpT2VqSVN2bDlZNzlBaG9YNktxQl95b3czWnhtYUI2bGgyV3hYdml4OHlUYzRSOXdC?oc=5",
-  "title": "Zeekr 8X locked in for Aus in hybrid, EV model rollout - Drive",
-  "text": "Zeekr 8X locked in for Aus in hybrid, EV model rollout Drive",
-  "author": "",
-  "published": "2026-04-24T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "2b7b2838cb884812",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcElvRm5DUHZBNExOVWhteDNlemt0OGtuNzlpYzAyNE92djRBZnhxZ0VLMkJpSDRqMHYzbUlCR3ljVjNBM1kzQ3pNOHd3SHgyMDgzUzBSNjBER1YtMXZoNE1GUmpXQnhNNjRNUGh6RkEwcEkyTDVrUFE3WXJXcVl2QkJfN0s3eHFtWU1fOTZVZWFvYWpGWlNKUGpLUm5NSDV3RzUzYk41YzFudVU2MUE?oc=5",
-  "title": "Zeekr 7GT leads Australian expansion - Carsales",
-  "text": "Zeekr 7GT leads Australian expansion Carsales",
-  "author": "",
-  "published": "2026-04-24T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
   "scope": "zeekr",
   "au": true,
   "extra": {},

@@ -2,11 +2,11 @@
  "key": "zecar-offers",
  "brand": "Zecar (全品牌政策汇总)",
  "url": "https://zecar.com/offers-and-deals",
- "fetched": "2026-10-21T01:59:46+00:00",
- "digest": "4fbcef9f211a66e5",
+ "fetched": "2026-10-21T07:29:45+00:00",
+ "digest": "93e5896c2871e8b8",
  "lines": [
   "Offers and Deals",
-  "· 37 active offers",
+  "· 38 active offers",
   "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
   "Search Offers",
   "Geely 0.09% p.a. Finance Offer on EX5, EX2 and Starray EM-i",
@@ -27,6 +27,7 @@
   "Tesla Inventory Discount: Up to $2950 Off Model 3 and Model Y",
   "Tesla Australia is taking about 5% off new Model 3 and Model Y cars already in its inventory, worth up to $2950 on a Model Y Premium Rear-Wheel Drive. The cars are pre-built stock without the new MY27 upgrades, so they can usually be delivered sooner than a factory order.",
   "MG HS Super Hybrid $6,000 Cashback: From $42,990 Drive Away",
+  "GWM Cannon PHEV: $2,000 Cash Bonus or $2,000 Fuel Card",
   "BYD Dolphin Essential $28,888 Driveaway Offer",
   "BYD Atto 1 Essential $19,990 Driveaway Offer (Up to $7,204 in Savings)",
   "The BYD Atto 1 Essential is available at $19,990 driveaway, making it Australia's cheapest new car on sale, EV or petrol. The offer is available until 15 December 2026, with the vehicle needing to be delivered by 31 December 2026. The 5% novated lease offer cannot be stacked on top of this price.",
@@ -38,8 +39,6 @@
   "BYD is offering $4,000 cashback on the Shark 6 Dynamic Cab Chassis, Premium and Performance plug-in hybrid utes. That brings the range down to an effective $51,900 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
   "BYD Seal 6 $4,000 Cashback: From $30,990 Plus On-Roads",
   "BYD is offering $4,000 cashback on the Seal 6 Essential plug-in hybrid sedan. That brings the $34,990 list price down to an effective $30,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
-  "BYD Seal 6 Touring $4,000 Cashback: From $35,990 Plus On-Roads",
-  "BYD is offering $4,000 cashback on the Seal 6 Touring Premium plug-in hybrid wagon. That brings the $39,990 list price down to an effective $35,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
   "We'll email you when a new offer goes live.",
   "Are there EV rebates or incentives in Australia in 2026?",
   "When do EV offers usually expire?"
@@ -56,7 +55,6 @@
   30990,
   33990,
   34990,
-  35990,
   39990,
   42990,
   50990,
@@ -65,5 +63,5 @@
   55990,
   57990
  ],
- "n_lines": 38
+ "n_lines": 37
 }
