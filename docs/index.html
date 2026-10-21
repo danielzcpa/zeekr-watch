@@ -106,7 +106,7 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
   html,body{font-size:14px}
   .hwrap{min-height:0;padding:8px 0;gap:8px}.brand{font-size:15.5px;flex:1 1 auto}.brand .mark{width:26px;height:26px}
   .hmeta{margin-left:0;width:100%;gap:6px;font-size:11.5px}.hmeta .pill{padding:2px 8px}#nextrun{display:none}
-  .hmeta button{padding:3px 9px;font-size:11.5px}#langBtn{margin-left:auto}
+  .hmeta button{padding:3px 9px;font-size:11.5px}#langBtn{margin-left:auto}#whoami{margin-left:auto}#whoami+#langBtn{margin-left:0}
   nav{box-shadow:0 2px 6px rgba(0,0,0,.05)}.nwrap{padding:0 4px;-webkit-mask-image:linear-gradient(90deg,#000 92%,transparent);mask-image:linear-gradient(90deg,#000 92%,transparent)}
   .tab{padding:11px 11px;font-size:13.5px}
   main{padding:12px 10px 48px}.card{padding:12px 12px;border-radius:10px}
@@ -131,6 +131,7 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
   <div class="hmeta">
     <span class="pill" id="updated">—</span>
     <span class="pill" id="nextrun" title="GitHub Actions cron */30">—</span>
+    <span class="pill" id="whoami" style="display:none"></span>
     <button id="langBtn">EN</button>
     <button id="themeBtn">◐</button>
     <button onclick="logout()" data-i="logout">退出</button>
@@ -149,8 +150,9 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
 <div id="gate" style="display:none;position:fixed;inset:0;background:var(--bg);z-index:50;place-items:center;padding:16px">
   <form id="gateForm" class="card" style="width:min(360px,100%);padding:26px 24px">
     <div class="brand" style="color:var(--green);margin-bottom:14px"><span class="mark" style="background:var(--green);color:#fff">Z</span><span id="gateT">ZEEKR 澳洲市场监控</span></div>
-    <label class="small" for="gatePw" id="gateP">请输入访问密码</label>
-    <input id="gatePw" type="password" autocomplete="current-password" style="width:100%;margin:8px 0 10px;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
+    <label class="small" for="gateUser" id="gateP">请输入用户名与密码</label>
+    <input id="gateUser" type="text" autocomplete="username" autocapitalize="none" spellcheck="false" placeholder="用户名" style="width:100%;margin:8px 0 8px;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
+    <input id="gatePw" type="password" autocomplete="current-password" placeholder="密码" style="width:100%;margin:0 0 10px;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)">
     <button class="btn" type="submit" id="gateB" style="width:100%;padding:9px;background:var(--green);color:#fff;border-color:var(--green)">进入</button>
     <div id="gateE" class="small" style="color:var(--bad);margin-top:8px;min-height:18px"></div>
   </form>
@@ -187,7 +189,7 @@ const I18N = {
   s_intro:"每 30 分钟由 GitHub Actions 运行一次抓取。失败的来源通常是对数据中心 IP 的反爬限制，不影响其他来源。",
   cut:"降价",rise:"涨价",offer:"促销",launch:"上市",price:"价格",au:"澳洲",
   f_win:"时间",w24:"近 24 小时",w7:"近 7 天",w30:"近 30 天",f_news:"ZEEKR 报道/官方",l_sig:"信号",l_sig_launch:"上市/发布信号",l_sig_offer:"价格/政策信号",l_sig_all:"全部竞品动态",
-  login_t:"ZEEKR 澳洲市场监控",login_p:"请输入访问密码",login_b:"进入",login_e:"密码不正确",logout:"退出",
+  login_t:"ZEEKR 澳洲市场监控",login_p:"请输入用户名与密码",login_b:"进入",login_e:"用户名或密码不正确",login_u:"用户名",login_pw:"密码",logout:"退出",
  },
  en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Terminal discounts","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
   footer:"Public sources only (Google News, industry RSS, Reddit, ProductReview, OzBargain, app stores, Google Maps, brand sites). Rule-based keyword classification for internal reference; verify against the original before acting.",
@@ -207,7 +209,7 @@ const I18N = {
   s_intro:"GitHub Actions runs the collector every 30 minutes. Failing sources are usually anti-bot limits on datacenter IPs and do not affect the others.",
   cut:"price cut",rise:"price rise",offer:"offer",launch:"launch",price:"price",au:"AU",
   f_win:"Window",w24:"Last 24 h",w7:"Last 7 days",w30:"Last 30 days",f_news:"ZEEKR coverage / official",l_sig:"Signal",l_sig_launch:"Launch / reveal signals",l_sig_offer:"Price / offer signals",l_sig_all:"All competitor news",
-  login_t:"ZEEKR Australia Market Watch",login_p:"Enter the access password",login_b:"Enter",login_e:"Incorrect password",logout:"Sign out",
+  login_t:"ZEEKR Australia Market Watch",login_p:"Enter your username and password",login_b:"Enter",login_e:"Incorrect username or password",login_u:"Username",login_pw:"Password",logout:"Sign out",
  }
 };
 let lang = 'zh'; try{ lang = localStorage.getItem('zw.lang') || 'zh'; }catch(e){}
@@ -422,13 +424,19 @@ document.getElementById('langBtn').onclick=()=>{ lang=lang==='zh'?'en':'zh'; try
 document.getElementById('themeBtn').onclick=()=>{ const r=document.documentElement; const cur=r.getAttribute('data-theme'); const next=cur==='dark'?'light':(cur==='light'?'':'dark'); if(next) r.setAttribute('data-theme',next); else r.removeAttribute('data-theme'); try{localStorage.setItem('zw.theme',next);}catch(e){} };
 try{ const th=localStorage.getItem('zw.theme'); if(th) document.documentElement.setAttribute('data-theme',th); }catch(e){}
 
-const PW_HASH = "12fdc50f99bb9a72bafc71b87b54b15c68b6fd564ae05d682a22393e04a8eed0";
+let AUTH = null;  // docs/auth.json: {users:[{u, h}]}, h = sha256(lowercase(username) + ":" + password)
+async function loadAuth(){ if(AUTH) return AUTH; try{ const r=await fetch('auth.json?t='+Date.now()); AUTH = r.ok ? await r.json() : {users:[]}; }catch(e){ AUTH={users:[]}; } return AUTH; }
 async function sha256(t){ const b=await crypto.subtle.digest('SHA-256', new TextEncoder().encode(t)); return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join(''); }
-function gateOK(){ try{ return localStorage.getItem('zw.auth')===PW_HASH; }catch(e){ return false; } }
+function userOf(h){ return ((AUTH&&AUTH.users)||[]).find(x=>x.h===h); }
+async function gateOK(){ await loadAuth(); try{ const h=localStorage.getItem('zw.auth'); const u=userOf(h); if(u){ showUser(u); return true; } }catch(e){} return false; }
+function showUser(u){ const el=document.getElementById('whoami'); if(el){ el.textContent=u.name||u.u; el.style.display=''; } }
 function showGate(){ const g=document.getElementById('gate'); g.style.display='grid'; document.getElementById('loading').style.display='none';
   document.getElementById('gateT').textContent=T('login_t'); document.getElementById('gateP').textContent=T('login_p'); document.getElementById('gateB').textContent=T('login_b');
-  document.getElementById('gateForm').onsubmit=async e=>{ e.preventDefault(); const v=document.getElementById('gatePw').value; if(await sha256(v)===PW_HASH){ try{localStorage.setItem('zw.auth',PW_HASH);}catch(x){} g.style.display='none'; document.getElementById('loading').style.display=''; load().catch(err=>{ document.getElementById('loading').textContent='Load failed: '+err.message; }); } else { document.getElementById('gateE').textContent=T('login_e'); } };
-  setTimeout(()=>document.getElementById('gatePw').focus(),50); }
+  document.getElementById('gateUser').placeholder=T('login_u'); document.getElementById('gatePw').placeholder=T('login_pw');
+  document.getElementById('gateForm').onsubmit=async e=>{ e.preventDefault(); await loadAuth(); const un=document.getElementById('gateUser').value.trim().toLowerCase(); const pw=document.getElementById('gatePw').value; const h=await sha256(un+':'+pw); const u=userOf(h);
+    if(u){ try{localStorage.setItem('zw.auth',h);}catch(x){} showUser(u); g.style.display='none'; document.getElementById('loading').style.display=''; load().catch(err=>{ document.getElementById('loading').textContent='Load failed: '+err.message; }); }
+    else { document.getElementById('gateE').textContent=T('login_e'); document.getElementById('gatePw').value=''; } };
+  setTimeout(()=>document.getElementById('gateUser').focus(),50); }
 function logout(){ try{localStorage.removeItem('zw.auth');}catch(e){} location.reload(); }
 async function load(){
   const t=Date.now(); const j=async n=>{ const r=await fetch(`data/${n}.json?t=${t}`); if(!r.ok) throw new Error(n+': '+r.status); return r.json(); };
@@ -440,7 +448,7 @@ async function load(){
   renderAll();
   try{ const tb=localStorage.getItem('zw.tab'); if(tb) go(tb); }catch(e){}
 }
-if(gateOK()) load().catch(e=>{ document.getElementById('loading').textContent='Load failed: '+e.message; }); else showGate();
+gateOK().then(ok=>{ if(ok) load().catch(e=>{ document.getElementById('loading').textContent='Load failed: '+e.message; }); else showGate(); });
 </script>
 <script src="timeline.js?v=3"></script>
 </body>

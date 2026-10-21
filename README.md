@@ -58,3 +58,9 @@ docs/data/                 抓取结果（items.json、summary.json、offer_chan
 - 页面「政策时间线 2026」：三个最贴近竞品（默认 Tesla Model Y、BYD Sealion 7、Xpeng G6，可切换）的 Gantt 时间线 + 逐月明细 + 全年政策记录；「价格与销售政策」页每个竞品下方有 2026 年逐月政策条。
 - 页面「终端折扣证据」：实时 DAP 表（NSW/VIC，带走势）、三个品牌现行政策，以及基线数据页（第四季度官方政策、展车挂牌价、MSRP 调整、金融贴息演变）。
 - 口径：MSRP = 厂商指导价（不含上路费用）；DAP = 上路价（drive-away）。
+
+## 登录账号
+
+- 登录为用户名 + 密码，账号表在 `docs/auth.json`（仅保存 `sha256(小写用户名:密码)`，不保存明文）。
+- 新增或改密：`python3 tools/add_user.py <用户名> <密码> [显示名]`，然后提交 `docs/auth.json`；删除账号直接删掉对应条目。
+- 说明：站点为 GitHub Pages 静态页面，登录是前端校验，用于日常访问隔离；数据文件本身可被直接访问。如需真正的访问控制，需要把仓库设为私有并放到 Cloudflare Pages + Cloudflare Access（或类似）之后。
