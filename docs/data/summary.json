@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-21T09:29:39+00:00",
- "duration_s": 323.9,
- "items_total": 887,
- "new_this_run": 216,
+ "generated": "2026-10-21T13:08:43+00:00",
+ "duration_s": 309.6,
+ "items_total": 892,
+ "new_this_run": 206,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
-  "complaints_30d": 41,
+  "complaints_30d": 40,
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 6,
-  "competitor_news_7d": 113,
-  "launch_signals_7d": 31,
+  "competitor_news_7d": 114,
+  "launch_signals_7d": 32,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 76,
+  "zeekr_news_7d": 75,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -165,7 +165,7 @@
    "date": "2026-10-16",
    "complaints": 3,
    "competitor_news": 13,
-   "zeekr_news": 11
+   "zeekr_news": 12
   },
   {
    "date": "2026-10-17",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-21",
    "complaints": 0,
-   "competitor_news": 6,
-   "zeekr_news": 3
+   "competitor_news": 8,
+   "zeekr_news": 5
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 28
+   "n": 27
   },
   {
    "key": "service",
@@ -212,15 +212,15 @@
    "n": 15
   },
   {
-   "key": "delivery",
-   "zh": "交付/等待/订单",
-   "en": "Delivery / waiting / orders",
-   "n": 13
-  },
-  {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
+   "n": 12
+  },
+  {
+   "key": "delivery",
+   "zh": "交付/等待/订单",
+   "en": "Delivery / waiting / orders",
    "n": 12
   },
   {
@@ -245,17 +245,17 @@
    "key": "safety",
    "zh": "召回/安全",
    "en": "Recall / safety",
-   "n": 2
+   "n": 1
   }
  ],
  "models_30d": {
-  "7X": 18,
+  "7X": 17,
   "7GT": 4,
   "009": 1,
   "X": 1
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 16,
+  "Reddit r/Zeekr7xAustralia": 15,
   "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
@@ -820,13 +820,14 @@
    "latest": null
   },
   "yangwang-u8": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "b89e8f752e996826",
     "f658b7a5cfd318c7",
     "f05fc111c7ac03b7"
    ],
    "offer": [],
-   "latest": "c125e39efbf7bbd1"
+   "latest": "b89e8f752e996826"
   },
   "audi-q9": {
    "n_30d": 0,
@@ -846,6 +847,16 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "b89e8f752e996826",
+   "title": "BYD Yangwang U8 Joins Dubai Police Fleet Ahead Of Potential Australian Launch - CarSauce",
+   "source": "Google News · CarSauce",
+   "t": "2026-10-21T11:10:49+00:00",
+   "competitors": [
+    "yangwang-u8"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "67bf571fe7adae64",
@@ -985,7 +996,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 41,
+   "count": 42,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1015,27 +1026,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 35,
+   "count": 36,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 28,
+   "count": 24,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 42,
+   "count": 46,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 51,
+   "count": 54,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 21,
+   "count": 19,
    "note": ""
   },
   "carexpert": {
@@ -1094,14 +1105,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1114,24 +1125,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1510,8 +1521,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 1,
-   "note": "1 new; 38/38 feeds ok"
+   "count": 0,
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1564,9 +1575,9 @@
    "note": "unchanged"
   },
   "offers-hyundai": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 9,
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,

@@ -1,5 +1,148 @@
 [
  {
+  "id": "1e61acaaa5114c85",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/another-30000-electric-suv-coming-to-australia-gac-aion-ut-cross-looks-good-to-challenge-byd-atto-2-and-leapmotor-b03x/",
+  "title": "Another $30,000 electric SUV coming to Australia! GAC Aion UT Cross looks good to challenge BYD Atto 2 and Leapmotor B03X",
+  "text": "GAC is preparing to expand its Australian electric vehicle line-up with the new Aion UT Cross, a rugged-looking small electric crossover expected to arrive in 2027 with a starting price around $30,000. Unveiled at the 2026 Paris Motor Show, the UT Cross is an SUV-inspired version of the Aion UT hatchback already sold in Australia, adding tougher styling, increased ground clearance and revised suspension. While GAC has yet to officially announce the model’s Australian introduction, EV Central dealer understands the UT Cross is very close to being locked in for local sale next year. READ MORE: Best EVs to buy in Australia 2026: The ultimate guide to affordable electric cars at every price READ MORE: 2026 GAC Aion UT Aussie super-sharp price and specs unveiled: Compact Chinese EV challenges BYD pricing READ MORE: Australia’s EV price war heats up! Cheaper GAC Aion UT coming to take on BYD Atto 1 and Geely EX2 READ MORE: 2026 GAC Aion UT Review: Cheap electric city car brings big space and solid driving manners, but what about the ownership experience? It will follow the arrival of a cheaper Aion UT Standard Range (SR), which is due before the end of 2026 with a smaller battery and a p",
+  "author": "EV Central team",
+  "published": "2026-10-21T12:38:28+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "geely",
+   "gac"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T13:08:43+00:00"
+ },
+ {
+  "id": "b89e8f752e996826",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tTW0waXdmRnBMYjJoa0hZRWlaNUFRQnNNSXJhRzN2dnF5YTZhOUFMcHBNRndGekdqVjJCelJmaWI5TldFbzQ4Y0xTUEthbHBEUEoyZ3FwaUszSm5pLU5QLWswMEhURm8zVmQ4TlVYZk04bzVac0hEaHNsd2JVZw?oc=5",
+  "title": "BYD Yangwang U8 Joins Dubai Police Fleet Ahead Of Potential Australian Launch - CarSauce",
+  "text": "BYD Yangwang U8 Joins Dubai Police Fleet Ahead Of Potential Australian Launch CarSauce",
+  "author": "",
+  "published": "2026-10-21T11:10:49+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "yangwang-u8"
+  ],
+  "brands": [
+   "byd",
+   "yangwang"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T13:08:43+00:00"
+ },
+ {
+  "id": "299968558a924515",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · la Repubblica",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcVNDbU1HWnZ3Z3lzNzFRWnlvZUZ5eklHZmdLR1g2OHRuY1hCd1hjQnVnOXlKaVZubFhGM2RJMkc5dFZIeEZrY2ZSZmJvbFZOV1FrM1dpMjJoVEVESkhpS21KSUZ6MldjZjNrUWdUT1lsRHk3VlFlYTZUdnJkbzlfdXN1bjdZbmdxTEoyYlpCVlpORG9XUVA2UmpibzFzZldGWUU1LWpmVHA4cXVHUVRlb2JRbDRvNmxndk94M09jbGUzSFVVczZFdThQemN4X25iNG1oWXlYYW13ME9PNk9xWEoyQ2VpdVZ4OVJmeE9NMnk3a2NhY1JIclR0RFlCUzg1V3V3U0lfZ3Vtck4t?oc=5",
+  "title": "Zeekr completes 4,158 km in 24 hours on Rome’s GRA: here’s how much it costs to travel electrically in the 7X and 7GT - la Repubblica",
+  "text": "Zeekr completes 4,158 km in 24 hours on Rome’s GRA: here’s how much it costs to travel electrically in the 7X and 7GT la Repubblica",
+  "author": "",
+  "published": "2026-10-21T11:00:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T13:08:43+00:00"
+ },
+ {
+  "id": "3bda13e4168064c2",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUN0ZnpVMkVPRFlLS2pvLVZkY016TWdVbDFtbnFCZ09lUlB4S1lZeE45Uy1fX1dpNmYwN1ZOcXU5WktrNzBub1NoUFJUQzJlQmpvZnIxNWpJeFU5SDQ2X2xYcFEwYjdTa0huLUtTUGxiS0MxekllS0RwNmJKMFV2LVlBV2haWnhhckRXLVd3azlIX0RBU3Vjal84NzY?oc=5",
+  "title": "2024 Zeekr cars with battery capacity over 20kWh for sale or order in Western Australia - Carsales",
+  "text": "2024 Zeekr cars with battery capacity over 20kWh for sale or order in Western Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T09:12:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T13:08:43+00:00"
+ },
+ {
   "id": "e5e28c2edf617bc1",
   "type": "post",
   "source": "reddit-global",
@@ -249,7 +392,7 @@
   "source": "evcentral",
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/mercedes-amg-unleashes-first-original-model-860kw-gt-suv-brings-700km-range-and-v8-theatrics-to-threaten-porsche-cayenne/",
-  "title": "Mercedes-AMG unleashes first original model: 860kW GT SUV brings 700km range and V8 theatrics to threaten Porsche Cayenne",
+  "title": "Mercedes-AMG unleashes first original SUV: 860kW GT SUV brings 700km range and V8 theatrics to threaten Porsche Cayenne",
   "text": "Mercedes-AMG has revealed its first full-size SUV developed entirely in-house, an electric performance flagship packing up to 860kW and 2000Nm, with a claimed driving range of up to 700km. Called the Mercedes-AMG GT SUV, the five-seat newcomer will challenge the Porsche Cayenne Electric, Lotus Eletre and incoming Bentley Torcal with three model grades, rapid charging and a simulated combustion-engine experience complete with gear changes and vibrating seats. Australian launch details have not been announced. However, overseas reporting points to a late-2027 local arrival, with pricing and the Australian model line-up still to be confirmed. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared 2027 Mercedes-AMG GT SUV. READ MORE: Mercedes-AMG CLA 45 EV sets new Nurburgring lap record: 20km torture test proves the worth of axial-flux motors, maker claims READ MORE: Is this the sensible supercar? Mercedes-AMG GT 53 EV revealed with less power but 112km more range than crazy axial-flux 860kW flagship READ MORE: What the heck are axial-flux motors and why are they significant? The enormous and repeatable performance",
   "author": "EV Central team",
   "published": "2026-10-21T01:00:00+00:00",
@@ -6257,6 +6400,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T04:18:40+00:00"
+ },
+ {
+  "id": "9ec662ebded922d9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTE11alVFQVczMG9SaUNJTmlkOHBhNjlVTEh4MGRZeTBhSnI0QXIxMVZ6VTZaeGE3YXFkVUI2T242b1A3ZTBRSGpaR212ZThsbU9SRmxKaGpPVUFoY0Y4UE52Y1RpMnV4SFFfODBRdUdVX25rWmlVSzIwSkpTVFNDcjdzN3cyMkFZMFVTNnByS0Q1a2szTW10b1htQXVtdw?oc=5",
+  "title": "2026 Zeekr 7X Performance Auto AWD MY26 - Carsales",
+  "text": "2026 Zeekr 7X Performance Auto AWD MY26 Carsales",
+  "author": "",
+  "published": "2026-10-16T01:31:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T13:08:43+00:00"
  },
  {
   "id": "71311b546cba483f",
