@@ -1,5 +1,69 @@
 [
  {
+  "id": "e5e28c2edf617bc1",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/SchmidtisBlog",
+  "url": "https://www.reddit.com/r/SchmidtisBlog/comments/1xbhaw6/zeekr_7x_geely_schmeißt_mobileye_raus_und/",
+  "title": "Zeekr 7X: Geely schmeißt Mobileye raus und drosselt Lade-Versprechen",
+  "text": "",
+  "author": "/u/Schmidtis_Blog",
+  "published": "2026-10-21T08:12:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
+  "id": "a942aa9355ebec0b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tc294WHNZdUdfQmpGcDk4ZFU5bzA0YnJVVXJuUkg3bEkydXJTeXlvV1pkWW5VQmhxRDlVeW9manZ1Nlh0c2VBdFFBYnN4bkF6VE40RkhOVWtFQWpWaHoxT0pZQ0UyekpiRm5uMDR3SVVQZ2d1ZXc?oc=5",
+  "title": "BYD, Zeekr Draw Crowds at Daegu EXCO as Chinese EV Push Into South Korea Accelerates - BigGo Finance",
+  "text": "BYD, Zeekr Draw Crowds at Daegu EXCO as Chinese EV Push Into South Korea Accelerates BigGo Finance",
+  "author": "",
+  "published": "2026-10-21T07:55:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "f33f9df23a714e2d",
   "type": "competitor_news",
   "source": "carexpert",
@@ -769,6 +833,81 @@
   "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
+  "id": "fbb38e11ae54f8f8",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/NovatedLeasingAU",
+  "url": "https://www.reddit.com/r/NovatedLeasingAU/comments/1xatyt3/ev_novated_lease_quote_check_1384/",
+  "title": "EV Novated Lease Quote check (13.84%)",
+  "text": "My company is partnered with Flare for novated leasing and seems to be my only option. Looking at selling my 2023 KIA Sportage SX+ diesel and putting the money into my home loan offset account. My home also has solar, no battery though :( I have run the novated leasing calculator over a 3-year term on 3-car options (Zeekr 7X performance, 7X rwd and Tesla Model Y). The Zeekrs came to a 14-15.5% effective rate, while the Tesla seemed to have the lowest effective interest rate of 13.84%. Can you please take a look at my quote and inputs into the calculator for the Tesla Model Y, have I made a mistake? Check out my novated lease calculation output from novatedlease.guide Any advice on how to reduce the quoted figure and effective interest rate would be appreciated. Do people commonly bundle the insurance into the running cost or opt to supply their own? The rep tried to give me an explanation that if I go with my own, the full gap or something won’t be covered for novated leases. Apparently their insurer will cover the full financed cost and not just the estimated market value?",
+  "author": "/u/Few_Entrance5103",
+  "published": "2026-10-20T14:42:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "kia",
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
+  "id": "559056c8e590b59e",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/croautomobili",
+  "url": "https://www.reddit.com/r/croautomobili/comments/1xat7m1/uskoro_kreću_ev_poticaji_prijave_od_28_10_a_ja/",
+  "title": "Uskoro kreću EV poticaji (prijave od 28. 10.), a ja sam se pogubio u svim novim markama pa sam sve skupio na jedno mjesto",
+  "text": "Krenuo sam gledati električni auto za poticaje i shvatio da više ne znam ni pola marki koje se kod nas prodaju. Uz uobičajene sumnjivce tu su sad BYD, Leapmotor, XPENG, Zeekr, Omoda, Jaecoo, Lynk & Co, Dongfeng… Svaki ima svoj cjenik negdje zakopan na stranici, pa sam to skupio na jedno mjesto. Ispalo je 36 marki i preko 300 izvedbi: cijene iz službenih cjenika, specifikacije i iznos poticaja po pravilima FZOEU natječaja za 2026. (EnU-2/26). Može se filtrirati, usporediti do 4 auta i vidjeti cijenu nakon poticaja. Tu su i uvjeti natječaja i koraci prijave. https://ev-poticaji.torquelens.com/ Nadam se da će nekome uštedjeti koji sat traženja ili olakšati odluku, ako i ne brzo će u povijest stranica. Neki cjenici su stariji pa konačnu cijenu provjerite kod zastupnika. Na stranici \"O podacima\" piše odakle je što. Ako nađete grešku ili auto koji fali, javite.",
+  "author": "/u/Kitchen_Law4840",
+  "published": "2026-10-20T14:11:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "c847a47f722149eb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -802,7 +941,7 @@
  {
   "id": "2243c905135ed82a",
   "type": "post",
-  "source": "reddit-Zeekr",
+  "source": "reddit-global",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1xarmc5/zeekr_001_to_zeekr_7x/",
   "title": "Zeekr 001 to Zeekr 7X",
@@ -974,6 +1113,42 @@
   "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
+  "id": "f7e949bcb08b5457",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/TeslaSupport",
+  "url": "https://www.reddit.com/r/TeslaSupport/comments/1xapney/tesla_authorised_car_dealership_in_tbilisi/",
+  "title": "Tesla authorised car dealership in Tbilisi",
+  "text": "How is it possible to get an access/authorisation from Tesla and be approved in Georgia,Tbilisi ? There are a lot of Teslas already in the city so I think it's a great idea to have authorised dealership and service. We already have BYD Zeekr etc. centers but for tesla we don't even have navigation map.",
+  "author": "/u/Purixxx",
+  "published": "2026-10-20T11:30:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "ceb46a2a3fa59cc9",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -1107,9 +1282,43 @@
   "first_seen": "2026-10-20T11:59:50+00:00"
  },
  {
+  "id": "c4b444706a164572",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=03657883-405a-427a-a4cb-650b2c20664e",
+  "title": "1★ · Same issues with entry via the app. 1. Open the app 2. Zeekr",
+  "text": "Same issues with entry via the app. 1. Open the app 2. Zeekr \"unconnected\" notification covers the connect button. 3. Hit \"unconnected\" to connect. 4. Wait 10 seconds for phone to connect and doors to be ready to open. Even if I open the app and open the doors as im walking towards the car, ill sit and select drive then receive a notification saying \"no valid key detected\". I need to unlock my phone and \"connect\". Since the last update anytime I have the app open, my phone overheats.",
+  "author": "Ben “Bensss”",
+  "published": "2026-10-20T08:21:39+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.7",
+   "thumbs": 0
+  },
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "25c5c9495d8335f5",
   "type": "post",
-  "source": "reddit-Zeekr7xAustralia",
+  "source": "reddit-global",
   "source_name": "Reddit r/Zeekr7xAustralia",
   "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xam8c0/request_zeekr_7x_2027_lr/",
   "title": "Request Zeekr 7X 2027 LR?",
@@ -1175,7 +1384,7 @@
  {
   "id": "a3ad73819ce746c7",
   "type": "complaint",
-  "source": "reddit-AustralianEV",
+  "source": "reddit-global",
   "source_name": "Reddit r/AustralianEV",
   "url": "https://www.reddit.com/r/AustralianEV/comments/1xakree/buyers_regret_for_tesla_model_y_awd_lr_vs_zeekr/",
   "title": "Buyers Regret for Tesla Model Y AWD LR vs Zeekr 7X Performance",
@@ -2004,7 +2213,7 @@
  {
   "id": "9782d1ab801c7a4e",
   "type": "post",
-  "source": "reddit-Zeekr",
+  "source": "reddit-global",
   "source_name": "Reddit r/Zeekr",
   "url": "https://www.reddit.com/r/Zeekr/comments/1xa92ly/zeekr_001_software_version/",
   "title": "Zeekr 001 Software Version",
@@ -2035,15 +2244,15 @@
   "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
-  "id": "8be9e7b56d8377c1",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · YouTube",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQ20xRHE1amhMU0xKdXA3ZkNjbHpuSlJkWGtTQzQyc3lQQkZOb0RrdmZmRnF4NXRITjJQaVUxSktWUEZUS05Ub3dyTDZKeEdQZWdoN2VqZGZDQktk?oc=5",
-  "title": "Zeekr’s Golden Battery: 13-Minute Charging Without Solid-State - YouTube",
-  "text": "Zeekr’s Golden Battery: 13-Minute Charging Without Solid-State YouTube",
-  "author": "",
-  "published": "2026-10-19T13:20:08+00:00",
+  "id": "6380dca969bb3cbe",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/EV_erythingNerd",
+  "url": "https://www.reddit.com/r/EV_erythingNerd/comments/1xa778b/zeekrs_golden_battery_13minute_charging_without/",
+  "title": "Zeekr’s Golden Battery: 13-Minute Charging Without Solid-State",
+  "text": "",
+  "author": "/u/AnonAmitty",
+  "published": "2026-10-19T19:55:12+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -2060,10 +2269,10 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
-  "first_seen": "2026-10-20T11:59:50+00:00"
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "4362e9a45be33f4e",
@@ -2152,6 +2361,40 @@
   "first_seen": "2026-10-19T17:42:44+00:00"
  },
  {
+  "id": "b7b1d0643d60fb23",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/SchmidtisBlog",
+  "url": "https://www.reddit.com/r/SchmidtisBlog/comments/1x9v3fg/zeekr_7x_boschsensorik_und_10minutenladen_gegen/",
+  "title": "Zeekr 7X: Bosch-Sensorik und 10-Minuten-Laden gegen Audi und BMW",
+  "text": "",
+  "author": "/u/Schmidtis_Blog",
+  "published": "2026-10-19T12:06:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "bmw",
+   "audi"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "f5e4f03cbb257ce3",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -2179,6 +2422,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "ed92c34517ac984b",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/SmartDroidDE",
+  "url": "https://www.reddit.com/r/SmartDroidDE/comments/1x9sudz/zeekr_möbelt_7x_mit_boschtechnik_und_10_minuten/",
+  "title": "Zeekr möbelt 7X mit Bosch-Technik und 10 Minuten Schnellladen für Europa auf",
+  "text": "",
+  "author": "/u/dennyfischer",
+  "published": "2026-10-19T10:04:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "076e84a125bdf7fd",
@@ -2322,6 +2596,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T11:09:39+00:00"
+ },
+ {
+  "id": "21485c35f7d3c4a4",
+  "type": "complaint",
+  "source": "reddit-global",
+  "source_name": "Reddit r/AutoAdvice",
+  "url": "https://www.reddit.com/r/AutoAdvice/comments/1x9nznh/zeekr/",
+  "title": "ZEEKR",
+  "text": "What are your opinions about Zeekr. Specific the 7x. Pro's /cons? More intetested in the Long Range business ed. Been leasing bussiness Volvo hybrid. But I need to lease another one. I'm not sure if i should stay with Volvo for the EX60 or try a new brand like Zeekr... I need to take an EV because of the gouverment/rules for self employed/compagnies in BE. What's your opinion? Good quality? Common problems? Thanks",
+  "author": "/u/Designer-Fly3179",
+  "published": "2026-10-19T05:02:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "12664f24e75ed5bf",
@@ -2817,7 +3128,7 @@
  {
   "id": "a565328bfa7e6f05",
   "type": "post",
-  "source": "reddit-AustralianEV",
+  "source": "reddit-global",
   "source_name": "Reddit r/AustralianEV",
   "url": "https://www.reddit.com/r/AustralianEV/comments/1x9fdgl/premium_midsized_suv_buying_experience_model_y/",
   "title": "Premium Mid-sized SUV buying experience: Model Y, Xpeng G6, BYD Sealion 7, Zeekr 7X",
@@ -2900,7 +3211,7 @@
  {
   "id": "90cf027d6c167371",
   "type": "post",
-  "source": "reddit-AustralianEV",
+  "source": "reddit-global",
   "source_name": "Reddit r/AustralianEV",
   "url": "https://www.reddit.com/r/AustralianEV/comments/1x9eumw/why_dont_more_people_buy_skodas_comparison_has/",
   "title": "Why don’t more people buy Skodas? Comparison has Tesla best, Zeekr 2nd, Skoda third, ahead of BYD and Kia. But Skoda outsold by all",
@@ -2934,6 +3245,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "3a8144f9201e0e21",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/VandMasina",
+  "url": "https://www.reddit.com/r/VandMasina/comments/1x98kmz/zeekr_001_în_românia_prețuri_reale_și_un_detaliu/",
+  "title": "Zeekr 001 în România: prețuri reale și un detaliu care nu e publicat",
+  "text": "Lista Zeekr pentru România e din 11 august 2026 și stă tot pe an model 2024. 001-ul pornește de la 58.490 de euro cu TVA, în Long Range: 620 km WLTP, 200 kW, 7,2 secunde până la 100. De acolo urcă: Performance 63.490 cu 400 kW și 3,8 secunde, Privilege 68.490, singura cu suspensie pneumatică, și Sport Edition 71.790, care-i ediție limitată, nu model separat. Partea ciudată: capacitatea bateriei și tensiunea nu-s publicate nicăieri. Ai 30 de minute de la 10 la 80% la 150 kW DC, dar kWh-ul nu apare. Pentru o mașină de 58.000 de euro, mi se pare un detaliu care ar merita primul rând. Restul e în regulă: remorcă 1.500 kg pe Long Range și 2.000 pe cele AWD, portbagaj 539 de litri, Phantom Black și Tech Grey cu 1.300 de euro extra. Bannerul de 54.890 de euro de pe site e cu Rabla inclusă, doar că fondurile pentru electrice s-au epuizat. Practic pornești de la prețul de listă, excepție făcând voucherelor deja rezervate. detalii: https://carvolo.ro/zeekr-001-pret-autonomie-romania/ Ați cumpăra o electrică de 58.000 de euro la care importatorul nu publică capacitatea bateriei?",
+  "author": "/u/IulianHI",
+  "published": "2026-10-18T17:12:43+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "76659a2e02ae3733",
@@ -3072,7 +3415,7 @@
  {
   "id": "3c1c019013919204",
   "type": "post",
-  "source": "reddit-ZeekrX",
+  "source": "reddit-global",
   "source_name": "Reddit r/ZeekrX",
   "url": "https://www.reddit.com/r/ZeekrX/comments/1x8yhcq/my_zeekr_x_got_sideswiped/",
   "title": "My Zeekr X got sideswiped 😢",
@@ -3134,7 +3477,7 @@
  {
   "id": "5743cef7c89a5c8b",
   "type": "post",
-  "source": "reddit-Zeekr7xAustralia",
+  "source": "reddit-global",
   "source_name": "Reddit r/Zeekr7xAustralia",
   "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x8stmb/what_are_the_specifications_of_the_new_7x_being/",
   "title": "What are the specifications of the new 7x being delivered from now?",
@@ -3373,6 +3716,39 @@
   "first_seen": "2026-10-18T06:30:46+00:00"
  },
  {
+  "id": "04952b81fbacbc5d",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/dkbiler",
+  "url": "https://www.reddit.com/r/dkbiler/comments/1x8jbts/zeekr_7x_erfaringer/",
+  "title": "Zeekr 7x - erfaringer?",
+  "text": "Hej kære puch maxi Forum, Vi kikker ret seriøst på en Zeekr 7x, udseende, interiør, rækkevide og lade tid tiltaler. Men - hvordan er erfaring med software, og især assistent systemer? Jeg køre oftest ca. 2 timer om dagen til/fra job A primært på motorvej.",
+  "author": "/u/Frachlitz",
+  "published": "2026-10-17T19:45:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "c33e4de776d92189",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -3582,6 +3958,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T23:20:45+00:00"
+ },
+ {
+  "id": "b84cb0e5e4064fce",
+  "type": "post",
+  "source": "reddit-global",
+  "source_name": "Reddit r/SelfDrivingCars",
+  "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1x8diko/october_2026_nhtsa_standing_general_order_sgo/",
+  "title": "October 2026 NHTSA Standing General Order (SGO) overview",
+  "text": "October 2026 NHTSA SGO Automated Driving System crash data was recently published, covering 114 new reports from August 18, 2026 to September 15, 2026. \"Crash\" means involved in a physical impact with a road user or property, from 3rd Amended SGO . Entity Oct 2026 Sept 2026 Aug 2026 July 2026 June 2026 May 2026 Apr 2026 Waymo 72 94 104 102 191 108 97 Zoox 14 3 6 6 6 15 2 Tesla 10 2 2 4 1 2 1 MOIA 4 1 - - - - - Motional 3 1 - 1 1 3 - Avride 2 7 9 7 11 22 7 Gatik AI 2 - - 1 - - - May Mobility 2 2 - 2 2 1 1 Waabi 2 - - - - - - Aurora 1 1 1 - 1 - 1 TORC Robotics 1 - - - - - - Of the top three in the list, Waymo's average reported pre-crash speed for new crashes this month was 6.94 mph, Zoox's was 6.07 mph, and Tesla's was 1.90 mph. Some of Tesla's were actually below 0.5 mph, which Tesla reports as 1 mph, so that's an overestimate. Waymo's 72 reports included 9 with minor injuries and 1 with unknown injuries involving hospitalization; five of the 10 injury accidents were when the Waymos were properly stopped in traffic. 62 of the 72 crashes were with Jaguar I-PACEs, and 10 of the 72 with Zeekr RTs (\"Ojais\"). 30 of the 72 crashes occurred when the Waymo was stopped, and 17 when the Waym",
+  "author": "/u/bobi2393",
+  "published": "2026-10-17T15:48:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "ccba0f23e23c2a0e",
@@ -7030,6 +7441,45 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "7119a8ce53284238",
+  "type": "post",
+  "source": "reddit-electricvehicles",
+  "source_name": "Reddit r/electricvehicles",
+  "url": "https://www.reddit.com/r/electricvehicles/comments/1x65a83/australia_best_medium_suv_2026_tesla_model_y_vs/",
+  "title": "Australia - Best Medium SUV 2026: Tesla Model Y vs Zeekr 7X vs Cupra Terramar vs Toyota RAV4 vs Mazda CX-5",
+  "text": "",
+  "author": "/u/stinger_02in",
+  "published": "2026-10-14T22:38:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla",
+   "toyota",
+   "mazda"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "beacea688be7f8ba",
@@ -11564,6 +12014,72 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "77a49fc2b68835ad",
+  "type": "post",
+  "source": "reddit-AusAutomotive",
+  "source_name": "Reddit r/AusAutomotive",
+  "url": "https://www.reddit.com/r/AusAutomotive/comments/1x3lmwy/avatr_wants_to_outclass_zeekr_in_australia_i/",
+  "title": "Avatr Wants to Outclass Zeekr in Australia: \"I Would Like to Think So\"",
+  "text": "",
+  "author": "/u/Jacob_CarSauce",
+  "published": "2026-10-11T22:39:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
+  "id": "9d940f08fe39df2d",
+  "type": "post",
+  "source": "reddit-AusAutomotive",
+  "source_name": "Reddit r/AusAutomotive",
+  "url": "https://www.reddit.com/r/AusAutomotive/comments/1x3lalk/avatr_06t_zeekr_7gt_rival_confirmed_for_australia/",
+  "title": "Avatr 06T: Zeekr 7GT Rival Confirmed for Australia in 2027",
+  "text": "",
+  "author": "/u/Jacob_CarSauce",
+  "published": "2026-10-11T22:23:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "f7251f615fcaf737",
   "type": "competitor_news",
   "source": "carexpert",
@@ -11599,72 +12115,6 @@
    "launch"
   ],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "66bc4468e3ee1055",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarSauce",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb09JTndPT2xHbXZUT2w5eWJjUDlaVHdxZ3ZmUHgzRkh2UWFjYW4weUI0d3JTS1l5SjY4bXNfb3dDdzJoQ2xtWm16U2FXVS1KZGVNbE9ta3FQSnkzcnNRSk1McVdhLXZ1MlUxbl9mcXFTVkdQY2xTTGJwV1I0VE5tY1JuSWFBUEtBUHZCdjMydU9IWTc1bTIyMg?oc=5",
-  "title": "Avatr Wants to Outclass Zeekr in Australia: “I Would Like to Think So” - CarSauce",
-  "text": "Avatr Wants to Outclass Zeekr in Australia: “I Would Like to Think So” CarSauce",
-  "author": "",
-  "published": "2026-10-11T22:06:29+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "avatr"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "7e6a8d489c06150e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarSauce",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUdlMVREd2RoYk1yQ0xVQTNEWWlFTVhfWkFPZ2NERUlFSE9odFdocTJ1ZjFmaktuaS1QLUxhLVBDdXlGNjB4MlFwRTlPOXNia2QwcHFlUG5FUmM4Tk5nVFNWRld5QXI0QWViaThWMFJvUk00d3hRVlVpcEFfdmtPaUEyU1RyTXpyVEJF?oc=5",
-  "title": "Avatr 06T: Zeekr 7GT Rival Confirmed for Australia in 2027 - CarSauce",
-  "text": "Avatr 06T: Zeekr 7GT Rival Confirmed for Australia in 2027 CarSauce",
-  "author": "",
-  "published": "2026-10-11T22:06:29+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [],
-  "brands": [
-   "avatr"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -14277,7 +14727,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1wxydme/how_far_weve_come_in_3_years/",
   "title": "How far we've come in 3 years.",
-  "text": "Global EV Sales Comparison (Jan–Aug 2023 vs. Jan–Aug 2026) Brand 2023 Rank 2023 Sales Volume 2026 Rank 2026 Sales Volume BYD 1 1,704,360 1 1,940,931 Tesla 2 1,177,908 2 1,077,247 Geely 10 183,202 3 728,951 Leapmotor N/A — 4 560,883 Volkswagen 5 295,949 5 350,999 Wuling / SGMW 6 262,857 6 333,759 Toyota 16 99,455 7 327,072 BMW 4 300,466 8 324,507 Kia 14 158,284 9 295,356 Li Auto 8 208,165 10 261,619 Mercedes 7 228,302 11 253,894 MG N/A — 12 252,589 Zeekr N/A — 13 251,188 Xiaomi N/A — 14 246,537 Xpeng N/A — 15 237,188 GAC Aion / Aion 3 308,769 16 228,940 Audi 15 147,819 17 227,302 AITO N/A — 18 219,261 Hyundai 13 162,240 19 216,674 Fang Cheng Bao N/A — 20 210,849 Brands Dropped Out of the Top 20 by 2026 * Changan: #9 in 2023 (190,125) * Volvo: #11 in 2023 (174,849) * SAIC: #12 in 2023 (168,259) * NIO: #17 in 2023 (97,320) * Jeep: #18 in 2023 (97,023) * Ford: #19 in 2023 (96,400) * Peugeot: #20 in 2023 (89,800) submitted by /u/SoulReddit13 [link] [comments]",
+  "text": "Global EV Sales Comparison (Jan–Aug 2023 vs. Jan–Aug 2026) Brand 2023 Rank 2023 Sales Volume 2026 Rank 2026 Sales Volume BYD 1 1,704,360 1 1,940,931 Tesla 2 1,177,908 2 1,077,247 Geely 10 183,202 3 728,951 Leapmotor N/A — 4 560,883 Volkswagen 5 295,949 5 350,999 Wuling / SGMW 6 262,857 6 333,759 Toyota 16 99,455 7 327,072 BMW 4 300,466 8 324,507 Kia 14 158,284 9 295,356 Li Auto 8 208,165 10 261,619 Mercedes 7 228,302 11 253,894 MG N/A — 12 252,589 Zeekr N/A — 13 251,188 Xiaomi N/A — 14 246,537 Xpeng N/A — 15 237,188 GAC Aion / Aion 3 308,769 16 228,940 Audi 15 147,819 17 227,302 AITO N/A — 18 219,261 Hyundai 13 162,240 19 216,674 Fang Cheng Bao N/A — 20 210,849 Brands Dropped Out of the Top 20 by 2026 * Changan: #9 in 2023 (190,125) * Volvo: #11 in 2023 (174,849) * SAIC: #12 in 2023 (168,259) * NIO: #17 in 2023 (97,320) * Jeep: #18 in 2023 (97,023) * Ford: #19 in 2023 (96,400) * Peugeot: #20 in 2023 (89,800)",
   "author": "/u/SoulReddit13",
   "published": "2026-10-05T03:27:47+00:00",
   "rating": null,
@@ -14312,7 +14762,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -14475,7 +14925,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1wxr9zw/top_selling_ev_models_brands_and_auto_group/",
   "title": "Top Selling EV Models, Brands, and Auto Group (January-August 2026)",
-  "text": "Top Selling BEV's January-August 2026: Tesla Model Y Geely EX2 Tesla Model 3 BYD Seagull BYD Atto 2 BYD Dolphin Li i6 MG4 Xiaomi YU7 LP A10 Xiaomi SU7 BYD Atto 3 Qiyuan / Nevo Q05 NIO ES8 Toyota bZ Top Selling EV's not made in China Tesla Model Y Tesla Model 3 Toyota bZ BMW IX1 Skoda Elroq Top Selling EV Brands: BYD (>50% BEV) Tesla (100% BEV) Geely (>50% BEV) Leapmotor (>50% BEV) Volkswagen (>50% BEV) Wuling (>50% BEV) Note: SAIC-GM-Wuling Joint Venture Brand Toyota (>50% BEV) BMW (>50% BEV) Kia (>50% BEV) Li Auto (>50% BEV) Mercedes (>50% BEV) MG (>50% BEV) Zeekr (>50% BEV) Xiaomi (100% BEV) Xpeng (>50% BEV) Aion (>50% BEV) Audi (>50% BEV) Aito (<50% BEV) Hyundai (>50% BEV) Fang Cheng Bao (<50% BEV) Top EV Auto Groups BYD Group Tesla, Inc. Geely Holding Volkswagen Group SAIC Motor Corporation Source: CleanTechnica submitted by /u/Mac-Tyson [link] [comments]",
+  "text": "Top Selling BEV's January-August 2026: Tesla Model Y Geely EX2 Tesla Model 3 BYD Seagull BYD Atto 2 BYD Dolphin Li i6 MG4 Xiaomi YU7 LP A10 Xiaomi SU7 BYD Atto 3 Qiyuan / Nevo Q05 NIO ES8 Toyota bZ Top Selling EV's not made in China Tesla Model Y Tesla Model 3 Toyota bZ BMW IX1 Skoda Elroq Top Selling EV Brands: BYD (>50% BEV) Tesla (100% BEV) Geely (>50% BEV) Leapmotor (>50% BEV) Volkswagen (>50% BEV) Wuling (>50% BEV) Note: SAIC-GM-Wuling Joint Venture Brand Toyota (>50% BEV) BMW (>50% BEV) Kia (>50% BEV) Li Auto (>50% BEV) Mercedes (>50% BEV) MG (>50% BEV) Zeekr (>50% BEV) Xiaomi (100% BEV) Xpeng (>50% BEV) Aion (>50% BEV) Audi (>50% BEV) Aito (<50% BEV) Hyundai (>50% BEV) Fang Cheng Bao (<50% BEV) Top EV Auto Groups BYD Group Tesla, Inc. Geely Holding Volkswagen Group SAIC Motor Corporation Source: CleanTechnica",
   "author": "/u/Mac-Tyson",
   "published": "2026-10-04T21:34:57+00:00",
   "rating": null,
@@ -14513,7 +14963,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -16042,7 +16492,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1ws935j/lfp_and_nmc_usage_daily_commute/",
   "title": "LFP and NMC usage - daily commute",
-  "text": "TL;DR : I drive 160 km per day, mostly at 110–120 km/h, and cannot charge at home. Is it better to save around $10,000 and use more of an LFP battery, or choose the NMC Long Range? I am considering two versions of the Zeekr 7GT: Core: LFP battery, 519 km WLTP Core Long Range: NMC battery, 655 km WLTP My daily commute is around 80 km each way – 160 km total, or approximately 41,000 km per year. Most of the driving is at highway speeds, and the car will be used year-round in Norway, normally at -5°C to -10°C during winter and occasionally as low as -20°C. I cannot charge at home, although I have access to shared chargers where I live. With the Long Range version, using the battery between 15% and 85% would theoretically give me around 410 km, which should cover two days of commuting. However, is it true LFP batteries tolerate a wider usable state-of-charge range. If I can regularly use 85–90% of the LFP battery, could its practical range be similar to the NMC version when that is kept between 15% and 85%? Would you save the $10,000 and choose LFP, or pay extra for the Long Range in my situation? Can I use the LFP as described? submitted by /u/No_Swordfish_2583 [link] [comments]",
+  "text": "TL;DR : I drive 160 km per day, mostly at 110–120 km/h, and cannot charge at home. Is it better to save around $10,000 and use more of an LFP battery, or choose the NMC Long Range? I am considering two versions of the Zeekr 7GT: Core: LFP battery, 519 km WLTP Core Long Range: NMC battery, 655 km WLTP My daily commute is around 80 km each way – 160 km total, or approximately 41,000 km per year. Most of the driving is at highway speeds, and the car will be used year-round in Norway, normally at -5°C to -10°C during winter and occasionally as low as -20°C. I cannot charge at home, although I have access to shared chargers where I live. With the Long Range version, using the battery between 15% and 85% would theoretically give me around 410 km, which should cover two days of commuting. However, is it true LFP batteries tolerate a wider usable state-of-charge range. If I can regularly use 85–90% of the LFP battery, could its practical range be similar to the NMC version when that is kept between 15% and 85%? Would you save the $10,000 and choose LFP, or pay extra for the Long Range in my situation? Can I use the LFP as described?",
   "author": "/u/No_Swordfish_2583",
   "published": "2026-09-28T08:34:24+00:00",
   "rating": null,
@@ -16067,7 +16517,7 @@
    "price"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -16078,7 +16528,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1ws7zin/geely_zeekr_chinese_brand_makes_waymo_cars/",
   "title": "Geely zeekr chinese brand makes waymo cars?",
-  "text": "I was curious to learn that the new Waymos are actually a Chinese brand from Geely / Zeekr. However I thought Chinese brands were essentially priced out due to tariffs. How is waymo making the cost effective while brands loke BYD are still priced out? submitted by /u/Talenn [link] [comments]",
+  "text": "I was curious to learn that the new Waymos are actually a Chinese brand from Geely / Zeekr. However I thought Chinese brands were essentially priced out due to tariffs. How is waymo making the cost effective while brands loke BYD are still priced out?",
   "author": "/u/Talenn",
   "published": "2026-09-28T07:24:32+00:00",
   "rating": null,
@@ -16101,7 +16551,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -17022,7 +17472,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1wo6vgs/geely_challenges_byd_with_22_mw_charging/",
   "title": "Geely challenges BYD with 2.2 MW charging technology",
-  "text": "Today, Geely Auto officially unveiled its “AI-driven” charging technology, “Geely Smart Charge.” which is powered by Geely’s energy large model, Xingrui PowerMind. The centrepiece of the announcement is the new Geely Smart Charge station, which features a single-gun peak power output of 2,250 kW, setting a new industry record. ... Geely also introduced its new generation of Aegis Golden Brick ultra-short blade batteries: 12C battery: Featured in the Lynk & Co 10 and Zeekr 001, this 395 mm battery achieves a peak charging rate of 12C. Under normal temperatures, it can charge from 10% to 70% in approximately 4 minutes and 30 seconds, and from 10% to 97% in about 8 minutes and 40 seconds. 6C battery: The 370 mm version, debuting in the new Geely Galaxy E5, offers a peak charging rate of 6C, achieving a 10% to 70% charge in approximately 8 minutes and 25 seconds. ... By the end of 2027, the company aims to deploy over 100,000 charging guns nationwide, with more than 50,000 being Geely Smart Charge units, ensuring coverage across all counties in China. submitted by /u/Recoil42 [link] [comments]",
+  "text": "Today, Geely Auto officially unveiled its “AI-driven” charging technology, “Geely Smart Charge.” which is powered by Geely’s energy large model, Xingrui PowerMind. The centrepiece of the announcement is the new Geely Smart Charge station, which features a single-gun peak power output of 2,250 kW, setting a new industry record. ... Geely also introduced its new generation of Aegis Golden Brick ultra-short blade batteries: 12C battery: Featured in the Lynk & Co 10 and Zeekr 001, this 395 mm battery achieves a peak charging rate of 12C. Under normal temperatures, it can charge from 10% to 70% in approximately 4 minutes and 30 seconds, and from 10% to 97% in about 8 minutes and 40 seconds. 6C battery: The 370 mm version, debuting in the new Geely Galaxy E5, offers a peak charging rate of 6C, achieving a 10% to 70% charge in approximately 8 minutes and 25 seconds. ... By the end of 2027, the company aims to deploy over 100,000 charging guns nationwide, with more than 50,000 being Geely Smart Charge units, ensuring coverage across all counties in China.",
   "author": "/u/Recoil42",
   "published": "2026-09-23T14:02:01+00:00",
   "rating": null,
@@ -17048,7 +17498,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -19521,6 +19971,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a71ccc75680f43c2",
+  "type": "post",
+  "source": "reddit-AusAutomotive",
+  "source_name": "Reddit r/AusAutomotive",
+  "url": "https://www.reddit.com/r/AusAutomotive/comments/1wghut7/zeekr_7gt_specs_previewed_for_australia_with/",
+  "title": "Zeekr 7GT Specs Previewed For Australia With 500kW Performance AWD",
+  "text": "",
+  "author": "/u/Jacob_CarSauce",
+  "published": "2026-09-14T22:12:32+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "e79f99ebc781d64c",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -20523,7 +21006,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1wb915q/zeekr_7x_hits_200000_units_as_new_85_kwh_version/",
   "title": "Zeekr 7X hits 200,000 units as new 85 kWh version arrives in Q4",
-  "text": "submitted by /u/Peugeot905 [link] [comments]",
+  "text": "",
   "author": "/u/Peugeot905",
   "published": "2026-09-09T02:34:41+00:00",
   "rating": null,
@@ -20547,7 +21030,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -20719,7 +21202,7 @@
  {
   "id": "c721d7aa0f59fb55",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdE1rUmVnT19paGY4bVI4cjZVcjU5QjhOX0hubWx5YlFhUEliUzlDNkF5V0RCUXYwTEFnTHFySmlZWDk3OWtWMUR1Y1h0SnVFTktDYWd6bm45SkRORGZtd04xWm9tcmV2QW5kc1Z0MGxySHUzVzNrVTluT1BXbU81Nkg1SkFDSkZSbGJjUlliNmMyM2VMRllFQnoxUmlGWDFPRE9aV0FaVmdfdzlmc2RqZlNRdjg1WFZvNkRMZHVR?oc=5",
   "title": "2026 Zeekr 7X, 7GT, 8X and 9X and more to get more buttons and dials in the future as Chinese luxury brand responds to global feedback - CarsGuide",
@@ -20745,10 +21228,39 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "b7cff69699035055",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · The Standard | Warrnambool, VIC",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzNvbEZJaFZSQ2stTXlrdXFlNVNzYWtNVEc0RjRhTGp4VHNsUGpHbUNuNEc5dGkybU5CZVRYdzdEcGYyRVNHcFlUMUNLckI4VFl3SDdLUnpaT3Q5R0N2UFBLUWtWSzg3WXB0X2VFN3cwREFOZjBEZ3YyRUIzejF1aTZSeWRwcEE?oc=5",
+  "title": "Zeekr to address big in-car complaint - The Standard | Warrnambool, VIC",
+  "text": "Zeekr to address big in-car complaint The Standard | Warrnambool, VIC",
+  "author": "",
+  "published": "2026-09-08T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "878206b5916a60d5",
@@ -21234,6 +21746,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "bcf67820c38b94c8",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1w75rli/i_gave_up_on_my_zeekr_dream/",
+  "title": "I gave up on my Zeekr dream",
+  "text": "",
+  "author": "/u/Yoozy02",
+  "published": "2026-09-04T14:20:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "4db021f611ebc651",
@@ -22384,7 +22925,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1w47jwi/cla_shooting_brake_is_35_more_efficient_than/",
   "title": "CLA Shooting brake is 35% more efficient than Zeekr 7GT @120 km/h",
-  "text": "submitted by /u/wo01f [link] [comments]",
+  "text": "",
   "author": "/u/wo01f",
   "published": "2026-09-01T10:05:41+00:00",
   "rating": null,
@@ -22406,7 +22947,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -22642,7 +23183,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1w1d5j2/i_tried_chinas_2_most_advanced_ev_charging_systems/",
   "title": "I Tried China’s 2 Most Advanced EV Charging Systems",
-  "text": "I visited BYD's newest flash charging hub (former gas station) in Shanghai with a Zeekr 7X, as well as NIO's 5th generation power swap station with a Firefly. I compared the experience of both and talked about some pros and cons as I see them. I got about 82 kWh in 14:39 with the Zeekr, and swapped in 3:04 with the Firefly. Time to charge is not really the important difference in my opinion, but let me know what you think. submitted by /u/CrossingChina [link] [comments]",
+  "text": "I visited BYD's newest flash charging hub (former gas station) in Shanghai with a Zeekr 7X, as well as NIO's 5th generation power swap station with a Firefly. I compared the experience of both and talked about some pros and cons as I see them. I got about 82 kWh in 14:39 with the Zeekr, and swapped in 3:04 with the Firefly. Time to charge is not really the important difference in my opinion, but let me know what you think.",
   "author": "/u/CrossingChina",
   "published": "2026-08-29T04:56:56+00:00",
   "rating": null,
@@ -22668,7 +23209,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -22799,7 +23340,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -22833,6 +23374,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
+  "id": "afac9d0b0f1bf96d",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1vxstdk/its_here/",
+  "title": "It’s here 😁😁",
+  "text": "Beautiful and comfortable car. The auto-parking is also impressive — very fast and accurate. The car is so comfy and the handling super good. I don’t really use the ADAS, so I can’t say much about it, but I expect it will improve with the next update. Some people claim the front camera isn’t properly calibrated and that this affects the ADAS performance, but I’m not really convinced. I tried the Sentry mode and caught people checking out the car… and even looking inside (I’ll share the photo, lol).",
+  "author": "/u/t3ksin",
+  "published": "2026-08-25T07:23:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "e3c2e69d9dcac475",
@@ -22874,7 +23447,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1vwyl57/zeekr_7x_orders_top_200000_globally_now_sold_in/",
   "title": "Zeekr 7X orders top 200,000 globally, now sold in more than 50 countries",
-  "text": "submitted by /u/i_marketing [link] [comments]",
+  "text": "",
   "author": "/u/i_marketing",
   "published": "2026-08-24T10:09:18+00:00",
   "rating": null,
@@ -22896,7 +23469,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -23503,7 +24076,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -24034,6 +24607,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "85d6f10592bcb315",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1vpq4iq/this_thing_is_amazing/",
+  "title": "This. Thing. Is Amazing.",
+  "text": "Genuinely blown away by the 7GT Privilege. What a machine.",
+  "author": "/u/autoproliferator",
+  "published": "2026-08-16T07:01:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "0983928c88007d90",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -24333,7 +24937,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1vkow61/is_a_zeekr_mix_streetlegal_in_the_us/",
   "title": "Is a Zeekr Mix street-legal in the U.S.?",
-  "text": "So the Zeekr Mix was built to pass U.S. crash test standards, and I can't imagine it having any issues with emissions. I appreciate it's built in China and would be subject to bone-crushing tariffs. But if one spontaneously appeared in an American driveway, would it be legal to drive? submitted by /u/LingonberryUpset482 [link] [comments]",
+  "text": "So the Zeekr Mix was built to pass U.S. crash test standards, and I can't imagine it having any issues with emissions. I appreciate it's built in China and would be subject to bone-crushing tariffs. But if one spontaneously appeared in an American driveway, would it be legal to drive?",
   "author": "/u/LingonberryUpset482",
   "published": "2026-08-10T16:00:01+00:00",
   "rating": null,
@@ -24354,7 +24958,7 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -25298,6 +25902,74 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "c36b6e7341adbc28",
+  "type": "complaint",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1vc1ych/test_drove_the_7gt_in_eu_it_has_many_issues_but/",
+  "title": "Test drove the 7gt (in EU) - it has many issues but two main ones makes ownership practically impossible.",
+  "text": "",
+  "author": "/u/Objective-Memory-490",
+  "published": "2026-07-31T20:14:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
+  "id": "feef395da9753fc7",
+  "type": "complaint",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1vc1uf7/test_drove_the_7gt_eu_it_has_many_issues_but_two/",
+  "title": "Test drove the 7gt (EU) - it has many issues but two primary ones makes it impossible to own...",
+  "text": "Test Drove the 7 GT. I really wanted to like it for many reasons.... Two main areas which are dealbreakers for me: ADAS ADAS is dysfunctional in its current state -- it literally tells you CONSTANTLY to pay attention or notify that you are unattentive. It will disable itself due to that aa lot. Software Navigation: The built-in navigations is INFURIATINGLY useless due to the Map being TOO ZOOMED in, which results in the fact that you can only see about 100 meter ahead in certain scenarios, AND the map is about 50 meters behind (your placement on the road - think a sort of lag effect). This means that in a lot of scenarios you will miss turns etc. because you basically only get to see it on the navigations when it is too late. Car-play / android auto It could be the saving grace for the navigation BUT... It can ONLY be available in FULL-SCREEN. If you touch ANY other part of the infotainment system BESIDES airflow, it will CLOSE car-play and you have to RE-ENTER it. It is actually insulting how a company can ship a product like this in this condition. I only mentioned these two above because they made the entire experience like you were fighting against the car the entire time. I do",
+  "author": "/u/NextExcitement3535",
+  "published": "2026-07-31T20:10:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "773744e9bd29dffd",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -25553,13 +26225,48 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "6b7762045976553c",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1v822pd/zeekr_7gt_sport_mode_esp_in_sport_mode/",
+  "title": "Zeekr 7GT - Sport mode + ESP in Sport mode",
+  "text": "Hi, I only had the car (long range version) for two days and found out that it's literally a different car when in Sport mode + ESP set to sport mode. The car is so much more responsive and fun to drive. The reviews you are watching I assume they are driving standard mode and then car is much more oriented to confort and safety. One last thing that I don't like is that the steering doesn't feel connected to the road, but I can live with that because when I want to drive it comfortably, I can.",
+  "author": "/u/dokiCro",
+  "published": "2026-07-27T14:31:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "ebb0f214371e8965",
   "type": "post",
   "source": "reddit-electricvehicles",
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1v76enh/zeekr_promises_less_lockouts_after_chinese_9x/",
   "title": "Zeekr promises less lockouts after Chinese 9X owner gets stranded abroad",
-  "text": "submitted by /u/mightyopik [link] [comments]",
+  "text": "",
   "author": "/u/mightyopik",
   "published": "2026-07-26T15:06:25+00:00",
   "rating": null,
@@ -25579,7 +26286,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -25656,7 +26363,7 @@
    "price"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -25732,7 +26439,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -25774,7 +26481,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1v4y2mk/if_the_us_market_were_open/",
   "title": "If the US market were open",
-  "text": "If the US market was open to all EV suppliers, and Chinese etc. vehicles were available and a normal price, what EV would you now plan to get? IOW what makes and models do you wish to see for sale? BYD? Dongfeng? Zeekr? submitted by /u/Random-Mutant [link] [comments]",
+  "text": "If the US market was open to all EV suppliers, and Chinese etc. vehicles were available and a normal price, what EV would you now plan to get? IOW what makes and models do you wish to see for sale? BYD? Dongfeng? Zeekr?",
   "author": "/u/Random-Mutant",
   "published": "2026-07-24T02:12:25+00:00",
   "rating": null,
@@ -25794,7 +26501,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -25837,7 +26544,7 @@
  {
   "id": "e60b4efa539c4386",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · CarExpert",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamVGRTR2RFUyMWlnUWtYWjVrS0o0Q2pSSkJwWi00SUJtTHp0cTFNMUZwV2dUWURVOEZETWR1QnBXcDZhZ01NOTZNaXlFWWdST1VhdmlscFRxTmxWdEN3TlMxUUo5Q09PbVZ0eGdyYjVtTVN5Q2lkaHVTZjZxa0ZEb3o2WkVTdXJJc2ZlLUpzMmtmUzJUX0VnRXN1dDBvTGRu?oc=5",
   "title": "2026 Zeekr 7X Long Range RWD review: Long-term introduction - CarExpert",
@@ -25862,7 +26569,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -26178,7 +26885,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1uyajjz/what_are_noteworthy_changes_to_ev_in_the_past_4/",
   "title": "What are noteworthy changes to EV in the past 4 years if you bought an EV 4 years ago?",
-  "text": "I started doing IT consultancy 4 years ago and along with that I was given the opportunity to choose (lease) any EV of my liking up to 45K. While I love a good looking car (subjective to opinion), I prioritize a premium interior with modern in-car technology (e.g. large screens). That's why I choose the Renault Megane E-Tech late 2022. It's time to select a new car, but I'm not convinced by my gains from switching to any of the most recent models in the same budget area (think Zeekr X, Hyundai Ionic 5, VW ID4, Mazda 6e, etc.). Perhaps I'm overlooking or underestimating all recent changes in the EV landscape, so that's why I'm curious what you consider noteworthy updates. submitted by /u/Sjeefr [link] [comments]",
+  "text": "I started doing IT consultancy 4 years ago and along with that I was given the opportunity to choose (lease) any EV of my liking up to 45K. While I love a good looking car (subjective to opinion), I prioritize a premium interior with modern in-car technology (e.g. large screens). That's why I choose the Renault Megane E-Tech late 2022. It's time to select a new car, but I'm not convinced by my gains from switching to any of the most recent models in the same budget area (think Zeekr X, Hyundai Ionic 5, VW ID4, Mazda 6e, etc.). Perhaps I'm overlooking or underestimating all recent changes in the EV landscape, so that's why I'm curious what you consider noteworthy updates.",
   "author": "/u/Sjeefr",
   "published": "2026-07-16T18:08:23+00:00",
   "rating": null,
@@ -26207,7 +26914,7 @@
    "launch"
   ],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -26250,7 +26957,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1uwuddn/zeekr_expands_7_gt_rollout_to_16_european/",
   "title": "Zeekr Expands 7 GT Rollout to 16 European Countries From €45,990",
-  "text": "submitted by /u/Peugeot905 [link] [comments]",
+  "text": "",
   "author": "/u/Peugeot905",
   "published": "2026-07-15T03:34:04+00:00",
   "rating": null,
@@ -26270,7 +26977,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -26615,6 +27322,40 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "c638f8e912e5fb87",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1uqzj2b/just_got_my_7gt_today_in_switzerland/",
+  "title": "Just got my 7GT today in Switzerland",
+  "text": "If you have any questions, happy to help as garages still don’t have their showroom models :-)",
+  "author": "/u/Blackberry9423",
+  "published": "2026-07-08T17:30:55+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "7fab567c19f9fe9a",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
@@ -26646,6 +27387,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "0d738ab8dca2475f",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1upknjl/1000_km_in_a_7gt/",
+  "title": "1000 km in a 7GT",
+  "text": "",
+  "author": "/u/mabrunbakke",
+  "published": "2026-07-07T04:32:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "50c2a1aba0a5a71b",
@@ -26966,6 +27738,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "266b3b316b027963",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1ueauck/testdrive/",
+  "title": "Testdrive",
+  "text": "Upcoming friday I have booked a 2 hour testdrive. Anything I should know, you want me to pay special attention to or anything uou wanr tested?",
+  "author": "/u/Apprehensive-Ad1332",
+  "published": "2026-06-24T11:26:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "092004f638b32a55",
@@ -27386,6 +28189,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "38e51ad9e7f81a00",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1u87o6u/zeekr_7gt_privilege_awd_walkaround/",
+  "title": "Zeekr 7GT Privilege AWD Walkaround",
+  "text": "https://youtu.be/KXKsxlDq2xA?is=eGKbK8-qKpJ9Z8pY",
+  "author": "/u/akeemr",
+  "published": "2026-06-17T11:34:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
+ },
+ {
   "id": "49aea889dd390501",
   "type": "complaint",
   "source": "playstore-android",
@@ -27520,6 +28354,37 @@
    "thumbs": 6
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "6243cfa8cb166c51",
+  "type": "post",
+  "source": "reddit-Zeekr7Gt",
+  "source_name": "Reddit r/Zeekr7Gt",
+  "url": "https://www.reddit.com/r/Zeekr7Gt/comments/1u4boau/media_test_soon/",
+  "title": "Media test soon",
+  "text": "Update the embargo lift is the 22nd Here is an official post by zeekr ​ https://www.facebook.com/share/p/1D4zHnMkfE/",
+  "author": "/u/akeemr",
+  "published": "2026-06-12T23:55:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
   "id": "7d3cede99851aad1",
@@ -28142,7 +29007,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1tw3fu5/2026_carexpert_choice_winner_best_ev_midsize_suv/",
   "title": "2026 CarExpert Choice winner: Best EV – Mid-Size SUV - The Zeekr 7X is our pick in a crowded segment for the way it balances value, performance, efficiency and comfort in a stylish package.",
-  "text": "submitted by /u/i_marketing [link] [comments]",
+  "text": "",
   "author": "/u/i_marketing",
   "published": "2026-06-03T21:33:25+00:00",
   "rating": null,
@@ -28165,7 +29030,7 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -28207,7 +29072,7 @@
   "source_name": "Reddit r/electricvehicles",
   "url": "https://www.reddit.com/r/electricvehicles/comments/1tvfznx/ev_sales_hit_record_20_pct_share_in_may_as_tesla/",
   "title": "EV sales hit record 20 pct share in May, as Tesla, BYD, Jaecoo and Geely surge and diesel utes slump",
-  "text": "Full EV sales in Australia, continuing their rapid climb, hit 20% for the first time in May, more than doubling from 9.2% in May 2025 and a significant jump from 16.4% in April. Top 10 EVs sold were: Tesla Model Y – 5,605 sales Omoda Jaecoo J5 – 2,126 sales Geely EX5 – 1,814 sales BYD Sealion 7 – 1,538 sales Zeekr 7X – 966 sales Tesla Model 3 – 828 sales BYD Atto 2 – 778 sales BYD Atto 1 – 768 sales BYD Atto 3 – 627 sales BYD Seal – 581 sales MG MG4 – 580 sales Kia EV3 – 531 sales This is great to see. Especially given huge (and growing) installations of rooftop solar — and now home batteries — Australia is an obvious place for EVs to rapidly take over. Seems like it’s finally starting to happen. submitted by /u/EinSV [link] [comments]",
+  "text": "Full EV sales in Australia, continuing their rapid climb, hit 20% for the first time in May, more than doubling from 9.2% in May 2025 and a significant jump from 16.4% in April. Top 10 EVs sold were: Tesla Model Y – 5,605 sales Omoda Jaecoo J5 – 2,126 sales Geely EX5 – 1,814 sales BYD Sealion 7 – 1,538 sales Zeekr 7X – 966 sales Tesla Model 3 – 828 sales BYD Atto 2 – 778 sales BYD Atto 1 – 768 sales BYD Atto 3 – 627 sales BYD Seal – 581 sales MG MG4 – 580 sales Kia EV3 – 531 sales This is great to see. Especially given huge (and growing) installations of rooftop solar — and now home batteries — Australia is an obvious place for EVs to rapidly take over. Seems like it’s finally starting to happen.",
   "author": "/u/EinSV",
   "published": "2026-06-03T05:35:21+00:00",
   "rating": null,

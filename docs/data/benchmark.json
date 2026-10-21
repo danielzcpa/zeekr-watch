@@ -1,0 +1,367 @@
+{
+ "note": "终端价格与政策时间线监控配置。beep_models: The Beep 车型页（JSON-LD 含各州 DAP）；beep_brands / zecar_brands: 官方政策聚合页。focus_three: 政策时间线可视化默认展示的三个最贴近竞品。",
+ "states": [
+  "NSW",
+  "VIC"
+ ],
+ "beep_models": [
+  {
+   "slug": "zeekr/7x",
+   "label": "ZEEKR 7X",
+   "group": "zeekr",
+   "zeekr": "7X"
+  },
+  {
+   "slug": "zeekr/x",
+   "label": "ZEEKR X",
+   "group": "zeekr",
+   "zeekr": "X"
+  },
+  {
+   "slug": "zeekr/009",
+   "label": "ZEEKR 009",
+   "group": "zeekr",
+   "zeekr": "009"
+  },
+  {
+   "slug": "mercedes-benz/eqa-suv",
+   "label": "奔驰 EQA",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "mb-eqa"
+  },
+  {
+   "slug": "mercedes-benz/cla-coupe",
+   "label": "奔驰 CLA（新一代）",
+   "group": "german",
+   "zeekr": "7GT",
+   "cid": "mb-cla-ev"
+  },
+  {
+   "slug": "mercedes-benz/glc-suv",
+   "label": "奔驰 GLC",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "mb-glc"
+  },
+  {
+   "slug": "bmw/ix1",
+   "label": "宝马 iX1",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "bmw-ix1"
+  },
+  {
+   "slug": "bmw/ix2",
+   "label": "宝马 iX2",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "bmw-ix1"
+  },
+  {
+   "slug": "bmw/i4-gran-coupe",
+   "label": "宝马 i4",
+   "group": "german",
+   "zeekr": "7GT",
+   "cid": "bmw-i4"
+  },
+  {
+   "slug": "audi/q4-e-tron",
+   "label": "奥迪 Q4 e-tron",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "audi-q4"
+  },
+  {
+   "slug": "audi/q4-sportback-e-tron",
+   "label": "奥迪 Q4 Sportback e-tron",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "audi-q4"
+  },
+  {
+   "slug": "audi/q6-e-tron",
+   "label": "奥迪 Q6 e-tron",
+   "group": "german",
+   "zeekr": "7X",
+   "cid": "audi-q6"
+  },
+  {
+   "slug": "audi/a5-avant",
+   "label": "奥迪 A5 Avant",
+   "group": "german",
+   "zeekr": "7GT"
+  },
+  {
+   "slug": "tesla/model-y",
+   "label": "Tesla Model Y",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "tesla-model-y"
+  },
+  {
+   "slug": "byd/sealion-7",
+   "label": "BYD Sealion 7",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "byd-sealion7"
+  },
+  {
+   "slug": "xpeng/g6",
+   "label": "Xpeng G6",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "xpeng-g6"
+  },
+  {
+   "slug": "kia/ev5",
+   "label": "Kia EV5",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "kia-ev5"
+  },
+  {
+   "slug": "smart/5",
+   "label": "smart #5",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "smart-5"
+  },
+  {
+   "slug": "hyundai/elexio",
+   "label": "Hyundai Elexio",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "hyundai-elexio"
+  },
+  {
+   "slug": "polestar/4",
+   "label": "Polestar 4",
+   "group": "core",
+   "zeekr": "7X",
+   "cid": "polestar-4"
+  },
+  {
+   "slug": "volvo/ex30",
+   "label": "Volvo EX30",
+   "group": "core",
+   "zeekr": "X",
+   "cid": "volvo-ex30"
+  },
+  {
+   "slug": "smart/1",
+   "label": "smart #1",
+   "group": "core",
+   "zeekr": "X",
+   "cid": "smart-1"
+  },
+  {
+   "slug": "tesla/model-3",
+   "label": "Tesla Model 3",
+   "group": "core",
+   "zeekr": "7GT",
+   "cid": "tesla-model-3"
+  },
+  {
+   "slug": "byd/seal",
+   "label": "BYD Seal",
+   "group": "core",
+   "zeekr": "7GT",
+   "cid": "byd-seal"
+  },
+  {
+   "slug": "polestar/2",
+   "label": "Polestar 2",
+   "group": "core",
+   "zeekr": "7GT",
+   "cid": "polestar-2"
+  }
+ ],
+ "beep_brands": [
+  "mercedes-benz",
+  "bmw",
+  "audi",
+  "tesla",
+  "byd",
+  "xpeng",
+  "kia",
+  "smart",
+  "hyundai",
+  "polestar",
+  "volvo",
+  "geely",
+  "zeekr",
+  "leapmotor",
+  "deepal",
+  "mg",
+  "mini",
+  "lexus",
+  "denza"
+ ],
+ "zecar_brands": [
+  "mercedes-benz",
+  "bmw",
+  "audi",
+  "tesla",
+  "byd",
+  "xpeng",
+  "kia",
+  "smart",
+  "hyundai",
+  "polestar",
+  "volvo",
+  "geely",
+  "zeekr",
+  "leapmotor",
+  "deepal",
+  "mg",
+  "mini",
+  "denza",
+  "toyota"
+ ],
+ "brand_zh": {
+  "mercedes-benz": "奔驰",
+  "bmw": "宝马",
+  "audi": "奥迪",
+  "tesla": "Tesla",
+  "byd": "BYD",
+  "xpeng": "Xpeng",
+  "kia": "Kia",
+  "smart": "smart",
+  "hyundai": "Hyundai",
+  "polestar": "Polestar",
+  "volvo": "Volvo",
+  "geely": "Geely",
+  "zeekr": "ZEEKR",
+  "leapmotor": "Leapmotor",
+  "deepal": "Deepal",
+  "mg": "MG",
+  "mini": "Mini",
+  "lexus": "Lexus",
+  "denza": "Denza",
+  "toyota": "Toyota"
+ },
+ "focus_three": [
+  "tesla-model-y",
+  "byd-sealion7",
+  "xpeng-g6"
+ ],
+ "focus_pool": [
+  "tesla-model-y",
+  "byd-sealion7",
+  "xpeng-g6",
+  "kia-ev5",
+  "smart-5",
+  "hyundai-elexio",
+  "polestar-4",
+  "bmw-ix1",
+  "mb-eqa",
+  "audi-q4",
+  "volvo-ex30",
+  "smart-1",
+  "tesla-model-3",
+  "byd-seal",
+  "polestar-2"
+ ],
+ "model_keywords": {
+  "tesla-model-y": [
+   "model y"
+  ],
+  "tesla-model-3": [
+   "model 3"
+  ],
+  "byd-sealion7": [
+   "sealion 7"
+  ],
+  "byd-seal": [
+   "seal"
+  ],
+  "xpeng-g6": [
+   "g6"
+  ],
+  "kia-ev5": [
+   "ev5"
+  ],
+  "smart-5": [
+   "#5",
+   "smart 5"
+  ],
+  "smart-1": [
+   "#1",
+   "smart 1"
+  ],
+  "hyundai-elexio": [
+   "elexio"
+  ],
+  "polestar-4": [
+   "polestar 4"
+  ],
+  "polestar-2": [
+   "polestar 2"
+  ],
+  "volvo-ex30": [
+   "ex30"
+  ],
+  "volvo-ex40": [
+   "ex40"
+  ],
+  "bmw-ix1": [
+   "ix1",
+   "ix2"
+  ],
+  "bmw-i4": [
+   "i4"
+  ],
+  "mb-eqa": [
+   "eqa"
+  ],
+  "mb-eqb": [
+   "eqb"
+  ],
+  "mb-cla-ev": [
+   "cla"
+  ],
+  "mb-glc": [
+   "glc"
+  ],
+  "audi-q4": [
+   "q4 e-tron",
+   "q4 sportback",
+   "q4 sportback e-tron"
+  ],
+  "audi-q6": [
+   "q6 e-tron",
+   "sq6"
+  ],
+  "geely-ex5": [
+   "ex5"
+  ],
+  "leapmotor-c10": [
+   "c10"
+  ],
+  "deepal-s07": [
+   "s07"
+  ],
+  "hyundai-ioniq5": [
+   "ioniq 5"
+  ],
+  "kia-ev3": [
+   "ev3"
+  ],
+  "kia-ev6": [
+   "ev6"
+  ],
+  "kia-ev4": [
+   "ev4"
+  ],
+  "im5": [
+   "im5"
+  ],
+  "mini-aceman": [
+   "aceman"
+  ],
+  "mini-countryman-e": [
+   "countryman"
+  ]
+ }
+}

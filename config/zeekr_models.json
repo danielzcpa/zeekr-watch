@@ -20,7 +20,7 @@
         {"name": "Premium A2", "drive": "RWD", "battery_kwh": 66, "rrp": 53900},
         {"name": "Flagship A2", "drive": "AWD", "battery_kwh": 66, "rrp": 62900}
       ],
-      "note": "澳洲媒体报道 MY26 X 自 2026-05 起以 $48,900 (RWD) / $57,900 (AWD) 全包价销售，与上表 RRP 口径不同，请以内部价目表为准。"
+      "note": "澳洲媒体报道 MY26 X 自 2026-05 起以 $48,900 (RWD) / $57,900 (AWD) DAP销售，与上表 MSRP 口径不同，请以内部价目表为准。"
     },
     {
       "key": "7X",

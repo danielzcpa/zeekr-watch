@@ -2,18 +2,22 @@
  "key": "thebeep-offers",
  "brand": "The Beep (全品牌政策汇总)",
  "url": "https://thebeep.com.au/offers-and-deals",
- "fetched": "2026-10-13T05:08:24+00:00",
- "digest": "025dcc47776d61ec",
+ "fetched": "2026-10-21T09:15:54+00:00",
+ "digest": "8eab8963e44886e0",
  "lines": [
   "New car offers and deals",
   "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
-  "Junior Driveaway",
-  "The all-new Alfa Romeo Junior Ibrida is now available from $49,990 driveaway. Take advantage of this offer on new and demonstrator Junior Ibrida Series 0 vehicles with premium paint and sunroof.",
-  "Alfa Romeo is celebrating its Italian heritage with limited edition Tributo Italiano versions of the Tonale, Stelvio and Giulia. These special models feature exclusive Italian flag-inspired colors, black roof accents, Brembo brakes and premium leather interiors with red stitching. Limited to just 60 units nationwide, they offer a mix of style, performance and exclusivity for Alfa enthusiasts.",
-  "Discover exceptional savings on a select range of Alfa Romeo Veloce demonstrator models. Crafted with Italian passion and precision, Veloce delivers thrilling turbocharged performance, luxurious interiors and timeless design, engineered to ignite your senses."
+  "Enjoy complimentary sunroof and premium paint on selected Alfa Romeo models across the range during the End of Year Sales Event. Offer ends 21 December 2026.",
+  "Deposit Contribution Offer",
+  "Get a $4,000 deposit contribution on selected Alfa Romeo models when financed through Alfa Romeo Financial Services, with a maximum 84-month term. Offer ends 21 December 2026.",
+  "Factory Bonus Offer",
+  "Enjoy a $7,500 factory bonus on the Alfa Romeo Giulia Quadrifoglio, or save $15,000 on the Giulia Quadrifoglio Super Sport and Estrema models.",
+  "Alfa Romeo is celebrating its Italian heritage with limited edition Tributo Italiano versions of the Tonale, Stelvio and Giulia. These special models feature exclusive Italian flag-inspired colors, black roof accents, Brembo brakes and premium leather interiors with red stitching. Limited to just 60 units nationwide, they offer a mix of style, performance and exclusivity for Alfa enthusiasts."
  ],
  "money": [
-  49990
+  4000,
+  7500,
+  15000
  ],
- "n_lines": 6
+ "n_lines": 8
 }

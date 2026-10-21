@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-21T07:26:38+00:00",
- "duration_s": 189.3,
- "items_total": 852,
- "new_this_run": 204,
+ "generated": "2026-10-21T09:13:15+00:00",
+ "duration_s": 161.2,
+ "items_total": 878,
+ "new_this_run": 248,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 10,
-  "complaints_30d": 39,
-  "high_7d": 2,
+  "complaints_7d": 11,
+  "complaints_30d": 41,
+  "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 6,
   "competitor_news_7d": 113,
   "launch_signals_7d": 31,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 68,
-  "offer_page_changes_7d": 4
+  "offer_page_changes_7d": 5
  },
  "series_30d": [
   {
@@ -135,7 +135,7 @@
    "date": "2026-10-11",
    "complaints": 1,
    "competitor_news": 6,
-   "zeekr_news": 6
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-12",
@@ -181,13 +181,13 @@
   },
   {
    "date": "2026-10-19",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 24,
-   "zeekr_news": 5
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-20",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 17,
    "zeekr_news": 19
   },
@@ -195,7 +195,7 @@
    "date": "2026-10-21",
    "complaints": 0,
    "competitor_news": 6,
-   "zeekr_news": 1
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 27
+   "n": 28
   },
   {
    "key": "service",
@@ -221,7 +221,7 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 11
+   "n": 12
   },
   {
    "key": "quality",
@@ -249,17 +249,18 @@
   }
  ],
  "models_30d": {
-  "7X": 17,
+  "7X": 18,
   "7GT": 4,
   "009": 1,
   "X": 1
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 16,
-  "Google Play (AU)": 9,
+  "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
   "Reddit r/EVAustralia": 3,
+  "Reddit r/AutoAdvice": 1,
   "Reddit r/ZeekrAustraliaNZ": 1,
   "ProductReview.com.au": 1
  },
@@ -847,6 +848,13 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "67bf571fe7adae64",
+   "title": "The Beep (全品牌政策汇总) 官网政策页面变化（+5 / −3 行）",
+   "source": "https://thebeep.com.au/offers-and-deals",
+   "t": "2026-10-21T09:15:54+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "99419ac300069eac",
    "title": "Zecar (全品牌政策汇总) 官网政策页面变化（+2 / −3 行）",
    "source": "https://zecar.com/offers-and-deals",
@@ -858,6 +866,13 @@
    "title": "Polestar 官网政策页面变化（+1 / −1 行）",
    "source": "https://www.polestar.com/au/offers/",
    "t": "2026-10-20T16:50:49+00:00"
+  },
+  {
+   "kind": "complaint_high",
+   "id": "c4b444706a164572",
+   "title": "1★ · Same issues with entry via the app. 1. Open the app 2. Zeekr",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-10-20T08:21:39+00:00"
   },
   {
    "kind": "competitor_launch",
@@ -970,7 +985,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 39,
+   "count": 43,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1000,17 +1015,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 35,
+   "count": 34,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 23,
+   "count": 24,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 38,
+   "count": 39,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1044,9 +1059,9 @@
    "note": ""
   },
   "evcentral-zeekr": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   "chasingcars": {
    "ok": true,
@@ -1079,9 +1094,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": true,
@@ -1094,9 +1109,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 14,
+   "note": "anonymous RSS"
   },
   "reddit-CarsAustralia": {
    "ok": true,
@@ -1104,9 +1119,9 @@
    "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1114,19 +1129,19 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 3,
+   "note": "anonymous RSS"
   },
   "reddit-electricvehicles": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-global": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "productreview-zeekr-agg": {
    "ok": true,
@@ -1150,7 +1165,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1172,6 +1187,331 @@
    "ok": false,
    "count": 0,
    "note": "GOOGLE_MAPS_API_KEY not set – store reviews skipped"
+  },
+  "beep-zeekr/7x": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-zeekr/x": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-zeekr/009": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-mercedes-benz/eqa-suv": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "beep-mercedes-benz/cla-coupe": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-mercedes-benz/glc-suv": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-bmw/ix1": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "beep-bmw/ix2": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "beep-bmw/i4-gran-coupe": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "beep-audi/q4-e-tron": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-audi/q4-sportback-e-tron": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-audi/q6-e-tron": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-audi/a5-avant": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-tesla/model-y": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "beep-byd/sealion-7": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-xpeng/g6": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-kia/ev5": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "beep-smart/5": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-hyundai/elexio": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-polestar/4": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "beep-volvo/ex30": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-smart/1": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-tesla/model-3": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "beep-byd/seal": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-polestar/2": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-prices": {
+   "ok": true,
+   "count": 25,
+   "note": "25 models"
+  },
+  "beep-offers-mercedes-benz": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-bmw": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-audi": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-tesla": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-offers-byd": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-xpeng": {
+   "ok": true,
+   "count": 0,
+   "note": ""
+  },
+  "beep-offers-kia": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-smart": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-offers-hyundai": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-polestar": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-volvo": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "beep-offers-geely": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-zeekr": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "beep-offers-leapmotor": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-deepal": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "beep-offers-mg": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-mini": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "beep-offers-lexus": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "beep-offers-denza": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "zecar-offers-mercedes-benz": {
+   "ok": true,
+   "count": 0,
+   "note": ""
+  },
+  "zecar-offers-bmw": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "zecar-offers-audi": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "zecar-offers-tesla": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "zecar-offers-byd": {
+   "ok": true,
+   "count": 20,
+   "note": ""
+  },
+  "zecar-offers-xpeng": {
+   "ok": true,
+   "count": 5,
+   "note": ""
+  },
+  "zecar-offers-kia": {
+   "ok": true,
+   "count": 6,
+   "note": ""
+  },
+  "zecar-offers-smart": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "zecar-offers-hyundai": {
+   "ok": true,
+   "count": 11,
+   "note": ""
+  },
+  "zecar-offers-polestar": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "zecar-offers-volvo": {
+   "ok": true,
+   "count": 3,
+   "note": ""
+  },
+  "zecar-offers-geely": {
+   "ok": true,
+   "count": 14,
+   "note": ""
+  },
+  "zecar-offers-zeekr": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "zecar-offers-leapmotor": {
+   "ok": true,
+   "count": 8,
+   "note": ""
+  },
+  "zecar-offers-deepal": {
+   "ok": true,
+   "count": 4,
+   "note": ""
+  },
+  "zecar-offers-mg": {
+   "ok": true,
+   "count": 17,
+   "note": ""
+  },
+  "zecar-offers-mini": {
+   "ok": true,
+   "count": 2,
+   "note": ""
+  },
+  "zecar-offers-denza": {
+   "ok": true,
+   "count": 0,
+   "note": ""
+  },
+  "zecar-offers-toyota": {
+   "ok": true,
+   "count": 1,
+   "note": ""
+  },
+  "policy-events": {
+   "ok": true,
+   "count": 0,
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1196,7 +1536,7 @@
   "offers-mg": {
    "ok": true,
    "count": 31,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,
@@ -1219,14 +1559,14 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by NewConnectionError(\"HTTPSConnection"
+   "note": "unchanged"
   },
   "offers-hyundai": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 9,
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,
@@ -1271,12 +1611,12 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 37,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-thebeep-offers": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 8,
+   "note": "changed"
   },
   "offers-zeekr-offers-zecar": {
    "ok": true,

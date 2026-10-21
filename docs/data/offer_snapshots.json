@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "2cc621be6a20efbc",
   "money": [
    1000,
@@ -52,7 +52,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -72,14 +72,14 @@
  },
  "mini": {
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "0353ecc6a13c94e3",
   "money": [
    1000,
@@ -129,7 +129,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "36124b2395b042d4",
   "money": [
    2000,
@@ -154,14 +154,14 @@
  },
  "mercedes": {
   "last_error": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -185,31 +185,27 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "byd": {
   "key": "byd",
   "brand": "BYD",
   "url": "https://www.byd.com.au/offers",
-  "fetched": "2026-10-21T01:59:46+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
-  "last_error": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by NewConnectionError(\"HTTPSConnection",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
   "lines": []
  },
  "hyundai": {
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-10-21T01:59:46+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "4e8a7d040b75782e",
   "money": [],
   "n_lines": 9,
-  "last_error": "HTTP 503",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
   "lines": [
    "Explore Surprisingly Big Offers",
    "Latest Offers",
@@ -224,19 +220,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -248,7 +244,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "9690b0ac8f1f2e9a",
   "money": [
    91661
@@ -272,7 +268,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -282,7 +278,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -296,19 +292,19 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "last_attempt": "2026-10-21T09:15:54+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (全品牌政策汇总)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "93e5896c2871e8b8",
   "money": [
    2000,
@@ -375,28 +371,30 @@
   "key": "thebeep-offers",
   "brand": "The Beep (全品牌政策汇总)",
   "url": "https://thebeep.com.au/offers-and-deals",
-  "fetched": "2026-10-13T05:08:24+00:00",
-  "digest": "025dcc47776d61ec",
+  "fetched": "2026-10-21T09:15:54+00:00",
+  "digest": "8eab8963e44886e0",
   "money": [
-   49990
+   4000,
+   7500,
+   15000
   ],
-  "n_lines": 6,
-  "last_error": "HTTP 403",
-  "last_attempt": "2026-10-21T07:29:45+00:00",
+  "n_lines": 8,
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
-   "Junior Driveaway",
-   "The all-new Alfa Romeo Junior Ibrida is now available from $49,990 driveaway. Take advantage of this offer on new and demonstrator Junior Ibrida Series 0 vehicles with premium paint and sunroof.",
-   "Alfa Romeo is celebrating its Italian heritage with limited edition Tributo Italiano versions of the Tonale, Stelvio and Giulia. These special models feature exclusive Italian flag-inspired colors, black roof accents, Brembo brakes and premium leather interiors with red stitching. Limited to just 60 units nationwide, they offer a mix of style, performance and exclusivity for Alfa enthusiasts.",
-   "Discover exceptional savings on a select range of Alfa Romeo Veloce demonstrator models. Crafted with Italian passion and precision, Veloce delivers thrilling turbocharged performance, luxurious interiors and timeless design, engineered to ignite your senses."
+   "Enjoy complimentary sunroof and premium paint on selected Alfa Romeo models across the range during the End of Year Sales Event. Offer ends 21 December 2026.",
+   "Deposit Contribution Offer",
+   "Get a $4,000 deposit contribution on selected Alfa Romeo models when financed through Alfa Romeo Financial Services, with a maximum 84-month term. Offer ends 21 December 2026.",
+   "Factory Bonus Offer",
+   "Enjoy a $7,500 factory bonus on the Alfa Romeo Giulia Quadrifoglio, or save $15,000 on the Giulia Quadrifoglio Super Sport and Estrema models.",
+   "Alfa Romeo is celebrating its Italian heritage with limited edition Tributo Italiano versions of the Tonale, Stelvio and Giulia. These special models feature exclusive Italian flag-inspired colors, black roof accents, Brembo brakes and premium leather interiors with red stitching. Limited to just 60 units nationwide, they offer a mix of style, performance and exclusivity for Alfa enthusiasts."
   ]
  },
  "zeekr-offers-zecar": {
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-10-21T07:29:45+00:00",
+  "fetched": "2026-10-21T09:15:54+00:00",
   "digest": "a04f3f3b99adf262",
   "money": [
    6056

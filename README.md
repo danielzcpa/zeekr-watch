@@ -9,7 +9,7 @@
 ## 目录
 
 ```
-config/zeekr_models.json   ZEEKR 车型、版本、RRP（万元 × 10,000）
+config/zeekr_models.json   ZEEKR 车型、版本、MSRP（万元 × 10,000）
 config/competitors.json    竞品集（tier: core / reference / watch）、版本价格、现行政策、来源链接、对标说明
 config/sources.json        抓取源：Google News 查询、RSS、Reddit 子版、品牌政策页、门店名单
 monitor/                   Python 抓取程序（run.py 为入口）
@@ -51,3 +51,10 @@ docs/data/                 抓取结果（items.json、summary.json、offer_chan
 ## 访问密码
 
 网页有一层前端密码门（`docs/index.html` 中的 `PW_HASH`，为密码的 SHA-256）。更改密码：在终端运行 `echo -n '新密码' | sha256sum`，把结果替换到 `PW_HASH` 即可。注意这只能挡住普通访客与搜索引擎；仓库是公开的，`docs/data/*.json` 仍可被直接访问。若需要真正的访问控制，应迁移到 Cloudflare Pages + Cloudflare Access（免费，支持邮箱一次性验证码）或公司 Azure 静态站点 + Entra ID。
+
+## 2026-10-21 新增：政策时间线 2026 与终端折扣证据
+
+- `monitor/benchmark.py`：每 30 分钟抓取 The Beep 车型页（各州 DAP，JSON-LD）与 The Beep / Zecar 政策聚合页（含起止日期），写入 `docs/data/dap_history.json`、`docs/data/policy_events.json`；`config/policy_baseline.json` 为人工核定的 2026 年政策基线，`config/german_evidence.json` 为奔驰、宝马、奥迪终端折扣证据（2026-10-21 核定）。
+- 页面「政策时间线 2026」：三个最贴近竞品（默认 Tesla Model Y、BYD Sealion 7、Xpeng G6，可切换）的 Gantt 时间线 + 逐月明细 + 全年政策记录；「价格与销售政策」页每个竞品下方有 2026 年逐月政策条。
+- 页面「终端折扣证据」：实时 DAP 表（NSW/VIC，带走势）、三个品牌现行政策，以及基线数据页（第四季度官方政策、展车挂牌价、MSRP 调整、金融贴息演变）。
+- 口径：MSRP = 厂商指导价（不含上路费用）；DAP = 上路价（drive-away）。

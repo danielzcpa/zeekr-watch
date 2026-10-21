@@ -1,7 +1,7 @@
 {
  "as_of": "2026-10-13",
  "currency": "AUD",
- "note": "基准价格与政策由人工核定（来源见各条 sources），抓取程序只在此基础上叠加新闻信号与官网页面变化。更新基准请直接编辑本文件。tier: core=直接对标, reference=价格带参照(上/下界), watch=待上市/未确认。basis: rrp=税前裸车价, da=全包价(drive-away)。",
+ "note": "基准价格与政策由人工核定（来源见各条 sources），抓取程序只在此基础上叠加新闻信号与官网页面变化。更新基准请直接编辑本文件。tier: core=直接对标, reference=价格带参照(上/下界), watch=待上市/未确认。basis: rrp=MSRP 厂商指导价（不含上路费用）, da=DAP 上路价(drive-away)。",
  "competitors": [
   {
    "id": "volvo-ex30",
@@ -46,7 +46,7 @@
      "src": "https://www.volvocars.com/au/offers/"
     },
     {
-     "text": "符合条件 EV（裸车价 < $91,387）标准贷款利率减 1.00% p.a.",
+     "text": "符合条件 EV（MSRP < $91,387）标准贷款利率减 1.00% p.a.",
      "valid": "限时",
      "src": "https://www.volvocars.com/au/offers/"
     }
@@ -343,7 +343,7 @@
    ],
    "offers": [
     {
-     "text": "2026-10 暂无全国性政策（上一轮全包价活动 $45,990–$64,990 已于 2026-06-30 结束）",
+     "text": "2026-10 暂无全国性政策（上一轮DAP活动 $45,990–$64,990 已于 2026-06-30 结束）",
      "valid": "",
      "src": "https://zecar.com/reviews/hyundai-ev-deals-kona-ioniq5-elexio-inster-2026"
     }
@@ -353,7 +353,7 @@
    "sources": [
     "https://zecar.com/electric-vehicles/Hyundai"
    ],
-   "fit": "主流品牌；仅在大幅全包价促销时构成竞争。",
+   "fit": "主流品牌；仅在大幅DAP促销时构成竞争。",
    "fit_en": "Mainstream; competes only on deep drive-away discounts."
   },
   {
@@ -475,7 +475,7 @@
    "price_note": "Performance 2026-10-01 由 $89,900 降至 $84,900",
    "offers": [
     {
-     "text": "现车约 5% 折扣，Model Y Premium RWD 全包价最高减 $2,950",
+     "text": "现车约 5% 折扣，Model Y Premium RWD DAP最高减 $2,950",
      "valid": "至 2026-10-31",
      "src": "https://thedriven.io/2026/10/05/tesla-offers-almost-3000-off-model-y-inventory-in-yet-another-price-cut-to-attract-new-sales/"
     },
@@ -685,7 +685,7 @@
    ],
    "offers": [
     {
-     "text": "暂无全国性政策（上一轮 Elite $59,990 全包价已于 2026-05-31 结束）",
+     "text": "暂无全国性政策（上一轮 Elite $59,990 DAP已于 2026-05-31 结束）",
      "valid": "",
      "src": "https://zecar.com/offers-and-deals/hyundai"
     }
@@ -925,7 +925,7 @@
    ],
    "offers": [
     {
-     "text": "全包价 $70,990 (RWD) / $75,990 (Elite) / $86,990 (Premium N Line) + 3.90% p.a. 比较利率",
+     "text": "DAP $70,990 (RWD) / $75,990 (Elite) / $86,990 (Premium N Line) + 3.90% p.a. 比较利率",
      "valid": "2026-10-01 至 2026-12-31 订购并交付",
      "src": "https://zecar.com/offers-and-deals/hyundai-ioniq-5-driveaway-finance-offer-q4-2026"
     }
@@ -935,7 +935,7 @@
    "sources": [
     "https://www.canberratimes.com.au/story/9342146/iconic-hyundais-big-price-hike/"
    ],
-   "fit": "韩系偏高端；全包价高于 7X Standard $13k。",
+   "fit": "韩系偏高端；DAP高于 7X Standard $13k。",
    "fit_en": "Korean premium-ish; drive-away $13k above 7X Standard."
   },
   {
@@ -961,7 +961,7 @@
    ],
    "offers": [
     {
-     "text": "现车全包价 $46,990 (19in) / $47,990 (20in)",
+     "text": "现车DAP $46,990 (19in) / $47,990 (20in)",
      "valid": "2026-03-24 起，未注明截止",
      "src": "https://thebeep.com.au/offers-and-deals/deepal"
     }
@@ -970,7 +970,7 @@
    "sources": [
     "https://zecar.com/offers-and-deals/deepal-s07-driveaway-deal-from-46-990"
    ],
-   "fit": "长安偏高端子品牌；全包价低于 7X Standard 约 $14k。",
+   "fit": "长安偏高端子品牌；DAP低于 7X Standard 约 $14k。",
    "fit_en": "Changan's premium-ish sub-brand; ~$14k under 7X Standard drive-away."
   },
   {
@@ -1269,7 +1269,7 @@
    ],
    "offers": [
     {
-     "text": "现车 Model 3 全包价最高减 $2,750（ACT/TAS/VIC）",
+     "text": "现车 Model 3 DAP最高减 $2,750（ACT/TAS/VIC）",
      "valid": "未注明截止",
      "src": "https://thedriven.io/2026/10/10/tesla-lowers-in-stock-model-3-prices-by-2750/"
     },
@@ -1419,7 +1419,7 @@
    ],
    "offers": [
     {
-     "text": "$3,000 现金返还 + $500 配件补贴 → 全包价 $57,990 / $64,990 / $74,990",
+     "text": "$3,000 现金返还 + $500 配件补贴 → DAP $57,990 / $64,990 / $74,990",
      "valid": "2026-10-01 至 2026-10-31 售出并交付",
      "src": "https://mgmotor.com.au/offers"
     }
@@ -1469,7 +1469,7 @@
    ],
    "offers": [
     {
-     "text": "EV4 Air 全包价 $52,990 起（私人买家）",
+     "text": "EV4 Air DAP $52,990 起（私人买家）",
      "valid": "至 2026-10-31",
      "src": "https://www.kia.com/au/offers.html"
     }
@@ -1830,7 +1830,7 @@
    "sources": [
     "https://www.carexpert.com.au/mercedes-benz/v/pricing"
    ],
-   "fit": "柴油行政接待基准，全包价区间与 009 相同。",
+   "fit": "柴油行政接待基准，DAP区间与 009 相同。",
    "fit_en": "Diesel executive-shuttle benchmark in the same drive-away band as 009."
   },
   {
@@ -1870,7 +1870,7 @@
    ],
    "offers": [
     {
-     "text": "Carnival Hybrid S 全包价 $59,990（私人买家）",
+     "text": "Carnival Hybrid S DAP $59,990（私人买家）",
      "valid": "至 2026-10-31",
      "src": "https://www.kia.com/au/offers.html"
     }
@@ -1913,7 +1913,7 @@
    ],
    "offers": [
     {
-     "text": "全包价活动（Pro $84,990）有效期至 2026-04-30，当前状态待核实",
+     "text": "DAP活动（Pro $84,990）有效期至 2026-04-30，当前状态待核实",
      "valid": "",
      "src": "https://thedriven.io/2026/02/03/volkswagen-announces-more-price-cuts-for-id-buzz-electric-vans-in-australia/"
     }
@@ -2401,7 +2401,7 @@
    ],
    "offers": [
     {
-     "text": "Sorento PHEV S AWD 全包价 $69,990（2025 年产）",
+     "text": "Sorento PHEV S AWD DAP $69,990（2025 年产）",
      "valid": "至 2026-10-31",
      "src": "https://www.kia.com/au/offers.html"
     }

@@ -12,6 +12,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
 
 from . import collectors as C
+from . import benchmark as B
 from . import classify as K
 from .util import (DATA_DIR, config, load_json, save_json, now_iso, sha)
 
@@ -142,6 +143,11 @@ def main(argv=None):
     r = step("places", C.google_places, force=args.force_places)
     if r:
         raw_items += r[0]; statuses.update(r[1]); places_state = r[2]
+    bench_out = {}
+    r = step("benchmark", B.run_all, skip=skip)
+    if r:
+        bench_out, st = r
+        statuses.update(st)
     offer_changes, offer_snaps = [], {}
     r = step("offers", C.offer_pages)
     if r:
@@ -284,6 +290,8 @@ def main(argv=None):
     # publish config copies for the site
     save_json(DATA_DIR / "zeekr.json", config("zeekr_models.json"))
     save_json(DATA_DIR / "competitors.json", comps_cfg)
+    save_json(DATA_DIR / "benchmark.json", config("benchmark.json"))
+    save_json(DATA_DIR / "german_evidence.json", config("german_evidence.json"))
     print(f"run {run_at}: {len(raw_items)} raw -> {len(items)} stored ({len(new_ids)} new); sources ok {ok}/{len(statuses)}; {summary['duration_s']}s")
     for k, s in statuses.items():
         if not s.get("ok"):

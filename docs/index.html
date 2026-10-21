@@ -87,6 +87,13 @@ details summary{cursor:pointer;color:var(--ink2);font-size:13px}
 footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
 .loading{color:var(--muted);padding:40px;text-align:center}
 .tag{font-family:var(--mono);font-size:11.5px;background:var(--surface2);padding:1px 6px;border-radius:5px;color:var(--ink2)}
+
+.mstrip{display:grid;grid-template-columns:repeat(12,1fr);gap:2px;margin-top:6px;max-width:240px}
+.mcell{border:1px solid var(--line);border-radius:3px;padding:1px 0 2px;text-align:center;font-size:9px;line-height:1.1;color:var(--muted);min-height:20px;white-space:nowrap}
+.mcell.has{background:var(--green4);color:var(--greenInk)}.mcell.cur{outline:1.5px solid var(--green)}
+.mcell .dots{display:flex;justify-content:center;gap:1px;margin-top:1px}.mcell .dots i{display:block;width:5px;height:5px;border-radius:50%}
+.gantt{width:100%;min-width:900px;height:auto;display:block}
+.tlt th{vertical-align:top}.tlt{table-layout:fixed;width:100%}.tlt td{vertical-align:top;font-size:11.5px;word-break:break-word}.tlt tr.curm th{color:var(--green);}.tlt tr.curm td{background:var(--green4)}.tlc{margin-bottom:5px;line-height:1.35}
 </style>
 </head>
 <body>
@@ -105,6 +112,8 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
   <div class="tab" data-tab="complaints" data-i="t.complaints">投诉监控</div>
   <div class="tab" data-tab="launches" data-i="t.launches">竞品上市</div>
   <div class="tab" data-tab="prices" data-i="t.prices">价格与销售政策</div>
+  <div class="tab" data-tab="timeline" data-i="t.timeline">政策时间线 2026</div>
+  <div class="tab" data-tab="benchmark" data-i="t.benchmark">终端折扣证据</div>
   <div class="tab" data-tab="matrix" data-i="t.matrix">对标矩阵</div>
   <div class="tab" data-tab="sources" data-i="t.sources">数据源状态</div>
 </div></nav>
@@ -123,13 +132,15 @@ footer{color:var(--muted);font-size:12px;text-align:center;padding:30px 0 10px}
   <section class="page" id="complaints"></section>
   <section class="page" id="launches"></section>
   <section class="page" id="prices"></section>
+  <section class="page" id="timeline"></section>
+  <section class="page" id="benchmark"></section>
   <section class="page" id="matrix"></section>
   <section class="page" id="sources"></section>
 </main>
 <footer><span data-i="footer">数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。</span></footer>
 <script>
 const I18N = {
- zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.prices":"价格与销售政策","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
+ zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.prices":"价格与销售政策","t.timeline":"政策时间线 2026","t.benchmark":"终端折扣证据","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
   footer:"数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。",
   updated:"更新于",next:"下次约",k24:"近 24 小时投诉",k7:"近 7 天投诉",khigh:"高严重度（7 天）",klaunch:"竞品上市信号（7 天）",koffer:"竞品价格/政策信号（7 天）",kpage:"官网政策页面变化（7 天）",knews:"ZEEKR 相关报道（7 天）",kitems:"数据库条目",
   alerts:"需要关注",noalerts:"近 72 小时无新的高严重度投诉或竞品重大信号。",series:"近 30 天趋势（按发布日期）",cats:"投诉分类（近 30 天）",models:"涉及车型（近 30 天）",srcs:"投诉来源（近 30 天）",
@@ -140,7 +151,7 @@ const I18N = {
   fb:"Facebook：公开 group 无法抓取；官方 Page 评论需 Page token（可选）。Whirlpool/Drive/CarsGuide 对自动抓取有防护，通过 Google News 索引间接覆盖。",
   l_signals:"上市/发布信号",l_watch:"待上市与观察名单（按 ZEEKR 对标车型）",l_expected:"预计时间",l_fit:"对标说明",l_tier:"层级",l_status:"状态",st_on_sale:"在售",st_launching:"即将上市",st_watch:"观察",
   p_zeekr:"ZEEKR 现行价目",p_variant:"版本",p_drive:"驱动",p_batt:"电池",p_price:"价格",p_basis:"口径",p_delta:"相对最近 ZEEKR 版本",p_offer:"现行销售政策",p_signal:"近期新闻信号",p_src:"来源",
-  p_changes:"品牌官网政策页面变化记录",p_nochange:"尚未检测到变化（首次快照后开始比较）。",p_added:"新增",p_removed:"移除",basis_rrp:"RRP（税前裸车）",basis_da:"全包价",
+  p_changes:"品牌官网政策页面变化记录",p_nochange:"尚未检测到变化（首次快照后开始比较）。",p_added:"新增",p_removed:"移除",basis_rrp:"MSRP（厂商指导价）",basis_da:"DAP（上路价）",
   tier_core:"直接对标",tier_reference:"价格参照",tier_watch:"待上市/观察",group:"集团内",
   m_seg:"细分定位",m_band:"价格区间",m_use:"用途",m_comps:"竞品集",
   s_source:"来源",s_status:"状态",s_count:"本次条数",s_note:"备注",s_runs:"最近运行",s_time:"时间",s_dur:"耗时",s_new:"新增",s_ok:"来源正常",
@@ -149,7 +160,7 @@ const I18N = {
   f_win:"时间",w24:"近 24 小时",w7:"近 7 天",w30:"近 30 天",f_news:"ZEEKR 报道/官方",l_sig:"信号",l_sig_launch:"上市/发布信号",l_sig_offer:"价格/政策信号",l_sig_all:"全部竞品动态",
   login_t:"ZEEKR 澳洲市场监控",login_p:"请输入访问密码",login_b:"进入",login_e:"密码不正确",logout:"退出",
  },
- en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
+ en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Discount evidence","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
   footer:"Public sources only (Google News, industry RSS, Reddit, ProductReview, OzBargain, app stores, Google Maps, brand sites). Rule-based keyword classification for internal reference; verify against the original before acting.",
   updated:"Updated",next:"Next ~",k24:"Complaints, 24h",k7:"Complaints, 7d",khigh:"High severity, 7d",klaunch:"Launch signals, 7d",koffer:"Price / offer signals, 7d",kpage:"Offer-page changes, 7d",knews:"ZEEKR coverage, 7d",kitems:"Items in database",
   alerts:"Needs attention",noalerts:"No new high-severity complaints or major competitor signals in the last 72 hours.",series:"30-day trend (by publish date)",cats:"Complaint categories, 30d",models:"Models mentioned, 30d",srcs:"Complaint sources, 30d",
@@ -160,7 +171,7 @@ const I18N = {
   fb:"Facebook: public groups cannot be scraped; official Page comments need a Page token (optional). Whirlpool / Drive / CarsGuide block automated clients and are covered indirectly via Google News.",
   l_signals:"Launch / reveal signals",l_watch:"Upcoming & watch list (by ZEEKR benchmark model)",l_expected:"Expected",l_fit:"Fit",l_tier:"Tier",l_status:"Status",st_on_sale:"On sale",st_launching:"Launching",st_watch:"Watch",
   p_zeekr:"ZEEKR current price list",p_variant:"Variant",p_drive:"Drive",p_batt:"Battery",p_price:"Price",p_basis:"Basis",p_delta:"vs nearest ZEEKR variant",p_offer:"Current offers",p_signal:"Recent news signals",p_src:"Source",
-  p_changes:"Brand offer-page change log",p_nochange:"No changes detected yet (comparison starts after the first snapshot).",p_added:"Added",p_removed:"Removed",basis_rrp:"RRP (before on-roads)",basis_da:"Drive-away",
+  p_changes:"Brand offer-page change log",p_nochange:"No changes detected yet (comparison starts after the first snapshot).",p_added:"Added",p_removed:"Removed",basis_rrp:"MSRP (before on-roads)",basis_da:"DAP (drive-away)",
   tier_core:"Core rival",tier_reference:"Price reference",tier_watch:"Upcoming / watch",group:"Group",
   m_seg:"Segment",m_band:"Price band",m_use:"Use case",m_comps:"Competitor set",
   s_source:"Source",s_status:"Status",s_count:"Items this run",s_note:"Note",s_runs:"Recent runs",s_time:"Time",s_dur:"Duration",s_new:"New",s_ok:"Sources OK",
@@ -333,7 +344,7 @@ function renderPrices(){
       const sigHtml = news.map(n=>`<div class="small">${n.signals.map(sigBadge).join('')} <a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title.slice(0,70))}</a> <span class="small">${fmtTime(itemTime(n),false)}</span></div>`).join('') || '<span class="small">—</span>';
       const offers = (c.offers||[]).map(o=>`<div class="small">• ${esc(o.text)}${o.valid?` <span class="tag">${esc(o.valid)}</span>`:''}${o.src?` <a href="${esc(o.src)}" target="_blank" rel="noopener">↗</a>`:''}</div>`).join('') || '<span class="small">—</span>';
       const vs = c.variants.length?c.variants:[{name:'—',drive:'',kwh:null,price:null,basis:'rrp'}];
-      return vs.map((v,i)=>`<tr>${i===0?`<td rowspan="${vs.length}"><b>${esc(c.brand)} ${esc(c.model)}</b><div><span class="badge b-${c.tier}">${T('tier_'+c.tier)}</span>${c.group_flag?` <span class="badge b-muted" title="${esc(c.group_flag)}">${T('group')}</span>`:''}</div><div class="small">${esc(c.body)} · ${esc(c.powertrain)} · ${c.status==='on_sale'?T('st_on_sale'):(c.status==='launching'?T('st_launching'):T('st_watch'))}${c.au_launch?' · '+esc(c.au_launch):''}</div>${c.price_note?`<div class="small">${esc(c.price_note)}</div>`:''}<div class="small">${c.model_url?`<a href="${esc(c.model_url)}" target="_blank" rel="noopener">${lang==='zh'?'官网':'site'}</a>`:''} ${c.offers_url?`· <a href="${esc(c.offers_url)}" target="_blank" rel="noopener">${lang==='zh'?'政策页':'offers'}</a>`:''}</div></td>`:''}<td>${esc(v.name)}</td><td>${esc(v.drive||'')}</td><td>${v.kwh?v.kwh+' kWh':''}</td><td class="num">${v.price?fmtMoney(v.price):'TBA'}${v.price?`<div class="small">${v.basis==='da'?T('basis_da'):'RRP'}</div>`:''}</td><td>${nearestDelta(v.price,zm)}</td>${i===0?`<td rowspan="${vs.length}">${offers}</td><td rowspan="${vs.length}">${sigHtml}</td>`:''}</tr>`).join('');
+      return vs.map((v,i)=>`<tr>${i===0?`<td rowspan="${vs.length}"><b>${esc(c.brand)} ${esc(c.model)}</b><div><span class="badge b-${c.tier}">${T('tier_'+c.tier)}</span>${c.group_flag?` <span class="badge b-muted" title="${esc(c.group_flag)}">${T('group')}</span>`:''}</div><div class="small">${esc(c.body)} · ${esc(c.powertrain)} · ${c.status==='on_sale'?T('st_on_sale'):(c.status==='launching'?T('st_launching'):T('st_watch'))}${c.au_launch?' · '+esc(c.au_launch):''}</div>${c.price_note?`<div class="small">${esc(c.price_note)}</div>`:''}<div class="small">${c.model_url?`<a href="${esc(c.model_url)}" target="_blank" rel="noopener">${lang==='zh'?'官网':'site'}</a>`:''} ${c.offers_url?`· <a href="${esc(c.offers_url)}" target="_blank" rel="noopener">${lang==='zh'?'政策页':'offers'}</a>`:''}</div>${window.monthStrip?monthStrip(c.id):''}</td>`:''}<td>${esc(v.name)}</td><td>${esc(v.drive||'')}</td><td>${v.kwh?v.kwh+' kWh':''}</td><td class="num">${v.price?fmtMoney(v.price):'TBA'}${v.price?`<div class="small">${v.basis==='da'?T('basis_da'):'MSRP'}</div>`:''}</td><td>${nearestDelta(v.price,zm)}</td>${i===0?`<td rowspan="${vs.length}">${offers}</td><td rowspan="${vs.length}">${sigHtml}</td>`:''}</tr>`).join('');
     }).join('');
     return `<div class="card" style="margin-top:12px"><div class="model-head"><h2 style="margin:0">${esc(zm.name)}</h2><span class="band">${esc(lang==='zh'?zm.segment:zm.segment_en)} · ${fmtMoney(zm.price_band[0])}–${fmtMoney(zm.price_band[1])}${zm.price_band_note?' ('+esc(zm.price_band_note)+')':''}</span></div>
       <h3>${T('p_zeekr')}</h3>${ztbl}
@@ -341,7 +352,7 @@ function renderPrices(){
   }).join('');
   const changes = (D.changes||[]).slice(0,40).map(c=>`<details class="item"><summary><b>${esc(c.brand)}</b> · ${fmtTime(c.detected)} · +${c.added.length} / −${c.removed.length} · <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.url.replace(/^https?:\/\//,''))}</a></summary><div class="ddiff">${c.added.map(l=>`<div class="add">+ ${esc(l)}</div>`).join('')}${c.removed.map(l=>`<div class="rem">− ${esc(l)}</div>`).join('')}</div></details>`).join('');
   const snaps = Object.values(D.snaps||{}).map(s=>`<tr><td>${esc(s.brand)}</td><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc((s.url||'').replace(/^https?:\/\//,''))}</a></td><td>${s.fetched?fmtTime(s.fetched):'—'}</td><td>${s.last_error?`<span class="status-bad small">${esc(s.last_error)}</span>`:`<span class="status-ok">${s.n_lines??''} ${lang==='zh'?'行':'lines'}</span>`}</td><td class="small">${(s.money||[]).slice(0,8).map(fmtMoney).join(', ')}</td></tr>`).join('');
-  document.getElementById('prices').innerHTML = `<div class="note">${lang==='zh'?'基准价格与政策由人工核定（2026-10-13，来源见各行链接），抓取程序在此之上叠加新闻信号与品牌官网政策页面的变化检测。价格口径：RRP = 税前裸车价（不含上路费用）；全包价 = drive-away。':'Baseline prices and offers were verified manually on 2026-10-13 (see links). The collector overlays news signals and change detection on brand offer pages. RRP = before on-road costs; drive-away as stated.'}</div>
+  document.getElementById('prices').innerHTML = `<div class="note">${lang==='zh'?'基准价格与政策由人工核定（2026-10-13，来源见各行链接），抓取程序在此之上叠加新闻信号与品牌官网政策页面的变化检测。价格口径：MSRP = 厂商指导价（不含上路费用）；DAP = 上路价（drive-away price）。每个竞品行下方的 12 格为 2026 年逐月政策条（颜色 = 政策类型，详见“政策时间线 2026”页）。':'Baseline prices and offers were verified manually on 2026-10-13 (see links). The collector overlays news signals and change detection on brand offer pages. MSRP = list price before on-road costs; DAP = drive-away price. The 12-cell strip under each competitor is its 2026 month-by-month policy record (colour = policy type; see the Policy timeline tab).'}</div>
    ${html}
    <div class="card" id="pchanges" style="margin-top:12px"><h2>${T('p_changes')}</h2>${changes || `<div class="small">${T('p_nochange')}</div>`}
    <h3>${lang==='zh'?'监控的品牌页面（最近快照）':'Monitored brand pages (latest snapshot)'}</h3><div class="twrap"><table><thead><tr><th>${lang==='zh'?'品牌':'Brand'}</th><th>URL</th><th>${lang==='zh'?'抓取时间':'Fetched'}</th><th>${T('s_status')}</th><th>${lang==='zh'?'页面上的金额':'Amounts on page'}</th></tr></thead><tbody>${snaps}</tbody></table></div></div>`;
@@ -374,6 +385,7 @@ function renderAll(){
   const g=D.summary.generated; document.getElementById('updated').textContent=`${T('updated')} ${fmtTime(g)} (${ago(g)})`;
   const nx=new Date(new Date(g).getTime()+30*60000); document.getElementById('nextrun').textContent=`${T('next')} ${nx.toLocaleTimeString(lang==='zh'?'zh-CN':'en-AU',{timeZone:tz,hour:'2-digit',minute:'2-digit',hour12:false})}`;
   renderOverview(); renderComplaints(); renderLaunches(); renderPrices(); renderMatrix(); renderSources();
+  if(window.renderTimeline) renderTimeline(); if(window.renderBenchmark) renderBenchmark();
 }
 function go(tab){ document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===tab)); document.querySelectorAll('.page').forEach(p=>p.classList.toggle('active',p.id===tab)); try{localStorage.setItem('zw.tab',tab);}catch(e){} window.scrollTo({top:0}); }
 document.getElementById('tabs').addEventListener('click',e=>{ const t=e.target.closest('.tab'); if(t) go(t.dataset.tab); });
@@ -393,12 +405,14 @@ async function load(){
   const t=Date.now(); const j=async n=>{ const r=await fetch(`data/${n}.json?t=${t}`); if(!r.ok) throw new Error(n+': '+r.status); return r.json(); };
   const opt=async n=>{ try{ return await j(n);}catch(e){ return null; } };
   [D.summary,D.items,D.zeekr,D.comps] = await Promise.all([j('summary'),j('items'),j('zeekr'),j('competitors')]);
-  [D.changes,D.snaps,D.runs,D.places] = await Promise.all([opt('offer_changes'),opt('offer_snapshots'),opt('runs'),opt('places')]);
+  [D.changes,D.snaps,D.runs,D.places,D.policy,D.dap,D.german,D.bench] = await Promise.all([opt('offer_changes'),opt('offer_snapshots'),opt('runs'),opt('places'),opt('policy_events'),opt('dap_history'),opt('german_evidence'),opt('benchmark')]);
+  D.bench = D.bench || {};
   document.getElementById('loading').style.display='none';
   renderAll();
   try{ const tb=localStorage.getItem('zw.tab'); if(tb) go(tb); }catch(e){}
 }
 if(gateOK()) load().catch(e=>{ document.getElementById('loading').textContent='Load failed: '+e.message; }); else showGate();
 </script>
+<script src="timeline.js?v=1"></script>
 </body>
 </html>

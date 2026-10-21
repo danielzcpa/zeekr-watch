@@ -1,0 +1,553 @@
+{
+ "as_of": "2026-10-21",
+ "zeekr": {
+  "7X": [
+   {
+    "v": "RWD (Standard)",
+    "rrp": 57900,
+    "da_nsw": 64043,
+    "da_vic": 64119
+   },
+   {
+    "v": "Long Range RWD",
+    "rrp": 63900,
+    "da_nsw": 70343,
+    "da_vic": 70371
+   },
+   {
+    "v": "Performance AWD",
+    "rrp": 72900,
+    "da_nsw": 79793,
+    "da_vic": 79749
+   }
+  ],
+  "7X_src": "https://thebeep.com.au/cars/zeekr/7x",
+  "7GT": {
+   "status": "2026 Q4 发布，交付 2026 年底/2027 初；指导价未定（媒体预期入门约 $55k，Performance AWD $70–80k）",
+   "src": "https://thedriven.io/2026/09/19/zeekr-7gt-confirmed-for-2026-launch-australia-with-670km-range-and-3-1-second-sprint/"
+  }
+ },
+ "q4_official": [
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQA 250+（新车）",
+   "vs": "7X",
+   "rrp": 85800,
+   "normal_da": 93628,
+   "offer_da": 65490,
+   "disc": 28138,
+   "pct": 30.1,
+   "valid": "订单 2026-09-24 至 12-31，私人买家，基础版",
+   "note": "另 $189/周 Agility 贷款（6.99% 比较利率）；Q3 政策为 $4,700 起减价 + $3,000 首付补贴，Q4 升级为固定DAP",
+   "src": "https://www.mercedes-benz.com.au/passengercars/buy/new-car.html",
+   "src2": "https://thebeep.com.au/cars/mercedes-benz/eqa-suv/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "GLC 200 4MATIC Avantgarde（新车）",
+   "vs": "7X（燃油交叉）",
+   "rrp": 90127,
+   "normal_da": 98797,
+   "offer_da": 79990,
+   "disc": 18807,
+   "pct": 19.0,
+   "valid": "2026-10-01 至 12-31",
+   "note": "2026-03 同车型特别版DAP $89,490，7 个月内再降 $9,500；7.49% p.a. 金融",
+   "src": "https://thebeep.com.au/offers-and-deals/mercedes-benz",
+   "src2": "https://www.canberratimes.com.au/story/9191107/sharp-price-for-special-mercedes-suv"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "GLC 350e PHEV（新车）",
+   "vs": "7X（插混交叉）",
+   "rrp": 99817,
+   "normal_da": 107969,
+   "offer_da": 98990,
+   "disc": 8979,
+   "pct": 8.3,
+   "valid": "2026-10-01 至 12-31",
+   "note": "上路费用基本由厂家吸收",
+   "src": "https://thebeep.com.au/offers-and-deals/mercedes-benz"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "GLA 200 Special Edition（新车）",
+   "vs": "7X（燃油交叉）",
+   "rrp": 64300,
+   "normal_da": 70288,
+   "offer_da": 65490,
+   "disc": 4798,
+   "pct": 6.8,
+   "valid": "2026-08 起，Q4 延续至 12-31",
+   "note": "燃油 GLA 与纯电 EQA DAP相同（$65,490）",
+   "src": "https://www.mercedes-benz.com.au/passengercars/brand/mercedes-me-magazine/performance/articles/where-the-gla-special-edition-fits-in-the-mercedes-benz-suv-line-up.html"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "展示车季（GLA/GLC/GLE/A/C 级）",
+   "vs": "全系",
+   "rrp": null,
+   "normal_da": null,
+   "offer_da": null,
+   "disc": null,
+   "pct": null,
+   "valid": "2026-10-01 至 12-31",
+   "note": "“优惠价格”+ 3 年免费保养；展车由 MBAuP 持有并定价（代理制）",
+   "src": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX1 xDrive30 Sport Collection（新车）",
+   "vs": "7X",
+   "rrp": 77900,
+   "normal_da": 85279,
+   "offer_da": 79900,
+   "disc": 5379,
+   "pct": 6.3,
+   "valid": "2026-04-01 起，10 月仍在列",
+   "note": "含 M Sport 套件、19 寸、自适应悬架、HUD；约低于标准版DAP $5k",
+   "src": "https://mail.wp.bmw.adtorqueedge.com/offers/bmw-sport-collection",
+   "src2": "https://thebeep.com.au/offers-and-deals/bmw"
+  },
+  {
+   "brand": "BMW",
+   "model": "Demo Sale Event（全系展车）",
+   "vs": "全系",
+   "rrp": null,
+   "normal_da": null,
+   "offer_da": null,
+   "disc": null,
+   "pct": null,
+   "valid": "2026-10-14 至 11-15",
+   "note": "全国展车清库活动，价格由经销商设定",
+   "src": "https://thebeep.com.au/offers-and-deals/bmw"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX1 / iX2 新车及展车金融",
+   "vs": "7X",
+   "rrp": null,
+   "normal_da": null,
+   "offer_da": null,
+   "disc": null,
+   "pct": null,
+   "valid": "2026-10-01 至 12-31",
+   "note": "6.99% p.a. 纯电贷款 / novated 利率（2025 年同期为 1.99–2.99%）",
+   "src": "https://www.smart.com.au/p/bmw/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q6 e-tron Sport Edition MY26 清库（新车）",
+   "vs": "7X 上界",
+   "rrp": 104018,
+   "normal_da": 111336,
+   "offer_da": 95900,
+   "disc": 15436,
+   "pct": 13.9,
+   "valid": "Q Sales Event 2026-10-01 至 10-31；12-31 前交付",
+   "note": "含 20 寸轮毂、全景天窗、金属漆；不含 WA 与车队",
+   "src": "https://thebeep.com.au/offers-and-deals/audi",
+   "src2": "https://www.drive.com.au/news/2027-audi-q6-e-tron-sq6-e-tron-prices-slashed-in-australia/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q5 TFSI 150kW（新车）",
+   "vs": "7X（燃油交叉）",
+   "rrp": 81000,
+   "normal_da": null,
+   "offer_da": 78900,
+   "disc": null,
+   "pct": null,
+   "valid": "2026-10-01 至 10-31",
+   "note": "DAP 低于 MSRP $2,100（含上路费用约让 $9–14k）",
+   "src": "https://thebeep.com.au/cars/audi/q5/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q4 e-tron quattro MY27 订单权益",
+   "vs": "7X",
+   "rrp": 81650,
+   "normal_da": null,
+   "offer_da": null,
+   "disc": null,
+   "pct": null,
+   "valid": "2026-12-31 前下单",
+   "note": "赠 6 年/9 万公里保养计划；MY27 价格已较 MY26 下调 $13,250–18,168",
+   "src": "https://www.drive.com.au/news/2027-audi-q4-e-tron-price-and-specs-updated-ev-cut-by-nearly-20000/"
+  }
+ ],
+ "listings_q4": [
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQA 250+ 2025 展车",
+   "km": 12830,
+   "loc": "Fyshwick ACT",
+   "ref_da": 93628,
+   "ask_da": 59990,
+   "pct": 35.9,
+   "hist": "$67,990 (09-18) → $59,990 (09-24，与新车 $65,490 政策同日)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970403487/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQA 250+ 2025 认证二手",
+   "km": 9075,
+   "loc": "Epping VIC",
+   "ref_da": 93628,
+   "ask_da": 60868,
+   "pct": 35.0,
+   "hist": "$61,868 (10-14) → $60,868 (10-20)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970441390/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQA 250+ 2026 展车",
+   "km": 6000,
+   "loc": "Brisbane QLD",
+   "ref_da": 93628,
+   "ask_da": 74617,
+   "pct": 20.3,
+   "hist": "$82,572 (01-30) → $74,617 (09-15)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970069542/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "EQB 250+ 2025 近新二手",
+   "km": 7729,
+   "loc": "Epping VIC",
+   "ref_da": 97268,
+   "ask_da": 78868,
+   "pct": 18.9,
+   "hist": "$83,868 (05-22) → 四次下调 → $78,868 (10-14)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970219806/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "GLA 200 2026 展车",
+   "km": 2531,
+   "loc": "Hornsby NSW",
+   "ref_da": 70288,
+   "ask_da": 58400,
+   "pct": 16.9,
+   "hist": "$64,788 (07-29) → 四次下调 → $58,400 (09-23)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970319812/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "GLC 200 4MATIC MY25 展车",
+   "km": 3834,
+   "loc": "Hornsby NSW",
+   "ref_da": 98797,
+   "ask_da": 79887,
+   "pct": 19.1,
+   "hist": "与新车 $79,990 政策同一水平",
+   "src": "https://autosportsgroup.com.au/un4575-1865150-mercedesbenz-glcclass-2026/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "model": "CLA 200 hybrid 2026 展车（新一代）",
+   "km": 3013,
+   "loc": "Fyshwick ACT",
+   "ref_da": null,
+   "ask_da": 64990,
+   "pct": null,
+   "hist": "$69,990 (09-09) → $64,990 (10-19)；低于MSRP $68,100",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970390245/"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX1 eDrive20 xLine MY25 展车",
+   "km": 1809,
+   "loc": "Doncaster VIC",
+   "ref_da": 86667,
+   "ask_da": 64880,
+   "pct": 25.1,
+   "hist": "$82,880 (02-27) → $72,880 (09-09) → $64,880 (10-15)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970106789/"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX2 eDrive20 M Sport 2025 展车",
+   "km": 5329,
+   "loc": "Doncaster VIC",
+   "ref_da": 90972,
+   "ask_da": 67800,
+   "pct": 25.5,
+   "hist": "$88,880 (02-20) → 五次下调 → $67,800 (10-15)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970096256/"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX2 eDrive20 M Sport 2024 展车",
+   "km": 5501,
+   "loc": "Brighton VIC",
+   "ref_da": 90972,
+   "ask_da": 69680,
+   "pct": 23.4,
+   "hist": "$73,680 → $69,680 (10-12)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970437855/"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX1 eDrive20 xLine 2024 展车",
+   "km": 1501,
+   "loc": "Brookvale NSW",
+   "ref_da": 86667,
+   "ask_da": 68900,
+   "pct": 20.5,
+   "hist": "$79,900 (2025-12-27) → $68,900 (09-22)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970032803/"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX2 xDrive30 M Sport 2024 展车",
+   "km": 1500,
+   "loc": "Brookvale NSW",
+   "ref_da": 94879,
+   "ask_da": 76000,
+   "pct": 19.9,
+   "hist": "$84,900 (04-13) → $76,000 (09-21)；对原 DAP $94,879",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970163956/"
+  },
+  {
+   "brand": "BMW",
+   "model": "iX1 xDrive30 M Sport 2025 展车",
+   "km": 1500,
+   "loc": "Brookvale NSW",
+   "ref_da": 93177,
+   "ask_da": 79900,
+   "pct": 14.3,
+   "hist": "$89,900 (05-29) → $79,900 (09-21)；对 3 月降价前原 DAP $93,177",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970227896/"
+  },
+  {
+   "brand": "BMW",
+   "model": "i4 eDrive35 2026 展车",
+   "km": 1526,
+   "loc": "Sylvania NSW",
+   "ref_da": 96500,
+   "ask_da": 89900,
+   "pct": 6.8,
+   "hist": "i4 为单一版本新改款，折扣明显浅于 iX1/iX2",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970336100/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q4 55 e-tron quattro MY25 展车",
+   "km": 4978,
+   "loc": "Pennant Hills NSW",
+   "ref_da": 109990,
+   "ask_da": 88888,
+   "pct": 19.2,
+   "hist": "$109,990 (04-01) → $88,888；DAP 低于 MSRP $10,930",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970151174/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q4 Sportback 55 quattro MY25 展车",
+   "km": 2002,
+   "loc": "Mosman NSW",
+   "ref_da": 118990,
+   "ask_da": 94990,
+   "pct": 20.2,
+   "hist": "$118,990 (04-29) → $109,990 → $99,990 → $94,990 (09-01)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970185442/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q4 45 e-tron MY26 展车",
+   "km": 1500,
+   "loc": "Berwick VIC",
+   "ref_da": 91263,
+   "ask_da": 83990,
+   "pct": 8.0,
+   "hist": "$101,990 (03-23，经销商首次挂牌) → $83,990 (10-17)；DAP 低于 MSRP $84,900",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970138491/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q4 Sportback 45 2025 近新二手",
+   "km": 3050,
+   "loc": "Welshpool WA",
+   "ref_da": null,
+   "ask_da": 68999,
+   "pct": 20.2,
+   "hist": "不含政府费用；较 MSRP $86,500 低 20%",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970338524/"
+  },
+  {
+   "brand": "Audi",
+   "model": "Q6 e-tron Sport MY26 展车",
+   "km": 2008,
+   "loc": "NSW",
+   "ref_da": 111336,
+   "ask_da": 94990,
+   "pct": 14.7,
+   "hist": "低于 Sport Edition 清库价 $95,900",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970360910/"
+  },
+  {
+   "brand": "Audi",
+   "model": "A5 Avant TFSI 200kW quattro 2025 展车（7GT 旅行车参照）",
+   "km": 2130,
+   "loc": "Bentleigh VIC",
+   "ref_da": 92818,
+   "ask_da": 80990,
+   "pct": 12.7,
+   "hist": "$124,523 (03-31，含选装) → $96,990 (08-21) → $80,990 (10-09)",
+   "src": "https://www.drive.com.au/cars-for-sale/car/970149381/"
+  }
+ ],
+ "rrp_cuts_2026": [
+  {
+   "date": "2026-03-31",
+   "brand": "BMW",
+   "model": "iX1 xDrive30",
+   "from": 86800,
+   "to": 77900,
+   "pct": 10.3,
+   "note": "eDrive20 入门版停售；GoAuto：业内称意在应对中国品牌纯电竞争",
+   "src": "https://www.goauto.com.au/new-models/bmw/ix1/bmw-slashes-prices-of-electric-ix1-and-ix2/2026-04-02/98895.html"
+  },
+  {
+   "date": "2026-03-31",
+   "brand": "BMW",
+   "model": "iX2 xDrive30",
+   "from": 87600,
+   "to": 79900,
+   "pct": 8.8,
+   "note": "",
+   "src": "https://thebeep.com.au/car-news/bmw-cuts-ix1-and-ix2-entry-pricing-launches-sport-collection-variant"
+  },
+  {
+   "date": "2026-05-06",
+   "brand": "Mercedes-Benz",
+   "model": "CLA 200 electric（新一代上市定价）",
+   "from": null,
+   "to": 72200,
+   "pct": null,
+   "note": "低于行业预期的 $85–90k 约 $13–18k；低于 EQA MSRP $13.6k；与 7GT 价格带直接重叠",
+   "src": "https://thebeep.com.au/car-news/2026-mercedes-benz-cla-australia-price"
+  },
+  {
+   "date": "2026-08-20",
+   "brand": "Audi",
+   "model": "Q4 e-tron RWD MY27",
+   "from": 84900,
+   "to": 71650,
+   "pct": 15.6,
+   "note": "对标文章直接与 7X Performance $72,900 比较",
+   "src": "https://evcentral.com.au/massive-discounts-overhauled-audi-q4-e-tron-line-up-reshaped-with-price-cuts-up-to-24250/"
+  },
+  {
+   "date": "2026-08-20",
+   "brand": "Audi",
+   "model": "Q4 e-tron quattro MY27",
+   "from": 99818,
+   "to": 81650,
+   "pct": 18.2,
+   "note": "较 MY25 上市价 $105,900 降 $24,250",
+   "src": "https://www.carexpert.com.au/car-news/2027-audi-q4-e-tron-ev-prices-slashed-by-up-to-dollar18000"
+  },
+  {
+   "date": "2026-09-11",
+   "brand": "Audi",
+   "model": "Q6 e-tron RWD MY27",
+   "from": 99818,
+   "to": 89900,
+   "pct": 9.9,
+   "note": "降至 LCT 节能门槛 $91,661 之下；Mannering：“调整定价以便客户享受政府 EV 激励”",
+   "src": "https://www.carexpert.com.au/car-news/2027-audi-q6-e-tron-prices-slashed-by-more-than-dollar20000"
+  },
+  {
+   "date": "2026-09-11",
+   "brand": "Audi",
+   "model": "SQ6 e-tron MY27",
+   "from": 151318,
+   "to": 129900,
+   "pct": 14.2,
+   "note": "",
+   "src": "https://www.carexpert.com.au/car-news/2027-audi-q6-e-tron-prices-slashed-by-more-than-dollar20000"
+  },
+  {
+   "date": "2025-08-13",
+   "brand": "Mercedes-Benz",
+   "model": "EQE / EQS 清库（背景）",
+   "from": null,
+   "to": null,
+   "pct": null,
+   "note": "DAP让利 $23,814–69,839；2026 年 EQE 系列停产",
+   "src": "https://www.carsguide.com.au/car-news/shocking-70000-discounts-on-mercedes-electric-cars-tens-of-thousands-slashed-from-2026"
+  }
+ ],
+ "finance_timeline": [
+  {
+   "brand": "BMW",
+   "period": "2024-08 至 09",
+   "offer": "iX1/iX2/i4：$3,000 首付补贴",
+   "src": "https://usedvehiclelocator.bmw.com.au/details/2023-bmw-i4/OAG-AD-23279794"
+  },
+  {
+   "brand": "BMW",
+   "period": "2025-04 至 06",
+   "offer": "iX1/iX2/i4：2.99% 比较利率 + $5,000 首付补贴（novated 同额 BMW Bonus）",
+   "src": "https://www.maxxia.com.au/nl-car/bmw-eofy-bonus"
+  },
+  {
+   "brand": "BMW",
+   "period": "2025-10 至 12",
+   "offer": "iX1/iX2：1.99%（eDrive20）/ 2.99%（xDrive30）+ novated 赠 4 年保养",
+   "src": "https://www.bmw.com.au/en-au/offers-and-services/promotions/bev-loan-rate-offer.html"
+  },
+  {
+   "brand": "BMW",
+   "period": "2026-01 至 03",
+   "offer": "iX1/iX2/i4（2024 年产）：4.99%",
+   "src": "https://wp.bmw.adtorqueedge.com/offers/bev-loan-rate-offer"
+  },
+  {
+   "brand": "BMW",
+   "period": "2026-03-31",
+   "offer": "改为直接下调 MSRP：iX1 −$8,900，iX2 −$7,700",
+   "src": "https://www.goauto.com.au/new-models/bmw/ix1/bmw-slashes-prices-of-electric-ix1-and-ix2/2026-04-02/98895.html"
+  },
+  {
+   "brand": "BMW",
+   "period": "2026-07 至 12",
+   "offer": "iX1/iX2：6.99%（利率贴息基本退出）",
+   "src": "https://www.smart.com.au/p/bmw/"
+  },
+  {
+   "brand": "Audi",
+   "period": "至 2025-09-30",
+   "offer": "Q4/Q6 e-tron：0% 比较利率、零首付、24 个月（隐含约 8% 折扣）",
+   "src": "https://www.audi.com.au/au/web/en/offers.html"
+  },
+  {
+   "brand": "Audi",
+   "period": "2026-08 至 09",
+   "offer": "改为直接下调 MSRP：Q4 −$13,250/−$18,168；Q6 −$9,918；现行公开利率 8.55%",
+   "src": "https://www.audi.com.au/en/offers/audi-q3-finance-offer/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "period": "2026-08 至 09",
+   "offer": "EQA：$4,700 起减价 + $3,000 首付补贴",
+   "src": "https://thebeep.com.au/cars/mercedes-benz/gla-suv/"
+  },
+  {
+   "brand": "Mercedes-Benz",
+   "period": "2026-09-24 至 12-31",
+   "offer": "EQA：固定DAP $65,490（6.99%）；GLC/GLA 7.49%",
+   "src": "https://www.mercedes-benz.com.au/passengercars/buy/new-car.html"
+  }
+ ],
+ "gaps": [
+  "Whirlpool、Reddit、carsales 对自动抓取封锁，未获得经核实的车主“实际成交价”帖子；成交价层面主要依赖经销商挂牌价及其降价轨迹（Drive 平台记录了每次调价日期）",
+  "DAP参照来自 The Beep（VIC/NSW 口径），各州上路费用不同，折扣百分比有 ±1–2 个百分点误差",
+  "奔驰官方 offers 页面为前端渲染，GLC/GLA 政策数字来自 The Beep 对官方条款的整理及奔驰杂志文章；EQA $65,490 已在奔驰官网 new-car 页面直接确认",
+  "宝马/奥迪给经销商的批发返利（dealer bonus）不公开，无法量化",
+  "未找到德系 EV 的专项残值序列，仅有全行业 EV 第一年贬值约 25% 的数据"
+ ],
+ "note": "人工核定基线（2026-10-21 快照）。第四季度官方政策、展车挂牌价、2026 年 MSRP 调整与金融贴息演变；实时部分见同页“实时监控”。"
+}
