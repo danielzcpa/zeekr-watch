@@ -1,5 +1,181 @@
 [
  {
+  "id": "f3afb3f7d848b6e9",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/erevs-easier-cheaper-to-repair-than-phevs-claims-chinese-brand",
+  "title": "EREVs easier, cheaper to repair than PHEVs, claims Chinese brand",
+  "text": "Chery’s incoming iCaur brand claims its extended-range electric (EREV) models will be easier and cheaper to repair than plug-in hybrids (PHEVs), as it prepares to enter Australia with the V25 in early 2027. Speaking with Australian media, including CarExpert , in China, iCaur International CEO Ronna Luo said separating the petrol engine’s electricity-generation role from the electric drive system made repairs simpler. “If you look at the iCaur, we use EREV technology. It’s much easier to repair than PHEV because their infrastructure and systems are separate, and it's more economical for users to repair and to maintain,” Ms Luo said, though she didn't provide comparative repair bills, servicing prices or reliability data to support the claim. Ms Luo said iCaur had taken lessons from the Toyota Prado , describing it as easy to use and repair. She said iCaur had sought “not to make the cars too complicated”. Chery has previously argued that EREVs suit Australia’s longer driving distances and help address range anxiety. The technology has attracted renewed interest from automakers . Also known as REVs and REEVs, EREVs that can be charged externally are a type of plug-in hybrid. In iCau",
+  "author": "Alborz Fallah",
+  "published": "2026-10-21T01:52:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
+  "id": "b261a01e8ca986f6",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/cherys-icaur-has-no-diesel-or-ute-planned-looks-beyond-boxy-styling",
+  "title": "Chery’s iCaur has no diesel or ute planned, looks beyond boxy styling",
+  "text": "Chery’s incoming iCaur brand has no diesel engine or ute in its current plans, while its bosses say future models need not share the boxy styling of its existing SUVs. The comments come ahead of the iCaur V25 ’s Australian launch in early 2027. Asked by Australian media, including CarExpert , in China whether iCaur could use a diesel engine, iCaur International CEO Ronna Luo replied: “Definitely no diesel engine plan.” She also said a pickup or truck wasn’t in iCaur’s current plans. Chery, however, is preparing the Chery Stockman dual-cab ute for Australia . Customer deliveries are due from February 1, 2027, after the previously announced late-2026 launch slipped. The Stockman will use a 2.5-litre turbo-diesel plug-in hybrid powertrain , with preliminary combined outputs of 350kW of power and 800Nm of torque. Market leader Toyota, meanwhile, has defended its continued use of diesel . Toyota Australia sales vice-president John Pappas told CarExpert this month that “customers still need diesel in regional and rural Australia”. Ms Luo described iCaur’s customers as mostly urban buyers who need a vehicle for everyday use and occasional trips further afield. She characterised sister bra",
+  "author": "Alborz Fallah",
+  "published": "2026-10-21T00:12:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
+  "id": "d58782f8a6909c70",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/next-generation-byd-atto-1-seagull-specs-official-launch-australia",
+  "title": "Everything we know about the next-gen BYD Atto 1 after its official launch",
+  "text": "BYD has launched the second-generation version of its cheapest electric car in China, bringing faster charging, more technology and a larger body. The post Everything we know about the next-gen BYD Atto 1 after its official launch first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-20T23:36:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
+  "id": "77b4a69aa29676db",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SNGh3UERTRTRKNGF1UWp4b2JwamZaRlZ1VnhJcDBoMW5na2hsQWhxYkwzV3dOckRLN2tLX3B5TWppcE1VNU9iM0xCdk1hM0lMQ0RZRm50dw?oc=5",
+  "title": "ZEEKR 8X - Autohled.cz",
+  "text": "ZEEKR 8X Autohled.cz",
+  "author": "",
+  "published": "2026-10-20T23:00:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
+  "id": "feb6d80cba4a3a26",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · My NRMA",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KSm9NZmRVN1NLd0pnazRVTlIxM3hYVURJNTRObWF3b1dmRUJvZDhyTEdtZnZaYkdkbDU0aWVLMzQ1aE9xdlQwSzZXeWRDLWtKcjkwckhReHpNUm84OUtlM2pJTlZ6ZVVqWDlfYThPQzA0QmliUm04dDN2RQ?oc=5",
+  "title": "Polestar 3 orders delayed as brand readies for “performance” Polestar 2 - My NRMA",
+  "text": "Polestar 3 orders delayed as brand readies for “performance” Polestar 2 My NRMA",
+  "author": "",
+  "published": "2026-10-20T22:34:38+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
   "id": "d4758f63e8e17e08",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -215,6 +391,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T23:20:04+00:00"
+ },
+ {
+  "id": "49526a499a6172d9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVdfMHoxZ2FxMXRIQk4wbnN4RWdtQVp5QUFjRlRVUDFTNzRDYlEzV1ZkekVLVXYzSEdHbWJmN1BBYmV3LTJzTjdURFZuRkhqdzJBZkNrSGZ6TmZ1TkxQU29ieFBxRVdSXzhGM19NYzE2QkxjUEFyX01semdDZ21pU1JNcEFtUWJaaWo4dEtaZEpSdC1CSWJrdWNWNWlDZEI2RElSY3FvSGJueFJBcFNlX2ljVTlMV3Ry?oc=5",
+  "title": "Zeekr Not Applicable cars between $45,000 & $50,000 with electric engine range over 150km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars between $45,000 & $50,000 with electric engine range over 150km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T17:47:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
  },
  {
   "id": "b9192b4fad86bf28",
@@ -481,6 +691,39 @@
   "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
+  "id": "ceb46a2a3fa59cc9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDMyLUMxY0xic0NBTl91V09nYjNDYzFfU3ZGTk1VRmVPM2lla0NhQy1IbERuSndlV0pUUXliNnRaMGtTRHE1U0VQb1l1UXRTWThHUjlKWnB6a0hWYmNKdWxLOUo3MGFKUmlfdHZEc25DLWt3Skd6VU9mdTd0RVBJc3NsOHJha2tRR0VENDB3d0prM000ZTdSeXlB?oc=5",
+  "title": "Zeekr cars between $100,000 & $400,000 with electric engine range over 450km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $100,000 & $400,000 with electric engine range over 450km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T11:28:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
+ },
+ {
   "id": "dcfef6f51f5d2e64",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -550,8 +793,8 @@
   "source": "thedriven",
   "source_name": "The Driven",
   "url": "https://thedriven.io/2026/10/20/mercedes-benz-announces-australian-price-for-its-new-c-class-electric-with-range-of-up-to-735-km-range/?utm_source=rss&utm_medium=rss&utm_campaign=mercedes-benz-announces-australian-price-for-its-new-c-class-electric-with-range-of-up-to-735-km-range",
-  "title": "Mercedes-Benz announces Australian price for its new C-Class electric, with range of up to 735 km range",
-  "text": "Mercedes-Benz has confirmed Australian pricing for its new C-Class electric, which will boast a range of up to 753 kilometres, with deliveries expected early next year. The post Mercedes-Benz announces Australian price for its new C-Class electric, with range of up to 735 km range appeared first on The Driven.",
+  "title": "Mercedes-Benz announces Australian price for its new C-Class electric, with range of up to 735 km",
+  "text": "Mercedes-Benz has confirmed Australian pricing for its new C-Class electric, which will boast a range of up to 753 kilometres, with deliveries expected early next year. The post Mercedes-Benz announces Australian price for its new C-Class electric, with range of up to 735 km appeared first on The Driven.",
   "author": "Joshua S. Hill",
   "published": "2026-10-20T08:35:07+00:00",
   "rating": null,
@@ -645,6 +888,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "a3ad73819ce746c7",
+  "type": "complaint",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1xakree/buyers_regret_for_tesla_model_y_awd_lr_vs_zeekr/",
+  "title": "Buyers Regret for Tesla Model Y AWD LR vs Zeekr 7X Performance",
+  "text": "Been in the market for SUV EV and narrowing down to the Tesla Model Y AWD LR and Zeekr 7X Performance. Main reasons for going down one route over the other for me is the capability for full self driving in the Tesla versus the superior interior quality of the Zeekr. Would I regret getting the Tesla for having the 'minimalist' interior (or lacking interior in my view) especially if the full self driving does not live up to the claim? Or would I regret getting the Zeekr without full self driving for those longer road trips and bumper to bumper peak hour traffic albeit in a nicer cabin? Would like to hear from owners if they have any buyers regrets in this aspect or about anything else.",
+  "author": "/u/visual515",
+  "published": "2026-10-20T06:31:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": -4,
+   "neg_hits": 4,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
  },
  {
   "id": "c18a0237201319a9",
@@ -897,6 +1175,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "5267769f4e3ac0a1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0VFWGZVU0xyWXNoMUUtRjVEa2c1YWtTdTNQeEdHNWNla3V1Z0RGWGNOMWtuRC1oT1Z2MkxrNG96UV9vcDNaanRmYXEtLWpxMzFxYmFUa2hGZ1ZhekotdTlzTHdQNmhFTUdHbnBKak96RVJjc3FlU2ZBT3pwMzZjWHN2dXowSHNwbU9hc1dsaw?oc=5",
+  "title": "Zeekr SUV cars with electric engine range over 600km for sale or order in Australia - Carsales",
+  "text": "Zeekr SUV cars with electric engine range over 600km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T02:28:11+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-21T01:56:14+00:00"
  },
  {
   "id": "ae45ad3c1a469aa0",
