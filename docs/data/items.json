@@ -1,12 +1,159 @@
 [
  {
+  "id": "d27c39e78dad71f8",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · The Supercar Blog",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmNOU2FjelhvTkR6UVFGOUczZTlhazRYamJkMmVhLWkzZWo0TWZ0SWpZeTJvTUEyMGVSWFZULVFfbzdqN3BvVDNRT0tGdVF3ZEJ0WXZ5MUtWUF96TkF1cW9KYmswVU8tcVRsbkRtcDRMUEwyWThFTldBR1l5bFF3MFEyR21ELWRNUlJ4UGpiU2VKWVpzMjd3c2t5NkxRUVhuWnlhNHpsTkNnNnRudnIw?oc=5",
+  "title": "Electric Lexus LFA Concept to make Australian debut at Melbourne Cup Carnival - The Supercar Blog",
+  "text": "Electric Lexus LFA Concept to make Australian debut at Melbourne Cup Carnival The Supercar Blog",
+  "author": "",
+  "published": "2026-10-22T13:22:51+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
+  "id": "5971e292567f072f",
+  "type": "news_zeekr",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/look-out-toyota-rav4-omoda-x-is-another-chinese-suv-coming-for-your-customers-and-its-an-ev/",
+  "title": "Look out Toyota RAV4: Omoda X is another Chinese SUV coming for your customers. And it’s an EV!",
+  "text": "Omoda Jaecoo has revealed a new Toyota RAV4-sized SUV with electric and plug-in hybrid power, rugged styling and a night-vision camera designed to spot hazards after dark. Called the Omoda X, the concept made its global debut at parent company Chery’s International User Summit in Wuhu, China, on October 20. It shapes as another potential entrant in Australia’s crowded medium SUV market, although Omoda Jaecoo has yet to confirm a local launch, timing or pricing. READ MORE: Striking Chery Omoda 4 is a baby Lamborghini Urus built for Australian tastes: Chinese brand chases the BYD Atto 2 and Kia EV3 READ MORE: 2025 Omoda 9 Review: New premium plug-in hybrid takes the fight to Tesla, BYD, Zeekr, Mazda, Volvo – and more READ MORE: Omoda, Jaecoo the latest new Chinese brands to take on BYD, GWM, Deepal, Zeekr, Leapmotor and XPeng The X sits below the Omoda 9 and measures 4650mm long, 1910mm wide and 1720mm tall, putting it firmly in the family SUV territory occupied by the RAV4. 2026 Omoda X concept. Omoda has confirmed plans for both battery-electric and plug-in hybrid powertrains, along with two-wheel drive and all-wheel drive options. It has not detailed which combinations will be off",
+  "author": "EV Central team",
+  "published": "2026-10-22T12:34:43+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "volvo",
+   "kia",
+   "byd",
+   "tesla",
+   "xpeng",
+   "deepal",
+   "toyota",
+   "mazda"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
+  "id": "7dc94a143073d269",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc1Vaa3N3bmR2azZId2tkRmVCMUFJdC1QaFZ1VU42ajExSTJhSnNjN1c0Wm1sdENnS19ERWJmVE5MOGRtWE1nV2JLUjMteUpZT3JsRWxGM0xaQWdCR3kySS0zLU5VdzRxQ3VpY2NVSkVYOWdjd0NSU3czY183WGo1N09VX2oteUhxWS1fZXdYMTRLWXY4ZHBhWnVqc2VFdk15cTNnZW9FOUs4TXctbkYxRVIxOVRleUFrc01tY0hR?oc=5",
+  "title": "Test drive the Zeekr 7X and 009 at Starbucks Alor Setar DT, Oct 23-24, and get a free drink - Paul Tan's Automotive News",
+  "text": "Test drive the Zeekr 7X and 009 at Starbucks Alor Setar DT, Oct 23-24, and get a free drink Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-10-22T10:50:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
+  "id": "88d4335139f234a5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Tech Edition",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjNRVDhJdEtpaUhDWWFWd2hNN28zVWIxa0MzWnYyaE5uSkxzVEVUWVhFeURfV0J4WUVvQ1o1alNMR3phUlRobTZhV2JJVVhZc2Zuak0xZGVvYnE5VVFYZF9objFmbUd2QkN0azVQMEMzdy1SSllGMU9LUHRTaktyal94a3RYOW9vU29TSF8zbWlPbTlTMnZFaXFlNWtacWd1U0Z6QXVjQmtmS0U?oc=5",
+  "title": "Zeekr updates 7X in Singapore with Category A COE variant and up to 500 kW of power - Tech Edition",
+  "text": "Zeekr updates 7X in Singapore with Category A COE variant and up to 500 kW of power Tech Edition",
+  "author": "",
+  "published": "2026-10-22T10:38:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
   "id": "1c6d531b7aee3e97",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
-  "source_name": "Google News · tech-insider.org",
+  "source_name": "Google News · https://tech-insider.org/",
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3RUFhTjlkSHJNdnFTUzNIUFpxX1FjRTRVT0dEYlRoNWFyeTVWVXk4OHViU28zWG5vYWFDNnF0dnlXckY2aWpTR1lJUjNZUkxSSVo3N2k1VDEwS3FpNU1SeWJqT3J0bXp6YllReEtxQnJueVk?oc=5",
-  "title": "Zeekr 7X Review 2026: $1,000 Cheaper Than Model Y - tech-insider.org",
-  "text": "Zeekr 7X Review 2026: $1,000 Cheaper Than Model Y tech-insider.org",
+  "title": "Zeekr 7X Review 2026: $1,000 Cheaper Than Model Y - https://tech-insider.org/",
+  "text": "Zeekr 7X Review 2026: $1,000 Cheaper Than Model Y https://tech-insider.org/",
   "author": "",
   "published": "2026-10-22T10:21:25+00:00",
   "rating": null,
@@ -33,6 +180,70 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "10acd0bf8b13f508",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · EVs & Beyond",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMk9RQjFnUmktUHRDOElPT2hZYmdxMlZvX0F6S2NubllzLV82V1RhaGtfQ05CdGtaa001bE9IYmZtQWpUV1lrX1FMUlBuRnlDb2puMVctYVhiX01yNFVfMXoySDlKa09fb1o4Ti0yZTZGbGNuSEcwRkNGU0ZLSXM?oc=5",
+  "title": "BYD reaches 150,000 deliveries in Australia with a Seal 6 Touring PHEV - EVs & Beyond",
+  "text": "BYD reaches 150,000 deliveries in Australia with a Seal 6 Touring PHEV EVs & Beyond",
+  "author": "",
+  "published": "2026-10-22T10:19:19+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
+  "id": "ae6454d7b621e2ba",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVXVkc3Z0M1dnajFFSjEzbjRmMmJ3ZEtkUFZ3dUpGWi02VlBkcFI3XzhjMEV3LVN1Zk1IY2VzUzRoSlFRSktXZ2FGTHFYbXR5ZlpxbGhHMWZfVDktSHdqR1gweGxuSjN2NXlXSlYwZkN3QmJ5QkE?oc=5",
+  "title": "Zeekr SUV Silver car for sale or order in Australia - Carsales",
+  "text": "Zeekr SUV Silver car for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-22T10:10:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
  },
  {
   "id": "982527985ca1ab18",
@@ -103,6 +314,39 @@
   "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
+  "id": "004195111ccf9623",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0xzM2FUWGpBYm1BdXF2VEFsdVJwUVVjZVl5b0ZrNkg2cFBTOVRCcU9DeXpta2xfZVBHOF9EZmlkcC1mVExWdDQzSUNiWE5aOFNwbl9HTmx0UlBwV3ZhMUdwb3JqSGhLOTA0QlhnVXlZbG91NUtPTDF3M193VG5MNGVSbmo?oc=5",
+  "title": "Europe's Zeekr 7GT rival priced - The Canberra Times",
+  "text": "Europe's Zeekr 7GT rival priced The Canberra Times",
+  "author": "",
+  "published": "2026-10-22T10:03:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
   "id": "04cf51591c1630fb",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -137,6 +381,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "f43565ce6815f866",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xcdfh3/zeekr_7x_becomes_an_emergency_vehicle_full/",
+  "title": "Zeekr 7X Becomes An Emergency Vehicle! Full Conversion With Lights, Sirens & Equipment",
+  "text": "",
+  "author": "/u/RoamingNorway",
+  "published": "2026-10-22T09:00:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
  },
  {
   "id": "58e95432391934ae",
@@ -422,6 +697,45 @@
   "first_seen": "2026-10-22T05:17:14+00:00"
  },
  {
+  "id": "079c2c6ee5da62ce",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMG5Eekk1aGZBc3o3dHhXQ3V0QV9qNEtCblVybFM2X0ZyMnBTaElldGlPcV8wNkVvOW1OcG12V081WG1TN2U3bmNkZ25LclRNRTV3RjBhVXVxWGRjMzRtV1dZOXl5WjBtaGN5bnF5UEN4NXI0MXBKNVQ2MUhLdUZySGJFZVk5YVpfRFctZkpzc0JMQ3MtUXVTdmhrdVZUclRBRnlJU1VNekFwTHlDTTc0UlNSME9WVWpkeDZkX2xDLUFjbmFx?oc=5",
+  "title": "2027 Mercedes-Benz CLA 200 Shooting Brake priced in Australia as new Zeekr 7GT rival and cheaper alternative to 2026 Audi S5 - CarsGuide",
+  "text": "2027 Mercedes-Benz CLA 200 Shooting Brake priced in Australia as new Zeekr 7GT rival and cheaper alternative to 2026 Audi S5 CarsGuide",
+  "author": "",
+  "published": "2026-10-22T03:54:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "audi"
+  ],
+  "categories": [
+   "quality"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
   "id": "946ec5c4e7a7a88c",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -524,8 +838,8 @@
   "source": "gn-zeekr-1d",
   "source_name": "Google News · BigGo Finance",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LaGRrc3F5eThaZWF4Ml9sd01FQTl2VjJCd3Y1bDZYTDkwWkRfbXRBLTJjck9vQTdHS1lQZmt0RkJUVUxrSUJLUjlOSmVmOHVHdkMzVm1jeGFXX0xWYW4zQURFYUwzNzZ4bXdKZ09hUnJzSEVhWWc?oc=5",
-  "title": "South Korea's SK On Buys First Zeekr 7X in the Country for Corporate Use, Opting for CATL-Battery Model - BigGo Finance",
-  "text": "South Korea's SK On Buys First Zeekr 7X in the Country for Corporate Use, Opting for CATL-Battery Model BigGo Finance",
+  "title": "SK On Buys First Zeekr 7X in South Korea, a Vehicle Fitted With Rival CATL's Battery, in Overture to Chinese Automaker Tie-Up - BigGo Finance",
+  "text": "SK On Buys First Zeekr 7X in South Korea, a Vehicle Fitted With Rival CATL's Battery, in Overture to Chinese Automaker Tie-Up BigGo Finance",
   "author": "",
   "published": "2026-10-22T02:25:00+00:00",
   "rating": null,
@@ -769,6 +1083,39 @@
   "first_seen": "2026-10-22T05:17:14+00:00"
  },
  {
+  "id": "7743f465bfd8f7b0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01dDBMbi0yTzV3T3cwMktTcnZHYVMweW9UaFkxSHh3R2hJOHQwVVk5YjNGQjJqb0RZdHVGMFVSTkg3YUl3Zm5KRWRxckEwZGxaZGZHQlJQTQ?oc=5",
+  "title": "Zeekr Korea delivers first 7X to SK On as domestic deliveries begin - 헤럴드경제",
+  "text": "Zeekr Korea delivers first 7X to SK On as domestic deliveries begin 헤럴드경제",
+  "author": "",
+  "published": "2026-10-22T01:11:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
   "id": "f261f8d75674e114",
   "type": "competitor_news",
   "source": "gn-zeekr-1d",
@@ -987,6 +1334,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "d17efa7afac679fa",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lcHZIaG1LWWpTektQWENEWXpZTkxfcnpBTW03cWUzeGplMmhHNWF6dEJmYTRmWU43MnY1N05EMWVyOXpzSzF2ZWYxQTFaeFJXWFpsVjdEd01CZUlGNEsxQlR0SDY?oc=5",
+  "title": "Zeekr 7X Begins Deliveries to Korean Customers... First Customer: SK On - 아시아경제",
+  "text": "Zeekr 7X Begins Deliveries to Korean Customers... First Customer: SK On 아시아경제",
+  "author": "",
+  "published": "2026-10-22T00:08:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
  },
  {
   "id": "49f13b0060acd4bd",
@@ -7610,6 +7990,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-18T14:46:36+00:00"
+ },
+ {
+  "id": "7388036bbaf4aa36",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Bay Post-Moruya Examiner",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajVEeFhyRkFuSDZSWFphN3Jpc3ZwUzA2M1ZxeGJoZDZRNkJSYnRlN1Y4UF9iSTA3WmFNVFcwV21HZ2tROXJwTmYxZVpkcjFQb1JPWU5pRkVzc1ozNEZ1S05sU2NOUEhXOW1QVk5BazFEUGdHYWFiWS1Lc25qLW9wSE96S3NOYW9jTEF1OXE3ZWpfS2pwS1FKdQ?oc=5",
+  "title": "New Zeekr 7X rival gets closer to Australia - Bay Post-Moruya Examiner",
+  "text": "New Zeekr 7X rival gets closer to Australia Bay Post-Moruya Examiner",
+  "author": "",
+  "published": "2026-10-16T17:44:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
  },
  {
   "id": "6dbe98d0de9727af",
@@ -19308,18 +19721,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -19907,7 +20322,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -19930,7 +20345,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -25971,7 +26386,7 @@
   "title": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue - BigGo Finance",
   "text": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue BigGo Finance",
   "author": "",
-  "published": "2026-08-22T07:00:00+00:00",
+  "published": "2026-08-22T23:10:55+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -30326,6 +30741,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "3ff18b8eaf85623c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · Stuff",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDMxa0dyUEp5bFFjTWxPS3kyTDRLb3dPTjFBUkhkd0prVFU5WmhHSnpZQTZJM3BLME5SWFI3eUV4dUJ4OUFwNHNLR2x1SHpGWDViTUIzekt1VGZvNlVwM0Jtc2FlZjZlVjI1azJzVWdHS21jRXRwNEtweWpCV0tzWVc0SlJLd3ZCX1RaN2xnalJTdHV1?oc=5",
+  "title": "Here’s what makes the cheaper Zeekr 7GT the option to go for - Stuff",
+  "text": "Here’s what makes the cheaper Zeekr 7GT the option to go for Stuff",
+  "author": "",
+  "published": "2026-06-23T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
  },
  {
   "id": "8c402cbee4970a61",

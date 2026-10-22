@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T10:32:20+00:00",
- "duration_s": 383.9,
- "items_total": 950,
- "new_this_run": 165,
+ "generated": "2026-10-22T15:32:33+00:00",
+ "duration_s": 324.3,
+ "items_total": 963,
+ "new_this_run": 202,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 5,
-  "competitor_news_7d": 119,
+  "competitor_news_7d": 121,
   "launch_signals_7d": 25,
   "offer_signals_7d": 2,
-  "zeekr_news_7d": 88,
+  "zeekr_news_7d": 95,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -159,7 +159,7 @@
    "date": "2026-10-16",
    "complaints": 3,
    "competitor_news": 13,
-   "zeekr_news": 12
+   "zeekr_news": 13
   },
   {
    "date": "2026-10-17",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-22",
    "complaints": 1,
-   "competitor_news": 12,
-   "zeekr_news": 11
+   "competitor_news": 14,
+   "zeekr_news": 19
   }
  ],
  "categories_30d": [
@@ -918,18 +918,6 @@
    "competitors": [
     "volvo-ex30"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "4362e9a45be33f4e",
-   "title": "2027 Mazda 6e Atenza review",
-   "source": "CarExpert",
-   "t": "2026-10-19T13:00:00+00:00",
-   "competitors": [
-    "tesla-model-3",
-    "byd-seal",
-    "mazda-6e"
-   ]
   }
  ],
  "source_status": {
@@ -940,12 +928,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 28,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -965,32 +953,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 78,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 36,
+   "count": 39,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 35,
+   "count": 36,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 62,
+   "count": 66,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 60,
+   "count": 59,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 15,
+   "count": 17,
    "note": ""
   },
   "carexpert": {
@@ -1054,14 +1042,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1074,24 +1062,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1120,7 +1108,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1514,9 +1502,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,
