@@ -1,5 +1,78 @@
 [
  {
+  "id": "23b2bcfb47c4bea8",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/icaur-v25-ev-to-lead-chery-brands-australian-launch-v27-and-v25-erevs-to-follow",
+  "title": "iCaur V25 EV to lead Chery brand's Australian launch, V27 and V25 EREVs to follow",
+  "text": "The electric iCaur V25 SUV will lead the Chery-owned brand’s Australian launch, followed by the larger iCaur V27 extended-range electric (EREV) SUV and an EREV version of the V25. iCaur Australia product manager Derek Tian detailed the rollout to Australian media, including CarExpert , in China. The V25 was previously confirmed for an early-2027 Australian launch . “The V25 BEV will launch first,” Mr Tian said. Asked which model would follow, he replied: “Then V27 EREV.” “I can't give you a confirmed month, but maybe the end of the first quarter,” Mr Tian said of the launch timing. “The V23 may come in the future,” he said of iCaur's smaller electric SUV. The Chinese-market V25 EREV measures 4636mm long, 1920mm wide, and 1855mm tall on a 2820mm wheelbase, placing it in the same broad size class as the Toyota RAV4 . Despite its upright body, round headlights, and tailgate-mounted spare wheel, it uses car-like unibody construction. Mr Tian said the Australian-bound electric V25 would have an 80kWh lithium iron phosphate battery supplied by CATL. “WLTP range is about 368km,” he said. In overseas specification, the larger V27 measures 5045mm long, 1976mm wide, and 1894mm tall, with a 2",
+  "author": "Alborz Fallah",
+  "published": "2026-10-22T20:57:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T22:40:07+00:00"
+ },
+ {
+  "id": "e3d49fa44f890ec8",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-bmw-ix5-review-quick-drive",
+  "title": "2027 BMW iX5 review: Quick drive",
+  "text": "Sales of urban and family SUVs are booming in Australia, but is the market ready for the first-ever, all-electric BMW X5 ? The inaugural iX5 will be available here in a matter of months, as part of the fifth-generation X5 lineup that will be launched Down Under in late November. Worry not, engine diehards, as BMW is hedging its bets on the new X5 by offering it with a wide choice of powertrains, including mild-hybrid-assisted petrol and diesel engines, and an excellent plug-in hybrid (PHEV) as well. The only one we’re not getting in Oz, in fact, is the hydrogen-fuelled model. At least not for now. What powers the X5 isn’t the only new thing about it, of course, as the big SUV adopts BMW’s ‘Neue Klasse’ suite of technologies, its new design language, and a screen-heavy cabin. To see how it all stacks up, we attended the international media launch of the new model in California in the USA, driving both the iX5 and the petrol-powered X5 40 xDrive. How much does the BMW iX5 cost? Deliveries of both the petrol X5 40 xDrive and diesel X5 40d xDrive will take place in Australia before the end of this year, but the bad news is that they’ll cost more than the models they replace. The 40d xD",
+  "author": "Shane O'Donoghue",
+  "published": "2026-10-22T19:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 2,
+   "pos_hits": 1,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T22:40:07+00:00"
+ },
+ {
   "id": "c55f2688d30ea6bc",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -10808,6 +10881,41 @@
   "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
+  "id": "7560ef24987a3d67",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
+  "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
+  "text": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT CarsGuide",
+  "author": "",
+  "published": "2026-10-14T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
   "id": "c870152aabac62f1",
   "type": "competitor_news",
   "source": "evcentral",
@@ -11047,41 +11155,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T03:54:39+00:00"
- },
- {
-  "id": "7560ef24987a3d67",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarsGuide",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
-  "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
-  "text": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT CarsGuide",
-  "author": "",
-  "published": "2026-10-14T03:04:07+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [],
-  "brands": [
-   "avatr"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
   "id": "2c363d35d08b8002",

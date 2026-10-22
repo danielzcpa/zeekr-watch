@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T19:23:58+00:00",
- "duration_s": 295.8,
- "items_total": 965,
- "new_this_run": 205,
+ "generated": "2026-10-22T22:40:07+00:00",
+ "duration_s": 345.9,
+ "items_total": 967,
+ "new_this_run": 216,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 5,
-  "competitor_news_7d": 120,
+  "competitor_news_7d": 122,
   "launch_signals_7d": 25,
   "offer_signals_7d": 2,
-  "zeekr_news_7d": 96,
+  "zeekr_news_7d": 95,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -194,7 +194,7 @@
   {
    "date": "2026-10-22",
    "complaints": 1,
-   "competitor_news": 14,
+   "competitor_news": 16,
    "zeekr_news": 21
   }
  ],
@@ -908,16 +908,6 @@
    "competitors": [
     "kia-ev3"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "08c8cc1262f38033",
-   "title": "Volvo EX30 recalled",
-   "source": "CarExpert",
-   "t": "2026-10-19T21:53:00+00:00",
-   "competitors": [
-    "volvo-ex30"
-   ]
   }
  ],
  "source_status": {
@@ -958,12 +948,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 40,
+   "count": 42,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 37,
+   "count": 36,
    "note": ""
   },
   "gn-brands-cn": {
@@ -973,12 +963,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 58,
+   "count": 59,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 19,
+   "count": 22,
    "note": ""
   },
   "carexpert": {
@@ -1047,24 +1037,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
