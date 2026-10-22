@@ -25,7 +25,7 @@
     {
       "key": "7X",
       "name": "ZEEKR 7X",
-      "code": "CX1E-A1-G",
+      "code": "CX1E-A0/A1-G",
       "segment": "中型高端纯电SUV",
       "segment_en": "Medium premium BEV SUV",
       "powertrain": "BEV",
@@ -35,9 +35,9 @@
       "use_case_en": "Primary family SUV; premium alternative to Model Y with space, range and equipment",
       "aliases": ["zeekr 7x", "7x", "极氪7x", "极氪 7x"],
       "variants": [
-        {"name": "Standard A1", "drive": "RWD", "battery_kwh": 75, "rrp": 57900},
-        {"name": "Long Range A1", "drive": "RWD", "battery_kwh": 100, "rrp": 63900},
-        {"name": "Performance A1", "drive": "AWD", "battery_kwh": 100, "rrp": 72900}
+        {"name": "Standard A0/A1", "drive": "RWD", "battery_kwh": 75, "rrp": 57900},
+        {"name": "Long Range A0/A1", "drive": "RWD", "battery_kwh": 100, "rrp": 63900},
+        {"name": "Performance A0/A1", "drive": "AWD", "battery_kwh": 100, "rrp": 72900}
       ]
     },
     {

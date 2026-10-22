@@ -47,7 +47,7 @@
   {
    "key": "7X",
    "name": "ZEEKR 7X",
-   "code": "CX1E-A1-G",
+   "code": "CX1E-A0/A1-G",
    "segment": "中型高端纯电SUV",
    "segment_en": "Medium premium BEV SUV",
    "powertrain": "BEV",
@@ -66,19 +66,19 @@
    ],
    "variants": [
     {
-     "name": "Standard A1",
+     "name": "Standard A0/A1",
      "drive": "RWD",
      "battery_kwh": 75,
      "rrp": 57900
     },
     {
-     "name": "Long Range A1",
+     "name": "Long Range A0/A1",
      "drive": "RWD",
      "battery_kwh": 100,
      "rrp": 63900
     },
     {
-     "name": "Performance A1",
+     "name": "Performance A0/A1",
      "drive": "AWD",
      "battery_kwh": 100,
      "rrp": 72900
