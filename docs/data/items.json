@@ -1,5 +1,69 @@
 [
  {
+  "id": "c55f2688d30ea6bc",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarScoops",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUlLV2psQ0tLZEJvQkx0TDQyei1zWEFJZnc0QzJmOV9MTVdKNm9aWDhNZEF5OXBqR04tMjVtS3BoeG5WNVFLVU1UTEJFRmFRR0F6OGNhZmw0V3hSaWQ5QnZPbGN2T1c2aDIyNWRzUGswb0NERUxnZHdXSEJFMHhUOGI1ak5oRW9mb1Q1MQ?oc=5",
+  "title": "China's Zeekr Says It's Combating A Lack Of Brand Heritage In Europe With Value - CarScoops",
+  "text": "China's Zeekr Says It's Combating A Lack Of Brand Heritage In Europe With Value CarScoops",
+  "author": "",
+  "published": "2026-10-22T15:42:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T19:23:58+00:00"
+ },
+ {
+  "id": "88d4335139f234a5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Tech Edition",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjNRVDhJdEtpaUhDWWFWd2hNN28zVWIxa0MzWnYyaE5uSkxzVEVUWVhFeURfV0J4WUVvQ1o1alNMR3phUlRobTZhV2JJVVhZc2Zuak0xZGVvYnE5VVFYZF9objFmbUd2QkN0azVQMEMzdy1SSllGMU9LUHRTaktyal94a3RYOW9vU29TSF8zbWlPbTlTMnZFaXFlNWtacWd1U0Z6QXVjQmtmS0U?oc=5",
+  "title": "Zeekr updates 7X in Singapore with Category A COE variant and up to 500 kW of power - Tech Edition",
+  "text": "Zeekr updates 7X in Singapore with Category A COE variant and up to 500 kW of power Tech Edition",
+  "author": "",
+  "published": "2026-10-22T14:29:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
   "id": "d27c39e78dad71f8",
   "type": "competitor_news",
   "source": "gn-ev-launch-au",
@@ -99,39 +163,6 @@
   "categories": [
    "delivery",
    "sales"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-22T15:32:33+00:00"
- },
- {
-  "id": "88d4335139f234a5",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Tech Edition",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjNRVDhJdEtpaUhDWWFWd2hNN28zVWIxa0MzWnYyaE5uSkxzVEVUWVhFeURfV0J4WUVvQ1o1alNMR3phUlRobTZhV2JJVVhZc2Zuak0xZGVvYnE5VVFYZF9objFmbUd2QkN0azVQMEMzdy1SSllGMU9LUHRTaktyal94a3RYOW9vU29TSF8zbWlPbTlTMnZFaXFlNWtacWd1U0Z6QXVjQmtmS0U?oc=5",
-  "title": "Zeekr updates 7X in Singapore with Category A COE variant and up to 500 kW of power - Tech Edition",
-  "text": "Zeekr updates 7X in Singapore with Category A COE variant and up to 500 kW of power Tech Edition",
-  "author": "",
-  "published": "2026-10-22T10:38:33+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "software"
   ],
   "sentiment": {
    "score": 0,
@@ -548,6 +579,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "55c8812d119260e8",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUY2SEVsNDFGd2NfU2VzQ0hfNTg5Q29xV0ZTZzQ0Vk9fRmxZWFdra3IyOEFGNHhhdWF2XzZieUZEME9BT09RTnRFUWh3cTJtYzV4WWZ6UlZvUVhEZTVNY1piVjdMRnhrZElLRjFiQWpLOHJCWk1ad09RQ1NGQVBiWHJyT3dRUEVzTDVsQ2JKMVZJdVo4Z0UwSmhFT0Z5X0N0THBReTM1ZVY1LUo2dEk2ZQ?oc=5",
+  "title": "Zeekr SUV cars with kilometres under 60,000km with electric engine range over 600km for sale in Australia - Carsales",
+  "text": "Zeekr SUV cars with kilometres under 60,000km with electric engine range over 600km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-22T05:47:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T19:23:58+00:00"
  },
  {
   "id": "8fae6ab2a909303c",
@@ -3722,7 +3784,7 @@
   "au": true,
   "extra": {
    "version": "1.6.7",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-10-21T09:13:15+00:00"
  },
@@ -3833,8 +3895,8 @@
   "source": "gn-brands-eu",
   "source_name": "Google News · autoevolution",
   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUdnSFZ0SkdMM3M0akNFMThhNzdtUm8zeFZTWlNjUEN1cXQ3VjVoTUtCejN2ZWh5WmlISm8zSmRVTzRuZExMNFg1ek5GcGxwYnV4Qm9KODl3QndJaHk2ek9sUFFzemhGTUZ0OGRrTm9RclFVNGFiUjNOaGloejNLcGUtM1VhV2d3Z2lQVEtocVFKdGdiTV9DVHI1a0VYYnQ1LTZIWHZUbjhTU3lyb0ROdDRBZXVSeGo1bU1oUXhqSGZVS2NmT2JiWmVOaWx0MUZRbUNSUg?oc=5",
-  "title": "All-New Mercedes-Benz C-Class Electric Arrives in the Land Down Under, Kicks Off at AU$105,700 - autoevolution",
-  "text": "All-New Mercedes-Benz C-Class Electric Arrives in the Land Down Under, Kicks Off at AU$105,700 autoevolution",
+  "title": "All-New Mercedes-Benz C-Class Electric Arrives in Australia, Kicks Off at AU$105,700 - autoevolution",
+  "text": "All-New Mercedes-Benz C-Class Electric Arrives in Australia, Kicks Off at AU$105,700 autoevolution",
   "author": "",
   "published": "2026-10-20T06:25:53+00:00",
   "rating": null,
@@ -10690,7 +10752,7 @@
   "title": "2026 Zeekr 7X RWD review - RACV",
   "text": "2026 Zeekr 7X RWD review RACV",
   "author": "",
-  "published": "2026-10-14T07:06:57+00:00",
+  "published": "2026-10-14T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
