@@ -1,5 +1,215 @@
 [
  {
+  "id": "d11889b842b065aa",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0d0OEtrUkRTMEROTHNlUzRJSEs5aGdxZF9SaUlJemhYOVRlWlplUWQ3S0dBYklOejBfM0k1T2l4Y1k0VHNlbzJySEhsZjJJczNmTDlsY0s1MWpoQ0h4ZlQ2RndyRW5fUzNBU1BYSU13bHVUQXBicDVqRnNSdkVxRFd0YkNCZTIwUmtIVkhCSXhjdG1hN2s3Z21KWjVQaFFRWEE?oc=5",
+  "title": "GAC Aion UT Cross EV set for Australia in 2027 - Carsales",
+  "text": "GAC Aion UT Cross EV set for Australia in 2027 Carsales",
+  "author": "",
+  "published": "2026-10-22T00:10:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "gac"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "49f13b0060acd4bd",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UaUpxVWlyQ0ZPVDU3V09VYmgwZGhQMy1NV2d4OFNkZDdDRUVKcGdZTTl6WW1FRUlPakc0TzRlTEN4ZG13WXMxemVBMnMwbzRsM19Z?oc=5",
+  "title": "“Top marks for safety and driving performance” ... Kia EV6 GT ranks first in German comparison test - 매일경제",
+  "text": "“Top marks for safety and driving performance” ... Kia EV6 GT ranks first in German comparison test 매일경제",
+  "author": "",
+  "published": "2026-10-21T23:58:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "7863d9dc9695a3e2",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/reviews/small-cars/leapmotor-b05-2027-review/",
+  "title": "Leapmotor B05 2027 review",
+  "text": "This post appeared first on Chasing Cars . With lots of tech and a pricepoint to turn heads, is the new BO5 hatchback the car to firmly put China's Leapmotor on the map in a crowded EV market? Leapmotor has struggled to make its mark in a market swamped by affordable Chinese electric vehicles. At a time when rivals are experiencing explosive growth, the brand has attracted just 1166 buyers in the first nine months of the year. By contrast, BYD sold more than 8000 vehicles last month alone. But two well-priced new models hitting showrooms could turn the tide for the Chinese newcomer . The B03X compact SUV made headlines recently when the brand announced it would arrive in local showrooms in November with a $29,990 driveway pricetag, making it the cheapest electric car in the country. But prior to its arrival, the larger and more expensive B05 hatchback will test the waters with Australian buyers. What are the B05’s features and options for the price? The B05 range starts at $35,990 driveaway for the Style model, while the longer range Design LR costs $39,990 driveaway . Both are loaded with gear for the price. Standard fare on both models includes a 14.6-inch touchscreen , 8.8-inch",
+  "author": "Richard Blackburn",
+  "published": "2026-10-21T23:31:29+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_rise",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "73c714375698675d",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/gms-eyes-off-driving-tech-to-spread-to-utes-and-more-suvs-but-dont-call-it-level-3",
+  "title": "GM's 'eyes-off' driving tech to spread to utes and more SUVs – but don't call it Level 3",
+  "text": "General Motors has confirmed its eyes-off autonomous driving system will expand well beyond the Cadillac Escalade IQ , with light-duty pickups and crossover SUVs set to follow. Speaking at GM Forward, the automaker's annual technology showcase held in New York this week, GM chief product officer Sterling Anderson said the system would move from halo models into the heart of the lineup. \"Today we're announcing that autonomy will expand not just from our halo vehicles and our full-size SUVs, but across the portfolio,\" Mr Anderson said. \"It'll land in light-duty pickups, it'll land in crossovers. It'll start on highways, and it'll expand off the highways to the rest of your drive.\" At last year's event, GM only committed to launching eyes-off driving in the Escalade IQ flagship electric SUV from 2028. No timing has been given for the wider rollout. GM also outlined a longer-term goal it calls 'mission mode', where the vehicle handles tasks like picking up groceries or dropping off laundry without anyone on board. Mr Anderson – a former head of Tesla's Autopilot program and co-founder of Aurora, who GM reportedly paid a US$40 million (A$57m) package to poach – was blunt when asked whet",
+  "author": "Paul Maric",
+  "published": "2026-10-21T22:39:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "751f25059a37cf5d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1VkVWRjRWFfNnlXcTJaWGZkd3hhRmFpUEN6TloxanZkWXRlQk5aNkZ2TVFUajM2UTE5WDQybXIxMGpFN1ZXaEVlZ1V0Q3VaUmFKbnQwek5fUHhITVFsLXdNZ2xDZF9xWVotSHNNNklNbGFsRWJRQXhpWVF5Y1dINWdTaHp2cE54V1k2YUtqMFpWdThIUjhkWlA0N2oxYWtXZTN4SWVn?oc=5",
+  "title": "Chery Exlantix targets Zeekr with 'friendly prices' - Carsales",
+  "text": "Chery Exlantix targets Zeekr with 'friendly prices' Carsales",
+  "author": "",
+  "published": "2026-10-21T22:30:52+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "2e215a0e0f32c255",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-leapmotor-b05-review",
+  "title": "2027 Leapmotor B05 review",
+  "text": "Leapmotor seems to get a little bit more interesting with each new-model launch in Australia. The Chinese brand's debut model in 2024 was the C10 , a frumpy-looking, forgettable mid-size electric SUV. But then it gained an extended-range electric (EREV) powertrain, something still quite rare in Australia, and was subsequently followed by the smarter-looking B10 small SUV, now also available with both EV and EREV powertrains. Now, Leapmotor is entering the small car segment with the B05 electric hatch. It may just be Leapmotor’s most attractive car yet, cutting a lower, sleeker European silhouette when most Chinese electric hatchbacks are variations on a tall, rounded, transport-pod theme. By the way, the name’s B-ZERO-5, not B-O-5. It’s an unfortunate name, but it denotes the car’s position as a small model, alongside the B10 small SUV… and the B03X , which is smaller still because it’s called the A10 in China. Oh, and the B05 is called the Lafa5 in China. Say what you will about rival BYD’s sea creature names, but they’re a lot easier to keep track of. The Leapmotor B05 is one of the few small Chinese electric hatchbacks sold here with rear-wheel drive. With Leapmotor talking abou",
+  "author": "William Stopford",
+  "published": "2026-10-21T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
   "id": "c528e5cb02676cb3",
   "type": "competitor_news",
   "source": "carexpert",
@@ -341,6 +551,37 @@
   "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
+  "id": "6e5840918208067a",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13aTBwTDVhZHdlWXZoUGJ2cjRYM1prSVpGV0hrcjNQUEd2MzZQTkEtYzFBTGhVMXJJYnZ0N2oybl9QTFVWa3V2SDRONGFlN3JpV1hhMW5fQ0ZzbTZaZjFqNkVxOA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-21T07:26:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
   "id": "f33f9df23a714e2d",
   "type": "competitor_news",
   "source": "carexpert",
@@ -381,6 +622,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-21T07:26:38+00:00"
+ },
+ {
+  "id": "6d44ec57bc3205d9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · eletric-vehicles.com",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdl84Sk9nXzZHR2JFZ2tpVDgzVVdoOFRscTQ1RVVYSmpickpCY2prcUwzcmhOajRlaE5CVjlBTzRKdU93bmZ0TUVHeGZCVy0zN0tYcE5FVE81QzU3RXp5c19oTTZ0a25mdDF0RGlGM3E5THBNY0RJQjlzQkNwOUNJSDYtaVo4S0ZNVmYyU0FB?oc=5",
+  "title": "Zeekr 9X — Owners on Its First Year - eletric-vehicles.com",
+  "text": "Zeekr 9X — Owners on Its First Year eletric-vehicles.com",
+  "author": "",
+  "published": "2026-10-21T02:03:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
  },
  {
   "id": "a0c683f8f0e663ad",
@@ -2194,6 +2466,37 @@
   "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
+  "id": "f7d6696ca5aa3f96",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZS2RpNW9rUGIxTGRRQ2xqWnowbGdJalpQbS1MUTdyOTB0U0Q3cGZ6VkNoclRyOGZjVnpyQ0dWeUY4ekdmUTFXUDFiZ3UtcXBockF6NkRlMDE2R3FLUHhaalhn?oc=5",
+  "title": "Zeekr 7 GT/007 GT - Automotive - Whirlpool Forums",
+  "text": "Zeekr 7 GT/007 GT - Automotive Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-20T04:07:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
   "id": "e80ebfeda1363b05",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -2695,7 +2998,7 @@
  {
   "id": "53fbe7a6773aa75c",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEtwWVcwaXRfQzM0ZnhmWFdaRkJmRTh5em5uZVI4QUtFR3M0SFk2ZGFXU0gyaWR3Rm9GWHp2Q09OaTJaM1V2NmJweDVKVWZ2dTVfcHZFXzRFb3VxZnc4ZzdnMDM4M0g2VE5RQTZDQ3hNdGZXYktobTdQTlEtZ29EdWltSjBfWEJaZDV0cjNGQXlXOFdvS0FiNTZYNzZXeng0Zy1VYlJETHpzMzdCQUdz?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced for Australia - Carsales",
@@ -30136,6 +30439,37 @@
   "first_seen": "2026-10-15T07:17:47+00:00"
  },
  {
+  "id": "48ceb1a02c27b390",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8weklkYkdBOXRUR21NbmpxZHZ2RGljQmtMa0hvNFc1QVQxSHlXNUxmNVNkUmMtcU1WbkVhdGtmNTVBUWI4a0p1cmxianJEOTRSQUVGdTVhcnhXVE04cWc5RzE1TQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-01T12:04:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
   "id": "18ecf69afde055a6",
   "type": "complaint",
   "source": "playstore-android",
@@ -31069,6 +31403,68 @@
   "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
+  "id": "3c646467c3daf1fd",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wNzZ5TFZRd0V3N3Y2cmF5cFpQUXpBWFhRX0lRaFBhdFZTd0hxMkNMSnhHQmZ0M1ZZUzFSNENYdFl1RGpRMUdFNDhQR1RpWTNqN01tWkdkRUo4bHA1UzluN0pkQQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-06T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "689b1218c5bad720",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlYjJwSERvaTctRy14SkF3T1k4NkFLSnNMTU9Udk8zYTctakM5cTBoTTNBMkVKai13ZmZIdnBoZzJnU1lJOEVoYmZGVkpVeTZabDlRaUJDdW9XN1BIVWJHcmxpcw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-05T03:39:43+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
   "id": "824e857d82f3b529",
   "type": "post",
   "source": "reddit-CarsAustralia",
@@ -31098,6 +31494,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "325d1c3c4076ebc0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fMVZ2ZFFEWjc5RGRCMWVsczhEYUlOZlFFMlZNbnZXU2hTR2tDWlZCWklrMkNvZXQwX0pHMFJxZE1EVUNQRHRqNWxlOFZPRHMwLW11U0RQVWNrZjM5NWtxcFVjZw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-04T14:53:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
  },
  {
   "id": "663559dc79a6f125",

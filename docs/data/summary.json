@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-21T21:56:09+00:00",
- "duration_s": 350.3,
- "items_total": 904,
- "new_this_run": 209,
+ "generated": "2026-10-22T00:34:31+00:00",
+ "duration_s": 325.0,
+ "items_total": 917,
+ "new_this_run": 228,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 11,
-  "complaints_30d": 40,
+  "complaints_30d": 38,
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 6,
-  "competitor_news_7d": 113,
-  "launch_signals_7d": 30,
-  "offer_signals_7d": 4,
+  "competitor_news_7d": 114,
+  "launch_signals_7d": 27,
+  "offer_signals_7d": 3,
   "zeekr_news_7d": 77,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
-  {
-   "date": "2026-09-22",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 3
-  },
   {
    "date": "2026-09-23",
    "complaints": 2,
@@ -194,8 +188,14 @@
   {
    "date": "2026-10-21",
    "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 6
+   "competitor_news": 15,
+   "zeekr_news": 8
+  },
+  {
+   "date": "2026-10-22",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,25 +203,25 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 27
+   "n": 26
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 15
+   "n": 14
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 12
+   "n": 11
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 12
+   "n": 11
   },
   {
    "key": "quality",
@@ -249,13 +249,13 @@
   }
  ],
  "models_30d": {
-  "7X": 17,
+  "7X": 15,
   "7GT": 4,
   "009": 1,
   "X": 1
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 15,
+  "Reddit r/Zeekr7xAustralia": 13,
   "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
@@ -410,12 +410,12 @@
    "latest": null
   },
   "kia-ev6": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "a27bf89cf6f37c43"
    ],
    "offer": [],
-   "latest": "a27bf89cf6f37c43"
+   "latest": "49f13b0060acd4bd"
   },
   "hyundai-ioniq5": {
    "n_30d": 1,
@@ -968,24 +968,17 @@
    "competitors": [
     "yangwang-u8"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "78a00f073551b582",
-   "title": "Mazda 官网政策页面变化（+0 / −2 行）",
-   "source": "https://www.mazda.com.au/offers/",
-   "t": "2026-10-18T22:35:47+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 68,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 38,
+   "count": 39,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1000,7 +993,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 100,
+   "count": 54,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1015,27 +1008,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 35,
+   "count": 32,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 24,
+   "count": 31,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 49,
+   "count": 47,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 53,
+   "count": 59,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 18,
+   "count": 19,
    "note": ""
   },
   "carexpert": {
@@ -1099,14 +1092,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1121,7 +1114,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
