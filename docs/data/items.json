@@ -1,8 +1,619 @@
 [
  {
-  "id": "d11889b842b065aa",
+  "id": "40493bdaaef21827",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KX1NLbm5IRWo3NXp6UUxpbkpfZjJzTmJCZWRVMVJJSnlleUdNZDRWUGNVSERQaWZtb3NReDc4YW1HclFXZlhLTS11RURVaE9EWER3?oc=5",
+  "title": "Kia EV6 GT “Beats Tesla Model Y” ... Takes Overall No. 1 in German Evaluation - 매일경제",
+  "text": "Kia EV6 GT “Beats Tesla Model Y” ... Takes Overall No. 1 in German Evaluation 매일경제",
+  "author": "",
+  "published": "2026-10-22T04:53:51+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia",
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "7fa7dac55aee584c",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/gac-aion-ut-and-xpeng-x9-earn-five-ancap-stars-under-tougher-2026-safety-tests-but-where-are-the-knobs/",
+  "title": "GAC Aion UT and XPeng X9 earn five ANCAP stars under tougher 2026 safety tests, but where are the knobs?",
+  "text": "The GAC Aion UT electric hatchback and XPeng X9 electric people mover have earned five-star ANCAP safety ratings under the tougher assessment criteria introduced this year. The results give both new-to-Australia Chinese brands another five-star model in Australia, while demonstrating that vehicles as different as an affordable small hatch and a large family people mover can meet ANCAP’s expanded 2026-2028 requirements. However, neither emerged without criticism, with ANCAP marking down their reliance on touchscreen controls and identifying shortcomings in some driver assistance and occupant monitoring functions. READ MORE: Best EVs to buy in Australia 2026: The ultimate guide to affordable electric cars at every price READ MORE: Three-star setback: BYD Sealion 5 breaks brand’s perfect ANCAP run as M9 people-mover scores five READ MORE: Cheap EVs clear tougher new ANCAP safety tests: Geely EX2 and Leapmotor B05 score five stars READ MORE: Australia’s EV price war heats up! Cheaper GAC Aion UT coming to take on BYD Atto 1 and Geely EX2 READ MORE: 2026 GAC Aion UT Review: Cheap electric city car brings big space and solid driving manners, but what about the ownership experience? The r",
+  "author": "EV Central team",
+  "published": "2026-10-22T04:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "byd",
+   "xpeng",
+   "geely",
+   "gac"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "b4e77cde5e9b78a8",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/cherys-luxeed-confirmed-for-australia-luxury-people-mover-due-in-2027",
+  "title": "Chery's Luxeed confirmed for Australia, luxury people mover due in 2027",
+  "text": "Chery’s Australian expansion will see it add another luxury brand, with Luxeed expected to arrive in the second quarter (April to June) of 2027, led by a large people mover. Shawn Xu, CEO of Omoda & Jaecoo International, confirmed the Australian plans to local media at Luxeed’s global launch in Wuhu, China, on October 21. The first model will be the Luxeed LLounge people mover, followed by the Luxeed Stormax electric SUV. A local arrival date for the SUV has yet to be announced. It comes just days after Chery confirmed another premium brand, Exlantix, for a local launch. Luxeed and Exlantix join Freelander, iCaur and Jetour on the list of Chery Group brands preparing to enter Australia, with Lepas due before the end of the year. These brands will join the existing Chery and Omoda Jaecoo brands. Australian Luxeed pricing and final specifications remain unannounced, but the vehicles shown overseas put the brand into territory already occupied by Chinese luxury newcomers Denza and Zeekr. The LLounge is the export counterpart to China’s Luxeed V9. In Chinese specification, the people mover measures 5359mm long and 2009mm wide, with a 3250mm wheelbase. That makes it 204mm longer than a",
+  "author": "Alborz Fallah",
+  "published": "2026-10-22T02:35:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "bc208fc6e947c9b8",
   "type": "competitor_news",
   "source": "gn-brands-eu",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEpjRTVfeWFsaFdCSVdMVnZvQmZIUjZSV0U5NWZyVWg0cUdTSmQ2S09yQjhqXzBPY2hBWVh4ZHBaekY5djdUaEZmTWNmTkVOVExQMEZTNEt0dGs0N2ZuZ1JYQjdmRG9YRDRSWml2OTJ6RU55R0ppX0JxX0puVWxJUUpNVGMyaUFBZlI2bWdONVYzeEhXaDc4QVp1QU0tQUduMFFDQmUxRl9VUlk?oc=5",
+  "title": "Hyundai Ioniq V EV launches in China at bargain price - Carsales",
+  "text": "Hyundai Ioniq V EV launches in China at bargain price Carsales",
+  "author": "",
+  "published": "2026-10-22T02:25:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "d72e02cc5c1cbbaa",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LaGRrc3F5eThaZWF4Ml9sd01FQTl2VjJCd3Y1bDZYTDkwWkRfbXRBLTJjck9vQTdHS1lQZmt0RkJUVUxrSUJLUjlOSmVmOHVHdkMzVm1jeGFXX0xWYW4zQURFYUwzNzZ4bXdKZ09hUnJzSEVhWWc?oc=5",
+  "title": "South Korea's SK On Buys First Zeekr 7X in the Country for Corporate Use, Opting for CATL-Battery Model - BigGo Finance",
+  "text": "South Korea's SK On Buys First Zeekr 7X in the Country for Corporate Use, Opting for CATL-Battery Model BigGo Finance",
+  "author": "",
+  "published": "2026-10-22T02:25:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "946ec5c4e7a7a88c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHpneF80VDRYcjBvYjN5UnFoeFEwejh3eG0ybUNod3dvNE9FNHc1S01PMmVzd0ZoRVdvV0VvT1JFMXpWV3JYamxmeTR3aVdZS3RKTHRWTjlJUkhSY3NSX1FJYkFHbmNyUTA2bEF3MnBZRU1zdXZwRW9MM2VPT0JOZWlpVGVmYWdt?oc=5",
+  "title": "SK On Becomes First Domestic Customer for Zeekr 7X - 조선일보",
+  "text": "SK On Becomes First Domestic Customer for Zeekr 7X 조선일보",
+  "author": "",
+  "published": "2026-10-22T02:05:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "6b60c473756e021f",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xc5z14/zeekr_7x_bullbar_roobar_nudgebar/",
+  "title": "Zeekr 7x bullbar roobar nudgebar?",
+  "text": "Anyone ever look into fitting a bullbar, roobar, or nudgebar to the front of a Zeekr 7x? I've been driving where the Kangaroo Warning signs are everywhere and Kangaroos are frequently seen hopping across the roads at Dawn and Dusk. Has anyone ever investigated fitting a bullbar or a roobar to the front of a Zeekr 7x, Tesla Model Y, or equivalent electric SUV?",
+  "author": "/u/omgCHop",
+  "published": "2026-10-22T01:57:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "7503c5b79fb26acc",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1xc5sx0/mercedesbenz_has_priced_the_cla_shooting_brake/",
+  "title": "Mercedes-Benz has priced the CLA Shooting Brake electric at $72,990 before on-roads: only $2,190 more than the petrol-hybrid version, with 511km range and 320kW charging",
+  "text": "One of very few electric wagons in Australia, and at $72,990 one of only two priced under $80,000 alongside the Zeekr 7GT. In showrooms from January 2027. CLA 200 Shooting Brake electric Zeekr 7GT RWD Price (before ORC) $72,990 Power 165kW / 335Nm WLTP range 511km DC charging 320kW Boot 455L + 101L frunk The Zeekr has significantly more power and is likely to cost $17,000-$21,000 less. The Mercedes counters with AMG Line styling and German-brand backing. Both arrive in Q1 2027. The $2k price gap between the electric and petrol-hybrid versions of the same car is also worth noting: that’s about as close to EV/ICE price parity as we’ve seen at this level. Do you think the 7GT is a legitimate competitor to the CLA200? Why would you buy a CLA200 over a 7GT?",
+  "author": "/u/zecar_",
+  "published": "2026-10-22T01:49:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "b29179f9decacc11",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Chosunbiz",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkd4UmFzbm9KZU1idmdPYmVxS0lCNGJxbk16aWRiNktTOUplYTM1cGdydXV5Rmh2NWcyX2tuM1YxR1haWjVaVGtpVE53VE1KLTMwZVpqZURIcFVzUlpVSDBtQXlxV0lZMDZwUkg0UEluUVJFX1FVOHdfRnFueWxWYXIwcC1td3FuaXdyWTZadGsyT3FVYVHSAZYBQVVfeXFMT3ZHeFJhc25vSmVNYnZnT2JlcUtJQjRicW5NemlkYjZLUzlKZWEzNXBncnV1eUZodjVnMl9rbjNWMUdYWlo1WlRraVROd1RNSi0zMGVaamVESHBVc1JaVUgwbUF5cVdJWTA2cFJINFBJblFSRV9RVTh3X0ZxbnlsVmFyMHAtbXdxbml3clk2WnRrMk9xVWFR?oc=5",
+  "title": "Zeekr starts Korea delivery of 7X, first buyer SK On - CHOSUNBIZ - Chosunbiz",
+  "text": "Zeekr starts Korea delivery of 7X, first buyer SK On - CHOSUNBIZ Chosunbiz",
+  "author": "",
+  "published": "2026-10-22T01:40:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "1d5294fd52cbf0f4",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xc5e3h/2027_7xp/",
+  "title": "2027 7xP",
+  "text": "Hi everyone. Just need some advice. We ordered the 7x AWD late September and was given a December to January 2027 delivery. This was good for us because we are going away this November which would allow us to sort parking arrangements. The dealership called yesterday saying it could be available next week or November. However we have yet to finalise the Novated Lease. Can we defer the car and wait for the 2027 AWD? Will it be available before the FBT change this April?",
+  "author": "/u/Practical-Risk1357",
+  "published": "2026-10-22T01:29:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "fdf8fb18edc4c6a6",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · zecar",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjVIeVNOQWdzc3NxX3JleEdLU1pfUHZMMnBfTmdQQW5qZ1pFeEcxdmphay1NMkV5SG01TDVRSHlnTk1iQnk0RkczNU9pTFFUZGVCVGE4dWtVNFo4eHdYRjZwSS1NU0xjTVZxNVFneS1zeXd2MEVrMjRLQmNKRndJMVFXYUVvNThEaWlTVHBsdTUyNHM?oc=5",
+  "title": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 - zecar",
+  "text": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 zecar",
+  "author": "",
+  "published": "2026-10-22T01:28:51+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "39cda14be34ec4f5",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGxYZXlONWtzSjUySmdnLWFOaGJndHFLTkY1TXZHMmZyTTlkd2ZidlpNZU5Fbm0wazYwX2ZPeWxmSnVVUndFTUhuQVE5WTJ0cEVGNHdoTWNuNmZCNlZkRkgxSGEzTENSZnZnUGp1MHk2Tk02ZzlzbGtnWEp6bU54Zl9fRHZ2QlY1bUxzWFpn?oc=5",
+  "title": "2026 Mercedes-Benz CLA Shooting Brake Price and Specs: Hybrid and EV from $70,800 - CarSauce",
+  "text": "2026 Mercedes-Benz CLA Shooting Brake Price and Specs: Hybrid and EV from $70,800 CarSauce",
+  "author": "",
+  "published": "2026-10-22T01:20:54+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "f261f8d75674e114",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NbzY0SlBEX2JYTDhaSkRWTTFyU1JCcjhqWDJEYm9fMDV6SVRmMEJsYnR4RGhyVmNSaXhCamV6SEFDZ1U5UmdNUV8yOUF1SzZ1bGh1U1VtYndCVTZZUlhHbGoyRmRLa2JZUFJwMVpPaUVVV1lVZWc?oc=5",
+  "title": "Kia EV6 GT Beats Tesla and Chinese EVs in German Comparison Test, Takes Overall First Place - BigGo Finance",
+  "text": "Kia EV6 GT Beats Tesla and Chinese EVs in German Comparison Test, Takes Overall First Place BigGo Finance",
+  "author": "",
+  "published": "2026-10-22T01:05:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia",
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "4bc0536023f0475d",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/mercedes-benz-cla-shooting-brake-prices-specs-australia-first-electric-version",
+  "title": "New Mercedes-Benz CLA Shooting Brake Aussie price and specs: Sleek wagon goes all-electric for the first time",
+  "text": "The Mercedes-Benz CLA Shooting Brake returns to Australia with hybrid and electric powertrains, greater practicality and new technology. The post New Mercedes-Benz CLA Shooting Brake Aussie price and specs: Sleek wagon goes all-electric for the first time first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-22T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "software"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "acb6ad8d2b48a5f2",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/2027-audi-a6-allroad-suv-goes-plug-in-hybrid-new-phevs-australian-price-undercuts-diesel-by-10000/",
+  "title": "2027 Audi A6 Allroad SUV goes plug-in hybrid: New PHEV’s Australian price undercuts diesel by $10,000",
+  "text": "Audi’s first plug-in hybrid A6 Allroad will become the entry point to its new-generation high-riding wagon range in Australia, priced from $127,900 before on-road costs. Due locally in the first half of 2027, the A6 Allroad e-hybrid quattro will offer a claimed electric driving range of up to 87km and cost $10,000 less than the diesel model arriving alongside it. The fifth-generation Allroad expands the Australian line-up from one diesel variant to a choice of petrol-electric plug-in hybrid and diesel mild-hybrid powertrains. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: Flagship Audi A6 e-tron EV no guarantee for Australia: SUV mania could signal the local demise of luxury sedan after 30 year run READ MORE: Audi continues to dramatically reposition its EV line-up in Australia: Now the Q6’s price has been slashed READ MORE: Audi A2 deep dive: New compact EV doubles as a home battery as brand’s most efficient EV embraces V2H power The Allroad is the first member of the new-generation A6 family confirmed for Australia, with local introductions of the conventional A6 sedan and Avant wagon still",
+  "author": "EV Central team",
+  "published": "2026-10-22T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "5b689415368cc119",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-mercedes-benz-cla-shooting-brake-price-and-specs-german-brand-returns-to-aussie-wagon-market",
+  "title": "2027 Mercedes-Benz CLA Shooting Brake price and specs: German brand returns to Aussie wagon market",
+  "text": "After discontinuing all of its wagons, Mercedes-Benz Australia has returned to the market segment with a new long-roof model offering both mild-hybrid and electric power. The Mercedes-Benz CLA Shooting Brake marks not only the return of a wagon to the three-pointed star brand’s local lineup, but also the return of the CLA Shooting Brake nameplate. The first-generation model was sold here, but Mercedes-Benz Australia skipped the second. Now the third generation is arriving, and it’s due in Australian showrooms in January 2027. Available to order from today, it’s priced from $70,800 before on-road costs in CLA200 Shooting Brake guise, with the electric version costing just $2190 more at $72,990 plus on-roads. Unlike its four-door coupe sibling , there are no all-wheel drive variants available. Pricing Model Price before on-road costs 2027 Mercedes-Benz CLA200 Shooting Brake $70,800 2027 Mercedes-Benz CLA200 Shooting Brake electric $72,990 Drivetrains and Efficiency No all-wheel drive CLA200 Shooting Brakes will be offered here at launch, with a choice of a front-wheel drive CLA200 mild-hybrid and a rear-wheel drive CLA200 electric. The CLA200's mild-hybrid powertrain allows it to dri",
+  "author": "William Stopford",
+  "published": "2026-10-22T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "e25a7570633a7297",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/mercedes-benz-cla-shooting-brake-2027-all-new-electric-and-hybrid-wagon-twins-hit-showrooms-priced-from-70800/",
+  "title": "Mercedes-Benz CLA Shooting Brake 2027: all-new electric and hybrid wagon twins hit showrooms, priced from $70,800",
+  "text": "This post appeared first on Chasing Cars . Mercedes-Benz Australia has confirmed pricing and specifications of its 2027 CLA Shooting Brake small wagon, launching in a sole ‘200’ grade, albeit with a choice of either hybrid or BEV guises. Hotter versions are expected to follow. The hybrid version, called CLA 200 Shooting Brake, is priced from $70,800 list , while the CLA 200 Shooting Brake electric wants for a $2190 upcharge , at $72,990 before on roads. The Shooting Brake exterior body style is shared with the Coupe (sedan) from the B pillar forward. Rearward, the wagon features a gentle sloping roofline that features standard fit, heat insulated panoramic glass. The wagon version of the CLA sits on the same 2790 wheelbase as the sedan, while measuring 4723mm in length, 1855mm in width and 1469mm in height. Inside, the wagon form’s higher roofline adds 14mm of front and 26mm of rear headroom, with 11mm of added cabin length for a touch more legroom in either row depending on how the front seats are set. The rear doors are also longer for freer access to row two. Both versions offer 455 litres of boot space that converts, in 40:20:40 splitfolding , to 1290 litres , with the electric",
+  "author": "Curt Dupriez",
+  "published": "2026-10-22T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "d11889b842b065aa",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0d0OEtrUkRTMEROTHNlUzRJSEs5aGdxZF9SaUlJemhYOVRlWlplUWQ3S0dBYklOejBfM0k1T2l4Y1k0VHNlbzJySEhsZjJJczNmTDlsY0s1MWpoQ0h4ZlQ2RndyRW5fUzNBU1BYSU13bHVUQXBicDVqRnNSdkVxRFd0YkNCZTIwUmtIVkhCSXhjdG1hN2s3Z21KWjVQaFFRWEE?oc=5",
   "title": "GAC Aion UT Cross EV set for Australia in 2027 - Carsales",
@@ -311,6 +922,70 @@
   "first_seen": "2026-10-21T18:13:21+00:00"
  },
  {
+  "id": "f415ad6fcab7a334",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb053SGdkMnFnQ2xwTEk5WlVrWUdOS1pHUENuTnZwMndVTWdSUnpvYTZRUVdsbXVGSkt0VlVabG1WTXBWRi1rYnhDUkhIbVVZeUVqTWV4UTFYalVmalF2aTcwOUZsbWcxNHFtS2JncWljaXZJSTNFdEs0LTE4UTQ5UUVZV3pNbURBc091dkMwLWhiRFotUl9nRUdR?oc=5",
+  "title": "Zeekr cars between $100,000 & $500,000 with battery capacity over 10kWh for sale in Australia - Carsales",
+  "text": "Zeekr cars between $100,000 & $500,000 with battery capacity over 10kWh for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T14:17:27+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "b58b9baab35b4494",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84QUhpOThtMDNPclowSnpKU0hQdGdtLUZWeWloMko0YUlwT1paR1ZHc3lnQU53aFkxY0U0QlcwZ0hOQXl6bVVmYkpyRzdQbjJxbUhwYjVBX3FOWko0MjRNdWdLbHpReUVVSm5VZ0Vn?oc=5",
+  "title": "Subaru BRZ vs Zeekr 009: Price, Specs & Which to Buy - Paul Tan's Automotive News",
+  "text": "Subaru BRZ vs Zeekr 009: Price, Specs & Which to Buy Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-10-21T13:07:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
   "id": "1e61acaaa5114c85",
   "type": "competitor_news",
   "source": "evcentral",
@@ -580,6 +1255,73 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
+  "id": "0f2bff7f5022f833",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGdpNUtOanl0MUt0U185YzZMQkpidUo3NHZHdnV0MTR0dmdzX1lHdE15cnJFQVI1Ym1SeFp0LV9GLVg1SUFZVHo1RS0zTjJEaGlZajFwdnNzMF9kcnhRelRNUXFUamFKWVRvamFoTG9ySWZqcmZCYTlXSjFsUEFEMFMxd28zdw?oc=5",
+  "title": "Zeekr cars under $40,000 with battery capacity over 10kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr cars under $40,000 with battery capacity over 10kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T05:43:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "f813c314205c9b67",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlNoNmUzdU1wVldnbVZLR1hvQ2ZfYm9ZaVgyT3VsZ09Yd3VkUjJ0ano0RDBuaTlPQjY5a2kzZE9Nd1lBVTFhLXN4aGhUamRkM05XZEE0bnltZXdYVHFfWkxvTUpwaUo0aTRhX0cydXVoNzRsX056am5GQW1WZGJxa3lCbEFFMVFldTVhbWI0aDdJOGhBQVNtY2pQWlBLdw?oc=5",
+  "title": "Zeekr cars between $50,000 & $80,000 with electric engine range over 550km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $50,000 & $80,000 with electric engine range over 550km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T05:08:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
  },
  {
   "id": "f33f9df23a714e2d",
@@ -2328,7 +3070,7 @@
  {
   "id": "a3ad73819ce746c7",
   "type": "complaint",
-  "source": "reddit-global",
+  "source": "reddit-AustralianEV",
   "source_name": "Reddit r/AustralianEV",
   "url": "https://www.reddit.com/r/AustralianEV/comments/1xakree/buyers_regret_for_tesla_model_y_awd_lr_vs_zeekr/",
   "title": "Buyers Regret for Tesla Model Y AWD LR vs Zeekr 7X Performance",
@@ -2397,7 +3139,7 @@
  {
   "id": "19af34d58af98766",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnVnZnNGWkdJN0poc3FOUkJFZG80YTR2VlZ1TkU3OG5EZVdBUFJQYk5FUTVBdF9fcDEwWkZNR0hmMWtreFoyR0lVZU5TZWtsbjRKNmM0X0thR0JaRVFJejMtRy1yaHZzdGZSZmNVLWFjME1GLVRzVzdzUVlUZTRzZE9MSGdkM2JqZFQtbVNqVzA3NlFOQmdhTHJWUWU4YjVJU3lPNERqbmVDRVhhdHU5QktsVGhub1RoNDRfNTRHQXJNV05odHN3?oc=5",
   "title": "2027 Mercedes-Benz C-Class Electric priced in Australia ahead of upcoming battle with 2027 BMW i3 luxury EV sedan - CarsGuide",
@@ -4103,7 +4845,7 @@
  {
   "id": "a565328bfa7e6f05",
   "type": "post",
-  "source": "reddit-global",
+  "source": "reddit-AustralianEV",
   "source_name": "Reddit r/AustralianEV",
   "url": "https://www.reddit.com/r/AustralianEV/comments/1x9fdgl/premium_midsized_suv_buying_experience_model_y/",
   "title": "Premium Mid-sized SUV buying experience: Model Y, Xpeng G6, BYD Sealion 7, Zeekr 7X",
@@ -4186,7 +4928,7 @@
  {
   "id": "90cf027d6c167371",
   "type": "post",
-  "source": "reddit-global",
+  "source": "reddit-AustralianEV",
   "source_name": "Reddit r/AustralianEV",
   "url": "https://www.reddit.com/r/AustralianEV/comments/1x9eumw/why_dont_more_people_buy_skodas_comparison_has/",
   "title": "Why don’t more people buy Skodas? Comparison has Tesla best, Zeekr 2nd, Skoda third, ahead of BYD and Kia. But Skoda outsold by all",
@@ -7863,7 +8605,7 @@
   "source_name": "Reddit r/Zeekr7xAustralia",
   "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1x6d41u/october_2026_delivery/",
   "title": "October 2026 Delivery",
-  "text": "Hi, A user at Whirlpool, posted this: For those who've been advised that their cars will be delivered in October 2026, two ships, the Viking Carina ) & Viking Mediterranean have left Shangai bound for Australian shores (Carina is enroute to Freo, Mediterranean to Bris). I haven't been given my VIN yet, so I'm hoping my LR Forest Green is on one of these two vessels.",
+  "text": "Hi, A user at Whirlpool, posted this: For those who've been advised that their cars will be delivered in October 2026, two ships, the Viking Carina ) & Viking Mediterranean have left Shangai bound for Australian shores (Carina is enroute to Freo, Mediterranean to Bris). I haven't been given my VIN yet, so I'm hoping my LR Forest Green is on one of these two vessels. EDIT: Looks like OPs ships were wrong. I got given my VIN this week",
   "author": "/u/nswresident",
   "published": "2026-10-15T05:15:48+00:00",
   "rating": null,
@@ -18153,20 +18895,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -22790,15 +23530,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdXZVQ2kxRDlBckU5alN5NUZ1TlM0SjY4MGJjSEhtMEJqRWdjQ3F0MXFaYWpoYkxOSkgtRlhiMURMdE5HQWhJQkVfUk0tU2NISDhMWnBIQ004MUlIV2lUMF9YMUlZYldMSXJpVlFuakFKaF9SZk5TQXFNNGxXTk9HQ2J2TFN0SVZ3MEVMY28wcUpoMExIeWJQbHE4amROWk4zZGpZQUhQYk0zUEhBQVZ2SUxsTkh3ZUNwZTBXRmlmdzBQMFk?oc=5",
-  "title": "A chief designer at Zeekr has explained the brand's different design languages - CarsGuide",
-  "text": "A chief designer at Zeekr has explained the brand's different design languages CarsGuide",
+  "title": "Why the 2026 Zeekr 7X looks so different to the upcoming 2027 Zeekr 8X and what to look forward to in the future for the BMW-rivalling Chinese brand - CarsGuide",
+  "text": "Why the 2026 Zeekr 7X looks so different to the upcoming 2027 Zeekr 8X and what to look forward to in the future for the BMW-rivalling Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-05T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7X",
+   "8X"
+  ],
   "competitors": [],
-  "brands": [],
+  "brands": [
+   "bmw"
+  ],
   "categories": [],
   "sentiment": {
    "score": 0,

@@ -50,7 +50,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "zeekr/x": {
@@ -89,7 +89,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "zeekr/009": {
@@ -142,7 +142,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "mercedes-benz/eqa-suv": {
@@ -167,7 +167,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "mercedes-benz/cla-coupe": {
@@ -248,7 +248,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "mercedes-benz/glc-suv": {
@@ -329,7 +329,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "bmw/ix1": {
@@ -354,7 +354,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "bmw/ix2": {
@@ -379,7 +379,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "bmw/i4-gran-coupe": {
@@ -404,7 +404,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "audi/q4-e-tron": {
@@ -443,7 +443,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "audi/q4-sportback-e-tron": {
@@ -482,7 +482,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "audi/q6-e-tron": {
@@ -521,7 +521,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "audi/a5-avant": {
@@ -574,7 +574,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "tesla/model-y": {
@@ -641,7 +641,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "byd/sealion-7": {
@@ -680,7 +680,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "xpeng/g6": {
@@ -733,7 +733,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "kia/ev5": {
@@ -800,7 +800,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "smart/5": {
@@ -853,7 +853,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "hyundai/elexio": {
@@ -892,7 +892,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "polestar/4": {
@@ -959,7 +959,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "volvo/ex30": {
@@ -1012,7 +1012,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "smart/1": {
@@ -1065,7 +1065,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "tesla/model-3": {
@@ -1132,7 +1132,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "byd/seal": {
@@ -1171,7 +1171,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   },
   "polestar/2": {
@@ -1224,9 +1224,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-22T00:38:16+00:00",
+   "checked": "2026-10-22T05:22:10+00:00",
    "via": "mirror"
   }
  },
- "updated": "2026-10-22T00:38:16+00:00"
+ "updated": "2026-10-22T05:22:10+00:00"
 }

@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-22T00:34:31+00:00",
- "duration_s": 325.0,
- "items_total": 917,
- "new_this_run": 228,
+ "generated": "2026-10-22T05:17:14+00:00",
+ "duration_s": 395.1,
+ "items_total": 938,
+ "new_this_run": 230,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 11,
+  "complaints_7d": 10,
   "complaints_30d": 38,
   "high_7d": 3,
   "medium_7d": 2,
-  "low_7d": 6,
-  "competitor_news_7d": 114,
-  "launch_signals_7d": 27,
-  "offer_signals_7d": 3,
-  "zeekr_news_7d": 77,
+  "low_7d": 5,
+  "competitor_news_7d": 117,
+  "launch_signals_7d": 25,
+  "offer_signals_7d": 2,
+  "zeekr_news_7d": 84,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -189,13 +189,13 @@
    "date": "2026-10-21",
    "complaints": 0,
    "competitor_news": 15,
-   "zeekr_news": 8
+   "zeekr_news": 12
   },
   {
    "date": "2026-10-22",
    "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 0
+   "competitor_news": 11,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -333,7 +333,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 14,
+   "n_30d": 15,
    "launch": [
     "0740f7c371cf05aa",
     "39ee8a224f7f89bb",
@@ -343,7 +343,7 @@
    "offer": [
     "a0bad462fa5ad448"
    ],
-   "latest": "0740f7c371cf05aa"
+   "latest": "40493bdaaef21827"
   },
   "xpeng-g6": {
    "n_30d": 1,
@@ -410,12 +410,12 @@
    "latest": null
   },
   "kia-ev6": {
-   "n_30d": 3,
+   "n_30d": 5,
    "launch": [
     "a27bf89cf6f37c43"
    ],
    "offer": [],
-   "latest": "49f13b0060acd4bd"
+   "latest": "40493bdaaef21827"
   },
   "hyundai-ioniq5": {
    "n_30d": 1,
@@ -592,13 +592,13 @@
    "latest": null
   },
   "xpeng-x9": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "2c8e385c13663939",
     "59331c007457eaac"
    ],
    "offer": [],
-   "latest": "75acfb2b78f5ae42"
+   "latest": "7fa7dac55aee584c"
   },
   "mb-eqv": {
    "n_30d": 0,
@@ -947,38 +947,17 @@
    "competitors": [
     "yangwang-u8"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "0148c4f0c14b8662",
-   "title": "BYD Sealion 8 goes electric! Seven-seat Atto 8 EV revealed with 653km range and nine-minute charging",
-   "source": "EV Central",
-   "t": "2026-10-19T01:28:20+00:00",
-   "competitors": [
-    "byd-atto3",
-    "byd-sealion8"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "f05fc111c7ac03b7",
-   "title": "BYD Yangwang U8 luxury SUV one step closer to an Australian launch",
-   "source": "CarExpert",
-   "t": "2026-10-19T01:23:00+00:00",
-   "competitors": [
-    "yangwang-u8"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 68,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 39,
+   "count": 38,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -993,7 +972,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 54,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1008,27 +987,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 32,
+   "count": 26,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 31,
+   "count": 32,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 47,
+   "count": 54,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 59,
+   "count": 57,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 19,
+   "count": 18,
    "note": ""
   },
   "carexpert": {
@@ -1092,14 +1071,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1112,24 +1091,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1363,7 +1342,7 @@
   },
   "beep-offers-volvo": {
    "ok": true,
-   "count": 3,
+   "count": 4,
    "note": ""
   },
   "beep-offers-geely": {
@@ -1503,8 +1482,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 4,
+   "note": "4 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
