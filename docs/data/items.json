@@ -1,5 +1,313 @@
 [
  {
+  "id": "1c6d531b7aee3e97",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · tech-insider.org",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3RUFhTjlkSHJNdnFTUzNIUFpxX1FjRTRVT0dEYlRoNWFyeTVWVXk4OHViU28zWG5vYWFDNnF0dnlXckY2aWpTR1lJUjNZUkxSSVo3N2k1VDEwS3FpNU1SeWJqT3J0bXp6YllReEtxQnJueVk?oc=5",
+  "title": "Zeekr 7X Review 2026: $1,000 Cheaper Than Model Y - tech-insider.org",
+  "text": "Zeekr 7X Review 2026: $1,000 Cheaper Than Model Y tech-insider.org",
+  "author": "",
+  "published": "2026-10-22T10:21:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "982527985ca1ab18",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Advocate | Burnie, TAS",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnVWMzNWMWJNNDZfLUhtN2IxbXpNSXNTd2g1cXJnQm01eVd0d3BCUHhORXVrZDRLZnpnQjRKd2xvek85LTRWVTRSWWJWS0d4TlhrcmJGVnY2Z0lKd0twYmFHOHdQRjNDQXBOUGN0OHAtM3dheVRERlU1WldDbWZ3SWRn?oc=5",
+  "title": "Europe's Zeekr 7GT rival priced - The Advocate | Burnie, TAS",
+  "text": "Europe's Zeekr 7GT rival priced The Advocate | Burnie, TAS",
+  "author": "",
+  "published": "2026-10-22T10:07:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "8fcc8ff40aa77d91",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Edmunds",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITUFZUDh6ZlJESzlJbTd4QVpTNXBoeGpkeVdHVWMzSEJxUEl3ZXVxeDg3SUhtbDZESlY2SUZoYVpFUVdkTldyQzlObTZTeTZVVjU5cklWX2cwcmJnWWp0UGhKTkcwQVBkcWoxUzFaa1VYNHJ1RThheXpCcTgyUQ?oc=5",
+  "title": "2026 Zeekr 7X First Drive Review: Giving the Tesla Model Y a Run for Its Money - Edmunds",
+  "text": "2026 Zeekr 7X First Drive Review: Giving the Tesla Model Y a Run for Its Money Edmunds",
+  "author": "",
+  "published": "2026-10-22T10:07:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "04cf51591c1630fb",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xcdqga/7x_awd_electronic_retractable_hidden_towbar/",
+  "title": "7X AWD electronic retractable hidden towbar options?",
+  "text": "Hi friends, we ordered a Zeekr 7X Performance and was told delivery is January 2027, so possibly a facelift MY27 7X model (dealer uncertain). We're looking for a retractable hidden towbar similar to the Zeekr OEM towbar (which we would go for if money is no object given we've been quoted $3700 for Zeekr OEM towbar plus installation), as the wife has knocked her shins too many times on our current 4WD fixed towbar. Our use case is mostly for 2 adult bikes and 2 kids bikes 5-6 times a year and the odd Bunnings trailer twice a year. Ideally electronically controlled like the OEM towbar which can be hidden when not in use, otherwise something that sits flushed with the rear bumper when not in use so we don't kick it. I've heard of aftermarket towbars like EV Stealth EV Taus towing, tow rite. Are there any aftermarket towbar (or bike racks) users who can comment if their towbar setup (photos appreciated) would be relevant to our needs? Cheers.",
+  "author": "/u/Conscious_Weather_10",
+  "published": "2026-10-22T09:19:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "58e95432391934ae",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GbkdPVWRXUXo1a2t6T1h3N3hqQXpocFd2TFBlclBpSWQ4ZWlDbWRlUGpxTEVua21DMXJjeVBLZnVmY08zVzFJbmFvMEV6aVN6S0g0RVlIQVFERk9icmJ0ZnBIdw?oc=5",
+  "title": "Zeekr Silver car for sale or order in Australia - Carsales",
+  "text": "Zeekr Silver car for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-22T08:59:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "e7e0f5cdae95eb36",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · OneShift by Carousell",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVE1waFBHMTg1eDNOOUpWQVlNUF9FNXNnVkFyaFM1LUZwcUFMdmN0VnhWY2tYejh3RGFjWWlBVGVOekJoVkRVb3I3VGR2dzZpRlBQQVZFc0hsVTlEUElvaHU0TFJBWmJTWktKcXY0SXVPMXMxeWVoeGhlalNoaXhWLVNqdllPZnVPR0gtNzJuN2VYX2g3cFRBdE40NFBUc3ZBNVNTYndZMlkzQ1k?oc=5",
+  "title": "Zeekr 7X Adds Cat A Model To Singapore Line-up, Flagship Gets 500 kW - OneShift by Carousell",
+  "text": "Zeekr 7X Adds Cat A Model To Singapore Line-up, Flagship Gets 500 kW OneShift by Carousell",
+  "author": "",
+  "published": "2026-10-22T06:42:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "f4b3a525a2c06077",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xcaf5y/zeekr_sydney_city/",
+  "title": "Zeekr Sydney city",
+  "text": "Most rude, uninformed salesman I have encountered in years (Alex was his name) . Was offended when we asked about purchasing a space saving spare tyre as we frequently drive in the country and getting a tyre replacement late at night would be almost impossible . Could not and would not even investigate the cost of replacement battery in todays dollars . Had no information nor was willing to find out whether insurance on ev’s is more expensive than hybrids etc. He obviously has a problem with women asking any questions about their cars beyond cosmetic aesthetics. After our bewilderment at his offence of our questions and offering our apology at any misunderstanding he asked us to leave the showroom.Do not go to this dealership. The (especially if you are a female) - the arrogance of this man is extreme",
+  "author": "/u/hlecop",
+  "published": "2026-10-22T05:51:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "service",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [
+   "price_rise"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "0e8c2ed69f813216",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQem1BUHlfUkgxSlhsWEc0eWZyOVNlYWJ6aUJ0ZnlUa2VrUlhDR0NGeEIyRnRzUGVid3BhMVFRaXUtellTSjV4VmFhTTVLR3RJd19RandNMnBWaUxiWjRFY0xDdEhLNVJoNU5GdHZvNEdEUjdzTXFRLWtHSTE2SzJ2NTBoZw?oc=5",
+  "title": "Zeekr Korea begins domestic customer deliveries of mid-size electric SUV '7X'… First vehicle recipient is SK On - 스타뉴스",
+  "text": "Zeekr Korea begins domestic customer deliveries of mid-size electric SUV '7X'… First vehicle recipient is SK On 스타뉴스",
+  "author": "",
+  "published": "2026-10-22T05:49:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "8fae6ab2a909303c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Businesskorea",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81by01LUlKQXNuQ0pSb3pDSkJHTVlQS3pwbnVGcFVKVUh1NjVwQklya2x0VzZfQ0FRSS1VNThKbUc3WUpsSXVGNTNfRzBNY2c2YXg3Zkg0YmtaaWsxTTJPOGpRdHRSRE1hVGFIWGF5UDlpZllk?oc=5",
+  "title": "SK On Takes Delivery Of Zeekr 7X - Businesskorea",
+  "text": "SK On Takes Delivery Of Zeekr 7X Businesskorea",
+  "author": "",
+  "published": "2026-10-22T05:43:43+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
   "id": "40493bdaaef21827",
   "type": "competitor_news",
   "source": "gn-zeekr-1d",
@@ -33,6 +341,43 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "d4cfe1f3d89f32fb",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0JCUFVlb2lsZElkLXlzNGJJZGNmRGFKa0dhTmcwMERIS0VJc3Z6ODdEbjNyUDhvRzBlSTVBTUdLYVZhNEtwbDNZUGFNd0JWRFpBSE1NTkJGU2dWUk5GQUJWZW1YT29raTVhQ0tZYkhYNnNnMGlRR1JkbUJ0Sk9QRmVJVXpYc3NuUDJpNXNLLVVTR09BcFZTQzZROHBsQ0kwTGNIZDlYbjFKV3RidnNCMkJjaXVENEJCeGNtUFNVZ2hqRjBUX3c?oc=5",
+  "title": "2027 Hyundai Tucson priced: Key new hybrid-only Toyota RAV4 and Nissan X-Trail rival fully detailed at overseas launch - CarsGuide",
+  "text": "2027 Hyundai Tucson priced: Key new hybrid-only Toyota RAV4 and Nissan X-Trail rival fully detailed at overseas launch CarsGuide",
+  "author": "",
+  "published": "2026-10-22T04:46:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "7fa7dac55aee584c",
@@ -73,6 +418,37 @@
   ],
   "scope": "industry",
   "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "946ec5c4e7a7a88c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHpneF80VDRYcjBvYjN5UnFoeFEwejh3eG0ybUNod3dvNE9FNHc1S01PMmVzd0ZoRVdvV0VvT1JFMXpWV3JYamxmeTR3aVdZS3RKTHRWTjlJUkhSY3NSX1FJYkFHbmNyUTA2bEF3MnBZRU1zdXZwRW9MM2VPT0JOZWlpVGVmYWdt?oc=5",
+  "title": "SK On Adopts Zeekr 7X as First Domestic Customer for Chinese EV - 조선일보",
+  "text": "SK On Adopts Zeekr 7X as First Domestic Customer for Chinese EV 조선일보",
+  "author": "",
+  "published": "2026-10-22T03:53:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
   "extra": {},
   "first_seen": "2026-10-22T05:17:14+00:00"
  },
@@ -162,37 +538,6 @@
   "categories": [
    "charging"
   ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-22T05:17:14+00:00"
- },
- {
-  "id": "946ec5c4e7a7a88c",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · 조선일보",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHpneF80VDRYcjBvYjN5UnFoeFEwejh3eG0ybUNod3dvNE9FNHc1S01PMmVzd0ZoRVdvV0VvT1JFMXpWV3JYamxmeTR3aVdZS3RKTHRWTjlJUkhSY3NSX1FJYkFHbmNyUTA2bEF3MnBZRU1zdXZwRW9MM2VPT0JOZWlpVGVmYWdt?oc=5",
-  "title": "SK On Becomes First Domestic Customer for Zeekr 7X - 조선일보",
-  "text": "SK On Becomes First Domestic Customer for Zeekr 7X 조선일보",
-  "author": "",
-  "published": "2026-10-22T02:05:40+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -613,7 +958,7 @@
  {
   "id": "d11889b842b065aa",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0d0OEtrUkRTMEROTHNlUzRJSEs5aGdxZF9SaUlJemhYOVRlWlplUWQ3S0dBYklOejBfM0k1T2l4Y1k0VHNlbzJySEhsZjJJczNmTDlsY0s1MWpoQ0h4ZlQ2RndyRW5fUzNBU1BYSU13bHVUQXBicDVqRnNSdkVxRFd0YkNCZTIwUmtIVkhCSXhjdG1hN2s3Z21KWjVQaFFRWEE?oc=5",
   "title": "GAC Aion UT Cross EV set for Australia in 2027 - Carsales",
@@ -1539,7 +1884,7 @@
  {
   "id": "0f37aca95c083fcd",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS190ZmxneTRKNXpDWUh5eU1VTE5tbmQ1dkU5M0s3bWpYdWpXdi1jbGVwUjVIUm5qNzFQeFh4WS05SHFEZTdoRVNTVGFZdEZrMkx5S0ZleXVHZm1VR1c5QkhVTGh3Zk1zVzQ0OW5kcEh5X3JhbEdHYUlKUFhDWnROcDZtaVd0VUVqVFV3TFZwTzdDLVFIRjVUVnhyN3M5dXg0Qmh6a01UY1Judw?oc=5",
   "title": "Lexus LFA electric supercar set for Australian debut - Carsales",
@@ -3135,6 +3480,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "2327f00bf26b15fd",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRzR5VnRzUFpOTUpBSFFaTDR4NmVmU1FYcWd2NEk2RGpnMWE0MDd2cE1qUjhtUFJDVURfRnpjdGJfU0N6Y1RwdDdXcE14bEhEbHBxVGpUTkxiOUxnZ2VCbmNjdzV2QXhVNHVQWmEyb1lzMS1EdUM4bklHendGNlBIbkhQc1pJeDdTMHRvNUpKZjhvU1ZGc1hPY3A0Ui1YR19oc20xX0xEZFRoOHBuMDFCUi1zc1NzSDlYR1pya2E5S3lWTFAwRWc?oc=5",
+  "title": "Reborn 2027 Freelander 8 detailed at global reveal as fresh Geely Battleship, GWM Tank 300 plug-in hybrid rival gets closer to Australian launch - CarsGuide",
+  "text": "Reborn 2027 Freelander 8 detailed at global reveal as fresh Geely Battleship, GWM Tank 300 plug-in hybrid rival gets closer to Australian launch CarsGuide",
+  "author": "",
+  "published": "2026-10-20T04:38:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "19af34d58af98766",
@@ -6730,6 +7110,72 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "af15aa7c4a27f293",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
+  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
+  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "c0e635b95049027e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
+  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "99ed59d066f99039",
@@ -14732,39 +15178,6 @@
   "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
-  "id": "af15aa7c4a27f293",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
-  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
-  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-09T20:56:25+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
   "id": "cb40097f8e9bd1a7",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -19494,7 +19907,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -19517,7 +19930,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"

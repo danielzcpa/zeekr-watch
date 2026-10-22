@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-22T05:17:14+00:00",
- "duration_s": 395.1,
- "items_total": 938,
- "new_this_run": 230,
+ "generated": "2026-10-22T10:32:20+00:00",
+ "duration_s": 383.9,
+ "items_total": 950,
+ "new_this_run": 165,
  "counts": {
-  "complaints_24h": 0,
+  "complaints_24h": 1,
   "complaints_7d": 10,
-  "complaints_30d": 38,
+  "complaints_30d": 39,
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 5,
-  "competitor_news_7d": 117,
+  "competitor_news_7d": 119,
   "launch_signals_7d": 25,
   "offer_signals_7d": 2,
-  "zeekr_news_7d": 84,
-  "offer_page_changes_7d": 5
+  "zeekr_news_7d": 88,
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -117,7 +117,7 @@
    "date": "2026-10-09",
    "complaints": 1,
    "competitor_news": 10,
-   "zeekr_news": 3
+   "zeekr_news": 2
   },
   {
    "date": "2026-10-10",
@@ -165,7 +165,7 @@
    "date": "2026-10-17",
    "complaints": 1,
    "competitor_news": 32,
-   "zeekr_news": 9
+   "zeekr_news": 11
   },
   {
    "date": "2026-10-18",
@@ -182,7 +182,7 @@
   {
    "date": "2026-10-20",
    "complaints": 2,
-   "competitor_news": 17,
+   "competitor_news": 18,
    "zeekr_news": 29
   },
   {
@@ -193,9 +193,9 @@
   },
   {
    "date": "2026-10-22",
-   "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 4
+   "complaints": 1,
+   "competitor_news": 12,
+   "zeekr_news": 11
   }
  ],
  "categories_30d": [
@@ -209,37 +209,37 @@
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 14
+   "n": 15
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 11
+   "n": 12
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 11
+   "n": 12
   },
   {
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 10
+   "n": 11
   },
   {
    "key": "sales",
    "zh": "销售体验",
    "en": "Sales experience",
-   "n": 5
+   "n": 6
   },
   {
    "key": "price",
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
-   "n": 3
+   "n": 4
   },
   {
    "key": "safety",
@@ -255,7 +255,7 @@
   "X": 1
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 13,
+  "Reddit r/Zeekr7xAustralia": 14,
   "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
@@ -879,13 +879,6 @@
    "t": "2026-10-20T16:50:49+00:00"
   },
   {
-   "kind": "complaint_high",
-   "id": "c4b444706a164572",
-   "title": "1★ · Same issues with entry via the app. 1. Open the app 2. Zeekr",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-10-20T08:21:39+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "2c67435d1d334093",
    "title": "Aussie debut: Sensational electric Lexus LFA supercar heads to Flemington as production version takes shape",
@@ -937,16 +930,6 @@
     "byd-seal",
     "mazda-6e"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "f658b7a5cfd318c7",
-   "title": "1180 hp BYD Yangwang U8 which can float moves closer to Australian launch - The Supercar Blog",
-   "source": "Google News · The Supercar Blog",
-   "t": "2026-10-19T06:30:40+00:00",
-   "competitors": [
-    "yangwang-u8"
-   ]
   }
  ],
  "source_status": {
@@ -957,12 +940,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 38,
+   "count": 23,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -987,27 +970,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 26,
+   "count": 36,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 32,
+   "count": 35,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 54,
+   "count": 62,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 57,
+   "count": 60,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 18,
+   "count": 15,
    "note": ""
   },
   "carexpert": {
@@ -1036,14 +1019,14 @@
    "note": "HTTP 403"
   },
   "chasingcars": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 404"
   },
   "chasingcars-zeekr": {
-   "ok": true,
-   "count": 10,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "empty/bozo"
   },
   "whichcar": {
    "ok": true,
@@ -1137,7 +1120,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1482,8 +1465,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 4,
-   "note": "4 new; 38/38 feeds ok"
+   "count": 0,
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
