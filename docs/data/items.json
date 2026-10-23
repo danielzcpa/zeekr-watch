@@ -1,5 +1,124 @@
 [
  {
+  "id": "fa15f25f5765628d",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/denza-n9-luxury-three-row-plug-in-hybrid-suv-one-step-closer-to-australia",
+  "title": "Denza N9: Luxury three-row, plug-in hybrid SUV one step closer to Australia",
+  "text": "BYD’s premium Denza brand is continuing to expand beyond the rugged off-road SUVs it debuted in Australia with, with a luxurious unibody SUV expected to join the local lineup. Customer deliveries of the Denza brand commenced early this year, with the large B5 and B8 off-road SUVs followed shortly thereafter by the D9 people mover. Denza has also confirmed the local launch of the sleek Z9 GT electric shooting brake before the end of 2026. Now, the Denza N9 has received Australian Design Rule (ADR) certification, paving the way for a local launch. We’ve contacted Denza Australia to confirm when it’ll be launched locally. A plug-in hybrid (PHEV) large SUV with car-like unibody construction, the N9 measures 5258mm long, 2030mm wide and 1830mm tall on a 3125mm wheelbase. The approval documents list a choice of six- or seven-seat layouts. Plug-in hybrid SUVs of this size are common in China, but the N9 will effectively have no direct competitors here. It’s larger and more luxurious than PHEV versions of the Kia Sorento and Mazda CX-80 , plus BYD’s own Sealion 8 . That leaves just the Volvo XC90 , though despite offering PHEV power and a third row of seating, it’s significantly shorter at",
+  "author": "William Stopford",
+  "published": "2026-10-23T00:44:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-z9gt",
+   "byd-sealion8"
+  ],
+  "brands": [
+   "volvo",
+   "kia",
+   "byd",
+   "mazda",
+   "denza"
+  ],
+  "categories": [
+   "quality",
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T01:23:32+00:00"
+ },
+ {
+  "id": "bc8df5015c024312",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3h0T1B6S29oZlVMYXVsSDBNNElhSU9IdVUxRXZta0tiQW9lR0MxeFkzRk8ycEZ4eGVuM0hpWnd5ckZxUEJMTk5BYlotUmIxbUlITmhwQ2pXcmtwZDlVQWNqaHRNV3FDUXBlbGVWcDhtUlBvaVhPRmQ2em1fRkJhZ1hkdXJILUZQNmFESGlCa3hsa1gxSVAxbGdOYzVJYk9YV0kzNU9rbzF4Q1I4bkh4alVUU3p3ZHBGT2V1TENCSFFXTENr?oc=5",
+  "title": "Toyota 'aiming to be behind': Polestar Australia boss said Toyota will still be trailing EV and PHEV sales despite 2026 Toyota bZ4X, RAV4 PHEV and more coming - CarsGuide",
+  "text": "Toyota 'aiming to be behind': Polestar Australia boss said Toyota will still be trailing EV and PHEV sales despite 2026 Toyota bZ4X, RAV4 PHEV and more coming CarsGuide",
+  "author": "",
+  "published": "2026-10-23T00:09:08+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "polestar",
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T01:23:32+00:00"
+ },
+ {
+  "id": "5366678f10e4adb3",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/tesla-cybertruck-officially-axed-for-australia/",
+  "title": "Tesla Cybertruck officially axed for Australia: Deposits refunded seven years after orders opened",
+  "text": "It’s official: the Tesla Cybertruck is not coming to Australia. Tesla has today written to Australians and New Zealanders who reserved the stainless steel electric ute, confirming its plans to build a right-hand drive version have been scrapped. An email sent this morning (Friday, October 23, 2026) finally put the full stop on any chances for the radical American pick-up truck, as many had expected. READ MORE: Tesla bounces back with record Q2 deliveries: But what’s going on with the share price? READ MORE: Tesla axes pricing! Plummeting Cybertruck sales prompt huge discounts READ MORE: Local Tesla boss predicts Cybertruck could come to Australia as early as 2026 READ MORE: “It was never off the table”: Tesla Australia briefed on ADR requirements to launch Cybertruck as electric beast firms for our market READ MORE: Tesla Cybertruck driven! Behind the wheel of the outlandish truck that Elon built READ MORE: 2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy? “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have been discontinued,” the email reads. Reservations will be cancelled and deposits refunded in",
+  "author": "Toby Hagon",
+  "published": "2026-10-22T23:40:17+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T01:23:32+00:00"
+ },
+ {
   "id": "23b2bcfb47c4bea8",
   "type": "competitor_news",
   "source": "carexpert",
@@ -3758,6 +3877,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "2cffc8416e1e7b4a",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · The Supercar Blog",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlozVzNJbVBLOW1OZ0dNRVFPdXQ1by1XRGZKblEtbVpLR2dnWXRZa0QxRGM3eDVBZWptbVd0b1d3TkxsMFNPaExLOG5xTEhQNTBZNnFBcWZuWEQ0eHhFVkstNXFCRjlXZEM5R0xjZjJaX0hfZmExRThJb1FYTXFHaURnQVhNOHpaajhsRDA0Z3dETW8wMjRtVmJwTVk1Z00xWjZSUnNPWHFYVnMw?oc=5",
+  "title": "Audi A6 Allroad confirmed for Australia; gets PHEV option for the first time - The Supercar Blog",
+  "text": "Audi A6 Allroad confirmed for Australia; gets PHEV option for the first time The Supercar Blog",
+  "author": "",
+  "published": "2026-10-20T10:04:40+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T01:23:32+00:00"
  },
  {
   "id": "902cddce6630082c",
@@ -12593,6 +12745,44 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "d64406241a9f2014",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDN4NDZ2UkRIQzJIYTR5eUNMbFZvLTRMSWJsaG5PLTJscjVUMnRxOEIzZG5ycnVBT05FQ0EzN2hhTzdRVmVURHRTQ3psQUU3RzZuNmh5Tjh5Zmh4R2NNREo1cmxiVmN3aHcxMFYxb2MyTEJoVTNWMVhZY2o2Ql9tSko2SlZ0d3o2cjVZdlV1SHFQd3RGZ3o1S1I3SzV6TlJJUmZrLUg1eFZkRG5Wc3RoU3hEQVhEbzdfaVlqcVAyeU80TVVO?oc=5",
+  "title": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X - CarsGuide",
+  "text": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X CarsGuide",
+  "author": "",
+  "published": "2026-10-13T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [
+   "xpeng-g9l",
+   "wey-v9x"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "404f8ecafa96e61b",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -13342,44 +13532,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "d64406241a9f2014",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarsGuide",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDN4NDZ2UkRIQzJIYTR5eUNMbFZvLTRMSWJsaG5PLTJscjVUMnRxOEIzZG5ycnVBT05FQ0EzN2hhTzdRVmVURHRTQ3psQUU3RzZuNmh5Tjh5Zmh4R2NNREo1cmxiVmN3aHcxMFYxb2MyTEJoVTNWMVhZY2o2Ql9tSko2SlZ0d3o2cjVZdlV1SHFQd3RGZ3o1S1I3SzV6TlJJUmZrLUg1eFZkRG5Wc3RoU3hEQVhEbzdfaVlqcVAyeU80TVVO?oc=5",
-  "title": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X - CarsGuide",
-  "text": "XPeng confirms luxe new arrival: 2026 XPeng G9L coming to Australia as alternative to Wey V9X and Zeekr 8X CarsGuide",
-  "author": "",
-  "published": "2026-10-13T00:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X"
-  ],
-  "competitors": [
-   "xpeng-g9l",
-   "wey-v9x"
-  ],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "2c8e385c13663939",
@@ -19856,20 +20008,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -21569,6 +21719,39 @@
    "thumbs": 3
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "69f806714a0ce5cc",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUU9IOThDWjFMd29vSnB6MTU0Nm96Z3FnaTJvR2NDcFVHRGRVbElFYWxPc3AxMVNMSzY0YUFtWWZORWU2QTZDa1hHOG1XY1o0cU1kNmxHbFd4QS1sUVBVbVliYkJLTWFWTUFPVGxBZEszazEySFpSQmk3ZGY5ZkljNElFMmRZOERyVnJQdEFxYXgzUEUwaDBXQzFCYUJZWmhpUWxXYWN1ZWc?oc=5",
+  "title": "ZEEKR 7X review 2026: charging from another world for the price of an Octavia RS - Autohled.cz",
+  "text": "ZEEKR 7X review 2026: charging from another world for the price of an Octavia RS Autohled.cz",
+  "author": "",
+  "published": "2026-09-19T14:29:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-23T01:23:32+00:00"
  },
  {
   "id": "fb44b6b62a3bb9b1",
@@ -23413,7 +23596,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 7
+   "thumbs": 8
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -26521,7 +26704,7 @@
   "title": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue - BigGo Finance",
   "text": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue BigGo Finance",
   "author": "",
-  "published": "2026-08-22T23:10:55+00:00",
+  "published": "2026-08-22T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -33406,6 +33589,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "e80f29b2267fdb2a",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TMlJEYkZKOEJBcDQ4MVprNF9VVFd2RmVOWVpRUklMZFpLRHdXZlhRcTFyd3ZidFVwN05Md3hNdG9Lc2NUYk1xZWNsVEljYzlZYUZXei1Yel94S3BIVEl1ajlUMA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-04-30T04:51:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T01:23:32+00:00"
  },
  {
   "id": "ce70a7fe0751ea62",
