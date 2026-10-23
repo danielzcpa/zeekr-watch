@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-23T06:26:01+00:00",
- "duration_s": 338.3,
- "items_total": 983,
- "new_this_run": 224,
+ "generated": "2026-10-23T11:58:14+00:00",
+ "duration_s": 371.3,
+ "items_total": 987,
+ "new_this_run": 217,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
-  "complaints_30d": 38,
+  "complaints_30d": 37,
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 123,
+  "competitor_news_7d": 124,
   "launch_signals_7d": 26,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 93,
@@ -153,7 +153,7 @@
    "date": "2026-10-16",
    "complaints": 3,
    "competitor_news": 13,
-   "zeekr_news": 13
+   "zeekr_news": 14
   },
   {
    "date": "2026-10-17",
@@ -183,19 +183,19 @@
    "date": "2026-10-21",
    "complaints": 0,
    "competitor_news": 15,
-   "zeekr_news": 12
+   "zeekr_news": 13
   },
   {
    "date": "2026-10-22",
    "complaints": 1,
    "competitor_news": 17,
-   "zeekr_news": 21
+   "zeekr_news": 22
   },
   {
    "date": "2026-10-23",
    "complaints": 0,
-   "competitor_news": 7,
-   "zeekr_news": 2
+   "competitor_news": 8,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,13 +203,13 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 25
+   "n": 24
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 15
+   "n": 14
   },
   {
    "key": "charging",
@@ -221,7 +221,7 @@
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 12
+   "n": 11
   },
   {
    "key": "quality",
@@ -249,13 +249,13 @@
   }
  ],
  "models_30d": {
-  "7X": 14,
+  "7X": 13,
   "7GT": 4,
   "009": 1,
   "X": 1
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 13,
+  "Reddit r/Zeekr7xAustralia": 12,
   "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
@@ -472,7 +472,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 7,
+   "n_30d": 6,
    "launch": [
     "0ea6624a635cd203",
     "f4537ddeee79ee40",
@@ -935,12 +935,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 67,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -970,17 +970,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 39,
+   "count": 29,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 36,
+   "count": 34,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 73,
+   "count": 49,
    "note": ""
   },
   "gn-brands-eu": {
@@ -990,7 +990,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 24,
+   "count": 29,
    "note": ""
   },
   "carexpert": {
@@ -1120,7 +1120,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1224,9 +1224,9 @@
    "note": "via mirror"
   },
   "beep-kia/ev5": {
-   "ok": true,
-   "count": 4,
-   "note": "via mirror"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403; mirror HTTP 500"
   },
   "beep-smart/5": {
    "ok": true,
@@ -1270,8 +1270,8 @@
   },
   "beep-prices": {
    "ok": true,
-   "count": 25,
-   "note": "25 models"
+   "count": 24,
+   "note": "24 models"
   },
   "beep-offers-mercedes-benz": {
    "ok": true,

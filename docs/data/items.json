@@ -1,5 +1,73 @@
 [
  {
+  "id": "7e8ba9f568dae339",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Electric Vehicles",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDdxUUpONVFJZ2U5MlpKNFVqWlNDd1N5VWxja2hiU0x4RlpINDNmZVhwSDl3X2g0d1ppQnNVVER0OFM1X29ndnZTSExOaXF0UmJleEpmLUdwdGJENDQyMFJTVjhwTGhIN1NhS1Z4OEN3SHVUU2VnaFJzS0YtYnJBbzJPYUxmTXFHeFVHSWN4cW11d3AtS1VmSzNQWVRBTFMyUnhkWkZIcVdKdw?oc=5",
+  "title": "Tesla Scraps Cybertruck for Australia and New Zealand, Refunds Deposits - Electric Vehicles",
+  "text": "Tesla Scraps Cybertruck for Australia and New Zealand, Refunds Deposits Electric Vehicles",
+  "author": "",
+  "published": "2026-10-23T10:24:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T11:58:14+00:00"
+ },
+ {
+  "id": "fef728660c0fc909",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · DANAMIC",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWhyUjRfUWkxZ2lZNlZQSTJYSjdUYmFwdFY2dHdUNWluU0x2V3A4amViWE5MTWw3OHA4RF9YTktzQ3ZZZ051ekZ2LVlGdmlsMTl1REVHckRBbVAzZFdtaTBGMU5ZZDRXcVNlb1I4VU15bC1XdzJBZDBhXzgyalY3ak1GUFBqeFB5YWFocDY5VWh1cGd3dTZka3loY2piNkk?oc=5",
+  "title": "The Zeekr 7X Cat A Has 100 kW and a 598 km City Range - DANAMIC",
+  "text": "The Zeekr 7X Cat A Has 100 kW and a 598 km City Range DANAMIC",
+  "author": "",
+  "published": "2026-10-23T07:35:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-23T11:58:14+00:00"
+ },
+ {
   "id": "dba085ae5a42f62c",
   "type": "competitor_news",
   "source": "carexpert",
@@ -223,7 +291,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -249,7 +317,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T06:26:01+00:00"
@@ -476,6 +544,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-22T19:23:58+00:00"
+ },
+ {
+  "id": "dc80e41292c11f7a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkFieUs1SExzZDNJN3RKVlkzWThRSmpKUmo1VXk5X2FQemYtZ1BPTzZNSnZkQnpra0IxY0FCOUxYcjd3WFhIT0xjUzlRX3owU1ZVQzduVUt2RHZEbGZxMmgtVVBDOGE4RGRfMmlrNmdxNEF1MTdJcmFjN0FTZlM3WU5nVS0yczZnU01Ha095dHFjUFNsWWdLYlRXN0hBSEhabUNQNktsclF0NWxucWlaSA?oc=5",
+  "title": "Zeekr SUV cars with kilometres under 20,000km with electric engine range over 600km for sale in Australia - Carsales",
+  "text": "Zeekr SUV cars with kilometres under 20,000km with electric engine range over 600km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-22T14:57:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T11:58:14+00:00"
  },
  {
   "id": "88d4335139f234a5",
@@ -2090,6 +2189,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-21T21:56:09+00:00"
+ },
+ {
+  "id": "07d9d6deb312d2ba",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenNVblhwMXpNQ0FGZEJtNXpkN085TkJNT19NZHh2N3NZdXFRZnZtNWRkVmd5akhDYkJSdXdSMUFJZTJwVHhXbEY3WUVNcHFmSE0zbUJXOXcxUU5ndU1vY1g0NVpYZWF0NXRqWWFJRHB2MTJTMTgzREpUekRodzIzNGhSOG1Xamx5SkNpeFB6QW8wTnhBYzZ2dmdsekg5WnRGN0JEakktdkdSR0RROU43UA?oc=5",
+  "title": "Zeekr cars between $45,000 & $50,000 with electric engine range over 200km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $45,000 & $50,000 with electric engine range over 200km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T15:53:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T11:58:14+00:00"
  },
  {
   "id": "8defc78fc17ad815",
@@ -4262,7 +4394,7 @@
   "au": true,
   "extra": {
    "version": "1.6.7",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-10-21T09:13:15+00:00"
  },
@@ -8318,6 +8450,39 @@
   "first_seen": "2026-10-17T04:09:34+00:00"
  },
  {
+  "id": "f9f02088f2898a7e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMW0zSDRzZEE2c0k2LUF3ckZweFRQbC02WjJ6aWZpRXk0ajFxTEptaTh2cjJGZENNV3pvclpxQ0ZlR1RGU2FtdTBXcTZJX0ROMXItQWxaYnZ6WFRRMzU1d1hFRkVIVmdMSEhKU2F3V09GckZLRk1fYmNLdVQ4TVlkQkNhZUk?oc=5",
+  "title": "Zeekr cars that are brands from China between $80,000 & $90,000 for sale or order in Australia - Carsales",
+  "text": "Zeekr cars that are brands from China between $80,000 & $90,000 for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-16T21:20:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T11:58:14+00:00"
+ },
+ {
   "id": "388ef281d54e5664",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -8872,7 +9037,7 @@
  {
   "id": "14be5849733d765f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU0xalJSc3J0Q3dWdkc5TzJsQkg1WHRteTUxVUp4S29zeTAyRFBlSGcxZUhTYjZreVJGdXdXR1RqbTZqSThlWERUb0E2akFGYy1fTHQ5Ty1DV0VXLTdGVjlPRkkwOFRsMjFNRXFqdjY1MGtOcEFqNHZsVE5nZlp4cjhrbjl4aWR4ODRQVDhCdFFiU29mLVRBdkh4Tmo0VDlQZEZEYmhfMTdlZjJCcG5nUnBNcGdaWl9KaWR6TzhR?oc=5",
   "title": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia - CarsGuide",
@@ -10915,7 +11080,7 @@
  {
   "id": "336faeaa646cb73a",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Airport Suppliers",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTMtYWtNaWxiYjVGWllOdXJndHgySDZ1dDlIMnFldDFxTmV2WWpLS3U4REpLbW91ZHZlLXlkNU5CWTZPTVJ5bXd6ODNvdFMyRHBLRVNIb3VpMk9NM0FFQnBtaGppMHQzcVZBaW9uVjIxd3ZiY1B3elpCVVhnNzdtaGxIQTBlcWhFNGR5ekxFVnNSWmhEdldlNGJ5X2tBc0p4Z2c?oc=5",
   "title": "Zeekr debuts at Sydney Airport's T3 Domestic - Airport Suppliers",
@@ -23918,7 +24083,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 8
+   "thumbs": 9
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -34043,38 +34208,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T09:14:05+00:00"
- },
- {
-  "id": "1313a151d691d8d3",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmxZQ29NdWx0a1dBZTM2cDNwMVVMVG5heF8yWjExeUNPcmJPOGFtT2xpZU1sY3ZaazlITXpYam83QmRVZmtSVm5kdDBDRm4ybUp5eEphOUpPSXZzRGE1eVpHVGVnZVlWTXJfaVhfei1VajhnMUNua3BjX1MxaWhUZXRpV0xHSjRYdm42RjUtMjAxQUJCUUgxcmZvamFKd3R3NWJSeUtZZ0FEUQ?oc=5",
-  "title": "Zeekr 9X hybrid locked in for Australia - Carsales",
-  "text": "Zeekr 9X hybrid locked in for Australia Carsales",
-  "author": "",
-  "published": "2026-04-26T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
  }
 ]
