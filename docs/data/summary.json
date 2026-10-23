@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-23T20:17:57+00:00",
- "duration_s": 287.7,
- "items_total": 994,
- "new_this_run": 198,
+ "generated": "2026-10-23T23:24:09+00:00",
+ "duration_s": 341.6,
+ "items_total": 995,
+ "new_this_run": 164,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 9,
+  "complaints_7d": 7,
   "complaints_30d": 37,
-  "high_7d": 3,
+  "high_7d": 2,
   "medium_7d": 2,
-  "low_7d": 4,
-  "competitor_news_7d": 122,
+  "low_7d": 3,
+  "competitor_news_7d": 120,
   "launch_signals_7d": 24,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 92,
@@ -195,7 +195,7 @@
    "date": "2026-10-23",
    "complaints": 0,
    "competitor_news": 10,
-   "zeekr_news": 5
+   "zeekr_news": 6
   }
  ],
  "categories_30d": [
@@ -934,12 +934,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -964,17 +964,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 59,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 32,
+   "count": 30,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 62,
+   "count": 52,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1053,24 +1053,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,

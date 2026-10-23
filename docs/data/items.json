@@ -1,5 +1,34 @@
 [
  {
+  "id": "756a1f49ac710933",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDctcDdQaG85d3F2TGMxSE1QeU9wNVFmNUdSX08yTVMxSXRzX3c4MFpsTTVLb2tWSEhpeEFfUW1FUWpRR2hYVkgydFNZR2dNNGhoeEcxQmhtQ3M2M3dfMWtaTkZFMloxcGdsTkVCMENXOWJpWjBMOW1PNEtwMFNjT1F1NnZkbmFMeS1RV1JRbm1lWER1MGFrN3dlemtPUQ?oc=5",
+  "title": "Chery's plan to take on Zeekr in Australia - St George & Sutherland Shire Leader",
+  "text": "Chery's plan to take on Zeekr in Australia St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-10-23T22:10:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T23:24:09+00:00"
+ },
+ {
   "id": "99a15c6032213e12",
   "type": "competitor_news",
   "source": "carexpert",
@@ -462,7 +491,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -21296,7 +21325,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -21319,7 +21348,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
