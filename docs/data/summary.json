@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-23T01:23:32+00:00",
- "duration_s": 314.2,
- "items_total": 973,
- "new_this_run": 214,
+ "generated": "2026-10-23T06:26:01+00:00",
+ "duration_s": 338.3,
+ "items_total": 983,
+ "new_this_run": 224,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 0,
   "complaints_7d": 9,
-  "complaints_30d": 39,
+  "complaints_30d": 38,
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 122,
-  "launch_signals_7d": 25,
+  "competitor_news_7d": 123,
+  "launch_signals_7d": 26,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 93,
   "offer_page_changes_7d": 4
@@ -92,13 +92,13 @@
   {
    "date": "2026-10-06",
    "complaints": 1,
-   "competitor_news": 1,
+   "competitor_news": 2,
    "zeekr_news": 5
   },
   {
    "date": "2026-10-07",
    "complaints": 1,
-   "competitor_news": 3,
+   "competitor_news": 4,
    "zeekr_news": 2
   },
   {
@@ -110,13 +110,13 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 10,
+   "competitor_news": 12,
    "zeekr_news": 2
   },
   {
    "date": "2026-10-10",
    "complaints": 0,
-   "competitor_news": 5,
+   "competitor_news": 4,
    "zeekr_news": 4
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-23",
    "complaints": 0,
-   "competitor_news": 2,
-   "zeekr_news": 0
+   "competitor_news": 7,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 26
+   "n": 25
   },
   {
    "key": "service",
@@ -227,7 +227,7 @@
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 11
+   "n": 10
   },
   {
    "key": "sales",
@@ -249,13 +249,13 @@
   }
  ],
  "models_30d": {
-  "7X": 15,
+  "7X": 14,
   "7GT": 4,
   "009": 1,
   "X": 1
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 14,
+  "Reddit r/Zeekr7xAustralia": 13,
   "Google Play (AU)": 10,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
@@ -333,17 +333,16 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 15,
+   "n_30d": 16,
    "launch": [
+    "dba085ae5a42f62c",
     "0740f7c371cf05aa",
     "39ee8a224f7f89bb",
     "5ed70c4b9f6db41c",
     "8b84f73c39185863"
    ],
-   "offer": [
-    "a0bad462fa5ad448"
-   ],
-   "latest": "40493bdaaef21827"
+   "offer": [],
+   "latest": "dba085ae5a42f62c"
   },
   "xpeng-g6": {
    "n_30d": 1,
@@ -424,14 +423,14 @@
    "latest": "ca6819fe95ffefd8"
   },
   "deepal-s07": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "beacea688be7f8ba"
    ],
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "558458ec76b1b799"
+   "latest": "85171bd18dc516a7"
   },
   "bmw-ix1": {
    "n_30d": 0,
@@ -487,8 +486,9 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 12,
+   "n_30d": 13,
    "launch": [
+    "dba085ae5a42f62c",
     "5366678f10e4adb3",
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -498,10 +498,9 @@
    "offer": [
     "5366678f10e4adb3",
     "347f60946babed57",
-    "d2af0ef5c3bba679",
-    "a0bad462fa5ad448"
+    "d2af0ef5c3bba679"
    ],
-   "latest": "5366678f10e4adb3"
+   "latest": "dba085ae5a42f62c"
   },
   "polestar-2": {
    "n_30d": 2,
@@ -512,7 +511,7 @@
    "latest": "feb6d80cba4a3a26"
   },
   "byd-seal": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -521,8 +520,7 @@
    ],
    "offer": [
     "347f60946babed57",
-    "d2af0ef5c3bba679",
-    "a0bad462fa5ad448"
+    "d2af0ef5c3bba679"
    ],
    "latest": "4362e9a45be33f4e"
   },
@@ -547,19 +545,24 @@
   "mazda-6e": {
    "n_30d": 3,
    "launch": [
+    "86946539d4c4b99b",
     "4362e9a45be33f4e",
     "c1d73282b7bf78ea"
    ],
    "offer": [
-    "a0bad462fa5ad448"
+    "86946539d4c4b99b"
    ],
-   "latest": "4362e9a45be33f4e"
+   "latest": "86946539d4c4b99b"
   },
   "mb-cla-ev": {
-   "n_30d": 0,
-   "launch": [],
-   "offer": [],
-   "latest": null
+   "n_30d": 1,
+   "launch": [
+    "86946539d4c4b99b"
+   ],
+   "offer": [
+    "86946539d4c4b99b"
+   ],
+   "latest": "86946539d4c4b99b"
   },
   "bmw-i4": {
    "n_30d": 1,
@@ -681,8 +684,8 @@
    "launch": [
     "73e54738eb48f209",
     "beea26123443c4b8",
-    "d48e5a49e00d8770",
-    "fdc4d0d3e836ccf5"
+    "fdc4d0d3e836ccf5",
+    "d48e5a49e00d8770"
    ],
    "offer": [
     "d48e5a49e00d8770"
@@ -728,11 +731,12 @@
    "latest": null
   },
   "kia-ev9": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "2c67435d1d334093",
     "b5c47101ca081290",
     "205ea3973e46d6d4",
+    "3f9332c133dcaa96",
     "d03e92850d21bd42"
    ],
    "offer": [
@@ -801,10 +805,11 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "2c67435d1d334093",
     "205ea3973e46d6d4",
+    "3f9332c133dcaa96",
     "d03e92850d21bd42"
    ],
    "offer": [
@@ -852,6 +857,28 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "dba085ae5a42f62c",
+   "title": "Tesla Cybertruck cancelled for Australia, deposits to be refunded",
+   "source": "CarExpert",
+   "t": "2026-10-23T05:54:00+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "tesla-model-3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "86946539d4c4b99b",
+   "title": "Fancy an electric wagon? Mercedes-Benz CLA Shooting Brake electric priced at $72,990 for Australia, just $790 above sedan",
+   "source": "EV Central",
+   "t": "2026-10-23T01:00:00+00:00",
+   "competitors": [
+    "mazda-6e",
+    "mb-cla-ev"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "fa15f25f5765628d",
@@ -903,28 +930,17 @@
    "title": "Polestar 官网政策页面变化（+1 / −1 行）",
    "source": "https://www.polestar.com/au/offers/",
    "t": "2026-10-20T16:50:49+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "2c67435d1d334093",
-   "title": "Aussie debut: Sensational electric Lexus LFA supercar heads to Flemington as production version takes shape",
-   "source": "EV Central",
-   "t": "2026-10-20T03:00:00+00:00",
-   "competitors": [
-    "kia-ev9",
-    "volvo-ex90"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 67,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 23,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -939,7 +955,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 54,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -954,17 +970,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 39,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 28,
+   "count": 36,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 75,
+   "count": 73,
    "note": ""
   },
   "gn-brands-eu": {
@@ -974,7 +990,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 25,
+   "count": 24,
    "note": ""
   },
   "carexpert": {
@@ -1003,9 +1019,9 @@
    "note": "HTTP 403"
   },
   "chasingcars": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 404"
+   "ok": true,
+   "count": 40,
+   "note": ""
   },
   "chasingcars-zeekr": {
    "ok": false,
@@ -1038,14 +1054,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1060,7 +1076,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1104,7 +1120,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {

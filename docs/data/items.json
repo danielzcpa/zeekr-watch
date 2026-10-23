@@ -1,5 +1,260 @@
 [
  {
+  "id": "dba085ae5a42f62c",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/tesla-cybertruck-cancelled-for-australia-deposits-to-be-refunded",
+  "title": "Tesla Cybertruck cancelled for Australia, deposits to be refunded",
+  "text": "The Tesla Cybertruck electric pickup won't be coming to Australia or New Zealand, with the automaker telling local deposit holders today their money would be refunded. A letter sent to customers earlier today, widely shared across social media, confirmed the controversial pickup wouldn't be heading Down Under. “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have been discontinued,” the letter said. “To thank you for your early support, we’d like to offer you a complimentary one-year FSD (Full Self Driving Supervised) subscription when you order a new Tesla Model 3 or Model Y .” FSD (Supervised) is currently priced at $149 per month, making the offer of a 12-month subscription worth $1788. While Tesla Australia hasn't provided any further official comment, the Cybertruck has been removed from its public-facing website. The Cybertruck is manufactured only in left-hand drive and isn't currently offered in any right-hand-drive market. It was revealed in the US in late 2019, with Tesla Australia taking $150 deposits from interested buyers in November that year. In May 2022, the reservation portal on the Australian website was closed and replaced w",
+  "author": "Damion Smy",
+  "published": "2026-10-23T05:54:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "delivery",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "7fa20cfbd9919955",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Torquecafe",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56TUQwVUVHYWxsMl9DczgzMXZpVjd6WUVaSnF0V01iSnd0TGxVZWcwSGJ2LTBXVU9iZ3E1eGJTRV9pVkwxX2J6eEduZTdKcC1WZThpYkhTenZJbnhnMm8zTU41a09CTG5OWUhqNlA0ZmV3c1M0eFZ5LTQ1RDJOQQ?oc=5",
+  "title": "Electric shock: Tesla Cybertruck not coming to Australia - Torquecafe",
+  "text": "Electric shock: Tesla Cybertruck not coming to Australia Torquecafe",
+  "author": "",
+  "published": "2026-10-23T04:04:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "d46fd32b4275b1ff",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IUVJfTmRyTGlpY3pWN0x3WnNGaEg1ejYxUVRXMlpwVk01TFZaUUxoYVhXbHN2TlpwalpYMnFJMWpqT2wwcVowMFI5RmVPVGUtMHYycE82UjlKcmVpa25zcEhSRGVGb2w5?oc=5",
+  "title": "ZEEKR 001 Long Range - Autohled.cz",
+  "text": "ZEEKR 001 Long Range Autohled.cz",
+  "author": "",
+  "published": "2026-10-23T03:24:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "85171bd18dc516a7",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYm5vbmlxSFZobzNYNVJOVEVSejZZeTVpZlBxY0NJeGRXWVN0UmZMRU5XaXJUWWdEb0c4STFLT3plcUQxVWxleGNDUW8wc3UwN0lqQ3diZ3YwR214MDR6MndQc3AyalFiRjdPWDZJTlhqRnhOVjdPYl83QUZ4Rzg0N2t4OGhqUWVsd29raG5GRVRlNXZ1RlcwaWxJS3hGWDN2UF9QeVdsbXgyOU9ja191b3hIclpUMmcyUE1wd0wxbDJzNmV6TlE?oc=5",
+  "title": "Changan takes back control of Deepal in Australia: what does that mean for 2026 Deepal S07, E07 owners, servicing, warranty, parts and more - CarsGuide",
+  "text": "Changan takes back control of Deepal in Australia: what does that mean for 2026 Deepal S07, E07 owners, servicing, warranty, parts and more CarsGuide",
+  "author": "",
+  "published": "2026-10-23T03:08:47+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "deepal-s07"
+  ],
+  "brands": [
+   "deepal"
+  ],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "6c2da7c7005d6e7f",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/worried-about-range-when-towing-with-an-electric-ute-mg-says-there-are-plenty-of-chargers",
+  "title": "Worried about range when towing with an electric ute? MG says there are plenty of chargers",
+  "text": "MG has defended the towing credentials of its new U9 EV electric ute, backing Australia's expanding public charging network to keep owners on the road. \"We towed a 2.8-tonne large caravan from Sydney Metro all the way down to Gerringong, down the South Coast,\" MG Australia product planning manager Kevin Kou told CarExpert. \"Of course, the question might be, ‘Oh, what's the range?’ But we're fairly confident with Australian government initiatives, both federal and state, that they're building out a very confident charging network. \"For us, we will be talking to customers [about how] they should be planning out their journey.\" The U9 EV launches as the only electric ute rated to tow 3.5 tonnes with a braked trailer – more than both the Toyota HiLux BEV (2t) and KGM Musso EV (1.8-2.3t), and on par with the top-selling diesel-powered Ford Ranger . Its WLTP-tested driving range of 430km is also up on the HiLux BEV (245km) and Musso EV (380-420km). However, these electric utes fall well short of many diesel and plug-in hybrid alternatives in the endurance stakes, with some capable of travelling upwards of 800km between stops. This is particularly relevant when towing, as hauling a heavy",
+  "author": "Josh Nevett",
+  "published": "2026-10-23T02:01:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "ford"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "86946539d4c4b99b",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/fancy-an-electric-wagon-mercedes-benz-cla-shooting-brake-electric-priced-at-72990-for-australia-just-790-above-sedan/",
+  "title": "Fancy an electric wagon? Mercedes-Benz CLA Shooting Brake electric priced at $72,990 for Australia, just $790 above sedan",
+  "text": "Mercedes-Benz has priced its electric CLA Shooting Brake for Australia at $72,990 before on-road costs, putting the wagon just $790 above the equivalent CLA 200 electric sedan. Orders for the CLA 200 Shooting Brake electric open on October 22, with the first vehicles expected in Australian showrooms in January 2027. The small premium over the $72,200 sedan buys a longer roofline, a large rear tailgate and more headroom, offering another option for EV buyers seeking practicality without moving into an SUV. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: Mazda 6e and Mercedes-Benz CLA score five stars: So why isn’t ANCAP making a bigger deal about it? READ MORE: 2026 Mercedes-Benz CLA electric Review: 800V tech and impressive range land Merc back in the EV fight READ MORE: Mercedes-Benz GLA EV deep-dive: Just how much does it share with the new Mercedes-Benz CLA EV The Shooting Brake will initially be offered here with one electric powertrain, combining a rear-mounted motor producing 165kW and 335Nm with a two-speed transmission and rear-wheel drive. 2027 Mercedes-Benz CLA Shooting Brake. Mercede",
+  "author": "EV Central team",
+  "published": "2026-10-23T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mazda-6e",
+   "mb-cla-ev"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "mazda"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "safety",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "95c66335ee1f0c71",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
+  "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
+  "text": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD CarsGuide",
+  "author": "",
+  "published": "2026-10-23T00:58:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
   "id": "fa15f25f5765628d",
   "type": "competitor_news",
   "source": "carexpert",
@@ -85,7 +340,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/tesla-cybertruck-officially-axed-for-australia/",
   "title": "Tesla Cybertruck officially axed for Australia: Deposits refunded seven years after orders opened",
-  "text": "It’s official: the Tesla Cybertruck is not coming to Australia. Tesla has today written to Australians and New Zealanders who reserved the stainless steel electric ute, confirming its plans to build a right-hand drive version have been scrapped. An email sent this morning (Friday, October 23, 2026) finally put the full stop on any chances for the radical American pick-up truck, as many had expected. READ MORE: Tesla bounces back with record Q2 deliveries: But what’s going on with the share price? READ MORE: Tesla axes pricing! Plummeting Cybertruck sales prompt huge discounts READ MORE: Local Tesla boss predicts Cybertruck could come to Australia as early as 2026 READ MORE: “It was never off the table”: Tesla Australia briefed on ADR requirements to launch Cybertruck as electric beast firms for our market READ MORE: Tesla Cybertruck driven! Behind the wheel of the outlandish truck that Elon built READ MORE: 2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy? “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have been discontinued,” the email reads. Reservations will be cancelled and deposits refunded in",
+  "text": "It’s official: the Tesla Cybertruck is not coming to Australia. Tesla has today written to Australians and New Zealanders who reserved the stainless steel electric ute, confirming its plans to build a right-hand drive version have been scrapped. An email sent this morning (Friday, October 23, 2026) finally put the full stop on any chances for the radical American pick-up truck, as many had expected. FULL DETAILS: Pricing, reviews and specificatons for all Tesla models on sale in Australia READ MORE: Tesla bounces back with record Q2 deliveries: But what’s going on with the share price? READ MORE: Tesla axes pricing! Plummeting Cybertruck sales prompt huge discounts READ MORE: Local Tesla boss predicts Cybertruck could come to Australia as early as 2026 READ MORE: “It was never off the table”: Tesla Australia briefed on ADR requirements to launch Cybertruck as electric beast firms for our market READ MORE: Tesla Cybertruck driven! Behind the wheel of the outlandish truck that Elon built READ MORE: 2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy? “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have be",
   "author": "Toby Hagon",
   "published": "2026-10-22T23:40:17+00:00",
   "rating": null,
@@ -125,7 +380,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/icaur-v25-ev-to-lead-chery-brands-australian-launch-v27-and-v25-erevs-to-follow",
   "title": "iCaur V25 EV to lead Chery brand's Australian launch, V27 and V25 EREVs to follow",
-  "text": "The electric iCaur V25 SUV will lead the Chery-owned brand’s Australian launch, followed by the larger iCaur V27 extended-range electric (EREV) SUV and an EREV version of the V25. iCaur Australia product manager Derek Tian detailed the rollout to Australian media, including CarExpert , in China. The V25 was previously confirmed for an early-2027 Australian launch . “The V25 BEV will launch first,” Mr Tian said. Asked which model would follow, he replied: “Then V27 EREV.” “I can't give you a confirmed month, but maybe the end of the first quarter,” Mr Tian said of the launch timing. “The V23 may come in the future,” he said of iCaur's smaller electric SUV. The Chinese-market V25 EREV measures 4636mm long, 1920mm wide, and 1855mm tall on a 2820mm wheelbase, placing it in the same broad size class as the Toyota RAV4 . Despite its upright body, round headlights, and tailgate-mounted spare wheel, it uses car-like unibody construction. Mr Tian said the Australian-bound electric V25 would have an 80kWh lithium iron phosphate battery supplied by CATL. “WLTP range is about 368km,” he said. In overseas specification, the larger V27 measures 5045mm long, 1976mm wide, and 1894mm tall, with a 2",
+  "text": "The electric iCaur V25 SUV will lead the Chery-owned brand’s Australian launch, followed by the larger iCaur V27 extended-range electric (EREV) SUV and an EREV version of the V25. The iCAUR product manager detailed the rollout to Australian media, including CarExpert , in China. The V25 was previously confirmed for an early-2027 Australian launch . “The V25 BEV will launch first,” the iCAUR product manager said. Asked which model would follow, he replied: “Then V27 EREV.” “I can't give you a confirmed month, but maybe the end of the first quarter,” the iCAUR product manager said of the launch timing. “The V23 may come in the future,” he said of iCaur's smaller electric SUV. The Chinese-market V25 EREV measures 4636mm long, 1920mm wide, and 1855mm tall on a 2820mm wheelbase, placing it in the same broad size class as the Toyota RAV4 . Despite its upright body, round headlights, and tailgate-mounted spare wheel, it uses car-like unibody construction. The iCAUR product manager said the Australian-bound electric V25 would have an 80kWh lithium iron phosphate battery supplied by CATL. “WLTP range is about 368km,” he said. Australian specifications for the iCaur V25 are yet to be confirm",
   "author": "Alborz Fallah",
   "published": "2026-10-22T20:57:00+00:00",
   "rating": null,
@@ -1518,45 +1773,6 @@
   "first_seen": "2026-10-22T05:17:14+00:00"
  },
  {
-  "id": "e25a7570633a7297",
-  "type": "competitor_news",
-  "source": "chasingcars",
-  "source_name": "Chasing Cars",
-  "url": "https://www.chasingcars.com.au/news/future-cars/mercedes-benz-cla-shooting-brake-2027-all-new-electric-and-hybrid-wagon-twins-hit-showrooms-priced-from-70800/",
-  "title": "Mercedes-Benz CLA Shooting Brake 2027: all-new electric and hybrid wagon twins hit showrooms, priced from $70,800",
-  "text": "This post appeared first on Chasing Cars . Mercedes-Benz Australia has confirmed pricing and specifications of its 2027 CLA Shooting Brake small wagon, launching in a sole ‘200’ grade, albeit with a choice of either hybrid or BEV guises. Hotter versions are expected to follow. The hybrid version, called CLA 200 Shooting Brake, is priced from $70,800 list , while the CLA 200 Shooting Brake electric wants for a $2190 upcharge , at $72,990 before on roads. The Shooting Brake exterior body style is shared with the Coupe (sedan) from the B pillar forward. Rearward, the wagon features a gentle sloping roofline that features standard fit, heat insulated panoramic glass. The wagon version of the CLA sits on the same 2790 wheelbase as the sedan, while measuring 4723mm in length, 1855mm in width and 1469mm in height. Inside, the wagon form’s higher roofline adds 14mm of front and 26mm of rear headroom, with 11mm of added cabin length for a touch more legroom in either row depending on how the front seats are set. The rear doors are also longer for freer access to row two. Both versions offer 455 litres of boot space that converts, in 40:20:40 splitfolding , to 1290 litres , with the electric",
-  "author": "Curt Dupriez",
-  "published": "2026-10-22T01:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [
-   "quality",
-   "software",
-   "charging",
-   "sales"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "price"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T05:17:14+00:00"
- },
- {
   "id": "d11889b842b065aa",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -1621,6 +1837,43 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-22T15:32:33+00:00"
+ },
+ {
+  "id": "e25a7570633a7297",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/mercedes-benz-cla-shooting-brake-2027-all-new-electric-and-hybrid-wagon-twins-hit-showrooms-priced-from-70800/",
+  "title": "Mercedes-Benz CLA Shooting Brake 2027: all-new electric and hybrid wagon twins hit showrooms, priced from $70,800",
+  "text": "Mercedes-Benz Australia has confirmed pricing and specifications of its 2027 CLA Shooting Brake small wagon, launching in a sole ‘200’ grade, albeit with",
+  "author": "",
+  "published": "2026-10-22T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
  },
  {
   "id": "49f13b0060acd4bd",
@@ -5546,83 +5799,6 @@
   "first_seen": "2026-10-19T17:42:44+00:00"
  },
  {
-  "id": "4d08e2ee70b958bc",
-  "type": "competitor_news",
-  "source": "chasingcars",
-  "source_name": "Chasing Cars",
-  "url": "https://www.chasingcars.com.au/reviews/small-cars/kia-k4-gt-line-2026-review/",
-  "title": "Kia K4 GT-Line 2026 Review",
-  "text": "This post appeared first on Chasing Cars . Kia’s petrol-powered K4 hatch appears to be fighting a losing battle against the wave of sharply priced small Chinese EVs. But for the purists, there’s still plenty to like For two decades, Kia ’s Cerato was a popular first car for Australians. Well priced and generously equipped, it was also surprisingly fun to drive, thanks to a local suspension tuning program that delivered sharper reflexes better tailored to local roads and driving tastes. The K4 that replaced it last year was essentially an evolution of what had been a successful formula. But the local automotive landscape has changed almost beyond recognition in the past couple of years and conventional petrol-powered hatchbacks have been left behind as buyers flock to Chinese electric SUVs. This year, the new model is on course to attract roughly half the buyers its Cerato predecessor did in 2024. That’s a shame because the K4 is a handsome, well engineered car that offers the peace of mind and driving pleasure its newer, Chinese electric rivals can’t match. The new model is built on a new platform that is longer, wider and lower than the previous model. Kia says the new chassis is",
-  "author": "Curt Dupriez",
-  "published": "2026-10-19T02:47:35+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "kia"
-  ],
-  "categories": [
-   "quality",
-   "software",
-   "delivery"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
-  "id": "22787ff0aea56990",
-  "type": "news_zeekr",
-  "source": "chasingcars-zeekr",
-  "source_name": "Chasing Cars (Zeekr)",
-  "url": "https://www.chasingcars.com.au/news/car-industry/luxury-chery-brand-exlantix-coming-to-australia-mid-2027-with-es-gt-wagon-and-et-suv-models/",
-  "title": "Luxury Chery brand Exlantix coming to Australia mid-2027 with ES GT wagon and ET SUV models",
-  "text": "This post appeared first on Chasing Cars . Chery will launch yet another new brand in Australia in the middle of 2027, and this time it says it is targeting the likes of Zeekr and Denza . Exlantix – which is known as Exeed in China but was renamed for right-hand drive markets due to a trademark clash with Mitsubishi – will arrive first with the ET SUV and ES GT station wagon , but larger SUVs are coming. Lilian Xiong, CEO of Exeed and Exlantix International, confirmed the two launch models to Chasing Cars at a presentation in Shanghai where late-stage prototypes of right-hand-drive models were shown. Exlantix will be Chery ’s first dedicated luxury brand locally, sitting above its fast-expanding collection of Chery, Omoda , Jaecoo and Lepas models. This means yet another badge for Australian buyers to get their head around – but it also means more direct competition for Geely’s Zeekr – where Xiong used to work, and the brand that Chery acknowledges as occupying the same Chinese premium-car territory. But BMW , Mercedes-Benz and Audi are in their sights, too. Xiong said Australian demand for Tesla and Chinese EVs and plug-in hybrids had helped convinced Chery to concentrate on elect",
-  "author": "Tom Baker",
-  "published": "2026-10-19T02:44:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz",
-   "tesla",
-   "bmw",
-   "audi",
-   "geely",
-   "denza"
-  ],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": -1,
-   "neg_hits": 1,
-   "pos_hits": 0,
-   "label": "negative"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
   "id": "ddb6b01a67c89058",
   "type": "competitor_news",
   "source": "carexpert",
@@ -5766,6 +5942,74 @@
    "charging",
    "delivery"
   ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "4d08e2ee70b958bc",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/reviews/small-cars/kia-k4-gt-line-2026-review/",
+  "title": "Kia K4 GT-Line 2026 Review",
+  "text": "Kia’s petrol-powered K4 hatch appears to be fighting a losing battle against the wave of sharply priced small Chinese EVs. But for the purists, there’s still plenty to like",
+  "author": "",
+  "published": "2026-10-19T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "22787ff0aea56990",
+  "type": "news_zeekr",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/car-industry/luxury-chery-brand-exlantix-coming-to-australia-mid-2027-with-es-gt-wagon-and-et-suv-models/",
+  "title": "Luxury Chery brand Exlantix coming to Australia mid-2027 with ES GT wagon and ET SUV models",
+  "text": "Chery will launch yet another new brand in Australia in the middle of 2027, and this time it says it is targeting the likes of Zeekr and Denza. Exlantix –",
+  "author": "",
+  "published": "2026-10-19T00:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -6573,45 +6817,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-18T11:36:41+00:00"
- },
- {
-  "id": "2b11304cc7aff3eb",
-  "type": "competitor_news",
-  "source": "chasingcars",
-  "source_name": "Chasing Cars",
-  "url": "https://www.chasingcars.com.au/news/electric-vehicles/electric-mercedes-amg-gt-suv-guns-for-cayenne-turbo-ev/",
-  "title": "Electric Mercedes-AMG GT SUV guns for Cayenne Turbo EV",
-  "text": "This post appeared first on Chasing Cars . The Mercedes-Benz performance arm AMG has revealed its first dedicated electric SUV, setting up a battle of the super-rapid super-SUVs with Porsche’s Cayenne Turbo Coupe EV. AMG’s anticipated GT SUV is the high-riding twin to the division’s electric GT four-door coupe, sharing its AMG-EA 800-volt platform, triple electric motors, and many other components including design features. A GT SUV 63 sits at the top of the range, featuring a trio of electric motors to deliver up to 860kW/2000Nm and claiming a 0-100km/h time of 2.7 seconds. Porsche quotes 2.5 seconds for its 850kW Cayenne Turbo Electric using launch control. Mercedes says the GT SUV brings benchmark sustained power delivery, with the range-topping 63 and mid-range 55 producing a continuous output of 530kW. 2027 Mercedes-AMG GT SUV Doubling the sprint speed to 200km/h from standstill sees the AMG edge out the Porsche by a couple of tenths – 7.2 versus 7.4 seconds, while its top speed is 10km/h higher at 270km/h – provided an optional Driver’s Package is added. The AMG GT SUV 63 and mid-range 55 follow the GT coupe with simulated AMG V8 sounds and gearshifts that includes haptic sea",
-  "author": "Jez Spinks",
-  "published": "2026-10-17T17:03:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz",
-   "porsche"
-  ],
-  "categories": [
-   "software",
-   "charging",
-   "delivery",
-   "sales"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-17T18:45:02+00:00"
  },
  {
   "id": "bec200054353ee97",
@@ -7974,6 +8179,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T04:09:34+00:00"
+ },
+ {
+  "id": "2b11304cc7aff3eb",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/electric-vehicles/electric-mercedes-amg-gt-suv-guns-for-cayenne-turbo-ev/",
+  "title": "Electric Mercedes-AMG GT SUV guns for Cayenne Turbo EV",
+  "text": "The Mercedes-Benz performance arm AMG has revealed its first dedicated electric SUV, setting up a battle of the super-rapid super-SUVs with Porsche’s",
+  "author": "",
+  "published": "2026-10-17T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T18:45:02+00:00"
  },
  {
   "id": "11b838bb4f2a74d0",
@@ -10447,46 +10686,6 @@
   "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
-  "id": "d48e5a49e00d8770",
-  "type": "competitor_news",
-  "source": "chasingcars",
-  "source_name": "Chasing Cars",
-  "url": "https://www.chasingcars.com.au/news/new-car-prices/mercedes-benz-gle-2027-debut-phev-power-launches-local-for-german-suv-and-coupe-twins/",
-  "title": "Mercedes-Benz GLE 2027: debut PHEV power launches local for German SUV and Coupe twins",
-  "text": "This post appeared first on Chasing Cars . Mercedes-Benz Australia has released pricing and specification for its first-ever PHEV versions of its large GLE SUV , on sale today from $156,900 list for the ‘SUV’ wagon and from $160,900 list for the Coupe. The headline act for the GLE 450e 4Matic is its 3.0-litre turbo-petrol inline six-cylinder-based plug-in powertrain , bringing 320kW and 680Nm of combined outputs yielding a 0-100km/h claim of 5.6 seconds paired with the capability of towing up to 3.5 tonnes. With its 25.7kWh usable battery and 135kW motor, the 450e 4Matic offers 87km (WLTP) of pure electric driving range in Coupe form and slightly shorter 87km for the wagon, available at highway speeds of up to 140km/h. Its AC charging peak is 11kW though an on-board 60kW DC charging package can be optioned for $1100. Feature highlights include the revised styling rolled out across the GLE lineup earlier this year, with AMG Line exterior and Night Package aesthetics as standard. The SUV fits 20-inch AMG five-spoke wheels while the walk up to the Coupe brings 21-inchers. Suspension is conventional steel springs though buyers can upgrade to Airmatic air suspension for a $3800 upcharge",
-  "author": "Curt Dupriez",
-  "published": "2026-10-14T22:15:33+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "mb-gle"
-  ],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [
-   "quality",
-   "software",
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "price"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
   "id": "fdc4d0d3e836ccf5",
   "type": "competitor_news",
   "source": "gn-ev-launch-au",
@@ -11417,6 +11616,42 @@
   "first_seen": "2026-10-14T00:32:44+00:00"
  },
  {
+  "id": "d48e5a49e00d8770",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/new-car-prices/mercedes-benz-gle-2027-debut-phev-power-launches-local-for-german-suv-and-coupe-twins/",
+  "title": "Mercedes-Benz GLE 2027: debut PHEV power launches local for German SUV and Coupe twins",
+  "text": "Mercedes-Benz Australia has released pricing and specification for its first-ever PHEV versions of its large GLE SUV, on sale today from $156,900 list for Mid-five-second performance and 3.5-tonne towing offered for Benz’s first-ever plug-in large family hauler, priced from $156,900",
+  "author": "",
+  "published": "2026-10-14T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "d75d66f0db0c79db",
   "type": "deal",
   "source": "ozbargain-auto",
@@ -11619,54 +11854,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
- },
- {
-  "id": "a0bad462fa5ad448",
-  "type": "competitor_news",
-  "source": "chasingcars-zeekr",
-  "source_name": "Chasing Cars (Zeekr)",
-  "url": "https://www.chasingcars.com.au/reviews/large-cars/tesla-model-3-rwd-2027-review/",
-  "title": "Tesla Model 3 RWD 2027 Review",
-  "text": "This post appeared first on Chasing Cars . Not quite the full-on, game-changing, low-cost EV we were promised, cut-back Model 3 RWD still delivers superb value Tesla is in the habit of falling short on promises, and that’s how we’ve ended up with its new entry-level car in Australia, the 2027 Model 3 RWD — formerly known as the Model 3 Standard overseas. Cutting straight to it, this new entry-level variant cleaves $9000 off the price of the newly named ‘Premium’ Model 3 RWD by omitting features. Yet Shanghai-built Australian-delivered examples get the same 62.5kWh LFP battery pack, longer 572km driving range , identical rear motor and the eight exterior cameras needed for Tesla’s Full Self-Driving (Supervised) driver-assist tech. Tesla’s price slice makes the Model 3 RWD cheaper than electric rivals including the BYD Seal Dynamic ($46,990), Mazda 6e ($49,990) — not to mention very competitive with the hybrid sedan king in this segment, the Toyota Camry Ascent Sport ($42,990). How has Tesla managed this without compromising performance and driving range? By cutting back on features, of course. Visually, the new Model Y RWD can be identified by its 18-inch ‘Prismata’ wheels which are",
-  "author": "John Law",
-  "published": "2026-10-13T23:00:29+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "tesla-model-y",
-   "tesla-model-3",
-   "byd-seal",
-   "mazda-6e"
-  ],
-  "brands": [
-   "byd",
-   "tesla",
-   "toyota",
-   "mazda"
-  ],
-  "categories": [
-   "software",
-   "charging",
-   "delivery",
-   "price",
-   "sales"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "price_cut",
-   "price"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T00:32:44+00:00"
  },
  {
   "id": "f03d3da9850a290c",
@@ -13492,6 +13679,42 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a0bad462fa5ad448",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/reviews/large-cars/tesla-model-3-rwd-2027-review/",
+  "title": "Tesla Model 3 RWD 2027 Review",
+  "text": "Not quite the full-on, game-changing, low-cost EV we were promised, cut-back Model 3 RWD still delivers superb value",
+  "author": "",
+  "published": "2026-10-13T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T00:32:44+00:00"
+ },
+ {
   "id": "205ea3973e46d6d4",
   "type": "competitor_news",
   "source": "carexpert",
@@ -14859,48 +15082,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "4efab59b3a762241",
-  "type": "news_zeekr",
-  "source": "chasingcars-zeekr",
-  "source_name": "Chasing Cars (Zeekr)",
-  "url": "https://www.chasingcars.com.au/news/future-cars/avatr-to-satisfy-wagon-lovers-with-06t-model-confirmed-for-australia-in-late-2027-to-rival-zeekr-7gt/",
-  "title": "AVATR to satisfy wagon lovers with 06T model confirmed for Australia in late 2027 to rival Zeekr 7GT",
-  "text": "This post appeared first on Chasing Cars . Australians will be able to buy the AVATR 06T electric sports wagon from the second half of 2027 with Changan’s upmarket brand confirming the model as the second entry in its local line-up. The five-door 06T will follow the 07L electric SUV, which is due in the first six months of 2027, giving AVATR two challengers to established European luxury brands. The brand’s design has been directed from Germany by former BMW stylist Nader Faghihzadeh. Speaking to Chasing Cars ahead of the Paris motor show, Changan Australia head of brand and marketing Andrew Haurissa said the target was clear: “[We’re] looking at the Germans.” The most immediate obstacle is likely to be the Zeekr 7GT , which begins Australian deliveries in early 2027, with pricing expected to sit between $55,000-75,000. While BMW’s forthcoming electric i3 Touring could come Down Under, the premium wagon market is currently focussed on higher-end options. The BMW i5 M60 Touring costs $219,900, while Audi has ruled out its A6 e-tron Avant locally, leaving room for more attainable performance wagons. China also gets the closely related 4855mm-long AVATR 06 four-door sedan. It is not p",
-  "author": "Tom Baker",
-  "published": "2026-10-11T23:24:12+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [
-   "avatr"
-  ],
-  "brands": [
-   "bmw",
-   "audi",
-   "avatr"
-  ],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 1,
-   "pos_hits": 1,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "price"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "b94df9cb9e5addc7",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -15401,6 +15582,41 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "4efab59b3a762241",
+  "type": "news_zeekr",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/avatr-to-satisfy-wagon-lovers-with-06t-model-confirmed-for-australia-in-late-2027-to-rival-zeekr-7gt/",
+  "title": "AVATR to satisfy wagon lovers with 06T model confirmed for Australia in late 2027 to rival Zeekr 7GT",
+  "text": "Australians will be able to buy the AVATR 06T electric sports wagon from the second half of 2027 with Changan’s upmarket brand confirming the model as the",
+  "author": "",
+  "published": "2026-10-11T00:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "16ae5d1618db6486",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
@@ -15575,39 +15791,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "59b215f7a001ff1e",
-  "type": "competitor_news",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · Chasing Cars",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTjFYSm0xanBuaGhlUTFzN0V1bGt5Yk1ZZmRDSnNMSlo2WndXZUF4aUc4bUI0dElPd1cwNzFyYmFxU05wSXdrZjNqVTB0QUFtRTJMUFM4VC1pdTJrcTc3Z3ZhSkdNeml0UUVyRVJ2TmhYeGxIZVRuX3B5N2s3bDdNRTBqem4zaFFINDhqdmZHX2FId3VuSzg1eXFLbzZZQVZiT2xQRmEyTnVPbDBIZjc0ckZTeXFKdnN5Y3ZOYk1aUkVQU0RBVjZ0M1VUeFVHdGZKZ01JUkx0UQ?oc=5",
-  "title": "Porsche Mission S: 911-topping, mid-engined hybrid supercar concept set debut on October 16th - Chasing Cars",
-  "text": "Porsche Mission S: 911-topping, mid-engined hybrid supercar concept set debut on October 16th Chasing Cars",
-  "author": "",
-  "published": "2026-10-10T10:13:13+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "porsche"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "competitor",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "2a316a5a938e6689",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -15706,13 +15889,13 @@
  {
   "id": "8e6b9e9e29745370",
   "type": "competitor_news",
-  "source": "chasingcars-zeekr",
-  "source_name": "Chasing Cars (Zeekr)",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
   "url": "https://www.chasingcars.com.au/news/electric-vehicles/new-volkswagen-id-tiguan-likely-for-australia-revealed-as-complete-replacement-for-id-4-and-id-5-electric-suvs/",
   "title": "New Volkswagen ID. Tiguan likely for Australia, revealed as complete replacement for ID.4 and ID.5 electric SUVs",
-  "text": "This post appeared first on Chasing Cars . Volkswagen has given its electric midsize SUV range a very comprehensive midlife makeover, while also consolidating the ID.4 and ID.5 lines down to a single, wagon-bodied ID. Tiguan model instead. Picking up a badge far more familiar with SUV customers, the ID. Tiguan is a different vehicle under the skin to the combustion Tiguan , making use of the MEB electric platform while also scoring a substantially overhauled interior previewed by the ID.3 Neo and ID. Polo small cars. The new model will launch in Europe in early 2027, and while the new electric SUV looks very likely for Australia, local timing is up in the air. A Volkswagen Australia spokesperson told Chasing Cars : “While we are unable to comment on future product timing or availability at this stage, we remain committed to bringing the latest generation of electric vehicles and technologies to Australian customers and will share further details when appropriate.” The ID. Tiguan’s presence in the most popular segment for EVs — midsize crossovers — make it a near-certainty the new model comes to Australia. Volkswagen ID Tiguan replaces ID.4 Huge facelift transforms ID. Tiguan out of",
-  "author": "Tom Baker",
-  "published": "2026-10-10T00:09:49+00:00",
+  "text": "Volkswagen has given its electric midsize SUV range a very comprehensive midlife makeover, while also consolidating the ID.4 and ID.5 lines down to a Massive visual reset for Volkswagen’s midsize electric SUV lineup brings sharper exterior styling and much more tactile interior, albeit with familiar underpinnings",
+  "author": "",
+  "published": "2026-10-10T00:00:00+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -15721,21 +15904,19 @@
    "volkswagen"
   ],
   "categories": [
-   "software",
-   "charging",
-   "delivery"
+   "charging"
   ],
   "sentiment": {
-   "score": -1,
-   "neg_hits": 1,
+   "score": 0,
+   "neg_hits": 0,
    "pos_hits": 0,
-   "label": "negative"
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -16374,6 +16555,80 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "33da1f7789c50fa7",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/porsche-mission-s-911-topping-mid-engined-hybrid-supercar-concept-set-debut-on-october-16th/",
+  "title": "Porsche Mission S: 911-topping, mid-engined hybrid supercar concept set debut on October 16th",
+  "text": "Porsche is set to “preview a potential mid-engined super sports car platform for the future” globally on October 16th (Australian time) going by the",
+  "author": "",
+  "published": "2026-10-09T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "3f9332c133dcaa96",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/lexus-tz-2027-luxury-electric-twin-to-toyota-kluger-confirmed-for-australia-to-compete-with-volvo-ex90-kia-ev9/",
+  "title": "Lexus TZ 2027: luxury electric twin to Toyota Kluger confirmed for Australia, to compete with Volvo EX90, Kia EV9",
+  "text": "Toyota’s luxury brand, Lexus, has confirmed its largest electric SUV is coming to Australia. The Lexus TZ will be displayed at next month’s Melbourne Cup",
+  "author": "",
+  "published": "2026-10-09T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev9",
+   "volvo-ex90"
+  ],
+  "brands": [
+   "volvo",
+   "kia",
+   "toyota",
+   "lexus"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
   "id": "4b8634d398313855",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -16976,50 +17231,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "541e94e81313fe28",
-  "type": "news_zeekr",
-  "source": "chasingcars-zeekr",
-  "source_name": "Chasing Cars (Zeekr)",
-  "url": "https://www.chasingcars.com.au/news/car-industry/made-in-china-mazda-cx-6e-ev-could-outsell-cx-5-as-it-rivals-byd-sealion-7-tesla-model-y-zeekr-7x/",
-  "title": "Made-in-China Mazda CX-6e EV could outsell CX-5 as it rivals BYD Sealion 7, Tesla Model Y, Zeekr 7X",
-  "text": "This post appeared first on Chasing Cars . In a dramatic shift for the Japanese carmaker, Mazda says the electric CX-6e could become its number one seller in Australia — providing regulatory and economic conditions don’t change too drastically. “It potentially could,” managing director of Mazda Australia Vinesh Bhindi told Chasing Cars at the CX-6e’s launch , “but it depends on these external factors that are driving EV demand,” he added. “If you took out those external factors like incentives and fuel prices, it was only a year ago where the demand for EV product — it was growing, slowly growing — was still in the early adopter phase. And then these external factors accelerated it. “And if these external factors remain, it’s potentially likely that [the CX-6e ] could become our number one seller,” said Bindi. Last month, Mazda’s best-selling model was the CX-5 medium SUV (1435 registrations, according to VFACTS), which is only available with a 132kW/242Nm 2.5L four-cylinder and no hybrid like the class-leading Toyota RAV4 . Mazda’s long-time bestseller, the CX-5. There’s clear potential for the CX-6e if we look at best-selling electric rivals. The Zeekr 7X managed 1628 deliveries,",
-  "author": "John Law",
-  "published": "2026-10-07T04:19:08+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [
-   "tesla-model-y",
-   "byd-sealion7"
-  ],
-  "brands": [
-   "byd",
-   "tesla",
-   "toyota",
-   "mazda"
-  ],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": 3,
-   "neg_hits": 0,
-   "pos_hits": 3,
-   "label": "positive"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "offer"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "06b78f91fb334080",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -17090,6 +17301,80 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "541e94e81313fe28",
+  "type": "news_zeekr",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/car-industry/made-in-china-mazda-cx-6e-ev-could-outsell-cx-5-as-it-rivals-byd-sealion-7-tesla-model-y-zeekr-7x/",
+  "title": "Made-in-China Mazda CX-6e EV could outsell CX-5 as it rivals BYD Sealion 7, Tesla Model Y, Zeekr 7X",
+  "text": "In a dramatic shift for the Japanese carmaker, Mazda says the electric CX-6e could become its number one seller in Australia — providing regulatory and",
+  "author": "",
+  "published": "2026-10-07T00:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "f2ea9cf1f6670e83",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/new-car-prices/bmw-ix4-electric-coupe-suv-revealed-with-828km-range/",
+  "title": "BMW iX4 electric coupe SUV revealed with 828km range",
+  "text": "The BMW iX4 has raised the benchmark for EV ranges with a 828km WLTP, though the coupe SUV will cost up to $14,000 more than its iX3 twin. This is BMW’s",
+  "author": "",
+  "published": "2026-10-07T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
  },
  {
   "id": "72e0d4f02c3cebcb",
@@ -17513,6 +17798,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "a5d936ca3f07c62a",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/car-industry/september-2026-new-car-sales-chinese-cars-dominate-as-byd-settles-into-second-place-in-the-sales-race/",
+  "title": "September 2026 New Car Sales: Chinese cars dominate as BYD settles into second place in the sales race",
+  "text": "Chinese car brands dominated the sales charts last month, making up more than a third of sales, largely due to the popularity of their electric and Ranger tops RAV4 and Tesla Model Y on the podium while Aussie appetites for BEVs continue to surge",
+  "author": "",
+  "published": "2026-10-06T00:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T06:26:01+00:00"
  },
  {
   "id": "c63700b7fe47e464",
@@ -26704,7 +27026,7 @@
   "title": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue - BigGo Finance",
   "text": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue BigGo Finance",
   "author": "",
-  "published": "2026-08-22T07:00:00+00:00",
+  "published": "2026-08-22T23:10:55+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
