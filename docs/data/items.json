@@ -1,5 +1,106 @@
 [
  {
+  "id": "ecdf696c388671fd",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/lexus-es-500e-review-meet-the-electric-lexus-sedan-that-ditches-the-beige/",
+  "title": "Lexus ES 500e Review: Meet the electric Lexus sedan that ditches the beige",
+  "text": "The Lexus ES has spent three decades being the sensible and reliable luxury sedan that also happens to nail the refinement piece. Now it’s arrived without any noise at all. Well, almost none… The eighth-generation ES has gone electric, and the dual-motor ES 500e is the most powerful version of the long-running luxury sedan Lexus has built. It’s also the most adventurous-looking, which is not something that was previously top of mind with an ES. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: First-ever electric Lexus ES detailed for Australia: Priced from $77,000 with 510km range READ MORE: Lexus RZ450e review Gone is the Camry-derived softness that defined ES models of old. In its place is a longer, wider, lower-slung fastback shape that packages either hybrid or pure electric drivetrain options. 2026 Lexus ES 500e. Even the steering wheel has changed its mind about what Lexus is. The familiar ‘L’ badge has been replaced by the word LEXUS spelled out across the hub. Small thing, but it’s indicative of a more exciting chapter for Lexus. 2026 Lexus ES 500e price and equipment The electric ES ran",
+  "author": "Toby Hagon",
+  "published": "2026-10-23T13:38:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T16:55:57+00:00"
+ },
+ {
+  "id": "1ce976ce4911aaf0",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xdcptb/software_update_when/",
+  "title": "Software update when?",
+  "text": "It's been out in Europe for ages now. I don't get why they're so slow with it. For a new car was expecting updates like at least monthly.",
+  "author": "/u/slimreaper-au",
+  "published": "2026-10-23T12:31:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T16:55:57+00:00"
+ },
+ {
+  "id": "aba299b5e215a39c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1h0bllVY3lzTHUtWjV5Z3hCR0ZlZHhXMmZkcGdzQWNnVlZwdVFTNjNId0RYYzYyd3d4ZGFVakZXWEpjSk5YYkoxTHh0RHVaZGpqN015UGNxOEtVaHlRb1gzTzJGX3R3TlBaekE0M3B1UzJVT2ladFQtVk95VU1NRGVoWmtFOHNDZjNRR0pnRVdKd2hLX1haYndlOA?oc=5",
+  "title": "Waymo Keeps Importing Chinese Zeekr Robotaxis as a Senate Ban Looms - Startup Fortune",
+  "text": "Waymo Keeps Importing Chinese Zeekr Robotaxis as a Senate Ban Looms Startup Fortune",
+  "author": "",
+  "published": "2026-10-23T12:24:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-23T16:55:57+00:00"
+ },
+ {
   "id": "7e8ba9f568dae339",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -291,7 +392,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -317,7 +418,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T06:26:01+00:00"
@@ -20495,18 +20596,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -20631,25 +20734,21 @@
  },
  {
   "id": "789dc0b548142229",
-  "type": "news_zeekr",
+  "type": "competitor_news",
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2xmWEY4bW5PNjNfenRCdVlBc2x1SHoyNTJsYVpwbXBzUkpWejhCc1RUV3RGajVWQ2pROFkzQ0RibHJuSWNYY2phXzUwbTZZdVNuUV9GY2ZCeV93YTk1Vm8zeHIyU3dmeU9seXRvNUQxdlktZldlcFFGT3FGbG14T09LczJxaHR4ZlFuTHY3U0k0ZkZPbTJEWlB2MzFlc1dNNGJZMksyeFE1aFRpbjB0Y2g1QmJwQWRfOW1iUUxHYnBMN3Iw?oc=5",
-  "title": "Watch out, 2026 Zeekr 7X: 2027 Avatr 07L electric SUV confirmed for Australia as new Tesla Model Y rival, with deliveries starting early next year - CarsGuide",
-  "text": "Watch out, 2026 Zeekr 7X: 2027 Avatr 07L electric SUV confirmed for Australia as new Tesla Model Y rival, with deliveries starting early next year CarsGuide",
+  "title": "The 07L is the first model confirmed for Australia from Avatr. - CarsGuide",
+  "text": "The 07L is the first model confirmed for Australia from Avatr. CarsGuide",
   "author": "",
   "published": "2026-09-24T07:00:00+00:00",
   "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
+  "zeekr": false,
+  "models": [],
   "competitors": [
-   "tesla-model-y",
    "avatr"
   ],
   "brands": [
-   "tesla",
    "avatr"
   ],
   "categories": [],
@@ -24989,6 +25088,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T01:44:32+00:00"
+ },
+ {
+  "id": "3096972fc9d6c69b",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Tb25LcG9lOTlKdy1pQkdBWmhKS09meTVteGFwcThsOVpkRUNzcDNDXzBORFdxejlIUDlDTlU3X1ZKZGM5NVdDVDdnMkgzOWhWSF84T2hKNWVWU2t2VXhpWg?oc=5",
+  "title": "BYD Atto 3 Evo. - BYD - Automotive - Whirlpool Forums",
+  "text": "BYD Atto 3 Evo. - BYD - Automotive Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-06T08:19:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T16:55:57+00:00"
  },
  {
   "id": "8da235e093a0d9e7",

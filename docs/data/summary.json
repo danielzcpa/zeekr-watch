@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T11:58:14+00:00",
- "duration_s": 371.3,
- "items_total": 987,
- "new_this_run": 217,
+ "generated": "2026-10-23T16:55:57+00:00",
+ "duration_s": 291.9,
+ "items_total": 991,
+ "new_this_run": 204,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -10,18 +10,18 @@
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 124,
-  "launch_signals_7d": 26,
+  "competitor_news_7d": 123,
+  "launch_signals_7d": 25,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 93,
+  "zeekr_news_7d": 92,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
    "date": "2026-09-24",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 3
+   "competitor_news": 1,
+   "zeekr_news": 2
   },
   {
    "date": "2026-09-25",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-23",
    "complaints": 0,
-   "competitor_news": 8,
-   "zeekr_news": 3
+   "competitor_news": 9,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -846,11 +846,12 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
     "bd09876b341075d3",
     "157903045605fdfb",
-    "42ac9b11351bb021"
+    "42ac9b11351bb021",
+    "789dc0b548142229"
    ],
    "offer": [],
    "latest": "97445fc112bd556e"
@@ -923,13 +924,6 @@
    "title": "Zecar (全品牌政策汇总) 官网政策页面变化（+2 / −3 行）",
    "source": "https://zecar.com/offers-and-deals",
    "t": "2026-10-21T07:29:45+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "8e2ac5e25142a7b1",
-   "title": "Polestar 官网政策页面变化（+1 / −1 行）",
-   "source": "https://www.polestar.com/au/offers/",
-   "t": "2026-10-20T16:50:49+00:00"
   }
  ],
  "source_status": {
@@ -970,17 +964,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 34,
+   "count": 37,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 49,
+   "count": 62,
    "note": ""
   },
   "gn-brands-eu": {
@@ -990,7 +984,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 29,
+   "count": 27,
    "note": ""
   },
   "carexpert": {
@@ -1059,24 +1053,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1224,9 +1218,9 @@
    "note": "via mirror"
   },
   "beep-kia/ev5": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403; mirror HTTP 500"
+   "ok": true,
+   "count": 4,
+   "note": "via mirror"
   },
   "beep-smart/5": {
    "ok": true,
@@ -1270,8 +1264,8 @@
   },
   "beep-prices": {
    "ok": true,
-   "count": 24,
-   "note": "24 models"
+   "count": 25,
+   "note": "25 models"
   },
   "beep-offers-mercedes-benz": {
    "ok": true,
