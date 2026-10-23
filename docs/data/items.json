@@ -1,5 +1,75 @@
 [
  {
+  "id": "99a15c6032213e12",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/chery-stockman-ute-could-spawn-a-ford-everest-rivalling-suv",
+  "title": "Chery Stockman ute could spawn a Ford Everest-rivalling SUV",
+  "text": "The Chery Stockman ute could provide the basis for a Ford Everest rival, with its chief product manager confirming an SUV was considered from the start of the platform’s development. A diesel plug-in hybrid (PHEV) off-roader is one possibility, although neither an SUV production program nor an Australian launch has been confirmed. Speaking to CarExpert and other Australian media in China, Stockman chief product manager Mark Qi was asked whether the ute’s platform could be adapted for a three-row SUV. “When we designed the platform, we already considered an SUV,” Mr Qi said. However, he stopped short of confirming an SUV was being developed alongside the ute. “That isn't clear now. We know this platform has the capability to develop an SUV as well. That is easy, but there are many other things: the brand, the price and so on.” Mr Qi was also asked whether a three-row SUV could use the Stockman’s diesel PHEV technology. “That isn't certain now. It depends on the brand and which markets the SUV would be for, and whether it would use diesel PHEV, petrol PHEV or something else,\" he said. “What I can tell you is that the platform can support petrol PHEV, diesel PHEV and conventional dies",
+  "author": "Alborz Fallah",
+  "published": "2026-10-23T19:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T20:17:57+00:00"
+ },
+ {
+  "id": "5b6b5a4ec9bf7816",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcy01ajBDOWhYTHREQ2pERTBNWFhFd0FpNDdzTEg2TklsclBGYkVlZExUZXQzcDEtMUE2U1Jsb05yQTFFRGtjS1JoaVdNVl9UMFFjbkRua3JVRVhmdVlqWjdFS1p6a2ZIUlpNNjR5QW5vUGFQWktpUmFYWW5fUGVwVHNDcU9pREE0TFFDeldFZWxYZEhNZzY4aVdxRmVXajNnMnZHRC16TElFOUxmc29YaHFyb3BpTFBRaFVTMnl1aUZpUQ?oc=5",
+  "title": "Exlantix confirmed to launch in Australia, with 2027 ES7 GT, EX9 and EX7 earmarked for a global arrival to rival 2026 Zeekr 7GT, Zeekr 7X and more - CarsGuide",
+  "text": "Exlantix confirmed to launch in Australia, with 2027 ES7 GT, EX9 and EX7 earmarked for a global arrival to rival 2026 Zeekr 7GT, Zeekr 7X and more CarsGuide",
+  "author": "",
+  "published": "2026-10-23T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T20:17:57+00:00"
+ },
+ {
   "id": "ecdf696c388671fd",
   "type": "competitor_news",
   "source": "evcentral",
@@ -1290,6 +1360,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "da1e0876778f008b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWFvWVM4bmRMTTJYN0g2UFN2dHlQbnl5eW1EWmhMTFVnb1NDMzllUHZsYncyaWFIVjg3bUlETTFucEdBZ1F6dFZfS1J2eWpqR1NOVS00Ym1TZzB0YldITnR0OUVtbFRweW9CbWVfUXdCS3RQQ2xaY2J3QzlaUl8tXzR1S05EYnVMaHpYamI4SDFCY2dYTTYw?oc=5",
+  "title": "2026 Zeekr 7X Long Range Auto MY26 - Carsales",
+  "text": "2026 Zeekr 7X Long Range Auto MY26 Carsales",
+  "author": "",
+  "published": "2026-10-22T05:42:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-23T20:17:57+00:00"
  },
  {
   "id": "40493bdaaef21827",
@@ -4990,7 +5093,7 @@
  {
   "id": "e9eb153dc549ba05",
   "type": "competitor_news",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnhvOGhIWUJkT2lUTnNsZ2E1c3ZjcGtRUXF2YS04WWI3ZkF5QnplTVRienlqaUNRVXVPSkJXQ3VjMkFURFA4cXV5dXQ5TFE1XzVrR1RWYkM4OXJPeWJMTFBVQ3dxMDNzZVVkcUJyekktdGMwSHc2cmwtY1dhSFdkNmt5UWpUSnFnUzZuV3VmV2o5NlgwV0hEVXRzZC1wTGtjQ0xmVzVvZElUeWhLd0JQWDRTanZVTEVRMXJkbHdXRDk?oc=5",
   "title": "The Yangwang U8 luxury 4WD has been approved for sale in Australia to rival the Mercedes-Benz G-Wagen - CarsGuide",
@@ -5018,7 +5121,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T06:29:57+00:00"
@@ -6689,7 +6792,7 @@
  {
   "id": "86319ed31d31c856",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
   "title": "Zeekr's real LandCruiser killer could look like this - Drive",
