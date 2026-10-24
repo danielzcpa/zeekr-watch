@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T18:56:36+00:00",
- "duration_s": 312.9,
+ "generated": "2026-10-24T21:29:14+00:00",
+ "duration_s": 341.6,
  "items_total": 1003,
- "new_this_run": 211,
+ "new_this_run": 215,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 7,
@@ -10,10 +10,10 @@
   "high_7d": 1,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 92,
+  "competitor_news_7d": 91,
   "launch_signals_7d": 15,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 88,
+  "zeekr_news_7d": 85,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -972,22 +972,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 32,
+   "count": 33,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 47,
+   "count": 48,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 52,
+   "count": 49,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 33,
+   "count": 32,
    "note": ""
   },
   "carexpert": {
@@ -1051,14 +1051,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1073,7 +1073,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1471,9 +1471,9 @@
    "note": "HTTP 403"
   },
   "offers-kia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.kia.com', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 27,
+   "note": "unchanged"
   },
   "offers-polestar": {
    "ok": true,
@@ -1511,9 +1511,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
