@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T21:29:14+00:00",
- "duration_s": 341.6,
- "items_total": 1003,
- "new_this_run": 215,
+ "generated": "2026-10-24T23:35:26+00:00",
+ "duration_s": 313.9,
+ "items_total": 1004,
+ "new_this_run": 208,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 7,
@@ -10,10 +10,10 @@
   "high_7d": 1,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 91,
+  "competitor_news_7d": 92,
   "launch_signals_7d": 15,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 85,
+  "zeekr_news_7d": 84,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -188,7 +188,7 @@
   {
    "date": "2026-10-23",
    "complaints": 0,
-   "competitor_news": 11,
+   "competitor_news": 12,
    "zeekr_news": 7
   },
   {
@@ -298,14 +298,14 @@
    "latest": null
   },
   "kia-ev3": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "61681d4b998204cc",
     "3906ee719bd23b05",
     "e56ee2a603252f5b"
    ],
    "offer": [],
-   "latest": "61681d4b998204cc"
+   "latest": "64a270de22d96250"
   },
   "hyundai-kona-ev": {
    "n_30d": 0,
@@ -967,22 +967,22 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 50,
+   "count": 29,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 33,
+   "count": 22,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 48,
+   "count": 47,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 49,
+   "count": 47,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1051,14 +1051,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1073,7 +1073,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,

@@ -371,6 +371,40 @@
   "first_seen": "2026-10-23T20:17:57+00:00"
  },
  {
+  "id": "64a270de22d96250",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1poUTlUbTZlbkpTLXNidkx1VVFmMjludy13MnVPMU5iS3l4M3prLV9pRVIxdWpQY0M0aDY3Qkxpem16OTBCbnFMZmh4OHF5eDlEUWtTb2RUZTh3WmctaGpnWFF2Y1k0UlZEZTliUjlwTEFYUkpmelpEMWdjWHFUNW5SVkdIRVpSQ0wySGZwRmt3em1uNnhseXNTUmdRbl9ZdjZ2WTk2T0RWd2JNeWNnakY5Vk5WcXFETnc?oc=5",
+  "title": "Affordable Honda electric SUV shapes up to battle 2026 BYD Atto 2, Kia EV3 - CarsGuide",
+  "text": "Affordable Honda electric SUV shapes up to battle 2026 BYD Atto 2, Kia EV3 CarsGuide",
+  "author": "",
+  "published": "2026-10-23T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia",
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T23:35:26+00:00"
+ },
+ {
   "id": "ecdf696c388671fd",
   "type": "competitor_news",
   "source": "evcentral",
@@ -2628,7 +2662,7 @@
  {
   "id": "751f25059a37cf5d",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1VkVWRjRWFfNnlXcTJaWGZkd3hhRmFpUEN6TloxanZkWXRlQk5aNkZ2TVFUajM2UTE5WDQybXIxMGpFN1ZXaEVlZ1V0Q3VaUmFKbnQwek5fUHhITVFsLXdNZ2xDZF9xWVotSHNNNklNbGFsRWJRQXhpWVF5Y1dINWdTaHp2cE54V1k2YUtqMFpWdThIUjhkWlA0N2oxYWtXZTN4SWVn?oc=5",
   "title": "Chery Exlantix targets Zeekr with 'friendly prices' - Carsales",
@@ -2649,7 +2683,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T00:34:31+00:00"
