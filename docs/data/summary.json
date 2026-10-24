@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-24T01:54:30+00:00",
- "duration_s": 317.3,
- "items_total": 995,
- "new_this_run": 205,
+ "generated": "2026-10-24T07:09:49+00:00",
+ "duration_s": 297.7,
+ "items_total": 996,
+ "new_this_run": 206,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 7,
+  "complaints_7d": 6,
   "complaints_30d": 37,
-  "high_7d": 2,
+  "high_7d": 1,
   "medium_7d": 2,
   "low_7d": 3,
-  "competitor_news_7d": 118,
-  "launch_signals_7d": 24,
-  "offer_signals_7d": 3,
-  "zeekr_news_7d": 91,
+  "competitor_news_7d": 94,
+  "launch_signals_7d": 15,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 88,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-23",
    "complaints": 0,
-   "competitor_news": 10,
+   "competitor_news": 11,
    "zeekr_news": 6
   },
   {
    "date": "2026-10-24",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 0
+   "competitor_news": 1,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -268,8 +268,7 @@
   "volvo-ex30": {
    "n_30d": 1,
    "launch": [
-    "08c8cc1262f38033",
-    "ecb6767e140b18e0"
+    "08c8cc1262f38033"
    ],
    "offer": [],
    "latest": "08c8cc1262f38033"
@@ -486,7 +485,7 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 13,
+   "n_30d": 14,
    "launch": [
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
@@ -496,11 +495,12 @@
     "6eceae851aeaecd7"
    ],
    "offer": [
+    "85dcdf97d44cb5f6",
     "5366678f10e4adb3",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "dba085ae5a42f62c"
+   "latest": "85dcdf97d44cb5f6"
   },
   "polestar-2": {
    "n_30d": 2,
@@ -531,7 +531,7 @@
    "latest": "d1f285d82c38ea9b"
   },
   "kia-ev4": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "347f60946babed57",
     "d2af0ef5c3bba679"
@@ -540,7 +540,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "347f60946babed57"
+   "latest": "2f0c0952a3c74d67"
   },
   "mazda-6e": {
    "n_30d": 3,
@@ -846,7 +846,7 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 6,
+   "n_30d": 5,
    "launch": [
     "bd09876b341075d3",
     "157903045605fdfb",
@@ -858,6 +858,16 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_offer",
+   "id": "85dcdf97d44cb5f6",
+   "title": "Tesla sharpens Model 3 appeal for fleets and novated buyers - Fleet EV News",
+   "source": "Google News · Fleet EV News",
+   "t": "2026-10-24T04:35:00+00:00",
+   "competitors": [
+    "tesla-model-3"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "dba085ae5a42f62c",
@@ -934,7 +944,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 19,
+   "count": 15,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -964,27 +974,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 58,
+   "count": 31,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 27,
+   "count": 34,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 38,
+   "count": 34,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 57,
+   "count": 51,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 27,
+   "count": 30,
    "note": ""
   },
   "carexpert": {
@@ -1043,14 +1053,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1065,7 +1075,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1508,9 +1518,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,

@@ -1,5 +1,73 @@
 [
  {
+  "id": "85dcdf97d44cb5f6",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Fleet EV News",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZW5Fbzc0Zms2NWFRUHZQS0lDV2lXeXBvMFhLOEdla0pGV0kwQkI3ZkVpZ0VjUklWdDdPT25SVUVTYUw1TndTVmZQczFZamVQd3dsZDhtb05XYzJWcWlMSVpvclY2dW5QQi1CcmNZSXd5X08yRjZ2TmhHT3lTNnR4SjdrX3R0bGdRcW5abm53ZTg?oc=5",
+  "title": "Tesla sharpens Model 3 appeal for fleets and novated buyers - Fleet EV News",
+  "text": "Tesla sharpens Model 3 appeal for fleets and novated buyers Fleet EV News",
+  "author": "",
+  "published": "2026-10-24T04:35:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T07:09:49+00:00"
+ },
+ {
+  "id": "0f41ca7a37415d9b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · RS Web Solutions",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalFNWC1IOFY5UUI4QVdQQVg3ZWh6SklOVF9MV0ZkalFuZjNUb0ljaGFnM0RjRTFLakw2clhlRk12Q28tX3U2Mk1wNUxwTHNRcjVkVW5XLU5XV255cFFQZDFQOGZORlhMZVI2akpRTDRHbk45QjNWa1d2U1NfSGJoWVBDTXRNbUxxclJzV25Qbi1pQ0VqbF9rM2pZMzVFS2FJTlIyVUtNN3RpQXZ6OHJjcURudUxTbDhYWFlLMA?oc=5",
+  "title": "Waymo Expands Chinese Zeekr Robotaxi Fleet Despite Senate Limits - RS Web Solutions",
+  "text": "Waymo Expands Chinese Zeekr Robotaxi Fleet Despite Senate Limits RS Web Solutions",
+  "author": "",
+  "published": "2026-10-24T04:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-24T07:09:49+00:00"
+ },
+ {
   "id": "756a1f49ac710933",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -8,7 +76,7 @@
   "title": "Chery's plan to take on Zeekr in Australia - St George & Sutherland Shire Leader",
   "text": "Chery's plan to take on Zeekr in Australia St George & Sutherland Shire Leader",
   "author": "",
-  "published": "2026-10-23T22:10:49+00:00",
+  "published": "2026-10-23T22:10:45+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -233,6 +301,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T11:58:14+00:00"
+ },
+ {
+  "id": "2f0c0952a3c74d67",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Edmunds",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2ZmVyVEhiLU9qai12QWdYcUdGbmlwVEJaNTNqVVd6bnFFdlhsT0h4SnJ5OXVELVgwOVJ0ZWFHdG5JM3gtUUR1ZUlBcmFDbERpUzhRcDVNUXYzQXJXMi01VTVocDhDV1Vt?oc=5",
+  "title": "The Kia EV4 Never Made It to America. Are We Missing Out? - Edmunds",
+  "text": "The Kia EV4 Never Made It to America. Are We Missing Out? Edmunds",
+  "author": "",
+  "published": "2026-10-23T10:07:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev4"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-24T07:09:49+00:00"
  },
  {
   "id": "fef728660c0fc909",
@@ -17631,13 +17732,13 @@
  {
   "id": "06b78f91fb334080",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVU1Z3NiRDlERVVNQ2pNcWgtbWsxR250c0Q1TVNTcUowN3I2V3BieFo4a3g5Qk9kaldGazliVDZPenh1N2t0bk41NVFGdWVXVDYycXVXM2JGenZpNHJlTmthN0hzbnVsSGU4MEtHNFQ0SURWZk5rcGE3SzI1ak5wQW92QjVPUVZxUXM3YTJzd1gwT013Q2NzZGZQMjFBS1I1d3ZSMERPZHRYQnl4ajVONzlhSThFd3RUVVBDZWVKenNNaU0?oc=5",
   "title": "China's rising stars revealed: 2026 Zeekr 7X, Geely EX5, Jaecoo J5 and more lead the charge - CarsGuide",
   "text": "China's rising stars revealed: 2026 Zeekr 7X, Geely EX5, Jaecoo J5 and more lead the charge CarsGuide",
   "author": "",
-  "published": "2026-10-07T03:30:00+00:00",
+  "published": "2026-10-07T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -24874,7 +24975,7 @@
  {
   "id": "c721d7aa0f59fb55",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdE1rUmVnT19paGY4bVI4cjZVcjU5QjhOX0hubWx5YlFhUEliUzlDNkF5V0RCUXYwTEFnTHFySmlZWDk3OWtWMUR1Y1h0SnVFTktDYWd6bm45SkRORGZtd04xWm9tcmV2QW5kc1Z0MGxySHUzVzNrVTluT1BXbU81Nkg1SkFDSkZSbGJjUlliNmMyM2VMRllFQnoxUmlGWDFPRE9aV0FaVmdfdzlmc2RqZlNRdjg1WFZvNkRMZHVR?oc=5",
   "title": "2026 Zeekr 7X, 7GT, 8X and 9X and more to get more buttons and dials in the future as Chinese luxury brand responds to global feedback - CarsGuide",
@@ -24900,7 +25001,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"
@@ -34402,75 +34503,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
- },
- {
-  "id": "ecb6767e140b18e0",
-  "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tLS1WWlRaSkNiR2ZMc0ZaVjU5aXN4ZWsyS190SUpncXVLLWVoVlNZVWoxM3ZLUkZMeUUzcGVlbEU4cVVDcFg5NjBOa3E0aENTVTZB?oc=5",
-  "title": "Volvo EX30 review: every 2026 variant, price and specs - EV Central",
-  "text": "Volvo EX30 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-04-27T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "volvo-ex30"
-  ],
-  "brands": [
-   "volvo"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
-  "id": "8d0aa8aa5e3a8cd4",
-  "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMVlCTlpXN2xTR0U2TG1ZZndERnhrdGx5dmNaRmxEOWZ6X3BoTzZmZml6djJCMnI5VXpyeWg3aWJsczUxUDRJbllRbDNhVkdmd1FiSy1yaHAxQQ?oc=5",
-  "title": "Volvo EX30 price, range and specs - EV Central",
-  "text": "Volvo EX30 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-04-27T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "volvo-ex30"
-  ],
-  "brands": [
-   "volvo"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T09:14:05+00:00"
  }
 ]
