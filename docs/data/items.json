@@ -1,5 +1,38 @@
 [
  {
+  "id": "942306dc26f3e337",
+  "type": "complaint",
+  "source": "productreview-zeekr",
+  "source_name": "ProductReview.com.au",
+  "url": "https://www.productreview.com.au/reviews/d2e519e4-e277-5b7b-9b4f-c34fba2f2339",
+  "title": "Review (3.0★)",
+  "text": "Cars are shipped outdated compared to the country of origin and thay are very slow with ota updates the reason I believe is we're are a right drive market which is small and they focus more the left drive market which is bigger, auto steer can be dangerous but due the the system be outdated and not up to the task not like a quick fix nice power but definitely inconsistent, heavy on power consumption when cruising over 100kms don't get me wrong there a nice car inside but there are better choices…",
+  "author": "andrew d.",
+  "published": "2026-10-24T11:12:05+00:00",
+  "rating": 3.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T12:11:07+00:00"
+ },
+ {
   "id": "85dcdf97d44cb5f6",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -66,6 +99,35 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-24T07:09:49+00:00"
+ },
+ {
+  "id": "2b6933aa8f0d9c7b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlZHaE9OXzZtR3NMRkR6dTVyalRCblNhNTZDUk5zYkppRVZSLWRKT3E3U3ZjbFRuYmtqalpFS3lUX1JheUd3aVdsOHFlNld4bzJObkpQd1Y0UlR5TmEweTFhN3ZjMkRlallGUUxVLXJHQVRabXVuaS0zYWpINUVxVE9fUG5kYm9JeTNaRkFHXzlxTk0?oc=5",
+  "title": "Chery's plan to take on Zeekr in Australia - The Canberra Times",
+  "text": "Chery's plan to take on Zeekr in Australia The Canberra Times",
+  "author": "",
+  "published": "2026-10-23T22:14:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T12:11:07+00:00"
  },
  {
   "id": "756a1f49ac710933",
@@ -592,7 +654,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -618,7 +680,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T06:26:01+00:00"
@@ -34472,36 +34534,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T01:23:32+00:00"
- },
- {
-  "id": "ce70a7fe0751ea62",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RUFJlUDRoVGZ6UThFcXM1RzBmTk1uQXluSkJVd3NnYjdPS3lGcGM2d2hYR1A5QV9EOW5IR3hFdUFZUUs4dDVZUk5sX3doSGNlUWIwVldRVGlHNGJWNGdWaTVsSQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-04-27T07:50:08+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T15:24:05+00:00"
  }
 ]

@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-24T07:09:49+00:00",
- "duration_s": 297.7,
- "items_total": 996,
- "new_this_run": 206,
+ "generated": "2026-10-24T12:11:07+00:00",
+ "duration_s": 337.4,
+ "items_total": 997,
+ "new_this_run": 216,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 6,
-  "complaints_30d": 37,
+  "complaints_24h": 1,
+  "complaints_7d": 7,
+  "complaints_30d": 38,
   "high_7d": 1,
   "medium_7d": 2,
-  "low_7d": 3,
-  "competitor_news_7d": 94,
+  "low_7d": 4,
+  "competitor_news_7d": 93,
   "launch_signals_7d": 15,
   "offer_signals_7d": 4,
   "zeekr_news_7d": 88,
@@ -189,11 +189,11 @@
    "date": "2026-10-23",
    "complaints": 0,
    "competitor_news": 11,
-   "zeekr_news": 6
+   "zeekr_news": 7
   },
   {
    "date": "2026-10-24",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 1,
    "zeekr_news": 1
   }
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 24
+   "n": 25
   },
   {
    "key": "service",
@@ -215,13 +215,13 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 12
+   "n": 13
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 11
+   "n": 12
   },
   {
    "key": "quality",
@@ -260,9 +260,9 @@
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
   "Reddit r/EVAustralia": 3,
+  "ProductReview.com.au": 2,
   "Reddit r/AutoAdvice": 1,
-  "Reddit r/ZeekrAustraliaNZ": 1,
-  "ProductReview.com.au": 1
+  "Reddit r/ZeekrAustraliaNZ": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -910,30 +910,6 @@
    "competitors": [
     "tesla-model-3"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "b89e8f752e996826",
-   "title": "BYD Yangwang U8 Joins Dubai Police Fleet Ahead Of Potential Australian Launch - CarSauce",
-   "source": "Google News · CarSauce",
-   "t": "2026-10-21T11:10:49+00:00",
-   "competitors": [
-    "yangwang-u8"
-   ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "67bf571fe7adae64",
-   "title": "The Beep (全品牌政策汇总) 官网政策页面变化（+5 / −3 行）",
-   "source": "https://thebeep.com.au/offers-and-deals",
-   "t": "2026-10-21T09:15:54+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "99419ac300069eac",
-   "title": "Zecar (全品牌政策汇总) 官网政策页面变化（+2 / −3 行）",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-10-21T07:29:45+00:00"
   }
  ],
  "source_status": {
@@ -944,7 +920,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 15,
+   "count": 10,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -979,22 +955,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 34,
+   "count": 31,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 34,
+   "count": 49,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 51,
+   "count": 50,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "carexpert": {
@@ -1053,9 +1029,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1063,9 +1039,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1075,12 +1051,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1105,7 +1081,7 @@
   "productreview-zeekr-agg": {
    "ok": true,
    "count": 0,
-   "note": "aggregate 2.0★ / 17 reviews"
+   "note": "aggregate 2.0★ / 18 reviews"
   },
   "productreview-zeekr": {
    "ok": true,
@@ -1124,7 +1100,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {

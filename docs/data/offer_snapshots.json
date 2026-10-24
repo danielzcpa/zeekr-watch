@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "2cc621be6a20efbc",
   "money": [
    1000,
@@ -52,7 +52,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -72,14 +72,14 @@
  },
  "mini": {
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "0353ecc6a13c94e3",
   "money": [
    1000,
@@ -129,7 +129,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "36124b2395b042d4",
   "money": [
    2000,
@@ -154,14 +154,14 @@
  },
  "mercedes": {
   "last_error": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -185,14 +185,14 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "byd": {
   "key": "byd",
   "brand": "BYD",
   "url": "https://www.byd.com.au/offers",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -202,7 +202,7 @@
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "4e8a7d040b75782e",
   "money": [],
   "n_lines": 9,
@@ -220,19 +220,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -244,7 +244,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "9690b0ac8f1f2e9a",
   "money": [
    91661
@@ -268,7 +268,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -278,7 +278,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -292,19 +292,19 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (全品牌政策汇总)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "93e5896c2871e8b8",
   "money": [
    2000,
@@ -380,7 +380,7 @@
   ],
   "n_lines": 8,
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-24T07:14:45+00:00",
+  "last_attempt": "2026-10-24T12:16:44+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -396,7 +396,7 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-10-24T07:14:45+00:00",
+  "fetched": "2026-10-24T12:16:44+00:00",
   "digest": "a04f3f3b99adf262",
   "money": [
    6056
