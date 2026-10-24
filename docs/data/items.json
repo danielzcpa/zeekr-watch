@@ -1,5 +1,36 @@
 [
  {
+  "id": "5d8fba96c81a1dbb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · AutoNext.co",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03SnFOTUk3d1cxdERZWko1MjBfdVYxYnl2WUJNMHhQN0ZfNlRKalo1YV9fOUYtUE0xb0xBckJKaElWeUIxOU84MTZ6bVk0MjY2dGVucmpndmFvOWlvcERmWG9HdzdzZ0l1SEFZTDk4ZTV5aGJn?oc=5",
+  "title": "Zeekr 9X up close: 897 hp luxury from China - AutoNext.co",
+  "text": "Zeekr 9X up close: 897 hp luxury from China AutoNext.co",
+  "author": "",
+  "published": "2026-10-24T17:11:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-24T18:56:36+00:00"
+ },
+ {
   "id": "6a4c860a7340b58c",
   "type": "competitor_news",
   "source": "evcentral",
@@ -77,6 +108,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-24T12:11:07+00:00"
+ },
+ {
+  "id": "55f6bfebc025df38",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · TopElectricSUV",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GOF9najFHRHRVLTF4TVNOVDRDVWxPdVRFQXVXZnEwTzFnczdLYnZUejl1YllWVXpiaHFTeGhvZmx6aUdfMUx3amsyRzZjdk0teEkyaWo0MEJZLWtvOExXX3llSXdTaVpFd05zX1pB?oc=5",
+  "title": "I checked out the Zeekr 001 which could eventually hit U.S., Canada - TopElectricSUV",
+  "text": "I checked out the Zeekr 001 which could eventually hit U.S., Canada TopElectricSUV",
+  "author": "",
+  "published": "2026-10-24T08:07:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-24T18:56:36+00:00"
  },
  {
   "id": "85dcdf97d44cb5f6",
@@ -736,7 +796,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -18199,6 +18259,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "a2994b998aadb959",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3YWgyejQwNHl5S2NQM1N2OGlOcXh1ck1MUTlRZ0xKZkVaYnhKazJnSTFicHVLZkRxc1h1eHA4dWVFVDNHMTV5LXd3SXdaTEM3MVlmNVRaS2lNRTM1YXFhU0xlbw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-06T07:18:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T18:56:36+00:00"
+ },
+ {
   "id": "627b36d9e5bfbab5",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -19336,6 +19427,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "e3abe72c07fe6492",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBITVdUTU1WSHduYkU0eUdmNXJMYkNpSnhMVjF5VTVaWWdVLWNMYzR4R2F5SlBaazg0dVlONUhvdFE2Qmd0RmJiN05adzFLdi11T3RoV3RQakhlam1uYVN0dk8zaw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-01T11:14:52+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T18:56:36+00:00"
  },
  {
   "id": "8f6b274d6f8cbe44",
@@ -23233,7 +23355,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 4
+   "thumbs": 5
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -23515,10 +23637,10 @@
   "id": "302c4340f89ad9a9",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
-  "source_name": "Google News · Paul Tan's Automotive News",
+  "source_name": "Google News · Paul Tan",
   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVE5RSFRiVndlOWo5cmJsMWo1eXFPem1DTzVqclFCUVF2SHJpenFZRUp3UFcwaDZsQWVFZjVUaFhWTThhc2JweWRWNWx6dFA4QmhLNFFySmhGb25LNmo5cFhxaE94aWZ6YzMyTWc3bENkSWFOSlBhRXpOYk9mMUdBSzZESjk0Y1RsZ1BGTEVGcTA1dHFhTmg3R0FNY3pZLVZVZm1manI2MmNKemNQRGhndU9zWWRYYzB2Vks0b0dNVjZNSm5hdEtlemFQVzVXZGtJ?oc=5",
-  "title": "Zeekr at Carro Autofair 2026, Sept 25-27 at Puchong South – drop by to get a personalised quote, best deals! - Paul Tan's Automotive News",
-  "text": "Zeekr at Carro Autofair 2026, Sept 25-27 at Puchong South – drop by to get a personalised quote, best deals! Paul Tan's Automotive News",
+  "title": "Zeekr at Carro Autofair 2026, Sept 25-27 at Puchong South – drop by to get a personalised quote, best deals! - Paul Tan",
+  "text": "Zeekr at Carro Autofair 2026, Sept 25-27 at Puchong South – drop by to get a personalised quote, best deals! Paul Tan",
   "author": "",
   "published": "2026-09-16T07:00:00+00:00",
   "rating": null,
@@ -24559,7 +24681,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 9
+   "thumbs": 10
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
