@@ -67,7 +67,7 @@
  {
   "id": "5b6b5a4ec9bf7816",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcy01ajBDOWhYTHREQ2pERTBNWFhFd0FpNDdzTEg2TklsclBGYkVlZExUZXQzcDEtMUE2U1Jsb05yQTFFRGtjS1JoaVdNVl9UMFFjbkRua3JVRVhmdVlqWjdFS1p6a2ZIUlpNNjR5QW5vUGFQWktpUmFYWW5fUGVwVHNDcU9pREE0TFFDeldFZWxYZEhNZzY4aVdxRmVXajNnMnZHRC16TElFOUxmc29YaHFyb3BpTFBRaFVTMnl1aUZpUQ?oc=5",
   "title": "Exlantix confirmed to launch in Australia, with 2027 ES7 GT, EX9 and EX7 earmarked for a global arrival to rival 2026 Zeekr 7GT, Zeekr 7X and more - CarsGuide",
@@ -491,7 +491,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -517,7 +517,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T06:26:01+00:00"
@@ -21325,7 +21325,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -21348,7 +21348,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -29419,10 +29419,10 @@
   "id": "8367a76a3a31a4c1",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
-  "source_name": "Google News · Paul Tan's Automotive News",
+  "source_name": "Google News · Paul Tan",
   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeUFKV2JwNUJvTjBGQ01relBJdnRNSkE1T0pyUU1LbFpmajVMODFhTkNWd3ZMVFR1VmRud0NtUkJyR1FHVjRNVkNRQkFzZkd6eFRyeWQtdTRZTkpmS1JGU1JOVGduekdEQnRaU2p2ald6OGRicnpHcWYxVjZJUmx4VExNRGRVVW9zYlRDOGRtMGFpdTFqUGhuclp6S0poRXAwMUJlZHZzS3B5UDZ6WHNSNUEtRDVvNmNhN0V2VXVHZmFkbUhJLVBkS0hiRE5pa3FtX3c?oc=5",
-  "title": "Zeekr Malaysia celebrates 5,000 deliveries with optional 8-yr warranty, fr RM5k – existing owners buy by Sept 30 - Paul Tan's Automotive News",
-  "text": "Zeekr Malaysia celebrates 5,000 deliveries with optional 8-yr warranty, fr RM5k – existing owners buy by Sept 30 Paul Tan's Automotive News",
+  "title": "Zeekr Malaysia celebrates 5,000 deliveries with optional 8-yr warranty, fr RM5k – existing owners buy by Sept 30 - Paul Tan",
+  "text": "Zeekr Malaysia celebrates 5,000 deliveries with optional 8-yr warranty, fr RM5k – existing owners buy by Sept 30 Paul Tan",
   "author": "",
   "published": "2026-08-04T07:00:00+00:00",
   "rating": null,

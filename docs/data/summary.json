@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T23:24:09+00:00",
- "duration_s": 341.6,
+ "generated": "2026-10-24T01:54:30+00:00",
+ "duration_s": 317.3,
  "items_total": 995,
- "new_this_run": 164,
+ "new_this_run": 205,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
@@ -10,19 +10,13 @@
   "high_7d": 2,
   "medium_7d": 2,
   "low_7d": 3,
-  "competitor_news_7d": 120,
+  "competitor_news_7d": 118,
   "launch_signals_7d": 24,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 92,
+  "zeekr_news_7d": 91,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
-  {
-   "date": "2026-09-24",
-   "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 2
-  },
   {
    "date": "2026-09-25",
    "complaints": 1,
@@ -196,6 +190,12 @@
    "complaints": 0,
    "competitor_news": 10,
    "zeekr_news": 6
+  },
+  {
+   "date": "2026-10-24",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -934,12 +934,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 19,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 31,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -964,22 +964,22 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 59,
+   "count": 58,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 30,
+   "count": 27,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 52,
+   "count": 38,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 60,
+   "count": 57,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1048,14 +1048,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1070,7 +1070,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1508,9 +1508,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,
