@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T12:11:07+00:00",
- "duration_s": 337.4,
- "items_total": 997,
- "new_this_run": 216,
+ "generated": "2026-10-24T16:11:37+00:00",
+ "duration_s": 323.1,
+ "items_total": 999,
+ "new_this_run": 207,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 7,
@@ -10,10 +10,10 @@
   "high_7d": 1,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 93,
+  "competitor_news_7d": 92,
   "launch_signals_7d": 15,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 88,
+  "zeekr_news_7d": 87,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -194,7 +194,7 @@
   {
    "date": "2026-10-24",
    "complaints": 1,
-   "competitor_news": 1,
+   "competitor_news": 2,
    "zeekr_news": 1
   }
  ],
@@ -332,24 +332,30 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 16,
+   "n_30d": 17,
    "launch": [
+    "6a4c860a7340b58c",
     "dba085ae5a42f62c",
     "0740f7c371cf05aa",
     "39ee8a224f7f89bb",
     "5ed70c4b9f6db41c",
     "8b84f73c39185863"
    ],
-   "offer": [],
-   "latest": "dba085ae5a42f62c"
+   "offer": [
+    "6a4c860a7340b58c"
+   ],
+   "latest": "6a4c860a7340b58c"
   },
   "xpeng-g6": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
+    "6a4c860a7340b58c",
     "5ed70c4b9f6db41c"
    ],
-   "offer": [],
-   "latest": "5ed70c4b9f6db41c"
+   "offer": [
+    "6a4c860a7340b58c"
+   ],
+   "latest": "6a4c860a7340b58c"
   },
   "byd-sealion7": {
    "n_30d": 5,
@@ -859,6 +865,17 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "6a4c860a7340b58c",
+   "title": "2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark",
+   "source": "EV Central",
+   "t": "2026-10-24T12:16:39+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "xpeng-g6"
+   ]
+  },
+  {
    "kind": "competitor_offer",
    "id": "85dcdf97d44cb5f6",
    "title": "Tesla sharpens Model 3 appeal for fleets and novated buyers - Fleet EV News",
@@ -920,7 +937,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 10,
+   "count": 9,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -950,12 +967,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 31,
+   "count": 51,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 31,
+   "count": 33,
    "note": ""
   },
   "gn-brands-cn": {
@@ -965,12 +982,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 50,
+   "count": 51,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 31,
+   "count": 33,
    "note": ""
   },
   "carexpert": {
@@ -1034,14 +1051,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1056,7 +1073,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1100,7 +1117,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1494,9 +1511,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,

@@ -1,5 +1,51 @@
 [
  {
+  "id": "6a4c860a7340b58c",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/2026-xpeng-g6-long-range-review-sharp-value-tesla-model-y-rival-does-little-wrong-but-needs-more-spark/",
+  "title": "2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark",
+  "text": "XPeng got off to a shaky start in Australia, but the brand has had a reboot — under the control of head office in China, rather than the importer that looked after it previously — in its attempt to tackle the likes of BYD and Tesla, among others. First up is the updated XPeng G6 mid-sized SUV, the car we’ve tested here. The brand likes to talk about technology. The Chinese brand pitches itself as a tech company that also makes cars, with flying cars and robots among the things on its to-do list. READ MORE: Best EVs to buy in Australia right now: The ultimate guide to affordable electric cars READ MORE: Robots could soon replace car salespeople in XPeng dealerships as EV brand zeroes in on AI, tech READ MORE: XPeng action! New Aussie distributor announces XPeng G6 update including AWD Performance READ MORE: Roll out the network: XPeng confirms its first four Aussie showrooms as G6 mid-sized SUV electric launches. Another 20 outlets promised before the end of 2025 Yet the updated G6 — the mid-sized SUV that launched the brand in Australia — makes its strongest case with something more old-fashioned: price. Updated for 2026: the new XPeng G6 RWD Long Range. The range starts at $51,800",
+  "author": "Toby Hagon",
+  "published": "2026-10-24T12:16:39+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "xpeng-g6"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "xpeng"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-24T16:11:37+00:00"
+ },
+ {
   "id": "942306dc26f3e337",
   "type": "complaint",
   "source": "productreview-zeekr",
@@ -193,6 +239,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T20:17:57+00:00"
+ },
+ {
+  "id": "a31e4895b368f3ab",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xdmb1u/eu_zeekr_7x_mechanical_parking_pawl_or_epb_only/",
+  "title": "EU Zeekr 7X: mechanical parking pawl or EPB only?",
+  "text": "Does the European-spec Zeekr 7X (AWD) have a mechanical parking pawl engaging a toothed gear inside the drive unit, in addition to the electronic parking brake? The owner’s manual says P activates the EPB, but doesn’t clarify whether there is also a drivetrain lock. Has anyone checked the workshop manual or parts catalogue, or had this confirmed by a Zeekr technician?",
+  "author": "/u/leiiaxois",
+  "published": "2026-10-23T18:40:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-24T16:11:37+00:00"
  },
  {
   "id": "5b6b5a4ec9bf7816",
