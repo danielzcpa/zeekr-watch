@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-25T06:42:14+00:00",
- "duration_s": 348.7,
- "items_total": 1017,
- "new_this_run": 218,
+ "generated": "2026-10-25T12:29:15+00:00",
+ "duration_s": 338.4,
+ "items_total": 1019,
+ "new_this_run": 223,
  "counts": {
-  "complaints_24h": 1,
-  "complaints_7d": 7,
+  "complaints_24h": 0,
+  "complaints_7d": 6,
   "complaints_30d": 39,
   "high_7d": 2,
-  "medium_7d": 2,
+  "medium_7d": 1,
   "low_7d": 3,
   "competitor_news_7d": 93,
   "launch_signals_7d": 15,
@@ -195,7 +195,7 @@
    "date": "2026-10-25",
    "complaints": 0,
    "competitor_news": 1,
-   "zeekr_news": 0
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -974,27 +974,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 44,
+   "count": 39,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 29,
+   "count": 20,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 34,
+   "count": 35,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 48,
+   "count": 51,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 35,
+   "count": 37,
    "note": ""
   },
   "carexpert": {
@@ -1124,7 +1124,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1518,9 +1518,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,

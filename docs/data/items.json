@@ -1,5 +1,67 @@
 [
  {
+  "id": "180012247cbe3180",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xf0ou4/actual_v2l_limit/",
+  "title": "Actual V2L limit",
+  "text": "The Zeekr 7x has a listed V2L maximum of 3300W/15 amps. Does anyone know if there is any temporary surge ability for very short draw of anything higher? Our house has a water pump that has a continuous running load of around 5A, well within the car's limit, but has a locked rotor current/start up current of 18A, which it draws for a fraction of a second.",
+  "author": "/u/cleanestbestposter",
+  "published": "2026-10-25T12:07:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T12:29:15+00:00"
+ },
+ {
+  "id": "66ec65a484f6fe8c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Fakti.bg",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUg4X29lMHUya0hhZjRuWWkwVWFXLVpYNlF5bEJvSWNaNkszOVU4bGd2SHlVbG5uX2hxVVNsNnZGYjZpZzJDanUwUU84T2RMa0lPc2dUNGF5cklCMk1vdk1KX1Fpc1BhSHlaR0NRZmlkTWtmazdSd3E0dUNPbXQyRzFxWkZ1Zw?oc=5",
+  "title": "Zeekr lures customers of German premium brands ᐉ News from Fakti.bg - Auto - Fakti.bg",
+  "text": "Zeekr lures customers of German premium brands ᐉ News from Fakti.bg - Auto Fakti.bg",
+  "author": "",
+  "published": "2026-10-25T09:15:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-25T12:29:15+00:00"
+ },
+ {
   "id": "1d492143b832444d",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
