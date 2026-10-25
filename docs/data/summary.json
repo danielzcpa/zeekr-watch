@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-25T19:30:22+00:00",
- "duration_s": 386.2,
- "items_total": 1022,
- "new_this_run": 225,
+ "generated": "2026-10-25T22:00:01+00:00",
+ "duration_s": 293.5,
+ "items_total": 1025,
+ "new_this_run": 210,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 6,
-  "complaints_30d": 39,
-  "high_7d": 2,
+  "complaints_7d": 7,
+  "complaints_30d": 40,
+  "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 3,
   "competitor_news_7d": 93,
@@ -187,14 +187,14 @@
   },
   {
    "date": "2026-10-24",
-   "complaints": 2,
+   "complaints": 3,
    "competitor_news": 2,
    "zeekr_news": 3
   },
   {
    "date": "2026-10-25",
    "complaints": 0,
-   "competitor_news": 2,
+   "competitor_news": 4,
    "zeekr_news": 1
   }
  ],
@@ -203,18 +203,18 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 26
-  },
-  {
-   "key": "charging",
-   "zh": "充电/续航/电池",
-   "en": "Charging / range / battery",
-   "n": 14
+   "n": 27
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
+   "n": 15
+  },
+  {
+   "key": "charging",
+   "zh": "充电/续航/电池",
+   "en": "Charging / range / battery",
    "n": 14
   },
   {
@@ -255,8 +255,8 @@
   "X": 1
  },
  "sources_30d": {
+  "Google Play (AU)": 12,
   "Reddit r/Zeekr7xAustralia": 12,
-  "Google Play (AU)": 11,
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
   "Reddit r/EVAustralia": 3,
@@ -369,12 +369,13 @@
    "latest": "0740f7c371cf05aa"
   },
   "kia-ev5": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
+    "1de7c495e18800cf",
     "6c8a09ae665a20cb"
    ],
    "offer": [],
-   "latest": "6c8a09ae665a20cb"
+   "latest": "1de7c495e18800cf"
   },
   "hyundai-elexio": {
    "n_30d": 2,
@@ -865,6 +866,23 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "1de7c495e18800cf",
+   "title": "iCaur V25’s boxy design will come with an EV range trade-off",
+   "source": "CarExpert",
+   "t": "2026-10-25T20:30:00+00:00",
+   "competitors": [
+    "kia-ev5"
+   ]
+  },
+  {
+   "kind": "complaint_high",
+   "id": "2025a34f8eedc406",
+   "title": "1★ · app currently crashes on s25 ultra when accessing power cont",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-10-24T21:55:51+00:00"
+  },
+  {
+   "kind": "competitor_launch",
    "id": "6a4c860a7340b58c",
    "title": "2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark",
    "source": "EV Central",
@@ -973,27 +991,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 36,
+   "count": 35,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 17,
+   "count": 15,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 35,
+   "count": 27,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 53,
+   "count": 50,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 30,
+   "count": 29,
    "note": ""
   },
   "carexpert": {
@@ -1062,39 +1080,39 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,

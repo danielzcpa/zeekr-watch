@@ -1,5 +1,80 @@
 [
  {
+  "id": "1de7c495e18800cf",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/icaur-v25s-boxy-design-will-come-with-an-ev-range-trade-off",
+  "title": "iCaur V25’s boxy design will come with an EV range trade-off",
+  "text": "The upcoming iCaur V25 will bring an 80kWh battery to Australia, but its claimed driving range trails several SUVs with similarly sized batteries, a gap iCaur attributes in part to its boxy design. Speaking with Australian media including CarExpert in China, iCaur Australia product manager Derek Tian confirmed the mid-size electric SUV will come with a lithium iron phosphate battery supplied by CATL. “WLTP range is about 368km,” Mr Tian said. Asked whether the V25's square body design explained the relatively modest range from an 80kWh battery, he replied: “The boxy shape [affects its aerodynamics], yes.” The V25 is due to lead iCaur’s Australian launch in early 2027, with Mr Tian suggesting it could arrive towards the end of the first quarter. Mr Tian said iCaur had tested the V25 on Australian roads. “We have done road testing too. Driving in Australia, on the highway and in town, 300km [range] is okay,” he said. Mr Tian also discussed the competitor models iCaur had benchmarked ahead of the V25's local introduction, one of which isn't an electric vehicle (EV). “I researched the Suzuki Jimny and Kia EV5. The EV5 is also boxy, but it is a family SUV,” he said. The front-wheel driv",
+  "author": "Alborz Fallah",
+  "published": "2026-10-25T20:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T22:00:01+00:00"
+ },
+ {
+  "id": "a6aa2695558e7d33",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/mg-insists-australians-want-electric-utes-despite-slow-sales",
+  "title": "MG insists Australians want electric utes despite slow sales",
+  "text": "The Australian market for electric utes is small as it stands, but MG claims there's untapped demand as it launches the U9 EV dual-cab Down Under. Utes have accounted for 157,531 deliveries so far this year to September, or 17 per cent of Australia's total new-vehicle market, with diesel and plug-in hybrid (PHEV) power dominating the powertrain mix. Electric utes, meanwhile, have struggled to gain traction. Just over 300 examples of the KGM Musso EV have been delivered since its local launch late last year, while Toyota recorded roughly 300 sales of the HiLux BEV between May and early July, of which fewer than 10 were delivered to private buyers. Nevertheless, MG believes it can buck the trend with its new U9 EV, a more lifestyle-focused addition to the small pool of battery-powered dual-cabs. \"It's a vehicle that customers here in Australia have been yearning for,\" MG Australia marketing director Dimitri Andreatidis told CarExpert . \"Our research is certainly saying that customers are excited.\" \"We've shown this MG U9 EV at the Melbourne motor show this year, as well as Everything Electric, and we have customers specifically asking for an EV ute,\" added product planning manager Ke",
+  "author": "Josh Nevett",
+  "published": "2026-10-25T20:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T22:00:01+00:00"
+ },
+ {
   "id": "043ae35df80a1385",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -160,6 +235,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
+  "id": "2025a34f8eedc406",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=99ac2ece-d9a2-4cd2-beff-d1d7d9b2922a",
+  "title": "1★ · app currently crashes on s25 ultra when accessing power cont",
+  "text": "app currently crashes on s25 ultra when accessing power controls (kind of important). zeekr seems to hold much contempt for android uses and actively denies features for them, preferring to support apple (which is laughably ironic given the in built OS is running android). extremely bizzare choices by Geely here.",
+  "author": "G T",
+  "published": "2026-10-24T21:55:51+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "service"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.7",
+   "thumbs": 0
+  },
+  "first_seen": "2026-10-25T22:00:01+00:00"
  },
  {
   "id": "5d8fba96c81a1dbb",
@@ -1066,7 +1178,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
