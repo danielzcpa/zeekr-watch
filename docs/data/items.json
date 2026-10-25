@@ -1,5 +1,38 @@
 [
  {
+  "id": "043ae35df80a1385",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Mashable",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hbVdIODdGOVNZRmVjb0djY3F3YTZoZ3M2cmkzZ3JKbDN2VjhOa19UcnFIbDhqZmQtVXBsNjVHSnl2dHFtVWdGTlM4blFST0RxT1FoMEl4a20zdVdaVW5YSmtmNzBzc1JyRVBRRUFwVU5rcFpv?oc=5",
+  "title": "Porsche unveils new electric Taycan under $100,000 - Mashable",
+  "text": "Porsche unveils new electric Taycan under $100,000 Mashable",
+  "author": "",
+  "published": "2026-10-25T15:30:31+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-25T19:30:22+00:00"
+ },
+ {
   "id": "180012247cbe3180",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -844,6 +877,45 @@
   "first_seen": "2026-10-23T06:26:01+00:00"
  },
  {
+  "id": "d855f78f64d2ee31",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1xd3fz5/zeekr_7x_vs_xpeng_g6_australian_comparison/",
+  "title": "Zeekr 7X vs XPENG G6 – Australian comparison",
+  "text": "I’ve seen quite a few people asking for a comparison between the Zeekr 7X and XPENG G6 across Reddit and Facebook, so I thought I’d put a video together! As a 7X owner who’s also spent time with the G6, I’ve tried to keep the comparison as honest and unbiased as possible, covering performance, driving experience, suspension, practicality, battery and charging. Hopefully this helps anyone trying to decide between the two! Happy to answer any questions but also hear what other people think. Video - https://youtu.be/ihXlEixEEuQ",
+  "author": "/u/natesaliba23",
+  "published": "2026-10-23T03:42:54+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T19:30:22+00:00"
+ },
+ {
   "id": "d46fd32b4275b1ff",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -994,7 +1066,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -1020,10 +1092,41 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T06:26:01+00:00"
+ },
+ {
+  "id": "5f7d32a0623aba13",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVlyYWVyQXNDcDM5enBLRmJEeXpkWmZRcWY3a2hTSkR6YVozMWk1NTZiYUZKSC02M3pFRjhoZmhrdGNURkNscjNDNmtxdVlqQ21FMW5hNXowNFllSlpwWDRQZHVGX2pITnZwV2pzQnROUV9ZTUxlNzg5ZUhOVjlvTEVvdkxWYmR5T1JCS25OeEtMRHhza0I0N0NTSm1PVjAyLTJxVWl1MFE2Zm9aNFNSdnVR?oc=5",
+  "title": "Zeekr SUV cars with kilometres under 150,000km with electric engine range over 600km for sale in Australia - Carsales",
+  "text": "Zeekr SUV cars with kilometres under 150,000km with electric engine range over 600km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-23T00:45:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T19:30:22+00:00"
  },
  {
   "id": "fa15f25f5765628d",
@@ -9811,7 +9914,7 @@
   "title": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia - CarsGuide",
   "text": "2026 Xpeng Mona L05 EV details emerge as the Zeekr 7X, BYD Sealion 7 rival firms for Australia CarsGuide",
   "author": "",
-  "published": "2026-10-16T06:30:12+00:00",
+  "published": "2026-10-16T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -22450,37 +22553,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "f0f6221939519615",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOQWMxUksxRlhkdmRYOVFqaVlfblN0RnBUaHUyMWp1bTN1OGtNT1h2VmlHR3pHNXlOeUNKdkE5WkxKUmJLSllzbHRLZXl4LU5pZUtyel85eUZVN0drQkJ4VmZhQWx4TFNOc0pKUWozQ2N1WWdBemRhdmNQdWhkVy1Pa05ITjQ?oc=5",
-  "title": "Zeekr confirms a world-first for Australia - CarExpert",
-  "text": "Zeekr confirms a world-first for Australia CarExpert",
-  "author": "",
-  "published": "2026-09-22T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "5702fa1c01389729",
   "type": "news_zeekr",
   "source": "evcentral-zeekr",
@@ -22732,6 +22804,37 @@
    "price"
   ],
   "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "f0f6221939519615",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOQWMxUksxRlhkdmRYOVFqaVlfblN0RnBUaHUyMWp1bTN1OGtNT1h2VmlHR3pHNXlOeUNKdkE5WkxKUmJLSllzbHRLZXl4LU5pZUtyel85eUZVN0drQkJ4VmZhQWx4TFNOc0pKUWozQ2N1WWdBemRhdmNQdWhkVy1Pa05ITjQ?oc=5",
+  "title": "Zeekr confirms a world-first for Australia - CarExpert",
+  "text": "Zeekr confirms a world-first for Australia CarExpert",
+  "author": "",
+  "published": "2026-09-21T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -31178,7 +31281,7 @@
   "title": "2026 Zeekr 7X Long Range RWD review: Long-term introduction - CarExpert",
   "text": "2026 Zeekr 7X Long Range RWD review: Long-term introduction CarExpert",
   "author": "",
-  "published": "2026-07-21T07:00:00+00:00",
+  "published": "2026-07-22T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
