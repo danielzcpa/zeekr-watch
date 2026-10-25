@@ -1,5 +1,36 @@
 [
  {
+  "id": "1d492143b832444d",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xeq83y/review_video_walking_through_the_7x_facelift/",
+  "title": "Review Video walking through the 7X Facelift",
+  "text": "",
+  "author": "/u/todaytomato",
+  "published": "2026-10-25T02:06:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T06:42:14+00:00"
+ },
+ {
   "id": "53adbdf5104cfb9d",
   "type": "competitor_news",
   "source": "whichcar",
@@ -241,6 +272,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-24T07:09:49+00:00"
+ },
+ {
+  "id": "b2edc6f93de348ae",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=59892272-58a6-479b-bc02-db1b69a27f1b",
+  "title": "1★ · this app uses too much battery on android, please optimize i",
+  "text": "this app uses too much battery on android, please optimize it.",
+  "author": "Vincent",
+  "published": "2026-10-24T03:41:36+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.7",
+   "thumbs": 0
+  },
+  "first_seen": "2026-10-25T06:42:14+00:00"
  },
  {
   "id": "2b6933aa8f0d9c7b",
@@ -866,7 +932,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -892,7 +958,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T06:26:01+00:00"
@@ -12072,6 +12138,39 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
+  "id": "56cbd11b2a810c7b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Redland Bayside News",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTGNVdUFlWXg2Ni1HdmpkVGY0X1QxUnk4eVZiT0tzWFhpT2V3OFhGblpkNEUwRDVuWEc0REEyRFBENFVGcmVkc0RYVWNPc29nOGtjRlJJbGJQbnMybFB0amY4VmstenNP?oc=5",
+  "title": "Zeekr 9X targets LandCruiser and Range Rover buyers - Redland Bayside News",
+  "text": "Zeekr 9X targets LandCruiser and Range Rover buyers Redland Bayside News",
+  "author": "",
+  "published": "2026-10-14T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
+ },
+ {
   "id": "c870152aabac62f1",
   "type": "competitor_news",
   "source": "evcentral",
@@ -12209,39 +12308,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T12:49:04+00:00"
- },
- {
-  "id": "56cbd11b2a810c7b",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Redland Bayside News",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTGNVdUFlWXg2Ni1HdmpkVGY0X1QxUnk4eVZiT0tzWFhpT2V3OFhGblpkNEUwRDVuWEc0REEyRFBENFVGcmVkc0RYVWNPc29nOGtjRlJJbGJQbnMybFB0amY4VmstenNP?oc=5",
-  "title": "Zeekr 9X targets LandCruiser and Range Rover buyers - Redland Bayside News",
-  "text": "Zeekr 9X targets LandCruiser and Range Rover buyers Redland Bayside News",
-  "author": "",
-  "published": "2026-10-14T05:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
   "id": "19c7210908857596",
@@ -21858,7 +21924,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -21881,7 +21947,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -28019,7 +28085,7 @@
   "title": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue - BigGo Finance",
   "text": "South Korea's Privacy Watchdog Opens Review of Zeekr EV Data Transfers to China; Voice and Location Data at Issue BigGo Finance",
   "author": "",
-  "published": "2026-08-22T23:10:55+00:00",
+  "published": "2026-08-22T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
