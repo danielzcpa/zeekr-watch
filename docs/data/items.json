@@ -1,5 +1,41 @@
 [
  {
+  "id": "53adbdf5104cfb9d",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/reviews/volvo-ex90-review-luxury-seven-seat-suv-enters-the-electric-age",
+  "title": "Volvo EX90 review: Luxury seven-seat SUV enters the electric age",
+  "text": "Volvo’s flagship seven-seat electric SUV combines exceptional refinement, family-friendly practicality and impressive performance... but for a price. The post Volvo EX90 review: Luxury seven-seat SUV enters the electric age first appeared on WhichCar .",
+  "author": "Michael Pickering",
+  "published": "2026-10-25T00:12:32+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex90"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
   "id": "5d8fba96c81a1dbb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -830,7 +866,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -2193,7 +2229,7 @@
  {
   "id": "fdf8fb18edc4c6a6",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · zecar",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjVIeVNOQWdzc3NxX3JleEdLU1pfUHZMMnBfTmdQQW5qZ1pFeEcxdmphay1NMkV5SG01TDVRSHlnTk1iQnk0RkczNU9pTFFUZGVCVGE4dWtVNFo4eHdYRjZwSS1NU0xjTVZxNVFneS1zeXd2MEVrMjRLQmNKRndJMVFXYUVvNThEaWlTVHBsdTUyNHM?oc=5",
   "title": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 - zecar",
@@ -2221,7 +2257,7 @@
    "launch",
    "price"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T05:17:14+00:00"
@@ -5388,6 +5424,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "4225c2657f91a39e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DN21Hd2NoUDdqaUFWVXB4cUlsUjVlemxpcGQ5Wk91ekY5bTFiVmZtSFd0T2p4aFFvQjB1cVk4a3VlazNWbU9FRjdvS3B5RkZCTndETVdEWHNkaFR2MVZha2c4YlljTC1US0dnTy1tZWtXUEhxZWc?oc=5",
+  "title": "Zeekr cars with battery capacity over 20kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr cars with battery capacity over 20kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T02:29:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
  },
  {
   "id": "5267769f4e3ac0a1",
@@ -12004,39 +12072,6 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
-  "id": "56cbd11b2a810c7b",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Redland Bayside News",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTGNVdUFlWXg2Ni1HdmpkVGY0X1QxUnk4eVZiT0tzWFhpT2V3OFhGblpkNEUwRDVuWEc0REEyRFBENFVGcmVkc0RYVWNPc29nOGtjRlJJbGJQbnMybFB0amY4VmstenNP?oc=5",
-  "title": "Zeekr 9X targets LandCruiser and Range Rover buyers - Redland Bayside News",
-  "text": "Zeekr 9X targets LandCruiser and Range Rover buyers Redland Bayside News",
-  "author": "",
-  "published": "2026-10-14T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-14T10:31:43+00:00"
- },
- {
   "id": "c870152aabac62f1",
   "type": "competitor_news",
   "source": "evcentral",
@@ -12174,6 +12209,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T12:49:04+00:00"
+ },
+ {
+  "id": "56cbd11b2a810c7b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Redland Bayside News",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwTGNVdUFlWXg2Ni1HdmpkVGY0X1QxUnk4eVZiT0tzWFhpT2V3OFhGblpkNEUwRDVuWEc0REEyRFBENFVGcmVkc0RYVWNPc29nOGtjRlJJbGJQbnMybFB0amY4VmstenNP?oc=5",
+  "title": "Zeekr 9X targets LandCruiser and Range Rover buyers - Redland Bayside News",
+  "text": "Zeekr 9X targets LandCruiser and Range Rover buyers Redland Bayside News",
+  "author": "",
+  "published": "2026-10-14T05:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T10:31:43+00:00"
  },
  {
   "id": "19c7210908857596",
@@ -21092,6 +21160,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "7cb7e95d796d353b",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBINXJLOFJKMXRrcll2cjZpaWVtRVNWMkxyMWRKbDVwa0p3bFdsYjhQdDJRaE1aQUIwM3NveVdmNjFoRWRQSHFZZjVjS3dVbHpZU0JKelZ6R0J2WDR5Tm0yZDZoYw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-25T13:49:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
   "id": "f2c76459594499d4",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -21225,6 +21324,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "da979b3121b52bfd",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHakFWTGlJcDZERkJEaXVZMWtlTmdaZkptSkdfMXVGUmRRQ3JBMlpBbmRxT21BaDY3QTJLeHlkVUI1X2htQWQ0YmpuX0JUMHNDNnQzV09WT29yNlU?oc=5",
+  "title": "Smart #5 Family EV SUV - Mercedes - Automotive - Whirlpool Forums",
+  "text": "Smart #5 Family EV SUV - Mercedes - Automotive Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-24T12:01:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "smart-5"
+  ],
+  "brands": [
+   "smart"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
  },
  {
   "id": "36be12c7d9382327",
@@ -21726,7 +21858,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -21749,7 +21881,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -27286,6 +27418,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "17696f7e38890c3e",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3UV96QXNJdTJqYlpXRHNja2cza1VFeHl6NmRRUzlCempzU2M4WDVxdTFGX0hRTlJjc3MwSjVZY1hZSUd4cllSRmdwaGRWUmcwN3c?oc=5",
+  "title": "Zeekr 7X Experience - OzBargain",
+  "text": "Zeekr 7X Experience OzBargain",
+  "author": "",
+  "published": "2026-08-31T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
   "id": "5932cadb80fa0caa",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -27294,7 +27457,7 @@
   "title": "2027 Zeekr 7GT review: Quick drive - CarExpert",
   "text": "2027 Zeekr 7GT review: Quick drive CarExpert",
   "author": "",
-  "published": "2026-08-31T07:00:00+00:00",
+  "published": "2026-08-30T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -28627,6 +28790,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "f1861c841da694a0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWmdMR2RVRXhuMjVLc25UMHBTLUFoZDh2c1N0V3ZVSXFySFE4aTVlVjJLa1I0UV9mTWdZM0d4MEVNaDc4S1ctbmRvVTNPQy1telRCRHhOQU5YZWtpaFhCc3NFVQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-08-17T05:01:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
   "id": "42ed21379090a0c7",
   "type": "complaint",
   "source": "productreview-zeekr",
@@ -29069,6 +29263,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "ddf620a6d626c8f1",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EcWFVSTg5ZG9ZUGU2T1oxNGlydy10TXdFSE9yX3g1eDVqNG1sWk9xQXNwQXhyWkpHRGJadkdoV3ltdnpPZlRHVk11ZmxxTE9ZM1hJOTJJcHVjdVllVUt3eFVDUQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-08-14T05:13:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
   "id": "102d481d18151cdc",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
@@ -29134,6 +29359,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "787e291055230a23",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kYTU4ZkxZTTIyYm1Od2cxX0J0R2dmOF9TQXBlVHFIa0dsZDV1NDFvdUpSekFwVFUwUWdvS2o5ejk2T1lkblcwVHNOeUJENUZfTHJLWTI4TmpaWVhOU1Uwb2pfSQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-08-11T12:54:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
  },
  {
   "id": "ed95945ae9b069fc",
@@ -29972,6 +30228,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "1d2993fe9d0e494a",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01cmMwMVNsR1NoMl9NYkZSWDd3ZVlJeF9RMnVJcHhUcE9EM3RBVXpNLXYtVVRwcTFaTUx6RmItQXFiTTFtRDNzS2JHSDhQZC1SYmc?oc=5",
+  "title": "Polestar 4 - Novated Leasing Fleet Discount - OzBargain",
+  "text": "Polestar 4 - Novated Leasing Fleet Discount OzBargain",
+  "author": "",
+  "published": "2026-08-03T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
  },
  {
   "id": "88a0e5bc661bbaac",
@@ -31664,6 +31955,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "5270f9ca0a84dfd7",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ME9RV3ZDTnZwYnMzMnFidVNQS3hJOHlHT1RQSUpCdUQzZlVyelRKQ0ljelZRaEZuemhfeE1KeDJkcWtRemNXVjdnSWVoMk80VWJjSHpFc1J5R0wxSV9ibjBsNA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-07-04T23:47:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
  },
  {
   "id": "3a24a1ea477f0e79",
@@ -34410,6 +34732,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "3f01313344ecb558",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcHNyNE9zR0djVmpjQUdvYmljRHBVR0pkN2psQ3Y4MGI2ZHdzWHpMOFBuTm5LUWo0NnV2SmxJeWpndks4Nm1aNmVIYU9rTWlYNTQ4T3IwNWlWcTZUd1pTYm5jcw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-08T07:15:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-25T01:32:33+00:00"
  },
  {
   "id": "26c731d76f0003f9",

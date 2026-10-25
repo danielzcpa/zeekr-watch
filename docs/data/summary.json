@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T23:35:26+00:00",
- "duration_s": 313.9,
- "items_total": 1004,
- "new_this_run": 208,
+ "generated": "2026-10-25T01:32:33+00:00",
+ "duration_s": 315.6,
+ "items_total": 1015,
+ "new_this_run": 176,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 7,
@@ -10,19 +10,13 @@
   "high_7d": 1,
   "medium_7d": 2,
   "low_7d": 4,
-  "competitor_news_7d": 92,
+  "competitor_news_7d": 93,
   "launch_signals_7d": 15,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 84,
+  "zeekr_news_7d": 85,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
-  {
-   "date": "2026-09-25",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 2
-  },
   {
    "date": "2026-09-26",
    "complaints": 1,
@@ -171,7 +165,7 @@
    "date": "2026-10-20",
    "complaints": 2,
    "competitor_news": 19,
-   "zeekr_news": 29
+   "zeekr_news": 30
   },
   {
    "date": "2026-10-21",
@@ -196,6 +190,12 @@
    "complaints": 1,
    "competitor_news": 2,
    "zeekr_news": 3
+  },
+  {
+   "date": "2026-10-25",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -811,7 +811,7 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
     "2c67435d1d334093",
     "205ea3973e46d6d4",
@@ -821,7 +821,7 @@
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "2c67435d1d334093"
+   "latest": "53adbdf5104cfb9d"
   },
   "bmw-ix": {
    "n_30d": 0,
@@ -937,12 +937,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 10,
+   "count": 8,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -967,27 +967,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 48,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 22,
+   "count": 32,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 47,
+   "count": 43,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 47,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 32,
+   "count": 33,
    "note": ""
   },
   "carexpert": {
