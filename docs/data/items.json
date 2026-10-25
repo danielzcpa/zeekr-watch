@@ -503,7 +503,7 @@
  {
   "id": "5b6b5a4ec9bf7816",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcy01ajBDOWhYTHREQ2pERTBNWFhFd0FpNDdzTEg2TklsclBGYkVlZExUZXQzcDEtMUE2U1Jsb05yQTFFRGtjS1JoaVdNVl9UMFFjbkRua3JVRVhmdVlqWjdFS1p6a2ZIUlpNNjR5QW5vUGFQWktpUmFYWW5fUGVwVHNDcU9pREE0TFFDeldFZWxYZEhNZzY4aVdxRmVXajNnMnZHRC16TElFOUxmc29YaHFyb3BpTFBRaFVTMnl1aUZpUQ?oc=5",
   "title": "Exlantix confirmed to launch in Australia, with 2027 ES7 GT, EX9 and EX7 earmarked for a global arrival to rival 2026 Zeekr 7GT, Zeekr 7X and more - CarsGuide",
@@ -529,7 +529,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T20:17:57+00:00"
@@ -21527,21 +21527,25 @@
  },
  {
   "id": "789dc0b548142229",
-  "type": "competitor_news",
+  "type": "news_zeekr",
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2xmWEY4bW5PNjNfenRCdVlBc2x1SHoyNTJsYVpwbXBzUkpWejhCc1RUV3RGajVWQ2pROFkzQ0RibHJuSWNYY2phXzUwbTZZdVNuUV9GY2ZCeV93YTk1Vm8zeHIyU3dmeU9seXRvNUQxdlktZldlcFFGT3FGbG14T09LczJxaHR4ZlFuTHY3U0k0ZkZPbTJEWlB2MzFlc1dNNGJZMksyeFE1aFRpbjB0Y2g1QmJwQWRfOW1iUUxHYnBMN3Iw?oc=5",
-  "title": "The 07L is the first model confirmed for Australia from Avatr. - CarsGuide",
-  "text": "The 07L is the first model confirmed for Australia from Avatr. CarsGuide",
+  "title": "Watch out, 2026 Zeekr 7X: 2027 Avatr 07L electric SUV confirmed for Australia as new Tesla Model Y rival, with deliveries starting early next year - CarsGuide",
+  "text": "Watch out, 2026 Zeekr 7X: 2027 Avatr 07L electric SUV confirmed for Australia as new Tesla Model Y rival, with deliveries starting early next year CarsGuide",
   "author": "",
   "published": "2026-09-24T07:00:00+00:00",
   "rating": null,
-  "zeekr": false,
-  "models": [],
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
   "competitors": [
+   "tesla-model-y",
    "avatr"
   ],
   "brands": [
+   "tesla",
    "avatr"
   ],
   "categories": [],
