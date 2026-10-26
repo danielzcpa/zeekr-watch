@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T00:05:12+00:00",
- "duration_s": 451.8,
- "items_total": 1026,
- "new_this_run": 27,
+ "generated": "2026-10-26T04:34:24+00:00",
+ "duration_s": 332.6,
+ "items_total": 1037,
+ "new_this_run": 216,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
@@ -10,9 +10,9 @@
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 3,
-  "competitor_news_7d": 93,
+  "competitor_news_7d": 94,
   "launch_signals_7d": 16,
-  "offer_signals_7d": 4,
+  "offer_signals_7d": 5,
   "zeekr_news_7d": 81,
   "offer_page_changes_7d": 3
  },
@@ -99,18 +99,18 @@
    "date": "2026-10-10",
    "complaints": 0,
    "competitor_news": 4,
-   "zeekr_news": 4
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-11",
    "complaints": 1,
    "competitor_news": 6,
-   "zeekr_news": 4
+   "zeekr_news": 5
   },
   {
    "date": "2026-10-12",
    "complaints": 1,
-   "competitor_news": 17,
+   "competitor_news": 18,
    "zeekr_news": 10
   },
   {
@@ -135,7 +135,7 @@
    "date": "2026-10-16",
    "complaints": 3,
    "competitor_news": 13,
-   "zeekr_news": 14
+   "zeekr_news": 15
   },
   {
    "date": "2026-10-17",
@@ -188,13 +188,13 @@
   {
    "date": "2026-10-25",
    "complaints": 0,
-   "competitor_news": 5,
-   "zeekr_news": 1
+   "competitor_news": 6,
+   "zeekr_news": 2
   },
   {
    "date": "2026-10-26",
    "complaints": 0,
-   "competitor_news": 0,
+   "competitor_news": 7,
    "zeekr_news": 0
   }
  ],
@@ -332,8 +332,9 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 18,
+   "n_30d": 19,
    "launch": [
+    "2426883974d70bd6",
     "d9be8d5e830449ea",
     "6a4c860a7340b58c",
     "dba085ae5a42f62c",
@@ -343,20 +344,23 @@
     "8b84f73c39185863"
    ],
    "offer": [
+    "2426883974d70bd6",
     "6a4c860a7340b58c"
    ],
-   "latest": "d9be8d5e830449ea"
+   "latest": "2426883974d70bd6"
   },
   "xpeng-g6": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "2426883974d70bd6",
     "6a4c860a7340b58c",
     "5ed70c4b9f6db41c"
    ],
    "offer": [
+    "2426883974d70bd6",
     "6a4c860a7340b58c"
    ],
-   "latest": "6a4c860a7340b58c"
+   "latest": "2426883974d70bd6"
   },
   "byd-sealion7": {
    "n_30d": 5,
@@ -493,7 +497,7 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 14,
+   "n_30d": 15,
    "launch": [
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
@@ -508,7 +512,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "85dcdf97d44cb5f6"
+   "latest": "e1020d304dd3b688"
   },
   "polestar-2": {
    "n_30d": 2,
@@ -607,13 +611,16 @@
    "latest": null
   },
   "xpeng-x9": {
-   "n_30d": 9,
+   "n_30d": 10,
    "launch": [
+    "2426883974d70bd6",
     "2c8e385c13663939",
     "59331c007457eaac"
    ],
-   "offer": [],
-   "latest": "7fa7dac55aee584c"
+   "offer": [
+    "2426883974d70bd6"
+   ],
+   "latest": "2426883974d70bd6"
   },
   "mb-eqv": {
    "n_30d": 0,
@@ -753,8 +760,10 @@
    "latest": "2c67435d1d334093"
   },
   "xpeng-g9l": {
-   "n_30d": 9,
+   "n_30d": 12,
    "launch": [
+    "36a2a4b2ca4db7b8",
+    "2426883974d70bd6",
     "e42cfb3251435a2d",
     "ac7a150e4fc7b748",
     "bbb5fd6a4bc73847",
@@ -763,8 +772,10 @@
     "205ea3973e46d6d4",
     "29457fe8e0433a02"
    ],
-   "offer": [],
-   "latest": "e42cfb3251435a2d"
+   "offer": [
+    "2426883974d70bd6"
+   ],
+   "latest": "36a2a4b2ca4db7b8"
   },
   "wey-v9x": {
    "n_30d": 0,
@@ -867,6 +878,29 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "36a2a4b2ca4db7b8",
+   "title": "XPeng G9L Australian arrival set for early 2027 - Carsales",
+   "source": "Google News · Carsales",
+   "t": "2026-10-26T01:29:25+00:00",
+   "competitors": [
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "2426883974d70bd6",
+   "title": "XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival",
+   "source": "EV Central",
+   "t": "2026-10-26T00:11:16+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "xpeng-g6",
+    "xpeng-x9",
+    "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "d9be8d5e830449ea",
    "title": "Volvo reveals plans for cut-price global all-electric SUV",
    "source": "WhichCar",
@@ -914,13 +948,6 @@
    ]
   },
   {
-   "kind": "complaint_high",
-   "id": "b2edc6f93de348ae",
-   "title": "1★ · this app uses too much battery on android, please optimize i",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-10-24T03:41:36+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "dba085ae5a42f62c",
    "title": "Tesla Cybertruck cancelled for Australia, deposits to be refunded",
@@ -930,90 +957,68 @@
     "tesla-model-y",
     "tesla-model-3"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "86946539d4c4b99b",
-   "title": "Fancy an electric wagon? Mercedes-Benz CLA Shooting Brake electric priced at $72,990 for Australia, just $790 above sedan",
-   "source": "EV Central",
-   "t": "2026-10-23T01:00:00+00:00",
-   "competitors": [
-    "mazda-6e",
-    "mb-cla-ev"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "fa15f25f5765628d",
-   "title": "Denza N9: Luxury three-row, plug-in hybrid SUV one step closer to Australia",
-   "source": "CarExpert",
-   "t": "2026-10-23T00:44:00+00:00",
-   "competitors": [
-    "denza-z9gt",
-    "byd-sealion8"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 100,
+   "note": ""
   },
   "gn-zeekr-1d": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 15,
+   "note": ""
   },
   "gn-zeekr-complaint": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 100,
+   "note": ""
   },
   "gn-zeekr-media": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 100,
+   "note": ""
   },
   "gn-zeekr-forums": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 100,
+   "note": ""
   },
   "gn-zeekr-recall": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 1,
+   "note": ""
   },
   "gn-zeekr-evcentral": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 80,
+   "note": ""
   },
   "gn-ev-launch-au": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 34,
+   "note": ""
   },
   "gn-ev-offer-au": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 17,
+   "note": ""
   },
   "gn-brands-cn": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 30,
+   "note": ""
   },
   "gn-brands-eu": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 33,
+   "note": ""
   },
   "gn-evcentral-industry": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 503"
+   "ok": true,
+   "count": 32,
+   "note": ""
   },
   "carexpert": {
    "ok": true,
@@ -1036,9 +1041,9 @@
    "note": ""
   },
   "evcentral-zeekr": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 10,
+   "note": ""
   },
   "chasingcars": {
    "ok": true,
@@ -1076,14 +1081,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1098,7 +1103,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1142,7 +1147,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {

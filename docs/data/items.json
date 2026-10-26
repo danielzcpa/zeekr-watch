@@ -1,12 +1,275 @@
 [
  {
+  "id": "568599eaadd0b46c",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/chery-targets-towing-and-payload-improvements-for-australian-models",
+  "title": "Chery targets towing and payload improvements for Australian models",
+  "text": "Chery is targeting better towing and load-carrying capability for two Australian-bound models, with work continuing on the Chery Stockman ute’s payload and a higher towing capacity planned for the iCaur V27 SUV. Speaking to CarExpert and other Australian media in China, an iCaur Australia product manager acknowledged the V27’s current limit and committed to improving it. “Currently, the V27's towing capacity is about 1.6 tonnes. It is not enough, but we will improve it in the future,\" they said. The V27 is the larger of the two SUVs confirmed for iCaur's Australian rollout . It uses an extended-range electric vehicle (EREV) powertrain, with electric motors driving the wheels and a petrol engine generating electricity. The battery can also be recharged by plugging it in. Its quoted 1600kg towing capacity is below the 3500kg available from a Ford Everest fitted with the genuine tow pack. The smaller V25 has a higher quoted limit than the V27, at 1800kg for both its battery-electric and range-extender versions. Asked whether the V25 could tow more than the V27, the product manager said: “Yes, because the V27 was developed earlier than the V25.” iCaur hasn’t announced a revised V27 cap",
+  "author": "Alborz Fallah",
+  "published": "2026-10-26T03:07:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "9e0d22c0d9a232c4",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjVpQU5reEZtZU1EdllQNHluVm5UZ0FTVk5FaUdOdDZwUldTZXcycVlwNi1vZ2NyOUJtd1ItX1otLUV6MnhqcDZ1Y0pONmZWTk9FVFpQT25kWFpvMWZzZWgza0stdGRoRzVIanNldDJ2aVNScDlOYTgxTDlvQnI4Y3lhSnRlVzVzWjVsRThaUjdfT1Fhb25ucEJ0QVRoZmM?oc=5",
+  "title": "2027 GWM Haval H7 pricing: New hybrid SUV matches Toyota RAV4 - CarExpert",
+  "text": "2027 GWM Haval H7 pricing: New hybrid SUV matches Toyota RAV4 CarExpert",
+  "author": "",
+  "published": "2026-10-26T02:02:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "14c596b4cdca60d9",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-gwm-haval-h7-pricing-new-hybrid-suv-matches-toyota-rav4",
+  "title": "2027 GWM Haval H7 pricing: New hybrid SUV undercuts Toyota RAV4",
+  "text": "Pricing for the new-generation GWM Haval H7 SUV has been issued to dealers, confirming a promotional starting price of $45,990 drive-away to go head-to-head with the cheapest Toyota RAV4 currently in local showrooms. The automaker hasn’t officially announced pricing for the second-generation H7, having revealed the new model earlier this year with boxier styling and the promise of a starting price “below $50,000”. GWM Australia wouldn't confirm or deny the dealer pricing, issuing a statement to CarExpert in response. “The all-new GWM Haval H7 has just started to arrive at dealers for customers to test drive, with competitive pricing across the hybrid and PHEV range to be announced shortly,\" the statement said. An official announcement is imminent, with local dealers already receiving customer stock of the new H7 and order books open, with the official launch scheduled for November 2, 2026. The RAV4 rival will be offered here in two model grades: Lux and Vanta, both with standard all-wheel drive (AWD) and a choice of hybrid (HEV) and plug-in hybrid (PHEV) powertrains. While launching with five seats, GWM Australia has confirmed seven-seat versions will join the lineup in 2027. The H",
+  "author": "Damion Smy",
+  "published": "2026-10-26T02:02:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "36a2a4b2ca4db7b8",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkxhVHpLMDE3azFKWVp6ekpnUWRKM3ljUGM5ZFBMQk56OXBQby1RSUJnakZQSXp1eEg2ZE9pdmJmU05kUl9ON1ZPT1J4TWRvRllJeUtsdE1PNGlPSkM3cmxqblZiYzRiR01HQmdXaHZqZ1hDY1NTTWxqcXJXTHlRQlJmbnZnX2ItV0Y3SE5GQjR0RElKdnpFdUhFbFprcjVISEhR?oc=5",
+  "title": "XPeng G9L Australian arrival set for early 2027 - Carsales",
+  "text": "XPeng G9L Australian arrival set for early 2027 Carsales",
+  "author": "",
+  "published": "2026-10-26T01:29:25+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g9l"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "0c2d6368f9fffb94",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/mg-plug-in-hybrid-ute-u9-australia-byd-shark-6-phev",
+  "title": "MG says plug-in hybrid U9 ute is still on the cards for Australia – but will it arrive in 2027?",
+  "text": "MG previously confirmed plans for a plug-in hybrid ute to rival the BYD Shark, but its latest comments leave questions over the proposed launch timing. The post MG says plug-in hybrid U9 ute is still on the cards for Australia – but will it arrive in 2027? first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-10-26T01:08:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "b5c35df20dd5cbe7",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQms0TEFOSDMyT0IyMXVzTWF1WDhTSWM5U0Y4b0hDbHZrMWtoclVabnJ6OTAycGtnQnBwaU5JSVBHa3d2cWtjQWFpeXZfWjRaaVJGOWRYUVJxQTZyeE1Bbjl0Yy00NUFCQXdvUHVXYndYdEF1eTQ2N2hyV0ZNR1NUeFln?oc=5",
+  "title": "G9L Archives - EV Central",
+  "text": "G9L Archives EV Central",
+  "author": "",
+  "published": "2026-10-26T00:12:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g9l"
+  ],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "2426883974d70bd6",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/xpeng-g9l-suv-australian-pricing-looms-flagship-suv-targets-early-2027-showroom-arrival/",
+  "title": "XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival",
+  "text": "XPeng’s new G9L flagship SUV will reach Australian showrooms in early 2027, with both battery-electric and range-extender powertrains and a choice of six- and seven-seat layouts headed here. The updated timing supersedes earlier expectations that the large Chinese SUV could arrive as soon as November 2026. Australian pricing and specifications are expected to be announced shortly, ahead of vehicles reaching dealerships next year. The G9L will follow the smaller L03 SUV, which is expected to reach Australian dealerships before the end of 2026. Right-hand-drive G9L production has already commenced in China, with initial examples earmarked for Australia. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: 2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark READ MORE: XPeng L03 lands in Australia from $41,900: New EV and range-extender SUV takes on Chinese price-fighters READ MORE: XPeng X9 Aussie price and equipment: Super-smart electric seven-seater arrives to take on luxury SUVs and a new wave of high-tech people-movers The latest developments fol",
+  "author": "EV Central team",
+  "published": "2026-10-26T00:11:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "xpeng-g6",
+   "xpeng-x9",
+   "xpeng-g9l"
+  ],
+  "brands": [
+   "smart",
+   "tesla",
+   "xpeng"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
   "id": "d9be8d5e830449ea",
   "type": "competitor_news",
   "source": "whichcar",
   "source_name": "WhichCar",
   "url": "https://www.whichcar.com.au/news/volvo-plans-global-all-electric-suv-bev-ex40-ex50-ex60",
   "title": "Volvo reveals plans for cut-price global all-electric SUV",
-  "text": "Volvo has announced it will build its “next global BEV car”, with the new model expected to debut as early as next year as the brand’s first EX50 SUV. The news, which came in Volvo’s Q3 financial results, means it will have a direct rival for the Tesla Model Y as it targets a “large, […] The post Volvo reveals plans for cut-price global all-electric SUV first appeared on WhichCar .",
+  "text": "Volvo’s next electric SUV will target the Tesla Model Y with new technology and more affordable pricing. The post Volvo reveals plans for cut-price global all-electric SUV first appeared on WhichCar .",
   "author": "Shayne Bugden",
   "published": "2026-10-25T23:59:00+00:00",
   "rating": null,
@@ -38,13 +301,46 @@
   "first_seen": "2026-10-26T00:05:12+00:00"
  },
  {
+  "id": "e1020d304dd3b688",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02eU0zM0VObnRuS0ZVb0lIcmZRNGp2QUhHYVZib3pZVFlTQUZMU3dkcExKanZyajhBek5LeWZFcW11RkRRU3BPOGlmR1piNWRNbGRaMENJU1I3WVdTX0tYa3N4b2lGenJmbE1Xc0dBcWY3YlE5VnFUN0VRM1I?oc=5",
+  "title": "Check out this 2024 Tesla Model 3 Rear-Wheel Drive for sale - CarsGuide",
+  "text": "Check out this 2024 Tesla Model 3 Rear-Wheel Drive for sale CarsGuide",
+  "author": "",
+  "published": "2026-10-25T22:39:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
   "id": "1de7c495e18800cf",
   "type": "competitor_news",
   "source": "carexpert",
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/icaur-v25s-boxy-design-will-come-with-an-ev-range-trade-off",
   "title": "iCaur V25’s boxy design will come with an EV range trade-off",
-  "text": "The upcoming iCaur V25 will bring an 80kWh battery to Australia, but its claimed driving range trails several SUVs with similarly sized batteries, a gap iCaur attributes in part to its boxy design. Speaking with Australian media including CarExpert in China, iCaur Australia product manager Derek Tian confirmed the mid-size electric SUV will come with a lithium iron phosphate battery supplied by CATL. “WLTP range is about 368km,” Mr Tian said. Asked whether the V25's square body design explained the relatively modest range from an 80kWh battery, he replied: “The boxy shape [affects its aerodynamics], yes.” The V25 is due to lead iCaur’s Australian launch in early 2027, with Mr Tian suggesting it could arrive towards the end of the first quarter. Mr Tian said iCaur had tested the V25 on Australian roads. “We have done road testing too. Driving in Australia, on the highway and in town, 300km [range] is okay,” he said. Mr Tian also discussed the competitor models iCaur had benchmarked ahead of the V25's local introduction, one of which isn't an electric vehicle (EV). “I researched the Suzuki Jimny and Kia EV5. The EV5 is also boxy, but it is a family SUV,” he said. The front-wheel driv",
+  "text": "The upcoming iCaur V25 will bring an 80kWh battery to Australia, but its claimed driving range trails several SUVs with similarly sized batteries, a gap iCaur attributes in part to its boxy design. Speaking with Australian media including CarExpert in China, an iCaur Australia product manager confirmed the mid-size electric SUV will come with a lithium iron phosphate battery supplied by CATL. “WLTP range is about 368km,” they said. Asked whether the V25's square body design explained the relatively modest range from an 80kWh battery, he replied: “The boxy shape [affects its aerodynamics], yes.” The V25 is due to lead iCaur’s Australian launch in early 2027, with the product manager suggesting it could arrive towards the end of the first quarter. The product manager said iCaur had tested the V25 on Australian roads. “We have done road testing too. Driving in Australia, on the highway and in town, 300km [range] is okay,” he said. The product manager also discussed the competitor models iCaur had benchmarked ahead of the V25's local introduction, one of which isn't an electric vehicle (EV). “I researched the Suzuki Jimny and Kia EV5. The EV5 is also boxy, but it is a family SUV,” he s",
   "author": "Alborz Fallah",
   "published": "2026-10-25T20:30:00+00:00",
   "rating": null,
@@ -111,6 +407,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-25T22:00:01+00:00"
+ },
+ {
+  "id": "f9c9907eb26aab50",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Unisba Media",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZjRCczZBUXhBc3pYbFhHdVY3QUI1LUVocWlmVkZrbFUxUTAzTXFVYXlMQTJmQmpfZG1IQlpKVFRGSDJoMVlLSlUydHRlUFREb0hlN241R0h5TjhabXRtbWpwN2VzUQ?oc=5",
+  "title": "THE FUTURE OF TAXIS IS HERE! Waymo Zeekr RT (Ojai) Ride Experience & Specs. Sanne Dijkstra-downie (19BJMDZ81L) - Unisba Media",
+  "text": "THE FUTURE OF TAXIS IS HERE! Waymo Zeekr RT (Ojai) Ride Experience & Specs. Sanne Dijkstra-downie (19BJMDZ81L) Unisba Media",
+  "author": "",
+  "published": "2026-10-25T19:44:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
  },
  {
   "id": "043ae35df80a1385",
@@ -585,7 +910,7 @@
  {
   "id": "756a1f49ac710933",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · St George & Sutherland Shire Leader",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDctcDdQaG85d3F2TGMxSE1QeU9wNVFmNUdSX08yTVMxSXRzX3c4MFpsTTVLb2tWSEhpeEFfUW1FUWpRR2hYVkgydFNZR2dNNGhoeEcxQmhtQ3M2M3dfMWtaTkZFMloxcGdsTkVCMENXOWJpWjBMOW1PNEtwMFNjT1F1NnZkbmFMeS1RV1JRbm1lWER1MGFrN3dlemtPUQ?oc=5",
   "title": "Chery's plan to take on Zeekr in Australia - St George & Sutherland Shire Leader",
@@ -686,7 +1011,7 @@
  {
   "id": "5b6b5a4ec9bf7816",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcy01ajBDOWhYTHREQ2pERTBNWFhFd0FpNDdzTEg2TklsclBGYkVlZExUZXQzcDEtMUE2U1Jsb05yQTFFRGtjS1JoaVdNVl9UMFFjbkRua3JVRVhmdVlqWjdFS1p6a2ZIUlpNNjR5QW5vUGFQWktpUmFYWW5fUGVwVHNDcU9pREE0TFFDeldFZWxYZEhNZzY4aVdxRmVXajNnMnZHRC16TElFOUxmc29YaHFyb3BpTFBRaFVTMnl1aUZpUQ?oc=5",
   "title": "Exlantix confirmed to launch in Australia, with 2027 ES7 GT, EX9 and EX7 earmarked for a global arrival to rival 2026 Zeekr 7GT, Zeekr 7X and more - CarsGuide",
@@ -712,7 +1037,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T20:17:57+00:00"
@@ -9838,6 +10163,39 @@
   "first_seen": "2026-10-21T09:21:45+00:00"
  },
  {
+  "id": "a1db3823cd17672d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · The Advocate - Hepburn",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzNfdlJDalEyRVJ4MTZYYnRaZnA0N2RYaGx0aEZUVF9lM0hMVjZ0WEx5TXhNQjhuclJqQkNFaEgwcWFHczRvblBMYlN1Wmx3N2Fjb3hwekRTUnlTLXpFUXlqdE9LVzQ2YW1XUWtZa1hfdllUZTBQZnJEc0dwYVhfcEQxcEc3eUoyNTN5WmtRb3V6c29IUzY2aA?oc=5",
+  "title": "New Zeekr 7X rival gets closer to Australia - The Advocate - Hepburn",
+  "text": "New Zeekr 7X rival gets closer to Australia The Advocate - Hepburn",
+  "author": "",
+  "published": "2026-10-16T14:41:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
   "id": "0c6257880c9f5a9d",
   "type": "news_zeekr",
   "source": "gn-brands-cn",
@@ -15780,6 +16138,39 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "5c2893d43cded135",
+  "type": "competitor_news",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · zecar",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEJKYkhMRktfSnNfaDVZcklWNHhSZE1kb3FnbDBZNWdMNms0M2NCT1lrSFFJSURZZk1uaHhtWEpzLTEyR3RCb3F0LUtOdVBDelVSU0V3anMyVlVZVWY0eEN2d3FnQ05veUlkZkp5T2hTdGNDZ3Bxd0FZRVVJcVVEdA?oc=5",
+  "title": "Avatr 06T Electric Wagon Confirmed for Australia - zecar",
+  "text": "Avatr 06T Electric Wagon Confirmed for Australia zecar",
+  "author": "",
+  "published": "2026-10-12T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
   "id": "da967158e71f3f1f",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -16700,6 +17091,43 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "8a2e9f62484ba664",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYlBRVDRJTkpSY3lmU2Y0Y1hjZGU5VTFHNGFfZjNyMWlLMEtHZnlpMFlYNWtKUlZySU1sQ21HYThxNWUybzJXMzRpV2xheVVPanJXU2JuVHRLM2RQQlR2SmtnSjlSLXEyV1FJRHFzdTJEeHVBenFNMzdsWTAtSUZBUkpSeGcwc29TeTZHOHJ1c0FBaXA3ek9mQ2MxOTBsWlQ1U1REYUN5WFk3YnZkdlE1ZnRMVUtMTlNJU09RWkdFOTFSb1k?oc=5",
+  "title": "An unlikely EV saviour has emerged, helping to boost sales of Zeekr 7X, Geely EX5 and BYD Sealion 7 | Opinion - CarsGuide",
+  "text": "An unlikely EV saviour has emerged, helping to boost sales of Zeekr 7X, Geely EX5 and BYD Sealion 7 | Opinion CarsGuide",
+  "author": "",
+  "published": "2026-10-11T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "0ef561d968b46f02",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -16901,43 +17329,6 @@
    "launch"
   ],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "8a2e9f62484ba664",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · CarsGuide",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYlBRVDRJTkpSY3lmU2Y0Y1hjZGU5VTFHNGFfZjNyMWlLMEtHZnlpMFlYNWtKUlZySU1sQ21HYThxNWUybzJXMzRpV2xheVVPanJXU2JuVHRLM2RQQlR2SmtnSjlSLXEyV1FJRHFzdTJEeHVBenFNMzdsWTAtSUZBUkpSeGcwc29TeTZHOHJ1c0FBaXA3ek9mQ2MxOTBsWlQ1U1REYUN5WFk3YnZkdlE1ZnRMVUtMTlNJU09RWkdFOTFSb1k?oc=5",
-  "title": "An unlikely EV saviour has emerged, helping to boost sales of Zeekr 7X, Geely EX5 and BYD Sealion 7 | Opinion - CarsGuide",
-  "text": "An unlikely EV saviour has emerged, helping to boost sales of Zeekr 7X, Geely EX5 and BYD Sealion 7 | Opinion CarsGuide",
-  "author": "",
-  "published": "2026-10-10T16:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [
-   "byd-sealion7",
-   "geely-ex5"
-  ],
-  "brands": [
-   "byd",
-   "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -21854,6 +22245,39 @@
   "first_seen": "2026-10-15T21:16:00+00:00"
  },
  {
+  "id": "ad827dd750d7969e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
+  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
+  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
+  "author": "",
+  "published": "2026-09-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "a4234614453c5a26",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -22174,39 +22598,6 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "ad827dd750d7969e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
-  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
-  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
-  "author": "",
-  "published": "2026-09-23T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
