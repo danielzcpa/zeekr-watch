@@ -1,5 +1,74 @@
 [
  {
+  "id": "45f8ece3d6cbb2a7",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/10/26/volvo-promises-a-new-lower-priced-ev-after-huge-loss-and-job-cuts-prompt-strategy-review/?utm_source=rss&utm_medium=rss&utm_campaign=volvo-promises-a-new-lower-priced-ev-after-huge-loss-and-job-cuts-prompt-strategy-review",
+  "title": "Volvo promises a new “lower priced” EV after huge loss and job cuts prompt strategy review",
+  "text": "Volvo has promised a new EV that will target “a large, lower priced market segment”, one of 13 new models to be released after its huge loss and job cuts. The post Volvo promises a new “lower priced” EV after huge loss and job cuts prompt strategy review appeared first on The Driven.",
+  "author": "Joshua S. Hill",
+  "published": "2026-10-26T04:37:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "software",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T10:26:44+00:00"
+ },
+ {
+  "id": "fe49205180a1bec0",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
+  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
+  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
+  "author": "",
+  "published": "2026-10-26T04:32:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T10:26:44+00:00"
+ },
+ {
   "id": "568599eaadd0b46c",
   "type": "competitor_news",
   "source": "carexpert",
@@ -39,7 +108,7 @@
  {
   "id": "9e0d22c0d9a232c4",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarExpert",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjVpQU5reEZtZU1EdllQNHluVm5UZ0FTVk5FaUdOdDZwUldTZXcycVlwNi1vZ2NyOUJtd1ItX1otLUV6MnhqcDZ1Y0pONmZWTk9FVFpQT25kWFpvMWZzZWgza0stdGRoRzVIanNldDJ2aVNScDlOYTgxTDlvQnI4Y3lhSnRlVzVzWjVsRThaUjdfT1Fhb25ucEJ0QVRoZmM?oc=5",
   "title": "2027 GWM Haval H7 pricing: New hybrid SUV matches Toyota RAV4 - CarExpert",
@@ -147,6 +216,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "36b6bc6c0c756e02",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
+  "title": "Shop Tesla Model 3 Cars - CarsGuide",
+  "text": "Shop Tesla Model 3 Cars CarsGuide",
+  "author": "",
+  "published": "2026-10-26T01:19:55+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T10:26:44+00:00"
  },
  {
   "id": "0c2d6368f9fffb94",
@@ -531,6 +633,42 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-25T12:29:15+00:00"
+ },
+ {
+  "id": "265ca56234885276",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · The Supercar Blog",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2xjeDVlNEJXc2NkdXpEVzVMY3A0RVZxTzlaYllDaXNMVmxwb0pSSlpkNmZheW5DZThJSVZINllGdkxKX3dKWi1yaUhwX1hRcDJrTUo4X2NMMTFnZzRubVZjS21KS2ZlX2pMQjJHclFfMEdVeU05S1JqT09BTm5EalFweWVqV3RqNjNWaHN4VzVGdjVJU1JkZjBydURfbFFp?oc=5",
+  "title": "Tesla slashes Model 3 & Model Y prices after Cybertruck cancellation - The Supercar Blog",
+  "text": "Tesla slashes Model 3 & Model Y prices after Cybertruck cancellation The Supercar Blog",
+  "author": "",
+  "published": "2026-10-25T06:12:35+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-26T10:26:44+00:00"
  },
  {
   "id": "1d492143b832444d",
@@ -22245,39 +22383,6 @@
   "first_seen": "2026-10-15T21:16:00+00:00"
  },
  {
-  "id": "ad827dd750d7969e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
-  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
-  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
-  "author": "",
-  "published": "2026-09-24T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "a4234614453c5a26",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -22598,6 +22703,39 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "ad827dd750d7969e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
+  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
+  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
+  "author": "",
+  "published": "2026-09-23T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -26183,7 +26321,7 @@
  {
   "id": "c721d7aa0f59fb55",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdE1rUmVnT19paGY4bVI4cjZVcjU5QjhOX0hubWx5YlFhUEliUzlDNkF5V0RCUXYwTEFnTHFySmlZWDk3OWtWMUR1Y1h0SnVFTktDYWd6bm45SkRORGZtd04xWm9tcmV2QW5kc1Z0MGxySHUzVzNrVTluT1BXbU81Nkg1SkFDSkZSbGJjUlliNmMyM2VMRllFQnoxUmlGWDFPRE9aV0FaVmdfdzlmc2RqZlNRdjg1WFZvNkRMZHVR?oc=5",
   "title": "2026 Zeekr 7X, 7GT, 8X and 9X and more to get more buttons and dials in the future as Chinese luxury brand responds to global feedback - CarsGuide",
@@ -26209,7 +26347,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"

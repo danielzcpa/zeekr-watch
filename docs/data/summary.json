@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-26T04:34:24+00:00",
- "duration_s": 332.6,
- "items_total": 1037,
- "new_this_run": 216,
+ "generated": "2026-10-26T10:26:44+00:00",
+ "duration_s": 299.4,
+ "items_total": 1041,
+ "new_this_run": 222,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 7,
-  "complaints_30d": 39,
+  "complaints_7d": 6,
+  "complaints_30d": 38,
   "high_7d": 3,
   "medium_7d": 1,
-  "low_7d": 3,
+  "low_7d": 2,
   "competitor_news_7d": 94,
-  "launch_signals_7d": 16,
+  "launch_signals_7d": 15,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 81,
   "offer_page_changes_7d": 3
@@ -188,13 +188,13 @@
   {
    "date": "2026-10-25",
    "complaints": 0,
-   "competitor_news": 6,
+   "competitor_news": 7,
    "zeekr_news": 2
   },
   {
    "date": "2026-10-26",
    "complaints": 0,
-   "competitor_news": 7,
+   "competitor_news": 10,
    "zeekr_news": 0
   }
  ],
@@ -206,22 +206,22 @@
    "n": 27
   },
   {
-   "key": "service",
-   "zh": "售后/服务/保修",
-   "en": "After-sales / service / warranty",
-   "n": 14
-  },
-  {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
    "n": 14
   },
   {
+   "key": "service",
+   "zh": "售后/服务/保修",
+   "en": "After-sales / service / warranty",
+   "n": 13
+  },
+  {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 12
+   "n": 11
   },
   {
    "key": "quality",
@@ -250,15 +250,15 @@
  ],
  "models_30d": {
   "7X": 13,
-  "7GT": 4,
+  "7GT": 3,
   "009": 1,
   "X": 1
  },
  "sources_30d": {
   "Google Play (AU)": 12,
   "Reddit r/Zeekr7xAustralia": 12,
-  "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
+  "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
   "ProductReview.com.au": 1,
   "Reddit r/AutoAdvice": 1,
@@ -332,7 +332,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 19,
+   "n_30d": 20,
    "launch": [
     "2426883974d70bd6",
     "d9be8d5e830449ea",
@@ -497,7 +497,7 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 15,
+   "n_30d": 17,
    "launch": [
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
@@ -512,7 +512,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "e1020d304dd3b688"
+   "latest": "36b6bc6c0c756e02"
   },
   "polestar-2": {
    "n_30d": 2,
@@ -946,17 +946,6 @@
    "competitors": [
     "tesla-model-3"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "dba085ae5a42f62c",
-   "title": "Tesla Cybertruck cancelled for Australia, deposits to be refunded",
-   "source": "CarExpert",
-   "t": "2026-10-23T05:54:00+00:00",
-   "competitors": [
-    "tesla-model-y",
-    "tesla-model-3"
-   ]
   }
  ],
  "source_status": {
@@ -967,7 +956,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 15,
+   "count": 9,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -992,32 +981,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 80,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 34,
+   "count": 35,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 17,
+   "count": 14,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 30,
+   "count": 34,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 33,
+   "count": 21,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 32,
+   "count": 15,
    "note": ""
   },
   "carexpert": {
@@ -1076,14 +1065,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1098,7 +1087,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1147,7 +1136,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
