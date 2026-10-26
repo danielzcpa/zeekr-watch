@@ -1,5 +1,43 @@
 [
  {
+  "id": "d9be8d5e830449ea",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/volvo-plans-global-all-electric-suv-bev-ex40-ex50-ex60",
+  "title": "Volvo reveals plans for cut-price global all-electric SUV",
+  "text": "Volvo has announced it will build its “next global BEV car”, with the new model expected to debut as early as next year as the brand’s first EX50 SUV. The news, which came in Volvo’s Q3 financial results, means it will have a direct rival for the Tesla Model Y as it targets a “large, […] The post Volvo reveals plans for cut-price global all-electric SUV first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-10-25T23:59:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "volvo",
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T00:05:12+00:00"
+ },
+ {
   "id": "1de7c495e18800cf",
   "type": "competitor_news",
   "source": "carexpert",

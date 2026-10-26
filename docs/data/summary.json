@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-25T22:00:01+00:00",
- "duration_s": 293.5,
- "items_total": 1025,
- "new_this_run": 210,
+ "generated": "2026-10-26T00:05:12+00:00",
+ "duration_s": 451.8,
+ "items_total": 1026,
+ "new_this_run": 27,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
-  "complaints_30d": 40,
+  "complaints_30d": 39,
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 3,
   "competitor_news_7d": 93,
-  "launch_signals_7d": 15,
+  "launch_signals_7d": 16,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 84,
-  "offer_page_changes_7d": 4
+  "zeekr_news_7d": 81,
+  "offer_page_changes_7d": 3
  },
  "series_30d": [
-  {
-   "date": "2026-09-26",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 0
-  },
   {
    "date": "2026-09-27",
    "complaints": 2,
@@ -194,8 +188,14 @@
   {
    "date": "2026-10-25",
    "complaints": 0,
-   "competitor_news": 4,
+   "competitor_news": 5,
    "zeekr_news": 1
+  },
+  {
+   "date": "2026-10-26",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -209,7 +209,7 @@
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 15
+   "n": 14
   },
   {
    "key": "charging",
@@ -239,7 +239,7 @@
    "key": "price",
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
-   "n": 4
+   "n": 3
   },
   {
    "key": "safety",
@@ -260,7 +260,7 @@
   "Reddit r/Zeekr": 5,
   "Reddit r/AustralianEV": 4,
   "Reddit r/EVAustralia": 3,
-  "ProductReview.com.au": 2,
+  "ProductReview.com.au": 1,
   "Reddit r/AutoAdvice": 1,
   "Reddit r/ZeekrAustraliaNZ": 1
  },
@@ -332,8 +332,9 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 17,
+   "n_30d": 18,
    "launch": [
+    "d9be8d5e830449ea",
     "6a4c860a7340b58c",
     "dba085ae5a42f62c",
     "0740f7c371cf05aa",
@@ -344,7 +345,7 @@
    "offer": [
     "6a4c860a7340b58c"
    ],
-   "latest": "6a4c860a7340b58c"
+   "latest": "d9be8d5e830449ea"
   },
   "xpeng-g6": {
    "n_30d": 2,
@@ -866,6 +867,16 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "d9be8d5e830449ea",
+   "title": "Volvo reveals plans for cut-price global all-electric SUV",
+   "source": "WhichCar",
+   "t": "2026-10-25T23:59:00+00:00",
+   "competitors": [
+    "tesla-model-y"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "1de7c495e18800cf",
    "title": "iCaur V25’s boxy design will come with an EV range trade-off",
    "source": "CarExpert",
@@ -941,78 +952,68 @@
     "denza-z9gt",
     "byd-sealion8"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "5366678f10e4adb3",
-   "title": "Tesla Cybertruck officially axed for Australia: Deposits refunded seven years after orders opened",
-   "source": "EV Central",
-   "t": "2026-10-22T23:40:17+00:00",
-   "competitors": [
-    "tesla-model-3"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
-   "ok": true,
-   "count": 100,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-zeekr-1d": {
-   "ok": true,
-   "count": 7,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-zeekr-complaint": {
-   "ok": true,
-   "count": 100,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-zeekr-media": {
-   "ok": true,
-   "count": 100,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-zeekr-forums": {
-   "ok": true,
-   "count": 100,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-zeekr-recall": {
-   "ok": true,
-   "count": 1,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-zeekr-evcentral": {
-   "ok": true,
-   "count": 100,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-ev-launch-au": {
-   "ok": true,
-   "count": 35,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-ev-offer-au": {
-   "ok": true,
-   "count": 15,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-brands-cn": {
-   "ok": true,
-   "count": 27,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-brands-eu": {
-   "ok": true,
-   "count": 50,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "gn-evcentral-industry": {
-   "ok": true,
-   "count": 29,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 503"
   },
   "carexpert": {
    "ok": true,
@@ -1080,24 +1081,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
