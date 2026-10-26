@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T16:55:15+00:00",
- "duration_s": 346.0,
- "items_total": 1044,
- "new_this_run": 233,
+ "generated": "2026-10-26T21:32:50+00:00",
+ "duration_s": 307.0,
+ "items_total": 1049,
+ "new_this_run": 226,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 6,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 93,
-  "launch_signals_7d": 15,
-  "offer_signals_7d": 6,
-  "zeekr_news_7d": 80,
+  "competitor_news_7d": 96,
+  "launch_signals_7d": 16,
+  "offer_signals_7d": 7,
+  "zeekr_news_7d": 82,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -159,7 +159,7 @@
    "date": "2026-10-20",
    "complaints": 2,
    "competitor_news": 19,
-   "zeekr_news": 30
+   "zeekr_news": 31
   },
   {
    "date": "2026-10-21",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-26",
    "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 0
+   "competitor_news": 14,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -500,7 +500,7 @@
    "latest": "36b6bc6c0c756e02"
   },
   "tesla-model-3": {
-   "n_30d": 17,
+   "n_30d": 18,
    "launch": [
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
@@ -516,15 +516,17 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "36b6bc6c0c756e02"
+   "latest": "ae44a664179b9160"
   },
   "polestar-2": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "479081910d666025"
    ],
-   "offer": [],
-   "latest": "feb6d80cba4a3a26"
+   "offer": [
+    "9c17ca6e0e68d5e3"
+   ],
+   "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
    "n_30d": 8,
@@ -588,12 +590,13 @@
    "latest": "8defc78fc17ad815"
   },
   "denza-z9gt": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
+    "37c27ec512d23c97",
     "fa15f25f5765628d"
    ],
    "offer": [],
-   "latest": "fa15f25f5765628d"
+   "latest": "37c27ec512d23c97"
   },
   "xpeng-p7": {
    "n_30d": 1,
@@ -884,6 +887,26 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "37c27ec512d23c97",
+   "title": "Denza Z9 GT delayed, electric shooting brake launch pushed to 2027",
+   "source": "CarExpert",
+   "t": "2026-10-26T21:15:00+00:00",
+   "competitors": [
+    "denza-z9gt"
+   ]
+  },
+  {
+   "kind": "competitor_offer",
+   "id": "9c17ca6e0e68d5e3",
+   "title": "Polestar defends lacklustre sales during rocketing EV uptake",
+   "source": "CarExpert",
+   "t": "2026-10-26T20:30:00+00:00",
+   "competitors": [
+    "polestar-2"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "9baca086f7ca3798",
    "title": "Giant Avatr T09 luxury PHEV SUV makes world debut: Expected to join Chinese luxury newcomer’s Aussie line-up",
    "source": "EV Central",
@@ -980,12 +1003,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 65,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 8,
+   "count": 9,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1015,12 +1038,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 32,
+   "count": 31,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 13,
+   "count": 12,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1094,9 +1117,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1104,9 +1127,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1116,12 +1139,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,

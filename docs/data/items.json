@@ -1,5 +1,187 @@
 [
  {
+  "id": "ae44a664179b9160",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem5XLXdhaU9iMzZlU2JmVEtrS3YtZ1U3ZGZ1S2NycjlDR083d01sR3VHZlVvTG93MkJRUHI3cVlUTWdDWmhIWGVtLXhtUnUtWE04WXlhbzZPYlktNjg3bVZTcy1sVnhQSWd2VmlZNlZYSlFpVzUyNFpxdEowM1J3RkNDOE9Ea1JXX2VLNmUzX2R1WEgwWGV0cF9LVDQ?oc=5",
+  "title": "2024 Tesla Model 3 Long Range Auto AWD - Carsales",
+  "text": "2024 Tesla Model 3 Long Range Auto AWD Carsales",
+  "author": "",
+  "published": "2026-10-26T21:26:48+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T21:32:50+00:00"
+ },
+ {
+  "id": "37c27ec512d23c97",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/denza-z9-gt-delayed-electric-shooting-brake-launch-pushed-to-2027",
+  "title": "Denza Z9 GT delayed, electric shooting brake launch pushed to 2027",
+  "text": "The Denza Z9 GT now won't arrive in Australia until the first half of 2027, as BYD's premium brand says it's \"juggling priorities\". A Denza Australia spokesperson said there are \"lots of moving pieces across the business\", with both the BYD and Denza lineups continuing to expand. \"We don’t want to launch for the sake of meeting a date,\" he said. \"It’s an important brand builder this model and needs to be launched in an optimal environment.\" Denza had confirmed in April 2026 it would launch the Z9 GT in the third quarter (July to September) of 2026, a timetable which has now come and gone. The premium brand only commenced customer deliveries this year of its first vehicles in Australia, the large B5 and B8 plug-in hybrid off-road SUVs. It subsequently followed these with the D9 luxury electric people mover, a significantly lower-volume model. The Denza N9 , a full-size plug-in hybrid crossover SUV, has now received Australian Design Rule (ADR) certification but launch timing has yet to be announced. Given it's an electric wagon, the Z9 GT is likely to sell in lower volumes than the B5 and B8 as well. Pricing has yet to be announced for the Porsche Taycan rival, which is part of a cl",
+  "author": "William Stopford",
+  "published": "2026-10-26T21:15:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-z9gt"
+  ],
+  "brands": [
+   "byd",
+   "denza",
+   "porsche"
+  ],
+  "categories": [
+   "quality",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T21:32:50+00:00"
+ },
+ {
+  "id": "9c17ca6e0e68d5e3",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/polestar-defends-lacklustre-sales-during-rocketing-ev-uptake",
+  "title": "Polestar defends lacklustre sales during rocketing EV uptake",
+  "text": "Stock levels have largely determined Polestar’s sales figures, says the company’s managing director, with Australian new-car sales data showing the electric vehicle (EV) brand isn’t enjoying the same growth as its rivals. As we reported earlier this month, sales of Polestar vehicles are down 10 per cent year-to-date – with September’s delivery number being 15 lower than the same month in 2025. Meanwhile, year-on-year growth for the whole of the reported EV market has jumped by 117.7 per cent. EVs outsold their petrol and diesel counterparts last month, recording more than 27,000 sales – compared to fewer than 26,000 and 24,000 respectively. Polestar Australia chief Scott Maynard says there’s nuance to reading the data, with strong 2025 sales and the number of Polestar vehicles available in stock being the cause of its lagging figures. “Polestar 2 – let's start there – is in runout, and we've only got a finite number of Polestar 2s. The Polestar 2s we've got have to last as long as we can make them last, given that the new car is not going to arrive until the back end of next year. “So, our final batch of Polestar 2s are on water now. They're about to land, and then that's it. When",
+  "author": "Ben Zachariah",
+  "published": "2026-10-26T20:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T21:32:50+00:00"
+ },
+ {
+  "id": "f79bc0fe831e5557",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · EVs & Beyond",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wQ2Fpbl9SX29tVkJCa09uQjNYcks5T0NSc3J1Mm1sUmNmRm9IX2l0WnZIV08zNGVVb1hNSzkwZ2EwVmNTcmZnNTBhangwR2xETE42QmJYc1hTRjV0VDlDakFNWXd5c2E5bnc5S0gwbW0?oc=5",
+  "title": "Zeekr 7GT first drive on snow and track, plus 8X and 9X | EVs and Beyond | EVs and Beyond - EVs & Beyond",
+  "text": "Zeekr 7GT first drive on snow and track, plus 8X and 9X | EVs and Beyond | EVs and Beyond EVs & Beyond",
+  "author": "",
+  "published": "2026-10-26T18:30:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-26T21:32:50+00:00"
+ },
+ {
+  "id": "70c64bc3e7fa489f",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Electric Vehicles",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUcyLTJQN2hPa0N3X3plN0dLTG1kanB3OTd0MXB2dGJNVlFSUW12WDJkYmwwQjdJcld2Qklid0RSOXNxQW1rN0lRaF9VRGNWMkFvSll6SXYxR2k4dWRBendwRTFKaG8xSDVBa0R6YV9vN2pYZnVGZDV6Qm8wVU1Gd3RQbWhZWlh3bTl3bWFJdzR1ZWYxY2ppdkRVRFhzNk9CZ3JZ?oc=5",
+  "title": "XPeng Starts Global Shipments of L05 SUV Days Before China Launch - Electric Vehicles",
+  "text": "XPeng Starts Global Shipments of L05 SUV Days Before China Launch Electric Vehicles",
+  "author": "",
+  "published": "2026-10-26T16:10:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-26T16:55:15+00:00"
+ },
+ {
   "id": "ecb0e5dcbb84f0c8",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -28,41 +210,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": true,
-  "extra": {},
-  "first_seen": "2026-10-26T16:55:15+00:00"
- },
- {
-  "id": "70c64bc3e7fa489f",
-  "type": "competitor_news",
-  "source": "gn-brands-cn",
-  "source_name": "Google News · Electric Vehicles",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUcyLTJQN2hPa0N3X3plN0dLTG1kanB3OTd0MXB2dGJNVlFSUW12WDJkYmwwQjdJcld2Qklid0RSOXNxQW1rN0lRaF9VRGNWMkFvSll6SXYxR2k4dWRBendwRTFKaG8xSDVBa0R6YV9vN2pYZnVGZDV6Qm8wVU1Gd3RQbWhZWlh3bTl3bWFJdzR1ZWYxY2ppdkRVRFhzNk9CZ3JZ?oc=5",
-  "title": "XPeng Starts Global Shipments of L05 SUV Days Before China Launch - Electric Vehicles",
-  "text": "XPeng Starts Global Shipments of L05 SUV Days Before China Launch Electric Vehicles",
-  "author": "",
-  "published": "2026-10-26T15:14:53+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [
-   "delivery"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "competitor",
-  "au": false,
   "extra": {},
   "first_seen": "2026-10-26T16:55:15+00:00"
  },
@@ -5692,6 +5839,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "3d992f1e555434c5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzh4TW9fcWJLV2g2YUpjR042eWxQQ3ZXaHFIa2pBcjJQM0hvS0MyYUdRTnNDN3h1VkZvUFdlUllUSnJHZW9QUVJfTkZjdDFFbzRtaFg3elN3ZVdPQ3N6RmUyeVFWMWpuek1FbWVOai0tM2wxVzMwcU5vbmFVYlBOWXNneHdTUQ?oc=5",
+  "title": "Zeekr cars under $40,000 with battery capacity over 60kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr cars under $40,000 with battery capacity over 60kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T11:54:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T21:32:50+00:00"
  },
  {
   "id": "f7e949bcb08b5457",
@@ -36027,7 +36208,7 @@
   "title": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely - OzBargain",
   "text": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely OzBargain",
   "author": "",
-  "published": "2026-05-01T10:23:55+00:00",
+  "published": "2026-05-01T10:28:12+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
