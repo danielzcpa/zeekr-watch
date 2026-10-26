@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T10:26:44+00:00",
- "duration_s": 299.4,
- "items_total": 1041,
- "new_this_run": 222,
+ "generated": "2026-10-26T16:55:15+00:00",
+ "duration_s": 346.0,
+ "items_total": 1044,
+ "new_this_run": 233,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 6,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 94,
+  "competitor_news_7d": 93,
   "launch_signals_7d": 15,
-  "offer_signals_7d": 5,
-  "zeekr_news_7d": 81,
+  "offer_signals_7d": 6,
+  "zeekr_news_7d": 80,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -140,7 +140,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 32,
+   "competitor_news": 33,
    "zeekr_news": 11
   },
   {
@@ -194,7 +194,7 @@
   {
    "date": "2026-10-26",
    "complaints": 0,
-   "competitor_news": 10,
+   "competitor_news": 11,
    "zeekr_news": 0
   }
  ],
@@ -332,7 +332,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 20,
+   "n_30d": 21,
    "launch": [
     "2426883974d70bd6",
     "d9be8d5e830449ea",
@@ -344,16 +344,18 @@
     "8b84f73c39185863"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "2426883974d70bd6",
     "6a4c860a7340b58c"
    ],
-   "latest": "2426883974d70bd6"
+   "latest": "36b6bc6c0c756e02"
   },
   "xpeng-g6": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "2426883974d70bd6",
     "6a4c860a7340b58c",
+    "1ded87a0f1ae20c9",
     "5ed70c4b9f6db41c"
    ],
    "offer": [
@@ -483,7 +485,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "0ea6624a635cd203",
     "f4537ddeee79ee40",
@@ -492,9 +494,10 @@
     "a733988169d48563"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
-   "latest": "0ea6624a635cd203"
+   "latest": "36b6bc6c0c756e02"
   },
   "tesla-model-3": {
    "n_30d": 17,
@@ -507,6 +510,7 @@
     "6eceae851aeaecd7"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "85dcdf97d44cb5f6",
     "5366678f10e4adb3",
     "347f60946babed57",
@@ -523,7 +527,7 @@
    "latest": "feb6d80cba4a3a26"
   },
   "byd-seal": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -531,10 +535,11 @@
     "d2af0ef5c3bba679"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "4362e9a45be33f4e"
+   "latest": "36b6bc6c0c756e02"
   },
   "im5": {
    "n_30d": 2,
@@ -865,17 +870,28 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "9baca086f7ca3798",
     "bd09876b341075d3",
     "157903045605fdfb",
     "42ac9b11351bb021"
    ],
    "offer": [],
-   "latest": "97445fc112bd556e"
+   "latest": "9baca086f7ca3798"
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "9baca086f7ca3798",
+   "title": "Giant Avatr T09 luxury PHEV SUV makes world debut: Expected to join Chinese luxury newcomer’s Aussie line-up",
+   "source": "EV Central",
+   "t": "2026-10-26T12:09:20+00:00",
+   "competitors": [
+    "avatr"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "36a2a4b2ca4db7b8",
@@ -884,6 +900,19 @@
    "t": "2026-10-26T01:29:25+00:00",
    "competitors": [
     "xpeng-g9l"
+   ]
+  },
+  {
+   "kind": "competitor_offer",
+   "id": "36b6bc6c0c756e02",
+   "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-10-26T01:19:55+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "geely-ex5",
+    "tesla-model-3",
+    "byd-seal"
    ]
   },
   {
@@ -951,12 +980,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 65,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 9,
+   "count": 8,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -986,22 +1015,22 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 35,
+   "count": 32,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 14,
+   "count": 13,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 34,
+   "count": 43,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 21,
+   "count": 18,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1065,9 +1094,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1075,9 +1104,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1087,12 +1116,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,

@@ -1,5 +1,112 @@
 [
  {
+  "id": "ecb0e5dcbb84f0c8",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xg0s83/zeekr_dealerships_and_servicing/",
+  "title": "Zeekr dealerships and servicing",
+  "text": "",
+  "author": "/u/Rvrolla",
+  "published": "2026-10-26T15:56:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T16:55:15+00:00"
+ },
+ {
+  "id": "70c64bc3e7fa489f",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Electric Vehicles",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUcyLTJQN2hPa0N3X3plN0dLTG1kanB3OTd0MXB2dGJNVlFSUW12WDJkYmwwQjdJcld2Qklid0RSOXNxQW1rN0lRaF9VRGNWMkFvSll6SXYxR2k4dWRBendwRTFKaG8xSDVBa0R6YV9vN2pYZnVGZDV6Qm8wVU1Gd3RQbWhZWlh3bTl3bWFJdzR1ZWYxY2ppdkRVRFhzNk9CZ3JZ?oc=5",
+  "title": "XPeng Starts Global Shipments of L05 SUV Days Before China Launch - Electric Vehicles",
+  "text": "XPeng Starts Global Shipments of L05 SUV Days Before China Launch Electric Vehicles",
+  "author": "",
+  "published": "2026-10-26T15:14:53+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-26T16:55:15+00:00"
+ },
+ {
+  "id": "9baca086f7ca3798",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/giant-avatr-t09-luxury-phev-suv-makes-world-debut-expected-to-join-chinese-luxury-newcomers-aussie-line-up/",
+  "title": "Giant Avatr T09 luxury PHEV SUV makes world debut: Expected to join Chinese luxury newcomer’s Aussie line-up",
+  "text": "Chinese luxury brand Avatr has unveiled its imposing new T09 flagship plug-in hybrid SUV, offering a first public look at a six-seat rival to the biggest European luxury SUVs that is expected to eventually reach Australia. The Concept T09 made its global debut at the Paris motor show, where Avatr also displayed the 06T electric shooting brake, which is already in the frame for the brand’s Australian rollout in 2027. At more than 5.2 metres long and around two metres wide, the T09 is a full-size three-row SUV intended to establish a new flagship tier for Avatr, with six individual seats and an emphasis on passenger comfort. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: Chinese premium brand Avatr confirms first Aussie model: 07L electric SUV deliveries will start in 2027 READ MORE: Another Chinese auto giant is coming to Australia: Changan and luxury Avatr prepare EV and PHEV assault READ MORE: Yep, yet another Chinese brand is coming to Australia: Luxury Avatr confirmed with its line-up of SUV and saloon EVs and range extenders. The T09’s exterior features an unusually elaborate front grille",
+  "author": "Bruce Newton",
+  "published": "2026-10-26T12:09:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "avatr"
+  ],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T16:55:15+00:00"
+ },
+ {
   "id": "45f8ece3d6cbb2a7",
   "type": "competitor_news",
   "source": "thedriven",
@@ -106,41 +213,6 @@
   "first_seen": "2026-10-26T04:34:24+00:00"
  },
  {
-  "id": "9e0d22c0d9a232c4",
-  "type": "competitor_news",
-  "source": "gn-ev-offer-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjVpQU5reEZtZU1EdllQNHluVm5UZ0FTVk5FaUdOdDZwUldTZXcycVlwNi1vZ2NyOUJtd1ItX1otLUV6MnhqcDZ1Y0pONmZWTk9FVFpQT25kWFpvMWZzZWgza0stdGRoRzVIanNldDJ2aVNScDlOYTgxTDlvQnI4Y3lhSnRlVzVzWjVsRThaUjdfT1Fhb25ucEJ0QVRoZmM?oc=5",
-  "title": "2027 GWM Haval H7 pricing: New hybrid SUV matches Toyota RAV4 - CarExpert",
-  "text": "2027 GWM Haval H7 pricing: New hybrid SUV matches Toyota RAV4 CarExpert",
-  "author": "",
-  "published": "2026-10-26T02:02:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "toyota"
-  ],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "competitor",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-26T04:34:24+00:00"
- },
- {
   "id": "14c596b4cdca60d9",
   "type": "competitor_news",
   "source": "carexpert",
@@ -223,18 +295,23 @@
   "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
-  "title": "Shop Tesla Model 3 Cars - CarsGuide",
-  "text": "Shop Tesla Model 3 Cars CarsGuide",
+  "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
+  "text": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars CarsGuide",
   "author": "",
   "published": "2026-10-26T01:19:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-3"
+   "tesla-model-y",
+   "geely-ex5",
+   "tesla-model-3",
+   "byd-seal"
   ],
   "brands": [
-   "tesla"
+   "byd",
+   "tesla",
+   "geely"
   ],
   "categories": [],
   "sentiment": {
@@ -244,7 +321,9 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [],
+  "signals": [
+   "offer"
+  ],
   "scope": "competitor",
   "au": true,
   "extra": {},
@@ -9664,6 +9743,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
+  "id": "1ded87a0f1ae20c9",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ydGY4RHBBSmhhWGlwclNNWm52amhOOVVmd3pvQ19uYmxPMW5Mc3VhTjJlMHppTWd5Z0RjbzZEblYyem1kWWpzVUlNdWstRE1u?oc=5",
+  "title": "Xpeng G6 review: every 2026 variant, price and specs - EV Central",
+  "text": "Xpeng G6 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-26T16:55:15+00:00"
  },
  {
   "id": "99ed59d066f99039",
@@ -32649,7 +32763,7 @@
   "au": true,
   "extra": {
    "version": "1.6.0",
-   "thumbs": 5
+   "thumbs": 6
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
