@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T18:13:55+00:00",
- "duration_s": 303.6,
- "items_total": 1074,
- "new_this_run": 224,
+ "generated": "2026-10-27T22:32:59+00:00",
+ "duration_s": 356.0,
+ "items_total": 1078,
+ "new_this_run": 176,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 4,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 2,
-  "competitor_news_7d": 83,
-  "launch_signals_7d": 13,
-  "offer_signals_7d": 2,
-  "zeekr_news_7d": 63,
+  "competitor_news_7d": 79,
+  "launch_signals_7d": 14,
+  "offer_signals_7d": 3,
+  "zeekr_news_7d": 61,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -86,7 +86,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 12,
+   "competitor_news": 13,
    "zeekr_news": 2
   },
   {
@@ -134,7 +134,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 33,
+   "competitor_news": 32,
    "zeekr_news": 10
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-27",
    "complaints": 0,
-   "competitor_news": 4,
-   "zeekr_news": 3
+   "competitor_news": 6,
+   "zeekr_news": 5
   }
  ],
  "categories_30d": [
@@ -491,8 +491,9 @@
    "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
-   "n_30d": 19,
+   "n_30d": 20,
    "launch": [
+    "418bf3453df753e5",
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
     "4362e9a45be33f4e",
@@ -501,11 +502,12 @@
     "6eceae851aeaecd7"
    ],
    "offer": [
+    "418bf3453df753e5",
     "85dcdf97d44cb5f6",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "ae44a664179b9160"
+   "latest": "418bf3453df753e5"
   },
   "polestar-2": {
    "n_30d": 3,
@@ -863,6 +865,16 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "418bf3453df753e5",
+   "title": "Upgraded Renault Megane E-Tech returns to Australia: How much are you willing to pay for something different?",
+   "source": "EV Central",
+   "t": "2026-10-27T22:00:00+00:00",
+   "competitors": [
+    "tesla-model-3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "6e80e7d18d3e2014",
    "title": "2027 Polestar 4 SUV review",
    "source": "CarExpert",
@@ -974,12 +986,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 15,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -999,32 +1011,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 84,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 54,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 20,
+   "count": 23,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 30,
+   "count": 42,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 17,
+   "count": 22,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 12,
+   "count": 17,
    "note": ""
   },
   "carexpert": {
@@ -1083,9 +1095,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1093,9 +1105,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1105,12 +1117,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1548,9 +1560,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
   },
   "offers-hyundai": {
    "ok": true,

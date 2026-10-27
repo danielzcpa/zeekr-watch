@@ -1,5 +1,147 @@
 [
  {
+  "id": "e921111eee53f2c0",
+  "type": "news_zeekr",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · caradvice.com.au",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDZXdEJfRlRPUk1VTHdRQXpJME95OERkSlhpUl9RQThLM1FSQmtEc2h2ZnVUZ1FZYll1ZTZGbnBaOEhMOUkxWjhqTTA1dmNlNUdFMC1VRm5YTWtnOTFqYWFQZzY5SFYxMjJFNi1SV0x3Uk5aLUFlRlA3NDNlUGNXTnZmeTR4RzFIcXRKOHVINHZ4eW5FdldnYnlqNUY3YWlEUGJ4aVJJWllkZUdZQ2RRTC1RNENETmc2VkNPc1U5VW8?oc=5",
+  "title": "Renault's Kia EV3, Zeekr X rival gets bigger battery, more range - caradvice.com.au",
+  "text": "Renault's Kia EV3, Zeekr X rival gets bigger battery, more range caradvice.com.au",
+  "author": "",
+  "published": "2026-10-27T22:04:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T22:32:59+00:00"
+ },
+ {
+  "id": "418bf3453df753e5",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/upgraded-renault-megane-e-tech-returns-to-australia-how-much-are-you-willing-to-pay-for-something-different/",
+  "title": "Upgraded Renault Megane E-Tech returns to Australia: How much are you willing to pay for something different?",
+  "text": "Renault Megane E-Tech returns in 2027 priced at $55,990 with a 480km WLTP range and faster charging, but costs $10,090 more than the base Tesla Model 3. The post Upgraded Renault Megane E-Tech returns to Australia: How much are you willing to pay for something different? appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-10-27T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T22:32:59+00:00"
+ },
+ {
+  "id": "b11775fcc7502887",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 아시아경제",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EVnpLRE9lRDVPMW5aanZHQzNBQ0RyMFNsanE5SDQwSld1Q0JBd203bGNJUVZ2cDJuaWxmMHcwWWVHNmJXazVJRm5TQ1BLWmt4RDB5azNpR0RtTUJyM25XZUVfU2M?oc=5",
+  "title": "[Test Drive] Check on kids in the back seat while driving... Zeekr 7X, a family SUV - 아시아경제",
+  "text": "[Test Drive] Check on kids in the back seat while driving... Zeekr 7X, a family SUV 아시아경제",
+  "author": "",
+  "published": "2026-10-27T21:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T22:32:59+00:00"
+ },
+ {
+  "id": "e3cb4af2b08e9c60",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · caradvice.com.au",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHpnaGlPdXRtVjRXZXRMQ213bEhmckx6NzJPWmQ3Z3hkUUt3dWdqUGZ4TWRDS2hzalRJSS1zZFJRaDRGN2ZLLTdkREh2ektZbVV0Y2NqdWI0TF9KY2pyRG9PV1ozd1VsZ2EyTlhLMzVMWFNuaU5Wd1pZd2NxeHFHREVEVUxpTTZKbVJyWmtR?oc=5",
+  "title": "BYD's super-fast EV plans for Australia pushed back - caradvice.com.au",
+  "text": "BYD's super-fast EV plans for Australia pushed back caradvice.com.au",
+  "author": "",
+  "published": "2026-10-27T19:08:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T22:32:59+00:00"
+ },
+ {
   "id": "929c730c40351deb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -839,11 +981,11 @@
  {
   "id": "fe49205180a1bec0",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
-  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
+  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
+  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -851,9 +993,14 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd"
+   "byd",
+   "toyota",
+   "ford"
   ],
-  "categories": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -864,7 +1011,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -9731,41 +9878,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
-  "id": "a27bf89cf6f37c43",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TGJXcTk4S0lOMTNiSlpHNERyTGtMcE9ZcXdmU3lhRWdUOGstc0hDczZMUFhtTzRHZThMclNGM0dXYnpQYmsyMXFTTWN4b1U?oc=5",
-  "title": "Kia EV6 review, price and specs: every 2026 variant compared - EV Central",
-  "text": "Kia EV6 review, price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "kia-ev6"
-  ],
-  "brands": [
-   "kia"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "f308fc9dc22c0bd8",
@@ -18786,6 +18898,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "a27bf89cf6f37c43",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43TGJXcTk4S0lOMTNiSlpHNERyTGtMcE9ZcXdmU3lhRWdUOGstc0hDczZMUFhtTzRHZThMclNGM0dXYnpQYmsyMXFTTWN4b1U?oc=5",
+  "title": "Kia EV6 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Kia EV6 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "cb40097f8e9bd1a7",
@@ -36566,7 +36713,7 @@
   "title": "Zeekr 8X and 9X hybrid luxury SUVs locked in for Australia with summer release dates confirmed - Chasing Cars",
   "text": "Zeekr 8X and 9X hybrid luxury SUVs locked in for Australia with summer release dates confirmed Chasing Cars",
   "author": "",
-  "published": "2026-05-12T01:53:53+00:00",
+  "published": "2026-05-12T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
