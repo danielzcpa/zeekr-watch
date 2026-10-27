@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-27T06:09:34+00:00",
- "duration_s": 311.4,
- "items_total": 1066,
- "new_this_run": 201,
+ "generated": "2026-10-27T12:36:33+00:00",
+ "duration_s": 311.0,
+ "items_total": 1069,
+ "new_this_run": 163,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 6,
+  "complaints_7d": 4,
   "complaints_30d": 37,
-  "high_7d": 3,
-  "medium_7d": 1,
+  "high_7d": 2,
+  "medium_7d": 0,
   "low_7d": 2,
   "competitor_news_7d": 83,
-  "launch_signals_7d": 14,
-  "offer_signals_7d": 7,
-  "zeekr_news_7d": 79,
+  "launch_signals_7d": 13,
+  "offer_signals_7d": 2,
+  "zeekr_news_7d": 72,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -183,7 +183,7 @@
    "date": "2026-10-25",
    "complaints": 0,
    "competitor_news": 7,
-   "zeekr_news": 2
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-26",
@@ -194,7 +194,7 @@
   {
    "date": "2026-10-27",
    "complaints": 0,
-   "competitor_news": 1,
+   "competitor_news": 4,
    "zeekr_news": 0
   }
  ],
@@ -332,9 +332,8 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 22,
+   "n_30d": 20,
    "launch": [
-    "2426883974d70bd6",
     "d9be8d5e830449ea",
     "6a4c860a7340b58c",
     "dba085ae5a42f62c",
@@ -343,26 +342,18 @@
     "5ed70c4b9f6db41c",
     "8b84f73c39185863"
    ],
-   "offer": [
-    "36b6bc6c0c756e02",
-    "2426883974d70bd6",
-    "6a4c860a7340b58c"
-   ],
+   "offer": [],
    "latest": "0709862dc28bd530"
   },
   "xpeng-g6": {
-   "n_30d": 4,
+   "n_30d": 3,
    "launch": [
-    "2426883974d70bd6",
     "6a4c860a7340b58c",
     "1ded87a0f1ae20c9",
     "5ed70c4b9f6db41c"
    ],
-   "offer": [
-    "2426883974d70bd6",
-    "6a4c860a7340b58c"
-   ],
-   "latest": "2426883974d70bd6"
+   "offer": [],
+   "latest": "6a4c860a7340b58c"
   },
   "byd-sealion7": {
    "n_30d": 5,
@@ -403,8 +394,9 @@
    "latest": "3e3f285c9229d77a"
   },
   "polestar-4": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "6e80e7d18d3e2014",
     "0c648b1890f77652",
     "b5320554ddc5f545",
     "db98b7fc96217946",
@@ -413,7 +405,7 @@
    "offer": [
     "ef422204f206a3de"
    ],
-   "latest": "0c648b1890f77652"
+   "latest": "6e80e7d18d3e2014"
   },
   "volvo-ex40": {
    "n_30d": 0,
@@ -485,7 +477,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 7,
+   "n_30d": 6,
    "launch": [
     "0ea6624a635cd203",
     "f4537ddeee79ee40",
@@ -494,10 +486,9 @@
     "a733988169d48563"
    ],
    "offer": [
-    "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
-   "latest": "36b6bc6c0c756e02"
+   "latest": "0ea6624a635cd203"
   },
   "tesla-model-3": {
    "n_30d": 19,
@@ -510,9 +501,7 @@
     "6eceae851aeaecd7"
    ],
    "offer": [
-    "36b6bc6c0c756e02",
     "85dcdf97d44cb5f6",
-    "5366678f10e4adb3",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
@@ -529,7 +518,7 @@
    "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -537,11 +526,10 @@
     "d2af0ef5c3bba679"
    ],
    "offer": [
-    "36b6bc6c0c756e02",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "36b6bc6c0c756e02"
+   "latest": "4362e9a45be33f4e"
   },
   "im5": {
    "n_30d": 2,
@@ -562,26 +550,19 @@
    "latest": "2f0c0952a3c74d67"
   },
   "mazda-6e": {
-   "n_30d": 3,
+   "n_30d": 2,
    "launch": [
-    "86946539d4c4b99b",
     "4362e9a45be33f4e",
     "c1d73282b7bf78ea"
    ],
-   "offer": [
-    "86946539d4c4b99b"
-   ],
-   "latest": "86946539d4c4b99b"
+   "offer": [],
+   "latest": "4362e9a45be33f4e"
   },
   "mb-cla-ev": {
-   "n_30d": 1,
-   "launch": [
-    "86946539d4c4b99b"
-   ],
-   "offer": [
-    "86946539d4c4b99b"
-   ],
-   "latest": "86946539d4c4b99b"
+   "n_30d": 0,
+   "launch": [],
+   "offer": [],
+   "latest": null
   },
   "bmw-i4": {
    "n_30d": 1,
@@ -619,16 +600,13 @@
    "latest": null
   },
   "xpeng-x9": {
-   "n_30d": 10,
+   "n_30d": 9,
    "launch": [
-    "2426883974d70bd6",
     "2c8e385c13663939",
     "59331c007457eaac"
    ],
-   "offer": [
-    "2426883974d70bd6"
-   ],
-   "latest": "2426883974d70bd6"
+   "offer": [],
+   "latest": "7fa7dac55aee584c"
   },
   "mb-eqv": {
    "n_30d": 0,
@@ -781,9 +759,7 @@
     "0548f3f61af3f327",
     "205ea3973e46d6d4"
    ],
-   "offer": [
-    "2426883974d70bd6"
-   ],
+   "offer": [],
    "latest": "9fe67c888fe6cda7"
   },
   "wey-v9x": {
@@ -874,18 +850,27 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 6,
+   "n_30d": 5,
    "launch": [
-    "9baca086f7ca3798",
     "bd09876b341075d3",
     "157903045605fdfb",
     "42ac9b11351bb021"
    ],
    "offer": [],
-   "latest": "9baca086f7ca3798"
+   "latest": "97445fc112bd556e"
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "6e80e7d18d3e2014",
+   "title": "2027 Polestar 4 SUV review",
+   "source": "CarExpert",
+   "t": "2026-10-27T08:00:00+00:00",
+   "competitors": [
+    "polestar-4"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "d71d49b415511109",
@@ -942,16 +927,6 @@
   },
   {
    "kind": "competitor_launch",
-   "id": "9baca086f7ca3798",
-   "title": "Giant Avatr T09 luxury PHEV SUV makes world debut: Expected to join Chinese luxury newcomer’s Aussie line-up",
-   "source": "EV Central",
-   "t": "2026-10-26T12:09:20+00:00",
-   "competitors": [
-    "avatr"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
    "id": "36a2a4b2ca4db7b8",
    "title": "XPeng G9L Australian arrival set for early 2027 - Carsales",
    "source": "Google News · Carsales",
@@ -961,28 +936,12 @@
    ]
   },
   {
-   "kind": "competitor_offer",
-   "id": "36b6bc6c0c756e02",
-   "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
-   "source": "Google News · CarsGuide",
-   "t": "2026-10-26T01:19:55+00:00",
-   "competitors": [
-    "tesla-model-y",
-    "geely-ex5",
-    "tesla-model-3",
-    "byd-seal"
-   ]
-  },
-  {
    "kind": "competitor_launch",
    "id": "2426883974d70bd6",
    "title": "XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival",
    "source": "EV Central",
    "t": "2026-10-26T00:11:16+00:00",
    "competitors": [
-    "tesla-model-y",
-    "xpeng-g6",
-    "xpeng-x9",
     "xpeng-g9l"
    ]
   },
@@ -1005,17 +964,6 @@
    "competitors": [
     "kia-ev5"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "6a4c860a7340b58c",
-   "title": "2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark",
-   "source": "EV Central",
-   "t": "2026-10-24T12:16:39+00:00",
-   "competitors": [
-    "tesla-model-y",
-    "xpeng-g6"
-   ]
   }
  ],
  "source_status": {
@@ -1026,12 +974,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 11,
+   "count": 13,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1041,7 +989,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 100,
+   "count": 51,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1051,32 +999,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 85,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 46,
+   "count": 29,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 17,
+   "count": 18,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 31,
+   "count": 37,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 13,
+   "count": 17,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 9,
+   "count": 10,
    "note": ""
   },
   "carexpert": {
@@ -1206,7 +1154,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 26,
    "note": ""
   },
   "playstore-android": {
@@ -1587,7 +1535,7 @@
   "offers-mercedes": {
    "ok": false,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='www.mercedes-benz.com.au', port=443): Read timed out. (read timeout=20)"
+   "note": "HTTP 403"
   },
   "offers-landrover": {
    "ok": true,
@@ -1607,7 +1555,7 @@
   "offers-hyundai": {
    "ok": true,
    "count": 9,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,

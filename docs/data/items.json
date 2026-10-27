@@ -1,5 +1,80 @@
 [
  {
+  "id": "93b4e87ae9e0b224",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/10/27/avatrs-sleek-electric-wagon-with-2-78-second-acceleration-spotted-testing-in-the-wild-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=avatrs-sleek-electric-wagon-with-2-78-second-acceleration-spotted-testing-in-the-wild-in-australia",
+  "title": "Avatr’s sleek electric wagon – with 2.78 second acceleration – spotted testing in the wild in Australia",
+  "text": "Another electric sportswagon spotted testing in Sydney, hinting at possible launch in 2027. The post Avatr’s sleek electric wagon – with 2.78 second acceleration – spotted testing in the wild in Australia appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-10-27T11:16:04+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T12:36:33+00:00"
+ },
+ {
+  "id": "6e80e7d18d3e2014",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-polestar-4-suv-review",
+  "title": "2027 Polestar 4 SUV review",
+  "text": "Polestar's controversial windowless rear-end now has... a window. The 2027 Polestar 4 SUV joins the existing – and polarising – Polestar 4 'coupe' as a more practical and more family-friendly version of the Geely-owned Swedish brand's premium mid-size electric crossover. Polestar CEO Michael Lohscheller says the new design blends the \"the space of an estate and the versatility of an SUV\", while retaining the dynamic, driver-focused feel behind the wheel that the brand strives for. It's certainly still more Volvo 'Cross Country' wagon than 'XC' SUV in profile, but better befitting its status as an SUV is the fact it's the first Polestar model to wear roof rails, and it also features dark contrasting body lower cladding to produce a more rugged and purposeful look. With that taller, longer rear roofline comes more headroom for rear passengers and an increase in cargo capacity, but otherwise it's the same as the MY27 Polestar 4 coupe. That means a rejigged chassis and sharper pricing than before, with the price of entry dropping by $4500 for this model year. The Polestar 4 SUV debuts new features like a Camping mode as well as vehicle-to-load (V2L) functionality – both of which are co",
+  "author": "James Wong",
+  "published": "2026-10-27T08:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "volvo",
+   "polestar",
+   "geely"
+  ],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T12:36:33+00:00"
+ },
+ {
   "id": "fb621febfca5de33",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -68,6 +143,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
+  "id": "96b9e2cc10c530a4",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXItbUM4WjRoQm5zX2EyUzQ1VGZGRm01RUhVUFhDeGxGTGNxRVdGM2NRbko4Y1dGLTd5bWNzTlJ1VE5PLUhSdHJUTTNQVDFGRUNTRW9uemNQNFJBXzBwcUI3cElqQTdmTTQ2OXBSRVRVSzRXX2dQVUtTMmRnZ0IyMVdXMGhOT05hYmthZE5xVzNlZ2lKZ3c0MXA0WDVOUDFmRkJmTF9tZThkS0U5THV0dkFwRHc2UWhBUklrM2E5bmViSFRmUHc?oc=5",
+  "title": "New Chinese brand knocking on our door: Li Auto expands into the UK, other right-hand drive markets ahead of likely Australian launch of 2027 Li i6, Li Mega EV - CarsGuide",
+  "text": "New Chinese brand knocking on our door: Li Auto expands into the UK, other right-hand drive markets ahead of likely Australian launch of 2027 Li i6, Li Mega EV CarsGuide",
+  "author": "",
+  "published": "2026-10-27T01:58:26+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "li auto"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T12:36:33+00:00"
  },
  {
   "id": "6e8cb54d695d0ffc",
@@ -434,8 +542,8 @@
   "source": "gn-zeekr-1d",
   "source_name": "Google News · EVs & Beyond",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wQ2Fpbl9SX29tVkJCa09uQjNYcks5T0NSc3J1Mm1sUmNmRm9IX2l0WnZIV08zNGVVb1hNSzkwZ2EwVmNTcmZnNTBhangwR2xETE42QmJYc1hTRjV0VDlDakFNWXd5c2E5bnc5S0gwbW0?oc=5",
-  "title": "Zeekr on ice: sliding the 500kW 7GT, 8X and 9X above Cardrona - EVs & Beyond",
-  "text": "Zeekr on ice: sliding the 500kW 7GT, 8X and 9X above Cardrona EVs & Beyond",
+  "title": "Zeekr 7GT first drive on snow and track, plus 8X and 9X | EVs and Beyond | EVs and Beyond - EVs & Beyond",
+  "text": "Zeekr 7GT first drive on snow and track, plus 8X and 9X | EVs and Beyond | EVs and Beyond EVs & Beyond",
   "author": "",
   "published": "2026-10-26T18:30:00+00:00",
   "rating": null,
@@ -535,29 +643,25 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/giant-avatr-t09-luxury-phev-suv-makes-world-debut-expected-to-join-chinese-luxury-newcomers-aussie-line-up/",
   "title": "Giant Avatr T09 luxury PHEV SUV makes world debut: Expected to join Chinese luxury newcomer’s Aussie line-up",
-  "text": "Chinese luxury brand Avatr has unveiled its imposing new T09 flagship plug-in hybrid SUV, offering a first public look at a six-seat rival to the biggest European luxury SUVs that is expected to eventually reach Australia. The Concept T09 made its global debut at the Paris motor show, where Avatr also displayed the 06T electric shooting brake, which is already in the frame for the brand’s Australian rollout in 2027. At more than 5.2 metres long and around two metres wide, the T09 is a full-size three-row SUV intended to establish a new flagship tier for Avatr, with six individual seats and an emphasis on passenger comfort. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: Chinese premium brand Avatr confirms first Aussie model: 07L electric SUV deliveries will start in 2027 READ MORE: Another Chinese auto giant is coming to Australia: Changan and luxury Avatr prepare EV and PHEV assault READ MORE: Yep, yet another Chinese brand is coming to Australia: Luxury Avatr confirmed with its line-up of SUV and saloon EVs and range extenders. The T09’s exterior features an unusually elaborate front grille",
+  "text": "Avatr T09 luxury plug-in hybrid SUV debuts in Paris with six seats and a claimed 400km-plus electric range as the Chinese brand prepares to launch in Australia. The post Giant Avatr T09 luxury PHEV SUV makes world debut: Expected to join Chinese luxury newcomer’s Aussie line-up appeared first on EV Central .",
   "author": "Bruce Newton",
   "published": "2026-10-26T12:09:20+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
-  "competitors": [
-   "avatr"
-  ],
+  "competitors": [],
   "brands": [
    "avatr"
   ],
   "categories": [
-   "quality",
    "software",
-   "charging",
-   "delivery"
+   "charging"
   ],
   "sentiment": {
-   "score": 1,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 1,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
@@ -640,11 +744,11 @@
  {
   "id": "fe49205180a1bec0",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
-  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
+  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
+  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -652,9 +756,14 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd"
+   "byd",
+   "toyota",
+   "ford"
   ],
-  "categories": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -665,7 +774,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -825,23 +934,18 @@
   "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
-  "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
-  "text": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars CarsGuide",
+  "title": "Shop Tesla Model 3 Cars - CarsGuide",
+  "text": "Shop Tesla Model 3 Cars CarsGuide",
   "author": "",
   "published": "2026-10-26T01:19:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y",
-   "geely-ex5",
-   "tesla-model-3",
-   "byd-seal"
+   "tesla-model-3"
   ],
   "brands": [
-   "byd",
-   "tesla",
-   "geely"
+   "tesla"
   ],
   "categories": [],
   "sentiment": {
@@ -851,9 +955,7 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [
-   "offer"
-  ],
+  "signals": [],
   "scope": "competitor",
   "au": true,
   "extra": {},
@@ -932,41 +1034,33 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/xpeng-g9l-suv-australian-pricing-looms-flagship-suv-targets-early-2027-showroom-arrival/",
   "title": "XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival",
-  "text": "XPeng’s new G9L flagship SUV will reach Australian showrooms in early 2027, with both battery-electric and range-extender powertrains and a choice of six- and seven-seat layouts headed here. The updated timing supersedes earlier expectations that the large Chinese SUV could arrive as soon as November 2026. Australian pricing and specifications are expected to be announced shortly, ahead of vehicles reaching dealerships next year. The G9L will follow the smaller L03 SUV, which is expected to reach Australian dealerships before the end of 2026. Right-hand-drive G9L production has already commenced in China, with initial examples earmarked for Australia. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: 2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark READ MORE: XPeng L03 lands in Australia from $41,900: New EV and range-extender SUV takes on Chinese price-fighters READ MORE: XPeng X9 Aussie price and equipment: Super-smart electric seven-seater arrives to take on luxury SUVs and a new wave of high-tech people-movers The latest developments fol",
+  "text": "XPeng G9L is heading to Australia in early 2027 with electric and range-extender powertrains, six or seven seats and pricing expected to be announced soon. The post XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival appeared first on EV Central .",
   "author": "EV Central team",
   "published": "2026-10-26T00:11:16+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y",
-   "xpeng-g6",
-   "xpeng-x9",
    "xpeng-g9l"
   ],
   "brands": [
-   "smart",
-   "tesla",
    "xpeng"
   ],
   "categories": [
    "software",
    "charging",
    "delivery",
-   "service",
-   "price",
    "sales"
   ],
   "sentiment": {
-   "score": 1,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 1,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
-   "launch",
-   "price"
+   "launch"
   ],
   "scope": "industry",
   "au": true,
@@ -1043,6 +1137,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "f617a041350b33d5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fQm85UXR4V09CZUFQcTZTaVlTWHROSms2SUp2Zi04OHA2a3BoQ0VKaUt0cnhqQ3BFNk5xTnh4VHpxN0VwV1ZQSWFLTnRpSF8xam1EY0NFVFhEcktf?oc=5",
+  "title": "Polestar 4 Is A ZEEKR You Can Buy In Canada But Not USA - YouTube",
+  "text": "Polestar 4 Is A ZEEKR You Can Buy In Canada But Not USA YouTube",
+  "author": "",
+  "published": "2026-10-25T20:34:29+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T12:36:33+00:00"
  },
  {
   "id": "1de7c495e18800cf",
@@ -1421,7 +1548,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/2026-xpeng-g6-long-range-review-sharp-value-tesla-model-y-rival-does-little-wrong-but-needs-more-spark/",
   "title": "2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark",
-  "text": "XPeng got off to a shaky start in Australia, but the brand has had a reboot — under the control of head office in China, rather than the importer that looked after it previously — in its attempt to tackle the likes of BYD and Tesla, among others. First up is the updated XPeng G6 mid-sized SUV, the car we’ve tested here. The brand likes to talk about technology. The Chinese brand pitches itself as a tech company that also makes cars, with flying cars and robots among the things on its to-do list. READ MORE: Best EVs to buy in Australia right now: The ultimate guide to affordable electric cars READ MORE: Robots could soon replace car salespeople in XPeng dealerships as EV brand zeroes in on AI, tech READ MORE: XPeng action! New Aussie distributor announces XPeng G6 update including AWD Performance READ MORE: Roll out the network: XPeng confirms its first four Aussie showrooms as G6 mid-sized SUV electric launches. Another 20 outlets promised before the end of 2025 Yet the updated G6 — the mid-sized SUV that launched the brand in Australia — makes its strongest case with something more old-fashioned: price. Updated for 2026: the new XPeng G6 RWD Long Range. The range starts at $51,800",
+  "text": "The 2026 XPeng G6 Long Range is sharply priced, classy inside and does little wrong. But can this Tesla Model Y rival win over buyers? The post 2026 XPeng G6 Long Range Review: Sharp-value Tesla Model Y rival does little wrong, but needs more spark appeared first on EV Central .",
   "author": "Toby Hagon",
   "published": "2026-10-24T12:16:39+00:00",
   "rating": null,
@@ -1432,28 +1559,23 @@
    "xpeng-g6"
   ],
   "brands": [
-   "byd",
    "tesla",
    "xpeng"
   ],
   "categories": [
    "software",
    "charging",
-   "delivery",
-   "service",
-   "price",
-   "sales"
+   "price"
   ],
   "sentiment": {
-   "score": 1,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 1,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
-   "launch",
-   "price"
+   "launch"
   ],
   "scope": "industry",
   "au": true,
@@ -2248,32 +2370,26 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/fancy-an-electric-wagon-mercedes-benz-cla-shooting-brake-electric-priced-at-72990-for-australia-just-790-above-sedan/",
   "title": "Fancy an electric wagon? Mercedes-Benz CLA Shooting Brake electric priced at $72,990 for Australia, just $790 above sedan",
-  "text": "Mercedes-Benz has priced its electric CLA Shooting Brake for Australia at $72,990 before on-road costs, putting the wagon just $790 above the equivalent CLA 200 electric sedan. Orders for the CLA 200 Shooting Brake electric open on October 22, with the first vehicles expected in Australian showrooms in January 2027. The small premium over the $72,200 sedan buys a longer roofline, a large rear tailgate and more headroom, offering another option for EV buyers seeking practicality without moving into an SUV. READ MORE: Best luxury EVs in Australia 2026: Premium electric cars under $100k, $150k, $250k and beyond, priced and compared READ MORE: Mazda 6e and Mercedes-Benz CLA score five stars: So why isn’t ANCAP making a bigger deal about it? READ MORE: 2026 Mercedes-Benz CLA electric Review: 800V tech and impressive range land Merc back in the EV fight READ MORE: Mercedes-Benz GLA EV deep-dive: Just how much does it share with the new Mercedes-Benz CLA EV The Shooting Brake will initially be offered here with one electric powertrain, combining a rear-mounted motor producing 165kW and 335Nm with a two-speed transmission and rear-wheel drive. 2027 Mercedes-Benz CLA Shooting Brake. Mercede",
+  "text": "Mercedes-Benz CLA Shooting Brake electric arrives in Australia from $72,990, just $790 above the sedan, with up to 511km of range and January deliveries. The post Fancy an electric wagon? Mercedes-Benz CLA Shooting Brake electric priced at $72,990 for Australia, just $790 above sedan appeared first on EV Central .",
   "author": "EV Central team",
   "published": "2026-10-23T01:00:00+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
-  "competitors": [
-   "mazda-6e",
-   "mb-cla-ev"
-  ],
+  "competitors": [],
   "brands": [
-   "mercedes-benz",
-   "mazda"
+   "mercedes-benz"
   ],
   "categories": [
    "quality",
-   "charging",
-   "delivery",
-   "safety",
-   "sales"
+   "software",
+   "charging"
   ],
   "sentiment": {
-   "score": 1,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 1,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
@@ -2436,7 +2552,7 @@
   "source_name": "EV Central",
   "url": "https://evcentral.com.au/tesla-cybertruck-officially-axed-for-australia/",
   "title": "Tesla Cybertruck officially axed for Australia: Deposits refunded seven years after orders opened",
-  "text": "It’s official: the Tesla Cybertruck is not coming to Australia. Tesla has today written to Australians and New Zealanders who reserved the stainless steel electric ute, confirming its plans to build a right-hand drive version have been scrapped. An email sent this morning (Friday, October 23, 2026) finally put the full stop on any chances for the radical American pick-up truck, as many had expected. FULL DETAILS: Pricing, reviews and specificatons for all Tesla models on sale in Australia READ MORE: Tesla bounces back with record Q2 deliveries: But what’s going on with the share price? READ MORE: Tesla axes pricing! Plummeting Cybertruck sales prompt huge discounts READ MORE: Local Tesla boss predicts Cybertruck could come to Australia as early as 2026 READ MORE: “It was never off the table”: Tesla Australia briefed on ADR requirements to launch Cybertruck as electric beast firms for our market READ MORE: Tesla Cybertruck driven! Behind the wheel of the outlandish truck that Elon built READ MORE: 2026 Tesla Model 3 Rear-Wheel Drive Brief Drive: Is the cheapest Tesla now the smartest buy? “After careful consideration, plans to produce Cybertruck for Australia and New Zealand have be",
+  "text": "The Tesla Cybertruck won’t be sold in Australia after all. Deposits are being refunded, and reservation holders get free FSD with a new Model 3 or Y. The post Tesla Cybertruck officially axed for Australia: Deposits refunded seven years after orders opened appeared first on EV Central .",
   "author": "Toby Hagon",
   "published": "2026-10-22T23:40:17+00:00",
   "rating": null,
@@ -2461,8 +2577,7 @@
   },
   "severity": null,
   "signals": [
-   "launch",
-   "offer"
+   "launch"
   ],
   "scope": "industry",
   "au": true,
@@ -23548,7 +23663,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -23571,7 +23686,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -24014,23 +24129,16 @@
   "source_name": "EV Central (Zeekr)",
   "url": "https://evcentral.com.au/is-this-zeekrs-next-big-thing-in-australia-7gt-shooting-brake-confirmed-with-up-to-670km-range-and-500kw-flagship/",
   "title": "Is this Zeekr’s next big thing in Australia? 7GT shooting brake confirmed with up to 670km range and 500kW flagship",
-  "text": "Zeekr has locked in its sleek 7GT electric shooting brake for Australia, confirming a three-model line-up with up to 670km of WLTP range, ultra-fast charging and a 500kW flagship capable of hitting 100km/h in just 3.1 seconds. The low-slung five-door made its Australian debut at Everything Electric Sydney last weekend and will launch in the fourth quarter of 2026. The range comprises RWD, Long Range RWD and Performance AWD variants. Orders are due to open later this year ahead of first customer deliveries in the first quarter of 2027. Pricing is yet to be announced, but media reports indicate each version of the 7GT will be positioned below the equivalent member of the popular Zeekr 7X SUV line-up . READ MORE: 2026 Zeekr 7GT Review: Sleek sporty wagon set to arrive with sharp pricing to tempt buyers from a Tesla Model 3 or Toyota Camry READ MORE: Australia’s safest? New BMW iX3 and Zeekr 7GT EVs become first vehicles to earn five stars under toughest-ever NCAP tests READ MORE: Sleek four-door Zeekr 7GT wagon launches in right-hand drive: Next stop Australia? The 7X currently starts from $57,900 before on-road costs, meaning the 7GT will emerge as one of Australia’s more attainable",
+  "text": "Zeekr has locked in its sleek 7GT electric shooting brake for Australia, confirming a three-model line-up with up to 670km The post Is this Zeekr’s next big thing in Australia? 7GT shooting brake confirmed with up to 670km range and 500kW flagship appeared first on EV Central .",
   "author": "EV Central team",
   "published": "2026-09-22T05:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
-   "7X",
    "7GT"
   ],
-  "competitors": [
-   "tesla-model-3"
-  ],
-  "brands": [
-   "tesla",
-   "bmw",
-   "toyota"
-  ],
+  "competitors": [],
+  "brands": [],
   "categories": [
    "quality",
    "software",
@@ -24045,8 +24153,7 @@
   },
   "severity": null,
   "signals": [
-   "launch",
-   "price"
+   "launch"
   ],
   "scope": "zeekr",
   "au": true,
@@ -28575,33 +28682,23 @@
   "source_name": "EV Central (Zeekr)",
   "url": "https://evcentral.com.au/2026-zeekr-7gt-review-sleek-sporty-wagon-set-to-arrive-with-sharp-pricing-to-tempt-buyers-from-a-tesla-model-3-or-toyota-camry/",
   "title": "2026 Zeekr 7GT Review: Sleek sporty wagon set to arrive with sharp pricing to tempt buyers from a Tesla Model 3 or Toyota Camry",
-  "text": "Newcomer brand Zeekr has enjoyed plenty of success with its 7X mid-sized SUV. Now the aspirational Chinese car maker wants to apply the same successful formula to a sleek sports wagon. Enter the Zeekr 7GT, which the company calls a shooting brake. Beneath the skin it shares its running gear and 800V architecture and platform with the 7X. READ MORE: 2026 Zeekr 7X Performance AWD Review READ MORE: 2026 Zeekr 7X Long Range RWD Review READ MORE: Zeekr 7X priced for Australia: Latest Chinese electric SUV undercuts Tesla Model Y as premium EV brand goes for mainstream sales But the 7GT sits lower and is longer. Essentially, it’s like a 7X that’s been squished from above and sportified. The 7GT’s most obvious rival is the Tesla Model 3, but the Geely-owned brand also thinks it could tempt some Toyota Camry buyers away from the safe haven sedan. Zeekr 7GT. It’s also hoping to tempt would-be buyers of the BYD Seal, Lexus ES and Mazda 6e with a blend of sleek design, impressive tech and luxury-like finishes. 2026 Zeekr 7GT price and equipment There’s no official Australian pricing for the Zeekr 7GT just yet – it’s coming on September 18 when the car is unveiled locally. But its positioning i",
+  "text": "The Zeekr 7GT is more interesting to look at than the sea of Chinese SUVs - and it also provides the basis for a wagon that is fun to drive. The post 2026 Zeekr 7GT Review: Sleek sporty wagon set to arrive with sharp pricing to tempt buyers from a Tesla Model 3 or Toyota Camry appeared first on EV Central .",
   "author": "Toby Hagon",
   "published": "2026-09-03T02:09:09+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
-   "7X",
    "7GT"
   ],
   "competitors": [
-   "tesla-model-y",
-   "tesla-model-3",
-   "byd-seal",
-   "mazda-6e"
+   "tesla-model-3"
   ],
   "brands": [
-   "byd",
    "tesla",
-   "toyota",
-   "geely",
-   "mazda",
-   "lexus"
+   "toyota"
   ],
   "categories": [
-   "quality",
-   "software",
-   "charging"
+   "software"
   ],
   "sentiment": {
    "score": 0,
@@ -28611,8 +28708,7 @@
   },
   "severity": null,
   "signals": [
-   "launch",
-   "price_cut"
+   "launch"
   ],
   "scope": "zeekr",
   "au": true,
@@ -30555,36 +30651,29 @@
   "source_name": "EV Central (Zeekr)",
   "url": "https://evcentral.com.au/zeekr-confirms-two-new-models-for-australia-8x-and-9x-are-large-luxury-suvs-aimed-at-audi-bmw-benz-range-rover-and-even-rolls-royce-but-prices-will-be-lower/",
   "title": "Zeekr confirms two new models for Australia: 8X and 9X are large luxury SUVs aimed at Audi, BMW, Benz, Range Rover and even Rolls-Royce … but prices will be lower",
-  "text": "Chinese carmaker Zeekr will push into six-figure territory with its 8X and 9X luxury SUVs that will add plug-in hybrid power and lashings of tech to the top end of the market. The Geely-owned brand has confirmed its two largest SUVs will come to Australia, with the pair due to arrive from late 2026 and through 2027. Both the 8X and 9X are plug-in hybrids, while the X, 009 and popular 7X Zeekr already sells here are EVs. The 7X has been the cornerstone of the brand reaching 10,000 sales in Australia in less than two years. And they are both aimed squarely at established German and British luxury metal. Between them they will target the rarefied SUV air dominated by the likes of BMW, Mercedes-Benz and Range Rover. READ MORE: Zeekr 7X RWD review READ MORE: 2026 Zeekr 7X Performance AWD Review: Take note, Tesla fans, because this could be the best Chinese EV yet! READ MORE: Zeekr 8X revealed: PHEV hybrid’s looks and tech detail have been exposed in China READ MORE: Zeekr 9X is China’s new uber SUV, complete with 42,242 laser engravings This move is indicative of the aspirations of Chinese car makers to head upmarket, with BYD-owned Denza and GWM also aiming high. Zeekr 8X to target BMW",
+  "text": "Chinese car maker Zeekr will push into six-figure territory with its 8X and 9X luxury SUVs that will add plug-in hybrid power and lashings of tech to the top end of the market. The post Zeekr confirms two new models for Australia: 8X and 9X are large luxury SUVs aimed at Audi, BMW, Benz, Range Rover and even Rolls-Royce … but prices will be lower appeared first on EV Central .",
   "author": "Toby Hagon",
   "published": "2026-08-17T01:56:59+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
-   "7X",
-   "009",
    "8X",
    "9X"
   ],
   "competitors": [],
   "brands": [
-   "byd",
-   "mercedes-benz",
-   "tesla",
    "bmw",
-   "audi",
-   "geely",
-   "denza"
+   "audi"
   ],
   "categories": [
-   "charging",
-   "delivery"
+   "software",
+   "charging"
   ],
   "sentiment": {
-   "score": 1,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 1,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
@@ -30839,7 +30928,7 @@
   "source_name": "EV Central (Zeekr)",
   "url": "https://evcentral.com.au/2026-zeekr-7x-long-range-rwd-review-is-this-actually-the-7x-to-buy/",
   "title": "2026 Zeekr 7X Long Range RWD Review: Is this actually the 7X to buy?",
-  "text": "There’s no doubt the Zeekr 7X has made an impact since launching in Australia late last year. The Chinese premium electric SUV has now passed 7500 local deliveries and in July accounted for a hefty 33 per cent of the SUVs priced above $65,000 segment. We’ve already spent a week with the flagship 475kW Performance AWD and came away seriously impressed. But now we’re testing what might actually be the sweet spot of the range, the $63,900 (plus on-road costs) Long Range RWD. It gives away the Performance’s dual-motor punch and sophisticated suspension, but costs $9000 less and stretches claimed range from 543km to 615km. So is this the smarter 7X? READ MORE: 2026 Zeekr 7X Performance AWD Review: Take note, Tesla fans, because this could be the best Chinese EV yet! READ MORE: Zeekr 7X priced for Australia: Latest Chinese electric SUV undercuts Tesla Model Y as premium EV brand goes for mainstream sales READ MORE: Leapmotor B10 tops Zeekr 7X and Kia EV4 in latest ANCAP testing: Cheapest EV stars against more expensive opposition 2026 Zeekr 7X Long Range RWD price and equipment The Long Range RWD sits in the middle of the Zeekr 7X line-up, priced at $63,900 before on-road costs. The entr",
+  "text": "There’s no doubt the Zeekr 7X has made an impact since launching in Australia late last year. The Chinese premium The post 2026 Zeekr 7X Long Range RWD Review: Is this actually the 7X to buy? appeared first on EV Central .",
   "author": "Bruce Newton",
   "published": "2026-08-14T16:01:13+00:00",
   "rating": null,
@@ -30847,34 +30936,21 @@
   "models": [
    "7X"
   ],
-  "competitors": [
-   "tesla-model-y",
-   "kia-ev4"
-  ],
-  "brands": [
-   "kia",
-   "tesla"
-  ],
+  "competitors": [],
+  "brands": [],
   "categories": [
-   "quality",
    "software",
-   "charging",
-   "delivery",
-   "price",
-   "safety"
+   "charging"
   ],
   "sentiment": {
-   "score": 2,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 2,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [
-   "launch",
-   "price_cut",
-   "price_rise",
-   "price"
+   "launch"
   ],
   "scope": "zeekr",
   "au": true,
@@ -36878,38 +36954,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "94906e9485014bd9",
-  "type": "post",
-  "source": "reddit-CarsAustralia",
-  "source_name": "Reddit r/CarsAustralia",
-  "url": "https://www.reddit.com/r/CarsAustralia/comments/1szq9pz/ceramic_coating_sydney/",
-  "title": "Ceramic Coating - SYDNEY",
-  "text": "Hey all, new to Sydney. Live in the Castle Hills area. Can anyone recommend a good shop for Ceramic Coating the entire car and Tint for the windows? Further to that, this is my first car. So I’m not sure what is a “good product”. I see so many shops using all sorts of different brand products. Super confused! Car : Zeekr 7X Yes, I’ve googled and found a lot of places, but would like some personal recommendations (from strangers on Reddit, yes, again - I’m new here!)",
-  "author": "/u/Just-Afternoon6979",
-  "published": "2026-04-30T08:39:02+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 2,
-   "neg_hits": 0,
-   "pos_hits": 2,
-   "label": "positive"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
  }
 ]
