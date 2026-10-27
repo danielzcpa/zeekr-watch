@@ -2,8 +2,8 @@
  "key": "smart",
  "brand": "smart",
  "url": "https://www.smart.com.au/",
- "fetched": "2026-10-26T21:37:56+00:00",
- "digest": "9690b0ac8f1f2e9a",
+ "fetched": "2026-10-27T00:49:54+00:00",
+ "digest": "81705bf45a582811",
  "lines": [
   "Start saving on tax",
   "Whether saving for your first home or counting down to retirement, you could save on tax by making extra super contributions.",
@@ -14,11 +14,14 @@
   "Find out what benefits are available in your industry and what your employer offers, then apply.",
   "See what you could save by salary packaging a car.",
   "Click on your industry to see where you could make tax savings.",
+  "Drive away. Then holiday.",
+  "You could earn 35,000 bonus Qantas Points when you take out a novated lease through Smart",
+  "Book a free chat",
   "^ Fringe Benefits Tax (FBT) exemption available for eligible electric or hydrogen cell vehicles purchased through a novated lease up to the Luxury Car Tax limit ($91,661 in FY 2026-27). See the Australian Taxation Office website for full eligibility criteria.",
   "A portable electronic device can only be salary packaged if it is used primarily (over 50%) for work purposes. Self-education or professional education does not count towards work use."
  ],
  "money": [
   91661
  ],
- "n_lines": 11
+ "n_lines": 14
 }

@@ -1,5 +1,18 @@
 [
  {
+  "id": "c36e83eea140415c",
+  "key": "smart",
+  "brand": "smart",
+  "url": "https://www.smart.com.au/",
+  "detected": "2026-10-27T00:49:54+00:00",
+  "added": [
+   "Drive away. Then holiday.",
+   "You could earn 35,000 bonus Qantas Points when you take out a novated lease through Smart",
+   "Book a free chat"
+  ],
+  "removed": []
+ },
+ {
   "id": "67bf571fe7adae64",
   "key": "thebeep-offers",
   "brand": "The Beep (全品牌政策汇总)",

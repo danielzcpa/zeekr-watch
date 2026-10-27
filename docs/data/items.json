@@ -1,5 +1,180 @@
 [
  {
+  "id": "45905a345ac41c05",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xgcae4/the_og_zeekr_owners/",
+  "title": "The OG Zeekr owners",
+  "text": "Keen to get feedback from owners who bought the first gen Zeekr X released in Australia. Are you still happy with it? Any noticeable issues coming up now that the model is almost 3 years old?",
+  "author": "/u/SelfISO",
+  "published": "2026-10-26T23:10:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
+  "id": "889d2620d5abba55",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Alvinology",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzhEcG02NnNOQW5sVnVoeHY1eFgwRUhvc3JBT29NT1p1X2syWFl1cUNtYU5mcGRRQWRJaWlTcndOSFJmLUViYjRNbzIybjBBaUFTeU55ZW5mbll2SG1WZkJzMUtxNEVzajhLa3lrRzlfa2hiS01QRFB2X0dHT1MtRjBvVWkwMnMtN0Q4SzdpdC12TVdPS3J5ei1ENVB1YTd5Szh0cm1tOU1ETUFiR0pMZWI0Nk5ycThFLVE?oc=5",
+  "title": "Zeekr Launches Updated 7X Electric SUV in Singapore with New Category A COE Variant - Alvinology",
+  "text": "Zeekr Launches Updated 7X Electric SUV in Singapore with New Category A COE Variant Alvinology",
+  "author": "",
+  "published": "2026-10-26T23:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
+  "id": "9fe67c888fe6cda7",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkREYmtlS291eUNZa3BITTJ3S09KYkU5QXdpSFM4c2F2MHE5ZnVjSHhrTWg0aTUtV0ZkSE5ZVjFPTTl6WXB1V0xsZjNfYlFFUkxGMDJCWEF3cVJWcG5NMXdsYWdhLU55dGxBMnJ1elNNTm83TUdSTWEwMHp1aDJLY2F4cVZwT3I2RXc?oc=5",
+  "title": "XPENG ANZ network grows to 66 sites ahead of L03 and G9L arrival - CarSauce",
+  "text": "XPENG ANZ network grows to 66 sites ahead of L03 and G9L arrival CarSauce",
+  "author": "",
+  "published": "2026-10-26T22:02:41+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g9l"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
+  "id": "d7c532d0efb387ba",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/full-steam-ahead-for-xpeng-as-it-expands-network-lineup-and-resolves-open-trueev-cases",
+  "title": "Full steam ahead for Xpeng as it expands network, lineup and resolves open TrueEV cases",
+  "text": "Xpeng Motors Australia is set to end 2026 with 66 retail locations in Australia through which it’ll offer three models, as the Chinese brand grows its local presence under a factory-backed operation. By the end of this year, it’ll have 66 sites across every state and territory, with the L03 mid-size electrified SUV set to arrive in showrooms before year’s end as the brand’s third model here. Xpeng's G9L large flagship SUV (for now) will follow it on sale early in 2027, with pricing yet to be announced. Also due to arrive in 2027 is the even larger GX electrified SUV. After the brand was launched here in late 2024 by independent Australian distributor TrueEV with the G6 mid-size electric SUV – a partnership that ended in acrimony and a Federal Court battle – Xpeng Motors Australia (Xpeng ANZ) has been busily growing its lineup. An updated G6 arrived earlier this year, followed by the X9 people mover. While both models are offered here exclusively with electric power, the L03 and G9L will be available with both electric vehicle (EV) and extended-range electric vehicle (EREV) powertrains. Xpeng’s upcoming flagship SUV, the GX – or whatever it’ll be called here, given it shares its nam",
+  "author": "William Stopford",
+  "published": "2026-10-26T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g9l"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
+  "id": "1cbf4ec0364d1bc0",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xg9yp4/my_featurebase_pending_for_many_days/",
+  "title": "My featurebase pending for many days",
+  "text": "Hey everyone I’ve submitted some bug reports and feature requests to the official Zeekr Featurebase board through the iOS app but they’ve been stuck as \"Pending\" for over a week. I see other users' posts going through daily, so the board is active. My posts just seem stalled in the moderation queue. Has anyone else dealt with this? Is there a trick to getting approved, or can a trusted user/mod here help bump them to the community managers? Since there's no in-app feedback tool, I'd really like to get these seen by the devs. Thanks!",
+  "author": "/u/z00bs_",
+  "published": "2026-10-26T21:35:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
   "id": "ae44a664179b9160",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -41,7 +216,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/denza-z9-gt-delayed-electric-shooting-brake-launch-pushed-to-2027",
   "title": "Denza Z9 GT delayed, electric shooting brake launch pushed to 2027",
-  "text": "The Denza Z9 GT now won't arrive in Australia until the first half of 2027, as BYD's premium brand says it's \"juggling priorities\". A Denza Australia spokesperson said there are \"lots of moving pieces across the business\", with both the BYD and Denza lineups continuing to expand. \"We don’t want to launch for the sake of meeting a date,\" he said. \"It’s an important brand builder this model and needs to be launched in an optimal environment.\" Denza had confirmed in April 2026 it would launch the Z9 GT in the third quarter (July to September) of 2026, a timetable which has now come and gone. The premium brand only commenced customer deliveries this year of its first vehicles in Australia, the large B5 and B8 plug-in hybrid off-road SUVs. It subsequently followed these with the D9 luxury electric people mover, a significantly lower-volume model. The Denza N9 , a full-size plug-in hybrid crossover SUV, has now received Australian Design Rule (ADR) certification but launch timing has yet to be announced. Given it's an electric wagon, the Z9 GT is likely to sell in lower volumes than the B5 and B8 as well. Pricing has yet to be announced for the Porsche Taycan rival, which is part of a cl",
+  "text": "The Denza Z9 GT now won't arrive in Australia until the first half of 2027, as BYD's premium brand says it's \"juggling priorities\". A Denza Australia spokesperson said there are \"lots of moving pieces across the business\", with both the BYD and Denza lineups continuing to expand. \"We don’t want to launch for the sake of meeting a date,\" he said. \"It’s an important brand builder this model and needs to be launched in an optimal environment.\" Denza had confirmed in April 2026 it would launch the Z9 GT in the third quarter (July to September) of 2026, a timetable which has now come and gone. The premium brand only commenced customer deliveries this year of its first models to arrive in Australia, the large B5 and B8 plug-in hybrid off-road SUVs. It subsequently followed these with the D9 luxury electric people mover, a significantly lower-volume model. The Denza N9 , a full-size plug-in hybrid crossover SUV, has now received Australian Design Rule (ADR) certification but launch timing has yet to be announced. Given it's an electric wagon, the Z9 GT is likely to sell in lower volumes than the B5 and B8 as well. Pricing has yet to be announced for the Porsche Taycan rival, which is part",
   "author": "William Stopford",
   "published": "2026-10-26T21:15:00+00:00",
   "rating": null,
@@ -114,13 +289,50 @@
   "first_seen": "2026-10-26T21:32:50+00:00"
  },
  {
+  "id": "90d1c348e083fc47",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xg73fa/zeekr_7gt_core_any_experiences/",
+  "title": "Zeekr 7GT Core - any experiences?",
+  "text": "In February I will be able to order my new company car and right now the 7GT Core is at the top of my list. At my previous employer I used to have a Xpeng G6 and I loved it. I'm also keeping an eye out on the Xpeng L03 (since the G6 is now out of budget). I just love the form factor of the 7GT and I'm wondering if any of you have some experiences to share? Thank you!",
+  "author": "/u/Ramy1604",
+  "published": "2026-10-26T19:46:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
   "id": "f79bc0fe831e5557",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
   "source_name": "Google News · EVs & Beyond",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wQ2Fpbl9SX29tVkJCa09uQjNYcks5T0NSc3J1Mm1sUmNmRm9IX2l0WnZIV08zNGVVb1hNSzkwZ2EwVmNTcmZnNTBhangwR2xETE42QmJYc1hTRjV0VDlDakFNWXd5c2E5bnc5S0gwbW0?oc=5",
-  "title": "Zeekr 7GT first drive on snow and track, plus 8X and 9X | EVs and Beyond | EVs and Beyond - EVs & Beyond",
-  "text": "Zeekr 7GT first drive on snow and track, plus 8X and 9X | EVs and Beyond | EVs and Beyond EVs & Beyond",
+  "title": "Zeekr on ice: sliding the 500kW 7GT, 8X and 9X above Cardrona - EVs & Beyond",
+  "text": "Zeekr on ice: sliding the 500kW 7GT, 8X and 9X above Cardrona EVs & Beyond",
   "author": "",
   "published": "2026-10-26T18:30:00+00:00",
   "rating": null,
@@ -292,11 +504,11 @@
  {
   "id": "fe49205180a1bec0",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
-  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
+  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
+  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -304,9 +516,14 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd"
+   "byd",
+   "toyota",
+   "ford"
   ],
-  "categories": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -317,7 +534,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -442,23 +659,18 @@
   "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
-  "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
-  "text": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars CarsGuide",
+  "title": "Shop Tesla Model 3 Cars - CarsGuide",
+  "text": "Shop Tesla Model 3 Cars CarsGuide",
   "author": "",
   "published": "2026-10-26T01:19:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y",
-   "geely-ex5",
-   "tesla-model-3",
-   "byd-seal"
+   "tesla-model-3"
   ],
   "brands": [
-   "byd",
-   "tesla",
-   "geely"
+   "tesla"
   ],
   "categories": [],
   "sentiment": {
@@ -468,9 +680,7 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [
-   "offer"
-  ],
+  "signals": [],
   "scope": "competitor",
   "au": true,
   "extra": {},
@@ -2085,6 +2295,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-23T01:23:32+00:00"
+ },
+ {
+  "id": "06f9e8fa0493a5e0",
+  "type": "post",
+  "source": "reddit-CarsAustralia",
+  "source_name": "Reddit r/CarsAustralia",
+  "url": "https://www.reddit.com/r/CarsAustralia/comments/1xcx6zw/highway_patrol_ego_is_out_of_control/",
+  "title": "Highway Patrol ego is out of control.",
+  "text": "Context, We tint at my shop and I was wanting to know the legalities around the Zeekr 7x rear privacy glass being 5% from factory (not a film, the dye is 5%) I walked up to a parked up highway patrol and waved at the window, he rolls it down literally 5cm Me: \"Excuse me, sorry to bother you, can I ask you a quick question?\" Highway Patrol just stares at me and doesn't say a word Me: The zeekr 7x rear glass is 5% from factory, my understanding is that a film can't be darker than 20%, but technically privacy glass doesn't fall under the law? Can someone driving one get in trouble for having it? Highway Patrol: It cant be. It needs to be over 35% (Incorrect btw, it needs to be over 20%) Me: We've tested it with tools and its definitely 5% Highway Patrol: \"Well you obviously know better than me so why are you asking?\" Me: \"No i'm just asking a question and telling you what I know and trying to fill in the gaps\" Highway Patrol: \"I've told you the answer and you want to argue with me\" and then rolls up his window --------- I don't understand man. I'm just a member of the public trying to have a respectful conversation with this dude and he can't even be respectful back.",
+  "author": "/u/ZweetWOW",
+  "published": "2026-10-22T22:45:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
  },
  {
   "id": "23b2bcfb47c4bea8",
@@ -34627,6 +34868,37 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "da98b6bbe5faf929",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IMGhIa3VLYkxRb2tCTUt5czd2dE1YX3RSbTJJSzZhUzJhM29tOGIxM0RfU0Z1NUJoaHh1Yi1pTS1HNHJQMy1tdUgxczBBbVBja2l0ZG4tNmVRSnpHb1RTYUtR?oc=5",
+  "title": "Zeekr X EV SUV - Whirlpool Forums",
+  "text": "Zeekr X EV SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-05T05:54:06+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
+ },
+ {
   "id": "a1b506d52858b48a",
   "type": "review",
   "source": "playstore-android",
@@ -36198,6 +36470,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "6e2770064810289e",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NaVg5SXF1VzFHUl9qZExjT0ZiRkJWMTMza3hrTllWbU02Nlp2UFRKRDNSckliMW1xX1NEMW5lMGZOM3VRREF2eXU2b2Y0WVV1akd4Sm9jVGtxZHZSTGttbFA4cw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-01T13:23:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T00:43:42+00:00"
  },
  {
   "id": "33390adb97446ee3",
