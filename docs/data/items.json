@@ -1,5 +1,108 @@
 [
  {
+  "id": "fb621febfca5de33",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xghis1/no_service_icon/",
+  "title": "No service icon",
+  "text": "I picked my AWD Green 7x up yesterday from Essendon, they told me it can take up to 24 hours for the car to register on their system and be able to connect the app? I’m now past that and not getting anywhere with the delivery team. Has anyone else had this issue? I hit the reconnect button this morning, now it’s greyed out so I can’t try again. Fantastic car, so happy with my purchase ! Edit: I called the dealership, as it had been 4 hours when they said a return call should be 30 minutes. The response was “ I forgot to call back, it can take 5 days so check again on Saturday” I hope this isn’t them just kicking the can down the road, in the hope it resolves so I don’t bug them for a few more days.",
+  "author": "/u/Consistent-Pin4348",
+  "published": "2026-10-27T03:07:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
+  "id": "e576db63aff873f2",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xghb1b/update_on_7x_orders/",
+  "title": "Update on 7X orders",
+  "text": "Doncaster dealership just advised that my order (ETA 30 November) has been pushed back to end of December. The sliver lining? I will be receiving the 2027 model. Dealership advised that they expect comms on the 2027 model to be released next week. I guess the waiting continues.",
+  "author": "/u/Mammoth_Cellist7138",
+  "published": "2026-10-27T02:57:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
+  "id": "6e8cb54d695d0ffc",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · RACV",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzBSYnRqaFdqa0ZwVnFCTFZ2bGhQSEZMNHFZOE0wQ0luamRURlFra1JSTGJCQWFOTjQxd2VFZVBZblN4MGI3eHdpdmVobUNEZlIxZGRfQjBOcTF5Qm1jOWhOeXZJRUdyYlRBV3Y3SHdCY05xcWdrOGZYd0NrMk44SVpjWnQ1dC1WX3FnZ1Q0Ujk1NjA?oc=5",
+  "title": "2026 BYD Atto 3 Evo Premium review - RACV",
+  "text": "2026 BYD Atto 3 Evo Premium review RACV",
+  "author": "",
+  "published": "2026-10-27T01:45:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "45905a345ac41c05",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -76,7 +179,7 @@
   "title": "XPENG ANZ network grows to 66 sites ahead of L03 and G9L arrival - CarSauce",
   "text": "XPENG ANZ network grows to 66 sites ahead of L03 and G9L arrival CarSauce",
   "author": "",
-  "published": "2026-10-26T22:02:41+00:00",
+  "published": "2026-10-26T22:02:11+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -466,6 +569,39 @@
   "first_seen": "2026-10-26T16:55:15+00:00"
  },
  {
+  "id": "0709862dc28bd530",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3R2c3NVWEhqeWpuTHlGRGstRXFvSG1Cb2NoNXVnb1BPR182bG1HMGVvbmNpajJpd1RzMG1CaFJDTlFXZnRzN3VQNEUydmY0eEdfN1J0cFlQSmxDWk50N0ZiSmw0MnBSM3E4U1U5ZHpxblQxSDJTbkN1RUpLdXVKZmR2Skt6ZWlpM2ZYSm9LWTNja0IzQ1ZnM05Wdi14Q0RtVXZQRWtpbUpmZw?oc=5",
+  "title": "2026 Tesla Model Y Premium Rear-Wheel Drive Auto - Carsales",
+  "text": "2026 Tesla Model Y Premium Rear-Wheel Drive Auto Carsales",
+  "author": "",
+  "published": "2026-10-26T05:10:58+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "45f8ece3d6cbb2a7",
   "type": "competitor_news",
   "source": "thedriven",
@@ -504,11 +640,11 @@
  {
   "id": "fe49205180a1bec0",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
-  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
+  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
+  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -516,14 +652,9 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd",
-   "toyota",
-   "ford"
+   "byd"
   ],
-  "categories": [
-   "software",
-   "charging"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -534,7 +665,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -619,6 +750,41 @@
   "first_seen": "2026-10-26T04:34:24+00:00"
  },
  {
+  "id": "4a80263afe3566ca",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWJzRnpFYmxPRnFIYnVEMW16eWZDR1lqUDFTYm83M0YtcHlCcWkyUmpIWW52S21vbWpuUzVLTHREQllMTkRsVklKWnozNU9lOXA2cHZpTWVMWEpPSEFSWUxVS0NKX1JHcmRvZDFlcHRDTmNia2NVa1ZkdWlBX3lySWM1c2ZYZHNvN1FoLUY3OEF0bzBUeXRLaElRTm9aNHg5aU1n?oc=5",
+  "title": "2021 Tesla Model 3 Standard Range Plus Auto - Carsales",
+  "text": "2021 Tesla Model 3 Standard Range Plus Auto Carsales",
+  "author": "",
+  "published": "2026-10-26T01:57:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "36a2a4b2ca4db7b8",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -659,18 +825,23 @@
   "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
-  "title": "Shop Tesla Model 3 Cars - CarsGuide",
-  "text": "Shop Tesla Model 3 Cars CarsGuide",
+  "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
+  "text": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars CarsGuide",
   "author": "",
   "published": "2026-10-26T01:19:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-3"
+   "tesla-model-y",
+   "geely-ex5",
+   "tesla-model-3",
+   "byd-seal"
   ],
   "brands": [
-   "tesla"
+   "byd",
+   "tesla",
+   "geely"
   ],
   "categories": [],
   "sentiment": {
@@ -680,7 +851,9 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [],
+  "signals": [
+   "offer"
+  ],
   "scope": "competitor",
   "au": true,
   "extra": {},
@@ -6250,6 +6423,38 @@
   "first_seen": "2026-10-23T01:23:32+00:00"
  },
  {
+  "id": "730be004ab16da74",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2I3dFpoSFNibVd1UzBPd3ptREVmWDV4c21VSDVGRG1fVVJjd29oOWhJTjNka2o5NWtUU0tRRHhrQVlnWGZjRHRST3ZjRFk5c3ZiakFRMmo5Uk1ieWJhamJEQlhMU2JUUTdMcWxscnNRWlY0U3R3UVdGNlBxWVY4NU1iMEkzZEk?oc=5",
+  "title": "Zeekr Black cars with battery capacity over 80kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr Black cars with battery capacity over 80kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T09:27:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "902cddce6630082c",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -6485,6 +6690,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"
+ },
+ {
+  "id": "80b49d1c13fae755",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zLUUtYUE1c3JscndQWjdyX3BCcXA5cGxMOE9LUTRfTnlnb253WkU4RVlXYkFjX3Q2SkxqaGdNZ2JtTld1QjE0QmoxeWlMUWMzYnJuV3lTMjhnaFJLSkk4Q2haYkVPcjZfbW1KcExjUTk?oc=5",
+  "title": "Volvo EX90 2026 review: Plus | Kia EV9 rival tested - CarsGuide",
+  "text": "Volvo EX90 2026 review: Plus | Kia EV9 rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-20T06:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev9",
+   "volvo-ex90"
+  ],
+  "brands": [
+   "volvo",
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
  },
  {
   "id": "2327f00bf26b15fd",
@@ -8571,6 +8811,37 @@
   "first_seen": "2026-10-18T20:29:05+00:00"
  },
  {
+  "id": "ebc295fec44e7f56",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · DMARGE",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TUFppMHFwUmg4TnRGR3pVa3hfREJCTGg0SEN0b2R3VjFSUEp0ZUxRYmh3RGpOM0FGdk9xTUJyX1VyRXZja1B4VTcwZjgxWFJuT2tWMVRWSkdZZnM3?oc=5",
+  "title": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K - DMARGE",
+  "text": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K DMARGE",
+  "author": "",
+  "published": "2026-10-18T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T23:20:45+00:00"
+ },
+ {
   "id": "86319ed31d31c856",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -8738,37 +9009,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-18T01:27:25+00:00"
- },
- {
-  "id": "ebc295fec44e7f56",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · DMARGE",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TUFppMHFwUmg4TnRGR3pVa3hfREJCTGg0SEN0b2R3VjFSUEp0ZUxRYmh3RGpOM0FGdk9xTUJyX1VyRXZja1B4VTcwZjgxWFJuT2tWMVRWSkdZZnM3?oc=5",
-  "title": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K - DMARGE",
-  "text": "A Zeekr 7X Costs $58K In Australia. In Singapore, It’s Nearly $300K DMARGE",
-  "author": "",
-  "published": "2026-10-17T23:11:14+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-17T23:20:45+00:00"
  },
  {
   "id": "eac33af01e02e1ae",
@@ -34018,6 +34258,40 @@
   "first_seen": "2026-10-22T15:32:33+00:00"
  },
  {
+  "id": "6a105ac386940769",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-complaint",
+  "source_name": "Google News · Paul Tan",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zbUFqZGdHQWk0a3pBYVlmR2FUY04wZjhUNjlLMVZBdmxDb1J3UWhZQkJVZkFNNzhFZ2ptbzVFdzVwYU9tczVJVFl4bEdUOHF3WE8yZGNrdVc5RWMwd2xTblo5NkFIZUFCNTJz?oc=5",
+  "title": "Zeekr X Flagship — RM175,800, specifications Malaysia - Paul Tan",
+  "text": "Zeekr X Flagship — RM175,800, specifications Malaysia Paul Tan",
+  "author": "",
+  "published": "2026-06-23T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "8c402cbee4970a61",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -36541,6 +36815,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "13d8524491f49933",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtRjVRc1NMNjk5NlBLT0hlUFo0VVl3eWFsZUhOa3NVUUF4TnB5TGZISldsVnR3Vkw0cGE5Zm1qdUpIWW9ZcmFLZ3pwdTN5emNldUFlUEYxbUx2dEI3ekhDYi00TQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-01T07:36:59+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "6d2f77cd76bba226",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -36606,36 +36911,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "e80f29b2267fdb2a",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TMlJEYkZKOEJBcDQ4MVprNF9VVFd2RmVOWVpRUklMZFpLRHdXZlhRcTFyd3ZidFVwN05Md3hNdG9Lc2NUYk1xZWNsVEljYzlZYUZXei1Yel94S3BIVEl1ajlUMA?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-04-30T04:51:51+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-23T01:23:32+00:00"
  }
 ]

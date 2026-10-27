@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-27T00:43:42+00:00",
- "duration_s": 373.3,
- "items_total": 1058,
- "new_this_run": 186,
+ "generated": "2026-10-27T06:09:34+00:00",
+ "duration_s": 311.4,
+ "items_total": 1066,
+ "new_this_run": 201,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 6,
-  "complaints_30d": 38,
+  "complaints_30d": 37,
   "high_7d": 3,
   "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 86,
-  "launch_signals_7d": 15,
-  "offer_signals_7d": 6,
-  "zeekr_news_7d": 82,
-  "offer_page_changes_7d": 4
+  "competitor_news_7d": 83,
+  "launch_signals_7d": 14,
+  "offer_signals_7d": 7,
+  "zeekr_news_7d": 79,
+  "offer_page_changes_7d": 5
  },
  "series_30d": [
   {
@@ -135,13 +135,13 @@
    "date": "2026-10-17",
    "complaints": 1,
    "competitor_news": 33,
-   "zeekr_news": 11
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-18",
    "complaints": 2,
    "competitor_news": 3,
-   "zeekr_news": 5
+   "zeekr_news": 6
   },
   {
    "date": "2026-10-19",
@@ -152,8 +152,8 @@
   {
    "date": "2026-10-20",
    "complaints": 2,
-   "competitor_news": 19,
-   "zeekr_news": 31
+   "competitor_news": 20,
+   "zeekr_news": 32
   },
   {
    "date": "2026-10-21",
@@ -188,13 +188,13 @@
   {
    "date": "2026-10-26",
    "complaints": 0,
-   "competitor_news": 16,
+   "competitor_news": 18,
    "zeekr_news": 2
   },
   {
    "date": "2026-10-27",
    "complaints": 0,
-   "competitor_news": 0,
+   "competitor_news": 1,
    "zeekr_news": 0
   }
  ],
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 27
+   "n": 26
   },
   {
    "key": "charging",
@@ -215,7 +215,7 @@
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 13
+   "n": 12
   },
   {
    "key": "delivery",
@@ -227,7 +227,7 @@
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 10
+   "n": 9
   },
   {
    "key": "sales",
@@ -256,7 +256,7 @@
  },
  "sources_30d": {
   "Google Play (AU)": 12,
-  "Reddit r/Zeekr7xAustralia": 12,
+  "Reddit r/Zeekr7xAustralia": 11,
   "Reddit r/AustralianEV": 4,
   "Reddit r/Zeekr": 4,
   "Reddit r/EVAustralia": 3,
@@ -314,7 +314,7 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
     "0148c4f0c14b8662",
     "37c34a9709de995f",
@@ -323,7 +323,7 @@
    "offer": [
     "37c34a9709de995f"
    ],
-   "latest": "0148c4f0c14b8662"
+   "latest": "6e8cb54d695d0ffc"
   },
   "mb-eqa": {
    "n_30d": 0,
@@ -332,7 +332,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 20,
+   "n_30d": 22,
    "launch": [
     "2426883974d70bd6",
     "d9be8d5e830449ea",
@@ -344,10 +344,11 @@
     "8b84f73c39185863"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "2426883974d70bd6",
     "6a4c860a7340b58c"
    ],
-   "latest": "2426883974d70bd6"
+   "latest": "0709862dc28bd530"
   },
   "xpeng-g6": {
    "n_30d": 4,
@@ -484,7 +485,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "0ea6624a635cd203",
     "f4537ddeee79ee40",
@@ -493,12 +494,13 @@
     "a733988169d48563"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
-   "latest": "0ea6624a635cd203"
+   "latest": "36b6bc6c0c756e02"
   },
   "tesla-model-3": {
-   "n_30d": 18,
+   "n_30d": 19,
    "launch": [
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
@@ -508,6 +510,7 @@
     "6eceae851aeaecd7"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "85dcdf97d44cb5f6",
     "5366678f10e4adb3",
     "347f60946babed57",
@@ -526,7 +529,7 @@
    "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -534,10 +537,11 @@
     "d2af0ef5c3bba679"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "4362e9a45be33f4e"
+   "latest": "36b6bc6c0c756e02"
   },
   "im5": {
    "n_30d": 2,
@@ -750,7 +754,7 @@
    "latest": null
   },
   "kia-ev9": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "2c67435d1d334093",
     "b5c47101ca081290",
@@ -761,7 +765,7 @@
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "2c67435d1d334093"
+   "latest": "80b49d1c13fae755"
   },
   "xpeng-g9l": {
    "n_30d": 14,
@@ -829,7 +833,7 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
     "2c67435d1d334093",
     "205ea3973e46d6d4",
@@ -884,6 +888,13 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "d71d49b415511109",
+   "title": "Hyundai 官网政策页面变化（+1 / −1 行）",
+   "source": "https://www.hyundai.com/au/en/offers",
+   "t": "2026-10-27T06:14:44+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "c36e83eea140415c",
    "title": "smart 官网政策页面变化（+3 / −0 行）",
    "source": "https://www.smart.com.au/",
@@ -894,7 +905,7 @@
    "id": "9fe67c888fe6cda7",
    "title": "XPENG ANZ network grows to 66 sites ahead of L03 and G9L arrival - CarSauce",
    "source": "Google News · CarSauce",
-   "t": "2026-10-26T22:02:41+00:00",
+   "t": "2026-10-26T22:02:11+00:00",
    "competitors": [
     "xpeng-g9l"
    ]
@@ -950,6 +961,19 @@
    ]
   },
   {
+   "kind": "competitor_offer",
+   "id": "36b6bc6c0c756e02",
+   "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-10-26T01:19:55+00:00",
+   "competitors": [
+    "tesla-model-y",
+    "geely-ex5",
+    "tesla-model-3",
+    "byd-seal"
+   ]
+  },
+  {
    "kind": "competitor_launch",
    "id": "2426883974d70bd6",
    "title": "XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival",
@@ -992,32 +1016,22 @@
     "tesla-model-y",
     "xpeng-g6"
    ]
-  },
-  {
-   "kind": "competitor_offer",
-   "id": "85dcdf97d44cb5f6",
-   "title": "Tesla sharpens Model 3 appeal for fleets and novated buyers - Fleet EV News",
-   "source": "Google News · Fleet EV News",
-   "t": "2026-10-24T04:35:00+00:00",
-   "competitors": [
-    "tesla-model-3"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 64,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 9,
+   "count": 11,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 31,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1027,7 +1041,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1037,32 +1051,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 85,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 40,
+   "count": 46,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 14,
+   "count": 17,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 41,
+   "count": 31,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 12,
+   "count": 13,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 14,
+   "count": 9,
    "note": ""
   },
   "carexpert": {
@@ -1141,24 +1155,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1192,7 +1206,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 26,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1586,14 +1600,14 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
    "count": 9,
-   "note": "unchanged"
+   "note": "changed"
   },
   "offers-tesla-my": {
    "ok": false,
@@ -1613,7 +1627,7 @@
   "offers-smart": {
    "ok": true,
    "count": 14,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-leapmotor": {
    "ok": true,
