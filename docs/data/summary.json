@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-27T12:36:33+00:00",
- "duration_s": 311.0,
- "items_total": 1069,
- "new_this_run": 163,
+ "generated": "2026-10-27T18:13:55+00:00",
+ "duration_s": 303.6,
+ "items_total": 1074,
+ "new_this_run": 224,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 4,
-  "complaints_30d": 37,
+  "complaints_30d": 36,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 2,
   "competitor_news_7d": 83,
   "launch_signals_7d": 13,
   "offer_signals_7d": 2,
-  "zeekr_news_7d": 72,
-  "offer_page_changes_7d": 5
+  "zeekr_news_7d": 63,
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-26",
    "complaints": 0,
-   "competitor_news": 18,
+   "competitor_news": 19,
    "zeekr_news": 2
   },
   {
    "date": "2026-10-27",
    "complaints": 0,
    "competitor_news": 4,
-   "zeekr_news": 0
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,43 +203,43 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 26
+   "n": 25
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 14
+   "n": 13
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 12
+   "n": 11
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 11
+   "n": 10
   },
   {
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 9
+   "n": 8
   },
   {
    "key": "sales",
    "zh": "销售体验",
    "en": "Sales experience",
-   "n": 6
+   "n": 5
   },
   {
    "key": "price",
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
-   "n": 3
+   "n": 2
   },
   {
    "key": "safety",
@@ -249,7 +249,7 @@
   }
  ],
  "models_30d": {
-  "7X": 13,
+  "7X": 12,
   "7GT": 3,
   "009": 1,
   "X": 1
@@ -259,7 +259,7 @@
   "Reddit r/Zeekr7xAustralia": 11,
   "Reddit r/AustralianEV": 4,
   "Reddit r/Zeekr": 4,
-  "Reddit r/EVAustralia": 3,
+  "Reddit r/EVAustralia": 2,
   "ProductReview.com.au": 1,
   "Reddit r/AutoAdvice": 1,
   "Reddit r/ZeekrAustraliaNZ": 1
@@ -571,7 +571,7 @@
    "latest": "8defc78fc17ad815"
   },
   "denza-z9gt": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "37c27ec512d23c97",
     "fa15f25f5765628d"
@@ -969,17 +969,17 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 65,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 13,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 30,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -989,7 +989,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1009,12 +1009,12 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 18,
+   "count": 20,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 37,
+   "count": 30,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1024,7 +1024,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 10,
+   "count": 12,
    "note": ""
   },
   "carexpert": {
@@ -1083,14 +1083,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1105,7 +1105,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,

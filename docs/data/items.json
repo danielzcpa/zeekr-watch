@@ -1,5 +1,68 @@
 [
  {
+  "id": "929c730c40351deb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Electrifying.com",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUJYQXlyZW5xQ2F1b01YaFBLQU9WdmNuNTNKRTVmR0dyczVWZ0xHd0pkZzl3cG9hVWhQck9ZTV80cVNGc2NxS3oxdWpxbUhKSHNsUUNUb1FURW5VeEFOZEJkNDRoXzNpaGRvblNzbUQxdl83N2hzai1jcVNfcFBXbjVzaVFKb3NPcEE?oc=5",
+  "title": "iCaur, Zeekr and more: the new Chinese car brands coming to the UK in 2027 - Electrifying.com",
+  "text": "iCaur, Zeekr and more: the new Chinese car brands coming to the UK in 2027 Electrifying.com",
+  "author": "",
+  "published": "2026-10-27T17:59:58+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T18:13:55+00:00"
+ },
+ {
+  "id": "e1e1812644115b97",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Fakti.bg",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1IwblhENWE2d3M3bnI4TmFXRkljZm9PMlF0WEtXNnlUUGw0WUhLSzJvNVpaMUFVZ0lRckE3S2ZCUV9WeTR0OFhPWVZITjFOTlFNZEZ2XzlSWU9mcmlFZ19HbGZoSHlNRmNrcEQ1bmZMbm5QaXg1a1hmWVViOWZrU2FMN3Z4MHVEbFAwUmRwNWY2RG5WTk90bzdiVE5kbVNOTnpTMTdjLUt2c0MyTU1zNEU4XzlpTk1icVhIaXdYREdyZ256ZVZnYndNRDN0T1FrbHBoTnFVYVM?oc=5",
+  "title": "The Chinese from Zeekr brought out the heavy artillery (See also the prices of the flagship 9X in our country) - Fakti.bg",
+  "text": "The Chinese from Zeekr brought out the heavy artillery (See also the prices of the flagship 9X in our country) Fakti.bg",
+  "author": "",
+  "published": "2026-10-27T13:47:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T18:13:55+00:00"
+ },
+ {
   "id": "93b4e87ae9e0b224",
   "type": "competitor_news",
   "source": "thedriven",
@@ -73,6 +136,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T12:36:33+00:00"
+ },
+ {
+  "id": "2e70d3347a1a27e4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · eletric-vehicles.com",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUxrcG1zTXlTOUVLQVVoRkN5LTVnWEMzM2N2UnFkV2ltYWp6dDVEaHdOWDlzUWJMaTZhWlQ1QXdVRk5uOWtGNlIxWnlvZGV2eE5qakRyX183eGw0bVFMSkJHaTBhLU1NUWhITUVURzc1Q08yZFNKM1o4Y2VvV2JUenNldHhYQmx2R3A2X1BvUTVTaW4zZG95c1JrV2U3NHd3WUxOYWFTWl90dw?oc=5",
+  "title": "Zeekr 009 and 9X Serve the 2026 Financial Street Forum - eletric-vehicles.com",
+  "text": "Zeekr 009 and 9X Serve the 2026 Financial Street Forum eletric-vehicles.com",
+  "author": "",
+  "published": "2026-10-27T05:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T18:13:55+00:00"
  },
  {
   "id": "fb621febfca5de33",
@@ -180,7 +275,7 @@
  {
   "id": "6e8cb54d695d0ffc",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · RACV",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzBSYnRqaFdqa0ZwVnFCTFZ2bGhQSEZMNHFZOE0wQ0luamRURlFra1JSTGJCQWFOTjQxd2VFZVBZblN4MGI3eHdpdmVobUNEZlIxZGRfQjBOcTF5Qm1jOWhOeXZJRUdyYlRBV3Y3SHdCY05xcWdrOGZYd0NrMk44SVpjWnQ1dC1WX3FnZ1Q0Ujk1NjA?oc=5",
   "title": "2026 BYD Atto 3 Evo Premium review - RACV",
@@ -744,11 +839,11 @@
  {
   "id": "fe49205180a1bec0",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
-  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
+  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
+  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -756,14 +851,9 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd",
-   "toyota",
-   "ford"
+   "byd"
   ],
-  "categories": [
-   "software",
-   "charging"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -774,7 +864,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -815,6 +905,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T04:34:24+00:00"
+ },
+ {
+  "id": "ea46519ae18ca16e",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · eletric-vehicles.com",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDNGZFlPcmtKaTdKcElDcWRFdXBwZ2tjTDd5VEhYalcxdmdEcTljQ0tkVF8tUTVQaW40dFNiN2o4MHc0RTR6TWd4S2lqZEZ1b1lrTTZxUk95QlJEUkQ3cUo3Q2xmVTZoRmlFSTdPYng2LW1FbnU3UE0zSzlNRWpkc2NKVlRVM1Fw?oc=5",
+  "title": "Denza Z9 GT — Autumn Grand Tour - eletric-vehicles.com",
+  "text": "Denza Z9 GT — Autumn Grand Tour eletric-vehicles.com",
+  "author": "",
+  "published": "2026-10-26T02:40:01+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-z9gt"
+  ],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-27T18:13:55+00:00"
  },
  {
   "id": "14c596b4cdca60d9",
@@ -23663,7 +23786,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -23686,7 +23809,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -24667,6 +24790,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "16a07e864d20d66a",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9naVZZYzBUWUVYdVNzaGFQVTc1c1pvLTFnSTlVU2g3Z2FqZ3NtcHUtYmhwb3FvOEYzcjNFUTlPRmwyTlVTaU1VdjFZNXkzSlhfaXMyZ2UybER3QzBGNFpNLXp3?oc=5",
+  "title": "Geely EX5 BEV SUV - Whirlpool Forums",
+  "text": "Geely EX5 BEV SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-20T07:57:17+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T18:13:55+00:00"
  },
  {
   "id": "9f2d0802000777f7",
@@ -31004,7 +31160,7 @@
   "title": "Zeekr Australia upcoming models: 8X, 9X, 7GT and more - Chasing Cars",
   "text": "Zeekr Australia upcoming models: 8X, 9X, 7GT and more Chasing Cars",
   "author": "",
-  "published": "2026-08-14T05:19:42+00:00",
+  "published": "2026-08-14T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
