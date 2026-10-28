@@ -1,5 +1,36 @@
 [
  {
+  "id": "a9cedb53e6b0d0a0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
+  "author": "",
+  "published": "2026-10-28T18:02:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
   "id": "55d3d8e50661a9fc",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -24,37 +55,6 @@
   "severity": null,
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
- },
- {
-  "id": "a9cedb53e6b0d0a0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Motor1.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
-  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
-  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
-  "author": "",
-  "published": "2026-10-28T13:19:49+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
@@ -122,6 +122,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "ce243dbac0594d56",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zY0pyMDFtZm1malpHTktkdVQtNEwyZHVIV3h0eDM5cHJfcXRMQnUxMVFLd3p1Q0p1ZnNhOEladXpmbDRCMU9HVy1jaUcwTURtSXkxY3FZTDFiVXo1d2pJUHFzVQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-28T09:25:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T07:20:56+00:00"
  },
  {
   "id": "fa1833b6abb6a5eb",
@@ -298,6 +329,37 @@
   "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
+  "id": "83c98a9c7d44d9ee",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · ClubS1",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGZWeG5QclNsQkdKa2lqWHVxbWlrYjE0aHNRbnlhUVRoOXBud1V2ZElvQmxXQ0p2Njh0R3ExNGxNbVFKbW9lRUZXZUJ3VEdXNGl2bTh1c2NfOXU2N1llckx4X21HTHlxVUVSSXluM0tzelpaTGNHbkVILS1tTTc2NldURlV2SE9MNktKYnVlY3E5UXJYWVZYbHg2ZWVfUU1MN3ZVQUNIWWYwNzJlMkFuYjdnWngtNERtbnAwbEo4RjhZTGdWQmNjMzlYZUM?oc=5",
+  "title": "The new Zeekr 9X has arrived in Bulgaria: Fresh luxury with 897 hp or a direct threat to the German elite? - ClubS1",
+  "text": "The new Zeekr 9X has arrived in Bulgaria: Fresh luxury with 897 hp or a direct threat to the German elite? ClubS1",
+  "author": "",
+  "published": "2026-10-28T07:48:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
+ },
+ {
   "id": "89b927693a814466",
   "type": "competitor_news",
   "source": "carexpert",
@@ -436,23 +498,24 @@
   "first_seen": "2026-10-28T07:20:56+00:00"
  },
  {
-  "id": "ce243dbac0594d56",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zY0pyMDFtZm1malpHTktkdVQtNEwyZHVIV3h0eDM5cHJfcXRMQnUxMVFLd3p1Q0p1ZnNhOEladXpmbDRCMU9HVy1jaUcwTURtSXkxY3FZTDFiVXo1d2pJUHFzVQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "id": "7196fcab84710464",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2ViT3huNjhpZEFvdF93ejBJNFBmTXB3YldyWjNKakdwYk5YMEpPMG85cVhmUDc4SWNLOFdldTJrQ2dCelFucEtUZEF0R0o0MFVleThURmE3alFmVzJ4dndCdnJBeGk3cXVTVW1aeG1qdlBZY2hNYVFWcEE3VnlKLVJsTEFjdThxZUNUX0tfaHlKM3hFMkFCOFYzZTZZYk1iTkt4MG1hSThzcGxlaUFzRzUwcnM2bEZR?oc=5",
+  "title": "Zeekr Not Applicable cars between $25,000 & $50,000 with electric engine range over 450km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars between $25,000 & $50,000 with electric engine range over 450km for sale in Australia Carsales",
   "author": "",
-  "published": "2026-10-28T03:33:04+00:00",
+  "published": "2026-10-27T23:18:19+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -460,11 +523,46 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-28T07:20:56+00:00"
+  "first_seen": "2026-10-28T19:48:20+00:00"
+ },
+ {
+  "id": "577f4a2e4d5077d4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUFHaTh6Y0w5S0NGTzc3MmV5cjgtUVhqcTJsU3h1WWg3UVhiX3NVc0dlZ0U3OENDWHRlSmNGOG5JM2ZTcXhTa3Vmck95MDJMRk1tOUd6YmRXczRYOUhJTDEtUlU0RVUwT19HVUM0NTZnZHIwaFdMblVLdFBNZkppNGpBYzNZb0JLLTFBY3BMbXExRmJCLUVz?oc=5",
+  "title": "Zeekr cars between $25,000 & $50,000 with electric engine range over 450km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $25,000 & $50,000 with electric engine range over 450km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-27T22:14:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
  },
  {
   "id": "e921111eee53f2c0",
@@ -783,6 +881,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T12:36:33+00:00"
+ },
+ {
+  "id": "a03a3cf2fa74a446",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1xgkw1w/alternatives_to_zeekr_7x/",
+  "title": "Alternatives to Zeekr 7X",
+  "text": "It may look like a lazy post but isn’t. I have done my deep research, watched videos, read heaps of articles, done a bunch of Test drives which ultimately helped me land into choosing a Zeekr 7X. But guess what? I almost “hit” the buy button until I found out it’s listed as banned for P-platers in VIC/NSW. My son is on his Ps and prefer to keep it open for him to drive it if needed. I’d appreciate suggestions on similarly equiped car worthwhile buying as I don’t know at this point what can I get instead. Thanks",
+  "author": "/u/Ok-Chef-4632",
+  "published": "2026-10-27T06:15:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
  },
  {
   "id": "b1e96c2e384bcf6f",
@@ -1796,7 +1928,7 @@
  {
   "id": "36b6bc6c0c756e02",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
   "title": "Shop Tesla Model 3 Cars - CarsGuide",
@@ -9791,35 +9923,6 @@
   "first_seen": "2026-10-17T23:20:45+00:00"
  },
  {
-  "id": "86319ed31d31c856",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
-  "title": "Zeekr's real LandCruiser killer could look like this - Drive",
-  "text": "Zeekr's real LandCruiser killer could look like this Drive",
-  "author": "",
-  "published": "2026-10-18T06:34:27+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-16T23:51:05+00:00"
- },
- {
   "id": "5743cef7c89a5c8b",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -10440,6 +10543,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T01:12:14+00:00"
+ },
+ {
+  "id": "86319ed31d31c856",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
+  "title": "Zeekr's real LandCruiser killer could look like this - Drive",
+  "text": "Zeekr's real LandCruiser killer could look like this Drive",
+  "author": "",
+  "published": "2026-10-17T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-16T23:51:05+00:00"
  },
  {
   "id": "f308fc9dc22c0bd8",
@@ -11145,39 +11277,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
-  "id": "c0e635b95049027e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
-  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
-  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "1ded87a0f1ae20c9",
@@ -19286,6 +19385,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "c0e635b95049027e",
+  "type": "news_zeekr",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
+  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-09T20:57:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "af15aa7c4a27f293",
@@ -28991,10 +29123,10 @@
   "id": "8c402df5aeef4f78",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bmZuclljSE02VVlNdjV1di1tbnhfTUJrWWpEcUNMaGFYbThQMkYzVV9tcTJQUnNVZ3ZXa3NBUUpkRU5zM1Z4RElyeTJGSExtemZWWW8yTm8?oc=5",
-  "title": "Zeekr X - The numbers that shouldn’t add up, but do - thebeep.com",
-  "text": "Zeekr X - The numbers that shouldn’t add up, but do thebeep.com",
+  "title": "Zeekr X - The numbers that shouldn’t add up, but do - The Beep",
+  "text": "Zeekr X - The numbers that shouldn’t add up, but do The Beep",
   "author": "",
   "published": "2026-09-03T11:33:44+00:00",
   "rating": null,
@@ -29083,10 +29215,10 @@
   "id": "6a462427ace47be8",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWktBSWd0TjBBLUU0VmRBWWVWSW9Cc01BQzNFTHMzTFZYc2RHYXhoVlUwVURiUVZ4dTNwenJuUzd3QkoweTd0STItV0dnVjdWb3p1b2FZYmxnUThkZDlQZHU2OUZCRURXLUlPbV9FbHVwcGtqT05UQU85NndLa1JSNWFqejJlQnM0YnVr?oc=5",
-  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - thebeep.com",
-  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia thebeep.com",
+  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - The Beep",
+  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia The Beep",
   "author": "",
   "published": "2026-09-03T09:45:52+00:00",
   "rating": null,
@@ -29149,10 +29281,10 @@
   "id": "88e47d7b70389ded",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aQjVRUHJqVXBKUGJxd2plaFh2TElkZ0h3TnZLSTV0Qm1rcy01ZTBoNnY0TFpSYmFiODhlSGVXVnA2QmtiZjUyUmZSaFQ2YW1raXgwMS04QVo2RXV0WGVoYy1kSkE3MkhuZlNjTWk0SzBodzRLY3c?oc=5",
-  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - thebeep.com",
-  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months thebeep.com",
+  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - The Beep",
+  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months The Beep",
   "author": "",
   "published": "2026-09-03T08:59:07+00:00",
   "rating": null,
@@ -29367,13 +29499,46 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "5039280683e46652",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wLWwzby1YWnZyQWU1eDI0UlFfa05mVjdEWUNidnY2V0pvMjk3cmdjZ3dmYl9aaWFGaFkxaU1Vdzh4NmRBOUY0OFZGZ0FRdURPN1BidQ?oc=5",
+  "title": "Tesla Model Y Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Tesla Model Y Price, Specs & Variants | Australia 2026 The Beep",
+  "author": "",
+  "published": "2026-09-03T04:14:51+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
+ },
+ {
   "id": "5419a5cf3287542f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWlc5NVcwZ3dBN0pyUk5rMERiRzMycTV6RHRvVFhUQUZENllfb2JMWlZFbVF6UWkwWW1iV1J6S3M2czNrQnpaM3Y2SC16UQ?oc=5",
-  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - thebeep.com",
-  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 thebeep.com",
+  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 The Beep",
   "author": "",
   "published": "2026-09-03T04:14:49+00:00",
   "rating": null,
@@ -35404,6 +35569,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "883cf3c48610a525",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wZ1dDaG9iRWZpSllmWFBudGVxVFd0RUVUTDNPcnZ0blNMRy03WWpER1ZGdmFfdVB0X2dTZU5Fd1dzeVBjcFJjU1AxVG5YVy0xQmZvWldLNUlDSHFmV0I1WDhCcw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-13T13:24:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
+ },
+ {
   "id": "8b40dd39f140c6bb",
   "type": "complaint",
   "source": "playstore-android",
@@ -36006,6 +36202,37 @@
    "thumbs": 0
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "d891b74fcabd8cb6",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nclN3RlZUbWFmYmt4cFI1QTVVbXpJaFBadXdGUm9qWV9yY0l1NGlrZkpQX3MtTW4yYU5laFNBcldfOXdpZ3Z4d3ptV005VEpTbEh3YVRBM21wd0h5OFJuMnVNUQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-04T13:55:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
  },
  {
   "id": "d8ed631aeed5c570",
@@ -37347,6 +37574,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-25T01:32:33+00:00"
+ },
+ {
+  "id": "d3014b8f74dfc0cc",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51ZUVIbHptdlRhdUJhaERCX2cxZ0RQbmF3X1NSdlcwd2hVSDhYTmwydzV4QzRScHgtWHBGZG44MkdXMFcyZjZpdUJDbXZ3R3Zod1VsWGd4eGFZb2pCX1laVUpYZw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-07T23:15:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T19:48:20+00:00"
  },
  {
   "id": "26c731d76f0003f9",
