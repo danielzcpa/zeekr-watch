@@ -1,5 +1,371 @@
 [
  {
+  "id": "55d3d8e50661a9fc",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xhoid6/zeekrs_pitch_for_europe_is_pretty_simple_stop/",
+  "title": "Zeekr’s pitch for Europe is pretty simple: stop paying extra just for the badge.",
+  "text": "",
+  "author": "/u/Competitive_Solid800",
+  "published": "2026-10-28T13:46:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "a9cedb53e6b0d0a0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
+  "author": "",
+  "published": "2026-10-28T13:19:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "977de602e7893c4e",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9haVBuOHBRR196eFE3c0FoUXRyTTYwNXk3NXFlYkc5ZnZfWmNIcjNFYnpycFpPd2pMNHJWS0hGSVAtT2hPTlZCVFVQU1l2VWRG?oc=5",
+  "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Seal review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T09:53:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "f0c702f789f87679",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xhjozp/zeekr_001_in_istanbul_turkiye_they_were_never/",
+  "title": "Zeekr 001 in Istanbul Turkiye. They were never sold in Turkiye!",
+  "text": "",
+  "author": "/u/Creative_Republic_39",
+  "published": "2026-10-28T09:48:21+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "fa1833b6abb6a5eb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DWXd0bmdmb0dIaHQyOFliYTd5X3VpS0hZR2pFWm9jM0dmc2FfbWV5cnRzM1N1QUZCdVA2YVdWS2p0Mm1uLTZhRlozaWxvRHIwelJfdDRHZlAzMWl6OC1N?oc=5",
+  "title": "Toyota bZ4X Touring review: price, range and specs - EV Central",
+  "text": "Toyota bZ4X Touring review: price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T09:07:35+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T00:25:32+00:00"
+ },
+ {
+  "id": "ca6819fe95ffefd8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
+  "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai IONIQ 5 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T09:07:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-ioniq5"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "cb40097f8e9bd1a7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTGxFYXh6OFV4cmxHdk1RMUJpWnoyZVY3NmlGamhMS1paeXF2c3Z1MlNJT0xjSWlKalZwSU9UclBUZjVUYmFPX2hLTE9QYVVYNFE?oc=5",
+  "title": "Geely EX2 review: every 2026 variant, price and specs - EV Central",
+  "text": "Geely EX2 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T08:40:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
+  "id": "06fa47391abc61ff",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
+  "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
+  "text": "Geely EX5 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T08:34:09+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "39ee8a224f7f89bb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nMXNIQTVLdmk4elhBR0JDdndtYnZ2VFNNQUpJZDlqSU9oVzV0RkJPRHdXQWlXd01xYjZ0UjRsZXcwNnJkNmVQX09RYmNmenBjVWlIYU5Xaw?oc=5",
+  "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
+  "text": "Tesla Model Y review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T08:27:49+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "89b927693a814466",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/another-chinese-brand-coming-to-australia-with-another-defender-style-suv",
+  "title": "Another Chinese brand coming to Australia with another Defender-style SUV",
+  "text": "Land Rover Defender -style SUVs are all the rage in China, and a brand that specialises in them has confirmed it plans to enter the Australian market. Rox Motor , which describes itself as a “Chinese premium new-energy SUV brand”, is planning to enter the Australian market “around the end of this year or early next year” according to an email sent to CarExpert from a marketing agency representing the firm. The company describes Australia as “strategically important market for Rox Motor”, a startup founded by Chinese entrepreneur Chang Jing which was previously known as Polestones. The local model lineup hasn’t been confirmed, let alone pricing or specifications or how the brand’s vehicles will be sold. Rox Motor sells just two models: the 01, plus a plusher version known as the Adamas. Both are large SUVs offered with extended-range electric (EREV) powertrains and either six- or seven-seat configurations. Both also feature more car-like unibody (rather than ladder-frame) construction, like the current Defender. The 01 was revealed in 2023 and was designed by Pininfarina. It measures 5295mm long, 1980mm wide and 1869mm tall on a 3010mm wheelbase, making it 100mm longer, 14mm narrowe",
+  "author": "William Stopford",
+  "published": "2026-10-28T07:23:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "land rover"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "a162d09c8a01fda9",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Menafn",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUg4VjljWFJjUVZieVJvNTNPLUZreEZJNkZ3R3VhblNjdE10TGpVanF4b19sTDRPYlNMVVdKTlBoN2h5ZHBjRnpuZXZMbjNHWVh1RjcxVVB6cGRvemptU2Z0VUo3Z1NBT0l2N0swWFQzcDRhcHhabDhUSHRpSVRXbDhORjVXclR3YU5jV0dhQ0k3dWo3SVdHNW1YR1JMckJN?oc=5",
+  "title": "Kia EV6 GT Wins Auto Motor Und Sport Electric Vehicle Comparison Test - Menafn",
+  "text": "Kia EV6 GT Wins Auto Motor Und Sport Electric Vehicle Comparison Test Menafn",
+  "author": "",
+  "published": "2026-10-28T07:15:42+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
   "id": "adde0bd3d0366873",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -103,7 +469,7 @@
  {
   "id": "e921111eee53f2c0",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDZXdEJfRlRPUk1VTHdRQXpJME95OERkSlhpUl9RQThLM1FSQmtEc2h2ZnVUZ1FZYll1ZTZGbnBaOEhMOUkxWjhqTTA1dmNlNUdFMC1VRm5YTWtnOTFqYWFQZzY5SFYxMjJFNi1SV0x3Uk5aLUFlRlA3NDNlUGNXTnZmeTR4RzFIcXRKOHVINHZ4eW5FdldnYnlqNUY3YWlEUGJ4aVJJWllkZUdZQ2RRTC1RNENETmc2VkNPc1U5VW8?oc=5",
   "title": "Renault's Kia EV3, Zeekr X rival gets bigger battery, more range - caradvice.com.au",
@@ -132,7 +498,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T22:32:59+00:00"
@@ -272,6 +638,44 @@
   "first_seen": "2026-10-27T18:13:55+00:00"
  },
  {
+  "id": "3ad4305ff04d664e",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xgvvoi/zeekr_8x_launch_sweden/",
+  "title": "Zeekr 8x launch sweden?",
+  "text": "I heard launch was q1-q2 2027 im really looking forward for such a amazing car coming to europe. The 9x i feel like is too big but the 8x is just perfect for competing with porche cayenne, range rover sport and bentley, volvo, etc. I wonder why the 9x was launched first? When the 8x feels like a better fit for the european market and my taste and the people i have talked to.",
+  "author": "/u/SatisfactionSad9104",
+  "published": "2026-10-27T15:38:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X",
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
   "id": "e1e1812644115b97",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -347,7 +751,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-reviews/2027-polestar-4-suv-review",
   "title": "2027 Polestar 4 SUV review",
-  "text": "Polestar's controversial windowless rear-end now has... a window. The 2027 Polestar 4 SUV joins the existing – and polarising – Polestar 4 'coupe' as a more practical and more family-friendly version of the Geely-owned Swedish brand's premium mid-size electric crossover. Polestar CEO Michael Lohscheller says the new design blends the \"the space of an estate and the versatility of an SUV\", while retaining the dynamic, driver-focused feel behind the wheel that the brand strives for. It's certainly still more Volvo 'Cross Country' wagon than 'XC' SUV in profile, but better befitting its status as an SUV is the fact it's the first Polestar model to wear roof rails, and it also features dark contrasting body lower cladding to produce a more rugged and purposeful look. With that taller, longer rear roofline comes more headroom for rear passengers and an increase in cargo capacity, but otherwise it's the same as the MY27 Polestar 4 coupe. That means a rejigged chassis and sharper pricing than before, with the price of entry dropping by $4500 for this model year. The Polestar 4 SUV debuts new features like a Camping mode as well as vehicle-to-load (V2L) functionality – both of which are co",
+  "text": "Polestar's controversial windowless rear-end now has... a window. The 2027 Polestar 4 SUV joins the existing – and polarising – Polestar 4 'coupe' as a more practical and more family-friendly version of the Geely-owned Swedish brand's premium mid-size electric crossover. Polestar CEO Michael Lohscheller says the new design blends \"the space of an estate and the versatility of an SUV\", while retaining the dynamic, driver-focused feel behind the wheel that the brand strives for. It's certainly still more Volvo 'Cross Country' wagon than 'XC' SUV in profile, but better befitting its status as an SUV is the fact it's the first Polestar model to wear roof rails, and it also features dark contrasting body lower cladding to produce a more rugged and purposeful look. With that taller, longer rear roofline comes more headroom for rear passengers and an increase in cargo capacity, but otherwise it's the same as the MY27 Polestar 4 coupe. That means a rejigged chassis and sharper pricing than before, with the price of entry dropping by about $4500 for this model year. The Polestar 4 SUV debuts new features like a Camping mode as well as vehicle-to-load (V2L) functionality – both of which are",
   "author": "James Wong",
   "published": "2026-10-27T08:00:00+00:00",
   "rating": null,
@@ -379,6 +783,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T12:36:33+00:00"
+ },
+ {
+  "id": "b1e96c2e384bcf6f",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtTFRQdUpCaWZCV1ByZkRoblpsZHpEZXkwTWxUdHRaQy1FbnRxRWNLRkRIWVI3Sm9BZ1dMenBBT1I3Q1dMZ25mVFlBdTZDUGh6dHliT3IwLTJLZmFnTFU5ZWlB?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-27T05:05:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
   "id": "2e70d3347a1a27e4",
@@ -1361,7 +1796,7 @@
  {
   "id": "36b6bc6c0c756e02",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
   "title": "Shop Tesla Model 3 Cars - CarsGuide",
@@ -10007,41 +10442,6 @@
   "first_seen": "2026-10-20T01:12:14+00:00"
  },
  {
-  "id": "479081910d666025",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vZzRCbzhVS0RJdl94U2pLV0pmUmdiX2dGbzlrU0t6dzk4andldFVhcDZsTjlXa0NEYmoxT0hPWnFkUGZYbi1pckNUQTVORVVUVTJn?oc=5",
-  "title": "Polestar 2 review: every 2026 variant, price and specs - EV Central",
-  "text": "Polestar 2 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "polestar-2"
-  ],
-  "brands": [
-   "polestar"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
   "id": "f308fc9dc22c0bd8",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -10145,42 +10545,6 @@
   "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
-  "id": "fa1833b6abb6a5eb",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DWXd0bmdmb0dIaHQyOFliYTd5X3VpS0hZR2pFWm9jM0dmc2FfbWV5cnRzM1N1QUZCdVA2YVdWS2p0Mm1uLTZhRlozaWxvRHIwelJfdDRHZlAzMWl6OC1N?oc=5",
-  "title": "Toyota bZ4X Touring review: price, range and specs - EV Central",
-  "text": "Toyota bZ4X Touring review: price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "toyota-bz4x"
-  ],
-  "brands": [
-   "toyota"
-  ],
-  "categories": [
-   "software",
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T00:25:32+00:00"
- },
- {
   "id": "05c17afb9af4e4b9",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -10212,41 +10576,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
-  "id": "39ee8a224f7f89bb",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nMXNIQTVLdmk4elhBR0JDdndtYnZ2VFNNQUpJZDlqSU9oVzV0RkJPRHdXQWlXd01xYjZ0UjRsZXcwNnJkNmVQX09RYmNmenBjVWlIYU5Xaw?oc=5",
-  "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
-  "text": "Tesla Model Y review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "tesla-model-y"
-  ],
-  "brands": [
-   "tesla"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "832e73e0ac508dec",
@@ -10513,41 +10842,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
-  "id": "977de602e7893c4e",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9haVBuOHBRR196eFE3c0FoUXRyTTYwNXk3NXFlYkc5ZnZfWmNIcjNFYnpycFpPd2pMNHJWS0hGSVAtT2hPTlZCVFVQU1l2VWRG?oc=5",
-  "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
-  "text": "BYD Seal review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-seal"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "e56ee2a603252f5b",
@@ -15795,41 +16089,6 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
-  "id": "ca6819fe95ffefd8",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
-  "title": "Hyundai IONIQ 5 price, range and specs - EV Central",
-  "text": "Hyundai IONIQ 5 price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-13T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-ioniq5"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
   "id": "3a4fb0d45c65c6ec",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -18653,6 +18912,41 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "479081910d666025",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vZzRCbzhVS0RJdl94U2pLV0pmUmdiX2dGbzlrU0t6dzk4andldFVhcDZsTjlXa0NEYmoxT0hPWnFkUGZYbi1pckNUQTVORVVUVTJn?oc=5",
+  "title": "Polestar 2 review: every 2026 variant, price and specs - EV Central",
+  "text": "Polestar 2 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-10T21:43:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
   "id": "1fcb9074dd9fe52c",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -18994,41 +19288,6 @@
   "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
-  "id": "06fa47391abc61ff",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
-  "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
-  "text": "Geely EX5 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-09T20:56:33+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "geely-ex5"
-  ],
-  "brands": [
-   "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T03:54:39+00:00"
- },
- {
   "id": "af15aa7c4a27f293",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
@@ -19095,39 +19354,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
- },
- {
-  "id": "cb40097f8e9bd1a7",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTGxFYXh6OFV4cmxHdk1RMUJpWnoyZVY3NmlGamhMS1paeXF2c3Z1MlNJT0xjSWlKalZwSU9UclBUZjVUYmFPX2hLTE9QYVVYNFE?oc=5",
-  "title": "Geely EX2 review: every 2026 variant, price and specs - EV Central",
-  "text": "Geely EX2 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-09T20:56:17+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
   "id": "db98b7fc96217946",
@@ -23965,6 +24191,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "7d475ac15ac07822",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SOEsxWHpSTXlKaVpmWERtVXlRa2tqWWd6aUxBcXc3X1BkbGdmdGpBT0RtdURCWEF3MWZZWUdkT2k1bDVhZzdrSC1wbkZybnFqRk8zSFlsdU16WmVrb1p0RUNKOA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-23T07:24:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
   "id": "213dd7df31e1549d",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -25690,10 +25947,10 @@
   "id": "db043b9f86b9d2ca",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRDV3aWd5bndWUEZkUUttVjJoVF81MFZYTmhwcHpybEdnbWtSTkxuNUdWUzlBdU5FTmpSOUh3OTl5SEk2cVpVaHJMQ2RnX1FKQU5ndThVUWxtai1WRW1PT2QzRDZZWjBCaFNB?oc=5",
-  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range - The Beep",
-  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range The Beep",
+  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range - thebeep.com",
+  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range thebeep.com",
   "author": "",
   "published": "2026-09-18T01:15:33+00:00",
   "rating": null,
@@ -28496,10 +28753,10 @@
   "id": "7bce3ce3c44d4cb2",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0tkUGZPOFA3ajZuUkFCVU9lT0hncVdUc1BIeXVWbGcydXM0elYxaEprZEczNUNNNGw0YmhXSGxaVExVb3lLbjIxb3N4bWZKbU9RZ0J3RTQ1RVBpUGJYTHl2MW9qdFhLelN1RkhyZG1Mb051MXFrTTJIU0Joci1LOElHdWp5WVdZZU5HU3pxNDBEUWI1?oc=5",
-  "title": "2026 Zeekr X gets more power, faster charging and more kit for under $50K - The Beep",
-  "text": "2026 Zeekr X gets more power, faster charging and more kit for under $50K The Beep",
+  "title": "2026 Zeekr X gets more power, faster charging and more kit for under $50K - thebeep.com",
+  "text": "2026 Zeekr X gets more power, faster charging and more kit for under $50K thebeep.com",
   "author": "",
   "published": "2026-09-04T00:32:08+00:00",
   "rating": null,
@@ -28600,10 +28857,10 @@
   "id": "14adb2269d468b1f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcGdRRlNjUWpaMzVRSnJiX2FrN0I3Nk55MTZBWkt0NWhmYllFaUdYMHA3QWNHTHF2Z0JkN201UXRnandjTFgweDU1OGk5U0NaU1FubmYtX0daWXQxX29nNjgtdF9HNlRsYlRZZGcwNHFENXV6NFE?oc=5",
-  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - The Beep",
-  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price The Beep",
+  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - thebeep.com",
+  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price thebeep.com",
   "author": "",
   "published": "2026-09-03T17:53:55+00:00",
   "rating": null,
@@ -28734,10 +28991,10 @@
   "id": "8c402df5aeef4f78",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bmZuclljSE02VVlNdjV1di1tbnhfTUJrWWpEcUNMaGFYbThQMkYzVV9tcTJQUnNVZ3ZXa3NBUUpkRU5zM1Z4RElyeTJGSExtemZWWW8yTm8?oc=5",
-  "title": "Zeekr X - The numbers that shouldn’t add up, but do - The Beep",
-  "text": "Zeekr X - The numbers that shouldn’t add up, but do The Beep",
+  "title": "Zeekr X - The numbers that shouldn’t add up, but do - thebeep.com",
+  "text": "Zeekr X - The numbers that shouldn’t add up, but do thebeep.com",
   "author": "",
   "published": "2026-09-03T11:33:44+00:00",
   "rating": null,
@@ -28826,10 +29083,10 @@
   "id": "6a462427ace47be8",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWktBSWd0TjBBLUU0VmRBWWVWSW9Cc01BQzNFTHMzTFZYc2RHYXhoVlUwVURiUVZ4dTNwenJuUzd3QkoweTd0STItV0dnVjdWb3p1b2FZYmxnUThkZDlQZHU2OUZCRURXLUlPbV9FbHVwcGtqT05UQU85NndLa1JSNWFqejJlQnM0YnVr?oc=5",
-  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - The Beep",
-  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia The Beep",
+  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - thebeep.com",
+  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia thebeep.com",
   "author": "",
   "published": "2026-09-03T09:45:52+00:00",
   "rating": null,
@@ -28892,10 +29149,10 @@
   "id": "88e47d7b70389ded",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aQjVRUHJqVXBKUGJxd2plaFh2TElkZ0h3TnZLSTV0Qm1rcy01ZTBoNnY0TFpSYmFiODhlSGVXVnA2QmtiZjUyUmZSaFQ2YW1raXgwMS04QVo2RXV0WGVoYy1kSkE3MkhuZlNjTWk0SzBodzRLY3c?oc=5",
-  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - The Beep",
-  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months The Beep",
+  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - thebeep.com",
+  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months thebeep.com",
   "author": "",
   "published": "2026-09-03T08:59:07+00:00",
   "rating": null,
@@ -29113,10 +29370,10 @@
   "id": "5419a5cf3287542f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWlc5NVcwZ3dBN0pyUk5rMERiRzMycTV6RHRvVFhUQUZENllfb2JMWlZFbVF6UWkwWW1iV1J6S3M2czNrQnpaM3Y2SC16UQ?oc=5",
-  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - The Beep",
-  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 The Beep",
+  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - thebeep.com",
+  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 thebeep.com",
   "author": "",
   "published": "2026-09-03T04:14:49+00:00",
   "rating": null,
@@ -37316,105 +37573,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "6e2770064810289e",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NaVg5SXF1VzFHUl9qZExjT0ZiRkJWMTMza3hrTllWbU02Nlp2UFRKRDNSckliMW1xX1NEMW5lMGZOM3VRREF2eXU2b2Y0WVV1akd4Sm9jVGtxZHZSTGttbFA4cw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-01T13:23:38+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-27T00:43:42+00:00"
- },
- {
-  "id": "33390adb97446ee3",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · OzBargain",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16cVl4TEJuNXRnOXM3N3hyejFyaDh6TnIweEs0VFB3YVhXLUNtRXNxVzViYjFfUnNyYTJFVERucW9tdGdXOC1OVXhwb1h0X1JmMnc?oc=5",
-  "title": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely - OzBargain",
-  "text": "Geely EX5 Extended Range from $43,813 Driveaway (NT) with Free EV Charger, 0.88% p.a. Comparison Rate 36-Month Finance @ Geely OzBargain",
-  "author": "",
-  "published": "2026-05-01T10:28:12+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "geely-ex5"
-  ],
-  "brands": [
-   "geely"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "offer",
-   "price"
-  ],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "13d8524491f49933",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtRjVRc1NMNjk5NlBLT0hlUFo0VVl3eWFsZUhOa3NVUUF4TnB5TGZISldsVnR3Vkw0cGE5Zm1qdUpIWW9ZcmFLZ3pwdTN5emNldUFlUEYxbUx2dEI3ekhDYi00TQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-01T07:36:59+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-27T06:09:34+00:00"
  }
 ]
