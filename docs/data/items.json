@@ -1,5 +1,106 @@
 [
  {
+  "id": "adde0bd3d0366873",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tcjZGT3JvLXowMlhDUUk5QzZMVzdLSTl5RGxJQXctRHMzbXUwdWZXTVBUN1g5amFRSVhEVU04YmhGS3JqV0FQZFRGU2NMOHpDNzFiZVozZXl6VnpPX3pmemNGOFVjR1d4d3lxZ2docmZQZw?oc=5",
+  "title": "Polestar 3 2026 review: Rear motor | Zeekr 7X rival tested - CarsGuide",
+  "text": "Polestar 3 2026 review: Rear motor | Zeekr 7X rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-28T06:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T07:20:56+00:00"
+ },
+ {
+  "id": "d63f28bc3c951961",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/three-pronged-chinese-ev-assault-on-australia-changan-adds-nevo-in-2027-as-avatr-launches-and-deepal-switches-to-factory-control/",
+  "title": "Three-pronged Chinese EV assault on Australia! Changan adds Nevo in 2027 as Avatr launches and Deepal switches to factory control",
+  "text": "Changan will launch Nevo and Avatr in Australia in 2027 while taking over Deepal distribution, creating a three-brand range of electrified vehicles. The post Three-pronged Chinese EV assault on Australia! Changan adds Nevo in 2027 as Avatr launches and Deepal switches to factory control appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-10-28T04:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "deepal",
+   "avatr"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T07:20:56+00:00"
+ },
+ {
+  "id": "ce243dbac0594d56",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zY0pyMDFtZm1malpHTktkdVQtNEwyZHVIV3h0eDM5cHJfcXRMQnUxMVFLd3p1Q0p1ZnNhOEladXpmbDRCMU9HVy1jaUcwTURtSXkxY3FZTDFiVXo1d2pJUHFzVQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-28T03:33:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T07:20:56+00:00"
+ },
+ {
   "id": "e921111eee53f2c0",
   "type": "news_zeekr",
   "source": "gn-ev-offer-au",
@@ -417,7 +518,7 @@
  {
   "id": "96b9e2cc10c530a4",
   "type": "competitor_news",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXItbUM4WjRoQm5zX2EyUzQ1VGZGRm01RUhVUFhDeGxGTGNxRVdGM2NRbko4Y1dGLTd5bWNzTlJ1VE5PLUhSdHJUTTNQVDFGRUNTRW9uemNQNFJBXzBwcUI3cElqQTdmTTQ2OXBSRVRVSzRXX2dQVUtTMmRnZ0IyMVdXMGhOT05hYmthZE5xVzNlZ2lKZ3c0MXA0WDVOUDFmRkJmTF9tZThkS0U5THV0dkFwRHc2UWhBUklrM2E5bmViSFRmUHc?oc=5",
   "title": "New Chinese brand knocking on our door: Li Auto expands into the UK, other right-hand drive markets ahead of likely Australian launch of 2027 Li i6, Li Mega EV - CarsGuide",
@@ -442,7 +543,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T12:36:33+00:00"
@@ -450,7 +551,7 @@
  {
   "id": "6e8cb54d695d0ffc",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · RACV",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzBSYnRqaFdqa0ZwVnFCTFZ2bGhQSEZMNHFZOE0wQ0luamRURlFra1JSTGJCQWFOTjQxd2VFZVBZblN4MGI3eHdpdmVobUNEZlIxZGRfQjBOcTF5Qm1jOWhOeXZJRUdyYlRBV3Y3SHdCY05xcWdrOGZYd0NrMk44SVpjWnQ1dC1WX3FnZ1Q0Ujk1NjA?oc=5",
   "title": "2026 BYD Atto 3 Evo Premium review - RACV",
@@ -479,6 +580,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
+  "id": "6e5840918208067a",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13aTBwTDVhZHdlWXZoUGJ2cjRYM1prSVpGV0hrcjNQUEd2MzZQTkEtYzFBTGhVMXJJYnZ0N2oybl9QTFVWa3V2SDRONGFlN3JpV1hhMW5fQ0ZzbTZaZjFqNkVxOA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-27T00:20:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
  },
  {
   "id": "45905a345ac41c05",
@@ -1014,11 +1146,11 @@
  {
   "id": "fe49205180a1bec0",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
-  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
+  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
+  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -1026,14 +1158,9 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd",
-   "toyota",
-   "ford"
+   "byd"
   ],
-  "categories": [
-   "software",
-   "charging"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -1044,7 +1171,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -5098,37 +5225,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-21T09:13:15+00:00"
- },
- {
-  "id": "6e5840918208067a",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13aTBwTDVhZHdlWXZoUGJ2cjRYM1prSVpGV0hrcjNQUEd2MzZQTkEtYzFBTGhVMXJJYnZ0N2oybl9QTFVWa3V2SDRONGFlN3JpV1hhMW5fQ0ZzbTZaZjFqNkVxOA?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-21T07:26:49+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T00:34:31+00:00"
  },
  {
   "id": "0f2bff7f5022f833",
@@ -9772,7 +9868,7 @@
  {
   "id": "ff7f848fd6e1b824",
   "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
+  "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GLU5RNUJ5N1JoNTBJcHE3TGs4YXJvUW5DRFJyXzdQZWx2cDJsTDktenNvRjlQR2ZkNFZQRjE4UjIzRTlfNTU3YTJBOS1INU5scFZ0cw?oc=5",
   "title": "Skoda Elroq price and specs: every 2026 variant compared - EV Central",
@@ -9797,10 +9893,43 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T16:18:05+00:00"
+ },
+ {
+  "id": "7bc27c6d4693f42f",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VTEM3SUJWbGVsQWhXS2luWDQ1S1VxRGtHQWhUNC16U3hzeW1MTWdjNnk3TUlGY2FDTm9EZkRvcUhIcmtfNk1Kd1ByMXAyS00?oc=5",
+  "title": "Audi Q6 price and specs: every 2026 variant compared - EV Central",
+  "text": "Audi Q6 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-17T07:59:59+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T07:20:56+00:00"
  },
  {
   "id": "6815b0ce9f64ae39",
@@ -10722,39 +10851,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
-  "id": "af15aa7c4a27f293",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
-  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
-  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "c0e635b95049027e",
@@ -18931,6 +19027,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "af15aa7c4a27f293",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
+  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
+  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "a27bf89cf6f37c43",
@@ -36592,6 +36721,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "fd9acdae8e95cfb3",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUVVxZjNZeHN4MTc0RGxseGpVdzRlemFYVkRYZExtSWNJa3hTc1lYRlR5VFBDT2gtdHBfajRBMUh6cTRlR1hXcl9waXZxQUxBSEFfSE1ZQ3pKWUhHbnpmMEktNA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-15T03:31:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T07:20:56+00:00"
+ },
+ {
   "id": "612a76e39e2b0414",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -37256,39 +37416,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T06:09:34+00:00"
- },
- {
-  "id": "6d2f77cd76bba226",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · WhichCar",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLW1tblprLVpqVlBqdnNQdUdkRVVVcUJoc0QwbVo1T0pUSFFuUXV2ekFMYks5SXNkYXRqeGNHc01aUXg4VEhOUTREU2k0UXpwakxSUV85TE1IT1NkM3huVjQ4WTMxcG0zdC1RcXB1VWJkTHdNSEhtcjBnQmFrNzd5Mw?oc=5",
-  "title": "Zeekr 8X and 9X large SUVs confirmed for Australia with fully electric versions also possible - WhichCar",
-  "text": "Zeekr 8X and 9X large SUVs confirmed for Australia with fully electric versions also possible WhichCar",
-  "author": "",
-  "published": "2026-05-01T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
  }
 ]
