@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T22:32:59+00:00",
- "duration_s": 356.0,
- "items_total": 1078,
- "new_this_run": 176,
+ "generated": "2026-10-28T01:36:53+00:00",
+ "duration_s": 296.0,
+ "items_total": 1079,
+ "new_this_run": 204,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 4,
@@ -10,19 +10,13 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 2,
-  "competitor_news_7d": 79,
+  "competitor_news_7d": 74,
   "launch_signals_7d": 14,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 61,
+  "zeekr_news_7d": 57,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
-  {
-   "date": "2026-09-28",
-   "complaints": 2,
-   "competitor_news": 0,
-   "zeekr_news": 1
-  },
   {
    "date": "2026-09-29",
    "complaints": 3,
@@ -195,7 +189,13 @@
    "date": "2026-10-27",
    "complaints": 0,
    "competitor_news": 6,
-   "zeekr_news": 5
+   "zeekr_news": 6
+  },
+  {
+   "date": "2026-10-28",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -981,17 +981,17 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 65,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 15,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 30,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1011,17 +1011,17 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 84,
+   "count": 81,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 54,
+   "count": 53,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 23,
+   "count": 19,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1031,12 +1031,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 22,
+   "count": 16,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 17,
+   "count": 15,
    "note": ""
   },
   "carexpert": {
@@ -1095,9 +1095,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1105,9 +1105,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1117,12 +1117,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1562,7 +1562,7 @@
   "offers-byd": {
    "ok": false,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,

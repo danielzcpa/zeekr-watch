@@ -312,6 +312,39 @@
   "first_seen": "2026-10-27T18:13:55+00:00"
  },
  {
+  "id": "037c3fc6ee3ebc78",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3RUODlvY0lCc2QxR3JrMlhyRTIwMTNJVjNjb0hiODAxcVpIV0diNlBoMFdXYS1qcXNXdlpicGI5S0lqZmt4Zy15OWJCbDMyVFhuUjlYMW45NTctaVI5MGNtZW1EZGZPQy1semVidHN3OThpOFFFMkVYZ3pOMU5HOTJ0LTBldw?oc=5",
+  "title": "Zeekr cars that are brands from China between $90,000 & $500,000 for sale or order in Australia - Carsales",
+  "text": "Zeekr cars that are brands from China between $90,000 & $500,000 for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-27T03:38:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T01:36:53+00:00"
+ },
+ {
   "id": "fb621febfca5de33",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -417,7 +450,7 @@
  {
   "id": "6e8cb54d695d0ffc",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · RACV",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzBSYnRqaFdqa0ZwVnFCTFZ2bGhQSEZMNHFZOE0wQ0luamRURlFra1JSTGJCQWFOTjQxd2VFZVBZblN4MGI3eHdpdmVobUNEZlIxZGRfQjBOcTF5Qm1jOWhOeXZJRUdyYlRBV3Y3SHdCY05xcWdrOGZYd0NrMk44SVpjWnQ1dC1WX3FnZ1Q0Ujk1NjA?oc=5",
   "title": "2026 BYD Atto 3 Evo Premium review - RACV",
@@ -23933,7 +23966,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -23956,7 +23989,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
