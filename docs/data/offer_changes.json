@@ -1,5 +1,37 @@
 [
  {
+  "id": "56ade0ef1e92a380",
+  "key": "zeekr-offers-zecar",
+  "brand": "Zeekr (Zecar)",
+  "url": "https://zecar.com/offers-and-deals/zeekr",
+  "detected": "2026-10-29T05:38:42+00:00",
+  "added": [
+   "Deals and Offers"
+  ],
+  "removed": [
+   "Offers and Deals"
+  ]
+ },
+ {
+  "id": "b967c15fd340be09",
+  "key": "zecar-offers",
+  "brand": "Zecar (全品牌政策汇总)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-10-29T05:38:42+00:00",
+  "added": [
+   "Deals and Offers",
+   "· 40 active offers",
+   "GWM Haval H7 $1,000 Launch Offer",
+   "Receive a $1,000 launch offer on the all-new Haval H7 Lux HEV and Lux PHEV. Driveaway pricing starts from $45,990 for the Lux HEV and $49,990 for the Lux PHEV. Offer ends 30 November 2026."
+  ],
+  "removed": [
+   "Offers and Deals",
+   "· 38 active offers",
+   "BYD Seal 6 $4,000 Cashback: From $30,990 Plus On-Roads",
+   "BYD is offering $4,000 cashback on the Seal 6 Essential plug-in hybrid sedan. That brings the $34,990 list price down to an effective $30,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026."
+  ]
+ },
+ {
   "id": "d71d49b415511109",
   "key": "hyundai",
   "brand": "Hyundai",

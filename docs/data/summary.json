@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T23:58:25+00:00",
- "duration_s": 366.4,
- "items_total": 1102,
- "new_this_run": 214,
+ "generated": "2026-10-29T05:33:06+00:00",
+ "duration_s": 337.9,
+ "items_total": 1113,
+ "new_this_run": 184,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 4,
@@ -10,11 +10,11 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 2,
-  "competitor_news_7d": 74,
+  "competitor_news_7d": 64,
   "launch_signals_7d": 17,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 53,
-  "offer_page_changes_7d": 2
+  "zeekr_news_7d": 48,
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -159,7 +159,7 @@
    "date": "2026-10-23",
    "complaints": 0,
    "competitor_news": 12,
-   "zeekr_news": 8
+   "zeekr_news": 9
   },
   {
    "date": "2026-10-24",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 0
+   "competitor_news": 1,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -870,6 +870,20 @@
  },
  "alerts": [
   {
+   "kind": "offer_page_change",
+   "id": "56ade0ef1e92a380",
+   "title": "Zeekr (Zecar) 官网政策页面变化（+1 / −1 行）",
+   "source": "https://zecar.com/offers-and-deals/zeekr",
+   "t": "2026-10-29T05:38:42+00:00"
+  },
+  {
+   "kind": "offer_page_change",
+   "id": "b967c15fd340be09",
+   "title": "Zecar (全品牌政策汇总) 官网政策页面变化（+4 / −4 行）",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-10-29T05:38:42+00:00"
+  },
+  {
    "kind": "competitor_launch",
    "id": "977de602e7893c4e",
    "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
@@ -982,55 +996,22 @@
    "competitors": [
     "polestar-2"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "36a2a4b2ca4db7b8",
-   "title": "XPeng G9L Australian arrival set for early 2027 - Carsales",
-   "source": "Google News · Carsales",
-   "t": "2026-10-26T01:29:25+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_offer",
-   "id": "36b6bc6c0c756e02",
-   "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
-   "source": "Google News · CarsGuide",
-   "t": "2026-10-26T01:19:55+00:00",
-   "competitors": [
-    "tesla-model-y",
-    "geely-ex5",
-    "tesla-model-3",
-    "byd-seal"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "2426883974d70bd6",
-   "title": "XPeng G9L SUV Australian pricing looms: Flagship SUV targets early 2027 showroom arrival",
-   "source": "EV Central",
-   "t": "2026-10-26T00:11:16+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 65,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 33,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1040,7 +1021,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1050,32 +1031,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 89,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 38,
+   "count": 42,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 31,
+   "count": 25,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 45,
+   "count": 64,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 27,
+   "count": 24,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 31,
+   "count": 37,
    "note": ""
   },
   "carexpert": {
@@ -1139,14 +1120,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1161,7 +1142,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1651,7 +1632,7 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 37,
-   "note": "unchanged"
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,
@@ -1661,7 +1642,7 @@
   "offers-zeekr-offers-zecar": {
    "ok": true,
    "count": 6,
-   "note": "unchanged"
+   "note": "changed"
   }
  },
  "places": {

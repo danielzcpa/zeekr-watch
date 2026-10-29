@@ -8,7 +8,7 @@
   "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
   "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
   "author": "",
-  "published": "2026-10-28T22:17:41+00:00",
+  "published": "2026-10-29T03:22:38+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -29,6 +29,78 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "37561d7a2edf1400",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xi8pj9/nfc_reader_intermittently_not_working/",
+  "title": "NFC reader intermittently not working",
+  "text": "I picked up my 7X over the weekend and everything has been great so far, apart from one issue yesterday. I normally keep the physical NFC key card in the back of my phone case, which works fine for starting the car when I place my phone on the wireless charging pad (I have wireless charging turned off). I also have the digital key in my Apple Wallet, but keep passive entry switched off. Yesterday, I'd just finished driving and needed to get back in to adjust where the car was parked. However, this time the NFC reader wouldn't recognise my key to start the car. I tried a few things: Removed the physical NFC card from my phone case and placed it directly on the reader. Tried using the digital key in Apple Wallet, but my phone couldn't detect the NFC reader either. Got out of the car and tested locking and unlocking with the card, which worked fine. I spent about 10 minutes trying different positions for both the card and phone, but couldn't get either to work. Eventually, I turned passive entry back on and was able to start the car using Bluetooth. This morning, everything was working perfectly again. Has anyone else experienced this? Is there a way to reset or reactivate the NFC rea",
+  "author": "/u/Unique-Wasabi6161",
+  "published": "2026-10-29T03:01:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 2,
+   "pos_hits": 2,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
+  "id": "99211595fde8c776",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/fords-bidirectional-breakthrough-new-fathom-40000-electric-ute-could-slash-the-cost-of-powering-your-home-from-an-ev/",
+  "title": "Ford’s bidirectional breakthrough: New Fathom $40,000 electric ute could slash the cost of powering your home from an EV",
+  "text": "Ford's $40,000 Fathom electric ute promises cheaper bidirectional charging, using a built-in inverter to power homes without costly external equipment. The post Ford’s bidirectional breakthrough: New Fathom $40,000 electric ute could slash the cost of powering your home from an EV appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-10-29T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
  },
  {
   "id": "8ddd81e27cb5a6cd",
@@ -75,7 +147,7 @@
   "title": "ZEEKER 7X Challenges Model Y With Rear Refrigerator - 조선일보",
   "text": "ZEEKER 7X Challenges Model Y With Rear Refrigerator 조선일보",
   "author": "",
-  "published": "2026-10-28T21:05:32+00:00",
+  "published": "2026-10-28T21:41:59+00:00",
   "rating": null,
   "zeekr": false,
   "models": [
@@ -98,6 +170,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T23:58:25+00:00"
+ },
+ {
+  "id": "134054db926e1596",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qTWZ2a3FMV3g1TG93R0d1bTJFbXNNVHpyam1aSXBFNkI3S1R1dWNFNDl6dGJCSjhlNWNPZmFnb1hCajJBcVYzOUtmMGtqNUZBYm03SFpTbVVTRjRENzdTeHI1XzMyLW5IMlE?oc=5",
+  "title": "Comparison: XPeng G7 vs ZEEKR 9X - Autohled.cz",
+  "text": "Comparison: XPeng G7 vs ZEEKR 9X Autohled.cz",
+  "author": "",
+  "published": "2026-10-28T19:58:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
  },
  {
   "id": "246444eaad4db355",
@@ -730,7 +835,7 @@
  {
   "id": "e921111eee53f2c0",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDZXdEJfRlRPUk1VTHdRQXpJME95OERkSlhpUl9RQThLM1FSQmtEc2h2ZnVUZ1FZYll1ZTZGbnBaOEhMOUkxWjhqTTA1dmNlNUdFMC1VRm5YTWtnOTFqYWFQZzY5SFYxMjJFNi1SV0x3Uk5aLUFlRlA3NDNlUGNXTnZmeTR4RzFIcXRKOHVINHZ4eW5FdldnYnlqNUY3YWlEUGJ4aVJJWllkZUdZQ2RRTC1RNENETmc2VkNPc1U5VW8?oc=5",
   "title": "Renault's Kia EV3, Zeekr X rival gets bigger battery, more range - caradvice.com.au",
@@ -759,7 +864,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T22:32:59+00:00"
@@ -2159,7 +2264,7 @@
  {
   "id": "36b6bc6c0c756e02",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
   "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
@@ -2191,7 +2296,7 @@
   "signals": [
    "offer"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T10:26:44+00:00"
@@ -3012,6 +3117,35 @@
   "first_seen": "2026-10-24T12:11:07+00:00"
  },
  {
+  "id": "81bb437810377f72",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Bay Post-Moruya Examiner",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVRWUjgxY3dYQzFZTXA4M2VCUzFtQnJmNUxfQXl4WUoxVGJmYUJzMHhRa2EtUHRJWTdLN2VpY1RlRlhSd2NLQi1DNGUtN3ZVUWhjYl80eTBTLWltRDdpbkkzOVpnakFjc2dvQ3M3MW5iVE1MdEVFRXJUcXh1aHZLcy1sRkkwMm5jb3lQTHRsZEZWLXgtRkE?oc=5",
+  "title": "Chery's plan to take on Zeekr in Australia - Bay Post-Moruya Examiner",
+  "text": "Chery's plan to take on Zeekr in Australia Bay Post-Moruya Examiner",
+  "author": "",
+  "published": "2026-10-23T22:12:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
   "id": "756a1f49ac710933",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
@@ -3111,6 +3245,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-24T16:11:37+00:00"
+ },
+ {
+  "id": "0ef561d968b46f02",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlS3FuNGdvSlY0VG04R2RJamU4NnQ5cUVoWkFQNUhVMFhzMTY0WEVxa1puQ0U2UE9JUVdUSkxaWXA2aHNrSldwVm5MSktXSWc2UXVBbmNtVHhpZUFFblkxMzJhRQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-23T16:16:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T20:26:06+00:00"
  },
  {
   "id": "5b6b5a4ec9bf7816",
@@ -19086,37 +19251,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "0ef561d968b46f02",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlS3FuNGdvSlY0VG04R2RJamU4NnQ5cUVoWkFQNUhVMFhzMTY0WEVxa1puQ0U2UE9JUVdUSkxaWXA2aHNrSldwVm5MSktXSWc2UXVBbmNtVHhpZUFFblkxMzJhRQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-11T06:23:44+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T20:26:06+00:00"
- },
- {
   "id": "ca8300a0bf36efb4",
   "type": "complaint",
   "source": "playstore-android",
@@ -26288,8 +26422,8 @@
   "source": "gn-zeekr-evcentral",
   "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRDV3aWd5bndWUEZkUUttVjJoVF81MFZYTmhwcHpybEdnbWtSTkxuNUdWUzlBdU5FTmpSOUh3OTl5SEk2cVpVaHJMQ2RnX1FKQU5ndThVUWxtai1WRW1PT2QzRDZZWjBCaFNB?oc=5",
-  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range - The Beep",
-  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range The Beep",
+  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range | Car News - The Beep",
+  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range | Car News The Beep",
   "author": "",
   "published": "2026-09-18T01:15:33+00:00",
   "rating": null,
@@ -28232,6 +28366,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "0bcd69d5011b33f5",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDZjc0emlUcWhhanh1RHVWSGVJSjdDOU5qY2VPU080bllXTGpJd3B4RTBKek10R3ZSWjliNW42aWxkaVNkNEVGVXhPbmI5blB5Sk9WTzJ0U2pucU9teTVzbnJ3?oc=5",
+  "title": "Zeekr X EV SUV - Whirlpool Forums",
+  "text": "Zeekr X EV SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-09-08T08:15:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
  },
  {
   "id": "3761ab01d4692fe1",
@@ -31025,6 +31190,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "cc0d9a9a0e14dd1d",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XUE9RZE40dGNOMFdVSTNSeW9NejJGcVpLVUZvd21Xem0xWkZ4V2YtOFhIMnhMdzVKVk90VzljbzE2SEhSOFh6OWZIWjVtS056YVAzWGVmdUYwVHd5Q01sTElTaw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-08-21T02:23:52+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
   "id": "91dd3ce246827d8a",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -33326,6 +33522,37 @@
   "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
+  "id": "33c402e25aebf94d",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDR01ZS0xqOGF1VEVSakR1RDdTZ1RrQThCcWU1ZjFiU2s0Z0o0V0hDaTlBeDV2WkdtcDlqM2dPVVA0bW13bEtMNGtQNGxHMVRJMC1VcXdLUXFLZGpzQlhCcmRMbw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-07-31T06:22:13+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
   "id": "773744e9bd29dffd",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -33862,6 +34089,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "840a9635b866e44b",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzVmwzMG0xNUJnNjRlV1pYazNLU3Job2RiZ2laVVoweDZBSG1oYUdxQkJVcExLMDAtLS1iX003NF9rLTBPMjJEVkJMYmcyR3RFLU5ocVNydkwwUi00Vm12VUJLRQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-07-23T17:41:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
   "id": "59331c007457eaac",
   "type": "competitor_news",
   "source": "gn-zeekr-evcentral",
@@ -33896,6 +34154,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "31fb479ab6af7d25",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZWnprajgzT1ptdEZBSEZ3blAyN0FUeHR2dDVyNGdQNG5LVEtXLTJfRFhya3o2V0h1Sjh5VUMxeml4TXgxVTBDWUd5bDFsQ3J2bXllYVQ2c0MwSUdnNTJ2U3Btdw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-07-22T22:57:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
  },
  {
   "id": "e60b4efa539c4386",
@@ -36582,6 +36871,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "57266da8ba3bbf2b",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JQXpYNEc4MHpuZlNnLVZpMWM5VHJydDJsRURmQUxvUDhEbUotWU5CejVkcW1JRjl2bXN5U3VxV09oTFNLUHdhWU1JU2dxVkFYRzJmM0dBcnlKU0R3cHZEb042NA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-03T08:32:32+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
   "id": "79f1bd37b251faec",
   "type": "post",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -37812,6 +38132,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-28T19:48:20+00:00"
+ },
+ {
+  "id": "1020e3b52e538712",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOQnltTTFEVFhLU3N4VjZEdDZhbE1JNS1YcVExYVNxLTZlTldYQzBMQ29OOW9OVzNTZlRQakZXS2ZrRC1XSVlWdThycGw1S0lya0xpaXQ3eERYM3lZTG8tM05EMA?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-05-06T08:35:29+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T05:33:06+00:00"
  },
  {
   "id": "26c731d76f0003f9",

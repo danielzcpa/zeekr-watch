@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "2cc621be6a20efbc",
   "money": [
    1000,
@@ -52,7 +52,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -72,14 +72,14 @@
  },
  "mini": {
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "0353ecc6a13c94e3",
   "money": [
    1000,
@@ -129,7 +129,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "36124b2395b042d4",
   "money": [
    2000,
@@ -154,14 +154,14 @@
  },
  "mercedes": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -185,14 +185,14 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "byd": {
   "key": "byd",
   "brand": "BYD",
   "url": "https://www.byd.com.au/offers",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -202,7 +202,7 @@
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "0ef7bb8ec59ae215",
   "money": [],
   "n_lines": 9,
@@ -220,19 +220,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -244,7 +244,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "81705bf45a582811",
   "money": [
    91661
@@ -271,7 +271,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -281,7 +281,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-10-29T00:04:30+00:00",
+  "fetched": "2026-10-29T05:38:42+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -295,21 +295,22 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (全品牌政策汇总)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-10-29T00:04:30+00:00",
-  "digest": "93e5896c2871e8b8",
+  "fetched": "2026-10-29T05:38:42+00:00",
+  "digest": "a3fff9f5faffcc01",
   "money": [
+   1000,
    2000,
    2950,
    3000,
@@ -318,11 +319,11 @@
    7204,
    19990,
    28888,
-   30990,
    33990,
-   34990,
    39990,
    42990,
+   45990,
+   49990,
    50990,
    51900,
    52990,
@@ -331,8 +332,8 @@
   ],
   "n_lines": 37,
   "lines": [
-   "Offers and Deals",
-   "· 38 active offers",
+   "Deals and Offers",
+   "· 40 active offers",
    "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
    "Search Offers",
    "Geely 0.09% p.a. Finance Offer on EX5, EX2 and Starray EM-i",
@@ -353,6 +354,8 @@
    "Tesla Inventory Discount: Up to $2950 Off Model 3 and Model Y",
    "Tesla Australia is taking about 5% off new Model 3 and Model Y cars already in its inventory, worth up to $2950 on a Model Y Premium Rear-Wheel Drive. The cars are pre-built stock without the new MY27 upgrades, so they can usually be delivered sooner than a factory order.",
    "MG HS Super Hybrid $6,000 Cashback: From $42,990 Drive Away",
+   "GWM Haval H7 $1,000 Launch Offer",
+   "Receive a $1,000 launch offer on the all-new Haval H7 Lux HEV and Lux PHEV. Driveaway pricing starts from $45,990 for the Lux HEV and $49,990 for the Lux PHEV. Offer ends 30 November 2026.",
    "GWM Cannon PHEV: $2,000 Cash Bonus or $2,000 Fuel Card",
    "BYD Dolphin Essential $28,888 Driveaway Offer",
    "BYD Atto 1 Essential $19,990 Driveaway Offer (Up to $7,204 in Savings)",
@@ -363,8 +366,6 @@
    "BYD is offering $4,000 cashback on the Sealion 7 Premium and Performance electric SUVs. That brings the range down to an effective $50,990 before on-road costs. Novated lease buyers can take a 6% discount instead. Orders must be placed between 1 October and 21 December 2026.",
    "BYD Shark 6 $4,000 Cashback: From $51,900 Plus On-Roads",
    "BYD is offering $4,000 cashback on the Shark 6 Dynamic Cab Chassis, Premium and Performance plug-in hybrid utes. That brings the range down to an effective $51,900 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
-   "BYD Seal 6 $4,000 Cashback: From $30,990 Plus On-Roads",
-   "BYD is offering $4,000 cashback on the Seal 6 Essential plug-in hybrid sedan. That brings the $34,990 list price down to an effective $30,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
    "We'll email you when a new offer goes live.",
    "Are there EV rebates or incentives in Australia in 2026?",
    "When do EV offers usually expire?"
@@ -383,7 +384,7 @@
   ],
   "n_lines": 8,
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-29T00:04:30+00:00",
+  "last_attempt": "2026-10-29T05:38:42+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -399,14 +400,14 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-10-29T00:04:30+00:00",
-  "digest": "a04f3f3b99adf262",
+  "fetched": "2026-10-29T05:38:42+00:00",
+  "digest": "2fe0fce77d9a87b8",
   "money": [
    6056
   ],
   "n_lines": 6,
   "lines": [
-   "Offers and Deals",
+   "Deals and Offers",
    "Compare the latest Zeekr electric vehicle deals and offers in Australia. See Zeekr discounts, rebates, charging packages and finance offers, updated regularly.",
    "Search Offers",
    "New ZEEKR X MY26 Launch Offer: Premium Upgrades Included (Up to $6,056 in Value)",
