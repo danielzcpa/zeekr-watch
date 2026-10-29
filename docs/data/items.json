@@ -8,7 +8,7 @@
   "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
   "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
   "author": "",
-  "published": "2026-10-29T11:11:08+00:00",
+  "published": "2026-10-29T16:33:08+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -68,7 +68,7 @@
  {
   "id": "1b7032d3e4dc1cbc",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · autoevolution",
   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGdQVHFDWjhoRURFaFI1WUQ5S1V0Ukc2MUFCTzdZMEFKM0ktaUwxUGV5eE8tR2pNM1VOV2ZhalN3bTJFNS1RTWJWRW5YWlBjUlNnWVhBWGtsSF9TTm9CbWJhb3lwcmFHeFhYMDJSLW16dWphWmtaeFlHOGxwOXNxS0RJb21JS29laDNiQ29ZczlWeUtvX19MRDl3andPRHIwQjY4c0hLTTBwUFdubkZ2Mjd1MWRGSENSdTcyc19tU1NhQzJ4QWJBVTNtX2lOc2FPZXpZYjlHd19mZWt1NDVxLQ?oc=5",
   "title": "All-Electric MGU9 EV Arrives Now In Australia With Pricing on Par With the Toyota Land Cruiser Prado - autoevolution",
@@ -233,6 +233,68 @@
   "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
+  "id": "21b47c129aa17a45",
+  "type": "post",
+  "source": "reddit-CarsAustralia",
+  "source_name": "Reddit r/CarsAustralia",
+  "url": "https://www.reddit.com/r/CarsAustralia/comments/1xibxvy/new_ev_wagon_spotted_zeekr/",
+  "title": "New EV Wagon spotted - Zeekr?",
+  "text": "",
+  "author": "/u/SailsofCharon",
+  "published": "2026-10-29T06:00:21+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T18:23:41+00:00"
+ },
+ {
+  "id": "799698379d12fd9d",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Al-Bawaba",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnlyeUxCTW9fLUd6Y1lqSEJuU0NYamFrNjItZEJybjhnQzhINnMyRTUwVnExUGVaa0dqZ25zdE0wOGUxWDZ6bVl2dGJBWmh4R0RSTjVQM09rSWlLc3I2QnJlNmotck5pWlV5ZE5vX1UwbXJnSXk4dV9McDlxMnJlSWV6amFNT1lx?oc=5",
+  "title": "Kia EV6 GT Wins auto motor und sport Electric Vehicle Comparison Test - Al-Bawaba",
+  "text": "Kia EV6 GT Wins auto motor und sport Electric Vehicle Comparison Test Al-Bawaba",
+  "author": "",
+  "published": "2026-10-29T04:55:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-29T18:23:41+00:00"
+ },
+ {
   "id": "37561d7a2edf1400",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -266,6 +328,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
+  "id": "f9c9907eb26aab50",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Unisba Media",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZjRCczZBUXhBc3pYbFhHdVY3QUI1LUVocWlmVkZrbFUxUTAzTXFVYXlMQTJmQmpfZG1IQlpKVFRGSDJoMVlLSlUydHRlUFREb0hlN241R0h5TjhabXRtbWpwN2VzUQ?oc=5",
+  "title": "THE FUTURE OF TAXIS IS HERE! Waymo Zeekr RT (Ojai) Ride Experience & Specs. Sanne Dijkstra-downie (I19BJMDZ81) - Unisba Media",
+  "text": "THE FUTURE OF TAXIS IS HERE! Waymo Zeekr RT (Ojai) Ride Experience & Specs. Sanne Dijkstra-downie (I19BJMDZ81) Unisba Media",
+  "author": "",
+  "published": "2026-10-29T02:05:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-26T04:34:24+00:00"
  },
  {
   "id": "99211595fde8c776",
@@ -303,6 +394,72 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-29T05:33:06+00:00"
+ },
+ {
+  "id": "d5dca80792fa9c01",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3pReDFpMzR1dnB3dXBhakp5WWhFWEdHOTNxYlQtMlhJLVg2U0FsQWlURzhWSzM5OVozME5mUlZ1T2RZUXNMNlpicVlpREgtZWFFN19Zc2xRNnJPNlNISk5LOXdDRFJBV2FUZW02UmRna0loUWhhV1Y0X1dKSUJHTmdRQU1oUHJObXNUSlhTT0ZYUWExN1JTbXBzV1N1cktPOVVXVWM0eUxrbV9KazJjWmM1Q1ZOTkprakJVVFVR?oc=5",
+  "title": "China's G-Wagen could come to Oz: 2027 HongQi G919 plug-in hybrid 4WD is a Land Rover Defender rival, brand prepares to launch here - CarsGuide",
+  "text": "China's G-Wagen could come to Oz: 2027 HongQi G919 plug-in hybrid 4WD is a Land Rover Defender rival, brand prepares to launch here CarsGuide",
+  "author": "",
+  "published": "2026-10-29T00:55:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "land rover"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T18:23:41+00:00"
+ },
+ {
+  "id": "e18a7dab36279fe2",
+  "type": "post",
+  "source": "reddit-CarsAustralia",
+  "source_name": "Reddit r/CarsAustralia",
+  "url": "https://www.reddit.com/r/CarsAustralia/comments/1xi34zp/the_tesla_flying_car_is_fake_here_is_how_i_think/",
+  "title": "The Tesla Flying car is fake. Here is how I think they did it.",
+  "text": "TBH, I didn't think too deeply about the real reason behind Musk's marketing ploy with his flying car. This gentleman makes some good points. Do you think it was just marketing deception? Edit: FYI, I am not against EV's. I actually have my eye on purchasing a Zeekr 7GT early next year. But I allergic to bullshit and con artists. 👍",
+  "author": "/u/DifferentDebt2197",
+  "published": "2026-10-28T22:49:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T18:23:41+00:00"
  },
  {
   "id": "8ddd81e27cb5a6cd",
@@ -1654,7 +1811,7 @@
  {
   "id": "6e8cb54d695d0ffc",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · RACV",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzBSYnRqaFdqa0ZwVnFCTFZ2bGhQSEZMNHFZOE0wQ0luamRURlFra1JSTGJCQWFOTjQxd2VFZVBZblN4MGI3eHdpdmVobUNEZlIxZGRfQjBOcTF5Qm1jOWhOeXZJRUdyYlRBV3Y3SHdCY05xcWdrOGZYd0NrMk44SVpjWnQ1dC1WX3FnZ1Q0Ujk1NjA?oc=5",
   "title": "2026 BYD Atto 3 Evo Premium review - RACV",
@@ -2252,8 +2409,8 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
-  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
+  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
+  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -2261,14 +2418,9 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd",
-   "toyota",
-   "ford"
+   "byd"
   ],
-  "categories": [
-   "software",
-   "charging"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -2792,35 +2944,6 @@
   "first_seen": "2026-10-25T22:00:01+00:00"
  },
  {
-  "id": "f9c9907eb26aab50",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Unisba Media",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZjRCczZBUXhBc3pYbFhHdVY3QUI1LUVocWlmVkZrbFUxUTAzTXFVYXlMQTJmQmpfZG1IQlpKVFRGSDJoMVlLSlUydHRlUFREb0hlN241R0h5TjhabXRtbWpwN2VzUQ?oc=5",
-  "title": "THE FUTURE OF TAXIS IS HERE! Waymo Zeekr RT (Ojai) Ride Experience & Specs. Sanne Dijkstra-downie (19BJMDZ81L) - Unisba Media",
-  "text": "THE FUTURE OF TAXIS IS HERE! Waymo Zeekr RT (Ojai) Ride Experience & Specs. Sanne Dijkstra-downie (19BJMDZ81L) Unisba Media",
-  "author": "",
-  "published": "2026-10-25T19:44:57+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-26T04:34:24+00:00"
- },
- {
   "id": "043ae35df80a1385",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -3295,7 +3418,7 @@
  {
   "id": "2b6933aa8f0d9c7b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · The Canberra Times",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlZHaE9OXzZtR3NMRkR6dTVyalRCblNhNTZDUk5zYkppRVZSLWRKT3E3U3ZjbFRuYmtqalpFS3lUX1JheUd3aVdsOHFlNld4bzJObkpQd1Y0UlR5TmEweTFhN3ZjMkRlallGUUxVLXJHQVRabXVuaS0zYWpINUVxVE9fUG5kYm9JeTNaRkFHXzlxTk0?oc=5",
   "title": "Chery's plan to take on Zeekr in Australia - The Canberra Times",
@@ -13978,6 +14101,37 @@
   "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
+  "id": "7d0f7f045138d1fa",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcHZDWG5wT1RtRTl1NW1JODBKWFBiMUFRN0xYR0tVdTdFamlSVDhBcFBPU0JfcHJHa3pTaXp6S0hHQzVkWng2TzlKQnhGVW9Zb2lTb2tybF9xcmFFalN6MTVZZUoycEdxUTQzQQ?oc=5",
+  "title": "2026 Zeekr 7X owner review - Drive",
+  "text": "2026 Zeekr 7X owner review Drive",
+  "author": "",
+  "published": "2026-10-15T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "7cc9e51098a56ae1",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -14865,37 +15019,6 @@
   "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
-  "id": "7d0f7f045138d1fa",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zcHZDWG5wT1RtRTl1NW1JODBKWFBiMUFRN0xYR0tVdTdFamlSVDhBcFBPU0JfcHJHa3pTaXp6S0hHQzVkWng2TzlKQnhGVW9Zb2lTb2tybF9xcmFFalN6MTVZZUoycEdxUTQzQQ?oc=5",
-  "title": "2026 Zeekr 7X owner review - Drive",
-  "text": "2026 Zeekr 7X owner review Drive",
-  "author": "",
-  "published": "2026-10-14T21:04:24+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
   "id": "d1f285d82c38ea9b",
   "type": "competitor_news",
   "source": "carexpert",
@@ -15334,7 +15457,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -19926,7 +20049,7 @@
  {
   "id": "a40beb8cf3c8b2c4",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RklfZno3N1h3MWMxM05rY2ZZeHlSNjl2N0I4VE9aX0pPQWc0SHBPZHQ5VE1GazVKdks4cHZIRUJrRm5pNmJUTHVCcGN6QlhUSUVqRFdDOWlpaUpodzNEVXQ5a3paUmtSLW9JX1pBR2tocHhWRVc3eTRtZUdBcEE?oc=5",
   "title": "Zeekr is about to update the car it already can't deliver fast enough - Drive",
@@ -23298,7 +23421,7 @@
  {
   "id": "972c9ef572eb88a5",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHB0NFd5THhlQzJIUmt2QXhBdUdjZkU0V0o5Mm9ISmxvY0x6UzdzUlZfd2hjVTY3VWtWdkMteFItYzJibjFqbnJvNi1Za0d0V2pVT3c0V2NUa1Bib3c2NDBqNXZraEszN2dnbnFsZERKeW1kZnExVC04MUpDbjVuWGViYTd5ekxvcWk3dDJ5bkIxUFBF?oc=5",
   "title": "Zeekr's top-selling SUV continues to undercut Model Y - Drive",
@@ -24555,7 +24678,7 @@
  {
   "id": "b6cde9afc3d6f710",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
   "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",

@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-29T11:42:28+00:00",
- "duration_s": 316.6,
- "items_total": 1126,
- "new_this_run": 229,
+ "generated": "2026-10-29T18:23:41+00:00",
+ "duration_s": 383.4,
+ "items_total": 1130,
+ "new_this_run": 226,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 3,
-  "complaints_30d": 33,
+  "complaints_30d": 32,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 1,
-  "competitor_news_7d": 65,
+  "competitor_news_7d": 66,
   "launch_signals_7d": 17,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 39,
+  "zeekr_news_7d": 35,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -105,13 +105,13 @@
    "date": "2026-10-14",
    "complaints": 2,
    "competitor_news": 15,
-   "zeekr_news": 15
+   "zeekr_news": 14
   },
   {
    "date": "2026-10-15",
    "complaints": 2,
    "competitor_news": 9,
-   "zeekr_news": 11
+   "zeekr_news": 12
   },
   {
    "date": "2026-10-16",
@@ -171,7 +171,7 @@
    "date": "2026-10-25",
    "complaints": 0,
    "competitor_news": 7,
-   "zeekr_news": 3
+   "zeekr_news": 2
   },
   {
    "date": "2026-10-26",
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 3,
-   "zeekr_news": 3
+   "competitor_news": 5,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 22
+   "n": 21
   },
   {
    "key": "charging",
@@ -253,7 +253,7 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 11,
+  "Google Play (AU)": 10,
   "Reddit r/Zeekr7xAustralia": 10,
   "Reddit r/AustralianEV": 4,
   "Reddit r/Zeekr": 3,
@@ -414,12 +414,12 @@
    "latest": null
   },
   "kia-ev6": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "a27bf89cf6f37c43"
    ],
    "offer": [],
-   "latest": "a162d09c8a01fda9"
+   "latest": "799698379d12fd9d"
   },
   "hyundai-ioniq5": {
    "n_30d": 1,
@@ -1007,12 +1007,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 64,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 18,
+   "count": 36,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1042,27 +1042,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 27,
+   "count": 45,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 25,
+   "count": 33,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 61,
+   "count": 46,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 19,
+   "count": 21,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 36,
+   "count": 39,
    "note": ""
   },
   "carexpert": {
@@ -1141,24 +1141,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1537,8 +1537,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 5,
-   "note": "5 new; 38/38 feeds ok"
+   "count": 0,
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1593,7 +1593,7 @@
   "offers-hyundai": {
    "ok": true,
    "count": 10,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,
