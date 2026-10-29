@@ -8,7 +8,7 @@
   "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
   "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
   "author": "",
-  "published": "2026-10-29T03:22:38+00:00",
+  "published": "2026-10-29T11:11:08+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -29,6 +29,208 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "bc140c194dd2a7b5",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xiewkb/are_you_considering_zeekr_7gt_what_about_the/",
+  "title": "Are you considering Zeekr 7GT? What about the polestar 4 SUV?",
+  "text": "With the release of the polestar 4 and looking like being released before end of year, are you considering switching?. With no idea when the GT will turn up, it seems like the polestar seems a bit more sorted. Favourable reviews, similar performance and similar price (performance vs dual motor wise anyway) has that changed your mind ?",
+  "author": "/u/gpz1987",
+  "published": "2026-10-29T09:07:51+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
+  "id": "1b7032d3e4dc1cbc",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · autoevolution",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGdQVHFDWjhoRURFaFI1WUQ5S1V0Ukc2MUFCTzdZMEFKM0ktaUwxUGV5eE8tR2pNM1VOV2ZhalN3bTJFNS1RTWJWRW5YWlBjUlNnWVhBWGtsSF9TTm9CbWJhb3lwcmFHeFhYMDJSLW16dWphWmtaeFlHOGxwOXNxS0RJb21JS29laDNiQ29ZczlWeUtvX19MRDl3andPRHIwQjY4c0hLTTBwUFdubkZ2Mjd1MWRGSENSdTcyc19tU1NhQzJ4QWJBVTNtX2lOc2FPZXpZYjlHd19mZWt1NDVxLQ?oc=5",
+  "title": "All-Electric MGU9 EV Arrives Now In Australia With Pricing on Par With the Toyota Land Cruiser Prado - autoevolution",
+  "text": "All-Electric MGU9 EV Arrives Now In Australia With Pricing on Par With the Toyota Land Cruiser Prado autoevolution",
+  "author": "",
+  "published": "2026-10-29T09:03:13+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
+  "id": "f573de4b551b4544",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMmZ3N3BZY1oxb0tXRHBYUlNvQml2YUwwUGNHU2E2Wml1NUkzZDlvajNWbVZjSHpHRzBaSDdGbG9nWTFSZU1lbWpib1hMLTFLTzMyMHoySDMyd2dF?oc=5",
+  "title": "Mercedes-Benz EQS review: every variant, price and specs - EV Central",
+  "text": "Mercedes-Benz EQS review: every variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-29T08:48:13+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
+  "id": "cbc4b17031067edd",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXN0Q1lTMEpqb3YtRWNfek5CR0hfYV9MQklacEdVZ1NuWmtsVVVxcmpLaGQ0LUVweE9BS2ROY3VWdUs2TWI3bmRhZkwzYWpFNGlZRmFQLThSRzBuYnRXQ3FiWUtweFJLbTZrMzNIU0J2dmJmd2xKSXdvUVpXckFxWnBIb1NQX2VBQnZxdURBRkxyem1OUGRzVWVFLWpOVElaRFI5eGtobHFHdw?oc=5",
+  "title": "Comparison: Porsche Cayenne vs ZEEKR 9X - Autohled.cz",
+  "text": "Comparison: Porsche Cayenne vs ZEEKR 9X Autohled.cz",
+  "author": "",
+  "published": "2026-10-29T08:14:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
+  "id": "63ac5ebc7c8b790c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motorist Singapore",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUctTUFwTC15cWNzdWdvcUVJclJlckdUdnhJajBEbXhjVkUwZWhlSEJvT1BaV0k5el9Jd3I2T3dXMWJYT29La0lnRTVvWU0teDBiSXlNUnZCQ084a2tQSktyMC04MnlsN1dTeUN5OUs5LTNsUDlvSXp4OWpFRzJOTTEtdWxQR3ZfNWtlNDhvT1dwTTFwcnlBYnN4bmZGU0M4UDlaMThkNUl5UF9XeUE?oc=5",
+  "title": "Premium Automobiles launches Cat A Zeekr 7X and Changan Q05 in Singapore - Motorist Singapore",
+  "text": "Premium Automobiles launches Cat A Zeekr 7X and Changan Q05 in Singapore Motorist Singapore",
+  "author": "",
+  "published": "2026-10-29T07:43:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
+  "id": "19cbc07e30ba412b",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xidb6b/is_the_duel_windows_monitor_on_the_zeekr_8x/",
+  "title": "Is the (duel windows monitor) on the zeekr 8x optional?",
+  "text": "I don’t understand why I have so many screens in the car as a driver.",
+  "author": "/u/woofyc_89",
+  "published": "2026-10-29T07:25:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
   "id": "37561d7a2edf1400",
@@ -266,6 +468,35 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "71cb4f255e80973c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Foro3D",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQME0xbnJ4NVBaeEdlRTRuMXRsQWRlME50N0hSQTBITUpNTVR2RlVlWFAyMDVNOF9Dd0hrdDY4ZDI2bkN6YV8yQkg5VnlleFpKYXExdmRraGVXcUhvdjZhRFNoX2lMRzlzMWQ3VFU3RVVYQkM4ZGxRc05QWXNUMXhXOUpPM2hTRGlEVDV2RFI5SjAzNzdYSnFpS0dDQmgxa2FPU0d0M0lUZkhRdw?oc=5",
+  "title": "Zeekr completes 4,100 km in 24 hours driving laps around the Rome ring road - Foro3D",
+  "text": "Zeekr completes 4,100 km in 24 hours driving laps around the Rome ring road Foro3D",
+  "author": "",
+  "published": "2026-10-28T10:48:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
   "id": "977de602e7893c4e",
@@ -835,7 +1066,7 @@
  {
   "id": "e921111eee53f2c0",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDZXdEJfRlRPUk1VTHdRQXpJME95OERkSlhpUl9RQThLM1FSQmtEc2h2ZnVUZ1FZYll1ZTZGbnBaOEhMOUkxWjhqTTA1dmNlNUdFMC1VRm5YTWtnOTFqYWFQZzY5SFYxMjJFNi1SV0x3Uk5aLUFlRlA3NDNlUGNXTnZmeTR4RzFIcXRKOHVINHZ4eW5FdldnYnlqNUY3YWlEUGJ4aVJJWllkZUdZQ2RRTC1RNENETmc2VkNPc1U5VW8?oc=5",
   "title": "Renault's Kia EV3, Zeekr X rival gets bigger battery, more range - caradvice.com.au",
@@ -1251,37 +1482,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-28T19:48:20+00:00"
- },
- {
-  "id": "b1e96c2e384bcf6f",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtTFRQdUpCaWZCV1ByZkRoblpsZHpEZXkwTWxUdHRaQy1FbnRxRWNLRkRIWVI3Sm9BZ1dMenBBT1I3Q1dMZ25mVFlBdTZDUGh6dHliT3IwLTJLZmFnTFU5ZWlB?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-27T05:05:07+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
   "id": "2e70d3347a1a27e4",
@@ -2052,8 +2252,8 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWhkT29wWFozUnc3bHliTjFoYlFoMVlzOFpLSUotODFnYWN6R3hzZ3JtUTZQTHBhNTBYZWJrNFU4WUh6cnRzbWw2blpUeVU0VzZKLWNCVmRjbTBTdWpWRFdacnVRZkI5WjVtYllpM0JDb2N0WFhweXc0ZlRsLWp3T0tNN0FmelFJVnNCTUZiZEtPTFVROFR1SHB6Ml9kSy1UekdEVDBrcDgtdjRZeTExTU9Da2VmLUNJVlViYndVM3lsdzU0?oc=5",
-  "title": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 - CarsGuide",
-  "text": "The Changan Hunter K70 has just been priced in China as a hybrid ute rival to the BYD Shark 6 CarsGuide",
+  "title": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia - CarsGuide",
+  "text": "2026 Changan Hunter K70 priced in China to be new BYD Shark 6 hybrid ute rival and could be future Ford Ranger and Toyota HiLux competitor in Australia CarsGuide",
   "author": "",
   "published": "2026-10-26T04:32:37+00:00",
   "rating": null,
@@ -2061,9 +2261,14 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "byd"
+   "byd",
+   "toyota",
+   "ford"
   ],
-  "categories": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -4798,6 +5003,37 @@
   "first_seen": "2026-10-23T20:17:57+00:00"
  },
  {
+  "id": "cd9261d9ca9c6367",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd1luNk5GTWhZNWs5SzRiaEQwejRxcndDc0ZoVkl1bUlWODd6TDVtZHVBaXZ1Q1NOR0I3c2taUFFkd1RPOUtWckpDR3pCeGlWUnZOUXozVENKV19tVkJQUi0zV182R0I5TTRHelh6YlJwZDY5eVRJNjhUenZsUnAtUkRSWGRGQU9WejIyb3ZDX3g3M0FRV1JHclNGbEFXYUhKMU1zY19FblhoSWxfUGpJ?oc=5",
+  "title": "Zeekr Black cars with kilometres under 60,000km with electric engine range over 600km for sale in Australia - Carsales",
+  "text": "Zeekr Black cars with kilometres under 60,000km with electric engine range over 600km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-22T05:13:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
   "id": "40493bdaaef21827",
   "type": "competitor_news",
   "source": "gn-zeekr-1d",
@@ -6031,6 +6267,40 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-21T18:13:21+00:00"
+ },
+ {
+  "id": "d0005e9f5ea7b411",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHVDc0hWa1hOdFR5Um9VUjF3NXNiR2lnUGZlVmtaOUFfS1JiQkp0MHB1UHFNMlhyVzBjaHFFOUJRcGRZYlpFcEN4STF6UDMyZVk0ZjU2bUZ6Y25TR1l2ZWx6U2NQOEhTOGRWREhDUjBDR1owb3pwTm55ajBvTmNWaGE5T2gtX0d0LVdtRC15cm1GNW0yTm10TDFVdWdMNVY2S3lfRg?oc=5",
+  "title": "Zeekr car that are brands from China over $150,000 with electric engine range over 50km for sale or order in Australia - Carsales",
+  "text": "Zeekr car that are brands from China over $150,000 with electric engine range over 50km for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-21T12:03:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
   "id": "b89e8f752e996826",
@@ -7364,6 +7634,70 @@
   "first_seen": "2026-10-21T07:26:38+00:00"
  },
  {
+  "id": "05c2fe3973d1780d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVB6dEtfQ1duY2lBTTdxWnBieEUwY1FXdmI1RGRhN00takxMbmtWU1ZDeTZTNVRlLTd4SHdsOWhiRGRDWmdXM1JTbVhqcjFxZjYwNFhEWmNUZHpMQ24zNDhKalBTSzdCLU5JdDZ1RmJSM0Z3UGIyZVJkMklxNVloM3o2Q0NiSmJXU0xhUGNmM0Vxdy1fVHlnRkViSHdTZ24xRkp2M1lZdmZ2cnNqbDdN?oc=5",
+  "title": "Zeekr Black cars with kilometres under 80,000km with electric engine range over 250km for sale in Australia - Carsales",
+  "text": "Zeekr Black cars with kilometres under 80,000km with electric engine range over 250km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T15:42:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
+  "id": "3bd06a8e70db316e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnQxZ0lqeGJNYW9XUzZ0dGptUjZxWE0yaHU5QlRIRXVaNkNXOEVuWGRWSUFCWlk0MnhQVUVYajJRTWNnbGo0dUJMamx1RHlCY0tWTEtEMlFKTll1UHo4RTZ6MkE3aVZFOU9UbkdCeEp1LW1UUXItYnlXdFkyR25udG1pdW1IdGcxZHNIMHdKZ1JPanNVVC1yamk5Q1V2d2s?oc=5",
+  "title": "Zeekr cars between $45,000 & $150,000 with electric engine range over 550km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $45,000 & $150,000 with electric engine range over 550km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T15:38:11+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
   "id": "dbce4f3940e76071",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -7705,6 +8039,40 @@
   "first_seen": "2026-10-21T09:21:45+00:00"
  },
  {
+  "id": "243a6a453ef47ced",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWFBZmZDbzdmTmNiQWduT1NfeF9xTVl1bWE2ZVRvZHRQdmhUNFRHUXN2QnR0X3YzY3B1ZTQ5UW91cUtPT0c0TVdSQXFxVExZMDhaZzlObVlSX3loNGNOODE5TWU0MnRkN0o3b1AtdnJ0M1ROV2hwd0tYUEdQN2ZiWXF3RXhFR2w3aVpXUDdtQ1RFNTlGZHdpZmhOajlPVExWdEJsNjlqc2RNZGxuTVE?oc=5",
+  "title": "Zeekr Not Applicable cars under $50,000 with electric engine range over 300km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars under $50,000 with electric engine range over 300km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T12:03:19+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
+ },
+ {
   "id": "4719c5c23e22eaaa",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -7872,6 +8240,38 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
+  "id": "27671cfb7d204012",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTNZd1NadVp0dkVQVTZBVzRiWW5WNV9vSm51a1REMVdOdDRqS2hjZ2RPYmFMT3dhZUxVQVhxN1dYQU9neVZCT21JWlNVa0MtOFZkVzJpb1Y2WGRKT1NuMURTcXlrQVhoQWtvYmpJbVgzbE5TREhJOVhXSDdFSndqbW5CaEhHT1kxR3lVVmxNeDlxaGU3cGZwYVVrY19XYXhNTHFaaU9lYV9fZ1IyZGhGakl6UWU4QzBmVXZtQ3ZR?oc=5",
+  "title": "Zeekr Not Applicable cars with electric engine range over 550km for sale in Western Australia - Carsales",
+  "text": "Zeekr Not Applicable cars with electric engine range over 550km for sale in Western Australia Carsales",
+  "author": "",
+  "published": "2026-10-20T10:11:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
   "id": "2cffc8416e1e7b4a",
@@ -10950,7 +11350,7 @@
  {
   "id": "86319ed31d31c856",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzM0RFEwNFF6d0dieUtWTnRMbjZGMzhQMzlSLTZvX2JvQkZ3M2tRQl9scjNicUZQWC15NWh6LXQwN3RYa3M0MmJzLVdzQlBQZzRLbkhacG5qRDNkQXR2RWJBc080Tks5SzhQalNDS0VONlB4NTNLOU9yalc5VXJyTzNsbw?oc=5",
   "title": "Zeekr's real LandCruiser killer could look like this - Drive",
@@ -11495,39 +11895,6 @@
   "competitors": [],
   "brands": [
    "volvo"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T22:16:04+00:00"
- },
- {
-  "id": "f573de4b551b4544",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMmZ3N3BZY1oxb0tXRHBYUlNvQml2YUwwUGNHU2E2Wml1NUkzZDlvajNWbVZjSHpHRzBaSDdGbG9nWTFSZU1lbWpib1hMLTFLTzMyMHoySDMyd2dF?oc=5",
-  "title": "Mercedes-Benz EQS review: every variant, price and specs - EV Central",
-  "text": "Mercedes-Benz EQS review: every variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz"
   ],
   "categories": [],
   "sentiment": {
@@ -13179,6 +13546,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T21:16:00+00:00"
+ },
+ {
+  "id": "6cf6010263c647e8",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmFyRExhRWU2UFdWV3BFeU1YZDNXY2p6MVNscnZIallsMDRhZmduLVJOel9UdDJEeDc5Vk16VHN6MlJUc2ZhdzNMSVNoOERTY0tfMU5jeTM4UFJuTWsyZzVPODQzNzlDZlBTa3RmY25QdkNDNk1HdTk5QWhfZkJKcEk0b0hlZzZvMVlHTVhUcmk?oc=5",
+  "title": "Zeekr cars that are brands from China for sale or order in Western Australia - Carsales",
+  "text": "Zeekr cars that are brands from China for sale or order in Western Australia Carsales",
+  "author": "",
+  "published": "2026-10-15T19:46:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
   "id": "7ccc91fc96cce24b",
@@ -36281,6 +36679,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "8ed0fed3500bb47e",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRTXl0TUx1U2FQeHpFWlZ1aTgxX01QaV8wMmNvWk5HaVFDX3p2cFNXeXNpOWFYSm1PNGFwQmJZVTZ0YjlrQ3A5d0xWeUpYZTROa0tReXBrTXFSY2lTYkIzU3dVaw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-06-09T12:39:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T11:42:28+00:00"
  },
  {
   "id": "d4703c7ab6451443",

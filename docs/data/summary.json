@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-29T05:33:06+00:00",
- "duration_s": 337.9,
- "items_total": 1113,
- "new_this_run": 184,
+ "generated": "2026-10-29T11:42:28+00:00",
+ "duration_s": 316.6,
+ "items_total": 1126,
+ "new_this_run": 229,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 4,
-  "complaints_30d": 34,
+  "complaints_7d": 3,
+  "complaints_30d": 33,
   "high_7d": 2,
   "medium_7d": 0,
-  "low_7d": 2,
-  "competitor_news_7d": 64,
+  "low_7d": 1,
+  "competitor_news_7d": 65,
   "launch_signals_7d": 17,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 48,
-  "offer_page_changes_7d": 4
+  "zeekr_news_7d": 39,
+  "offer_page_changes_7d": 5
  },
  "series_30d": [
   {
@@ -111,7 +111,7 @@
    "date": "2026-10-15",
    "complaints": 2,
    "competitor_news": 9,
-   "zeekr_news": 10
+   "zeekr_news": 11
   },
   {
    "date": "2026-10-16",
@@ -122,7 +122,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 29,
+   "competitor_news": 28,
    "zeekr_news": 9
   },
   {
@@ -141,19 +141,19 @@
    "date": "2026-10-20",
    "complaints": 2,
    "competitor_news": 20,
-   "zeekr_news": 32
+   "zeekr_news": 36
   },
   {
    "date": "2026-10-21",
    "complaints": 0,
    "competitor_news": 15,
-   "zeekr_news": 13
+   "zeekr_news": 14
   },
   {
    "date": "2026-10-22",
    "complaints": 1,
    "competitor_news": 17,
-   "zeekr_news": 23
+   "zeekr_news": 24
   },
   {
    "date": "2026-10-23",
@@ -189,13 +189,13 @@
    "date": "2026-10-28",
    "complaints": 0,
    "competitor_news": 11,
-   "zeekr_news": 5
+   "zeekr_news": 6
   },
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 1
+   "competitor_news": 3,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,13 +203,13 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 23
+   "n": 22
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 13
+   "n": 12
   },
   {
    "key": "service",
@@ -250,11 +250,10 @@
  ],
  "models_30d": {
   "7X": 11,
-  "7GT": 3,
-  "009": 1
+  "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 12,
+  "Google Play (AU)": 11,
   "Reddit r/Zeekr7xAustralia": 10,
   "Reddit r/AustralianEV": 4,
   "Reddit r/Zeekr": 3,
@@ -871,6 +870,13 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "472d98d71392ab67",
+   "title": "Hyundai 官网政策页面变化（+1 / −0 行）",
+   "source": "https://www.hyundai.com/au/en/offers",
+   "t": "2026-10-29T11:47:43+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "56ade0ef1e92a380",
    "title": "Zeekr (Zecar) 官网政策页面变化（+1 / −1 行）",
    "source": "https://zecar.com/offers-and-deals/zeekr",
@@ -1001,17 +1007,17 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 64,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 17,
+   "count": 18,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 30,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1021,7 +1027,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 100,
+   "count": 51,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1036,7 +1042,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 42,
+   "count": 27,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1046,17 +1052,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 64,
+   "count": 61,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 24,
+   "count": 19,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 37,
+   "count": 36,
    "note": ""
   },
   "carexpert": {
@@ -1120,14 +1126,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1142,7 +1148,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1531,8 +1537,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 5,
+   "note": "5 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1586,8 +1592,8 @@
   },
   "offers-hyundai": {
    "ok": true,
-   "count": 9,
-   "note": "unchanged"
+   "count": 10,
+   "note": "changed"
   },
   "offers-tesla-my": {
    "ok": false,
@@ -1632,7 +1638,7 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 37,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-thebeep-offers": {
    "ok": false,
@@ -1642,7 +1648,7 @@
   "offers-zeekr-offers-zecar": {
    "ok": true,
    "count": 6,
-   "note": "changed"
+   "note": "unchanged"
   }
  },
  "places": {

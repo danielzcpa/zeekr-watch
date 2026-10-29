@@ -1,5 +1,16 @@
 [
  {
+  "id": "472d98d71392ab67",
+  "key": "hyundai",
+  "brand": "Hyundai",
+  "url": "https://www.hyundai.com/au/en/offers",
+  "detected": "2026-10-29T11:47:43+00:00",
+  "added": [
+   "Bonus offer across i30 Sedan, SANTA FE and TUCSON models."
+  ],
+  "removed": []
+ },
+ {
   "id": "56ade0ef1e92a380",
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
