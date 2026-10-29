@@ -1,20 +1,93 @@
 [
  {
-  "id": "a9cedb53e6b0d0a0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Motor1.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
-  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
-  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
-  "author": "",
-  "published": "2026-10-29T16:33:08+00:00",
+  "id": "f504d0112cc255be",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xiydd6/does_the_dealership_experience_change_once_youve/",
+  "title": "Does the dealership experience change once you've paid your deposit?",
+  "text": "",
+  "author": "/u/DealerPulseAU",
+  "published": "2026-10-29T22:31:32+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
   "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
+ },
+ {
+  "id": "76ee291d46189001",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/byd-ceo-staff-workers-staff-employees-more-ford-gm-general-motors-tesla-1-02-million",
+  "title": "BYD boss’s startling reveal proves brand is dwarfing Ford, Toyota, GM and Tesla combined",
+  "text": "The CEO of BYD has lifted the lid on just how dramatically the rising tide of EVs has lifted the company into the automotive stratosphere. The post BYD boss’s startling reveal proves brand is dwarfing Ford, Toyota, GM and Tesla combined first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-10-29T21:00:28+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
   "brands": [
-   "bmw"
+   "byd",
+   "tesla",
+   "toyota",
+   "ford"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
+ },
+ {
+  "id": "e23ca822c454fb48",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xWG9HYVE4LV9CXzFHZTVsQ1hZRUxaZER0VXBGX2NLMi1EeW02ZWYya28wbFFveFJjWS1wYXlCWmI3cnBlVlJFYVZiazZ4SldpTi1JcG1YMXZJeVM0SVlCcmRTV0cxWkFzSF93dm9rdEtkQzdFWUE?oc=5",
+  "title": "China's Avatr Scraps 07L Max Launch Event at Last Minute, Responds to Pricing Controversy With Internal Meeting Video - BigGo Finance",
+  "text": "China's Avatr Scraps 07L Max Launch Event at Last Minute, Responds to Pricing Controversy With Internal Meeting Video BigGo Finance",
+  "author": "",
+  "published": "2026-10-29T16:25:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "avatr"
+  ],
+  "brands": [
+   "avatr"
   ],
   "categories": [],
   "sentiment": {
@@ -24,11 +97,52 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [],
+  "signals": [
+   "launch"
+  ],
   "scope": "zeekr",
   "au": false,
   "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
+  "first_seen": "2026-10-29T22:55:36+00:00"
+ },
+ {
+  "id": "f2182974c8224a4f",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/toyota-rav4-phev-undercut-gwm-haval-h7-plug-in-hybrid-medium-suv-launches-at-49990-drive-away/",
+  "title": "Toyota RAV4 PHEV undercut: GWM Haval H7 plug-in hybrid medium SUV launches at $49,990 drive-away",
+  "text": "GWM Haval H7 PHEV launches from $49,990 drive-away, undercutting Toyota RAV4 PHEV with 320kW, all-wheel drive and a claimed 137km electric range. The post Toyota RAV4 PHEV undercut: GWM Haval H7 plug-in hybrid medium SUV launches at $49,990 drive-away appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-10-29T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
   "id": "bc140c194dd2a7b5",
@@ -293,6 +407,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-29T18:23:41+00:00"
+ },
+ {
+  "id": "10b5334adfd42094",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rS1NOQXNudFlBX2xESk5RekZkS1M3TlEza1dvSVRabWZobG9VM2x6cnhzMm5aR3VvWnZoTVpfY2prSFY5aHBnOFJndFdlbnpUQ1BaQUpzZ0dKc2RtSjYzLUpyZw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-29T04:14:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
   "id": "37561d7a2edf1400",
@@ -598,6 +743,37 @@
   "first_seen": "2026-10-28T23:58:25+00:00"
  },
  {
+  "id": "a9cedb53e6b0d0a0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
+  "author": "",
+  "published": "2026-10-28T14:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
   "id": "55d3d8e50661a9fc",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -782,77 +958,6 @@
   "first_seen": "2026-10-28T07:20:56+00:00"
  },
  {
-  "id": "fa1833b6abb6a5eb",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DWXd0bmdmb0dIaHQyOFliYTd5X3VpS0hZR2pFWm9jM0dmc2FfbWV5cnRzM1N1QUZCdVA2YVdWS2p0Mm1uLTZhRlozaWxvRHIwelJfdDRHZlAzMWl6OC1N?oc=5",
-  "title": "Toyota bZ4X Touring review: price, range and specs - EV Central",
-  "text": "Toyota bZ4X Touring review: price, range and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T09:07:35+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "toyota-bz4x"
-  ],
-  "brands": [
-   "toyota"
-  ],
-  "categories": [
-   "software",
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T00:25:32+00:00"
- },
- {
-  "id": "ca6819fe95ffefd8",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
-  "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
-  "text": "Hyundai IONIQ 5 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T09:07:33+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-ioniq5"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
   "id": "cb40097f8e9bd1a7",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -884,41 +989,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
-  "id": "06fa47391abc61ff",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
-  "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
-  "text": "Geely EX5 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T08:34:09+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "geely-ex5"
-  ],
-  "brands": [
-   "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "39ee8a224f7f89bb",
@@ -1053,6 +1123,281 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "fa1833b6abb6a5eb",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DWXd0bmdmb0dIaHQyOFliYTd5X3VpS0hZR2pFWm9jM0dmc2FfbWV5cnRzM1N1QUZCdVA2YVdWS2p0Mm1uLTZhRlozaWxvRHIwelJfdDRHZlAzMWl6OC1N?oc=5",
+  "title": "Toyota bZ4X Touring review: price, range and specs - EV Central",
+  "text": "Toyota bZ4X Touring review: price, range and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T00:25:32+00:00"
+ },
+ {
+  "id": "ca6819fe95ffefd8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
+  "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai IONIQ 5 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-ioniq5"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
+  "id": "06fa47391abc61ff",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zb2JxRG50WnB1RkVTV0V6YU5YdW5mLV9Fa3hxNVZ2c2xNVEM0VGxmWkVPVmJRTFlNT25ySzMteGsyWDIxckd4ZHRialJNTkExTFE?oc=5",
+  "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
+  "text": "Geely EX5 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T03:54:39+00:00"
+ },
+ {
+  "id": "c1d73282b7bf78ea",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTHMtNEZJUVk4RFlBV2wzdGFuSktEQy1JSFptX3JsWkx4SjRMNmd1dUpwS21FV0tHNU1RclIyYTNBbWtaZm5jdUdhdWZ4Ukpn?oc=5",
+  "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
+  "text": "Mazda 6e review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mazda-6e"
+  ],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
+  "id": "5459ad877b8d39e5",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeU9PdnQzWC1zNnBqREtpXzN6QUxPSFU3bVp5TzRQem5NX1JkVTF2bkc2SXZjU1dQS3pWZC1OTWtkYVVaVUtVMlh4V0N6ZVdsNTIw?oc=5",
+  "title": "Deepal E07 review: every 2026 variant, price and specs - EV Central",
+  "text": "Deepal E07 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "deepal"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "53756c67f0d89bcd",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d0R2ckxMV2d3Znliak9GVjdsSEtKRTFuMVhudGZXTzR1WTdTVWxDZzh3Z2NEQktpaXBpR1F3SHNXVkJrZC1JRmNDSjQwT0JPem5r?oc=5",
+  "title": "Polestar 5 price and specs: every 2026 variant compared - EV Central",
+  "text": "Polestar 5 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T06:29:57+00:00"
+ },
+ {
+  "id": "1380cc70d4605aa5",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLLWNZcXdlTmpDZW05R09MLXgxX0daOVBiMEZZMEx0V0VrbVM4Q1NhOUhpNU50dlNhR2drcFZHcWhaaFJtanFCMG4tbk1TQVpMV3phcnlRbVlNZWFt?oc=5",
+  "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
+  "text": "Skoda Enyaq Coupe price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "skoda-enyaq"
+  ],
+  "brands": [
+   "skoda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T08:45:22+00:00"
+ },
+ {
+  "id": "e023e9a6af212c2f",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ySFdQbjcxOWdmaWxXZWFlSVBpSUJ6OV8zQ2F6YU1XZ1JrdHlaeUpBdkRRSlV3YUY1QldyRGMwNXlkZkYzeVVFaHNRZWktYVF3NVJ5WWJn?oc=5",
+  "title": "Hyundai Kona review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai Kona review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
   "id": "adde0bd3d0366873",
@@ -1811,7 +2156,7 @@
  {
   "id": "6e8cb54d695d0ffc",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · RACV",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVzBSYnRqaFdqa0ZwVnFCTFZ2bGhQSEZMNHFZOE0wQ0luamRURlFra1JSTGJCQWFOTjQxd2VFZVBZblN4MGI3eHdpdmVobUNEZlIxZGRfQjBOcTF5Qm1jOWhOeXZJRUdyYlRBV3Y3SHdCY05xcWdrOGZYd0NrMk44SVpjWnQ1dC1WX3FnZ1Q0Ujk1NjA?oc=5",
   "title": "2026 BYD Atto 3 Evo Premium review - RACV",
@@ -6056,7 +6401,7 @@
  {
   "id": "751f25059a37cf5d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1VkVWRjRWFfNnlXcTJaWGZkd3hhRmFpUEN6TloxanZkWXRlQk5aNkZ2TVFUajM2UTE5WDQybXIxMGpFN1ZXaEVlZ1V0Q3VaUmFKbnQwek5fUHhITVFsLXdNZ2xDZF9xWVotSHNNNklNbGFsRWJRQXhpWVF5Y1dINWdTaHp2cE54V1k2YUtqMFpWdThIUjhkWlA0N2oxYWtXZTN4SWVn?oc=5",
   "title": "Chery Exlantix targets Zeekr with 'friendly prices' - Carsales",
@@ -11533,41 +11878,6 @@
   "first_seen": "2026-10-18T17:59:55+00:00"
  },
  {
-  "id": "c1d73282b7bf78ea",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTHMtNEZJUVk4RFlBV2wzdGFuSktEQy1JSFptX3JsWkx4SjRMNmd1dUpwS21FV0tHNU1RclIyYTNBbWtaZm5jdUdhdWZ4Ukpn?oc=5",
-  "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
-  "text": "Mazda 6e review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "mazda-6e"
-  ],
-  "brands": [
-   "mazda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
   "id": "851fd88980e959a8",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -11750,39 +12060,6 @@
   "competitors": [],
   "brands": [
    "porsche"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
-  "id": "5459ad877b8d39e5",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeU9PdnQzWC1zNnBqREtpXzN6QUxPSFU3bVp5TzRQem5NX1JkVTF2bkc2SXZjU1dQS3pWZC1OTWtkYVVaVUtVMlh4V0N6ZVdsNTIw?oc=5",
-  "title": "Deepal E07 review: every 2026 variant, price and specs - EV Central",
-  "text": "Deepal E07 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "deepal"
   ],
   "categories": [],
   "sentiment": {
@@ -12102,39 +12379,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T22:16:04+00:00"
- },
- {
-  "id": "53756c67f0d89bcd",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d0R2ckxMV2d3Znliak9GVjdsSEtKRTFuMVhudGZXTzR1WTdTVWxDZzh3Z2NEQktpaXBpR1F3SHNXVkJrZC1JRmNDSjQwT0JPem5r?oc=5",
-  "title": "Polestar 5 price and specs: every 2026 variant compared - EV Central",
-  "text": "Polestar 5 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "polestar"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
   "id": "e0ef91f9ec5b5e79",
@@ -12609,41 +12853,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-17T04:09:34+00:00"
- },
- {
-  "id": "1380cc70d4605aa5",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLLWNZcXdlTmpDZW05R09MLXgxX0daOVBiMEZZMEx0V0VrbVM4Q1NhOUhpNU50dlNhR2drcFZHcWhaaFJtanFCMG4tbk1TQVpMV3phcnlRbVlNZWFt?oc=5",
-  "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
-  "text": "Skoda Enyaq Coupe price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-16T18:30:33+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "skoda-enyaq"
-  ],
-  "brands": [
-   "skoda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-17T08:45:22+00:00"
  },
  {
   "id": "c207f5ebbabc0e8a",

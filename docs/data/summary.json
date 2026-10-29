@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-29T18:23:41+00:00",
- "duration_s": 383.4,
- "items_total": 1130,
- "new_this_run": 226,
+ "generated": "2026-10-29T22:55:36+00:00",
+ "duration_s": 308.6,
+ "items_total": 1136,
+ "new_this_run": 174,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 3,
-  "complaints_30d": 32,
+  "complaints_30d": 31,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 1,
-  "competitor_news_7d": 66,
-  "launch_signals_7d": 17,
+  "competitor_news_7d": 72,
+  "launch_signals_7d": 20,
   "offer_signals_7d": 4,
   "zeekr_news_7d": 35,
   "offer_page_changes_7d": 5
@@ -116,13 +116,13 @@
   {
    "date": "2026-10-16",
    "complaints": 3,
-   "competitor_news": 13,
+   "competitor_news": 12,
    "zeekr_news": 15
   },
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 28,
+   "competitor_news": 25,
    "zeekr_news": 9
   },
   {
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 6
+   "competitor_news": 16,
+   "zeekr_news": 7
   },
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 5,
-   "zeekr_news": 4
+   "competitor_news": 8,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 21
+   "n": 20
   },
   {
    "key": "charging",
@@ -253,8 +253,8 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 10,
   "Reddit r/Zeekr7xAustralia": 10,
+  "Google Play (AU)": 9,
   "Reddit r/AustralianEV": 4,
   "Reddit r/Zeekr": 3,
   "Reddit r/EVAustralia": 2,
@@ -559,11 +559,11 @@
   "mazda-6e": {
    "n_30d": 2,
    "launch": [
-    "4362e9a45be33f4e",
-    "c1d73282b7bf78ea"
+    "c1d73282b7bf78ea",
+    "4362e9a45be33f4e"
    ],
    "offer": [],
-   "latest": "4362e9a45be33f4e"
+   "latest": "c1d73282b7bf78ea"
   },
   "mb-cla-ev": {
    "n_30d": 0,
@@ -857,17 +857,28 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "e23ca822c454fb48",
     "bd09876b341075d3",
     "157903045605fdfb",
     "42ac9b11351bb021"
    ],
    "offer": [],
-   "latest": "97445fc112bd556e"
+   "latest": "e23ca822c454fb48"
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "e23ca822c454fb48",
+   "title": "China's Avatr Scraps 07L Max Launch Event at Last Minute, Responds to Pricing Controversy With Internal Meeting Video - BigGo Finance",
+   "source": "Google News · BigGo Finance",
+   "t": "2026-10-29T16:25:00+00:00",
+   "competitors": [
+    "avatr"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "472d98d71392ab67",
@@ -901,10 +912,20 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "39ee8a224f7f89bb",
+   "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-28T08:27:49+00:00",
+   "competitors": [
+    "tesla-model-y"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "ca6819fe95ffefd8",
    "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-28T09:07:33+00:00",
+   "t": "2026-10-28T07:00:00+00:00",
    "competitors": [
     "hyundai-ioniq5"
    ]
@@ -914,19 +935,29 @@
    "id": "06fa47391abc61ff",
    "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-28T08:34:09+00:00",
+   "t": "2026-10-28T07:00:00+00:00",
    "competitors": [
     "geely-ex5"
    ]
   },
   {
    "kind": "competitor_launch",
-   "id": "39ee8a224f7f89bb",
-   "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
+   "id": "c1d73282b7bf78ea",
+   "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-28T08:27:49+00:00",
+   "t": "2026-10-28T07:00:00+00:00",
    "competitors": [
-    "tesla-model-y"
+    "mazda-6e"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "1380cc70d4605aa5",
+   "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-28T07:00:00+00:00",
+   "competitors": [
+    "skoda-enyaq"
    ]
   },
   {
@@ -962,62 +993,22 @@
    "title": "smart 官网政策页面变化（+3 / −0 行）",
    "source": "https://www.smart.com.au/",
    "t": "2026-10-27T00:49:54+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "9fe67c888fe6cda7",
-   "title": "XPENG ANZ network grows to 66 sites ahead of L03 and G9L arrival - CarSauce",
-   "source": "Google News · CarSauce",
-   "t": "2026-10-26T22:02:11+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "d7c532d0efb387ba",
-   "title": "Full steam ahead for Xpeng as it expands network, lineup and resolves open TrueEV cases",
-   "source": "CarExpert",
-   "t": "2026-10-26T22:00:00+00:00",
-   "competitors": [
-    "xpeng-g9l"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "37c27ec512d23c97",
-   "title": "Denza Z9 GT delayed, electric shooting brake launch pushed to 2027",
-   "source": "CarExpert",
-   "t": "2026-10-26T21:15:00+00:00",
-   "competitors": [
-    "denza-z9gt"
-   ]
-  },
-  {
-   "kind": "competitor_offer",
-   "id": "9c17ca6e0e68d5e3",
-   "title": "Polestar defends lacklustre sales during rocketing EV uptake",
-   "source": "CarExpert",
-   "t": "2026-10-26T20:30:00+00:00",
-   "competitors": [
-    "polestar-2"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 66,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 36,
+   "count": 35,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1027,7 +1018,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1037,12 +1028,12 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 80,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 45,
+   "count": 44,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1052,7 +1043,7 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 46,
+   "count": 64,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1062,7 +1053,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 39,
+   "count": 47,
    "note": ""
   },
   "carexpert": {
@@ -1141,24 +1132,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
