@@ -8,7 +8,7 @@
   "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
   "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
   "author": "",
-  "published": "2026-10-28T18:02:02+00:00",
+  "published": "2026-10-28T22:17:41+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -29,6 +29,109 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "8ddd81e27cb5a6cd",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/2026-mg-u9-ev-review-can-chinas-new-electric-ute-beat-the-hilux-ranger-byd-shark-and-gwm-cannon/",
+  "title": "2026 MG U9 EV Review: Can China’s new electric ute beat the Hilux, Ranger, BYD Shark and GWM Cannon?",
+  "text": "The 2026 MG U9 EV electric ute brings 325kW, 3500kg towing and a 236-litre frunk. But modest range and payload limit the $78,990 dual-cab. Our review. The post 2026 MG U9 EV Review: Can China’s new electric ute beat the Hilux, Ranger, BYD Shark and GWM Cannon? appeared first on EV Central .",
+  "author": "Toby Hagon",
+  "published": "2026-10-28T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T23:58:25+00:00"
+ },
+ {
+  "id": "56ac7f4aa6fc6e39",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVhZV0wydGxxT0d0dGVZbnNTTXNtZWlXcWdqVzdqTm5kd2syc2RFY2E2a1VjUTBhN3I4RzJ5NEZRX2Vmb3V4XzIwOUVtZjQ4N3ZUd21DRXFTYUtxQXRjODBfSGhFdzJBejJrTDRsMjhEaWdDMDIxUHhOY1FPSFdYSlZ4dkZXQ2tQ?oc=5",
+  "title": "ZEEKER 7X Challenges Model Y With Rear Refrigerator - 조선일보",
+  "text": "ZEEKER 7X Challenges Model Y With Rear Refrigerator 조선일보",
+  "author": "",
+  "published": "2026-10-28T21:05:32+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T23:58:25+00:00"
+ },
+ {
+  "id": "246444eaad4db355",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · la Repubblica",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOG01cUxqZDc3SWlxT1B5bnNHcFJNakdXeGN6dlFfbWVqeEVoMmJVOFpKTW11a1A4LWhWZ0h5alB0UDNRb3NsUEhrOG1CWFJYV3ZSSm8yYWRXTzRTam5FX250RzVkcWhTMmZhYnBveThjSkM0RmM2ZWZ6SmNjN1lBaWpnRjJZbWZpc216Q1NtVkphOERLVDV5aW1FRWVCZGp6LVpNUVZ1dHptLVBvX2tGd2wxZHZLRVNPTDM2UUEtejdGNUQwbmhVNjlkQUhfcmd2T0JfOGVaaUpNbTdwMkpNSmNB?oc=5",
+  "title": "Zeekr unveils its flagship 9X at the Macro – a luxury plug-in hybrid SUV with 897 Cv - la Repubblica",
+  "text": "Zeekr unveils its flagship 9X at the Macro – a luxury plug-in hybrid SUV with 897 Cv la Repubblica",
+  "author": "",
+  "published": "2026-10-28T18:43:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T23:58:25+00:00"
  },
  {
   "id": "55d3d8e50661a9fc",
@@ -122,6 +225,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "8a6378274b4195f0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-28T09:33:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "ce243dbac0594d56",
@@ -498,6 +632,35 @@
   "first_seen": "2026-10-28T07:20:56+00:00"
  },
  {
+  "id": "6a2a9f751ac2e5c4",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Unisba Media",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RV1RiNVFadzRHWEZVczRldzh3ZWk0MjU3dkdLd0VaNllLNUkzUnJQaVNiQWFjVmtuVUxzRDNUZWVOaEVNQ3FZXzdoNDhsYmhjVGJWSUM4Y1VKa0QyVmptWVhTMzI2dw?oc=5",
+  "title": "Ray J Says Hell Would Be Exciting & Lit | This Is Sad Zeekr (5rzfs2v4Ca) - Unisba Media",
+  "text": "Ray J Says Hell Would Be Exciting & Lit | This Is Sad Zeekr (5rzfs2v4Ca) Unisba Media",
+  "author": "",
+  "published": "2026-10-28T01:15:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T23:58:25+00:00"
+ },
+ {
   "id": "7196fcab84710464",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -736,6 +899,41 @@
   "first_seen": "2026-10-27T18:13:55+00:00"
  },
  {
+  "id": "3f47cb327af0bc91",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlZpY0pwZU1rMXhBVkRYQWZXSFJ3czFqOGJMY3RyQmNSeHNFSTFUZGkxMlEzTkdpVFg3UHlEYTNvdFJibHRhVVhSazh1b1RCQXpDX0tyakRsNUhjZ0tEZWNiUHFwa2Jua2VLeGR0R3VwY2ZGQ3VCalJBUlB3ZUE1U3J1LWljYVNlU0FXaFhMV2hYQmhHUE1WVEluZnlwM1R5R1BLSWMzeHB2LWlHQVVZVFJQT3ZPbGtqcDJJSzhWeXdZZw?oc=5",
+  "title": "2026 Toyota RAV4 hybrid put on notice as Chery reveals Omoda X concept that will spawn tough looking SUV - CarsGuide",
+  "text": "2026 Toyota RAV4 hybrid put on notice as Chery reveals Omoda X concept that will spawn tough looking SUV CarsGuide",
+  "author": "",
+  "published": "2026-10-27T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-28T23:58:25+00:00"
+ },
+ {
   "id": "3ad4305ff04d664e",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -881,6 +1079,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T12:36:33+00:00"
+ },
+ {
+  "id": "7cc5bd1af5d159a7",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · OneShift by Carousell",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlpkVjloSkxmeDIxdHkxUU04M2RwWGIxdXBTU01WaXhUWkprM3d1VVFRUUhWMDV1VVI1Y2tkbjUxWHhmaWdFa0ZFY2hfR3ZnUnNZbFBjUmp6OENnSDBFaEIzRHpVU29KakFOemxjSlJpM0l2TmdsSDhGdXZxR3NsbDZIdG9yQ2gyc3IwQmZObnpGZDA?oc=5",
+  "title": "Zeekr 7X Long Range Review: The Sweet Spot - OneShift by Carousell",
+  "text": "Zeekr 7X Long Range Review: The Sweet Spot OneShift by Carousell",
+  "author": "",
+  "published": "2026-10-27T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T23:58:25+00:00"
  },
  {
   "id": "a03a3cf2fa74a446",
@@ -1928,21 +2159,26 @@
  {
   "id": "36b6bc6c0c756e02",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
-  "title": "Shop Tesla Model 3 Cars - CarsGuide",
-  "text": "Shop Tesla Model 3 Cars CarsGuide",
+  "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
+  "text": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars CarsGuide",
   "author": "",
   "published": "2026-10-26T01:19:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-3"
+   "tesla-model-y",
+   "geely-ex5",
+   "tesla-model-3",
+   "byd-seal"
   ],
   "brands": [
-   "tesla"
+   "byd",
+   "tesla",
+   "geely"
   ],
   "categories": [],
   "sentiment": {
@@ -1952,7 +2188,9 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [],
+  "signals": [
+   "offer"
+  ],
   "scope": "competitor",
   "au": true,
   "extra": {},
@@ -2911,7 +3149,7 @@
  {
   "id": "64a270de22d96250",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1poUTlUbTZlbkpTLXNidkx1VVFmMjludy13MnVPMU5iS3l4M3prLV9pRVIxdWpQY0M0aDY3Qkxpem16OTBCbnFMZmh4OHF5eDlEUWtTb2RUZTh3WmctaGpnWFF2Y1k0UlZEZTliUjlwTEFYUkpmelpEMWdjWHFUNW5SVkdIRVpSQ0wySGZwRmt3em1uNnhseXNTUmdRbl9ZdjZ2WTk2T0RWd2JNeWNnakY5Vk5WcXFETnc?oc=5",
   "title": "Affordable Honda electric SUV shapes up to battle 2026 BYD Atto 2, Kia EV3 - CarsGuide",
@@ -2937,7 +3175,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-24T23:35:26+00:00"
@@ -4432,7 +4670,7 @@
  {
   "id": "d4cfe1f3d89f32fb",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0JCUFVlb2lsZElkLXlzNGJJZGNmRGFKa0dhTmcwMERIS0VJc3Z6ODdEbjNyUDhvRzBlSTVBTUdLYVZhNEtwbDNZUGFNd0JWRFpBSE1NTkJGU2dWUk5GQUJWZW1YT29raTVhQ0tZYkhYNnNnMGlRR1JkbUJ0Sk9QRmVJVXpYc3NuUDJpNXNLLVVTR09BcFZTQzZROHBsQ0kwTGNIZDlYbjFKV3RidnNCMkJjaXVENEJCeGNtUFNVZ2hqRjBUX3c?oc=5",
   "title": "2027 Hyundai Tucson priced: Key new hybrid-only Toyota RAV4 and Nissan X-Trail rival fully detailed at overseas launch - CarsGuide",
@@ -4461,7 +4699,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
@@ -5294,7 +5532,7 @@
  {
   "id": "751f25059a37cf5d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1VkVWRjRWFfNnlXcTJaWGZkd3hhRmFpUEN6TloxanZkWXRlQk5aNkZ2TVFUajM2UTE5WDQybXIxMGpFN1ZXaEVlZ1V0Q3VaUmFKbnQwek5fUHhITVFsLXdNZ2xDZF9xWVotSHNNNklNbGFsRWJRQXhpWVF5Y1dINWdTaHp2cE54V1k2YUtqMFpWdThIUjhkWlA0N2oxYWtXZTN4SWVn?oc=5",
   "title": "Chery Exlantix targets Zeekr with 'friendly prices' - Carsales",
@@ -13797,37 +14035,6 @@
    "launch"
   ],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T01:44:32+00:00"
- },
- {
-  "id": "8a6378274b4195f0",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-14T23:46:45+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T01:44:32+00:00"
@@ -26079,10 +26286,10 @@
   "id": "db043b9f86b9d2ca",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRDV3aWd5bndWUEZkUUttVjJoVF81MFZYTmhwcHpybEdnbWtSTkxuNUdWUzlBdU5FTmpSOUh3OTl5SEk2cVpVaHJMQ2RnX1FKQU5ndThVUWxtai1WRW1PT2QzRDZZWjBCaFNB?oc=5",
-  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range - thebeep.com",
-  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range thebeep.com",
+  "title": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range - The Beep",
+  "text": "Zeekr 7GT electric wagon confirmed for Australia with up to 670km range The Beep",
   "author": "",
   "published": "2026-09-18T01:15:33+00:00",
   "rating": null,
@@ -28885,10 +29092,10 @@
   "id": "7bce3ce3c44d4cb2",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0tkUGZPOFA3ajZuUkFCVU9lT0hncVdUc1BIeXVWbGcydXM0elYxaEprZEczNUNNNGw0YmhXSGxaVExVb3lLbjIxb3N4bWZKbU9RZ0J3RTQ1RVBpUGJYTHl2MW9qdFhLelN1RkhyZG1Mb051MXFrTTJIU0Joci1LOElHdWp5WVdZZU5HU3pxNDBEUWI1?oc=5",
-  "title": "2026 Zeekr X gets more power, faster charging and more kit for under $50K - thebeep.com",
-  "text": "2026 Zeekr X gets more power, faster charging and more kit for under $50K thebeep.com",
+  "title": "2026 Zeekr X gets more power, faster charging and more kit for under $50K - The Beep",
+  "text": "2026 Zeekr X gets more power, faster charging and more kit for under $50K The Beep",
   "author": "",
   "published": "2026-09-04T00:32:08+00:00",
   "rating": null,
@@ -28989,10 +29196,10 @@
   "id": "14adb2269d468b1f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcGdRRlNjUWpaMzVRSnJiX2FrN0I3Nk55MTZBWkt0NWhmYllFaUdYMHA3QWNHTHF2Z0JkN201UXRnandjTFgweDU1OGk5U0NaU1FubmYtX0daWXQxX29nNjgtdF9HNlRsYlRZZGcwNHFENXV6NFE?oc=5",
-  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - thebeep.com",
-  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price thebeep.com",
+  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - The Beep",
+  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price The Beep",
   "author": "",
   "published": "2026-09-03T17:53:55+00:00",
   "rating": null,
