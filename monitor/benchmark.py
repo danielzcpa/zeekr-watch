@@ -105,7 +105,7 @@ def beep_prices():
     for m, out, err in results:
         key = m["slug"]
         rec = store["models"].setdefault(key, {"label": m["label"], "group": m["group"], "zeekr": m.get("zeekr"), "cid": m.get("cid"), "variants": {}})
-        rec.update({"label": m["label"], "group": m["group"], "zeekr": m.get("zeekr"), "cid": m.get("cid")})
+        rec.update({"label": m["label"], "label_en": m.get("label_en", m["label"]), "group": m["group"], "zeekr": m.get("zeekr"), "cid": m.get("cid")})
         if out is None:
             rec["last_error"] = err
             statuses["beep-" + key] = _st(False, 0, err or "")

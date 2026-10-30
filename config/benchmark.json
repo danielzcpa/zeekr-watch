@@ -26,6 +26,7 @@
     {
       "slug": "mercedes-benz/eqa-suv",
       "label": "奔驰 EQA",
+      "label_en": "Mercedes-Benz EQA",
       "group": "german",
       "zeekr": "7X",
       "cid": "mb-eqa"
@@ -33,6 +34,7 @@
     {
       "slug": "mercedes-benz/cla-coupe",
       "label": "奔驰 CLA（新一代）",
+      "label_en": "Mercedes-Benz CLA (new generation)",
       "group": "german",
       "zeekr": "7GT",
       "cid": "mb-cla-ev"
@@ -40,6 +42,7 @@
     {
       "slug": "mercedes-benz/glc-suv",
       "label": "奔驰 GLC",
+      "label_en": "Mercedes-Benz GLC",
       "group": "german",
       "zeekr": "7X",
       "cid": "mb-glc"
@@ -47,6 +50,7 @@
     {
       "slug": "bmw/ix1",
       "label": "宝马 iX1",
+      "label_en": "BMW iX1",
       "group": "german",
       "zeekr": "7X",
       "cid": "bmw-ix1"
@@ -54,6 +58,7 @@
     {
       "slug": "bmw/ix2",
       "label": "宝马 iX2",
+      "label_en": "BMW iX2",
       "group": "german",
       "zeekr": "7X",
       "cid": "bmw-ix1"
@@ -61,6 +66,7 @@
     {
       "slug": "bmw/i4-gran-coupe",
       "label": "宝马 i4",
+      "label_en": "BMW i4",
       "group": "german",
       "zeekr": "7GT",
       "cid": "bmw-i4"
@@ -68,6 +74,7 @@
     {
       "slug": "audi/q4-e-tron",
       "label": "奥迪 Q4 e-tron",
+      "label_en": "Audi Q4 e-tron",
       "group": "german",
       "zeekr": "7X",
       "cid": "audi-q4"
@@ -75,6 +82,7 @@
     {
       "slug": "audi/q4-sportback-e-tron",
       "label": "奥迪 Q4 Sportback e-tron",
+      "label_en": "Audi Q4 Sportback e-tron",
       "group": "german",
       "zeekr": "7X",
       "cid": "audi-q4"
@@ -82,6 +90,7 @@
     {
       "slug": "audi/q6-e-tron",
       "label": "奥迪 Q6 e-tron",
+      "label_en": "Audi Q6 e-tron",
       "group": "german",
       "zeekr": "7X",
       "cid": "audi-q6"
@@ -89,6 +98,7 @@
     {
       "slug": "audi/a5-avant",
       "label": "奥迪 A5 Avant",
+      "label_en": "Audi A5 Avant",
       "group": "german",
       "zeekr": "7GT"
     },
@@ -221,8 +231,11 @@
   ],
   "brand_zh": {
     "mercedes-benz": "奔驰",
+    "mercedes-benz_en": "Mercedes-Benz",
     "bmw": "宝马",
+    "bmw_en": "BMW",
     "audi": "奥迪",
+    "audi_en": "Audi",
     "tesla": "Tesla",
     "byd": "BYD",
     "xpeng": "Xpeng",

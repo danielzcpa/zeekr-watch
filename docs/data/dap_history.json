@@ -50,8 +50,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "ZEEKR 7X"
   },
   "zeekr/x": {
    "label": "ZEEKR X",
@@ -89,8 +90,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "ZEEKR X"
   },
   "zeekr/009": {
    "label": "ZEEKR 009",
@@ -142,8 +144,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "ZEEKR 009"
   },
   "mercedes-benz/eqa-suv": {
    "label": "奔驰 EQA",
@@ -167,8 +170,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Mercedes-Benz EQA"
   },
   "mercedes-benz/cla-coupe": {
    "label": "奔驰 CLA（新一代）",
@@ -248,8 +252,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Mercedes-Benz CLA (new generation)"
   },
   "mercedes-benz/glc-suv": {
    "label": "奔驰 GLC",
@@ -329,8 +334,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Mercedes-Benz GLC"
   },
   "bmw/ix1": {
    "label": "宝马 iX1",
@@ -354,8 +360,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "BMW iX1"
   },
   "bmw/ix2": {
    "label": "宝马 iX2",
@@ -379,8 +386,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "BMW iX2"
   },
   "bmw/i4-gran-coupe": {
    "label": "宝马 i4",
@@ -404,8 +412,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "BMW i4"
   },
   "audi/q4-e-tron": {
    "label": "奥迪 Q4 e-tron",
@@ -443,8 +452,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Audi Q4 e-tron"
   },
   "audi/q4-sportback-e-tron": {
    "label": "奥迪 Q4 Sportback e-tron",
@@ -482,8 +492,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Audi Q4 Sportback e-tron"
   },
   "audi/q6-e-tron": {
    "label": "奥迪 Q6 e-tron",
@@ -521,8 +532,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Audi Q6 e-tron"
   },
   "audi/a5-avant": {
    "label": "奥迪 A5 Avant",
@@ -588,8 +600,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Audi A5 Avant"
   },
   "tesla/model-y": {
    "label": "Tesla Model Y",
@@ -655,8 +668,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Tesla Model Y"
   },
   "byd/sealion-7": {
    "label": "BYD Sealion 7",
@@ -694,8 +708,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "BYD Sealion 7"
   },
   "xpeng/g6": {
    "label": "Xpeng G6",
@@ -747,8 +762,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Xpeng G6"
   },
   "kia/ev5": {
    "label": "Kia EV5",
@@ -814,8 +830,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Kia EV5"
   },
   "smart/5": {
    "label": "smart #5",
@@ -867,8 +884,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "smart #5"
   },
   "hyundai/elexio": {
    "label": "Hyundai Elexio",
@@ -906,8 +924,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Hyundai Elexio"
   },
   "polestar/4": {
    "label": "Polestar 4",
@@ -973,8 +992,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Polestar 4"
   },
   "volvo/ex30": {
    "label": "Volvo EX30",
@@ -1026,8 +1046,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Volvo EX30"
   },
   "smart/1": {
    "label": "smart #1",
@@ -1079,8 +1100,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "smart #1"
   },
   "tesla/model-3": {
    "label": "Tesla Model 3",
@@ -1146,8 +1168,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Tesla Model 3"
   },
   "byd/seal": {
    "label": "BYD Seal",
@@ -1185,8 +1208,9 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "BYD Seal"
   },
   "polestar/2": {
    "label": "Polestar 2",
@@ -1238,9 +1262,10 @@
     }
    },
    "last_error": null,
-   "checked": "2026-10-29T22:59:10+00:00",
-   "via": "mirror"
+   "checked": "2026-10-30T00:12:51+00:00",
+   "via": "direct",
+   "label_en": "Polestar 2"
   }
  },
- "updated": "2026-10-29T22:59:10+00:00"
+ "updated": "2026-10-30T00:12:51+00:00"
 }

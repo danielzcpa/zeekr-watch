@@ -12,6 +12,7 @@
    ],
    "tier": "core",
    "body": "小型高端SUV",
+   "body_en": "Small premium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024-02",
@@ -39,15 +40,20 @@
     }
    ],
    "price_note": "2026-04-01 降价 $7k–$11.3k",
+   "price_note_en": "2026-04-01 price cut of $7k–$11.3k",
    "offers": [
     {
      "text": "EX30 Plus Single Motor ER $55,990 drive-away（全国）",
+     "text_en": "EX30 Plus Single Motor ER $55,990 drive-away (national)",
      "valid": "2026-05-01 至 2026-10-31 订购并交付",
+     "valid_en": "2026-05-01 to 2026-10-31, order and take delivery",
      "src": "https://www.volvocars.com/au/offers/"
     },
     {
      "text": "符合条件 EV（MSRP < $91,387）标准贷款利率减 1.00% p.a.",
+     "text_en": "1.00% p.a. off the standard loan rate on eligible EVs (MSRP < $91,387)",
      "valid": "限时",
+     "valid_en": "Limited time",
      "src": "https://www.volvocars.com/au/offers/"
     }
    ],
@@ -68,10 +74,12 @@
    ],
    "tier": "core",
    "body": "小型高端SUV",
+   "body_en": "Small premium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024-11",
    "group_flag": "Geely 合资（SEA 平台同源）",
+   "group_flag_en": "Geely joint venture (shared SEA platform)",
    "variants": [
     {
      "name": "Pro+",
@@ -96,9 +104,11 @@
     }
    ],
    "price_note": "2026-09-12 宣布降价 $4k–$5k（原 $54,900/$58,900/$67,900）",
+   "price_note_en": "2026-09-12 price cut of $4k–$5k announced (previously $54,900/$58,900/$67,900)",
    "offers": [
     {
      "text": "暂无全国性现金/金融政策（Zecar 条目均已过期）",
+     "text_en": "No national cash or finance offer at present (all Zecar entries expired)",
      "valid": "",
      "src": "https://zecar.com/offers-and-deals/smart"
     }
@@ -120,10 +130,12 @@
    ],
    "tier": "core",
    "body": "小型高端轿跑SUV",
+   "body_en": "Small premium coupe SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024-11",
    "group_flag": "Geely 合资",
+   "group_flag_en": "Geely joint venture",
    "variants": [
     {
      "name": "Pro+",
@@ -148,6 +160,7 @@
     }
    ],
    "price_note": "2026-09 降价 $5k",
+   "price_note_en": "2026-09 price cut of $5k",
    "offers": [],
    "model_url": "https://www.smart.com.au/",
    "sources": [
@@ -165,6 +178,7 @@
    ],
    "tier": "core",
    "body": "小型高端跨界车",
+   "body_en": "Small premium crossover",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-02",
@@ -187,7 +201,9 @@
    "offers": [
     {
      "text": "MINI Flex 贷款 4.99% p.a. 比较利率（36 个月，20% 首付）",
+     "text_en": "MINI Flex finance at 4.99% p.a. comparison rate (36 months, 20% deposit)",
      "valid": "2026-10-01 至 2026-12-31 订购并交付",
+     "valid_en": "2026-10-01 to 2026-12-31, order and take delivery",
      "src": "https://www.mini.com.au/en_AU/home/offers.html"
     }
    ],
@@ -208,6 +224,7 @@
    ],
    "tier": "reference",
    "body": "小型/中型高端SUV",
+   "body_en": "Small/medium premium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024",
@@ -237,7 +254,9 @@
    "offers": [
     {
      "text": "MINI Flex 贷款 4.99% p.a. 比较利率",
+     "text_en": "MINI Flex finance at 4.99% p.a. comparison rate",
      "valid": "2026-10-01 至 2026-12-31",
+     "valid_en": "2026-10-01 to 2026-12-31",
      "src": "https://www.mini.com.au/en_AU/home/offers.html"
     }
    ],
@@ -258,6 +277,7 @@
    ],
    "tier": "core",
    "body": "小型SUV",
+   "body_en": "Small SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-03",
@@ -301,7 +321,9 @@
    "offers": [
     {
      "text": "1.88% p.a. 比较利率（Kia Finance，≤36 个月，20% 首付）或 $1,000 现金返还",
+     "text_en": "1.88% p.a. comparison rate (Kia Finance, up to 36 months, 20% deposit) or $1,000 cashback",
      "valid": "2026-09-01 至 2026-10-31 购买并交付",
+     "valid_en": "2026-09-01 to 2026-10-31, purchase and take delivery",
      "src": "https://www.kia.com/au/offers.html"
     }
    ],
@@ -322,6 +344,7 @@
    ],
    "tier": "reference",
    "body": "小型SUV",
+   "body_en": "Small SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2023",
@@ -344,6 +367,7 @@
    "offers": [
     {
      "text": "2026-10 暂无全国性政策（上一轮DAP活动 $45,990–$64,990 已于 2026-06-30 结束）",
+     "text_en": "No national offer as of 2026-10 (previous DAP campaign $45,990–$64,990 ended 2026-06-30)",
      "valid": "",
      "src": "https://zecar.com/reviews/hyundai-ev-deals-kona-ioniq5-elexio-inster-2026"
     }
@@ -365,6 +389,7 @@
    ],
    "tier": "reference",
    "body": "小型SUV",
+   "body_en": "Small SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2022",
@@ -385,10 +410,13 @@
     }
    ],
    "price_note": "Evo 改款 2026-08-12 定价，2026-09 交付",
+   "price_note_en": "Evo facelift priced 2026-08-12, deliveries 2026-09",
    "offers": [
     {
      "text": "不在 BYD 10–12 月 $4,000 现金返还范围内；Amber V2G 计划 6% 折扣",
+     "text_en": "Not included in BYD's Oct–Dec $4,000 cashback; 6% discount under the Amber V2G program",
      "valid": "至 2026-12-31",
+     "valid_en": "To 2026-12-31",
      "src": "https://zecar.com/offers-and-deals/byd"
     }
    ],
@@ -409,6 +437,7 @@
    ],
    "tier": "reference",
    "body": "小型高端SUV",
+   "body_en": "Small premium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2021",
@@ -439,6 +468,7 @@
    ],
    "tier": "core",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2022",
@@ -459,6 +489,7 @@
     },
     {
      "name": "Model Y L Premium AWD (6 座)",
+     "name_en": "Model Y L Premium AWD (6 seats)",
      "drive": "AWD",
      "kwh": null,
      "price": 74900,
@@ -473,19 +504,25 @@
     }
    ],
    "price_note": "Performance 2026-10-01 由 $89,900 降至 $84,900",
+   "price_note_en": "Performance cut from $89,900 to $84,900 on 2026-10-01",
    "offers": [
     {
      "text": "现车约 5% 折扣，Model Y Premium RWD DAP最高减 $2,950",
+     "text_en": "About 5% off in-stock vehicles; Model Y Premium RWD DAP reduced by up to $2,950",
      "valid": "至 2026-10-31",
+     "valid_en": "To 2026-10-31",
      "src": "https://thedriven.io/2026/10/05/tesla-offers-almost-3000-off-model-y-inventory-in-yet-another-price-cut-to-attract-new-sales/"
     },
     {
      "text": "置换补贴 $2,000（私人买家）",
+     "text_en": "$2,000 trade-in bonus (private buyers)",
      "valid": "至 2026-12-31",
+     "valid_en": "To 2026-12-31",
      "src": "https://zecar.com/offers-and-deals/tesla"
     },
     {
      "text": "2026-01-01 起交付的 Model 3/Y 享 5 年不限公里保修",
+     "text_en": "5-year unlimited-km warranty on Model 3/Y delivered from 2026-01-01",
      "valid": "",
      "src": "https://www.tesla.com/en_au/modely"
     }
@@ -502,11 +539,13 @@
    "id": "xpeng-g6",
    "brand": "Xpeng",
    "model": "G6 (2026 改款)",
+   "model_en": "G6 (2026 facelift)",
    "zeekr": [
     "7X"
    ],
    "tier": "core",
    "body": "中型轿跑SUV",
+   "body_en": "Medium coupe SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-06",
@@ -543,7 +582,9 @@
    "offers": [
     {
      "text": "2.88% p.a. 固定/比较利率，零首付、无尾款，≤3 年，全系 G6",
+     "text_en": "2.88% p.a. fixed/comparison rate, no deposit, no balloon, up to 3 years, all G6 grades",
      "valid": "2026-12-31 前申请并放款",
+     "valid_en": "Apply and settle by 2026-12-31",
      "src": "https://zecar.com/offers-and-deals/xpeng"
     }
    ],
@@ -564,6 +605,7 @@
    ],
    "tier": "core",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-02",
@@ -586,7 +628,9 @@
    "offers": [
     {
      "text": "$4,000 现金返还（实际 $50,990 / $59,990）或 novated lease 买家 6% 折扣",
+     "text_en": "$4,000 cashback (effective $50,990 / $59,990) or 6% discount for novated lease buyers",
      "valid": "2026-10-01 至 2026-12-21 下单，2026-12-31 前交付",
+     "valid_en": "Order 2026-10-01 to 2026-12-21, deliver by 2026-12-31",
      "src": "https://zecar.com/offers-and-deals/byd"
     }
    ],
@@ -607,6 +651,7 @@
    ],
    "tier": "core",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024-10",
@@ -643,7 +688,9 @@
    "offers": [
     {
      "text": "1.88% p.a. 比较利率（≤36 个月，20% 首付）或 $2,000 现金返还",
+     "text_en": "1.88% p.a. comparison rate (up to 36 months, 20% deposit) or $2,000 cashback",
      "valid": "2026-09-01 至 2026-10-31 购买并交付",
+     "valid_en": "2026-09-01 to 2026-10-31, purchase and take delivery",
      "src": "https://www.kia.com/au/offers.html"
     }
    ],
@@ -664,6 +711,7 @@
    ],
    "tier": "core",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2026-02",
@@ -686,6 +734,7 @@
    "offers": [
     {
      "text": "暂无全国性政策（上一轮 Elite $59,990 DAP已于 2026-05-31 结束）",
+     "text_en": "No national offer at present (previous Elite $59,990 DAP ended 2026-05-31)",
      "valid": "",
      "src": "https://zecar.com/offers-and-deals/hyundai"
     }
@@ -707,10 +756,12 @@
    ],
    "tier": "core",
    "body": "中型高端SUV",
+   "body_en": "Medium premium SUV",
    "powertrain": "BEV",
    "status": "launching",
    "au_launch": "2026-11",
    "group_flag": "Geely 合资",
+   "group_flag_en": "Geely joint venture",
    "variants": [
     {
      "name": "Pro+",
@@ -737,7 +788,9 @@
    "offers": [
     {
      "text": "前 60 台零售订单赠 7.4kW 壁挂充电桩（$1,990）",
+     "text_en": "Free 7.4kW wall box ($1,990) for the first 60 retail orders",
      "valid": "2026-09-18 至 2026-12-31 订购并交付",
+     "valid_en": "2026-09-18 to 2026-12-31, order and take delivery",
      "src": "https://zecar.com/offers-and-deals/smart"
     }
    ],
@@ -757,10 +810,12 @@
    ],
    "tier": "core",
    "body": "中大型高端轿跑SUV",
+   "body_en": "Mid-to-large premium coupe SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024-11",
    "group_flag": "Geely 集团",
+   "group_flag_en": "Geely Group",
    "variants": [
     {
      "name": "Rear Motor",
@@ -785,10 +840,13 @@
     }
    ],
    "price_note": "2026-09-09 降价 $4.6k",
+   "price_note_en": "2026-09-09 price cut of $4.6k",
    "offers": [
     {
      "text": "预配置 MY27 Polestar 4 coupé 0.80% p.a. 比较利率（10% 首付，36 个月）",
+     "text_en": "0.80% p.a. comparison rate on pre-configured MY27 Polestar 4 coupé (10% deposit, 36 months)",
      "valid": "2026-10-01 至 2026-11-30 订购，2026-12-31 前交付",
+     "valid_en": "Order 2026-10-01 to 2026-11-30, deliver by 2026-12-31",
      "src": "https://www.polestar.com/au/offers/private/polestar-4-coupe/"
     }
    ],
@@ -809,6 +867,7 @@
    ],
    "tier": "reference",
    "body": "小中型高端SUV",
+   "body_en": "Small-to-medium premium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2021",
@@ -829,9 +888,11 @@
     }
    ],
    "price_note": "2026-04-01 降价 $7k",
+   "price_note_en": "2026-04-01 price cut of $7k",
    "offers": [
     {
      "text": "符合条件 EV 贷款利率减 1.00% p.a.；Volvo Showcase 10 月零售商活动",
+     "text_en": "1.00% p.a. off the loan rate on eligible EVs; Volvo Showcase October retailer event",
      "valid": "2026-10",
      "src": "https://www.volvocars.com/au/offers/"
     }
@@ -848,11 +909,13 @@
    "id": "kia-ev6",
    "brand": "Kia",
    "model": "EV6 (2026 改款)",
+   "model_en": "EV6 (2026 facelift)",
    "zeekr": [
     "7X"
    ],
    "tier": "reference",
    "body": "中型跨界车",
+   "body_en": "Medium crossover",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2022",
@@ -897,6 +960,7 @@
    ],
    "tier": "reference",
    "body": "中型跨界车",
+   "body_en": "Medium crossover",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2021",
@@ -926,7 +990,9 @@
    "offers": [
     {
      "text": "DAP $70,990 (RWD) / $75,990 (Elite) / $86,990 (Premium N Line) + 3.90% p.a. 比较利率",
+     "text_en": "DAP $70,990 (RWD) / $75,990 (Elite) / $86,990 (Premium N Line) + 3.90% p.a. comparison rate",
      "valid": "2026-10-01 至 2026-12-31 订购并交付",
+     "valid_en": "2026-10-01 to 2026-12-31, order and take delivery",
      "src": "https://zecar.com/offers-and-deals/hyundai-ioniq-5-driveaway-finance-offer-q4-2026"
     }
    ],
@@ -947,6 +1013,7 @@
    ],
    "tier": "reference",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-01",
@@ -962,7 +1029,9 @@
    "offers": [
     {
      "text": "现车DAP $46,990 (19in) / $47,990 (20in)",
+     "text_en": "In-stock DAP $46,990 (19in) / $47,990 (20in)",
      "valid": "2026-03-24 起，未注明截止",
+     "valid_en": "From 2026-03-24, no end date stated",
      "src": "https://thebeep.com.au/offers-and-deals/deepal"
     }
    ],
@@ -982,6 +1051,7 @@
    ],
    "tier": "reference",
    "body": "小中型高端SUV",
+   "body_en": "Small-to-medium premium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2023",
@@ -1002,6 +1072,7 @@
     }
    ],
    "price_note": "2026-03-31 降价；eDrive20 停售",
+   "price_note_en": "2026-03-31 price cut; eDrive20 discontinued",
    "offers": [],
    "model_url": "https://www.bmw.com.au/en-au/all-models/x-series/ix1/overview.html",
    "offers_url": "https://www.bmw.com.au/en-au/offers-and-services/promotions.html",
@@ -1020,6 +1091,7 @@
    ],
    "tier": "reference",
    "body": "小中型高端SUV",
+   "body_en": "Small-to-medium premium SUV",
    "powertrain": "BEV",
    "status": "launching",
    "au_launch": "2027-H1",
@@ -1042,7 +1114,9 @@
    "offers": [
     {
      "text": "2026-12-31 前订购 2027 款享 6 年/9 万公里保养计划",
+     "text_en": "6-year/90,000 km service plan on 2027 model orders placed by 2026-12-31",
      "valid": "至 2026-12-31",
+     "valid_en": "To 2026-12-31",
      "src": "https://www.carsales.com.au/editorial/details/audi-q4-e-tron-prices-slashed-by-more-than-18000-152814/"
     }
    ],
@@ -1063,6 +1137,7 @@
    ],
    "tier": "reference",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2024-02",
@@ -1085,7 +1160,9 @@
    "offers": [
     {
      "text": "赠 7kW 家用充电桩或 12 个月 Chargefox 订阅；novated lease 折扣 $4,200/$6,800",
+     "text_en": "Free 7kW home charger or 12-month Chargefox subscription; novated lease discount $4,200/$6,800",
      "valid": "至 2026-12-31",
+     "valid_en": "To 2026-12-31",
      "src": "https://thebeep.com.au/offers-and-deals/toyota"
     }
    ],
@@ -1105,6 +1182,7 @@
    ],
    "tier": "reference",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2023",
@@ -1148,6 +1226,7 @@
    ],
    "tier": "reference",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-H2",
@@ -1191,10 +1270,12 @@
    ],
    "tier": "reference",
    "body": "中型SUV",
+   "body_en": "Medium SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-03",
    "group_flag": "同集团（GAA 自有）",
+   "group_flag_en": "Same group (GAA's own brand)",
    "variants": [
     {
      "name": "Complete",
@@ -1214,7 +1295,9 @@
    "offers": [
     {
      "text": "0.09% p.a. 比较利率（零首付、36 个月、无尾款）或 novated lease 6% 折扣",
+     "text_en": "0.09% p.a. comparison rate (no deposit, 36 months, no balloon) or 6% novated lease discount",
      "valid": "2026-10-31 前批准，2026-11-13 前放款",
+     "valid_en": "Approved by 2026-10-31, settled by 2026-11-13",
      "src": "https://zecar.com/offers-and-deals/geely-0-09-finance-ex5-ex2-starray-em-i-october-2026"
     }
    ],
@@ -1234,12 +1317,14 @@
    ],
    "tier": "core",
    "body": "中型轿车",
+   "body_en": "Medium sedan",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2019",
    "variants": [
     {
      "name": "RWD（2026-10-01 新入门）",
+     "name_en": "RWD (new entry grade from 2026-10-01)",
      "drive": "RWD",
      "kwh": 60,
      "price": 45900,
@@ -1270,12 +1355,16 @@
    "offers": [
     {
      "text": "现车 Model 3 DAP最高减 $2,750（ACT/TAS/VIC）",
+     "text_en": "In-stock Model 3 DAP reduced by up to $2,750 (ACT/TAS/VIC)",
      "valid": "未注明截止",
+     "valid_en": "No end date stated",
      "src": "https://thedriven.io/2026/10/10/tesla-lowers-in-stock-model-3-prices-by-2750/"
     },
     {
      "text": "置换补贴 $2,000",
+     "text_en": "$2,000 trade-in bonus",
      "valid": "至 2026-12-31",
+     "valid_en": "To 2026-12-31",
      "src": "https://zecar.com/offers-and-deals/tesla"
     }
    ],
@@ -1296,10 +1385,12 @@
    ],
    "tier": "core",
    "body": "掀背轿车",
+   "body_en": "Liftback sedan",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2021",
    "group_flag": "Geely 集团",
+   "group_flag_en": "Geely Group",
    "variants": [
     {
      "name": "Long Range Single Motor",
@@ -1326,7 +1417,9 @@
    "offers": [
     {
      "text": "部分预配置 Rear Motor 车型减 $5,000；novated $222/周起",
+     "text_en": "$5,000 off selected pre-configured Rear Motor vehicles; novated lease from $222/week",
      "valid": "2026-10-01 至 2026-12-31 订购，2027-01-31 前交付",
+     "valid_en": "Order 2026-10-01 to 2026-12-31, deliver by 2027-01-31",
      "src": "https://www.polestar.com/au/offers/private/polestar-2/"
     }
    ],
@@ -1347,6 +1440,7 @@
    ],
    "tier": "core",
    "body": "中型轿车",
+   "body_en": "Medium sedan",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2023-10",
@@ -1367,9 +1461,11 @@
     }
    ],
    "price_note": "Dynamic ($46,990) 2026-06-25 停售",
+   "price_note_en": "Dynamic ($46,990) discontinued 2026-06-25",
    "offers": [
     {
      "text": "不在 BYD 10–12 月 $4,000 返现范围；novated lease 6% 折扣",
+     "text_en": "Not included in BYD's Oct–Dec $4,000 cashback; 6% novated lease discount",
      "valid": "",
      "src": "https://zecar.com/offers-and-deals/byd"
     }
@@ -1391,6 +1487,7 @@
    ],
    "tier": "core",
    "body": "掀背轿车",
+   "body_en": "Liftback sedan",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025-09",
@@ -1420,7 +1517,9 @@
    "offers": [
     {
      "text": "$3,000 现金返还 + $500 配件补贴 → DAP $57,990 / $64,990 / $74,990",
+     "text_en": "$3,000 cashback + $500 accessories credit → DAP $57,990 / $64,990 / $74,990",
      "valid": "2026-10-01 至 2026-10-31 售出并交付",
+     "valid_en": "2026-10-01 to 2026-10-31, sold and delivered",
      "src": "https://mgmotor.com.au/offers"
     }
    ],
@@ -1436,11 +1535,13 @@
    "id": "kia-ev4",
    "brand": "Kia",
    "model": "EV4 轿车",
+   "model_en": "EV4 sedan",
    "zeekr": [
     "7GT"
    ],
    "tier": "reference",
    "body": "小中型轿车",
+   "body_en": "Small-to-medium sedan",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2026-01",
@@ -1470,7 +1571,9 @@
    "offers": [
     {
      "text": "EV4 Air DAP $52,990 起（私人买家）",
+     "text_en": "EV4 Air DAP from $52,990 (private buyers)",
      "valid": "至 2026-10-31",
+     "valid_en": "To 2026-10-31",
      "src": "https://www.kia.com/au/offers.html"
     }
    ],
@@ -1491,6 +1594,7 @@
    ],
    "tier": "reference",
    "body": "掀背轿车",
+   "body_en": "Liftback sedan",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2026-07",
@@ -1522,11 +1626,13 @@
    "id": "mb-cla-ev",
    "brand": "Mercedes-Benz",
    "model": "CLA electric（含 Shooting Brake）",
+   "model_en": "CLA electric (incl. Shooting Brake)",
    "zeekr": [
     "7GT"
    ],
    "tier": "core",
    "body": "轿车 / 猎装车",
+   "body_en": "Sedan / shooting brake",
    "powertrain": "BEV",
    "status": "launching",
    "au_launch": "2026-H2",
@@ -1572,6 +1678,7 @@
    ],
    "tier": "reference",
    "body": "四门轿跑",
+   "body_en": "Four-door coupe",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2022",
@@ -1601,9 +1708,11 @@
    ],
    "tier": "watch",
    "body": "猎装车",
+   "body_en": "Shooting brake",
    "powertrain": "BEV/PHEV",
    "status": "watch",
    "au_launch": "2026 年底前（预期）",
+   "au_launch_en": "By end of 2026 (expected)",
    "variants": [],
    "offers": [],
    "sources": [
@@ -1621,9 +1730,11 @@
    ],
    "tier": "watch",
    "body": "轿车",
+   "body_en": "Sedan",
    "powertrain": "BEV",
    "status": "watch",
    "au_launch": "Mona L03 2026 年底/2027 初；P7 2027",
+   "au_launch_en": "Mona L03 late 2026/early 2027; P7 2027",
    "variants": [],
    "offers": [],
    "sources": [
@@ -1641,12 +1752,14 @@
    ],
    "tier": "core",
    "body": "豪华MPV",
+   "body_en": "Luxury MPV",
    "powertrain": "HEV",
    "status": "on_sale",
    "au_launch": "2023-Q4",
    "variants": [
     {
      "name": "LM 350h Sports Luxury 2WD (7 座)",
+     "name_en": "LM 350h Sports Luxury 2WD (7 seats)",
      "drive": "FWD",
      "kwh": null,
      "price": 163520,
@@ -1654,6 +1767,7 @@
     },
     {
      "name": "LM 350h Sports Luxury AWD (7 座)",
+     "name_en": "LM 350h Sports Luxury AWD (7 seats)",
      "drive": "AWD",
      "kwh": null,
      "price": 168520,
@@ -1661,6 +1775,7 @@
     },
     {
      "name": "LM 500h Ultra Luxury (4 座)",
+     "name_en": "LM 500h Ultra Luxury (4 seats)",
      "drive": "AWD",
      "kwh": null,
      "price": 223520,
@@ -1670,6 +1785,7 @@
    "offers": [
     {
      "text": "无全国性政策（仅 Lexus Corporate Program）",
+     "text_en": "No national offer (Lexus Corporate Program only)",
      "valid": "",
      "src": "https://thebeep.com.au/offers-and-deals/lexus"
     }
@@ -1691,6 +1807,7 @@
    ],
    "tier": "core",
    "body": "豪华MPV 7 座",
+   "body_en": "Luxury MPV, 7 seats",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2026-03",
@@ -1713,6 +1830,7 @@
    "offers": [
     {
      "text": "2026-10 暂无 D9 全国性政策（Denza 仅 B5/B8 有金融政策）",
+     "text_en": "No national D9 offer as of 2026-10 (Denza finance offers cover B5/B8 only)",
      "valid": "",
      "src": "https://thebeep.com.au/offers-and-deals/denza"
     }
@@ -1734,6 +1852,7 @@
    ],
    "tier": "core",
    "body": "豪华MPV 7 座",
+   "body_en": "Luxury MPV, 7 seats",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2026-07",
@@ -1756,6 +1875,7 @@
    "offers": [
     {
      "text": "暂无；上市权益为 7 年保修、12 个月流量",
+     "text_en": "None at present; launch benefits are a 7-year warranty and 12 months of data",
      "valid": "",
      "src": "https://thebeep.com.au/offers-and-deals/xpeng"
     }
@@ -1776,6 +1896,7 @@
    ],
    "tier": "reference",
    "body": "豪华MPV",
+   "body_en": "Luxury MPV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2023",
@@ -1806,6 +1927,7 @@
    ],
    "tier": "reference",
    "body": "豪华MPV",
+   "body_en": "Luxury MPV",
    "powertrain": "ICE",
    "status": "on_sale",
    "au_launch": "2015",
@@ -1842,6 +1964,7 @@
    ],
    "tier": "reference",
    "body": "MPV 8 座",
+   "body_en": "MPV, 8 seats",
    "powertrain": "HEV",
    "status": "on_sale",
    "au_launch": "2024",
@@ -1871,7 +1994,9 @@
    "offers": [
     {
      "text": "Carnival Hybrid S DAP $59,990（私人买家）",
+     "text_en": "Carnival Hybrid S DAP $59,990 (private buyers)",
      "valid": "至 2026-10-31",
+     "valid_en": "To 2026-10-31",
      "src": "https://www.kia.com/au/offers.html"
     }
    ],
@@ -1892,12 +2017,14 @@
    ],
    "tier": "reference",
    "body": "MPV 7 座",
+   "body_en": "MPV, 7 seats",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025",
    "variants": [
     {
      "name": "Pro LWB 7 座",
+     "name_en": "Pro LWB 7 seats",
      "drive": "RWD",
      "kwh": 86,
      "price": 80990,
@@ -1914,6 +2041,7 @@
    "offers": [
     {
      "text": "DAP活动（Pro $84,990）有效期至 2026-04-30，当前状态待核实",
+     "text_en": "DAP campaign (Pro $84,990) valid to 2026-04-30; current status to be verified",
      "valid": "",
      "src": "https://thedriven.io/2026/02/03/volkswagen-announces-more-price-cuts-for-id-buzz-electric-vans-in-australia/"
     }
@@ -1934,6 +2062,7 @@
    ],
    "tier": "reference",
    "body": "豪华MPV 7 座",
+   "body_en": "Luxury MPV, 7 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2026-02",
@@ -1970,12 +2099,14 @@
    ],
    "tier": "watch",
    "body": "MPV 7/8 座",
+   "body_en": "MPV, 7/8 seats",
    "powertrain": "PHEV",
    "status": "launching",
    "au_launch": "2026-Q4",
    "variants": [
     {
      "name": "M9 Dynamic (8 座)",
+     "name_en": "M9 Dynamic (8 seats)",
      "drive": "FWD",
      "kwh": 20.39,
      "price": 61990,
@@ -1983,6 +2114,7 @@
     },
     {
      "name": "M9 Premium (7 座)",
+     "name_en": "M9 Premium (7 seats)",
      "drive": "FWD",
      "kwh": 36.6,
      "price": 72990,
@@ -2007,9 +2139,11 @@
    ],
    "tier": "watch",
    "body": "豪华MPV",
+   "body_en": "Luxury MPV",
    "powertrain": "PHEV/HEV",
    "status": "launching",
    "au_launch": "2026-Q4（预期）",
+   "au_launch_en": "2026-Q4 (expected)",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2027,9 +2161,11 @@
    ],
    "tier": "watch",
    "body": "豪华纯电MPV",
+   "body_en": "Luxury BEV MPV",
    "powertrain": "BEV",
    "status": "watch",
    "au_launch": "未确认（最早 2027）",
+   "au_launch_en": "Unconfirmed (2027 at the earliest)",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2047,9 +2183,11 @@
    ],
    "tier": "watch",
    "body": "豪华纯电MPV",
+   "body_en": "Luxury BEV MPV",
    "powertrain": "BEV",
    "status": "watch",
    "au_launch": "未确认（右舵 2026 年底面向港/新/东南亚）",
+   "au_launch_en": "Unconfirmed (RHD from late 2026 for Hong Kong/Singapore/Southeast Asia)",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2067,6 +2205,7 @@
    ],
    "tier": "core",
    "body": "大型SUV 7 座",
+   "body_en": "Large SUV, 7 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2015",
@@ -2089,7 +2228,9 @@
    "offers": [
     {
      "text": "Volvo Showcase 10 月活动（零售商层面）",
+     "text_en": "Volvo Showcase October event (retailer level)",
      "valid": "2026-10-01 至 2026-10-31",
+     "valid_en": "2026-10-01 to 2026-10-31",
      "src": "https://www.volvocars.com/au/offers/"
     }
    ],
@@ -2111,12 +2252,14 @@
    ],
    "tier": "core",
    "body": "大型SUV",
+   "body_en": "Large SUV",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2023",
    "variants": [
     {
      "name": "xDrive50e M Sport（现款，清库）",
+     "name_en": "xDrive50e M Sport (current generation, runout)",
      "drive": "AWD",
      "kwh": 25.7,
      "price": 154900,
@@ -2124,6 +2267,7 @@
     },
     {
      "name": "新一代 X5 40d/40（2026 Q4）",
+     "name_en": "New-generation X5 40d/40 (2026 Q4)",
      "drive": "AWD",
      "kwh": null,
      "price": 143900,
@@ -2131,6 +2275,7 @@
     },
     {
      "name": "新一代 X5 50e（2027 Q1）",
+     "name_en": "New-generation X5 50e (2027 Q1)",
      "drive": "AWD",
      "kwh": 26.5,
      "price": null,
@@ -2140,7 +2285,9 @@
    "offers": [
     {
      "text": "X5 Runout 限量库存优惠（未公布价格）",
+     "text_en": "X5 Runout limited-stock offer (price not published)",
      "valid": "2026-08-26 起",
+     "valid_en": "From 2026-08-26",
      "src": "https://thebeep.com.au/offers-and-deals/bmw"
     }
    ],
@@ -2163,7 +2310,9 @@
    ],
    "tier": "core",
    "body": "大型SUV",
+   "body_en": "Large SUV",
    "powertrain": "ICE（2027 新一代增插混）",
+   "powertrain_en": "ICE (PHEV added with the 2027 new generation)",
    "status": "on_sale",
    "au_launch": "2019",
    "variants": [
@@ -2178,6 +2327,7 @@
    "offers": [
     {
      "text": "展示车活动：现货展示车赠 3 年保养",
+     "text_en": "Demonstrator event: 3 years of servicing included with in-stock demonstrators",
      "valid": "2026-10",
      "src": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html"
     }
@@ -2200,6 +2350,7 @@
    ],
    "tier": "core",
    "body": "大型SUV 5 座",
+   "body_en": "Large SUV, 5 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2023",
@@ -2237,6 +2388,7 @@
    ],
    "tier": "core",
    "body": "大型SUV 7 座",
+   "body_en": "Large SUV, 7 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2024-11",
@@ -2271,9 +2423,11 @@
     }
    ],
    "price_note": "2026-07 起降价 $7,650–8,687",
+   "price_note_en": "Price cut of $7,650–8,687 from 2026-07",
    "offers": [
     {
      "text": "Mazda M-Day 2026-10-17：3 次免费保养 + $1,000 金融首付补贴（全系）",
+     "text_en": "Mazda M-Day 2026-10-17: 3 free services + $1,000 finance deposit contribution (all models)",
      "valid": "2026-10-17",
      "src": "https://www.mazda.com.au/offers/"
     }
@@ -2295,12 +2449,14 @@
    ],
    "tier": "core",
    "body": "大型越野SUV 6/7 座",
+   "body_en": "Large off-road SUV, 6/7 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2026-02",
    "variants": [
     {
      "name": "B8 7 座",
+     "name_en": "B8 7 seats",
      "drive": "AWD",
      "kwh": 36.8,
      "price": 91000,
@@ -2308,6 +2464,7 @@
     },
     {
      "name": "B8 6 座",
+     "name_en": "B8 6 seats",
      "drive": "AWD",
      "kwh": 36.8,
      "price": 97990,
@@ -2317,7 +2474,9 @@
    "offers": [
     {
      "text": "4.99% p.a. 比较利率（36 个月，≥15% 首付，≤30% 尾款）",
+     "text_en": "4.99% p.a. comparison rate (36 months, at least 15% deposit, balloon up to 30%)",
      "valid": "2026-08-26 至 2026-11-30",
+     "valid_en": "2026-08-26 to 2026-11-30",
      "src": "https://thebeep.com.au/offers-and-deals/denza"
     }
    ],
@@ -2337,6 +2496,7 @@
    ],
    "tier": "reference",
    "body": "大型SUV 7 座",
+   "body_en": "Large SUV, 7 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2026-02",
@@ -2366,7 +2526,9 @@
    "offers": [
     {
      "text": "$4,000 现金返还或 0.99% p.a. 比较利率（36 个月，零首付无尾款）",
+     "text_en": "$4,000 cashback or 0.99% p.a. comparison rate (36 months, no deposit, no balloon)",
      "valid": "2026-10-01 至 2026-12-21 下单，2026-12-31 前交付",
+     "valid_en": "Order 2026-10-01 to 2026-12-21, deliver by 2026-12-31",
      "src": "https://zecar.com/offers-and-deals/byd-sealion-8-4000-cashback-october-2026"
     }
    ],
@@ -2387,6 +2549,7 @@
    ],
    "tier": "reference",
    "body": "大型SUV 7 座",
+   "body_en": "Large SUV, 7 seats",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2021",
@@ -2402,7 +2565,9 @@
    "offers": [
     {
      "text": "Sorento PHEV S AWD DAP $69,990（2025 年产）",
+     "text_en": "Sorento PHEV S AWD DAP $69,990 (2025 build)",
      "valid": "至 2026-10-31",
+     "valid_en": "To 2026-10-31",
      "src": "https://www.kia.com/au/offers.html"
     }
    ],
@@ -2423,6 +2588,7 @@
    ],
    "tier": "reference",
    "body": "大型SUV 7 座",
+   "body_en": "Large SUV, 7 seats",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2023",
@@ -2467,9 +2633,11 @@
    ],
    "tier": "watch",
    "body": "大型SUV",
+   "body_en": "Large SUV",
    "powertrain": "BEV/REEV",
    "status": "launching",
    "au_launch": "2026 Q4 发布，2027 初交付",
+   "au_launch_en": "2026 Q4 launch, deliveries early 2027",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2487,9 +2655,11 @@
    ],
    "tier": "watch",
    "body": "大型插混SUV",
+   "body_en": "Large PHEV SUV",
    "powertrain": "PHEV",
    "status": "watch",
    "au_launch": "2027（预期）",
+   "au_launch_en": "2027 (expected)",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2507,6 +2677,7 @@
    ],
    "tier": "core",
    "body": "大型豪华SUV",
+   "body_en": "Large luxury SUV",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2022",
@@ -2529,7 +2700,9 @@
    "offers": [
     {
      "text": "JLR 现有客户购买指定 RR Sport 最高 $7,500 补贴",
+     "text_en": "Up to $7,500 contribution for existing JLR customers on selected RR Sport",
      "valid": "2026-10-01 至 2026-10-31",
+     "valid_en": "2026-10-01 to 2026-10-31",
      "src": "https://thebeep.com.au/offers-and-deals/land-rover"
     }
    ],
@@ -2550,6 +2723,7 @@
    ],
    "tier": "reference",
    "body": "全尺寸豪华SUV",
+   "body_en": "Full-size luxury SUV",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2022",
@@ -2587,6 +2761,7 @@
    ],
    "tier": "core",
    "body": "全尺寸SUV 7 座",
+   "body_en": "Full-size SUV, 7 seats",
    "powertrain": "ICE",
    "status": "on_sale",
    "au_launch": "2019",
@@ -2626,11 +2801,13 @@
    "id": "mb-gls",
    "brand": "Mercedes-Benz",
    "model": "GLS (2027 改款)",
+   "model_en": "GLS (2027 facelift)",
    "zeekr": [
     "9X"
    ],
    "tier": "core",
    "body": "全尺寸SUV 7 座",
+   "body_en": "Full-size SUV, 7 seats",
    "powertrain": "ICE",
    "status": "launching",
    "au_launch": "2026-11",
@@ -2675,12 +2852,14 @@
    ],
    "tier": "core",
    "body": "全尺寸豪华4x4",
+   "body_en": "Full-size luxury 4x4",
    "powertrain": "ICE/HEV",
    "status": "on_sale",
    "au_launch": "2022",
    "variants": [
     {
      "name": "LX500d Luxury 7 座",
+     "name_en": "LX500d Luxury 7 seats",
      "drive": "AWD",
      "kwh": null,
      "price": 164200,
@@ -2688,6 +2867,7 @@
     },
     {
      "name": "LX600 Luxury 7 座",
+     "name_en": "LX600 Luxury 7 seats",
      "drive": "AWD",
      "kwh": null,
      "price": 167700,
@@ -2719,6 +2899,7 @@
    ],
    "tier": "core",
    "body": "大型豪华SUV",
+   "body_en": "Large luxury SUV",
    "powertrain": "PHEV",
    "status": "on_sale",
    "au_launch": "2024",
@@ -2762,6 +2943,7 @@
    ],
    "tier": "reference",
    "body": "全尺寸豪华SUV 7 座",
+   "body_en": "Full-size luxury SUV, 7 seats",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2025",
@@ -2791,6 +2973,7 @@
    "offers": [
     {
      "text": "Volvo Showcase 10 月活动（零售商层面）",
+     "text_en": "Volvo Showcase October event (retailer level)",
      "valid": "2026-10",
      "src": "https://www.volvocars.com/au/offers/"
     }
@@ -2812,6 +2995,7 @@
    ],
    "tier": "reference",
    "body": "大型豪华SUV",
+   "body_en": "Large luxury SUV",
    "powertrain": "BEV",
    "status": "on_sale",
    "au_launch": "2021",
@@ -2841,6 +3025,7 @@
    ],
    "tier": "reference",
    "body": "豪华4x4",
+   "body_en": "Luxury 4x4",
    "powertrain": "ICE/BEV",
    "status": "on_sale",
    "au_launch": "2024",
@@ -2870,9 +3055,11 @@
    ],
    "tier": "watch",
    "body": "旗舰豪华越野SUV",
+   "body_en": "Flagship luxury off-road SUV",
    "powertrain": "REEV",
    "status": "watch",
    "au_launch": "2027+（品牌已确认，无时间表）",
+   "au_launch_en": "2027+ (brand confirmed, no timeline)",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2890,9 +3077,12 @@
    ],
    "tier": "watch",
    "body": "全尺寸三排SUV",
+   "body_en": "Full-size three-row SUV",
    "powertrain": "ICE（插混待定）",
+   "powertrain_en": "ICE (PHEV to be confirmed)",
    "status": "watch",
    "au_launch": "未确认",
+   "au_launch_en": "Unconfirmed",
    "variants": [],
    "offers": [],
    "sources": [
@@ -2911,9 +3101,11 @@
    ],
    "tier": "watch",
    "body": "中大型高端SUV",
+   "body_en": "Mid-to-large premium SUV",
    "powertrain": "BEV/REEV",
    "status": "watch",
    "au_launch": "2026 年底预订，2027 初交付（长安集团澳洲）",
+   "au_launch_en": "Orders late 2026, deliveries early 2027 (Changan Group Australia)",
    "variants": [],
    "offers": [],
    "sources": [

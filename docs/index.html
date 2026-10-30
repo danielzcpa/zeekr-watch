@@ -233,6 +233,7 @@ let lang = 'zh'; try{ lang = localStorage.getItem('zw.lang') || 'zh'; }catch(e){
 const T = k => (I18N[lang][k] ?? I18N.zh[k] ?? k);
 const D = {};  // data
 const fmtMoney = v => v==null ? '—' : '$' + Number(v).toLocaleString('en-AU');
+const alertTitle = a => { if(lang==='en' && !a.title_en && a.kind==='offer_page_change'){ const m=/^(.*?) 官网政策页面变化（\+(\d+) \/ −(\d+) 行）/.exec(a.title||''); if(m) return `${m[1].replace(/[（(][^()（）]*[一-鿿][^()（）]*[)）]/g,'').trim()} offer page changed (+${m[2]} / −${m[3]} lines)`; } return tx(a,'title'); };
 const tx = (o,f) => (o && lang==='en' && o[f+'_en']) ? o[f+'_en'] : (o ? o[f] : '');
 const esc = s => String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const tz = 'Australia/Sydney';
@@ -290,7 +291,7 @@ function renderOverview(){
   };
   const alerts = s.alerts.map(a=>{ const kind={complaint_high:['b-high',lang==='zh'?'高严重度投诉':'High-severity complaint'],competitor_launch:['b-info',lang==='zh'?'竞品上市':'Competitor launch'],competitor_offer:['b-green',lang==='zh'?'竞品价格/政策':'Competitor price / offer'],offer_page_change:['b-medium',lang==='zh'?'官网政策变化':'Offer page changed']}[a.kind]||['b-muted',a.kind];
     const it=D.items.find(i=>i.id===a.id); const href=it?it.url:(a.source.startsWith('http')?a.source:'#');
-    return `<div class="alert"><span class="badge ${kind[0]}">${kind[1]}</span><div><a href="${esc(href)}" target="_blank" rel="noopener">${esc(tx(a,'title'))}</a><div class="small">${esc(a.source.replace(/^https?:\/\//,''))} · ${fmtTime(a.t)}${a.competitors?' · '+a.competitors.map(compName).map(esc).join(', '):''}</div></div></div>`; }).join('');
+    return `<div class="alert"><span class="badge ${kind[0]}">${kind[1]}</span><div><a href="${esc(href)}" target="_blank" rel="noopener">${esc(alertTitle(a))}</a><div class="small">${esc(a.source.replace(/^https?:\/\//,''))} · ${fmtTime(a.t)}${a.competitors?' · '+a.competitors.map(compName).map(esc).join(', '):''}</div></div></div>`; }).join('');
   const latestC = D.items.filter(i=>i.type==='complaint').slice(0,8).map(renderItem).join('');
   const latestL = D.items.filter(i=>i.type==='competitor_news' && i.competitors.length).slice(0,8).map(i=>renderItem(i,{comps:true})).join('');
   document.getElementById('overview').innerHTML = `
