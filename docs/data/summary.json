@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T15:48:02+00:00",
- "duration_s": 304.3,
- "items_total": 1168,
- "new_this_run": 194,
+ "generated": "2026-10-30T20:39:16+00:00",
+ "duration_s": 336.4,
+ "items_total": 1185,
+ "new_this_run": 167,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 4,
@@ -10,10 +10,10 @@
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 1,
-  "competitor_news_7d": 87,
-  "launch_signals_7d": 23,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 37,
+  "competitor_news_7d": 99,
+  "launch_signals_7d": 26,
+  "offer_signals_7d": 5,
+  "zeekr_news_7d": 38,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -194,8 +194,8 @@
   {
    "date": "2026-10-30",
    "complaints": 1,
-   "competitor_news": 21,
-   "zeekr_news": 4
+   "competitor_news": 35,
+   "zeekr_news": 6
   }
  ],
  "categories_30d": [
@@ -522,8 +522,9 @@
    "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
+    "1449d41803c59183",
     "977de602e7893c4e",
     "4362e9a45be33f4e",
     "347f60946babed57",
@@ -534,7 +535,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "977de602e7893c4e"
+   "latest": "1449d41803c59183"
   },
   "im5": {
    "n_30d": 2,
@@ -690,8 +691,9 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
+    "9cf83e3d30e44365",
     "73e54738eb48f209",
     "beea26123443c4b8",
     "fdc4d0d3e836ccf5",
@@ -700,7 +702,7 @@
    "offer": [
     "d48e5a49e00d8770"
    ],
-   "latest": "73e54738eb48f209"
+   "latest": "9cf83e3d30e44365"
   },
   "lexus-rx450h": {
    "n_30d": 0,
@@ -715,13 +717,16 @@
    "latest": null
   },
   "denza-b8": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "44ff0304dbae118d",
     "43eef9656c6878ef",
     "20e01fbcd796f263"
    ],
-   "offer": [],
-   "latest": "43eef9656c6878ef"
+   "offer": [
+    "44ff0304dbae118d"
+   ],
+   "latest": "44ff0304dbae118d"
   },
   "byd-sealion8": {
    "n_30d": 6,
@@ -875,6 +880,26 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "9cf83e3d30e44365",
+   "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T20:12:44+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "44ff0304dbae118d",
+   "title": "Denza B5 price cut: BYD’s Toyota Prado rival now priced under $74k drive-away",
+   "source": "CarExpert",
+   "t": "2026-10-30T20:00:00+00:00",
+   "competitors": [
+    "denza-b8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "8c9ef38f9af3c4e7",
    "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
@@ -898,7 +923,7 @@
    "id": "a8af33cd32623473",
    "title": "GAC M8 price and specs: every variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-30T11:48:45+00:00",
+   "t": "2026-10-30T11:50:41+00:00",
    "competitors": [
     "gac-m8"
    ]
@@ -908,9 +933,19 @@
    "id": "477682d9a518ae53",
    "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-30T11:37:30+00:00",
+   "t": "2026-10-30T11:44:10+00:00",
    "competitors": [
     "byd-sealion8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "1449d41803c59183",
+   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T10:51:57+00:00",
+   "competitors": [
+    "byd-seal"
    ]
   },
   {
@@ -1053,12 +1088,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 29,
+   "count": 26,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1078,32 +1113,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 88,
+   "count": 96,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 47,
+   "count": 46,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 40,
+   "count": 41,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 48,
+   "count": 30,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 28,
+   "count": 25,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 76,
+   "count": 100,
    "note": ""
   },
   "carexpert": {
@@ -1172,24 +1207,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
