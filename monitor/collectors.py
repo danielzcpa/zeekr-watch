@@ -313,7 +313,7 @@ def zeekr_official():
             if not title or len(title) < 8 or href in seen:
                 continue
             seen.add(href)
-            items.append({"source": "zeekr-official-news", "source_name": "ZEEKR Australia 官方新闻", "url": href,
+            items.append({"source": "zeekr-official-news", "source_name": "ZEEKR Australia official news", "url": href,
                           "title": title[:200], "text": "", "author": "ZEEKR Australia", "published": None,
                           "rating": None, "kind": "official", "scope": "zeekr"})
             n += 1
@@ -466,7 +466,7 @@ def google_places(force: bool = False):
                          "url": (rv.get("authorAttribution") or {}).get("uri") or rec.get("maps_url"), "first_seen": now_iso()}
                 state["reviews"].append(entry)
                 n_new += 1
-                items.append({"source": "google-places", "source_name": f"Google 地图评价 · {st['name']}", "url": entry["url"] or "",
+                items.append({"source": "google-places", "source_name": f"Google Maps reviews · {st['name']}", "url": entry["url"] or "",
                               "title": f"{entry['rating']}★ · {st['name']}", "text": txt[:1200], "author": entry["author"] or "",
                               "published": entry["published"], "rating": float(rv.get("rating")) if rv.get("rating") else None,
                               "kind": "review", "scope": "zeekr_complaint", "extra": {"store": st["name"], "state": st["state"]}})

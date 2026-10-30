@@ -254,7 +254,7 @@ def main(argv=None):
             alerts.append({"kind": "competitor_offer", "id": it["id"], "title": it["title"], "source": it["source_name"], "t": it.get("published") or it["first_seen"], "competitors": it["competitors"]})
     for c in oc[:20]:
         if (now - _utc(c["detected"])) <= timedelta(hours=72):
-            alerts.append({"kind": "offer_page_change", "id": c["id"], "title": f"{c['brand']} 官网政策页面变化（+{len(c['added'])} / −{len(c['removed'])} 行）", "source": c["url"], "t": c["detected"]})
+            alerts.append({"kind": "offer_page_change", "id": c["id"], "title": f"{c['brand']} 官网政策页面变化（+{len(c['added'])} / −{len(c['removed'])} 行）", "title_en": f"{c['brand']} offer page changed (+{len(c['added'])} / −{len(c['removed'])} lines)", "source": c["url"], "t": c["detected"]})
     alerts.sort(key=lambda a: a["t"], reverse=True)
 
     summary = {
