@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-29T22:55:36+00:00",
- "duration_s": 308.6,
- "items_total": 1136,
- "new_this_run": 174,
+ "generated": "2026-10-30T00:13:27+00:00",
+ "duration_s": 318.9,
+ "items_total": 1143,
+ "new_this_run": 237,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 3,
@@ -10,19 +10,13 @@
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 1,
-  "competitor_news_7d": 72,
-  "launch_signals_7d": 20,
-  "offer_signals_7d": 4,
+  "competitor_news_7d": 79,
+  "launch_signals_7d": 21,
+  "offer_signals_7d": 3,
   "zeekr_news_7d": 35,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
-  {
-   "date": "2026-09-30",
-   "complaints": 2,
-   "competitor_news": 0,
-   "zeekr_news": 3
-  },
   {
    "date": "2026-10-01",
    "complaints": 1,
@@ -74,7 +68,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 11,
+   "competitor_news": 10,
    "zeekr_news": 4
   },
   {
@@ -122,7 +116,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 25,
+   "competitor_news": 24,
    "zeekr_news": 9
   },
   {
@@ -188,14 +182,20 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 16,
+   "competitor_news": 19,
    "zeekr_news": 7
   },
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 8,
+   "competitor_news": 14,
    "zeekr_news": 3
+  },
+  {
+   "date": "2026-10-30",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -314,14 +314,14 @@
   "byd-atto3": {
    "n_30d": 5,
    "launch": [
+    "1af84a334ac544d9",
     "0148c4f0c14b8662",
-    "37c34a9709de995f",
-    "1af84a334ac544d9"
+    "37c34a9709de995f"
    ],
    "offer": [
     "37c34a9709de995f"
    ],
-   "latest": "6e8cb54d695d0ffc"
+   "latest": "1af84a334ac544d9"
   },
   "mb-eqa": {
    "n_30d": 0,
@@ -330,7 +330,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 22,
+   "n_30d": 21,
    "launch": [
     "39ee8a224f7f89bb",
     "d9be8d5e830449ea",
@@ -340,9 +340,7 @@
     "5ed70c4b9f6db41c",
     "8b84f73c39185863"
    ],
-   "offer": [
-    "36b6bc6c0c756e02"
-   ],
+   "offer": [],
    "latest": "56ac7f4aa6fc6e39"
   },
   "xpeng-g6": {
@@ -394,8 +392,9 @@
    "latest": "3e3f285c9229d77a"
   },
   "polestar-4": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
+    "a1259168a41994e1",
     "6e80e7d18d3e2014",
     "0c648b1890f77652",
     "b5320554ddc5f545",
@@ -405,7 +404,7 @@
    "offer": [
     "ef422204f206a3de"
    ],
-   "latest": "6e80e7d18d3e2014"
+   "latest": "a1259168a41994e1"
   },
   "volvo-ex40": {
    "n_30d": 0,
@@ -479,7 +478,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 7,
+   "n_30d": 6,
    "launch": [
     "06fa47391abc61ff",
     "0ea6624a635cd203",
@@ -488,7 +487,6 @@
     "a733988169d48563"
    ],
    "offer": [
-    "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
    "latest": "06fa47391abc61ff"
@@ -506,7 +504,6 @@
    ],
    "offer": [
     "418bf3453df753e5",
-    "36b6bc6c0c756e02",
     "85dcdf97d44cb5f6",
     "347f60946babed57",
     "d2af0ef5c3bba679"
@@ -524,7 +521,7 @@
    "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "977de602e7893c4e",
     "4362e9a45be33f4e",
@@ -532,7 +529,6 @@
     "d2af0ef5c3bba679"
    ],
    "offer": [
-    "36b6bc6c0c756e02",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
@@ -871,6 +867,16 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "a1259168a41994e1",
+   "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-29T23:40:23+00:00",
+   "competitors": [
+    "polestar-4"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "e23ca822c454fb48",
    "title": "China's Avatr Scraps 07L Max Launch Event at Last Minute, Responds to Pricing Controversy With Internal Meeting Video - BigGo Finance",
    "source": "Google News · BigGo Finance",
@@ -883,6 +889,7 @@
    "kind": "offer_page_change",
    "id": "472d98d71392ab67",
    "title": "Hyundai 官网政策页面变化（+1 / −0 行）",
+   "title_en": "Hyundai offer page changed (+1 / −0 lines)",
    "source": "https://www.hyundai.com/au/en/offers",
    "t": "2026-10-29T11:47:43+00:00"
   },
@@ -890,6 +897,7 @@
    "kind": "offer_page_change",
    "id": "56ade0ef1e92a380",
    "title": "Zeekr (Zecar) 官网政策页面变化（+1 / −1 行）",
+   "title_en": "Zeekr (Zecar) offer page changed (+1 / −1 lines)",
    "source": "https://zecar.com/offers-and-deals/zeekr",
    "t": "2026-10-29T05:38:42+00:00"
   },
@@ -897,6 +905,7 @@
    "kind": "offer_page_change",
    "id": "b967c15fd340be09",
    "title": "Zecar (全品牌政策汇总) 官网政策页面变化（+4 / −4 行）",
+   "title_en": "Zecar (全品牌政策汇总) offer page changed (+4 / −4 lines)",
    "source": "https://zecar.com/offers-and-deals",
    "t": "2026-10-29T05:38:42+00:00"
   },
@@ -962,6 +971,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "1af84a334ac544d9",
+   "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-28T07:00:00+00:00",
+   "competitors": [
+    "byd-atto3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "418bf3453df753e5",
    "title": "Upgraded Renault Megane E-Tech returns to Australia: How much are you willing to pay for something different?",
    "source": "EV Central",
@@ -984,6 +1003,7 @@
    "kind": "offer_page_change",
    "id": "d71d49b415511109",
    "title": "Hyundai 官网政策页面变化（+1 / −1 行）",
+   "title_en": "Hyundai offer page changed (+1 / −1 lines)",
    "source": "https://www.hyundai.com/au/en/offers",
    "t": "2026-10-27T06:14:44+00:00"
   },
@@ -991,6 +1011,7 @@
    "kind": "offer_page_change",
    "id": "c36e83eea140415c",
    "title": "smart 官网政策页面变化（+3 / −0 行）",
+   "title_en": "smart offer page changed (+3 / −0 lines)",
    "source": "https://www.smart.com.au/",
    "t": "2026-10-27T00:49:54+00:00"
   }
@@ -1003,12 +1024,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 35,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 30,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1028,22 +1049,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 80,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 44,
+   "count": 45,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 33,
+   "count": 34,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 64,
+   "count": 41,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1053,7 +1074,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 47,
+   "count": 58,
    "note": ""
   },
   "carexpert": {

@@ -1,5 +1,214 @@
 [
  {
+  "id": "a1259168a41994e1",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUUFnNzVpb1FqWnpSaGN3Y0ExeC1JQzJwVHo3aF9yN2hEaE9tVldSN1RfUnNNUmVXU2J2a1ZnUDl5Z1dGQmNIQUtjcnNSYmhiWHhPc1BES0o?oc=5",
+  "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
+  "text": "Polestar 4 SUV price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-29T23:40:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "627ac93a33cd7a47",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRFRZYU4wbjlER040ZURwbll3SlJmeGk2SzAwVjFFV3Bkd3g2MXdudEdJbGtiZ2lWaU5nbUstd2J5YThxaFFXY291WjNobmUwaXc?oc=5",
+  "title": "Xpeng L03 price and specs: every 2026 variant compared - EV Central",
+  "text": "Xpeng L03 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-29T23:40:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "747a6b199333e852",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zcmRVNURuSF9RRUJ4LUJxSTJEbnM3RWRrbVRHbWtfWEUzNFJJMXViU0VMcHJOWXNUaXpKWjVzYkR1Y1ZNWTVQT1Nodkowdw?oc=5",
+  "title": "BMW i3 price and specs: every 2027 variant compared - EV Central",
+  "text": "BMW i3 price and specs: every 2027 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-29T23:40:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "5d881bec35e091d0",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wbVFqcG1XTHFwZXpFUjNDZUR6Q0ZnX252QmVPc25NNjRkX3Z1UmJDbW5pMk1lSkpFY2tpekVRakdLaHR4SzZGNVRGNFZJeWNLWm9wOFZrVHZSMS1S?oc=5",
+  "title": "Mercedes-Benz GLB price and specs: every variant compared - EV Central",
+  "text": "Mercedes-Benz GLB price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-29T23:40:08+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "0d4ba2bcb5fddbe4",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-bmw-i3-review-quick-drive",
+  "title": "2027 BMW i3 review: Quick drive",
+  "text": "The BMW 3 Series is a sector-defining vehicle. Since it first appeared seven generations and more than 50 years ago in 1975, the area of the market it has competed in has been utterly dominated by this German compact executive car, so much so that all rivals are said to be in the ‘BMW 3 Series class’. But for this eighth-generation model, part of the Bavarian automaker's Neue Klasse product revolution along with the iX3 and iX5 SUVs, the major development is the inclusion of a fully electric variant in the mid-size sedan lineup for the first time. Is the BMW i3 the best choice in its model family, though? We headed to the south of France for our first drive in a premium 50 xDrive variant to find out. How much does the BMW i3 cost? If you want a petrol ‘G50’ BMW 3 Series, the 155kW 320 is your opener at $83,900 before on-road costs. However, the i3 kicks off at $96,900 plus on-roads for the smaller-batteried 40 xDrive, although this 50 flagship stretches to $112,900 plus ORCs. Model Price before on-road costs 2027 BMW i3 40 xDrive $96,900 2027 BMW i3 50 xDrive $112,900 That does make it seem good value compared to the range-topping 3 Series petrol sedan, the $128,900 M350 xDrive, bu",
+  "author": "Matt Robinson",
+  "published": "2026-10-29T23:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "price"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "088d867578f6e3b9",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-bmw-3-series-review-quick-drive",
+  "title": "2027 BMW 3 Series review: Quick drive",
+  "text": "BMW is pulling off something of an illusory trick with its eighth-generation 3 Series. While the petrol-powered model and its all-electric i3 relation look the same on the outside – all Neue Klasse edginess – underneath they’re quite different. The i3 sits on the NAx EV platform, giving it the development code of ‘NA0’, but the combustion-powered Threes are based on a modified version of the CLAR chassis which underpinned the old Mk7 ‘G20’ 3 Series – hence they’re coded ‘G50’. Does that make the range-topping M350 xDrive variant a car which promises much, but delivers little? We drove the 326kW performance version of the new mid-size premium sedan at its international launch in Provence to find out. How much does the BMW M350 cost? The BMW M350 xDrive is the most expensive of all the new 3 Series model variants, be they combustion-powered or the electric i3. It costs $128,900 before on-road costs, which is hefty. Model Price before on-road costs 2027 BMW 320 $83,900 2027 BMW i3 40 xDrive $96,900 2027 BMW i3 50 xDrive $112,900 2027 BMW M350 xDrive $128,900 At least for fans of combustion power, the 320 at the other end of the petrol scale is the cheapest new 3 Series available, with",
+  "author": "Matt Robinson",
+  "published": "2026-10-29T23:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
   "id": "f504d0112cc255be",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -66,6 +275,37 @@
    "launch"
   ],
   "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
+ },
+ {
+  "id": "10b5334adfd42094",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rS1NOQXNudFlBX2xESk5RekZkS1M3TlEza1dvSVRabWZobG9VM2x6cnhzMm5aR3VvWnZoTVpfY2prSFY5aHBnOFJndFdlbnpUQ1BaQUpzZ0dKc2RtSjYzLUpyZw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-29T19:29:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-29T22:55:36+00:00"
@@ -407,37 +647,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-29T18:23:41+00:00"
- },
- {
-  "id": "10b5334adfd42094",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rS1NOQXNudFlBX2xESk5RekZkS1M3TlEza1dvSVRabWZobG9VM2x6cnhzMm5aR3VvWnZoTVpfY2prSFY5aHBnOFJndFdlbnpUQ1BaQUpzZ0dKc2RtSjYzLUpyZw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-29T04:14:08+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
   "id": "37561d7a2edf1400",
@@ -958,39 +1167,6 @@
   "first_seen": "2026-10-28T07:20:56+00:00"
  },
  {
-  "id": "cb40097f8e9bd1a7",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTGxFYXh6OFV4cmxHdk1RMUJpWnoyZVY3NmlGamhMS1paeXF2c3Z1MlNJT0xjSWlKalZwSU9UclBUZjVUYmFPX2hLTE9QYVVYNFE?oc=5",
-  "title": "Geely EX2 review: every 2026 variant, price and specs - EV Central",
-  "text": "Geely EX2 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T08:40:15+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "geely"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
   "id": "39ee8a224f7f89bb",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -1123,6 +1299,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "cb40097f8e9bd1a7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTGxFYXh6OFV4cmxHdk1RMUJpWnoyZVY3NmlGamhMS1paeXF2c3Z1MlNJT0xjSWlKalZwSU9UclBUZjVUYmFPX2hLTE9QYVVYNFE?oc=5",
+  "title": "Geely EX2 review: every 2026 variant, price and specs - EV Central",
+  "text": "Geely EX2 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
   "id": "fa1833b6abb6a5eb",
@@ -1398,6 +1607,107 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-29T22:55:36+00:00"
+ },
+ {
+  "id": "e7265370d06cab77",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qVzJndDVwa1lPYURJLWR2QldKQVA1TllMNWU3THVETDVnYTdzWmtES2VIT0oxb0RtS3ZKcExiM09PdjJkV0dIQW9wZHlIUkNxN1RhTA?oc=5",
+  "title": "Mazda CX-6E price and specs: every 2026 variant compared - EV Central",
+  "text": "Mazda CX-6E price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
+  "id": "1af84a334ac544d9",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVmhVZWZpbno1UnBmck9ESm5WWkt4YnVwSHJxenZ2Z1VHcTNGNW15TE5nNGg1VGREV1FmVXdFZE1hSU5tVXJUN0hMZFMxVUFZNENWMFFQUU4?oc=5",
+  "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Atto 3 Evo review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
+ },
+ {
+  "id": "3c98fcc2e149276c",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43WWJxRk1QQWQ1VmtfN29laTFQYUZDTkRLeFZBanlmSHI1dTBST01ocVdFT01rZVRLaHZ1b0N6NHEwVWo1WFVhOFRuNGI0WXVxU2MxSw?oc=5",
+  "title": "BYD Dolphin review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Dolphin review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
   "id": "adde0bd3d0366873",
@@ -1677,7 +1987,7 @@
  {
   "id": "e3cb4af2b08e9c60",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-brands-cn",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHpnaGlPdXRtVjRXZXRMQ213bEhmckx6NzJPWmQ3Z3hkUUt3dWdqUGZ4TWRDS2hzalRJSS1zZFJRaDRGN2ZLLTdkREh2ektZbVV0Y2NqdWI0TF9KY2pyRG9PV1ozd1VsZ2EyTlhLMzVMWFNuaU5Wd1pZd2NxeHFHREVEVUxpTTZKbVJyWmtR?oc=5",
   "title": "BYD's super-fast EV plans for Australia pushed back - caradvice.com.au",
@@ -2969,23 +3279,18 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnBUZzVsTFVmaThyZlQtb3lEcVRFVThTajRiZWNjci1xaUltYmJSanhsa3U1elJuNnhrUnhSWHJsNmd0Q0VvYUtydFlKTkM1ZFhMeVdMZUZtYUlxajc3ZGdyclVjUF8yYWJ0bmxiZ1dMenJ6SDBWUFo1WHl6aGhoTHlqZ000OGRzelRnQXJtTzNRUEtYeTdwYjhnaThWekNHU0g0MzI1ZDZ4b0haeC1nMkRkYlhmcHhBcGNXR0Nja0U5N2xI?oc=5",
-  "title": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars - CarsGuide",
-  "text": "2026 Tesla Model Y SUV and Model 3 sedan discounted in Australia in battle against Geely EX5 and BYD Seal electric cars CarsGuide",
+  "title": "Shop Tesla Model 3 Cars - CarsGuide",
+  "text": "Shop Tesla Model 3 Cars CarsGuide",
   "author": "",
   "published": "2026-10-26T01:19:55+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y",
-   "geely-ex5",
-   "tesla-model-3",
-   "byd-seal"
+   "tesla-model-3"
   ],
   "brands": [
-   "byd",
-   "tesla",
-   "geely"
+   "tesla"
   ],
   "categories": [],
   "sentiment": {
@@ -2995,9 +3300,7 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [
-   "offer"
-  ],
+  "signals": [],
   "scope": "zeekr",
   "au": true,
   "extra": {},
@@ -12012,39 +12315,6 @@
   "first_seen": "2026-10-19T05:11:30+00:00"
  },
  {
-  "id": "e7265370d06cab77",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qVzJndDVwa1lPYURJLWR2QldKQVA1TllMNWU3THVETDVnYTdzWmtES2VIT0oxb0RtS3ZKcExiM09PdjJkV0dIQW9wZHlIUkNxN1RhTA?oc=5",
-  "title": "Mazda CX-6E price and specs: every 2026 variant compared - EV Central",
-  "text": "Mazda CX-6E price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mazda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
   "id": "d2f84b56da57d865",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -20421,41 +20691,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
-  "id": "1af84a334ac544d9",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVmhVZWZpbno1UnBmck9ESm5WWkt4YnVwSHJxenZ2Z1VHcTNGNW15TE5nNGg1VGREV1FmVXdFZE1hSU5tVXJUN0hMZFMxVUFZNENWMFFQUU4?oc=5",
-  "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
-  "text": "BYD Atto 3 Evo review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-09T20:57:27+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-atto3"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "c0e635b95049027e",
