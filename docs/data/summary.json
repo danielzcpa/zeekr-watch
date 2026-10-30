@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-30T02:30:40+00:00",
- "duration_s": 365.0,
- "items_total": 1146,
- "new_this_run": 220,
+ "generated": "2026-10-30T08:54:34+00:00",
+ "duration_s": 306.7,
+ "items_total": 1159,
+ "new_this_run": 176,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 3,
+  "complaints_24h": 1,
+  "complaints_7d": 4,
   "complaints_30d": 31,
-  "high_7d": 2,
+  "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 1,
-  "competitor_news_7d": 79,
-  "launch_signals_7d": 20,
+  "competitor_news_7d": 83,
+  "launch_signals_7d": 19,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 35,
+  "zeekr_news_7d": 37,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -68,7 +68,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 10,
+   "competitor_news": 11,
    "zeekr_news": 3
   },
   {
@@ -153,7 +153,7 @@
    "date": "2026-10-23",
    "complaints": 0,
    "competitor_news": 12,
-   "zeekr_news": 9
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-24",
@@ -182,7 +182,7 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 21,
+   "competitor_news": 20,
    "zeekr_news": 8
   },
   {
@@ -193,9 +193,9 @@
   },
   {
    "date": "2026-10-30",
-   "complaints": 0,
-   "competitor_news": 2,
-   "zeekr_news": 0
+   "complaints": 1,
+   "competitor_news": 10,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,24 +203,24 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 20
+   "n": 21
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 12
-  },
-  {
-   "key": "service",
-   "zh": "售后/服务/保修",
-   "en": "After-sales / service / warranty",
-   "n": 9
+   "n": 11
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
+   "n": 10
+  },
+  {
+   "key": "service",
+   "zh": "售后/服务/保修",
+   "en": "After-sales / service / warranty",
    "n": 9
   },
   {
@@ -249,16 +249,17 @@
   }
  ],
  "models_30d": {
-  "7X": 11,
+  "X": 1,
+  "7X": 10,
   "7GT": 3
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 10,
   "Google Play (AU)": 9,
-  "Reddit r/AustralianEV": 4,
+  "Reddit r/AustralianEV": 3,
   "Reddit r/Zeekr": 3,
+  "ProductReview.com.au": 2,
   "Reddit r/EVAustralia": 2,
-  "ProductReview.com.au": 1,
   "Reddit r/AutoAdvice": 1,
   "Reddit r/ZeekrAustraliaNZ": 1
  },
@@ -330,7 +331,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 21,
+   "n_30d": 22,
    "launch": [
     "39ee8a224f7f89bb",
     "d9be8d5e830449ea",
@@ -341,7 +342,7 @@
     "8b84f73c39185863"
    ],
    "offer": [],
-   "latest": "56ac7f4aa6fc6e39"
+   "latest": "314dc23a0af87d4d"
   },
   "xpeng-g6": {
    "n_30d": 3,
@@ -451,14 +452,14 @@
    "latest": null
   },
   "toyota-bz4x": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "3e3f285c9229d77a"
    ],
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "fa1833b6abb6a5eb"
+   "latest": "314dc23a0af87d4d"
   },
   "ford-mach-e": {
    "n_30d": 0,
@@ -729,10 +730,10 @@
    "latest": "fa15f25f5765628d"
   },
   "kia-sorento-phev": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "df6a2d5ce66b8d3d"
   },
   "kia-ev9": {
    "n_30d": 9,
@@ -831,10 +832,10 @@
    "latest": null
   },
   "mb-gclass": {
-   "n_30d": 0,
+   "n_30d": 2,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "a945902521f2d934"
   },
   "yangwang-u8": {
    "n_30d": 6,
@@ -865,6 +866,13 @@
   }
  },
  "alerts": [
+  {
+   "kind": "complaint_high",
+   "id": "71f314663a4125ec",
+   "title": "Review (1.0★)",
+   "source": "ProductReview.com.au",
+   "t": "2026-10-30T02:34:05+00:00"
+  },
   {
    "kind": "competitor_launch",
    "id": "a1259168a41994e1",
@@ -988,24 +996,6 @@
    "competitors": [
     "tesla-model-3"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "6e80e7d18d3e2014",
-   "title": "2027 Polestar 4 SUV review",
-   "source": "CarExpert",
-   "t": "2026-10-27T08:00:00+00:00",
-   "competitors": [
-    "polestar-4"
-   ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "d71d49b415511109",
-   "title": "Hyundai 官网政策页面变化（+1 / −1 行）",
-   "title_en": "Hyundai offer page changed (+1 / −1 lines)",
-   "source": "https://www.hyundai.com/au/en/offers",
-   "t": "2026-10-27T06:14:44+00:00"
   }
  ],
  "source_status": {
@@ -1016,12 +1006,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 18,
+   "count": 28,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1041,22 +1031,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 84,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 43,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 36,
+   "count": 38,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 39,
+   "count": 32,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1066,7 +1056,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 62,
+   "count": 55,
    "note": ""
   },
   "carexpert": {
@@ -1145,24 +1135,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1177,7 +1167,7 @@
   "productreview-zeekr-agg": {
    "ok": true,
    "count": 0,
-   "note": "aggregate 2.0★ / 18 reviews"
+   "note": "aggregate 2.0★ / 19 reviews"
   },
   "productreview-zeekr": {
    "ok": true,
@@ -1196,7 +1186,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 27,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1261,7 +1251,7 @@
   },
   "beep-bmw/i4-gran-coupe": {
    "ok": true,
-   "count": 1,
+   "count": 2,
    "note": "via mirror"
   },
   "beep-audi/q4-e-tron": {
@@ -1597,7 +1587,7 @@
   "offers-hyundai": {
    "ok": true,
    "count": 9,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-tesla-my": {
    "ok": false,
