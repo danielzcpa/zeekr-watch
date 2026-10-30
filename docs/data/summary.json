@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T00:13:27+00:00",
- "duration_s": 318.9,
- "items_total": 1143,
- "new_this_run": 237,
+ "generated": "2026-10-30T02:30:40+00:00",
+ "duration_s": 365.0,
+ "items_total": 1146,
+ "new_this_run": 220,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 3,
@@ -11,7 +11,7 @@
   "medium_7d": 0,
   "low_7d": 1,
   "competitor_news_7d": 79,
-  "launch_signals_7d": 21,
+  "launch_signals_7d": 20,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 35,
   "offer_page_changes_7d": 5
@@ -69,7 +69,7 @@
    "date": "2026-10-09",
    "complaints": 1,
    "competitor_news": 10,
-   "zeekr_news": 4
+   "zeekr_news": 3
   },
   {
    "date": "2026-10-10",
@@ -116,7 +116,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 24,
+   "competitor_news": 23,
    "zeekr_news": 9
   },
   {
@@ -182,19 +182,19 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 19,
-   "zeekr_news": 7
+   "competitor_news": 21,
+   "zeekr_news": 8
   },
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 14,
-   "zeekr_news": 3
+   "competitor_news": 13,
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-30",
    "complaints": 0,
-   "competitor_news": 0,
+   "competitor_news": 2,
    "zeekr_news": 0
   }
  ],
@@ -1006,25 +1006,17 @@
    "title_en": "Hyundai offer page changed (+1 / −1 lines)",
    "source": "https://www.hyundai.com/au/en/offers",
    "t": "2026-10-27T06:14:44+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "c36e83eea140415c",
-   "title": "smart 官网政策页面变化（+3 / −0 行）",
-   "title_en": "smart offer page changed (+3 / −0 lines)",
-   "source": "https://www.smart.com.au/",
-   "t": "2026-10-27T00:49:54+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 66,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 17,
+   "count": 18,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1049,32 +1041,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 84,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 45,
+   "count": 43,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 34,
+   "count": 36,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 41,
+   "count": 39,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 21,
+   "count": 23,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 58,
+   "count": 62,
    "note": ""
   },
   "carexpert": {
@@ -1153,24 +1145,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1604,8 +1596,8 @@
   },
   "offers-hyundai": {
    "ok": true,
-   "count": 10,
-   "note": "unchanged"
+   "count": 9,
+   "note": "changed"
   },
   "offers-tesla-my": {
    "ok": false,

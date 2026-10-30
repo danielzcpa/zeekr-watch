@@ -2,13 +2,12 @@
  "key": "hyundai",
  "brand": "Hyundai",
  "url": "https://www.hyundai.com/au/en/offers",
- "fetched": "2026-10-30T00:18:44+00:00",
- "digest": "9f4f5ee787f65152",
+ "fetched": "2026-10-30T02:36:44+00:00",
+ "digest": "0ef7bb8ec59ae215",
  "lines": [
   "Explore Hyundai's Big Runout Offers.",
   "Latest Offers",
   "Hyundai Finance®",
-  "Bonus offer across i30 Sedan, SANTA FE and TUCSON models.",
   "Explore our car offers and more on this page. You can also chat to the Hyundai dealers at your nearest showroom for personalised service and advice.",
   "Replacing your car earlier might actually save you money.",
   "Read more — Replacing your car earlier might actually save you money.",
@@ -17,5 +16,5 @@
   "View latest offers"
  ],
  "money": [],
- "n_lines": 10
+ "n_lines": 9
 }

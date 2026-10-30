@@ -1,5 +1,83 @@
 [
  {
+  "id": "11f29db5e5b4249c",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/toyota-hilux-gets-dollar4000-discount-amid-ford-ranger-deals",
+  "title": "Toyota HiLux gets $4000 discount amid Ford Ranger deals",
+  "text": "Toyota is offering a $4000 finance deposit bonus on dual-cab pickups and dual-cab/chassis models ordered by December 31, 2026. The offer applies to diesel-powered versions of the 4x4 SR5 model grade, which competes with the Ford Ranger XLT and Isuzu D-Max LS-U dual-cab utes. With the bonus applied, the effective cost of a HiLux 4x4 SR5 drops to $59,990 before on-roads for the four-door, five-seat pickup with a manual transmission, with the automatic cab/chassis reduced to $60,490 and the automatic dual-cab pickup to $61,990. The deal applies to eligible new and demonstrator SR5s built between August 2025 and December 2026. Vehicles must be ordered and finance applications received by December 31, 2026, with finance settled by February 28, 2027. It's available to approved private, Bronze and Silver fleet customers through Toyota Finance, with a minimum finance amount of $10,000. Lease products are excluded. The promotion doesn't include the electric HiLux SR5 , which is priced at $82,990 before on-road costs. The offer comes less than 12 months after the new-generation HiLux was introduced , with the SR5 model grade starting at $3320 more than the previous model and the SR5 cab/chas",
+  "author": "Damion Smy",
+  "published": "2026-10-30T01:56:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "ford"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T02:30:40+00:00"
+ },
+ {
+  "id": "31e728f9c19e91bd",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/mercedes-benz-targets-30-per-cent-more-ev-range-with-new-cobalt-free-battery-technology/",
+  "title": "Mercedes-Benz targets 30 per cent more EV range with new cobalt-free battery technology",
+  "text": "Mercedes-Benz is developing cobalt-free LNMO batteries that could boost EV range by 30 per cent compared with LFP, but production timing remains unconfirmed. The post Mercedes-Benz targets 30 per cent more EV range with new cobalt-free battery technology appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-10-30T00:43:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T02:30:40+00:00"
+ },
+ {
   "id": "a1259168a41994e1",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -385,6 +463,39 @@
   "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
+  "id": "333a19df2a498a84",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Morningstar",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOakhoZ2dPOTFIcVpLYlNmT01KU3NERmgzc1F3MGFBcGRnZTVDLW1Ca2toenZiWDNQdVJvS3p6ZGlPVDhvdnh4cGY1aWt4RkpZb2oybmhSWm1oWUp5TGM3MURvbEtza0FscThQZEwxYTQwLWVjS0FRQmtjd2VZNnljXzNibklubmJJc1NKMHp3VkQxTm05cmhsZks3c0R2V3F6RVdTUFZIb2JaNlp3dXNFcUZJZnpYNERCSWdNZVFVc180LWVENHpOenBmZ2lXWDBxNUlQRVNMb1NOUDdVcTcyZnRZNnUyaEhxQWc?oc=5",
+  "title": "Geely Earnings: Zeekr and Export Growth Offset Domestic Headwinds; Shares Undervalued - Morningstar",
+  "text": "Geely Earnings: Zeekr and Export Growth Offset Domestic Headwinds; Shares Undervalued Morningstar",
+  "author": "",
+  "published": "2026-10-29T10:26:08+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-30T02:30:40+00:00"
+ },
+ {
   "id": "bc140c194dd2a7b5",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -453,39 +564,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-29T11:42:28+00:00"
- },
- {
-  "id": "f573de4b551b4544",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMmZ3N3BZY1oxb0tXRHBYUlNvQml2YUwwUGNHU2E2Wml1NUkzZDlvajNWbVZjSHpHRzBaSDdGbG9nWTFSZU1lbWpib1hMLTFLTzMyMHoySDMyd2dF?oc=5",
-  "title": "Mercedes-Benz EQS review: every variant, price and specs - EV Central",
-  "text": "Mercedes-Benz EQS review: every variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-29T08:48:13+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T22:16:04+00:00"
  },
  {
   "id": "cbc4b17031067edd",
@@ -1301,6 +1379,39 @@
   "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
+  "id": "f573de4b551b4544",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMmZ3N3BZY1oxb0tXRHBYUlNvQml2YUwwUGNHU2E2Wml1NUkzZDlvajNWbVZjSHpHRzBaSDdGbG9nWTFSZU1lbWpib1hMLTFLTzMyMHoySDMyd2dF?oc=5",
+  "title": "Mercedes-Benz EQS review: every variant, price and specs - EV Central",
+  "text": "Mercedes-Benz EQS review: every variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
+ },
+ {
   "id": "cb40097f8e9bd1a7",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -1710,6 +1821,72 @@
   "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
+  "id": "f308fc9dc22c0bd8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52c0VmYW54Rnk5cGtsMS05V3JNQVoxM2NzcmpudFA2ZVBYUGs0YWhEWWpEYy1BZXJxbGVoamwwVmkyMm13d1pPanNSeTY2NE1lQlJF?oc=5",
+  "title": "BYD Atto 1 review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Atto 1 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-18T17:59:55+00:00"
+ },
+ {
+  "id": "af15aa7c4a27f293",
+  "type": "news_zeekr",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
+  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
+  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-28T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "adde0bd3d0366873",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -1878,7 +2055,7 @@
  {
   "id": "e921111eee53f2c0",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDZXdEJfRlRPUk1VTHdRQXpJME95OERkSlhpUl9RQThLM1FSQmtEc2h2ZnVUZ1FZYll1ZTZGbnBaOEhMOUkxWjhqTTA1dmNlNUdFMC1VRm5YTWtnOTFqYWFQZzY5SFYxMjJFNi1SV0x3Uk5aLUFlRlA3NDNlUGNXTnZmeTR4RzFIcXRKOHVINHZ4eW5FdldnYnlqNUY3YWlEUGJ4aVJJWllkZUdZQ2RRTC1RNENETmc2VkNPc1U5VW8?oc=5",
   "title": "Renault's Kia EV3, Zeekr X rival gets bigger battery, more range - caradvice.com.au",
@@ -1987,7 +2164,7 @@
  {
   "id": "e3cb4af2b08e9c60",
   "type": "competitor_news",
-  "source": "gn-brands-cn",
+  "source": "gn-brands-eu",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHpnaGlPdXRtVjRXZXRMQ213bEhmckx6NzJPWmQ3Z3hkUUt3dWdqUGZ4TWRDS2hzalRJSS1zZFJRaDRGN2ZLLTdkREh2ektZbVV0Y2NqdWI0TF9KY2pyRG9PV1ozd1VsZ2EyTlhLMzVMWFNuaU5Wd1pZd2NxeHFHREVEVUxpTTZKbVJyWmtR?oc=5",
   "title": "BYD's super-fast EV plans for Australia pushed back - caradvice.com.au",
@@ -4780,7 +4957,7 @@
  {
   "id": "95c66335ee1f0c71",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjY4NDY1SDVEUUs2R3gtcWtpWlh5aUU3MWVxZXlIb2FDOUUxVl9sMElOYzl3c3lnWFFWeVFxQ0ZxOFgxT2thYzhwbzlLbFpoZjVCZXpwcl9OVUg3cW14RUI2NUtEVzZIT1pISXprNV9OcGlHOFBHU3YwMFZMVF9Kd2xEeEcxR1VvZTA5LUdpVVBIWEpFajlrLUl2cnNBbi10YjlFX2Q1a2xVMmp6YW1Ib0pFaXFhQ24tY1pUamlzS05kWjVpSnc?oc=5",
   "title": "China's sleeping giant ready to take on Australia, as Changan prepares to launch Avatr, Nevo to rival Zeekr and BYD - CarsGuide",
@@ -12146,39 +12323,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-16T23:51:05+00:00"
- },
- {
-  "id": "f308fc9dc22c0bd8",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52c0VmYW54Rnk5cGtsMS05V3JNQVoxM2NzcmpudFA2ZVBYUGs0YWhEWWpEYy1BZXJxbGVoamwwVmkyMm13d1pPanNSeTY2NE1lQlJF?oc=5",
-  "title": "BYD Atto 1 review: every 2026 variant, price and specs - EV Central",
-  "text": "BYD Atto 1 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-18T17:59:55+00:00"
  },
  {
   "id": "851fd88980e959a8",
@@ -20724,39 +20868,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
- },
- {
-  "id": "af15aa7c4a27f293",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
-  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
-  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-09T20:56:25+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "a27bf89cf6f37c43",
