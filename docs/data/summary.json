@@ -1,18 +1,18 @@
 {
- "generated": "2026-10-30T08:54:34+00:00",
- "duration_s": 306.7,
- "items_total": 1159,
- "new_this_run": 176,
+ "generated": "2026-10-30T15:48:02+00:00",
+ "duration_s": 304.3,
+ "items_total": 1168,
+ "new_this_run": 194,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 4,
-  "complaints_30d": 31,
+  "complaints_30d": 30,
   "high_7d": 3,
   "medium_7d": 0,
   "low_7d": 1,
-  "competitor_news_7d": 83,
-  "launch_signals_7d": 19,
-  "offer_signals_7d": 3,
+  "competitor_news_7d": 87,
+  "launch_signals_7d": 23,
+  "offer_signals_7d": 4,
   "zeekr_news_7d": 37,
   "offer_page_changes_7d": 5
  },
@@ -68,7 +68,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 11,
+   "competitor_news": 13,
    "zeekr_news": 3
   },
   {
@@ -92,7 +92,7 @@
   {
    "date": "2026-10-13",
    "complaints": 2,
-   "competitor_news": 35,
+   "competitor_news": 33,
    "zeekr_news": 16
   },
   {
@@ -110,13 +110,13 @@
   {
    "date": "2026-10-16",
    "complaints": 3,
-   "competitor_news": 12,
+   "competitor_news": 13,
    "zeekr_news": 15
   },
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 23,
+   "competitor_news": 22,
    "zeekr_news": 9
   },
   {
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 13,
+   "competitor_news": 9,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-30",
    "complaints": 1,
-   "competitor_news": 10,
-   "zeekr_news": 3
+   "competitor_news": 21,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -227,7 +227,7 @@
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 8
+   "n": 7
   },
   {
    "key": "sales",
@@ -240,12 +240,6 @@
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
    "n": 2
-  },
-  {
-   "key": "safety",
-   "zh": "召回/安全",
-   "en": "Recall / safety",
-   "n": 1
   }
  ],
  "models_30d": {
@@ -254,8 +248,8 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 10,
   "Google Play (AU)": 9,
+  "Reddit r/Zeekr7xAustralia": 9,
   "Reddit r/AustralianEV": 3,
   "Reddit r/Zeekr": 3,
   "ProductReview.com.au": 2,
@@ -280,7 +274,9 @@
   },
   "smart-3": {
    "n_30d": 1,
-   "launch": [],
+   "launch": [
+    "66d89eaf334c1bb2"
+   ],
    "offer": [],
    "latest": "66d89eaf334c1bb2"
   },
@@ -331,7 +327,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 22,
+   "n_30d": 23,
    "launch": [
     "39ee8a224f7f89bb",
     "d9be8d5e830449ea",
@@ -341,7 +337,9 @@
     "5ed70c4b9f6db41c",
     "8b84f73c39185863"
    ],
-   "offer": [],
+   "offer": [
+    "36b6bc6c0c756e02"
+   ],
    "latest": "314dc23a0af87d4d"
   },
   "xpeng-g6": {
@@ -479,7 +477,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "06fa47391abc61ff",
     "0ea6624a635cd203",
@@ -488,6 +486,7 @@
     "a733988169d48563"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
    "latest": "06fa47391abc61ff"
@@ -505,6 +504,7 @@
    ],
    "offer": [
     "418bf3453df753e5",
+    "36b6bc6c0c756e02",
     "85dcdf97d44cb5f6",
     "347f60946babed57",
     "d2af0ef5c3bba679"
@@ -522,7 +522,7 @@
    "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "977de602e7893c4e",
     "4362e9a45be33f4e",
@@ -530,6 +530,7 @@
     "d2af0ef5c3bba679"
    ],
    "offer": [
+    "36b6bc6c0c756e02",
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
@@ -545,7 +546,8 @@
    "n_30d": 4,
    "launch": [
     "347f60946babed57",
-    "d2af0ef5c3bba679"
+    "d2af0ef5c3bba679",
+    "86b5677c0d46a8a6"
    ],
    "offer": [
     "347f60946babed57",
@@ -637,18 +639,21 @@
    "latest": null
   },
   "gac-m8": {
-   "n_30d": 0,
-   "launch": [],
+   "n_30d": 1,
+   "launch": [
+    "a8af33cd32623473"
+   ],
    "offer": [],
-   "latest": null
+   "latest": "a8af33cd32623473"
   },
   "byd-m9": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "8c9ef38f9af3c4e7",
     "2c8e385c13663939"
    ],
    "offer": [],
-   "latest": "09ab3573bdd21c6d"
+   "latest": "8c9ef38f9af3c4e7"
   },
   "wey-g9": {
    "n_30d": 0,
@@ -710,16 +715,18 @@
    "latest": null
   },
   "denza-b8": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
+    "43eef9656c6878ef",
     "20e01fbcd796f263"
    ],
    "offer": [],
-   "latest": "f10008e581c8b3f7"
+   "latest": "43eef9656c6878ef"
   },
   "byd-sealion8": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "477682d9a518ae53",
     "fa15f25f5765628d",
     "0148c4f0c14b8662",
     "b5c47101ca081290",
@@ -727,7 +734,7 @@
     "7df177ffe7c98f88"
    ],
    "offer": [],
-   "latest": "fa15f25f5765628d"
+   "latest": "477682d9a518ae53"
   },
   "kia-sorento-phev": {
    "n_30d": 1,
@@ -867,21 +874,61 @@
  },
  "alerts": [
   {
-   "kind": "complaint_high",
-   "id": "71f314663a4125ec",
-   "title": "Review (1.0★)",
-   "source": "ProductReview.com.au",
-   "t": "2026-10-30T02:34:05+00:00"
+   "kind": "competitor_launch",
+   "id": "8c9ef38f9af3c4e7",
+   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T12:07:57+00:00",
+   "competitors": [
+    "byd-m9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "43eef9656c6878ef",
+   "title": "Denza B8 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T11:53:43+00:00",
+   "competitors": [
+    "denza-b8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "a8af33cd32623473",
+   "title": "GAC M8 price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T11:48:45+00:00",
+   "competitors": [
+    "gac-m8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "477682d9a518ae53",
+   "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T11:37:30+00:00",
+   "competitors": [
+    "byd-sealion8"
+   ]
   },
   {
    "kind": "competitor_launch",
    "id": "a1259168a41994e1",
    "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-29T23:40:23+00:00",
+   "t": "2026-10-30T09:06:47+00:00",
    "competitors": [
     "polestar-4"
    ]
+  },
+  {
+   "kind": "complaint_high",
+   "id": "71f314663a4125ec",
+   "title": "Review (1.0★)",
+   "source": "ProductReview.com.au",
+   "t": "2026-10-30T02:34:05+00:00"
   },
   {
    "kind": "competitor_launch",
@@ -1006,12 +1053,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 28,
+   "count": 29,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 30,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1021,7 +1068,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 100,
+   "count": 52,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1031,32 +1078,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 88,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 47,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 38,
+   "count": 40,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 32,
+   "count": 48,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 23,
+   "count": 28,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 55,
+   "count": 76,
    "note": ""
   },
   "carexpert": {
@@ -1120,9 +1167,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1132,12 +1179,12 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1186,7 +1233,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 27,
    "note": ""
   },
   "playstore-android": {
