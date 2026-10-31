@@ -1,5 +1,138 @@
 [
  {
+  "id": "5a731d55383ae097",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQ080ZHNtbVJuY3Z5dkZZYUJ2Sm1veGNTR3ZSZFpnd2pBc2xJbG9YcTRUR0RyNUw4SFdkellrQWRqN0RVeE1tS0p5MDRtNzVRdXlEZzZNZUtYR1hvekxGUG1POVFrUXhjZ1dwbldWckt0YnRW?oc=5",
+  "title": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested - CarsGuide",
+  "text": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested CarsGuide",
+  "author": "",
+  "published": "2026-10-31T06:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
+  "id": "3171d2e93a8774ed",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xk27s3/best_charging_practice_nmc/",
+  "title": "Best charging practice? NMC",
+  "text": "So I’ve had the car for a week and im just in love. Honestly the best car I’ve ever had. Im just not sure how best to charge. I’ve restricted the battery to 80% and I have been just getting battery down to 40% then charging. But someone said the best battery care is to ABC always be charging as short low heat fills of the battery are better. My battery use today was quite heavy, drained about 15% of my battery for 60kms doing lots of frequent short trips, then 30 min stops (real estate agent doing open homes). So I’ve plugged it in. Any advice to keep my battery as best of health as possible.",
+  "author": "/u/Hughesie2277",
+  "published": "2026-10-31T05:43:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 6,
+   "neg_hits": 0,
+   "pos_hits": 6,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
+  "id": "2f2d29264ece3453",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarNewsChina.com",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalNSNURGYXRUQ1ZHbkVVcmduN1VEUzFTN2RLZ0xFMUZQTGVtWlVnclFxQlpkeUQ0OTk4SWdSdGVTQm5XWTFEMVFvVktZdlpjcXZObzZNZU9QSjczYmY0aUU4U2tHbFVDYUNtcS1YbjctX1Fmb2lLM3dGZURIeGJROEZBeUhXTTlfeENLUlhJVDB5Y2xtUUJCWWxVc0RpNTMycEowQTVqblZ3ZmhW?oc=5",
+  "title": "Lexus to launch first China-made electric SUV in 2027 at Shanghai plant - CarNewsChina.com",
+  "text": "Lexus to launch first China-made electric SUV in 2027 at Shanghai plant CarNewsChina.com",
+  "author": "",
+  "published": "2026-10-31T03:10:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "lexus"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
+  "id": "c92c1782aa853cec",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xjyrfc/has_a_dealership_actually_looked_after_you_when/",
+  "title": "Has a dealership actually looked after you when something went wrong with your car?",
+  "text": "",
+  "author": "/u/DealerPulseAU",
+  "published": "2026-10-31T02:35:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
   "id": "2ee837e87068f06a",
   "type": "complaint",
   "source": "reddit-Zeekr7xAustralia",
@@ -31,6 +164,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T00:39:16+00:00"
+ },
+ {
+  "id": "517379d0cd25367b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 헤럴드경제",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83YlVJVUJHYWpDVjJreEhyVjFVRGwyOWRGM00yZGY0UDl4d2c2NGctVTR3MW12NEx2Tm1ObEpKZnMzaHZiYjJMZ0FkZG54SzVDRWNzc1htWQ?oc=5",
+  "title": "'A smartphone on wheels, with premium flair': test-driving the Zeekr 7X electric SUV - 헤럴드경제",
+  "text": "'A smartphone on wheels, with premium flair': test-driving the Zeekr 7X electric SUV 헤럴드경제",
+  "author": "",
+  "published": "2026-10-30T23:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
  },
  {
   "id": "e04dc63e55c3dc3d",
@@ -739,41 +903,6 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
-  "id": "477682d9a518ae53",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WVm1IalFZWUYwcHR0VXpwbE0tbzl4VHNfamJmVFpsRFNFVzYzalpud1ZQdjV5ZGpXUVA2bzRlZ0NXbWQ1c2tPUVlEdGVmM1hYM0dMX0NKQQ?oc=5",
-  "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Sealion 8 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T11:44:10+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-sealion8"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
   "id": "c83b5f878967efc3",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -868,6 +997,41 @@
    "launch"
   ],
   "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "477682d9a518ae53",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WVm1IalFZWUYwcHR0VXpwbE0tbzl4VHNfamJmVFpsRFNFVzYzalpud1ZQdjV5ZGpXUVA2bzRlZ0NXbWQ1c2tPUVlEdGVmM1hYM0dMX0NKQQ?oc=5",
+  "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Sealion 8 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T10:56:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion8"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
@@ -1107,9 +1271,43 @@
   "first_seen": "2026-10-30T08:54:34+00:00"
  },
  {
+  "id": "49d3dfd2b8289926",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkR4TUVWcTBSYjZBOGRjTFlpS2ZTQkJnSUxaSGJ2YlFLVzMzeGZZZDRRWXJtU243YWVkd1k1dk5CSDY3RG1kU3ZwLW9FS3B0Y0ZYeVlhSHNWSE5PMFg2UkxILWRiTktTMy00VXJzVWNzUmZUNmU2cFAzWjdQcUswYW80elYycFVOYXlMRmtROVRXR0VVTUlxVzVVV09vcEFXaU9BSlFFb1EzRmo4?oc=5",
+  "title": "Zeekr Not Applicable cars over $90,000 with electric engine range over 400km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars over $90,000 with electric engine range over 400km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-30T07:16:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
   "id": "df6a2d5ce66b8d3d",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkF0TlhBdGV6LUo2NzlHQkhCUHZkR0lnZDR3Nkp2Y2FDeFU5R0l5WGNMTXhkdF85S0h5MVlGWmlrYkp4amlXNm9fR0NXek1xNnJiRVM3bDNwYUJ0RXhfMDJESmhRbE5icmZMc0V4RmxabjVOcE1OZ2xsVm10SmZ4U1RhcWxnM2RuY2ZrRGV0NFZESno1ZVMwbA?oc=5",
   "title": "Kia Sorento PHEV range unlikely to grow - Carsales",
@@ -1417,6 +1615,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T08:54:34+00:00"
+ },
+ {
+  "id": "bd6c4dbdc010815e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Newswav",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2xVQ2hDT1dvb1M3d0hPZnowM1V3RkZVaWcyQlg3dFN1bkxFcC13WWg2X1BsWnY1OUZNUlhaS1ZiMUU3SFQ3cTB1akNwSm1lX0ZpeWFlVWZ5OV9vWVRFY3pKVnRPUlVVLXBUdmlMRHVwTzJSWEJJdlNrQnlIbmxCbFBhM1prLUtRMFBKYU4zUHQtaGFaZ0wtVnZTTTNDQTBrbGxndEdMaGdwb1M4U0ZLcks3emRDQQ?oc=5",
+  "title": "Geely Auto Posts Record Nine-Month Core Profit Of RMB 14.9 Billion: Exports Skyrocket 169% as Zeekr Doubles Volume - Newswav",
+  "text": "Geely Auto Posts Record Nine-Month Core Profit Of RMB 14.9 Billion: Exports Skyrocket 169% as Zeekr Doubles Volume Newswav",
+  "author": "",
+  "published": "2026-10-30T02:50:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T06:52:56+00:00"
  },
  {
   "id": "a1fbc4c20557afec",
@@ -7112,6 +7341,71 @@
   "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
+  "id": "fdf8fb18edc4c6a6",
+  "type": "competitor_news",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjVIeVNOQWdzc3NxX3JleEdLU1pfUHZMMnBfTmdQQW5qZ1pFeEcxdmphay1NMkV5SG01TDVRSHlnTk1iQnk0RkczNU9pTFFUZGVCVGE4dWtVNFo4eHdYRjZwSS1NU0xjTVZxNVFneS1zeXd2MEVrMjRLQmNKRndJMVFXYUVvNThEaWlTVHBsdTUyNHM?oc=5",
+  "title": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 - Zecar",
+  "text": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 Zecar",
+  "author": "",
+  "published": "2026-10-22T07:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "quality"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T05:17:14+00:00"
+ },
+ {
+  "id": "751f25059a37cf5d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1VkVWRjRWFfNnlXcTJaWGZkd3hhRmFpUEN6TloxanZkWXRlQk5aNkZ2TVFUajM2UTE5WDQybXIxMGpFN1ZXaEVlZ1V0Q3VaUmFKbnQwek5fUHhITVFsLXdNZ2xDZF9xWVotSHNNNklNbGFsRWJRQXhpWVF5Y1dINWdTaHp2cE54V1k2YUtqMFpWdThIUjhkWlA0N2oxYWtXZTN4SWVn?oc=5",
+  "title": "Chery Exlantix targets Zeekr with 'friendly prices' - Carsales",
+  "text": "Chery Exlantix targets Zeekr with 'friendly prices' Carsales",
+  "author": "",
+  "published": "2026-10-22T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T00:34:31+00:00"
+ },
+ {
   "id": "e7e0f5cdae95eb36",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -7773,42 +8067,6 @@
   "first_seen": "2026-10-22T05:17:14+00:00"
  },
  {
-  "id": "fdf8fb18edc4c6a6",
-  "type": "competitor_news",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · zecar",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjVIeVNOQWdzc3NxX3JleEdLU1pfUHZMMnBfTmdQQW5qZ1pFeEcxdmphay1NMkV5SG01TDVRSHlnTk1iQnk0RkczNU9pTFFUZGVCVGE4dWtVNFo4eHdYRjZwSS1NU0xjTVZxNVFneS1zeXd2MEVrMjRLQmNKRndJMVFXYUVvNThEaWlTVHBsdTUyNHM?oc=5",
-  "title": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 - zecar",
-  "text": "Mercedes-Benz CLA Shooting Brake Electric Priced From $72,990 zecar",
-  "author": "",
-  "published": "2026-10-22T01:28:51+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [
-   "quality"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "price"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T05:17:14+00:00"
- },
- {
   "id": "39cda14be34ec4f5",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -8237,35 +8495,6 @@
    "launch"
   ],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T00:34:31+00:00"
- },
- {
-  "id": "751f25059a37cf5d",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1VkVWRjRWFfNnlXcTJaWGZkd3hhRmFpUEN6TloxanZkWXRlQk5aNkZ2TVFUajM2UTE5WDQybXIxMGpFN1ZXaEVlZ1V0Q3VaUmFKbnQwek5fUHhITVFsLXdNZ2xDZF9xWVotSHNNNklNbGFsRWJRQXhpWVF5Y1dINWdTaHp2cE54V1k2YUtqMFpWdThIUjhkWlA0N2oxYWtXZTN4SWVn?oc=5",
-  "title": "Chery Exlantix targets Zeekr with 'friendly prices' - Carsales",
-  "text": "Chery Exlantix targets Zeekr with 'friendly prices' Carsales",
-  "author": "",
-  "published": "2026-10-21T22:30:52+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T00:34:31+00:00"
@@ -27330,7 +27559,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",

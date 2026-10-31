@@ -1,19 +1,19 @@
 {
- "generated": "2026-10-31T00:39:16+00:00",
- "duration_s": 335.5,
- "items_total": 1189,
- "new_this_run": 168,
+ "generated": "2026-10-31T06:52:56+00:00",
+ "duration_s": 293.4,
+ "items_total": 1196,
+ "new_this_run": 158,
  "counts": {
-  "complaints_24h": 2,
-  "complaints_7d": 5,
+  "complaints_24h": 1,
+  "complaints_7d": 4,
   "complaints_30d": 31,
-  "high_7d": 3,
+  "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 2,
   "competitor_news_7d": 100,
   "launch_signals_7d": 26,
-  "offer_signals_7d": 5,
-  "zeekr_news_7d": 34,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 37,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
@@ -135,13 +135,13 @@
    "date": "2026-10-21",
    "complaints": 0,
    "competitor_news": 15,
-   "zeekr_news": 14
+   "zeekr_news": 13
   },
   {
    "date": "2026-10-22",
    "complaints": 1,
    "competitor_news": 17,
-   "zeekr_news": 24
+   "zeekr_news": 25
   },
   {
    "date": "2026-10-23",
@@ -189,13 +189,13 @@
    "date": "2026-10-30",
    "complaints": 2,
    "competitor_news": 36,
-   "zeekr_news": 7
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-31",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 0
+   "competitor_news": 1,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -933,7 +933,7 @@
    "id": "477682d9a518ae53",
    "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-30T11:44:10+00:00",
+   "t": "2026-10-30T10:56:20+00:00",
    "competitors": [
     "byd-sealion8"
    ]
@@ -1078,7 +1078,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 26,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1093,7 +1093,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 52,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1108,27 +1108,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 47,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 27,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 44,
+   "count": 24,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 23,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 98,
+   "count": 87,
    "note": ""
   },
   "carexpert": {
@@ -1197,24 +1197,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1258,7 +1258,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 27,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
