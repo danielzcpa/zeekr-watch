@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-31T06:52:56+00:00",
- "duration_s": 293.4,
- "items_total": 1196,
- "new_this_run": 158,
+ "generated": "2026-10-31T13:33:08+00:00",
+ "duration_s": 341.9,
+ "items_total": 1203,
+ "new_this_run": 157,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 2,
   "complaints_7d": 4,
-  "complaints_30d": 31,
+  "complaints_30d": 32,
   "high_7d": 2,
   "medium_7d": 0,
   "low_7d": 2,
-  "competitor_news_7d": 100,
-  "launch_signals_7d": 26,
+  "competitor_news_7d": 101,
+  "launch_signals_7d": 25,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 37,
-  "offer_page_changes_7d": 5
+  "zeekr_news_7d": 40,
+  "offer_page_changes_7d": 6
  },
  "series_30d": [
   {
@@ -188,14 +188,14 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 36,
-   "zeekr_news": 10
+   "competitor_news": 28,
+   "zeekr_news": 9
   },
   {
    "date": "2026-10-31",
-   "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 1
+   "complaints": 1,
+   "competitor_news": 11,
+   "zeekr_news": 6
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 22
+   "n": 23
   },
   {
    "key": "charging",
@@ -240,15 +240,21 @@
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
    "n": 2
+  },
+  {
+   "key": "safety",
+   "zh": "召回/安全",
+   "en": "Recall / safety",
+   "n": 1
   }
  ],
  "models_30d": {
-  "7X": 11,
+  "7X": 12,
   "X": 1,
   "7GT": 3
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 10,
+  "Reddit r/Zeekr7xAustralia": 11,
   "Google Play (AU)": 9,
   "Reddit r/AustralianEV": 3,
   "Reddit r/Zeekr": 3,
@@ -343,14 +349,14 @@
    "latest": "314dc23a0af87d4d"
   },
   "xpeng-g6": {
-   "n_30d": 3,
+   "n_30d": 5,
    "launch": [
     "6a4c860a7340b58c",
     "1ded87a0f1ae20c9",
     "5ed70c4b9f6db41c"
    ],
    "offer": [],
-   "latest": "6a4c860a7340b58c"
+   "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
    "n_30d": 5,
@@ -719,14 +725,14 @@
   "denza-b8": {
    "n_30d": 4,
    "launch": [
-    "44ff0304dbae118d",
     "43eef9656c6878ef",
+    "44ff0304dbae118d",
     "20e01fbcd796f263"
    ],
    "offer": [
     "44ff0304dbae118d"
    ],
-   "latest": "44ff0304dbae118d"
+   "latest": "43eef9656c6878ef"
   },
   "byd-sealion8": {
    "n_30d": 6,
@@ -879,11 +885,39 @@
  },
  "alerts": [
   {
+   "kind": "offer_page_change",
+   "id": "67d2750ce69ddd3b",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+23 / −18 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+23 / −18 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-10-31T13:38:49+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "8c9ef38f9af3c4e7",
+   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-31T07:49:05+00:00",
+   "competitors": [
+    "byd-m9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "43eef9656c6878ef",
+   "title": "Denza B8 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-31T07:49:05+00:00",
+   "competitors": [
+    "denza-b8"
+   ]
+  },
+  {
    "kind": "competitor_launch",
    "id": "9cf83e3d30e44365",
    "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-30T20:12:44+00:00",
+   "t": "2026-10-31T02:07:46+00:00",
    "competitors": [
     "mb-gle"
    ]
@@ -906,26 +940,6 @@
    "t": "2026-10-30T16:13:56+00:00",
    "competitors": [
     "byd-seal"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "8c9ef38f9af3c4e7",
-   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T12:07:57+00:00",
-   "competitors": [
-    "byd-m9"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "43eef9656c6878ef",
-   "title": "Denza B8 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T11:53:43+00:00",
-   "competitors": [
-    "denza-b8"
    ]
   },
   {
@@ -998,76 +1012,6 @@
    "title_en": "Zecar (全品牌政策汇总) offer page changed (+4 / −4 lines)",
    "source": "https://zecar.com/offers-and-deals",
    "t": "2026-10-29T05:38:42+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "977de602e7893c4e",
-   "title": "BYD Seal review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T09:53:24+00:00",
-   "competitors": [
-    "byd-seal"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "39ee8a224f7f89bb",
-   "title": "Tesla Model Y review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T08:27:49+00:00",
-   "competitors": [
-    "tesla-model-y"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "ca6819fe95ffefd8",
-   "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T07:00:00+00:00",
-   "competitors": [
-    "hyundai-ioniq5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "06fa47391abc61ff",
-   "title": "Geely EX5 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T07:00:00+00:00",
-   "competitors": [
-    "geely-ex5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "c1d73282b7bf78ea",
-   "title": "Mazda 6e review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T07:00:00+00:00",
-   "competitors": [
-    "mazda-6e"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "1380cc70d4605aa5",
-   "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T07:00:00+00:00",
-   "competitors": [
-    "skoda-enyaq"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "1af84a334ac544d9",
-   "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-28T07:00:00+00:00",
-   "competitors": [
-    "byd-atto3"
-   ]
   }
  ],
  "source_status": {
@@ -1078,12 +1022,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 19,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1093,7 +1037,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 52,
+   "count": 51,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1103,12 +1047,12 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 87,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 29,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1118,17 +1062,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 23,
+   "count": 19,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 87,
+   "count": 91,
    "note": ""
   },
   "carexpert": {
@@ -1197,24 +1141,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 21,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1258,7 +1202,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 27,
    "note": ""
   },
   "playstore-android": {
@@ -1703,8 +1647,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 37,
-   "note": "unchanged"
+   "count": 42,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

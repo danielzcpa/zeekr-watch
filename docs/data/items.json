@@ -1,5 +1,550 @@
 [
  {
+  "id": "d9ce2080e61347ff",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdmFkVnU2RU1yVTU2QWdBYUphWjNyMV9PTjdnRHlXalptRUJLRGdhX0w2M24xYmFhT3o3UnRQbGhxaldtZHJjYXFPTlpiWW1VMm0wbVk1YmctSkpmVjZSSVktLWdFSTctbUp3MnphVE9rcGhydWR4ZVhqaUtSdw?oc=5",
+  "title": "2027 Zeekr 7X Price and Specs: More Power, Up to 627km Range - CarSauce",
+  "text": "2027 Zeekr 7X Price and Specs: More Power, Up to 627km Range CarSauce",
+  "author": "",
+  "published": "2026-10-31T13:10:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "dee7e3084ab843a5",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xk9q8g/2027_zeekr_7x_lands_in_australia_25kw_up_to_627km/",
+  "title": "2027 Zeekr 7X lands in Australia: +25kW, up to 627km WLTP range, pricing unchanged from $57,900",
+  "text": "",
+  "author": "/u/imissholden",
+  "published": "2026-10-31T13:05:55+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "3ebcaf638222b65d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · caradvice.com.au",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWswMkJlTVFkam1Ec0Z2UUF3Vk5SR1BVWjE4UFJIUW1IUHdtblh1TGVNTkdnZlFhZjhxTVhhTVFfUHNVSThobjIyWWhUZFc0dl85V0h5VkxxMGFnZnNmOTFKVTZOY0trZnNPcGd5S3NwUU9EZUlhV0JUMmJuTmZsdWtkUlpFXzVYNm5Eb2ZQXzN6X3kyRjNWN1BsWks3QUE?oc=5",
+  "title": "Zeekr's updated top seller is finally on sale in Australia, with more power - caradvice.com.au",
+  "text": "Zeekr's updated top seller is finally on sale in Australia, with more power caradvice.com.au",
+  "author": "",
+  "published": "2026-10-31T13:05:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "927372d4e2e0786b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Exhaust Notes Australia",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0ZZRmFCMlBoRjFQOWd3bVJROWtRYk1INzRrbTV6NzExdmlBemhfeDdMVTlab1NjQnhmbVZSYmEwNWRpWlZzaFFVLXozby1BeTExeVVYMHl0RFgxN1V3dFpYb09aVVYtV05Ba1dVenhQdFk5TjQ0UjFCbXlaTVJucTRB?oc=5",
+  "title": "Updated 2027 Zeekr 7X launches in Australia - Exhaust Notes Australia",
+  "text": "Updated 2027 Zeekr 7X launches in Australia Exhaust Notes Australia",
+  "author": "",
+  "published": "2026-10-31T13:01:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "7842d931540a1ad5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · AsiaOne.com",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZk5tVjVCWWFFY0gxLWxqbG92TTdfRndMSng3NXZVY1lpcTY4WGFhdTE0c2x1WE13b2o2VDM3M2gtMTE3RjZjd2hDTVJ5QV9XTE5JZ1BmQmpEcWhEZldZZk55cVZJTDUyZU9xc0tBbkJoeER3Q0FEZEdLVW5fUnZvdXNOVFlZdW1F?oc=5",
+  "title": "Zeekr Singapore updates the 7X with more power and range, Lifestyle News - AsiaOne.com",
+  "text": "Zeekr Singapore updates the 7X with more power and range, Lifestyle News AsiaOne.com",
+  "author": "",
+  "published": "2026-10-31T13:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "315ef0e84f51afd1",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · The Courier | Ballarat, VIC",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT2NJR0pnaHU4MVhhTHgxXzhlLTBRaGJWdUhXZDFuZHJ6UmFRLXBQWVpRd2Y0WDU2MDlmZHNpcmtMNEN0TkNvU0RTY3oycm11UjktakQ2djZiVzBURHdhaWRQX3R4VkVtbjE0YTBqV0JzYUs5S2pQdFFuRHlfOE44bjdIeGJDTmpJQzFzRmp3SjRZeGtzQzRrOGFtN0ZUSXQ5NjB2UG4wVEhPblRLV3FLa1Z1Rk8yRUt6djdrNmdRbHFhWmY3eDBFX1Fxa2p0bmJRdUwyOE56UlktUkJ2LVVoQi1jOFNfbjZKNUdvNlFB?oc=5",
+  "title": "XPeng G6 2026 review Australia: RWD Long Range | High-tech new EV offers 525km driving range - The Courier | Ballarat, VIC",
+  "text": "XPeng G6 2026 review Australia: RWD Long Range | High-tech new EV offers 525km driving range The Courier | Ballarat, VIC",
+  "author": "",
+  "published": "2026-10-31T12:07:42+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "72f8a6f37e25dfbb",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSDlBU05jQzh5Ym4wcDhSMzQwRFo0X093bkU3RHpvYXRsQkRQUXp1Z3VkcGcyWlZaMlRvallWSnZiM0RSSUdRT1MtOVgxTVo0MGdQalZpUmhvX29LNVkwVk5hd2lQd3dvcFYyOTlER0h4X01iUFRVa1MxQ3FNNEg3R0ZtRWJFUTZHSlM5VVBhYnlHQmhKQ2FHV2Uwc1NQZ0ZSS0ltWkpLTXNuaGNTam9DNWpvbGtuZk1McEw0bDd2Q0NMSXloaU01NkdySzUzaFNMTWNnbkpKd093Tl9PS3BVYlNEOW5ESUM2bUVXR0pxX2lMUQ?oc=5",
+  "title": "XPeng G6 2026 review Australia: RWD Long Range | High-tech new EV offers 525km driving range - The Canberra Times",
+  "text": "XPeng G6 2026 review Australia: RWD Long Range | High-tech new EV offers 525km driving range The Canberra Times",
+  "author": "",
+  "published": "2026-10-31T12:07:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "f0cd7627a6e39134",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xk5jdc/22_update_any_news_or_not_planned_for_rhd_markets/",
+  "title": "2.2 update - any news or not planned for RHD markets?",
+  "text": "So, Europe's already had the 2.2 update for quite a while now. I know we're generally behind European software by 6-9 months, but is there even any indication or news that we'd get any more updates? (especially in light of the facelifted 7X coming soon, it's looking increasingly likely that existing cars on Mobileye ADAS hardware will be abandoned and may not even receive anymore software updates, since the focus will likely be on facelifted models with the Bosch ADAS hardware)",
+  "author": "/u/m276_de30la",
+  "published": "2026-10-31T09:13:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "a138f9686dca36c1",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oazNJRG11NjFsQk5XYXV5ekVqSmx6STZRSEZ0TFEyM2drdTRPc2pZUmdTbVJIZDREejRRZUFpRkpZZDA1ZjAycFJiNW14UQ?oc=5",
+  "title": "BMW M5 price and specs: every variant compared - EV Central",
+  "text": "BMW M5 price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "b83016f135f0fe05",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNFQ3OUNqblNTcFh4RFg4VkhhZEF3VEdGMksyTGl2cm9EOFVlS0N5RmxtMUZZLXBZMmQ5bzdMLTVpdlVKX1N3SWdTVXVDazJxaGpCbVlxTGdaZ3M?oc=5",
+  "title": "Ford Ranger PHEV price and specs: every variant compared - EV Central",
+  "text": "Ford Ranger PHEV price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "39f20088fd4c9591",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YV25QYUFxaGgza2c0THBkNWRiRU1fQ2FTaHpaQkQ3b3Q1OFdRelZkLS1ZTkQtOUtYdGk5eWhULXVaU3hVendhbElSNk5EM3ZweEow?oc=5",
+  "title": "Volvo XC90 price and specs: every 2026 variant compared - EV Central",
+  "text": "Volvo XC90 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "31ff00b5ce27949b",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTlhzTlhKS0ptTzFUdGxZYnByZWJ0Z0s5WTB2UzBSUk95emhsQWZHTUlxWWQxSjVGVDBFOGZBVHU3ZHZyeE8xek9WSHNRemR4ejAw?oc=5",
+  "title": "Volvo XC60 price and specs: every 2026 variant compared - EV Central",
+  "text": "Volvo XC60 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "8c9ef38f9af3c4e7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQN0x0QWwxZmo5ekRaRGFrYS05TWpHMVFRT2VXYjJsSG01OVhBQ3R5RlpkZy1zdmsxWjkyUnYxNDR6T0ZmMDRiOERwQmNEUQ?oc=5",
+  "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD M9 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "43eef9656c6878ef",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43d0YwQ3NubEZIQ0NPXy1LbmpYcDU1RkNQY1dzOHFrT21ZYkRuSUJDRmdISGxxUENaYlB3S2s0YTVYUVhmSndGTm9hOWwzQ2hS?oc=5",
+  "title": "Denza B8 price and specs: every 2026 variant compared - EV Central",
+  "text": "Denza B8 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-b8"
+  ],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "6cbe21ff32c3b262",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
+  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T07:49:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "a9cedb53e6b0d0a0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
+  "author": "",
+  "published": "2026-10-31T07:03:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
   "id": "5a731d55383ae097",
   "type": "news_zeekr",
   "source": "gn-brands-cn",
@@ -131,6 +676,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
+  "id": "9cf83e3d30e44365",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WNnlKeHNmandxMnd5N3k1b3Y4Z2tpc1EzS05lU2x4Uy1NT2NkWFh5S0ZLOUJZRGliX3RwZjEtX3QyWWt1c3JqdnIzLU82eTI1TnU2Q1J2WDUxbDV3?oc=5",
+  "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
+  "text": "Mercedes-Benz GLE price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T02:07:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
   "id": "2ee837e87068f06a",
@@ -271,7 +851,7 @@
   "title": "Mazda CX-80 P50e price and specs: every variant compared - EV Central",
   "text": "Mazda CX-80 P50e price and specs: every variant compared EV Central",
   "author": "",
-  "published": "2026-10-30T20:13:14+00:00",
+  "published": "2026-10-30T20:12:00+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -304,7 +884,7 @@
   "title": "Mazda CX-60 P50e price and specs: every variant compared - EV Central",
   "text": "Mazda CX-60 P50e price and specs: every variant compared EV Central",
   "author": "",
-  "published": "2026-10-30T20:12:55+00:00",
+  "published": "2026-10-30T20:12:00+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -329,21 +909,21 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
-  "id": "a138f9686dca36c1",
+  "id": "a1a01661272877a6",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oazNJRG11NjFsQk5XYXV5ekVqSmx6STZRSEZ0TFEyM2drdTRPc2pZUmdTbVJIZDREejRRZUFpRkpZZDA1ZjAycFJiNW14UQ?oc=5",
-  "title": "BMW M5 price and specs: every variant compared - EV Central",
-  "text": "BMW M5 price and specs: every variant compared EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PeFNaYUtqbngta2c1V0QxZ1pTRFp4TFE2YTJLV3hVeWpwbmczNWMzYVVpdVNDSmxRRV9QRmtPMlJPYk5lVVB1M25aVDN3RTdaUmhjcmVCNA?oc=5",
+  "title": "BYD Sealion 6 price and specs: every variant compared - EV Central",
+  "text": "BYD Sealion 6 price and specs: every variant compared EV Central",
   "author": "",
-  "published": "2026-10-30T20:12:53+00:00",
+  "published": "2026-10-30T20:12:00+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [],
   "brands": [
-   "bmw"
+   "byd"
   ],
   "categories": [],
   "sentiment": {
@@ -359,143 +939,7 @@
   "scope": "industry",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "b83016f135f0fe05",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNFQ3OUNqblNTcFh4RFg4VkhhZEF3VEdGMksyTGl2cm9EOFVlS0N5RmxtMUZZLXBZMmQ5bzdMLTVpdlVKX1N3SWdTVXVDazJxaGpCbVlxTGdaZ3M?oc=5",
-  "title": "Ford Ranger PHEV price and specs: every variant compared - EV Central",
-  "text": "Ford Ranger PHEV price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T20:12:49+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "ford"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "39f20088fd4c9591",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YV25QYUFxaGgza2c0THBkNWRiRU1fQ2FTaHpaQkQ3b3Q1OFdRelZkLS1ZTkQtOUtYdGk5eWhULXVaU3hVendhbElSNk5EM3ZweEow?oc=5",
-  "title": "Volvo XC90 price and specs: every 2026 variant compared - EV Central",
-  "text": "Volvo XC90 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T20:12:48+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "volvo"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "9cf83e3d30e44365",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WNnlKeHNmandxMnd5N3k1b3Y4Z2tpc1EzS05lU2x4Uy1NT2NkWFh5S0ZLOUJZRGliX3RwZjEtX3QyWWt1c3JqdnIzLU82eTI1TnU2Q1J2WDUxbDV3?oc=5",
-  "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
-  "text": "Mercedes-Benz GLE price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T20:12:44+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "mb-gle"
-  ],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "31ff00b5ce27949b",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTlhzTlhKS0ptTzFUdGxZYnByZWJ0Z0s5WTB2UzBSUk95emhsQWZHTUlxWWQxSjVGVDBFOGZBVHU3ZHZyeE8xek9WSHNRemR4ejAw?oc=5",
-  "title": "Volvo XC60 price and specs: every 2026 variant compared - EV Central",
-  "text": "Volvo XC60 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T20:12:43+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "volvo"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
+  "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
   "id": "44ff0304dbae118d",
@@ -833,76 +1277,6 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
-  "id": "8c9ef38f9af3c4e7",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQN0x0QWwxZmo5ekRaRGFrYS05TWpHMVFRT2VXYjJsSG01OVhBQ3R5RlpkZy1zdmsxWjkyUnYxNDR6T0ZmMDRiOERwQmNEUQ?oc=5",
-  "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD M9 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T12:07:57+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-m9"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
-  "id": "43eef9656c6878ef",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43d0YwQ3NubEZIQ0NPXy1LbmpYcDU1RkNQY1dzOHFrT21ZYkRuSUJDRmdISGxxUENaYlB3S2s0YTVYUVhmSndGTm9hOWwzQ2hS?oc=5",
-  "title": "Denza B8 price and specs: every 2026 variant compared - EV Central",
-  "text": "Denza B8 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T11:53:43+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "denza-b8"
-  ],
-  "brands": [
-   "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
   "id": "c83b5f878967efc3",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -918,72 +1292,6 @@
   "competitors": [],
   "brands": [
    "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
-  "id": "6cbe21ff32c3b262",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
-  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T10:56:21+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
-  "id": "a1a01661272877a6",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PeFNaYUtqbngta2c1V0QxZ1pTRFp4TFE2YTJLV3hVeWpwbmczNWMzYVVpdVNDSmxRRV9QRmtPMlJPYk5lVVB1M25aVDN3RTdaUmhjcmVCNA?oc=5",
-  "title": "BYD Sealion 6 price and specs: every variant compared - EV Central",
-  "text": "BYD Sealion 6 price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T10:56:21+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
   ],
   "categories": [],
   "sentiment": {
@@ -1481,37 +1789,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T08:54:34+00:00"
- },
- {
-  "id": "a9cedb53e6b0d0a0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Motor1.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
-  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
-  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
-  "author": "",
-  "published": "2026-10-30T03:30:08+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
   "id": "a945902521f2d934",
@@ -14587,39 +14864,6 @@
   "first_seen": "2026-10-17T18:45:02+00:00"
  },
  {
-  "id": "11b838bb4f2a74d0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · The Canberra Times",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVU4WXA0bUk4c0QzcnVUSFRWVV9fSWdKeW9XTy1OaXptZkxrM01nUEhxblowV3ozdnVxUDFIanlPUmFnMWxEN1ZZUXZiNi1Vem1jUC0xQ185ZXNsRDh6aWczeHFDTlBmV2VVZEYwZk81b1hZOW51VEJ0QmFKRHpJVnRUQ014Y25mOG9QUjBSajhGUkR2emc?oc=5",
-  "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
-  "text": "New Zeekr 7X rival gets closer to Australia The Canberra Times",
-  "author": "",
-  "published": "2026-10-16T23:47:47+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-16T14:09:59+00:00"
- },
- {
   "id": "e9ae28215eba1af9",
   "type": "competitor_news",
   "source": "evcentral",
@@ -15306,6 +15550,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
+  "id": "11b838bb4f2a74d0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVU4WXA0bUk4c0QzcnVUSFRWVV9fSWdKeW9XTy1OaXptZkxrM01nUEhxblowV3ozdnVxUDFIanlPUmFnMWxEN1ZZUXZiNi1Vem1jUC0xQ185ZXNsRDh6aWczeHFDTlBmV2VVZEYwZk81b1hZOW51VEJ0QmFKRHpJVnRUQ014Y25mOG9QUjBSajhGUkR2emc?oc=5",
+  "title": "New Zeekr 7X rival gets closer to Australia - The Canberra Times",
+  "text": "New Zeekr 7X rival gets closer to Australia The Canberra Times",
+  "author": "",
+  "published": "2026-10-16T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-16T14:09:59+00:00"
  },
  {
   "id": "14be5849733d765f",
@@ -26894,20 +27171,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -27559,7 +27834,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -41152,40 +41427,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T00:34:31+00:00"
- },
- {
-  "id": "663559dc79a6f125",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnlndjNtQWRjeTE5dzJlVmRRQ21NQVdFdG1DWkxrWFY1a1BqNXhhMUpWUlFBNFY0T0lndjRLY3JDRVVLZ0s2MTMxS0Z3SnpnQjhmUmZBTlBrbHdGZ3pFcl9Xb0lvakxETFU5QkEtUUttQXQxZktfaDFPUGJQeWd5akwwQjdZaUpLd3VVT0RXMHVFbkx5enp6MHVJVHBFSVp3ckVLNmpXSWlGalB5VmQ4YQ?oc=5",
-  "title": "Zeekr 7X expected to dethrone Tesla Model Y as Australia's most popular EV - CarExpert",
-  "text": "Zeekr 7X expected to dethrone Tesla Model Y as Australia's most popular EV CarExpert",
-  "author": "",
-  "published": "2026-05-04T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [
-   "tesla-model-y"
-  ],
-  "brands": [
-   "tesla"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
  }
 ]
