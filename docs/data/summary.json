@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-31T17:53:20+00:00",
- "duration_s": 377.8,
- "items_total": 1207,
- "new_this_run": 189,
+ "generated": "2026-10-31T21:23:11+00:00",
+ "duration_s": 339.7,
+ "items_total": 1209,
+ "new_this_run": 202,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 4,
@@ -13,8 +13,8 @@
   "competitor_news_7d": 102,
   "launch_signals_7d": 25,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 39,
-  "offer_page_changes_7d": 7
+  "zeekr_news_7d": 41,
+  "offer_page_changes_7d": 8
  },
  "series_30d": [
   {
@@ -189,13 +189,13 @@
    "date": "2026-10-30",
    "complaints": 2,
    "competitor_news": 27,
-   "zeekr_news": 9
+   "zeekr_news": 10
   },
   {
    "date": "2026-10-31",
    "complaints": 1,
    "competitor_news": 13,
-   "zeekr_news": 6
+   "zeekr_news": 7
   }
  ],
  "categories_30d": [
@@ -886,6 +886,14 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "87a076a4c12d482d",
+   "title": "Kia 官网政策页面变化（+1 / −25 行）",
+   "title_en": "Kia offer page changed (+1 / −25 lines)",
+   "source": "https://www.kia.com/au/offers.html",
+   "t": "2026-10-31T21:28:49+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "95627e0e3c5a978b",
    "title": "MG / IM 官网政策页面变化（+6 / −3 行）",
    "title_en": "MG / IM offer page changed (+6 / −3 lines)",
@@ -1025,17 +1033,17 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 68,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 19,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 31,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1045,7 +1053,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 53,
+   "count": 55,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1055,32 +1063,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 83,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 49,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 48,
+   "count": 29,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 35,
+   "count": 23,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 19,
+   "count": 22,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 100,
+   "count": 85,
    "note": ""
   },
   "carexpert": {
@@ -1164,24 +1172,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1565,8 +1573,8 @@
   },
   "offers-kia": {
    "ok": true,
-   "count": 27,
-   "note": "unchanged"
+   "count": 3,
+   "note": "changed"
   },
   "offers-polestar": {
    "ok": true,
@@ -1581,7 +1589,7 @@
   "offers-mg": {
    "ok": true,
    "count": 34,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-mazda": {
    "ok": true,

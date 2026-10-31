@@ -1,58 +1,28 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-10-31T17:59:36+00:00",
-  "digest": "2cc621be6a20efbc",
-  "money": [
-   1000,
-   2000,
-   5000,
-   33490,
-   54990
-  ],
-  "n_lines": 27,
+  "fetched": "2026-10-31T21:28:49+00:00",
+  "digest": "132b3c26d48a4487",
+  "money": [],
+  "n_lines": 3,
   "lines": [
    "If you tick the box, you also consent to your information being used by KIA and its dealers and related entities so that we can send you direct marketing communications which may be of interest to you, including updates and special offers.",
    "Latest Offers & Deals from Kia",
-   "Drive Away estimate from",
-   "$33,490 Plus $2,000 Cashback",
-   "Receive $2,000 cashback",
-   "1.88% p.a. Comparison Rate* or $2,000 Cashback Offer^",
-   "Two offers. Your choice.",
-   "Choose a $2,000 cashback^ with Kia Australia, redeemable as a price reduction only, when you purchase and take delivery of an in-stock new or demo Kia EV5 in September or October. Or choose a 1.88% p.a. comparison rate* with a Kia Finance loan on in-stock new or demo Kia EV5 models. Max term 36 months. 20% deposit required.",
-   "1.88% p.a. Comparison Rate* or $1,000 Cashback Offer^",
-   "Choose a $1,000 cashback^ with Kia Australia, redeemable as a price reduction only, when you purchase and take delivery of an in-stock new or demo Kia EV3 in September or October. Or choose a 1.88% p.a. comparison rate* with a Kia Finance loan on in-stock new or demo Kia EV3 models. Max term 36 months. 20% deposit required.",
-   "5 Free Scheduled Services",
-   "Receive 5 free scheduled services",
-   "$54,990 Plus $5,000 Cashback Offer",
-   "On top of a great drive away price, receive $5,000 cashback",
-   "Capable, comfortable, captivating. Reinvigorate your drive with the turbocharged Sorento HEV, offering impressive power and control.",
-   "NO OFFERS WERE FOUND",
-   "#K4 & Tasman SX+ Cashback Offer",
-   "Drive Away Offer",
-   "Drive Away Offer for ABN holders",
-   "2. The vehicles that are eligible for the offer are listed below.",
-   "3. The offer covers the capped price of the vehicle’s first five standard scheduled services only. The offer does not cover the cost of any of the following:",
-   "4. The five free scheduled services must be carried out at an authorised Kia dealer in accordance with the applicable time and kilometre (whichever occurs first) scheduled maintenance requirements, as set out in the Owner’s Manual for the vehicle.",
-   "5. The offer is assigned to the vehicle and not the owner. The offer is transferable to subsequent owners of the vehicle but cannot be transferred to another vehicle.",
-   "6. The offer is not exchangeable or redeemable for cash. No refunds or discounts will be issued if any free scheduled services are missed or not claimed.",
-   "7. The offer is available to private and business buyers only. It is not available to fleet, government or rental buyers or in conjunction with other offers unless stated otherwise.",
-   "Kia Australia reserves the right to vary, extend or withdraw the offer at any time.",
-   "*^EV3 & EV5 Cashback & Finance Offers"
+   "November Offers will be available soon. Please check again later."
   ]
  },
  "polestar": {
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -72,14 +42,14 @@
  },
  "mini": {
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "1ba9e961b5216edd",
   "money": [
    1000,
@@ -134,7 +104,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "36124b2395b042d4",
   "money": [
    2000,
@@ -159,14 +129,14 @@
  },
  "mercedes": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -190,14 +160,14 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "byd": {
   "key": "byd",
   "brand": "BYD",
   "url": "https://www.byd.com.au/offers",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -207,7 +177,7 @@
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "0ef7bb8ec59ae215",
   "money": [],
   "n_lines": 9,
@@ -225,19 +195,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -249,7 +219,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "81705bf45a582811",
   "money": [
    91661
@@ -276,7 +246,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -286,7 +256,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -300,19 +270,19 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "438b8e46e1221842",
   "money": [
    1000,
@@ -396,7 +366,7 @@
   ],
   "n_lines": 8,
   "last_error": "HTTP 403",
-  "last_attempt": "2026-10-31T17:59:36+00:00",
+  "last_attempt": "2026-10-31T21:28:49+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -412,7 +382,7 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-10-31T17:59:36+00:00",
+  "fetched": "2026-10-31T21:28:49+00:00",
   "digest": "2fe0fce77d9a87b8",
   "money": [
    6056

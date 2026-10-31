@@ -1,5 +1,36 @@
 [
  {
+  "id": "c23ac47241974ca2",
+  "type": "news_zeekr",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1l6RlkyeGhCZXAxdWlWdGRiVHlwdTlYZmJlRmp5RnRnMzJHOXZyc2x3Sm5MWWpNc0Znc3pvNEw3bVBONndsRWhFYzA5Q3F5ZHVKSTZ1N25qazBNaXd0UFNmZzQwRHp3UWxCamw4cFJmY1hVQUF4ZDc0MUJkX0NjN0JkRkM?oc=5",
+  "title": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged - Zecar",
+  "text": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged Zecar",
+  "author": "",
+  "published": "2026-10-31T20:41:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T21:23:11+00:00"
+ },
+ {
   "id": "a9cedb53e6b0d0a0",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -33,8 +64,8 @@
  {
   "id": "1505fada06f3450d",
   "type": "deal",
-  "source": "ozbargain-zeekr",
-  "source_name": "OzBargain (Zeekr)",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
   "url": "https://www.ozbargain.com.au/node/981105",
   "title": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia",
   "text": "Pasting from website: Right now, we're offering an exclusive suite of premium upgrades and ownership benefits for those ready to lead the charge. The following upgrades are yours at no …",
@@ -63,7 +94,7 @@
   "signals": [
    "price"
   ],
-  "scope": "zeekr_complaint",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T17:53:20+00:00"
@@ -249,7 +280,7 @@
  {
   "id": "927372d4e2e0786b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Exhaust Notes Australia",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0ZZRmFCMlBoRjFQOWd3bVJROWtRYk1INzRrbTV6NzExdmlBemhfeDdMVTlab1NjQnhmbVZSYmEwNWRpWlZzaFFVLXozby1BeTExeVVYMHl0RFgxN1V3dFpYb09aVVYtV05Ba1dVenhQdFk5TjQ0UjFCbXlaTVJucTRB?oc=5",
   "title": "Updated 2027 Zeekr 7X launches in Australia - Exhaust Notes Australia",
@@ -276,7 +307,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
@@ -692,7 +723,7 @@
  {
   "id": "5a731d55383ae097",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQ080ZHNtbVJuY3Z5dkZZYUJ2Sm1veGNTR3ZSZFpnd2pBc2xJbG9YcTRUR0RyNUw4SFdkellrQWRqN0RVeE1tS0p5MDRtNzVRdXlEZzZNZUtYR1hvekxGUG1POVFrUXhjZ1dwbldWckt0YnRW?oc=5",
   "title": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested - CarsGuide",
@@ -721,7 +752,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
@@ -1556,6 +1587,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "4981d571449e01d5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWF4V2ljTVRXRHNzanplZ2h4M01tS1lmQTFWd3ZrYW5sdkVoZS1HRkJKTkE2Tnl0RFR2cEFwR2hTVzlXOGp2X3Y5ZjFITmdUVTNVSk1lVGk4VHp1QmlLODlIbmxKM2RhdWJTQ3JUYVJfekM3a2V4TmdOU0czNHRoSjhuSk9EcGpLbVJZVTMweHlOZXczX2h3?oc=5",
+  "title": "Zeekr cars between $20,000 & $50,000 with electric engine range over 500km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $20,000 & $50,000 with electric engine range over 500km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-30T09:45:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T21:23:11+00:00"
  },
  {
   "id": "a1259168a41994e1",
@@ -2574,7 +2638,7 @@
  {
   "id": "1b7032d3e4dc1cbc",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · autoevolution",
   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGdQVHFDWjhoRURFaFI1WUQ5S1V0Ukc2MUFCTzdZMEFKM0ktaUwxUGV5eE8tR2pNM1VOV2ZhalN3bTJFNS1RTWJWRW5YWlBjUlNnWVhBWGtsSF9TTm9CbWJhb3lwcmFHeFhYMDJSLW16dWphWmtaeFlHOGxwOXNxS0RJb21JS29laDNiQ29ZczlWeUtvX19MRDl3andPRHIwQjY4c0hLTTBwUFdubkZ2Mjd1MWRGSENSdTcyc19tU1NhQzJ4QWJBVTNtX2lOc2FPZXpZYjlHd19mZWt1NDVxLQ?oc=5",
   "title": "All-Electric MGU9 EV Arrives Now In Australia With Pricing on Par With the Toyota Land Cruiser Prado - autoevolution",
@@ -28010,7 +28074,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -28033,7 +28097,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -38767,10 +38831,10 @@
   "id": "3c886f011575d112",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
-  "source_name": "Google News · zecar",
+  "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFNoTkYxWUdSd2RkSC1QdWpGRzZPb0VXSWg4enFNTm1lOXhxWnplNmVBY1hGMU5aZzhUNXJjLVloTjlVbXhSeVNfNkRTYWY1MEhFQnJOMmo3U2RLVU93NmxEVVJEdFZfVHZHZ243VUd4YVZIeVlOeW45SDduWndUM0VjdWpmZVJjSzFqQkIyaw?oc=5",
-  "title": "Model Y vs Zeekr 7X 2026: Price and Specs Compared - zecar",
-  "text": "Model Y vs Zeekr 7X 2026: Price and Specs Compared zecar",
+  "title": "Model Y vs Zeekr 7X 2026: Price and Specs Compared - Zecar",
+  "text": "Model Y vs Zeekr 7X 2026: Price and Specs Compared Zecar",
   "author": "",
   "published": "2026-06-23T07:00:00+00:00",
   "rating": null,
