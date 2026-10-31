@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-30T20:39:16+00:00",
- "duration_s": 336.4,
- "items_total": 1185,
- "new_this_run": 167,
+ "generated": "2026-10-31T00:39:16+00:00",
+ "duration_s": 335.5,
+ "items_total": 1189,
+ "new_this_run": 168,
  "counts": {
-  "complaints_24h": 1,
-  "complaints_7d": 4,
-  "complaints_30d": 30,
+  "complaints_24h": 2,
+  "complaints_7d": 5,
+  "complaints_30d": 31,
   "high_7d": 3,
   "medium_7d": 0,
-  "low_7d": 1,
-  "competitor_news_7d": 99,
+  "low_7d": 2,
+  "competitor_news_7d": 100,
   "launch_signals_7d": 26,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 38,
+  "zeekr_news_7d": 34,
   "offer_page_changes_7d": 5
  },
  "series_30d": [
-  {
-   "date": "2026-10-01",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 1
-  },
   {
    "date": "2026-10-02",
    "complaints": 1,
@@ -69,7 +63,7 @@
    "date": "2026-10-09",
    "complaints": 1,
    "competitor_news": 13,
-   "zeekr_news": 3
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-10",
@@ -183,7 +177,7 @@
    "date": "2026-10-28",
    "complaints": 0,
    "competitor_news": 20,
-   "zeekr_news": 8
+   "zeekr_news": 7
   },
   {
    "date": "2026-10-29",
@@ -193,9 +187,15 @@
   },
   {
    "date": "2026-10-30",
-   "complaints": 1,
-   "competitor_news": 35,
-   "zeekr_news": 6
+   "complaints": 2,
+   "competitor_news": 36,
+   "zeekr_news": 7
+  },
+  {
+   "date": "2026-10-31",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 21
+   "n": 22
   },
   {
    "key": "charging",
@@ -243,13 +243,13 @@
   }
  ],
  "models_30d": {
+  "7X": 11,
   "X": 1,
-  "7X": 10,
   "7GT": 3
  },
  "sources_30d": {
+  "Reddit r/Zeekr7xAustralia": 10,
   "Google Play (AU)": 9,
-  "Reddit r/Zeekr7xAustralia": 9,
   "Reddit r/AustralianEV": 3,
   "Reddit r/Zeekr": 3,
   "ProductReview.com.au": 2,
@@ -891,11 +891,21 @@
   {
    "kind": "competitor_launch",
    "id": "44ff0304dbae118d",
-   "title": "Denza B5 price cut: BYD’s Toyota Prado rival now priced under $74k drive-away",
+   "title": "Denza B5 price cut: BYD’s Toyota Prado rival now priced under $75k drive-away",
    "source": "CarExpert",
    "t": "2026-10-30T20:00:00+00:00",
    "competitors": [
     "denza-b8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "1449d41803c59183",
+   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-30T16:13:56+00:00",
+   "competitors": [
+    "byd-seal"
    ]
   },
   {
@@ -920,16 +930,6 @@
   },
   {
    "kind": "competitor_launch",
-   "id": "a8af33cd32623473",
-   "title": "GAC M8 price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T11:50:41+00:00",
-   "competitors": [
-    "gac-m8"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
    "id": "477682d9a518ae53",
    "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
@@ -940,12 +940,12 @@
   },
   {
    "kind": "competitor_launch",
-   "id": "1449d41803c59183",
-   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+   "id": "a8af33cd32623473",
+   "title": "GAC M8 price and specs: every variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-30T10:51:57+00:00",
+   "t": "2026-10-30T10:29:24+00:00",
    "competitors": [
-    "byd-seal"
+    "gac-m8"
    ]
   },
   {
@@ -1068,16 +1068,6 @@
    "competitors": [
     "byd-atto3"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "418bf3453df753e5",
-   "title": "Upgraded Renault Megane E-Tech returns to Australia: How much are you willing to pay for something different?",
-   "source": "EV Central",
-   "t": "2026-10-27T22:00:00+00:00",
-   "competitors": [
-    "tesla-model-3"
-   ]
   }
  ],
  "source_status": {
@@ -1103,7 +1093,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 52,
+   "count": 51,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1113,32 +1103,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 96,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 46,
+   "count": 47,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 41,
+   "count": 27,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 30,
+   "count": 44,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 25,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 100,
+   "count": 98,
    "note": ""
   },
   "carexpert": {

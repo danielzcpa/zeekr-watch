@@ -1,5 +1,104 @@
 [
  {
+  "id": "2ee837e87068f06a",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xjveft/android_owners_are_getting_a_secondrate_zeekr/",
+  "title": "Android owners are getting a second-rate Zeekr experience",
+  "text": "I own a Zeekr 7x, and I’m an Android user. I paid premium money for a premium car, but the phone experience doesn’t match. On Android, I can’t get reliable hands-free entry. The car doesn’t unlock as I approach or lock as I walk away unless I open the app first. That’s a basic expectation at this price, and iPhone owners get a far more polished experience. This isn’t a hardware limitation. A single independent developer has reverse-engineered the digital key protocol and built an Android app that pairs over Bluetooth and locks and unlocks the car. It’s experimental, but it shows the car can do it. The gap is software priority, not capability. When a hobbyist is ahead of the manufacturer on a core feature, that’s a problem for the brand. What I’m asking for: A native Android digital key with approach-unlock and walk-away lock that works without the phone being unlocked A committed timeline for it Android treated as a first-class platform in the app roadmap Many Android owners are watching how Zeekr responds. A premium brand should lead here, not make its customers hunt for workarounds.",
+  "author": "/u/soitman",
+  "published": "2026-10-30T23:57:11+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T00:39:16+00:00"
+ },
+ {
+  "id": "e04dc63e55c3dc3d",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · https://www.carseekers.com.au/",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2xZMVAtUWFCMGROZDFwemIxRmo2OWxMVEVkNUwyb29TeUpKemg4TmJ3YUJTTUo3NUZ6ZGlfdHlheGNSLVhwZkp3N1o2M1FJU3RhMFpuc05rMmpUUHdGUjYzSlBBcUZhcXVxazFDOHdfWnZnYVd4MS15VzF6cXpPMldnUjJfUFczRkNkWnN3?oc=5",
+  "title": "Kia K4 Hybrid Australia: Not Confirmed, What to Buy Now - https://www.carseekers.com.au/",
+  "text": "Kia K4 Hybrid Australia: Not Confirmed, What to Buy Now https://www.carseekers.com.au/",
+  "author": "",
+  "published": "2026-10-30T22:19:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T00:39:16+00:00"
+ },
+ {
+  "id": "6470dc89d9621900",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xjswkm/floor_matt_recommendations/",
+  "title": "Floor Matt recommendations",
+  "text": "Hey 7x crew. Has anyone purchased any aftermarket floor matts? Where did they get them from and are they happy with them? I absolutely love this car. But it’s only got 2200klms on it and the factory floor Matt looks like it’s about 30,000klms old Looking for recommendations",
+  "author": "/u/Kind-Investment-6045",
+  "published": "2026-10-30T22:07:59+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 4,
+   "neg_hits": 0,
+   "pos_hits": 4,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T00:39:16+00:00"
+ },
+ {
   "id": "623487594ca54651",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -235,46 +334,13 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
-  "id": "6cbe21ff32c3b262",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
-  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T20:03:45+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
   "id": "44ff0304dbae118d",
   "type": "competitor_news",
   "source": "carexpert",
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/denza-b5-price-cut-byds-toyota-prado-rival-now-priced-under-dollar74k-drive-away",
-  "title": "Denza B5 price cut: BYD’s Toyota Prado rival now priced under $74k drive-away",
-  "text": "BYD’s premium brand Denza has discounted 2025-built examples of its B5 by more than $7000 as it looks to clear existing stock of the large plug-in hybrid off-road SUV. The five-seat Denza B5 was launched in Australia in December 2025 alongside the larger Denza B8 , which offers six- and seven-seat configurations. The discount sees MY25 B5s priced at $74,990 drive-away, with Denza effectively paying the on-road costs. This represents a saving of more than $7000 compared with the previous drive-away price of $82,138 for customers with a Sydney 2000 postcode. The higher-spec B5 Leopard is priced at $79,990 drive-away for selected 2025-build vehicles, compared with $87,388 drive-away for vehicles produced in 2026. Denza's terms and conditions confirm the offers only apply to ‘new’ 2025-build vehicles in ‘selected’ exterior and interior colours, with higher prices for vehicles fitted with options. The B5 is pitched as a rival to the Toyota Prado and Land Rover Defender , and comes in two model grades: the entry-level B5 and the better-equipped B5 Leopard. Both variants are powered by a 1.5-litre turbocharged four-cylinder petrol engine and a pair of electric motors, one for each axle, w",
+  "title": "Denza B5 price cut: BYD’s Toyota Prado rival now priced under $75k drive-away",
+  "text": "BYD’s premium brand Denza has discounted 2025-built examples of its B5 by more than $7000 as it looks to clear existing stock of the large plug-in hybrid off-road SUV. The five-seat Denza B5 was launched in Australia in December 2025 alongside the larger Denza B8 , which offers six- and seven-seat configurations. The discount sees model year 2025 (MY25) B5s priced at $74,990 drive-away, with Denza effectively paying the on-road costs. This represents a saving of more than $7000 compared with the previous drive-away price of $82,138 for customers with a Sydney 2000 postcode. The higher-spec B5 Leopard is priced at $79,990 drive-away for selected 2025-build vehicles, compared with $87,388 drive-away for vehicles produced in 2026. Denza's terms and conditions confirm the offers only apply to ‘new’ 2025-build vehicles in ‘selected’ exterior and interior colours, with higher prices for vehicles fitted with options. The B5 is pitched as a rival to the Toyota Prado and Land Rover Defender , and comes in two model grades: the entry-level B5 and the better-equipped B5 Leopard. Both variants are powered by a 1.5-litre turbocharged four-cylinder petrol engine and a pair of electric motors, on",
   "author": "Damion Smy",
   "published": "2026-10-30T20:00:00+00:00",
   "rating": null,
@@ -312,6 +378,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "3bd20a0d224c5f9f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mbnN6OHkwTUdjN3NIWVU5SkJsWE53a3NfY0lnTV9HdnZaLTZ2aXR3MnRYMzRlQmhzdU04cFdrV3dYT2hZNFh4MVJqQ3M0Yi1yM2pnMDJTUQ?oc=5",
+  "title": "ZEEKR 7X - Autohled.cz",
+  "text": "ZEEKR 7X Autohled.cz",
+  "author": "",
+  "published": "2026-10-30T19:29:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T00:39:16+00:00"
  },
  {
   "id": "0038d4774f9a1e33",
@@ -384,7 +481,7 @@
   "title": "‘We Are Long-Term Committed In Europe’: Why Tariffs Won’t Scare Zeekr Off - InsideEVs",
   "text": "‘We Are Long-Term Committed In Europe’: Why Tariffs Won’t Scare Zeekr Off InsideEVs",
   "author": "",
-  "published": "2026-10-30T15:27:52+00:00",
+  "published": "2026-10-30T16:19:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -403,6 +500,107 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "1449d41803c59183",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93blgzU3NuTVBGRVp2MXZBSVl5TTZ5bFBocGNMekNBOXNQVS1Cb1FaQW16QTY1N041eXhxUnF3QlhtMlpXWWI4N0xTZ0VGeEpfalFmRFBjbUdqUQ?oc=5",
+  "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Seal 6 DM-i price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T16:13:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "a1d038a52f9d3cc7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFZUV3U2RVNjcVVoaG1rY01UeHpqb3NteWxWWHVpVUtNWHVWdjdBYmxiSU44M1R3NG9oeFNWQlZEeTJfRkJJdVMyZm0xaUtoa0xRRHJxWG14dw?oc=5",
+  "title": "BYD Atto 2 DM-i price and specs: every variant compared - EV Central",
+  "text": "BYD Atto 2 DM-i price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T16:13:55+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "37358bec7406071f",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KckV5ZjdZcEhxSzBxa0NrRDRmVGk3elZESWJ1eUVsM29Ldm5lNlZaaFl1LWx6MGNzM0RCUG1fUFgwN0NLa0dsbE9RSVVIcUxScm9rSHNnOEZZZ2M?oc=5",
+  "title": "Porsche Panamera price and specs: every variant compared - EV Central",
+  "text": "Porsche Panamera price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T16:13:50+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
   "id": "3e00d44e3787cc05",
@@ -541,41 +739,6 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
-  "id": "a8af33cd32623473",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NZ1ljeThPTzljNHNzdFRTZmlsaVN1VGcwdFZxZzN6OTduTnVqOXJEdkJNdXpkLVU1LVA0cWNvLWgyT0s4TTlqMVE2UDhMZw?oc=5",
-  "title": "GAC M8 price and specs: every variant compared - EV Central",
-  "text": "GAC M8 price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T11:50:41+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "gac-m8"
-  ],
-  "brands": [
-   "gac"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
   "id": "477682d9a518ae53",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -644,6 +807,39 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
+  "id": "6cbe21ff32c3b262",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
+  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T10:56:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
   "id": "a1a01661272877a6",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -677,56 +873,23 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
-  "id": "a1d038a52f9d3cc7",
+  "id": "a8af33cd32623473",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFZUV3U2RVNjcVVoaG1rY01UeHpqb3NteWxWWHVpVUtNWHVWdjdBYmxiSU44M1R3NG9oeFNWQlZEeTJfRkJJdVMyZm0xaUtoa0xRRHJxWG14dw?oc=5",
-  "title": "BYD Atto 2 DM-i price and specs: every variant compared - EV Central",
-  "text": "BYD Atto 2 DM-i price and specs: every variant compared EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NZ1ljeThPTzljNHNzdFRTZmlsaVN1VGcwdFZxZzN6OTduTnVqOXJEdkJNdXpkLVU1LVA0cWNvLWgyT0s4TTlqMVE2UDhMZw?oc=5",
+  "title": "GAC M8 price and specs: every variant compared - EV Central",
+  "text": "GAC M8 price and specs: every variant compared EV Central",
   "author": "",
-  "published": "2026-10-30T10:51:57+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "1449d41803c59183",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93blgzU3NuTVBGRVp2MXZBSVl5TTZ5bFBocGNMekNBOXNQVS1Cb1FaQW16QTY1N041eXhxUnF3QlhtMlpXWWI4N0xTZ0VGeEpfalFmRFBjbUdqUQ?oc=5",
-  "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Seal 6 DM-i price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T10:51:57+00:00",
+  "published": "2026-10-30T10:29:24+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "byd-seal"
+   "gac-m8"
   ],
   "brands": [
-   "byd"
+   "gac"
   ],
   "categories": [],
   "sentiment": {
@@ -742,40 +905,7 @@
   "scope": "industry",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "37358bec7406071f",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KckV5ZjdZcEhxSzBxa0NrRDRmVGk3elZESWJ1eUVsM29Ldm5lNlZaaFl1LWx6MGNzM0RCUG1fUFgwN0NLa0dsbE9RSVVIcUxScm9rSHNnOEZZZ2M?oc=5",
-  "title": "Porsche Panamera price and specs: every variant compared - EV Central",
-  "text": "Porsche Panamera price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T10:51:57+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "porsche"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
+  "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
   "id": "9425d102315b8967",
@@ -1793,7 +1923,7 @@
  {
   "id": "1b7032d3e4dc1cbc",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · autoevolution",
   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGdQVHFDWjhoRURFaFI1WUQ5S1V0Ukc2MUFCTzdZMEFKM0ktaUwxUGV5eE8tR2pNM1VOV2ZhalN3bTJFNS1RTWJWRW5YWlBjUlNnWVhBWGtsSF9TTm9CbWJhb3lwcmFHeFhYMDJSLW16dWphWmtaeFlHOGxwOXNxS0RJb21JS29laDNiQ29ZczlWeUtvX19MRDl3andPRHIwQjY4c0hLTTBwUFdubkZ2Mjd1MWRGSENSdTcyc19tU1NhQzJ4QWJBVTNtX2lOc2FPZXpZYjlHd19mZWt1NDVxLQ?oc=5",
   "title": "All-Electric MGU9 EV Arrives Now In Australia With Pricing on Par With the Toyota Land Cruiser Prado - autoevolution",
@@ -3048,39 +3178,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-18T17:59:55+00:00"
- },
- {
-  "id": "af15aa7c4a27f293",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
-  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
-  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
   "id": "adde0bd3d0366873",
@@ -13423,7 +13520,7 @@
  {
   "id": "ff7f848fd6e1b824",
   "type": "competitor_news",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GLU5RNUJ5N1JoNTBJcHE3TGs4YXJvUW5DRFJyXzdQZWx2cDJsTDktenNvRjlQR2ZkNFZQRjE4UjIzRTlfNTU3YTJBOS1INU5scFZ0cw?oc=5",
   "title": "Skoda Elroq price and specs: every 2026 variant compared - EV Central",
@@ -13448,7 +13545,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T16:18:05+00:00"
@@ -22169,6 +22266,39 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
+  "id": "af15aa7c4a27f293",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zYld3YTBmVmJPUDZTUXBoeVRGeERmbGlPeGhnY1h0di1GcUhySm9qVEhyaFU3VjI2YXExTHpzVzFCUk82UmZIQTFNLWI4Zkw4?oc=5",
+  "title": "Zeekr 7X review: every 2026 variant, price and specs - EV Central",
+  "text": "Zeekr 7X review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
   "id": "a27bf89cf6f37c43",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -27200,7 +27330,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
