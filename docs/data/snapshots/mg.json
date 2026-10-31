@@ -2,8 +2,8 @@
  "key": "mg",
  "brand": "MG / IM",
  "url": "https://mgmotor.com.au/offers",
- "fetched": "2026-10-31T13:38:49+00:00",
- "digest": "0353ecc6a13c94e3",
+ "fetched": "2026-10-31T17:59:36+00:00",
+ "digest": "1ba9e961b5216edd",
  "lines": [
   "Latest Offers",
   "2025 Build Plate Clearance Offers",
@@ -13,14 +13,17 @@
   "Drive Away Price",
   "Offer ends 31 October",
   "Cash Back $1,000∞",
+  "Cash Back $1,500∞",
   "Drive Away Offer",
-  "Cash Back $500∞",
-  "$500 Accessories",
+  "Offer ends 31 December",
+  "$1,000 Cashback",
   "Cash Back $3,000∞",
+  "Cash Back $4,000∞",
+  "Cash Back $5,000∞",
   "Cash Back $6,000∞",
+  "Cash Back $7,000∞",
   "Cashback $2,000∞",
   "Cash Back $1,000∞ & Trade In Bonus $2000^",
-  "$3,000 Cash Back∞ & $500 Accessory Bonus**",
   "Additional discounts on select new 2025 build MG models. While stocks last.",
   "∞ Cashback offer and Plate Clearance available on selected vehicles sold from participating MG Dealers between 01 Oct to 31 Oct 2026 and delivered between 01 Oct to 31 Oct 2026.",
   "Cashback offers are as follows:",
@@ -39,12 +42,14 @@
  ],
  "money": [
   1000,
+  1500,
   2000,
   3000,
   4000,
   5000,
   6000,
+  7000,
   8000
  ],
- "n_lines": 31
+ "n_lines": 34
 }

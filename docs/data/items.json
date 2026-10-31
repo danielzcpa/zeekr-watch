@@ -1,14 +1,157 @@
 [
  {
-  "id": "d9ce2080e61347ff",
+  "id": "a9cedb53e6b0d0a0",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
-  "source_name": "Google News · CarSauce",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xdmFkVnU2RU1yVTU2QWdBYUphWjNyMV9PTjdnRHlXalptRUJLRGdhX0w2M24xYmFhT3o3UnRQbGhxaldtZHJjYXFPTlpiWW1VMm0wbVk1YmctSkpmVjZSSVktLWdFSTctbUp3MnphVE9rcGhydWR4ZVhqaUtSdw?oc=5",
-  "title": "2027 Zeekr 7X Price and Specs: More Power, Up to 627km Range - CarSauce",
-  "text": "2027 Zeekr 7X Price and Specs: More Power, Up to 627km Range CarSauce",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
   "author": "",
-  "published": "2026-10-31T13:10:42+00:00",
+  "published": "2026-10-31T16:48:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "1505fada06f3450d",
+  "type": "deal",
+  "source": "ozbargain-zeekr",
+  "source_name": "OzBargain (Zeekr)",
+  "url": "https://www.ozbargain.com.au/node/981105",
+  "title": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia",
+  "text": "Pasting from website: Right now, we're offering an exclusive suite of premium upgrades and ownership benefits for those ready to lead the charge. The following upgrades are yours at no …",
+  "author": "FerreroRocher",
+  "published": "2026-10-31T15:41:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T17:53:20+00:00"
+ },
+ {
+  "id": "4a80263afe3566ca",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWJzRnpFYmxPRnFIYnVEMW16eWZDR1lqUDFTYm83M0YtcHlCcWkyUmpIWW52S21vbWpuUzVLTHREQllMTkRsVklKWnozNU9lOXA2cHZpTWVMWEpPSEFSWUxVS0NKX1JHcmRvZDFlcHRDTmNia2NVa1ZkdWlBX3lySWM1c2ZYZHNvN1FoLUY3OEF0bzBUeXRLaElRTm9aNHg5aU1n?oc=5",
+  "title": "2021 Tesla Model 3 Standard Range Plus Auto - Carsales",
+  "text": "2021 Tesla Model 3 Standard Range Plus Auto Carsales",
+  "author": "",
+  "published": "2026-10-31T15:37:27+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
+  "id": "f0997630825fcba4",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-zeekr-7x-update-more-power-same-price",
+  "title": "2027 Zeekr 7X update: More power, same price",
+  "text": "The 2027 Zeekr 7X electric SUV features a few minor exterior and interior tweaks, as well as a more powerful set of electric motors. Visually there's little to distinguish the 2027 model from earlier iterations. Those with eagle eyes might notice the revised front air intakes, narrower active grille shutter and redesigned rear diffuser. The rear licence plate has been moved from the bumper to the tailgate, and a new colour scheme has been added: Tech Grey paint for the lower body with a black roof. Inside there's a reworked centre console with repositioned cupholders, and an additional storage space. The three-tier model structure, as well as the pricing, are unchanged. The RWD model kicks things off at $57,900, the Long Range RWD sits in the middle with a $63,900 sticker price, and the Performance AWD tops things off at $72,900. All listed prices exclude on-road costs. All three models have updated motors, boosting power by 25kW and torque by 80Nm. Battery specs are unchanged, with the RWD supporting DC fast charging up to 450kW and the other models going up to 420kW. AC charging maxes out at 22kW. Australia, as well as Europe, misses out on the 900V electrical architecture used i",
+  "author": "Derek Fung",
+  "published": "2026-10-31T14:05:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T17:53:20+00:00"
+ },
+ {
+  "id": "bee13ec8e7e62897",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1xka93x/2027_zeekr_7x_price_and_specs_more_power_up_to/",
+  "title": "2027 Zeekr 7X Price and Specs: More Power, Up to 627km Range",
+  "text": "This is crazy… so soon after it launched too 😭",
+  "author": "/u/Justasillysausage",
+  "published": "2026-10-31T13:28:50+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -29,10 +172,10 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
-  "first_seen": "2026-10-31T13:33:08+00:00"
+  "first_seen": "2026-10-31T17:53:20+00:00"
  },
  {
   "id": "dee7e3084ab843a5",
@@ -73,7 +216,7 @@
  {
   "id": "3ebcaf638222b65d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWswMkJlTVFkam1Ec0Z2UUF3Vk5SR1BVWjE4UFJIUW1IUHdtblh1TGVNTkdnZlFhZjhxTVhhTVFfUHNVSThobjIyWWhUZFc0dl85V0h5VkxxMGFnZnNmOTFKVTZOY0trZnNPcGd5S3NwUU9EZUlhV0JUMmJuTmZsdWtkUlpFXzVYNm5Eb2ZQXzN6X3kyRjNWN1BsWks3QUE?oc=5",
   "title": "Zeekr's updated top seller is finally on sale in Australia, with more power - caradvice.com.au",
@@ -98,7 +241,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
@@ -171,6 +314,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "8cd2739c66c29295",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · The Examiner",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVg5OTlKRmdJSGtMZC1VNWVCbC1RYURNRzVtZ1kwaTlMeU9jLXVLS2lzdG9kOXpxWVVUTTJNSy1UVUhaQnJyMG4zY01BWTA1MUdrSmZRek5fOVJjYklZSEZScDhhN2M1TGNEbktOeVNCR2djZHh6MUtLUzRsMHR1cmJlWWdQX3A1cW5xNQ?oc=5",
+  "title": "BYD Sealion 7 rival just got a lot better - The Examiner",
+  "text": "BYD Sealion 7 rival just got a lot better The Examiner",
+  "author": "",
+  "published": "2026-10-31T12:11:31+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T17:53:20+00:00"
  },
  {
   "id": "315ef0e84f51afd1",
@@ -514,40 +690,9 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
-  "id": "a9cedb53e6b0d0a0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Motor1.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
-  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
-  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
-  "author": "",
-  "published": "2026-10-31T07:03:48+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
- },
- {
   "id": "5a731d55383ae097",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQ080ZHNtbVJuY3Z5dkZZYUJ2Sm1veGNTR3ZSZFpnd2pBc2xJbG9YcTRUR0RyNUw4SFdkellrQWRqN0RVeE1tS0p5MDRtNzVRdXlEZzZNZUtYR1hvekxGUG1POVFrUXhjZ1dwbldWckt0YnRW?oc=5",
   "title": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested - CarsGuide",
@@ -576,7 +721,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
@@ -1448,39 +1593,6 @@
   "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
-  "id": "627ac93a33cd7a47",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRFRZYU4wbjlER040ZURwbll3SlJmeGk2SzAwVjFFV3Bkd3g2MXdudEdJbGtiZ2lWaU5nbUstd2J5YThxaFFXY291WjNobmUwaXc?oc=5",
-  "title": "Xpeng L03 price and specs: every 2026 variant compared - EV Central",
-  "text": "Xpeng L03 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T09:06:47+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T00:13:27+00:00"
- },
- {
   "id": "747a6b199333e852",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -2108,6 +2220,39 @@
   "first_seen": "2026-10-30T02:30:40+00:00"
  },
  {
+  "id": "627ac93a33cd7a47",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRFRZYU4wbjlER040ZURwbll3SlJmeGk2SzAwVjFFV3Bkd3g2MXdudEdJbGtiZ2lWaU5nbUstd2J5YThxaFFXY291WjNobmUwaXc?oc=5",
+  "title": "Xpeng L03 price and specs: every 2026 variant compared - EV Central",
+  "text": "Xpeng L03 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-29T23:40:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
   "id": "0d4ba2bcb5fddbe4",
   "type": "competitor_news",
   "source": "carexpert",
@@ -2429,7 +2574,7 @@
  {
   "id": "1b7032d3e4dc1cbc",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · autoevolution",
   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdGdQVHFDWjhoRURFaFI1WUQ5S1V0Ukc2MUFCTzdZMEFKM0ktaUwxUGV5eE8tR2pNM1VOV2ZhalN3bTJFNS1RTWJWRW5YWlBjUlNnWVhBWGtsSF9TTm9CbWJhb3lwcmFHeFhYMDJSLW16dWphWmtaeFlHOGxwOXNxS0RJb21JS29laDNiQ29ZczlWeUtvX19MRDl3andPRHIwQjY4c0hLTTBwUFdubkZ2Mjd1MWRGSENSdTcyc19tU1NhQzJ4QWJBVTNtX2lOc2FPZXpZYjlHd19mZWt1NDVxLQ?oc=5",
   "title": "All-Electric MGU9 EV Arrives Now In Australia With Pricing on Par With the Toyota Land Cruiser Prado - autoevolution",
@@ -5212,41 +5357,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-26T04:34:24+00:00"
- },
- {
-  "id": "4a80263afe3566ca",
-  "type": "competitor_news",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWJzRnpFYmxPRnFIYnVEMW16eWZDR1lqUDFTYm83M0YtcHlCcWkyUmpIWW52S21vbWpuUzVLTHREQllMTkRsVklKWnozNU9lOXA2cHZpTWVMWEpPSEFSWUxVS0NKX1JHcmRvZDFlcHRDTmNia2NVa1ZkdWlBX3lySWM1c2ZYZHNvN1FoLUY3OEF0bzBUeXRLaElRTm9aNHg5aU1n?oc=5",
-  "title": "2021 Tesla Model 3 Standard Range Plus Auto - Carsales",
-  "text": "2021 Tesla Model 3 Standard Range Plus Auto Carsales",
-  "author": "",
-  "published": "2026-10-26T01:57:45+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "tesla-model-3"
-  ],
-  "brands": [
-   "tesla"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-27T06:09:34+00:00"
  },
  {
   "id": "36a2a4b2ca4db7b8",
@@ -14664,41 +14774,6 @@
   "first_seen": "2026-10-19T22:16:04+00:00"
  },
  {
-  "id": "e0ef91f9ec5b5e79",
-  "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
-  "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
-  "text": "Hyundai Elexio review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-elexio"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
- },
- {
   "id": "99ed59d066f99039",
   "type": "complaint",
   "source": "playstore-android",
@@ -17688,6 +17763,41 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
+  "id": "e0ef91f9ec5b5e79",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaOVVfeVlISDBLNVZnUThBRVpiWkZZN0J6MVAzZGxaNHRhOXlpV2ZhRFR5LW1mREVDY3pkdFEtWWRYUnplQnNaQnFoZWVsYVAwS0NuY3RHUlQ?oc=5",
+  "title": "Hyundai Elexio review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai Elexio review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-14T10:27:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "806e811b0ad93a51",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -18190,6 +18300,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T07:17:47+00:00"
+ },
+ {
+  "id": "ebd9bfc1a3d69c04",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyczZrcVdudUw3aEdTWEUtcmVMZ3pRU1k0cG9iNFpLeWtOdU51d0FEVVFzY1RCbTJGOUVpZWF2c3djS0ZmQ3V1WVZlX2lodw?oc=5",
+  "title": "BMW iX review, price and specs: every 2026 variant compared - EV Central",
+  "text": "BMW iX review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-14T04:13:49+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T17:53:20+00:00"
  },
  {
   "id": "7477fa2d973dd628",
@@ -22124,6 +22267,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "48bb6f4562a96691",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQkxMeWw1ZUt4UVFVS3VQVktNRnFmYVQtS0ZJYkJBU2RDMGZab3A2ZjFuemszN09CRko5MW82RjNjSTdQc2ctdEh6VDdTTXNlSFNUc1ZIV2VhalA2MlNEVzJ3?oc=5",
+  "title": "Ford E-Transit Custom review: every variant, price and specs - EV Central",
+  "text": "Ford E-Transit Custom review: every variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-11T07:09:13+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T17:53:20+00:00"
  },
  {
   "id": "3d2fc3de4038cc14",
@@ -37237,7 +37413,7 @@
   "title": "2026 Zeekr 7X Long Range RWD review: Long-term introduction - CarExpert",
   "text": "2026 Zeekr 7X Long Range RWD review: Long-term introduction CarExpert",
   "author": "",
-  "published": "2026-07-22T07:00:00+00:00",
+  "published": "2026-07-21T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -38286,10 +38462,10 @@
   "id": "888da5beab20c285",
   "type": "news_zeekr",
   "source": "gn-zeekr-au",
-  "source_name": "Google News · zecar",
+  "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdzJ2STRmZFJmMzRmMFAwcXFXeWhLeUpyelN4d0VTblh3dXpSTUFFOGFVZ3hROFZ4cnNSeUl6Q3hZdTZxS1JqRnotaWxxRDBacHFtYXJoTFMySlBCNU5PQUxKNllzd3hDTktsamVMZDQ1eV9RUWE4?oc=5",
-  "title": "Zeekr 8X, 9X and 7GT: What We Know So Far - zecar",
-  "text": "Zeekr 8X, 9X and 7GT: What We Know So Far zecar",
+  "title": "Zeekr 8X, 9X and 7GT: What We Know So Far - Zecar",
+  "text": "Zeekr 8X, 9X and 7GT: What We Know So Far Zecar",
   "author": "",
   "published": "2026-06-29T07:00:00+00:00",
   "rating": null,
@@ -41396,36 +41572,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "325d1c3c4076ebc0",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fMVZ2ZFFEWjc5RGRCMWVsczhEYUlOZlFFMlZNbnZXU2hTR2tDWlZCWklrMkNvZXQwX0pHMFJxZE1EVUNQRHRqNWxlOFZPRHMwLW11U0RQVWNrZjM5NWtxcFVjZw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-04T14:53:12+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T00:34:31+00:00"
  }
 ]
