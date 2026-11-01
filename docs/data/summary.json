@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-01T19:06:14+00:00",
- "duration_s": 335.9,
- "items_total": 1234,
- "new_this_run": 222,
+ "generated": "2026-11-01T22:43:37+00:00",
+ "duration_s": 317.5,
+ "items_total": 1237,
+ "new_this_run": 150,
  "counts": {
-  "complaints_24h": 2,
+  "complaints_24h": 1,
   "complaints_7d": 6,
   "complaints_30d": 32,
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 3,
-  "competitor_news_7d": 108,
-  "launch_signals_7d": 26,
+  "competitor_news_7d": 106,
+  "launch_signals_7d": 25,
   "offer_signals_7d": 4,
   "zeekr_news_7d": 47,
   "offer_page_changes_7d": 9
@@ -182,7 +182,7 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 18,
+   "competitor_news": 17,
    "zeekr_news": 10
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 16,
-   "zeekr_news": 8
+   "competitor_news": 18,
+   "zeekr_news": 9
   }
  ],
  "categories_30d": [
@@ -1018,17 +1018,17 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 76,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 21,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1038,7 +1038,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 55,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1048,27 +1048,27 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 95,
+   "count": 98,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 49,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 45,
+   "count": 42,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 32,
+   "count": 14,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 18,
+   "count": 21,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1137,14 +1137,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 22,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1159,7 +1159,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
