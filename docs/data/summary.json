@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T14:13:27+00:00",
- "duration_s": 318.3,
- "items_total": 1224,
- "new_this_run": 165,
+ "generated": "2026-11-01T19:06:14+00:00",
+ "duration_s": 335.9,
+ "items_total": 1234,
+ "new_this_run": 222,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 6,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 3,
-  "competitor_news_7d": 101,
-  "launch_signals_7d": 25,
+  "competitor_news_7d": 108,
+  "launch_signals_7d": 26,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 46,
+  "zeekr_news_7d": 47,
   "offer_page_changes_7d": 9
  },
  "series_30d": [
@@ -182,20 +182,20 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 26,
+   "competitor_news": 18,
    "zeekr_news": 10
   },
   {
    "date": "2026-10-31",
    "complaints": 3,
-   "competitor_news": 13,
+   "competitor_news": 15,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 2,
-   "zeekr_news": 7
+   "competitor_news": 16,
+   "zeekr_news": 8
   }
  ],
  "categories_30d": [
@@ -387,14 +387,15 @@
    "latest": "e0ef91f9ec5b5e79"
   },
   "smart-5": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [
+    "e46c60dbdcdd31f5",
     "3e3f285c9229d77a"
    ],
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "3e3f285c9229d77a"
+   "latest": "e46c60dbdcdd31f5"
   },
   "polestar-4": {
    "n_30d": 5,
@@ -412,10 +413,10 @@
    "latest": "a1259168a41994e1"
   },
   "volvo-ex40": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "ae56fe47f847176d"
   },
   "kia-ev6": {
    "n_30d": 7,
@@ -885,6 +886,46 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "a8af33cd32623473",
+   "title": "GAC M8 price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-01T15:38:06+00:00",
+   "competitors": [
+    "gac-m8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "e46c60dbdcdd31f5",
+   "title": "Smart #5 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-01T15:37:59+00:00",
+   "competitors": [
+    "smart-5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "a1259168a41994e1",
+   "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-01T15:35:52+00:00",
+   "competitors": [
+    "polestar-4"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "1449d41803c59183",
+   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-01T15:35:51+00:00",
+   "competitors": [
+    "byd-seal"
+   ]
+  },
+  {
    "kind": "offer_page_change",
    "id": "85529cdab4aaaf46",
    "title": "MG / IM 官网政策页面变化（+12 / −9 行）",
@@ -909,19 +950,11 @@
    "t": "2026-10-31T17:59:36+00:00"
   },
   {
-   "kind": "offer_page_change",
-   "id": "67d2750ce69ddd3b",
-   "title": "Zecar (all-brand offers) 官网政策页面变化（+23 / −18 行）",
-   "title_en": "Zecar (all-brand offers) offer page changed (+23 / −18 lines)",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-10-31T13:38:49+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "8c9ef38f9af3c4e7",
    "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-31T07:49:05+00:00",
+   "t": "2026-10-31T15:02:35+00:00",
    "competitors": [
     "byd-m9"
    ]
@@ -931,10 +964,28 @@
    "id": "43eef9656c6878ef",
    "title": "Denza B8 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-10-31T07:49:05+00:00",
+   "t": "2026-10-31T15:02:35+00:00",
    "competitors": [
     "denza-b8"
    ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "477682d9a518ae53",
+   "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-10-31T15:02:35+00:00",
+   "competitors": [
+    "byd-sealion8"
+   ]
+  },
+  {
+   "kind": "offer_page_change",
+   "id": "67d2750ce69ddd3b",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+23 / −18 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+23 / −18 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-10-31T13:38:49+00:00"
   },
   {
    "kind": "complaint_high",
@@ -962,72 +1013,22 @@
    "competitors": [
     "denza-b8"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "1449d41803c59183",
-   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T16:13:56+00:00",
-   "competitors": [
-    "byd-seal"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "477682d9a518ae53",
-   "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T10:56:20+00:00",
-   "competitors": [
-    "byd-sealion8"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "a8af33cd32623473",
-   "title": "GAC M8 price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T10:29:24+00:00",
-   "competitors": [
-    "gac-m8"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "a1259168a41994e1",
-   "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-30T09:06:47+00:00",
-   "competitors": [
-    "polestar-4"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "e23ca822c454fb48",
-   "title": "China's Avatr Scraps 07L Max Launch Event at Last Minute, Responds to Pricing Controversy With Internal Meeting Video - BigGo Finance",
-   "source": "Google News · BigGo Finance",
-   "t": "2026-10-29T16:25:00+00:00",
-   "competitors": [
-    "avatr"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 75,
+   "count": 76,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1037,7 +1038,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 58,
+   "count": 55,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1047,32 +1048,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 76,
+   "count": 95,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 49,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 26,
+   "count": 45,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 30,
+   "count": 32,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 20,
+   "count": 18,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 61,
+   "count": 100,
    "note": ""
   },
   "carexpert": {
@@ -1136,14 +1137,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 22,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1158,7 +1159,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1596,9 +1597,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
