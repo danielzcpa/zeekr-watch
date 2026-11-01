@@ -1,5 +1,169 @@
 [
  {
+  "id": "3a36a99752358504",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1NmlGYXhBSjcwZFN6MGFvM0k2aVkyaTcxNUM2djh1dlliUzBNUW1SUXpabVg3T1dIeEozVWpwQUNyMWZLNjVaLTh1REQ4MEtKSV9zNERlSVF2b1lMUEJDMTN2Yw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-31T23:33:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T00:22:34+00:00"
+ },
+ {
+  "id": "34ced904f806f630",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xknl5r/is_anyone_else_still_waiting_for_their_charging/",
+  "title": "Is anyone else still waiting for their charging cable?",
+  "text": "I bought my 7x two months ago and still haven’t received my charging cable. I’ve just been using a fast charger down the road but it would be nice to slow charge at home overnight.",
+  "author": "/u/Shannon1985",
+  "published": "2026-10-31T22:48:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T00:22:34+00:00"
+ },
+ {
+  "id": "a9cedb53e6b0d0a0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
+  "author": "",
+  "published": "2026-10-31T22:46:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "07ba4e03f956bf56",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xkn5m2/dash_cam_functionality/",
+  "title": "Dash Cam Functionality",
+  "text": "With the new updated 7x coming with built-in dash cam functionality, do we know if there will ever be an OTA update on the 2025/2026 spec that includes a dash cam addition?",
+  "author": "/u/SummerAwe",
+  "published": "2026-10-31T22:27:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T00:22:34+00:00"
+ },
+ {
+  "id": "4a80263afe3566ca",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWJzRnpFYmxPRnFIYnVEMW16eWZDR1lqUDFTYm83M0YtcHlCcWkyUmpIWW52S21vbWpuUzVLTHREQllMTkRsVklKWnozNU9lOXA2cHZpTWVMWEpPSEFSWUxVS0NKX1JHcmRvZDFlcHRDTmNia2NVa1ZkdWlBX3lySWM1c2ZYZHNvN1FoLUY3OEF0bzBUeXRLaElRTm9aNHg5aU1n?oc=5",
+  "title": "2021 Tesla Model 3 Standard Range Plus Auto - Carsales",
+  "text": "2021 Tesla Model 3 Standard Range Plus Auto Carsales",
+  "author": "",
+  "published": "2026-10-31T21:37:28+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-27T06:09:34+00:00"
+ },
+ {
   "id": "c23ac47241974ca2",
   "type": "news_zeekr",
   "source": "gn-ev-launch-au",
@@ -29,37 +193,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T21:23:11+00:00"
- },
- {
-  "id": "a9cedb53e6b0d0a0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Motor1.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
-  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
-  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
-  "author": "",
-  "published": "2026-10-31T16:48:53+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
   "id": "1505fada06f3450d",
@@ -98,41 +231,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T17:53:20+00:00"
- },
- {
-  "id": "4a80263afe3566ca",
-  "type": "competitor_news",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWJzRnpFYmxPRnFIYnVEMW16eWZDR1lqUDFTYm83M0YtcHlCcWkyUmpIWW52S21vbWpuUzVLTHREQllMTkRsVklKWnozNU9lOXA2cHZpTWVMWEpPSEFSWUxVS0NKX1JHcmRvZDFlcHRDTmNia2NVa1ZkdWlBX3lySWM1c2ZYZHNvN1FoLUY3OEF0bzBUeXRLaElRTm9aNHg5aU1n?oc=5",
-  "title": "2021 Tesla Model 3 Standard Range Plus Auto - Carsales",
-  "text": "2021 Tesla Model 3 Standard Range Plus Auto Carsales",
-  "author": "",
-  "published": "2026-10-31T15:37:27+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "tesla-model-3"
-  ],
-  "brands": [
-   "tesla"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-27T06:09:34+00:00"
  },
  {
   "id": "f0997630825fcba4",
@@ -349,13 +447,13 @@
  {
   "id": "8cd2739c66c29295",
   "type": "competitor_news",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · The Examiner",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVg5OTlKRmdJSGtMZC1VNWVCbC1RYURNRzVtZ1kwaTlMeU9jLXVLS2lzdG9kOXpxWVVUTTJNSy1UVUhaQnJyMG4zY01BWTA1MUdrSmZRek5fOVJjYklZSEZScDhhN2M1TGNEbktOeVNCR2djZHh6MUtLUzRsMHR1cmJlWWdQX3A1cW5xNQ?oc=5",
   "title": "BYD Sealion 7 rival just got a lot better - The Examiner",
   "text": "BYD Sealion 7 rival just got a lot better The Examiner",
   "author": "",
-  "published": "2026-10-31T12:11:31+00:00",
+  "published": "2026-10-31T12:12:22+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -374,7 +472,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-31T17:53:20+00:00"
@@ -448,6 +546,72 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
+ },
+ {
+  "id": "24ff41ae0e3f9909",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xk76ze/wheel_questions_zeekr_7x_et_measure/",
+  "title": "Wheel questions Zeekr 7x ET measure?",
+  "text": "I’m waiting for my 7XP and just ordered a set of nice custom forged wheels in 22”. The wheels are deep concave, and I would like the concave part as deep as possible, so would need to know the absolute lowest ET measure that fits, standard is 43.5, but would it be possible to move the rim out to an ET of 38 and at the same time run 9.5J width? Anyone know?",
+  "author": "/u/olsson80",
+  "published": "2026-10-31T10:54:26+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-01T00:22:34+00:00"
+ },
+ {
+  "id": "e7f3144b8217675a",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xk5v2u/how_happy_are_you_with_your_7gt/",
+  "title": "How happy are you with your 7GT?",
+  "text": "Hi all, I am currently in the market for a 7GT AWD privilege after driving a company car for many years. I was wondering if there are any longer time owners around who can share their experience? Before company cars I drove mainly all wheel drive hot hatches but know I am looking more for a combination of both performance and comfort for which the 7GT ticks most boxes. Also I absolutely love the look of the car, but since I only test drove it once I am more wondering on how annoying the software is on a day to day basis. Thank!",
+  "author": "/u/truth-is-coming",
+  "published": "2026-10-31T09:34:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-01T00:22:34+00:00"
  },
  {
   "id": "f0cd7627a6e39134",
@@ -1791,7 +1955,7 @@
  {
   "id": "df6a2d5ce66b8d3d",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkF0TlhBdGV6LUo2NzlHQkhCUHZkR0lnZDR3Nkp2Y2FDeFU5R0l5WGNMTXhkdF85S0h5MVlGWmlrYkp4amlXNm9fR0NXek1xNnJiRVM3bDNwYUJ0RXhfMDJESmhRbE5icmZMc0V4RmxabjVOcE1OZ2xsVm10SmZ4U1RhcWxnM2RuY2ZrRGV0NFZESno1ZVMwbA?oc=5",
   "title": "Kia Sorento PHEV range unlikely to grow - Carsales",

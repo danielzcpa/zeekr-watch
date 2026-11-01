@@ -1,5 +1,37 @@
 [
  {
+  "id": "85529cdab4aaaf46",
+  "key": "mg",
+  "brand": "MG / IM",
+  "url": "https://mgmotor.com.au/offers",
+  "detected": "2026-11-01T00:27:45+00:00",
+  "added": [
+   "∞ Cashback offer and Plate Clearance available on selected vehicles sold from participating MG Dealers between 01 Nov to 31 Dec 2026 and delivered between 01 Nov to 31 Dec 2026.",
+   "$500 Cashback on MG3 HYBRID+ MY27; ZS 1.5L Turbo Essence MY27",
+   "$1000 Cashback on MG3 Vibe; MG3 MY25/26; ZS 1.5L Turbo Excite MY27; ZS HYBRID+ MY27; MGS6 EV and MGU9",
+   "$1500 Cashback on MG3 HYBRID+ MY25/26; ZS Essence MY25/26/26.5",
+   "$2000 Cashback on ZS Vibe 1.5T; ZS Excite 1.5T MY26.5; ZS HYBRID+ MY25.5/MY26/MY26.5; MG4 EV Urban, MGS5 EV, and QS",
+   "$3000 Cashback on IM5, IM6 and HS Vibe; HS Petrol & HYBRID+ Excite (MY25/26)",
+   "$4000 Cashback on HS Petrol Essence (MY25/26)",
+   "$5000 Cashback on HS HYBRID+ Essence (MY25/26)",
+   "$6000 Cashback on HS SUPER HYBRID Excite (MY25/26)",
+   "$7000 Cashback on HS SUPER HYBRID Essence (MY25/26)",
+   "$2000 Cashback on MG3 HYBRID+ 25 Build",
+   "$4000 Cashback on QS 25 Build"
+  ],
+  "removed": [
+   "Offer ends 31 October",
+   "∞ Cashback offer and Plate Clearance available on selected vehicles sold from participating MG Dealers between 01 Oct to 31 Oct 2026 and delivered between 01 Oct to 31 Oct 2026.",
+   "$500 Cashback on MG3 HYBRID+ MY26; ZS 1.5L Turbo Essence (MY26 & MY26.5)",
+   "$1000 Cashback on MG3 Vibe; MG ZS 1.5L Turbo Vibe (MY26); MG ZS 1.5L Turbo Excite (MY26.5); MG ZS HYBRID+ and MGU9",
+   "$2000 Cashback on MG4 EV Urban, MGS5 EV, HS and QS",
+   "$3000 Cashback on IM5, IM6 and HS HYBRID+",
+   "$6000 Cashback on HS SUPER HYBRID",
+   "$2000 Cashback on MG3 HYBRID+ Excite 25 Build and MG3 HYBRID+ Essence 25 Build",
+   "$4000 Cashback on QS"
+  ]
+ },
+ {
   "id": "87a076a4c12d482d",
   "key": "kia",
   "brand": "Kia",

@@ -1,28 +1,22 @@
 {
- "generated": "2026-10-31T21:23:11+00:00",
- "duration_s": 339.7,
- "items_total": 1209,
- "new_this_run": 202,
+ "generated": "2026-11-01T00:22:34+00:00",
+ "duration_s": 312.5,
+ "items_total": 1214,
+ "new_this_run": 155,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 4,
   "complaints_30d": 32,
-  "high_7d": 2,
-  "medium_7d": 0,
+  "high_7d": 1,
+  "medium_7d": 1,
   "low_7d": 2,
-  "competitor_news_7d": 102,
+  "competitor_news_7d": 101,
   "launch_signals_7d": 25,
   "offer_signals_7d": 4,
   "zeekr_news_7d": 41,
-  "offer_page_changes_7d": 8
+  "offer_page_changes_7d": 9
  },
  "series_30d": [
-  {
-   "date": "2026-10-02",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 0
-  },
   {
    "date": "2026-10-03",
    "complaints": 0,
@@ -193,9 +187,15 @@
   },
   {
    "date": "2026-10-31",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 13,
    "zeekr_news": 7
+  },
+  {
+   "date": "2026-11-01",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -209,7 +209,7 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 11
+   "n": 12
   },
   {
    "key": "delivery",
@@ -886,6 +886,14 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "85529cdab4aaaf46",
+   "title": "MG / IM 官网政策页面变化（+12 / −9 行）",
+   "title_en": "MG / IM offer page changed (+12 / −9 lines)",
+   "source": "https://mgmotor.com.au/offers",
+   "t": "2026-11-01T00:27:45+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "87a076a4c12d482d",
    "title": "Kia 官网政策页面变化（+1 / −25 行）",
    "title_en": "Kia offer page changed (+1 / −25 lines)",
@@ -1038,12 +1046,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 25,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1053,7 +1061,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 55,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1063,17 +1071,17 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 83,
+   "count": 78,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 49,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 29,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1083,12 +1091,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 22,
+   "count": 25,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 85,
+   "count": 82,
    "note": ""
   },
   "carexpert": {
@@ -1152,14 +1160,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 21,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1174,7 +1182,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1574,7 +1582,7 @@
   "offers-kia": {
    "ok": true,
    "count": 3,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-polestar": {
    "ok": true,
@@ -1588,8 +1596,8 @@
   },
   "offers-mg": {
    "ok": true,
-   "count": 34,
-   "note": "unchanged"
+   "count": 37,
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
