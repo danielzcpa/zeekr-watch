@@ -1,5 +1,169 @@
 [
  {
+  "id": "73f8fd29ba4e0118",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xkw6ca/psa_you_need_to_turn_off_your_vpn_to_connect_to/",
+  "title": "PSA: you need to turn off your VPN to connect to the car",
+  "text": "Spent a couple of frustrating hours trying to work this out. I forgot my VPN was running. User error- but I thought it might be a useful tip for someone",
+  "author": "/u/Eschatologist_02",
+  "published": "2026-11-01T06:39:41+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
+ },
+ {
+  "id": "a16eeda517365591",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UcE5GZFlKSEwwYmsteFJVUnVrQlhRd01FX2FTbXBRaGliQ2VGN1JQSS02RnM2MDluRjJNNnhLcU9XMjNOZ2d4MC0tbmpvc0Q3aXhpVmJsSzE5NU5mTzFUMGNXbnFWczh5Z0VpVmhTeDVQNGg1WWc?oc=5",
+  "title": "China's October EV startup deliveries: Leapmotor tops 100,000, Xiaomi and XPeng cross 50,000 for first time, full-year retail sales seen down 22% - BigGo Finance",
+  "text": "China's October EV startup deliveries: Leapmotor tops 100,000, Xiaomi and XPeng cross 50,000 for first time, full-year retail sales seen down 22% BigGo Finance",
+  "author": "",
+  "published": "2026-11-01T06:05:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
+ },
+ {
+  "id": "c2dcda158a859c1b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CnEVPost",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSXFnbVNUZzhHRUpTdnBGUW5yeUx6Sm5kckFKVnpqTHFzRWpjY1ZZWU52aU9jaHZZYjI5eWZCOWNGQjN1cFZ2Y0xfOEdoOWxSckxxQ2x5UU9XZ25ZZ3dJcVlXQl8xbHo2Y0E?oc=5",
+  "title": "Zeekr delivers 32,483 vehicles in October, up 51.63% year-on-year but ending 6-month record streak - CnEVPost",
+  "text": "Zeekr delivers 32,483 vehicles in October, up 51.63% year-on-year but ending 6-month record streak CnEVPost",
+  "author": "",
+  "published": "2026-11-01T05:54:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
+ },
+ {
+  "id": "569d6ddd211a082d",
+  "type": "news_zeekr",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/2027-zeekr-7x-arrives-in-australia-with-more-power-faster-charging",
+  "title": "2027 Zeekr 7X arrives in Australia with more power, faster charging",
+  "text": "Updated electric SUV gains stronger motors, revised styling and additional equipment, with up to 627km of range and 500kW. The post 2027 Zeekr 7X arrives in Australia with more power, faster charging first appeared on WhichCar .",
+  "author": "Michael Pickering",
+  "published": "2026-11-01T01:28:41+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
+ },
+ {
+  "id": "17f5554582361509",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1dxZkk5UzBSTmQ3dUlkZldxQkRlUlNsUC1CVEFiNnN6Yy1FeDBITEpDb1RFdk9JSUlwbFBUQXpiTWNNbDJaamgzNU9YUXByOEhqR1UyRlRxMjlMdWFhWjJMbmo0ZzNtZTRPcDRlNE9teVE3a1VYZnlJZTQxU2dVcA?oc=5",
+  "title": "2027 Zeekr 7X adds power and features without a price rise - The Beep",
+  "text": "2027 Zeekr 7X adds power and features without a price rise The Beep",
+  "author": "",
+  "published": "2026-11-01T01:24:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_rise"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
+ },
+ {
   "id": "3a36a99752358504",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -8,7 +172,7 @@
   "title": "Zeekr 7X SUV - Whirlpool Forums",
   "text": "Zeekr 7X SUV Whirlpool Forums",
   "author": "",
-  "published": "2026-10-31T23:33:36+00:00",
+  "published": "2026-11-01T01:23:15+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -29,6 +193,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-01T00:22:34+00:00"
+ },
+ {
+  "id": "3d93a0fa9dad4c48",
+  "type": "post",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xkpxkx/zeekr_7x_updated_australian_version/",
+  "title": "Zeekr 7x: Updated Australian version",
+  "text": "There's a lot in this announcement and not all of it totally clear from the two links below. I had expected a brochure noting the detailed specification. I guess that will follow I think the offer for the first 2,000 order is also pretty exciting and very good value In the press: https://zecar.com/reviews/2027-zeekr-7x-update-australia-more-power-same-price Zeekr order page with some vehicle details https://www.zeekrlife.com/en-au/models/zeekr-7x/ Zeekr 'first 2,000' offer page https://www.zeekrlife.com/en-au/offers/",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-11-01T00:42:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
  },
  {
   "id": "34ced904f806f630",
@@ -166,7 +365,7 @@
  {
   "id": "c23ac47241974ca2",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1l6RlkyeGhCZXAxdWlWdGRiVHlwdTlYZmJlRmp5RnRnMzJHOXZyc2x3Sm5MWWpNc0Znc3pvNEw3bVBONndsRWhFYzA5Q3F5ZHVKSTZ1N25qazBNaXd0UFNmZzQwRHp3UWxCamw4cFJmY1hVQUF4ZDc0MUJkX0NjN0JkRkM?oc=5",
   "title": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged - Zecar",
@@ -345,7 +544,7 @@
  {
   "id": "3ebcaf638222b65d",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWswMkJlTVFkam1Ec0Z2UUF3Vk5SR1BVWjE4UFJIUW1IUHdtblh1TGVNTkdnZlFhZjhxTVhhTVFfUHNVSThobjIyWWhUZFc0dl85V0h5VkxxMGFnZnNmOTFKVTZOY0trZnNPcGd5S3NwUU9EZUlhV0JUMmJuTmZsdWtkUlpFXzVYNm5Eb2ZQXzN6X3kyRjNWN1BsWks3QUE?oc=5",
   "title": "Zeekr's updated top seller is finally on sale in Australia, with more power - caradvice.com.au",
@@ -951,6 +1150,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
+ },
+ {
+  "id": "994b44db3ef57c68",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=c305e38c-de77-4b5e-8fe1-71128f29a01d",
+  "title": "1★ · OpenZeekr app has FIXED walk up unlock/lock on ANY phone; no",
+  "text": "OpenZeekr app has FIXED walk up unlock/lock on ANY phone; no UWB needed! Zeekr, you should be ASHAMED! 80 Thousand Dollars for this? The car has been out for a year now and the basic function of the key is still BROKEN! Baiting us with promises of OTA and app updates that we wait forever to come; then give us nothing of what we ask for. Latest update is insulting. Fix the (reported but ignored in app) AUTO ZONING of air cond; yes it's in the manual; read it! 1.8 app rating-Shame on you!",
+  "author": "Steven Dorombozo",
+  "published": "2026-10-31T03:37:01+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "service"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 30
+  },
+  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "2f2d29264ece3453",
@@ -15301,42 +15536,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T21:36:52+00:00"
- },
- {
-  "id": "994b44db3ef57c68",
-  "type": "complaint",
-  "source": "playstore-android",
-  "source_name": "Google Play (AU) · ZEEKR app",
-  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=c305e38c-de77-4b5e-8fe1-71128f29a01d",
-  "title": "1★ · 80 Thousand Dollars for this? The car has been out for a yea",
-  "text": "80 Thousand Dollars for this? The car has been out for a year now and the basic function of the key is still BROKEN! DO WE HAVE DIGITAL KEY 3.0? Baiting us with promises of OTA and app updates that we wait forever to come; then give us nothing of what we ask for; DO NOT BUY THIS CAR! Fix the (reported but ignored in app) AUTO ZONING of air cond; yes it's in the manual; should you read it. 70% of smartphone users have ANDROID. FIX THIS. UNTIL THEN I CANNOT RECOMMEND THIS CAR.",
-  "author": "Steven Dorombozo",
-  "published": "2026-10-16T20:54:54+00:00",
-  "rating": 1.0,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "quality",
-   "software",
-   "service"
-  ],
-  "sentiment": {
-   "score": -3,
-   "neg_hits": 3,
-   "pos_hits": 1,
-   "label": "negative"
-  },
-  "severity": "high",
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {
-   "version": "1.6.7",
-   "thumbs": 30
-  },
-  "first_seen": "2026-10-14T03:54:39+00:00"
  },
  {
   "id": "8fcbe9f1e08f78e4",
@@ -33348,6 +33547,39 @@
   "first_seen": "2026-10-13T15:51:31+00:00"
  },
  {
+  "id": "978204d5acf60b4d",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yNnlabmdlTGxuTlFvSzJkWW1OaGVOamdxN19qUEFmdE5RZGxoR3VjVUVUTXM1THA5WThlRnU4SHpIRGVQMURsUFY4R2FfbjVqMTRtRg?oc=5",
+  "title": "BYD Sealion 7 Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "BYD Sealion 7 Price, Specs & Variants | Australia 2026 The Beep",
+  "author": "",
+  "published": "2026-09-03T04:14:49+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T06:43:42+00:00"
+ },
+ {
   "id": "c898034acc6a62eb",
   "type": "news_zeekr",
   "source": "evcentral-zeekr",
@@ -35108,10 +35340,10 @@
   "id": "9bb46be45aecdac4",
   "type": "news_zeekr",
   "source": "gn-zeekr-complaint",
-  "source_name": "Google News · zecar",
+  "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWZua05zUnFsWnpXLUZTQlZRQ3MtdXNOOEdOckdic0REWXY1V0p5REF5T2MzQUotWXdUbVlvekUwZFVfaVFJNTNOSlVwNTBlNWh1Sl94X0ludFUwakVza05HZ01yY0JLTzIxUlQ0YVlZanNpUUQ0d1BFMjVWY1hSaTdIVmotSUhoZ1NV?oc=5",
-  "title": "Geely EX5 vs Zeekr 7X RWD: Price and Specs Compared - zecar",
-  "text": "Geely EX5 vs Zeekr 7X RWD: Price and Specs Compared zecar",
+  "title": "Geely EX5 vs Zeekr 7X RWD: Price and Specs Compared - Zecar",
+  "text": "Geely EX5 vs Zeekr 7X RWD: Price and Specs Compared Zecar",
   "author": "",
   "published": "2026-08-18T07:00:00+00:00",
   "rating": null,
@@ -41738,67 +41970,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T00:34:31+00:00"
- },
- {
-  "id": "689b1218c5bad720",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlYjJwSERvaTctRy14SkF3T1k4NkFLSnNMTU9Udk8zYTctakM5cTBoTTNBMkVKai13ZmZIdnBoZzJnU1lJOEVoYmZGVkpVeTZabDlRaUJDdW9XN1BIVWJHcmxpcw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-05T03:39:43+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T00:34:31+00:00"
- },
- {
-  "id": "824e857d82f3b529",
-  "type": "post",
-  "source": "reddit-CarsAustralia",
-  "source_name": "Reddit r/CarsAustralia",
-  "url": "https://www.reddit.com/r/CarsAustralia/comments/1t40d53/zeekr_says_its_7x_electric_suv_could_become_a/",
-  "title": "Zeekr Says Its 7X Electric SUV Could Become A 2000-A-Month Hit In Australia",
-  "text": "",
-  "author": "/u/AUFalconUte",
-  "published": "2026-05-05T00:53:33+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
  }
 ]
