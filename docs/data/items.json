@@ -1,5 +1,212 @@
 [
  {
+  "id": "57df56df123edc9f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
+  "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
+  "text": "2027 Zeekr 7X gets more punch for the same price Carsales",
+  "author": "",
+  "published": "2026-11-02T01:16:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "13afa5aa238dbe2e",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xljn8t/buying_negotiation/",
+  "title": "Buying negotiation",
+  "text": "Is Zeekr pricing fixed or at dealer's discretion? I'm keen to order a 7x but dread at the thought of having to negotiate for a fair price.",
+  "author": "/u/picaryst",
+  "published": "2026-11-02T00:57:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "279c1398bcfaaf51",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/xiaomi-cars-all-but-confirmed-for-australia",
+  "title": "Xiaomi cars all but confirmed for Australia",
+  "text": "Chinese brand Xiaomi , a rival to brands including Tesla and Zeekr , is set for Australian new-car showrooms, having advertised multiple Sydney-based roles on social media. While not officially confirmed by the company, several positions have been advertised by Xiaomi Technology for jobs in Australia, all but confirming its electric vehicles (EVs) and extended-range electric vehicles (EREVs) are coming here. Most significantly, one of the Sydney-based roles advertised is for a ‘ Senior Legal Counsel (Automotive) ’, with responsibilities including “Automotive sales and after-sales legal matters”. There has been no official confirmation or announcement that the brand will be sold here, and no indication of precise launch timing or when Xiaomi vehicles – which include sedans and SUVs – will arrive in local showrooms. As reported by Chinese outlets such as IT Home , the company confirmed at its investor day in April 2026 that it would begin its overseas expansion in the second half of 2027, starting with Europe, before launching in right-hand drive markets during the first half of 2028. The world’s third-largest smartphone maker by sales volume, behind Samsung and Apple, the tech compa",
+  "author": "Damion Smy",
+  "published": "2026-11-02T00:36:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "747a6b199333e852",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zcmRVNURuSF9RRUJ4LUJxSTJEbnM3RWRrbVRHbWtfWEUzNFJJMXViU0VMcHJOWXNUaXpKWjVzYkR1Y1ZNWTVQT1Nodkowdw?oc=5",
+  "title": "BMW i3 price and specs: every 2027 variant compared - EV Central",
+  "text": "BMW i3 price and specs: every 2027 variant compared EV Central",
+  "author": "",
+  "published": "2026-11-02T00:32:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "8b9cde159844cbfc",
+  "type": "news_zeekr",
+  "source": "thedriven-zeekr",
+  "source_name": "The Driven (Zeekr)",
+  "url": "https://thedriven.io/2026/11/02/zeekr-7x-gets-more-power-and-range-with-prices-held-from-57900/?utm_source=rss&utm_medium=rss&utm_campaign=zeekr-7x-gets-more-power-and-range-with-prices-held-from-57900",
+  "title": "Zeekr 7X gets more power and range, with prices held from $57,900",
+  "text": "Zeekr’s 7X gets more power, a little extra range and a built-in dashcam, with prices holding from $57,900. First arrivals are due in December. The post Zeekr 7X gets more power and range, with prices held from $57,900 appeared first on The Driven.",
+  "author": "Sam Parkinson",
+  "published": "2026-11-02T00:11:02+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "92693eb4e9cb184a",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWENwaEJ6dGpFdlRlYzdvLWktM1pWWEdNN00yMVlORUp2eWMtQ0RBMjljdFU1V0tqQnMtVlV2ZHdtQU9uSkJMWEh1TmZKV2xvSkNvcXFRaG5wTTNZNEE2d1lBM2xoX0RqbDNqR3dfallNNVJBU2ExaEg1UnZxdGJMUTdUT2ZVa3l6cVJ4ZDEzRVp3ZGxBU3BxWk90Yw?oc=5",
+  "title": "Mazda eyes more Changan EVs for Australia - Carsales",
+  "text": "Mazda eyes more Changan EVs for Australia Carsales",
+  "author": "",
+  "published": "2026-11-01T22:51:43+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
   "id": "b27baa08182936e8",
   "type": "competitor_news",
   "source": "carexpert",
@@ -164,6 +371,41 @@
   "first_seen": "2026-11-01T19:06:14+00:00"
  },
  {
+  "id": "b3518908fd266851",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzOU5WS3UtMW81NThCYXRuMUNPV0FmRzlfNjhnU3NNVGdTNDNqWW5nazZkUFdZR0phanJpUHB4OEJkcVNGMFMzY1ljVVNlcWts?oc=5",
+  "title": "Denza D9 price and specs: every 2026 variant compared - EV Central",
+  "text": "Denza D9 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-11-01T16:30:41+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-d9"
+  ],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
   "id": "37358bec7406071f",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -232,7 +474,7 @@
  {
   "id": "a8af33cd32623473",
   "type": "competitor_news",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NZ1ljeThPTzljNHNzdFRTZmlsaVN1VGcwdFZxZzN6OTduTnVqOXJEdkJNdXpkLVU1LVA0cWNvLWgyT0s4TTlqMVE2UDhMZw?oc=5",
   "title": "GAC M8 price and specs: every variant compared - EV Central",
@@ -259,7 +501,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
@@ -1413,7 +1655,7 @@
  {
   "id": "90edc6a3991e8e16",
   "type": "competitor_news",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0taWxENEpUdHZLVE5fdXBqdE1IQUtBQm1Jck5fdnltTG9xZE9yVktLNUlSYzlHNTREMmpwbUYtUWhXNGdvS2NrdHluRUlZMGlUNGFrS3lleVZwOXM?oc=5",
   "title": "Mazda CX-60 P50e price and specs: every variant compared - EV Central",
@@ -1438,7 +1680,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
@@ -1479,7 +1721,7 @@
  {
   "id": "477682d9a518ae53",
   "type": "competitor_news",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WVm1IalFZWUYwcHR0VXpwbE0tbzl4VHNfamJmVFpsRFNFVzYzalpud1ZQdjV5ZGpXUVA2bzRlZ0NXbWQ1c2tPUVlEdGVmM1hYM0dMX0NKQQ?oc=5",
   "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
@@ -1506,7 +1748,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
@@ -1624,7 +1866,7 @@
  {
   "id": "3ebcaf638222b65d",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWswMkJlTVFkam1Ec0Z2UUF3Vk5SR1BVWjE4UFJIUW1IUHdtblh1TGVNTkdnZlFhZjhxTVhhTVFfUHNVSThobjIyWWhUZFc0dl85V0h5VkxxMGFnZnNmOTFKVTZOY0trZnNPcGd5S3NwUU9EZUlhV0JUMmJuTmZsdWtkUlpFXzVYNm5Eb2ZQXzN6X3kyRjNWN1BsWks3QUE?oc=5",
   "title": "Zeekr's updated top seller is finally on sale in Australia, with more power - caradvice.com.au",
@@ -1657,7 +1899,7 @@
  {
   "id": "927372d4e2e0786b",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · Exhaust Notes Australia",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0ZZRmFCMlBoRjFQOWd3bVJROWtRYk1INzRrbTV6NzExdmlBemhfeDdMVTlab1NjQnhmbVZSYmEwNWRpWlZzaFFVLXozby1BeTExeVVYMHl0RFgxN1V3dFpYb09aVVYtV05Ba1dVenhQdFk5TjQ0UjFCbXlaTVJucTRB?oc=5",
   "title": "Updated 2027 Zeekr 7X launches in Australia - Exhaust Notes Australia",
@@ -1684,7 +1926,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
@@ -1997,7 +2239,7 @@
  {
   "id": "5a731d55383ae097",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQ080ZHNtbVJuY3Z5dkZZYUJ2Sm1veGNTR3ZSZFpnd2pBc2xJbG9YcTRUR0RyNUw4SFdkellrQWRqN0RVeE1tS0p5MDRtNzVRdXlEZzZNZUtYR1hvekxGUG1POVFrUXhjZ1dwbldWckt0YnRW?oc=5",
   "title": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested - CarsGuide",
@@ -2026,7 +2268,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
@@ -2661,39 +2903,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T21:23:11+00:00"
- },
- {
-  "id": "747a6b199333e852",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zcmRVNURuSF9RRUJ4LUJxSTJEbnM3RWRrbVRHbWtfWEUzNFJJMXViU0VMcHJOWXNUaXpKWjVzYkR1Y1ZNWTVQT1Nodkowdw?oc=5",
-  "title": "BMW i3 price and specs: every 2027 variant compared - EV Central",
-  "text": "BMW i3 price and specs: every 2027 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T09:06:47+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
   "id": "5d881bec35e091d0",
@@ -15211,7 +15420,7 @@
  {
   "id": "ff7f848fd6e1b824",
   "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
+  "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GLU5RNUJ5N1JoNTBJcHE3TGs4YXJvUW5DRFJyXzdQZWx2cDJsTDktenNvRjlQR2ZkNFZQRjE4UjIzRTlfNTU3YTJBOS1INU5scFZ0cw?oc=5",
   "title": "Skoda Elroq price and specs: every 2026 variant compared - EV Central",
@@ -15236,7 +15445,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T16:18:05+00:00"
@@ -23987,6 +24196,39 @@
   "first_seen": "2026-10-14T15:24:05+00:00"
  },
  {
+  "id": "ad5ec24af2a0b54c",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84TXFyU2ZIM01ONDIwUVVobjlQYnFnZVBhMV9UY19ERUljZUg1ZGdqMGNLaHBYUUdmTGxUQzdfeGZGcXhRd29LN2k2NG05QQ?oc=5",
+  "title": "BMW i5 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "BMW i5 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:32+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
   "id": "af15aa7c4a27f293",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
@@ -24053,6 +24295,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "4e26feb0b02eb698",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ueEM2TUc2SkVsRTU5N2JTejR2Yko5UVpGZjF5OTZUYWZpZ2tiZWlRaFEtZ1R4WXVXeUhjX0VxZzl3bVVVWjZIWXVFYW1kdGg1ZGJBMnkycno?oc=5",
+  "title": "Hyundai Inster review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai Inster review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-10-09T20:56:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T02:19:07+00:00"
  },
  {
   "id": "db98b7fc96217946",

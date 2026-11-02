@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T22:43:37+00:00",
- "duration_s": 317.5,
- "items_total": 1237,
- "new_this_run": 150,
+ "generated": "2026-11-02T02:19:07+00:00",
+ "duration_s": 341.1,
+ "items_total": 1245,
+ "new_this_run": 205,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 6,
@@ -10,19 +10,13 @@
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 3,
-  "competitor_news_7d": 106,
-  "launch_signals_7d": 25,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 47,
-  "offer_page_changes_7d": 9
+  "competitor_news_7d": 101,
+  "launch_signals_7d": 23,
+  "offer_signals_7d": 3,
+  "zeekr_news_7d": 50,
+  "offer_page_changes_7d": 12
  },
  "series_30d": [
-  {
-   "date": "2026-10-03",
-   "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 0
-  },
   {
    "date": "2026-10-04",
    "complaints": 1,
@@ -56,7 +50,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 13,
+   "competitor_news": 15,
    "zeekr_news": 4
   },
   {
@@ -182,7 +176,7 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 17,
+   "competitor_news": 16,
    "zeekr_news": 10
   },
   {
@@ -194,8 +188,14 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 18,
+   "competitor_news": 20,
    "zeekr_news": 9
+  },
+  {
+   "date": "2026-11-02",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -499,7 +499,7 @@
    "latest": "06fa47391abc61ff"
   },
   "tesla-model-3": {
-   "n_30d": 20,
+   "n_30d": 19,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -608,10 +608,12 @@
    "latest": null
   },
   "denza-d9": {
-   "n_30d": 0,
-   "launch": [],
+   "n_30d": 1,
+   "launch": [
+    "b3518908fd266851"
+   ],
    "offer": [],
-   "latest": null
+   "latest": "b3518908fd266851"
   },
   "xpeng-x9": {
    "n_30d": 9,
@@ -886,6 +888,40 @@
  },
  "alerts": [
   {
+   "kind": "offer_page_change",
+   "id": "ed392c540b233885",
+   "title": "Zeekr (Zecar) 官网政策页面变化（+1 / −0 行）",
+   "title_en": "Zeekr (Zecar) offer page changed (+1 / −0 lines)",
+   "source": "https://zecar.com/offers-and-deals/zeekr",
+   "t": "2026-11-02T02:24:46+00:00"
+  },
+  {
+   "kind": "offer_page_change",
+   "id": "4413e93a5d117a64",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+7 / −5 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+7 / −5 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-11-02T02:24:46+00:00"
+  },
+  {
+   "kind": "offer_page_change",
+   "id": "c39f7ec350c74fec",
+   "title": "MG / IM 官网政策页面变化（+1 / −1 行）",
+   "title_en": "MG / IM offer page changed (+1 / −1 lines)",
+   "source": "https://mgmotor.com.au/offers",
+   "t": "2026-11-02T02:24:46+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "b3518908fd266851",
+   "title": "Denza D9 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-01T16:30:41+00:00",
+   "competitors": [
+    "denza-d9"
+   ]
+  },
+  {
    "kind": "competitor_launch",
    "id": "a8af33cd32623473",
    "title": "GAC M8 price and specs: every variant compared - EV Central",
@@ -1023,12 +1059,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 21,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1048,7 +1084,7 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 98,
+   "count": 99,
    "note": ""
   },
   "gn-ev-launch-au": {
@@ -1058,17 +1094,17 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 42,
+   "count": 25,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 14,
+   "count": 33,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 21,
+   "count": 26,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1137,14 +1173,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 22,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1159,7 +1195,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1508,12 +1544,12 @@
   },
   "zecar-offers-geely": {
    "ok": true,
-   "count": 14,
+   "count": 17,
    "note": ""
   },
   "zecar-offers-zeekr": {
    "ok": true,
-   "count": 1,
+   "count": 2,
    "note": ""
   },
   "zecar-offers-leapmotor": {
@@ -1548,8 +1584,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 4,
+   "note": "4 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1574,7 +1610,7 @@
   "offers-mg": {
    "ok": true,
    "count": 37,
-   "note": "unchanged"
+   "note": "changed"
   },
   "offers-mazda": {
    "ok": true,
@@ -1648,8 +1684,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 42,
-   "note": "unchanged"
+   "count": 44,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,
@@ -1658,8 +1694,8 @@
   },
   "offers-zeekr-offers-zecar": {
    "ok": true,
-   "count": 6,
-   "note": "unchanged"
+   "count": 7,
+   "note": "changed"
   }
  },
  "places": {

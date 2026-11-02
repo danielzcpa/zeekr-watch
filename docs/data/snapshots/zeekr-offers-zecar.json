@@ -2,12 +2,13 @@
  "key": "zeekr-offers-zecar",
  "brand": "Zeekr (Zecar)",
  "url": "https://zecar.com/offers-and-deals/zeekr",
- "fetched": "2026-11-01T22:48:53+00:00",
- "digest": "2fe0fce77d9a87b8",
+ "fetched": "2026-11-02T02:24:46+00:00",
+ "digest": "b2afee05b597e192",
  "lines": [
   "Deals and Offers",
   "Compare the latest Zeekr electric vehicle deals and offers in Australia. See Zeekr discounts, rebates, charging packages and finance offers, updated regularly.",
   "Search Offers",
+  "Zeekr 7X MY27 Launch Offer: Free Paint, Charger, and Servicing",
   "New ZEEKR X MY26 Launch Offer: Premium Upgrades Included (Up to $6,056 in Value)",
   "Vehicle Discount",
   "We'll email you when a new offer goes live."
@@ -15,5 +16,5 @@
  "money": [
   6056
  ],
- "n_lines": 6
+ "n_lines": 7
 }
