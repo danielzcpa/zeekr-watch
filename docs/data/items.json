@@ -1,5 +1,71 @@
 [
  {
+  "id": "4a8d8545d170e90d",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdGctZ3lJZDhiUm9ZRE4yWXBWQ1pXTFBGOUZ2MzJfb29kMHF3OXF0Vi04OXNwUnNCMkZuZUZMUDFYVEx3X3l5ZldrMWlFai1iMW14Unpnbzd6b0xNUHJEaGw2VQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-11-02T07:13:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T14:13:27+00:00"
+ },
+ {
+  "id": "3042421714674945",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2NEV2Nrb2xhZDRnTC1uZXNnWUljUGJBNnVSRDN6bFZzSzVmQ0YwWEV4Uy1pVmNwYm9mdHZvdTVqeV9TMDVKRF81aEkwVHZHX3p2cVljTVpQc2Q5TjVRa1hWZHhXTzNNVXRnYncwd1JvMmdCUkFxQXAzR2RxMWx0WFZNLW9MMHBrSkxTYmpneDZnZw?oc=5",
+  "title": "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026) - Zecar",
+  "text": "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026) Zecar",
+  "author": "",
+  "published": "2026-11-02T06:32:02+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T09:53:02+00:00"
+ },
+ {
   "id": "85d9633824ceff8f",
   "type": "competitor_news",
   "source": "carexpert",
@@ -102,9 +168,42 @@
   "first_seen": "2026-11-02T06:41:50+00:00"
  },
  {
+  "id": "37358bec7406071f",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KckV5ZjdZcEhxSzBxa0NrRDRmVGk3elZESWJ1eUVsM29Ldm5lNlZaaFl1LWx6MGNzM0RCUG1fUFgwN0NLa0dsbE9RSVVIcUxScm9rSHNnOEZZZ2M?oc=5",
+  "title": "Porsche Panamera price and specs: every variant compared - EV Central",
+  "text": "Porsche Panamera price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-11-02T02:16:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
   "id": "57df56df123edc9f",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
   "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
@@ -127,7 +226,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
@@ -204,6 +303,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "d29fb2a0776d79e1",
+  "type": "news_zeekr",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
+  "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea - CarsGuide",
+  "text": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea CarsGuide",
+  "author": "",
+  "published": "2026-11-02T00:35:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [
+   "byd-sealion7",
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T09:53:02+00:00"
  },
  {
   "id": "747a6b199333e852",
@@ -508,39 +644,6 @@
   "first_seen": "2026-11-02T02:19:07+00:00"
  },
  {
-  "id": "37358bec7406071f",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KckV5ZjdZcEhxSzBxa0NrRDRmVGk3elZESWJ1eUVsM29Ldm5lNlZaaFl1LWx6MGNzM0RCUG1fUFgwN0NLa0dsbE9RSVVIcUxScm9rSHNnOEZZZ2M?oc=5",
-  "title": "Porsche Panamera price and specs: every variant compared - EV Central",
-  "text": "Porsche Panamera price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-11-01T16:22:38+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "porsche"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
   "id": "c83b5f878967efc3",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -572,6 +675,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "02cf66faf8645b67",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yS1VqRWlYOHpPaGZEUTQzbTIwS1dXdDl3bnl0cEFMZF8tSTlVdTlZbUlxQm1RRDJyRmFZS3pReFFMNFNhZVhVSFV1dlVCZFE0dDMzYUxON08?oc=5",
+  "title": "Hyundai Staria price, range and specs compared - EV Central",
+  "text": "Hyundai Staria price, range and specs compared EV Central",
+  "author": "",
+  "published": "2026-11-01T15:38:09+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T09:53:02+00:00"
  },
  {
   "id": "a8af33cd32623473",
@@ -981,37 +1119,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T06:41:50+00:00"
- },
- {
-  "id": "4a8d8545d170e90d",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdGctZ3lJZDhiUm9ZRE4yWXBWQ1pXTFBGOUZ2MzJfb29kMHF3OXF0Vi04OXNwUnNCMkZuZUZMUDFYVEx3X3l5ZldrMWlFai1iMW14Unpnbzd6b0xNUHJEaGw2VQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-11-01T11:25:23+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-11-01T14:13:27+00:00"
  },
  {
   "id": "29c88809ea4f09c5",
@@ -1721,44 +1828,6 @@
   "first_seen": "2026-11-01T19:06:14+00:00"
  },
  {
-  "id": "caeb7cd59ba96d4f",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · OzBargain",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nLUI5aU9DcWo2a0FMdE11aXhzTVJKdXZOWFhwSVlBdmRTa0hGWkJOT3pLZ210MTZxLXJzY0lBbnJfSUpKLWpWUV9qSDBLQlZOZ1E?oc=5",
-  "title": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia - OzBargain",
-  "text": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia OzBargain",
-  "author": "",
-  "published": "2026-10-31T15:41:33+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "quality",
-   "charging",
-   "delivery",
-   "service"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "price"
-  ],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-11-02T06:41:50+00:00"
- },
- {
   "id": "8c9ef38f9af3c4e7",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -2075,7 +2144,7 @@
  {
   "id": "3ebcaf638222b65d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-brands-eu",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWswMkJlTVFkam1Ec0Z2UUF3Vk5SR1BVWjE4UFJIUW1IUHdtblh1TGVNTkdnZlFhZjhxTVhhTVFfUHNVSThobjIyWWhUZFc0dl85V0h5VkxxMGFnZnNmOTFKVTZOY0trZnNPcGd5S3NwUU9EZUlhV0JUMmJuTmZsdWtkUlpFXzVYNm5Eb2ZQXzN6X3kyRjNWN1BsWks3QUE?oc=5",
   "title": "Zeekr's updated top seller is finally on sale in Australia, with more power - caradvice.com.au",
@@ -2100,7 +2169,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
@@ -2108,7 +2177,7 @@
  {
   "id": "927372d4e2e0786b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Exhaust Notes Australia",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0ZZRmFCMlBoRjFQOWd3bVJROWtRYk1INzRrbTV6NzExdmlBemhfeDdMVTlab1NjQnhmbVZSYmEwNWRpWlZzaFFVLXozby1BeTExeVVYMHl0RFgxN1V3dFpYb09aVVYtV05Ba1dVenhQdFk5TjQ0UjFCbXlaTVJucTRB?oc=5",
   "title": "Updated 2027 Zeekr 7X launches in Australia - Exhaust Notes Australia",
@@ -2135,7 +2204,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
@@ -42939,134 +43008,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-28T19:48:20+00:00"
- },
- {
-  "id": "1020e3b52e538712",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOQnltTTFEVFhLU3N4VjZEdDZhbE1JNS1YcVExYVNxLTZlTldYQzBMQ29OOW9OVzNTZlRQakZXS2ZrRC1XSVlWdThycGw1S0lya0xpaXQ3eERYM3lZTG8tM05EMA?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-06T08:35:29+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-29T05:33:06+00:00"
- },
- {
-  "id": "26c731d76f0003f9",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVJSQXlEeG9wM3BvZUtZdW1JNkYyRkFYOHhSdE5tQlhPRXVJM3dWb3F5d1U0Szg2MWRYRklwWjRrVmNSTTVVaC1JeTFNeFBoT2ZBWUJnZU56b2I0bE5mQWtzUk1sNGduVVhWX2pqbi1PdkNxVURKWFlmN2d6MXZna3h0X2RqUnhrY0JzYW1XbHBrR1ZHYlBjYXU0X1R4ZGQ1TVE?oc=5",
-  "title": "Zeekr 8X, 9X to launch in Australia this summer - Carsales",
-  "text": "Zeekr 8X, 9X to launch in Australia this summer Carsales",
-  "author": "",
-  "published": "2026-05-06T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "97a4540d6e0a2b0c",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTW5zQm13YXY2dC1aM3FFaWdQWG13ZkFRQ1FLREVRYXR5SjJjVFJWemtDeEdEXzgyQk1rMUY5LTFUMDFvMVI3dWVhOGdNOHg0bG1hek5IdGRZNkMyUmZEallqVG8tQmdKTlI5dTFiY3ZOeURoeV9ERDNnUVluaEtFb1d1MGtXSnVMTjh2a0I1aUhacXNLNTlmS0FzRmFjUQ?oc=5",
-  "title": "Zeekr won't take on Tesla Model 3 with EV sedan in Australia - CarExpert",
-  "text": "Zeekr won't take on Tesla Model 3 with EV sedan in Australia CarExpert",
-  "author": "",
-  "published": "2026-05-06T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [
-   "tesla-model-3"
-  ],
-  "brands": [
-   "tesla"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "3c646467c3daf1fd",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wNzZ5TFZRd0V3N3Y2cmF5cFpQUXpBWFhRX0lRaFBhdFZTd0hxMkNMSnhHQmZ0M1ZZUzFSNENYdFl1RGpRMUdFNDhQR1RpWTNqN01tWkdkRUo4bHA1UzluN0pkQQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-06T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T00:34:31+00:00"
  }
 ]
