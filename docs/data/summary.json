@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-02T09:53:02+00:00",
- "duration_s": 288.7,
- "items_total": 1249,
- "new_this_run": 168,
+ "generated": "2026-11-02T20:13:07+00:00",
+ "duration_s": 367.7,
+ "items_total": 1259,
+ "new_this_run": 192,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 6,
@@ -10,10 +10,10 @@
   "high_7d": 2,
   "medium_7d": 1,
   "low_7d": 3,
-  "competitor_news_7d": 99,
-  "launch_signals_7d": 23,
+  "competitor_news_7d": 103,
+  "launch_signals_7d": 25,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 54,
+  "zeekr_news_7d": 56,
   "offer_page_changes_7d": 15
  },
  "series_30d": [
@@ -68,7 +68,7 @@
   {
    "date": "2026-10-12",
    "complaints": 1,
-   "competitor_news": 18,
+   "competitor_news": 19,
    "zeekr_news": 10
   },
   {
@@ -98,7 +98,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 21,
+   "competitor_news": 20,
    "zeekr_news": 9
   },
   {
@@ -164,13 +164,13 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 20,
+   "competitor_news": 19,
    "zeekr_news": 7
   },
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 10,
+   "competitor_news": 9,
    "zeekr_news": 4
   },
   {
@@ -188,14 +188,14 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 20,
+   "competitor_news": 22,
    "zeekr_news": 10
   },
   {
    "date": "2026-11-02",
    "complaints": 0,
-   "competitor_news": 4,
-   "zeekr_news": 6
+   "competitor_news": 10,
+   "zeekr_news": 9
   }
  ],
  "categories_30d": [
@@ -457,14 +457,15 @@
    "latest": null
   },
   "toyota-bz4x": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
+    "647f766d2b549afc",
     "3e3f285c9229d77a"
    ],
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "314dc23a0af87d4d"
+   "latest": "647f766d2b549afc"
   },
   "ford-mach-e": {
    "n_30d": 0,
@@ -500,7 +501,7 @@
    "latest": "3042421714674945"
   },
   "tesla-model-3": {
-   "n_30d": 19,
+   "n_30d": 20,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -893,10 +894,12 @@
    "latest": null
   },
   "hyundai-staria": {
-   "n_30d": 1,
-   "launch": [],
+   "n_30d": 2,
+   "launch": [
+    "7389d244a24d8fa5"
+   ],
    "offer": [],
-   "latest": "02cf66faf8645b67"
+   "latest": "7389d244a24d8fa5"
   },
   "ldv-mifa": {
    "n_30d": 0,
@@ -906,6 +909,26 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "647f766d2b549afc",
+   "title": "Toyota to build Waymo self-driving taxis for Japan, UK and beyond",
+   "source": "CarExpert",
+   "t": "2026-11-02T19:30:00+00:00",
+   "competitors": [
+    "toyota-bz4x"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "7389d244a24d8fa5",
+   "title": "Hyundai Staria Load expectations revealed - GoAuto.com.au",
+   "source": "Google News · GoAuto.com.au",
+   "t": "2026-11-02T10:35:34+00:00",
+   "competitors": [
+    "hyundai-staria"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "fff2ce97eb6f9265",
@@ -1015,6 +1038,16 @@
    ]
   },
   {
+   "kind": "competitor_launch",
+   "id": "9cf83e3d30e44365",
+   "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-01T15:35:45+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
+  {
    "kind": "offer_page_change",
    "id": "85529cdab4aaaf46",
    "title": "MG / IM 官网政策页面变化（+12 / −9 行）",
@@ -1075,37 +1108,17 @@
    "title_en": "Zecar (all-brand offers) offer page changed (+23 / −18 lines)",
    "source": "https://zecar.com/offers-and-deals",
    "t": "2026-10-31T13:38:49+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "9cf83e3d30e44365",
-   "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-10-31T02:07:46+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "44ff0304dbae118d",
-   "title": "Denza B5 price cut: BYD’s Toyota Prado rival now priced under $75k drive-away",
-   "source": "CarExpert",
-   "t": "2026-10-30T20:00:00+00:00",
-   "competitors": [
-    "denza-b8"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 75,
+   "count": 74,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 27,
+   "count": 28,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1120,7 +1133,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 57,
+   "count": 56,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1140,22 +1153,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 24,
+   "count": 31,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 30,
+   "count": 27,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 25,
+   "count": 21,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 98,
+   "count": 100,
    "note": ""
   },
   "carexpert": {
@@ -1224,24 +1237,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 22,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1285,7 +1298,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 27,
    "note": ""
   },
   "playstore-android": {
@@ -1534,9 +1547,9 @@
    "note": ""
   },
   "beep-offers-lexus": {
-   "ok": true,
-   "count": 1,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403; mirror HTTP 503"
   },
   "beep-offers-denza": {
    "ok": true,
@@ -1641,7 +1654,7 @@
   "policy-events": {
    "ok": true,
    "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "note": "0 new; 37/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,

@@ -1,5 +1,216 @@
 [
  {
+  "id": "647f766d2b549afc",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond",
+  "title": "Toyota to build Waymo self-driving taxis for Japan, UK and beyond",
+  "text": "Toyota will build bZ4X electric SUVs kitted out with self-driving hardware and software from Waymo . The two companies expect a validation fleet of bZ4Xs to hit the roads of Japan in 2027. Cars will also be sent to the UK and other countries, but timing has yet to confirmed. Neither partner has indicated when the bZ4X Waymo will enter revenue service. As part of the announcement overnight, the two firms stated they \"will continue to explore the future of autonomous driving technology\" for privately-owned Toyotas. Production of these self-driving Toyotas will take place at the company's Takaoka factory in Toyota City, alongside manually-driven bZ4X models. Waymo's hardware suite of cameras, radars and lidar will are fitted to the car in Toyota's plant. The bZ4Xs that Toyota will build for Waymo will all be fitted with automatic doors, an electric tailgate, and ambient lighting. In a prepared statment Dmitri Dolgov, co-CEO of Waymo, claimed its vehicles are \"20 times safer than human drivers when it comes to serious crash injuries\" and said the company chose Toyota \"because of our respect for the legendary safety, reliability, and quality of their vehicles\". Hiroki Nakajima, Toyota's",
+  "author": "Derek Fung",
+  "published": "2026-11-02T19:30:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "service",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "9eee2018b5e1714c",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnVyZUF5NThCbU1jX3Z5cjdHYjBfTVJHajBKX0JGRFJ2SlVqdHc0WmxVWTdQYjc2R1Jjc1I2SzE5QnZQbGJPN2tnN3BfZHlZdmFyZHF2aExING9jOURPSkNWSHh0V2ZlODdrSXlkR3JpU3dJREx2aEZfVGI3MDRyTWNHVUZNaVlHOWdMOGpWNnNiT0NoRGpZ?oc=5",
+  "title": "Secret first look at Kia's next big EV launch - Drive",
+  "text": "Secret first look at Kia's next big EV launch Drive",
+  "author": "",
+  "published": "2026-11-02T18:55:34+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "74f69284d785fe51",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2026-zeekr-7x-review-long-term-conclusion",
+  "title": "2026 Zeekr 7X review: Long-term conclusion",
+  "text": "Zàijiàn , Zeekr... Our long-term test of the Zeekr 7X Long Range RWD has come to an end, with more than 5000km travelled over the course of six months. In that period we spent plenty of time with this premium-leaning Chinese electric SUV. It wasn't just me driving it either. Our founders, editors and journalists all cycled through it, undertaking both short trips and long journeys, and various members of the CarExpert Melbourne office used it to run errands and ferry people to and from the airport. Essentially, we wanted this test to be as broad and varied as the use cases of most owners. So how did it go? Without giving it away at the top, we reckon the 7X is one of the best SUVs you can buy from a Chinese brand, especially for the money, and a great mid-size electric SUV alternative to the all-conquering Tesla Model Y . It's no wonder CarExpert receives so many questions and enquiries about the 7X, both on-site and via our social channels, and also why the Zeekr is rocketing up the VFACTS sales charts. So, if you've been wondering about the longer-term ownership prospects of the super-popular Zeekr 7X, read on to find out what's good and what's not so good about living with one f",
+  "author": "James Wong",
+  "published": "2026-11-02T13:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 1,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "fc20a5ca5a4d06ef",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xlufyd/charging_to_80/",
+  "title": "Charging to 80%",
+  "text": "7x LR owners, do you regularly charge to 80%, if not how often and why not? Looking at the SL7, with the blade battery, 100% recommended charge gives you 480 km, The 7xLR at recommended 80% gives you 500ish kms Is that extra 10k worth it, in terms only of the range (noting of course it’s not the sole consideration)",
+  "author": "/u/Winter_Arm7131",
+  "published": "2026-11-02T11:13:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 3,
+   "neg_hits": 0,
+   "pos_hits": 3,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "7389d244a24d8fa5",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · GoAuto.com.au",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHJDVksxdTh6UmV1NW56MkVwekh6aTczdmsyWWotbGdqSVhTN3hXX0dqV0lIY2p1UGd0d29DVVpXcDY0cnNIbUpBN0dmUlpPVzVMaHo0MUZjLUMxbmE4Y0xRcXZBV2V4NHRWMTh3dGNKM2NOMmtjZUxqdW4zRDAwY3BXSy0xTFMxWldCNXhNaHFjZVFVaWJWR0N2TkMtYmE3VzBpUjVXWWpBVkFodTVWSlFpSlRLYTVWZzhyVHpBU0NLZw?oc=5",
+  "title": "Hyundai Staria Load expectations revealed - GoAuto.com.au",
+  "text": "Hyundai Staria Load expectations revealed GoAuto.com.au",
+  "author": "",
+  "published": "2026-11-02T10:35:34+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "5459ad877b8d39e5",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeU9PdnQzWC1zNnBqREtpXzN6QUxPSFU3bVp5TzRQem5NX1JkVTF2bkc2SXZjU1dQS3pWZC1OTWtkYVVaVUtVMlh4V0N6ZVdsNTIw?oc=5",
+  "title": "Deepal E07 review: every 2026 variant, price and specs - EV Central",
+  "text": "Deepal E07 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-11-02T07:23:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "deepal"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T05:11:30+00:00"
+ },
+ {
   "id": "4a8d8545d170e90d",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -29,6 +240,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-01T14:13:27+00:00"
+ },
+ {
+  "id": "e023e9a6af212c2f",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ySFdQbjcxOWdmaWxXZWFlSVBpSUJ6OV8zQ2F6YU1XZ1JrdHlaeUpBdkRRSlV3YUY1QldyRGMwNXlkZkYzeVVFaHNRZWktYVF3NVJ5WWJn?oc=5",
+  "title": "Hyundai Kona review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai Kona review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-11-02T07:05:34+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
   "id": "3042421714674945",
@@ -139,6 +383,104 @@
   "first_seen": "2026-11-02T06:41:50+00:00"
  },
  {
+  "id": "82a38dd82e7e65ab",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · motorexpo.co.th",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jUWFOZEN5N2R0X21CTWZMdkZKenNSa2doRmtnNmYtQkNQRTNsZF9OQzk2MzRfczNwTS13dld0QmcxTmdlY0JWNVBrX3FZNW9pWXc?oc=5",
+  "title": "Zeekr celebrates success in Thailand, delivering 10,000 vehicles - motorexpo.co.th",
+  "text": "Zeekr celebrates success in Thailand, delivering 10,000 vehicles motorexpo.co.th",
+  "author": "",
+  "published": "2026-11-02T05:33:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "0c8e5ed49f2ab86f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 뉴스웍스",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZlFjRUhYcEwzSlpYQWVLN2NUV3ctaVRxQmdXazFURlYwR3NqcDNQMjFmTjl3NU8tQkIzMTR4SzFFN05kYi1ua2NOZ09hUFBxZ3U4MlVBcWxNLTkyc09iOW9oVzVCcXN0QUhHdQ?oc=5",
+  "title": "[Tavoni] Zeekr 7X, impressive 645-horsepower specs...Will BYD Turn the Korean Market Upside Down - 뉴스웍스",
+  "text": "[Tavoni] Zeekr 7X, impressive 645-horsepower specs...Will BYD Turn the Korean Market Upside Down 뉴스웍스",
+  "author": "",
+  "published": "2026-11-02T04:58:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "75ddebb2361855ab",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkotbXE3UVlHYVV3cHJnNmYzYmRmcWZPc3NUNmlUcnR0eE5ELUJMTUFUV29lby1YbkJIZjU4Q2xsTkZfYmg4SWpKXzJpbFl6VzBKZWhHWXNIeWlTZEp4YnEwbjBnRmRMQ2hlanBxcHdvSURYaXFTcDBZelVja3NYUmJOclUtdWE0Vmt6Ukc0dkNFdS0yclhVZGlBS29NcXl0OHdNUHU1MEM2NWlfT0hMV2cyekRFbFg4d1lJXzlNOEhPdjBy?oc=5",
+  "title": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs - CarsGuide",
+  "text": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs CarsGuide",
+  "author": "",
+  "published": "2026-11-02T04:39:01+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
   "id": "46939442d012d421",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -203,7 +545,7 @@
  {
   "id": "57df56df123edc9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
   "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
@@ -226,7 +568,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
@@ -307,7 +649,7 @@
  {
   "id": "d29fb2a0776d79e1",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
   "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea - CarsGuide",
@@ -336,7 +678,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T09:53:02+00:00"
@@ -642,6 +984,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "111e4da80e0df37c",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IWW8xbGxTMk1ZbG43cWd4MHpoTHhsdHBPZXhfbTRFc0N5NHNwZTBDeHVYTUlBSkNySTlUX1BkV2U2QWt6RDlnWmJqb29qOGZLbldFTGlLZEEtQQ?oc=5",
+  "title": "Mini Countryman review: every 2026 variant, price and specs - EV Central",
+  "text": "Mini Countryman review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-11-01T15:40:04+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mini"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
  },
  {
   "id": "c83b5f878967efc3",
@@ -1065,6 +1440,41 @@
   ],
   "brands": [
    "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "9cf83e3d30e44365",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WNnlKeHNmandxMnd5N3k1b3Y4Z2tpc1EzS05lU2x4Uy1NT2NkWFh5S0ZLOUJZRGliX3RwZjEtX3QyWWt1c3JqdnIzLU82eTI1TnU2Q1J2WDUxbDV3?oc=5",
+  "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
+  "text": "Mercedes-Benz GLE price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-11-01T15:35:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
   ],
   "categories": [],
   "sentiment": {
@@ -2380,6 +2790,39 @@
   "first_seen": "2026-11-01T00:22:34+00:00"
  },
  {
+  "id": "627ac93a33cd7a47",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRFRZYU4wbjlER040ZURwbll3SlJmeGk2SzAwVjFFV3Bkd3g2MXdudEdJbGtiZ2lWaU5nbUstd2J5YThxaFFXY291WjNobmUwaXc?oc=5",
+  "title": "Xpeng L03 price and specs: every 2026 variant compared - EV Central",
+  "text": "Xpeng L03 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-31T10:01:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
   "id": "e7f3144b8217675a",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -2716,41 +3159,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
- },
- {
-  "id": "9cf83e3d30e44365",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WNnlKeHNmandxMnd5N3k1b3Y4Z2tpc1EzS05lU2x4Uy1NT2NkWFh5S0ZLOUJZRGliX3RwZjEtX3QyWWt1c3JqdnIzLU82eTI1TnU2Q1J2WDUxbDV3?oc=5",
-  "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
-  "text": "Mercedes-Benz GLE price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-31T02:07:46+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "mb-gle"
-  ],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
   "id": "2ee837e87068f06a",
@@ -3777,39 +4185,6 @@
   "first_seen": "2026-10-30T02:30:40+00:00"
  },
  {
-  "id": "627ac93a33cd7a47",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRFRZYU4wbjlER040ZURwbll3SlJmeGk2SzAwVjFFV3Bkd3g2MXdudEdJbGtiZ2lWaU5nbUstd2J5YThxaFFXY291WjNobmUwaXc?oc=5",
-  "title": "Xpeng L03 price and specs: every 2026 variant compared - EV Central",
-  "text": "Xpeng L03 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-29T23:40:18+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "xpeng"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T00:13:27+00:00"
- },
- {
   "id": "0d4ba2bcb5fddbe4",
   "type": "competitor_news",
   "source": "carexpert",
@@ -4628,6 +5003,39 @@
   "first_seen": "2026-10-28T23:58:25+00:00"
  },
  {
+  "id": "b04c667bd32385c1",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGNqWUpUMG54bmJDY0lCbWt4S2t4UUpQLTg1WjBHVkFTR2ZVcEh4OGE3UlFkMldVbEtCY2lyeUQwZUtUNDd4dGVDRmNDM2xndVRSSFVxTnFtZjBkamljT2stTVVaOTk5RUxOVVpxbjc3QXV1bGFNVlZlbXhOaURhY3VYdTVoNTdwQ3JnODV6TEtOaWI2S0xKNXVRdkRKZjA?oc=5",
+  "title": "2023 Tesla Model 3 Rear-Wheel Drive Auto - Carsales",
+  "text": "2023 Tesla Model 3 Rear-Wheel Drive Auto Carsales",
+  "author": "",
+  "published": "2026-10-28T15:23:50+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
   "id": "55d3d8e50661a9fc",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -5153,39 +5561,6 @@
   "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
-  "id": "5459ad877b8d39e5",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EeU9PdnQzWC1zNnBqREtpXzN6QUxPSFU3bVp5TzRQem5NX1JkVTF2bkc2SXZjU1dQS3pWZC1OTWtkYVVaVUtVMlh4V0N6ZVdsNTIw?oc=5",
-  "title": "Deepal E07 review: every 2026 variant, price and specs - EV Central",
-  "text": "Deepal E07 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "deepal"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
   "id": "1380cc70d4605aa5",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -5219,39 +5594,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-17T08:45:22+00:00"
- },
- {
-  "id": "e023e9a6af212c2f",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ySFdQbjcxOWdmaWxXZWFlSVBpSUJ6OV8zQ2F6YU1XZ1JrdHlaeUpBdkRRSlV3YUY1QldyRGMwNXlkZkYzeVVFaHNRZWktYVF3NVJ5WWJn?oc=5",
-  "title": "Hyundai Kona review: every 2026 variant, price and specs - EV Central",
-  "text": "Hyundai Kona review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-29T22:55:36+00:00"
  },
  {
   "id": "e7265370d06cab77",
@@ -16169,39 +16511,6 @@
   "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
-  "id": "4236eaa1e298c401",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFZnFZd1JCUDAweG5BTElpaWZVTWZaeWV0Z3NFaFByQ2JpaEM0SUUydU5VaGlrOVFFN2RzNTFudHhGMVQ2aGxZMUh3bUVVRDVnNkFQMXFCaGlSOGZlV2dz?oc=5",
-  "title": "Mercedes-Benz eVito price and specs: every variant compared - EV Central",
-  "text": "Mercedes-Benz eVito price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T11:09:39+00:00"
- },
- {
   "id": "006fe17082ba0970",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -22398,6 +22707,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "4236eaa1e298c401",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFZnFZd1JCUDAweG5BTElpaWZVTWZaeWV0Z3NFaFByQ2JpaEM0SUUydU5VaGlrOVFFN2RzNTFudHhGMVQ2aGxZMUh3bUVVRDVnNkFQMXFCaGlSOGZlV2dz?oc=5",
+  "title": "Mercedes-Benz eVito price and specs: every variant compared - EV Central",
+  "text": "Mercedes-Benz eVito price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-12T17:56:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T11:09:39+00:00"
  },
  {
   "id": "73f5fc5488025e27",
