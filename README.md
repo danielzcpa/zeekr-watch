@@ -66,3 +66,9 @@ docs/data/                 抓取结果（items.json、summary.json、offer_chan
 - 用户自助改密：登录后点顶栏「修改密码」，校验当前密码后生成一条 `{u,name,h}` 记录，用户把记录发给管理员（页面提供邮件按钮，收件人为 `auth.json` 里的 `admin_email`）；管理员执行 `python3 tools/set_hash.py '<记录>'` 或直接在 GitHub 网页上替换 `docs/auth.json` 中该用户的条目并提交，之后用新密码登录。
 - 登录页右上角可切换中文 / English。
 - 说明：站点为 GitHub Pages 静态页面，登录是前端校验，用于日常访问隔离；数据文件本身可被直接访问。如需真正的访问控制，需要把仓库设为私有并放到 Cloudflare Pages + Cloudflare Access（或类似）之后。
+
+## 2026-11-02 新增：交付量
+
+- `monitor/sales.py`：每次运行抓取 CarExpert New Car Sales Atlas 的 latest-dataset 页（VFACTS + EVC 月度全车型销量、品牌排名、燃料类型、买家类型、细分市场），按月存入 `docs/data/sales_history.json`（新月份发布后自动入库，历史月份保留）；同时抓取 The Driven 的 2026 年纯电月度表（全部 BEV 车型逐月）存入 `docs/data/ev_monthly.json`。
+- `config/sales_map.json`：竞品 id 与 Atlas / The Driven 车型名的对应关系；`combined` 表示 VFACTS 将燃油与纯电合并申报。
+- 页面「交付量」：全澳 BEV 月度走势与品牌表、最新月燃料类型与买家类型、每个 ZEEKR 车型的竞品逐月交付量表与走势图。

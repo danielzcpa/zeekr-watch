@@ -1,0 +1,4017 @@
+{
+ "months": {
+  "2026-09": {
+   "label": "September 2026",
+   "fetched": "2026-11-02T06:39:00+00:00",
+   "source": "https://atlas.carexpert.com.au/latest-dataset",
+   "models": {
+    "Ford|Ranger": {
+     "make": "Ford",
+     "model": "Ranger",
+     "units": 5062,
+     "yoy": 4.0,
+     "ytd": 37858
+    },
+    "Toyota|RAV4": {
+     "make": "Toyota",
+     "model": "RAV4",
+     "units": 4624,
+     "yoy": 81.0,
+     "ytd": 31209
+    },
+    "Toyota|Hilux": {
+     "make": "Toyota",
+     "model": "Hilux",
+     "units": 4455,
+     "yoy": -11.7,
+     "ytd": 36616
+    },
+    "Tesla|Model Y": {
+     "make": "Tesla",
+     "model": "Model Y",
+     "units": 2712,
+     "yoy": -30.9,
+     "ytd": 28501
+    },
+    "BYD|Sealion 7": {
+     "make": "BYD",
+     "model": "Sealion 7",
+     "units": 2687,
+     "yoy": 42.4,
+     "ytd": 19964
+    },
+    "Chery|Tiggo 4 Pro": {
+     "make": "Chery",
+     "model": "Tiggo 4 Pro",
+     "units": 2059,
+     "yoy": 0.5,
+     "ytd": 19865
+    },
+    "GWM|Haval Jolion": {
+     "make": "GWM",
+     "model": "Haval Jolion",
+     "units": 2018,
+     "yoy": 7.3,
+     "ytd": 17051
+    },
+    "Geely|EX5": {
+     "make": "Geely",
+     "model": "EX5",
+     "units": 2008,
+     "yoy": 619.7,
+     "ytd": 12745
+    },
+    "Toyota|Prado": {
+     "make": "Toyota",
+     "model": "Prado",
+     "units": 2006,
+     "yoy": 6.4,
+     "ytd": 15665
+    },
+    "Isuzu Ute|D-Max": {
+     "make": "Isuzu Ute",
+     "model": "D-Max",
+     "units": 1866,
+     "yoy": -6.2,
+     "ytd": 18237
+    },
+    "MG|ZS": {
+     "make": "MG",
+     "model": "ZS",
+     "units": 1805,
+     "yoy": 13.1,
+     "ytd": 13627
+    },
+    "Tesla|Model Y L": {
+     "make": "Tesla",
+     "model": "Model Y L",
+     "units": 1764,
+     "yoy": null,
+     "ytd": 7429
+    },
+    "Omoda Jaecoo|J5": {
+     "make": "Omoda Jaecoo",
+     "model": "J5",
+     "units": 1754,
+     "yoy": null,
+     "ytd": 11193
+    },
+    "Ford|Everest": {
+     "make": "Ford",
+     "model": "Everest",
+     "units": 1713,
+     "yoy": -33.0,
+     "ytd": 16203
+    },
+    "Zeekr|7X": {
+     "make": "Zeekr",
+     "model": "7X",
+     "units": 1628,
+     "yoy": 2971.7,
+     "ytd": 10800
+    },
+    "Hyundai|Kona": {
+     "make": "Hyundai",
+     "model": "Kona",
+     "units": 1617,
+     "yoy": -12.3,
+     "ytd": 18533
+    },
+    "Kia|Sportage": {
+     "make": "Kia",
+     "model": "Sportage",
+     "units": 1554,
+     "yoy": 16.3,
+     "ytd": 14327
+    },
+    "BYD|Shark 6": {
+     "make": "BYD",
+     "model": "Shark 6",
+     "units": 1492,
+     "yoy": 25.1,
+     "ytd": 13586
+    },
+    "Mazda|CX-5": {
+     "make": "Mazda",
+     "model": "CX-5",
+     "units": 1435,
+     "yoy": -16.8,
+     "ytd": 15273
+    },
+    "Hyundai|Tucson": {
+     "make": "Hyundai",
+     "model": "Tucson",
+     "units": 1407,
+     "yoy": -11.4,
+     "ytd": 15679
+    },
+    "Mitsubishi|Outlander": {
+     "make": "Mitsubishi",
+     "model": "Outlander",
+     "units": 1264,
+     "yoy": -29.2,
+     "ytd": 14584
+    },
+    "Geely|Starray EM-i": {
+     "make": "Geely",
+     "model": "Starray EM-i",
+     "units": 1254,
+     "yoy": 589.0,
+     "ytd": 7923
+    },
+    "Geely|EX2": {
+     "make": "Geely",
+     "model": "EX2",
+     "units": 1211,
+     "yoy": null,
+     "ytd": 2964
+    },
+    "Mitsubishi|Triton": {
+     "make": "Mitsubishi",
+     "model": "Triton",
+     "units": 1202,
+     "yoy": -30.6,
+     "ytd": 14033
+    },
+    "Tesla|Model 3": {
+     "make": "Tesla",
+     "model": "Model 3",
+     "units": 1178,
+     "yoy": 60.1,
+     "ytd": 5775
+    },
+    "Chery|Tiggo 7 Pro": {
+     "make": "Chery",
+     "model": "Tiggo 7 Pro",
+     "units": 1066,
+     "yoy": 97.0,
+     "ytd": 8831
+    },
+    "Toyota|Camry": {
+     "make": "Toyota",
+     "model": "Camry",
+     "units": 1066,
+     "yoy": 19.0,
+     "ytd": 9471
+    },
+    "GWM|Haval H6": {
+     "make": "GWM",
+     "model": "Haval H6",
+     "units": 1045,
+     "yoy": 0.8,
+     "ytd": 10862
+    },
+    "Mazda|CX-3": {
+     "make": "Mazda",
+     "model": "CX-3",
+     "units": 1007,
+     "yoy": -15.2,
+     "ytd": 9784
+    },
+    "Nissan|X-Trail": {
+     "make": "Nissan",
+     "model": "X-Trail",
+     "units": 999,
+     "yoy": -28.8,
+     "ytd": 10086
+    },
+    "Toyota|Hiace Van": {
+     "make": "Toyota",
+     "model": "Hiace Van",
+     "units": 949,
+     "yoy": -13.4,
+     "ytd": 9132
+    },
+    "BYD|Atto 2": {
+     "make": "BYD",
+     "model": "Atto 2",
+     "units": 936,
+     "yoy": null,
+     "ytd": 8673
+    },
+    "Toyota|Corolla Cross": {
+     "make": "Toyota",
+     "model": "Corolla Cross",
+     "units": 899,
+     "yoy": -14.8,
+     "ytd": 9678
+    },
+    "Mazda|CX-30": {
+     "make": "Mazda",
+     "model": "CX-30",
+     "units": 875,
+     "yoy": -6.5,
+     "ytd": 9020
+    },
+    "Toyota|Landcruiser Wagon": {
+     "make": "Toyota",
+     "model": "Landcruiser Wagon",
+     "units": 854,
+     "yoy": -26.8,
+     "ytd": 9787
+    },
+    "GWM|Cannon": {
+     "make": "GWM",
+     "model": "Cannon",
+     "units": 852,
+     "yoy": -31.6,
+     "ytd": 8618
+    },
+    "Mazda|BT-50": {
+     "make": "Mazda",
+     "model": "BT-50",
+     "units": 843,
+     "yoy": -22.5,
+     "ytd": 8700
+    },
+    "Isuzu Ute|MU-X": {
+     "make": "Isuzu Ute",
+     "model": "MU-X",
+     "units": 830,
+     "yoy": 22.2,
+     "ytd": 10556
+    },
+    "MG|MG3": {
+     "make": "MG",
+     "model": "MG3",
+     "units": 822,
+     "yoy": 33.7,
+     "ytd": 6340
+    },
+    "Toyota|Corolla": {
+     "make": "Toyota",
+     "model": "Corolla",
+     "units": 799,
+     "yoy": -29.7,
+     "ytd": 10182
+    },
+    "Kia|Carnival": {
+     "make": "Kia",
+     "model": "Carnival",
+     "units": 787,
+     "yoy": 11.9,
+     "ytd": 8757
+    },
+    "Toyota|Yaris Cross": {
+     "make": "Toyota",
+     "model": "Yaris Cross",
+     "units": 775,
+     "yoy": 10.2,
+     "ytd": 6634
+    },
+    "Subaru|Forester": {
+     "make": "Subaru",
+     "model": "Forester",
+     "units": 741,
+     "yoy": -47.6,
+     "ytd": 8074
+    },
+    "MG|MG4 Urban": {
+     "make": "MG",
+     "model": "MG4 Urban",
+     "units": 735,
+     "yoy": null,
+     "ytd": 3339
+    },
+    "BYD|Atto 1": {
+     "make": "BYD",
+     "model": "Atto 1",
+     "units": 633,
+     "yoy": null,
+     "ytd": 4471
+    },
+    "Kia|K4": {
+     "make": "Kia",
+     "model": "K4",
+     "units": 611,
+     "yoy": -34.9,
+     "ytd": 6160
+    },
+    "GWM|Ora 5": {
+     "make": "GWM",
+     "model": "Ora 5",
+     "units": 609,
+     "yoy": null,
+     "ytd": 1636
+    },
+    "BMW|X3 / iX3": {
+     "make": "BMW",
+     "model": "X3 / iX3",
+     "units": 607,
+     "yoy": 38.0,
+     "ytd": 4081
+    },
+    "Chery|C5/E5 & Omoda 5": {
+     "make": "Chery",
+     "model": "C5/E5 & Omoda 5",
+     "units": 598,
+     "yoy": 20.1,
+     "ytd": 4404
+    },
+    "BYD|Sealion 8": {
+     "make": "BYD",
+     "model": "Sealion 8",
+     "units": 592,
+     "yoy": null,
+     "ytd": 7152
+    },
+    "Kia|EV3": {
+     "make": "Kia",
+     "model": "EV3",
+     "units": 564,
+     "yoy": 134.0,
+     "ytd": 4541
+    },
+    "Xpeng|G6": {
+     "make": "Xpeng",
+     "model": "G6",
+     "units": 560,
+     "yoy": null,
+     "ytd": 1096
+    },
+    "Suzuki|Jimny": {
+     "make": "Suzuki",
+     "model": "Jimny",
+     "units": 555,
+     "yoy": -19.8,
+     "ytd": 5526
+    },
+    "Nissan|Patrol Wagon": {
+     "make": "Nissan",
+     "model": "Patrol Wagon",
+     "units": 544,
+     "yoy": 16.2,
+     "ytd": 4333
+    },
+    "Kia|EV5": {
+     "make": "Kia",
+     "model": "EV5",
+     "units": 509,
+     "yoy": 65.8,
+     "ytd": 4722
+    },
+    "BMW|X1/iX1": {
+     "make": "BMW",
+     "model": "X1/iX1",
+     "units": 474,
+     "yoy": 7.7,
+     "ytd": 3889
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLC-Class Wagon": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLC-Class Wagon",
+     "units": 472,
+     "yoy": 20.4,
+     "ytd": 3665
+    },
+    "Subaru|Crosstrek": {
+     "make": "Subaru",
+     "model": "Crosstrek",
+     "units": 470,
+     "yoy": -49.5,
+     "ytd": 5680
+    },
+    "BYD|Atto 3": {
+     "make": "BYD",
+     "model": "Atto 3",
+     "units": 460,
+     "yoy": 59.7,
+     "ytd": 4361
+    },
+    "Mazda|Mazda3": {
+     "make": "Mazda",
+     "model": "Mazda3",
+     "units": 457,
+     "yoy": -46.9,
+     "ytd": 5685
+    },
+    "Hyundai|Santa Fe": {
+     "make": "Hyundai",
+     "model": "Santa Fe",
+     "units": 443,
+     "yoy": -19.6,
+     "ytd": 4394
+    },
+    "Hyundai|i30": {
+     "make": "Hyundai",
+     "model": "i30",
+     "units": 443,
+     "yoy": -56.6,
+     "ytd": 5180
+    },
+    "Kia|Stonic": {
+     "make": "Kia",
+     "model": "Stonic",
+     "units": 443,
+     "yoy": -41.2,
+     "ytd": 4325
+    },
+    "Land Rover|Defender": {
+     "make": "Land Rover",
+     "model": "Defender",
+     "units": 438,
+     "yoy": 28.4,
+     "ytd": 3098
+    },
+    "Volkswagen|Tiguan": {
+     "make": "Volkswagen",
+     "model": "Tiguan",
+     "units": 435,
+     "yoy": 40.3,
+     "ytd": 2889
+    },
+    "Isuzu|N-Series (LD)": {
+     "make": "Isuzu",
+     "model": "N-Series (LD)",
+     "units": 428,
+     "yoy": -35.2,
+     "ytd": 3417
+    },
+    "Subaru|Outback": {
+     "make": "Subaru",
+     "model": "Outback",
+     "units": 419,
+     "yoy": -43.5,
+     "ytd": 3807
+    },
+    "Zeekr|X": {
+     "make": "Zeekr",
+     "model": "X",
+     "units": 417,
+     "yoy": 686.8,
+     "ytd": 1206
+    },
+    "GAC|Emzoom": {
+     "make": "GAC",
+     "model": "Emzoom",
+     "units": 411,
+     "yoy": null,
+     "ytd": 1169
+    },
+    "GWM|Tank 300": {
+     "make": "GWM",
+     "model": "Tank 300",
+     "units": 411,
+     "yoy": -15.6,
+     "ytd": 4143
+    },
+    "Toyota|bZ4X": {
+     "make": "Toyota",
+     "model": "bZ4X",
+     "units": 410,
+     "yoy": 412.5,
+     "ytd": 2919
+    },
+    "Hyundai|Venue": {
+     "make": "Hyundai",
+     "model": "Venue",
+     "units": 402,
+     "yoy": -46.4,
+     "ytd": 4305
+    },
+    "Mazda|6e": {
+     "make": "Mazda",
+     "model": "6e",
+     "units": 389,
+     "yoy": null,
+     "ytd": 1082
+    },
+    "GAC|Aion UT": {
+     "make": "GAC",
+     "model": "Aion UT",
+     "units": 384,
+     "yoy": null,
+     "ytd": 956
+    },
+    "BMW|X5": {
+     "make": "BMW",
+     "model": "X5",
+     "units": 381,
+     "yoy": 39.6,
+     "ytd": 2498
+    },
+    "LDV|T60": {
+     "make": "LDV",
+     "model": "T60",
+     "units": 375,
+     "yoy": 68.9,
+     "ytd": 2418
+    },
+    "Honda|CR-V": {
+     "make": "Honda",
+     "model": "CR-V",
+     "units": 366,
+     "yoy": -2.7,
+     "ytd": 4427
+    },
+    "Honda|ZR-V": {
+     "make": "Honda",
+     "model": "ZR-V",
+     "units": 361,
+     "yoy": 25.8,
+     "ytd": 3138
+    },
+    "Kia|Picanto": {
+     "make": "Kia",
+     "model": "Picanto",
+     "units": 360,
+     "yoy": -41.9,
+     "ytd": 4532
+    },
+    "Omoda Jaecoo|J7": {
+     "make": "Omoda Jaecoo",
+     "model": "J7",
+     "units": 359,
+     "yoy": 8.8,
+     "ytd": 2949
+    },
+    "Lexus|NX": {
+     "make": "Lexus",
+     "model": "NX",
+     "units": 357,
+     "yoy": -8.7,
+     "ytd": 4206
+    },
+    "Kia|Tasman": {
+     "make": "Kia",
+     "model": "Tasman",
+     "units": 355,
+     "yoy": -56.0,
+     "ytd": 3702
+    },
+    "Kia|Sorento": {
+     "make": "Kia",
+     "model": "Sorento",
+     "units": 352,
+     "yoy": -44.6,
+     "ytd": 3871
+    },
+    "Chery|Tiggo 8 Pro": {
+     "make": "Chery",
+     "model": "Tiggo 8 Pro",
+     "units": 348,
+     "yoy": -4.4,
+     "ytd": 3484
+    },
+    "Honda|HR-V": {
+     "make": "Honda",
+     "model": "HR-V",
+     "units": 343,
+     "yoy": -22.2,
+     "ytd": 3234
+    },
+    "Nissan|Navara": {
+     "make": "Nissan",
+     "model": "Navara",
+     "units": 338,
+     "yoy": -34.9,
+     "ytd": 3227
+    },
+    "BYD|Dolphin": {
+     "make": "BYD",
+     "model": "Dolphin",
+     "units": 337,
+     "yoy": -35.6,
+     "ytd": 3405
+    },
+    "BYD|Seal": {
+     "make": "BYD",
+     "model": "Seal",
+     "units": 327,
+     "yoy": -27.3,
+     "ytd": 3808
+    },
+    "MG|MG4": {
+     "make": "MG",
+     "model": "MG4",
+     "units": 326,
+     "yoy": 178.6,
+     "ytd": 2498
+    },
+    "BYD|Sealion 6": {
+     "make": "BYD",
+     "model": "Sealion 6",
+     "units": 318,
+     "yoy": -57.2,
+     "ytd": 6763
+    },
+    "Isuzu|N-Series (MD)": {
+     "make": "Isuzu",
+     "model": "N-Series (MD)",
+     "units": 299,
+     "yoy": 17.7,
+     "ytd": 2085
+    },
+    "MG|HS": {
+     "make": "MG",
+     "model": "HS",
+     "units": 282,
+     "yoy": -68.0,
+     "ytd": 3464
+    },
+    "GAC|Aion V": {
+     "make": "GAC",
+     "model": "Aion V",
+     "units": 281,
+     "yoy": null,
+     "ytd": 937
+    },
+    "Ford|Transit Custom": {
+     "make": "Ford",
+     "model": "Transit Custom",
+     "units": 276,
+     "yoy": -27.6,
+     "ytd": 1992
+    },
+    "Toyota|Kluger": {
+     "make": "Toyota",
+     "model": "Kluger",
+     "units": 272,
+     "yoy": -51.3,
+     "ytd": 3577
+    },
+    "BYD|Seal 6": {
+     "make": "BYD",
+     "model": "Seal 6",
+     "units": 265,
+     "yoy": null,
+     "ytd": 919
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLA-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLA-Class",
+     "units": 265,
+     "yoy": -8.3,
+     "ytd": 2636
+    },
+    "Mazda|CX-60": {
+     "make": "Mazda",
+     "model": "CX-60",
+     "units": 260,
+     "yoy": -42.4,
+     "ytd": 3566
+    },
+    "Audi|Q5": {
+     "make": "Audi",
+     "model": "Q5",
+     "units": 249,
+     "yoy": -8.5,
+     "ytd": 2243
+    },
+    "Kenworth|Kenworth": {
+     "make": "Kenworth",
+     "model": "Kenworth",
+     "units": 248,
+     "yoy": -21.8,
+     "ytd": 1938
+    },
+    "Suzuki|Swift": {
+     "make": "Suzuki",
+     "model": "Swift",
+     "units": 246,
+     "yoy": 43.0,
+     "ytd": 2261
+    },
+    "Volkswagen|Amarok": {
+     "make": "Volkswagen",
+     "model": "Amarok",
+     "units": 244,
+     "yoy": -42.7,
+     "ytd": 2796
+    },
+    "LDV|Terron 9": {
+     "make": "LDV",
+     "model": "Terron 9",
+     "units": 239,
+     "yoy": 195.1,
+     "ytd": 1153
+    },
+    "Mercedes-Benz Vans|Mercedes-Benz Sprinter": {
+     "make": "Mercedes-Benz Vans",
+     "model": "Mercedes-Benz Sprinter",
+     "units": 239,
+     "yoy": 21.9,
+     "ytd": 2426
+    },
+    "Audi|Q3": {
+     "make": "Audi",
+     "model": "Q3",
+     "units": 228,
+     "yoy": -54.9,
+     "ytd": 1650
+    },
+    "Ford|Mustang": {
+     "make": "Ford",
+     "model": "Mustang",
+     "units": 220,
+     "yoy": 88.0,
+     "ytd": 1748
+    },
+    "Volkswagen|Tayron": {
+     "make": "Volkswagen",
+     "model": "Tayron",
+     "units": 219,
+     "yoy": 53.1,
+     "ytd": 1735
+    },
+    "Mazda|Mazda2": {
+     "make": "Mazda",
+     "model": "Mazda2",
+     "units": 212,
+     "yoy": -34.6,
+     "ytd": 2564
+    },
+    "LDV|D90": {
+     "make": "LDV",
+     "model": "D90",
+     "units": 211,
+     "yoy": -35.9,
+     "ytd": 1958
+    },
+    "Volvo Commercial|Volvo Truck (HD)": {
+     "make": "Volvo Commercial",
+     "model": "Volvo Truck (HD)",
+     "units": 208,
+     "yoy": 5.6,
+     "ytd": 1646
+    },
+    "Hyundai|Palisade": {
+     "make": "Hyundai",
+     "model": "Palisade",
+     "units": 204,
+     "yoy": 32.5,
+     "ytd": 2100
+    },
+    "Hyundai|Staria Load": {
+     "make": "Hyundai",
+     "model": "Staria Load",
+     "units": 200,
+     "yoy": -24.5,
+     "ytd": 2000
+    },
+    "Fiat Professional|Fiat Ducato": {
+     "make": "Fiat Professional",
+     "model": "Fiat Ducato",
+     "units": 198,
+     "yoy": 53.5,
+     "ytd": 1207
+    },
+    "MINI|Cooper": {
+     "make": "MINI",
+     "model": "Cooper",
+     "units": 197,
+     "yoy": -2.0,
+     "ytd": 1782
+    },
+    "Skoda|Enyaq": {
+     "make": "Skoda",
+     "model": "Enyaq",
+     "units": 196,
+     "yoy": 1052.9,
+     "ytd": 609
+    },
+    "Denza|B5": {
+     "make": "Denza",
+     "model": "B5",
+     "units": 193,
+     "yoy": null,
+     "ytd": 1872
+    },
+    "Toyota|Yaris": {
+     "make": "Toyota",
+     "model": "Yaris",
+     "units": 193,
+     "yoy": -11.9,
+     "ytd": 1670
+    },
+    "Kia|Seltos": {
+     "make": "Kia",
+     "model": "Seltos",
+     "units": 192,
+     "yoy": -79.5,
+     "ytd": 4650
+    },
+    "Volkswagen|Golf": {
+     "make": "Volkswagen",
+     "model": "Golf",
+     "units": 187,
+     "yoy": -24.9,
+     "ytd": 1823
+    },
+    "GWM|Tank 500": {
+     "make": "GWM",
+     "model": "Tank 500",
+     "units": 183,
+     "yoy": 90.6,
+     "ytd": 1055
+    },
+    "MINI|Countryman": {
+     "make": "MINI",
+     "model": "Countryman",
+     "units": 182,
+     "yoy": -16.9,
+     "ytd": 1499
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLB-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLB-Class",
+     "units": 178,
+     "yoy": 42.4,
+     "ytd": 804
+    },
+    "Hino|(LD)": {
+     "make": "Hino",
+     "model": "(LD)",
+     "units": 177,
+     "yoy": -25.9,
+     "ytd": 1867
+    },
+    "LDV|Deliver 9 / eDeliver 9": {
+     "make": "LDV",
+     "model": "Deliver 9 / eDeliver 9",
+     "units": 176,
+     "yoy": -3.8,
+     "ytd": 1807
+    },
+    "Volvo Car|Volvo EX30": {
+     "make": "Volvo Car",
+     "model": "Volvo EX30",
+     "units": 170,
+     "yoy": 57.4,
+     "ytd": 1355
+    },
+    "Volvo Car|Volvo XC40": {
+     "make": "Volvo Car",
+     "model": "Volvo XC40",
+     "units": 170,
+     "yoy": -43.3,
+     "ytd": 1826
+    },
+    "MG|S5": {
+     "make": "MG",
+     "model": "S5",
+     "units": 164,
+     "yoy": -57.5,
+     "ytd": 2500
+    },
+    "Omoda Jaecoo|J8": {
+     "make": "Omoda Jaecoo",
+     "model": "J8",
+     "units": 162,
+     "yoy": 63.6,
+     "ytd": 787
+    },
+    "Denza|B8": {
+     "make": "Denza",
+     "model": "B8",
+     "units": 160,
+     "yoy": null,
+     "ytd": 1325
+    },
+    "LDV|Deliver 7 / eDeliver7": {
+     "make": "LDV",
+     "model": "Deliver 7 / eDeliver7",
+     "units": 158,
+     "yoy": 21.5,
+     "ytd": 1333
+    },
+    "MG|S6": {
+     "make": "MG",
+     "model": "S6",
+     "units": 157,
+     "yoy": null,
+     "ytd": 676
+    },
+    "Land Rover|Range Rover Sport": {
+     "make": "Land Rover",
+     "model": "Range Rover Sport",
+     "units": 155,
+     "yoy": -41.3,
+     "ytd": 1189
+    },
+    "Chevrolet|Silverado": {
+     "make": "Chevrolet",
+     "model": "Silverado",
+     "units": 154,
+     "yoy": -1.3,
+     "ytd": 1437
+    },
+    "Suzuki|Fronx": {
+     "make": "Suzuki",
+     "model": "Fronx",
+     "units": 154,
+     "yoy": -77.6,
+     "ytd": 1186
+    },
+    "RAM|1500": {
+     "make": "RAM",
+     "model": "1500",
+     "units": 145,
+     "yoy": -38.3,
+     "ytd": 1519
+    },
+    "BYD|Sealion 5": {
+     "make": "BYD",
+     "model": "Sealion 5",
+     "units": 144,
+     "yoy": null,
+     "ytd": 3512
+    },
+    "Toyota|C-HR": {
+     "make": "Toyota",
+     "model": "C-HR",
+     "units": 141,
+     "yoy": -40.8,
+     "ytd": 1172
+    },
+    "Chevrolet|Silverado HD": {
+     "make": "Chevrolet",
+     "model": "Silverado HD",
+     "units": 139,
+     "yoy": -26.5,
+     "ytd": 1125
+    },
+    "Fuso|Canter (LD)": {
+     "make": "Fuso",
+     "model": "Canter (LD)",
+     "units": 138,
+     "yoy": 3.0,
+     "ytd": 1280
+    },
+    "Mitsubishi|ASX": {
+     "make": "Mitsubishi",
+     "model": "ASX",
+     "units": 137,
+     "yoy": -67.5,
+     "ytd": 1412
+    },
+    "Isuzu|(HD)": {
+     "make": "Isuzu",
+     "model": "(HD)",
+     "units": 136,
+     "yoy": -16.6,
+     "ytd": 1341
+    },
+    "Chery|Tiggo 9": {
+     "make": "Chery",
+     "model": "Tiggo 9",
+     "units": 134,
+     "yoy": null,
+     "ytd": 1438
+    },
+    "Audi|Q6 e-tron": {
+     "make": "Audi",
+     "model": "Q6 e-tron",
+     "units": 131,
+     "yoy": 147.2,
+     "ytd": 752
+    },
+    "BMW|X2/iX2": {
+     "make": "BMW",
+     "model": "X2/iX2",
+     "units": 129,
+     "yoy": -22.8,
+     "ytd": 1391
+    },
+    "Foton|Tunland V7": {
+     "make": "Foton",
+     "model": "Tunland V7",
+     "units": 129,
+     "yoy": null,
+     "ytd": 1085
+    },
+    "Ford|F150": {
+     "make": "Ford",
+     "model": "F150",
+     "units": 128,
+     "yoy": 12700.0,
+     "ytd": 1476
+    },
+    "Lexus|ES": {
+     "make": "Lexus",
+     "model": "ES",
+     "units": 126,
+     "yoy": 35.5,
+     "ytd": 583
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz EQA": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz EQA",
+     "units": 126,
+     "yoy": 137.7,
+     "ytd": 791
+    },
+    "BMW|3 Series": {
+     "make": "BMW",
+     "model": "3 Series",
+     "units": 125,
+     "yoy": -42.7,
+     "ytd": 1176
+    },
+    "Mazda|CX-80": {
+     "make": "Mazda",
+     "model": "CX-80",
+     "units": 123,
+     "yoy": -59.4,
+     "ytd": 1931
+    },
+    "MG|MGU9": {
+     "make": "MG",
+     "model": "MGU9",
+     "units": 119,
+     "yoy": null,
+     "ytd": 1237
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz CLA-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz CLA-Class",
+     "units": 119,
+     "yoy": 91.9,
+     "ytd": 795
+    },
+    "Scania|(HD)": {
+     "make": "Scania",
+     "model": "(HD)",
+     "units": 119,
+     "yoy": 24.0,
+     "ytd": 845
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLC-Class Coupe": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLC-Class Coupe",
+     "units": 118,
+     "yoy": 5.4,
+     "ytd": 1285
+    },
+    "Mitsubishi|Pajero Sport": {
+     "make": "Mitsubishi",
+     "model": "Pajero Sport",
+     "units": 118,
+     "yoy": -81.8,
+     "ytd": 2640
+    },
+    "Porsche|Cayenne Coupe": {
+     "make": "Porsche",
+     "model": "Cayenne Coupe",
+     "units": 117,
+     "yoy": 25.8,
+     "ytd": 943
+    },
+    "Audi|A3": {
+     "make": "Audi",
+     "model": "A3",
+     "units": 116,
+     "yoy": -46.0,
+     "ytd": 1434
+    },
+    "Lexus|LBX": {
+     "make": "Lexus",
+     "model": "LBX",
+     "units": 115,
+     "yoy": -0.9,
+     "ytd": 838
+    },
+    "Lexus|RX": {
+     "make": "Lexus",
+     "model": "RX",
+     "units": 115,
+     "yoy": -29.9,
+     "ytd": 1609
+    },
+    "Polestar|4": {
+     "make": "Polestar",
+     "model": "4",
+     "units": 114,
+     "yoy": -24.5,
+     "ytd": 1136
+    },
+    "Ford|Transit Heavy": {
+     "make": "Ford",
+     "model": "Transit Heavy",
+     "units": 113,
+     "yoy": -52.9,
+     "ytd": 1129
+    },
+    "Porsche|911": {
+     "make": "Porsche",
+     "model": "911",
+     "units": 106,
+     "yoy": 79.7,
+     "ytd": 833
+    },
+    "Toyota|Tundra": {
+     "make": "Toyota",
+     "model": "Tundra",
+     "units": 104,
+     "yoy": 92.6,
+     "ytd": 850
+    },
+    "Nissan|Qashqai": {
+     "make": "Nissan",
+     "model": "Qashqai",
+     "units": 101,
+     "yoy": -71.9,
+     "ytd": 1027
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz A-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz A-Class",
+     "units": 98,
+     "yoy": -31.5,
+     "ytd": 1435
+    },
+    "Iveco Trucks|Iveco C/C (LD)": {
+     "make": "Iveco Trucks",
+     "model": "Iveco C/C (LD)",
+     "units": 96,
+     "yoy": 2.1,
+     "ytd": 590
+    },
+    "Land Rover|Discovery": {
+     "make": "Land Rover",
+     "model": "Discovery",
+     "units": 94,
+     "yoy": 129.3,
+     "ytd": 275
+    },
+    "GWM|Haval H7": {
+     "make": "GWM",
+     "model": "Haval H7",
+     "units": 93,
+     "yoy": -6.1,
+     "ytd": 837
+    },
+    "Porsche|Cayenne Wagon": {
+     "make": "Porsche",
+     "model": "Cayenne Wagon",
+     "units": 92,
+     "yoy": 43.8,
+     "ytd": 680
+    },
+    "Audi|A5": {
+     "make": "Audi",
+     "model": "A5",
+     "units": 91,
+     "yoy": 3.4,
+     "ytd": 706
+    },
+    "BMW|i4": {
+     "make": "BMW",
+     "model": "i4",
+     "units": 91,
+     "yoy": 139.5,
+     "ytd": 694
+    },
+    "Subaru|Uncharted": {
+     "make": "Subaru",
+     "model": "Uncharted",
+     "units": 91,
+     "yoy": null,
+     "ytd": 368
+    },
+    "Hyundai|Elexio": {
+     "make": "Hyundai",
+     "model": "Elexio",
+     "units": 87,
+     "yoy": null,
+     "ytd": 884
+    },
+    "KGM|Musso": {
+     "make": "KGM",
+     "model": "Musso",
+     "units": 85,
+     "yoy": -38.4,
+     "ytd": 1497
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz G-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz G-Class",
+     "units": 85,
+     "yoy": 14.9,
+     "ytd": 492
+    },
+    "BMW|1 Series": {
+     "make": "BMW",
+     "model": "1 Series",
+     "units": 84,
+     "yoy": -49.7,
+     "ytd": 836
+    },
+    "Hino|(HD)": {
+     "make": "Hino",
+     "model": "(HD)",
+     "units": 84,
+     "yoy": 140.0,
+     "ytd": 591
+    },
+    "Kia|PV5": {
+     "make": "Kia",
+     "model": "PV5",
+     "units": 80,
+     "yoy": null,
+     "ytd": 389
+    },
+    "MG|QS": {
+     "make": "MG",
+     "model": "QS",
+     "units": 80,
+     "yoy": -53.5,
+     "ytd": 883
+    },
+    "Subaru|Trailseeker": {
+     "make": "Subaru",
+     "model": "Trailseeker",
+     "units": 80,
+     "yoy": null,
+     "ytd": 517
+    },
+    "Volkswagen|Caddy Cargo Van": {
+     "make": "Volkswagen",
+     "model": "Caddy Cargo Van",
+     "units": 77,
+     "yoy": -17.2,
+     "ytd": 676
+    },
+    "Fuso|Fighter (MD)": {
+     "make": "Fuso",
+     "model": "Fighter (MD)",
+     "units": 76,
+     "yoy": -14.6,
+     "ytd": 649
+    },
+    "Polestar|2": {
+     "make": "Polestar",
+     "model": "2",
+     "units": 76,
+     "yoy": 130.3,
+     "ytd": 484
+    },
+    "Hyundai|i20": {
+     "make": "Hyundai",
+     "model": "i20",
+     "units": 74,
+     "yoy": -22.9,
+     "ytd": 838
+    },
+    "Leapmotor|B10": {
+     "make": "Leapmotor",
+     "model": "B10",
+     "units": 74,
+     "yoy": null,
+     "ytd": 751
+    },
+    "BMW|2 Series Coupe/Conv": {
+     "make": "BMW",
+     "model": "2 Series Coupe/Conv",
+     "units": 73,
+     "yoy": -52.3,
+     "ytd": 839
+    },
+    "Skoda|Kodiaq": {
+     "make": "Skoda",
+     "model": "Kodiaq",
+     "units": 73,
+     "yoy": -13.1,
+     "ytd": 692
+    },
+    "Mack|(HD)": {
+     "make": "Mack",
+     "model": "(HD)",
+     "units": 72,
+     "yoy": -1.4,
+     "ytd": 492
+    },
+    "Lexus|GX": {
+     "make": "Lexus",
+     "model": "GX",
+     "units": 71,
+     "yoy": -4.1,
+     "ytd": 675
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLE-Class Wagon": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLE-Class Wagon",
+     "units": 71,
+     "yoy": -56.4,
+     "ytd": 1157
+    },
+    "Volkswagen|Crafter": {
+     "make": "Volkswagen",
+     "model": "Crafter",
+     "units": 70,
+     "yoy": -24.7,
+     "ytd": 730
+    },
+    "RAM|2500": {
+     "make": "RAM",
+     "model": "2500",
+     "units": 68,
+     "yoy": 61.9,
+     "ytd": 659
+    },
+    "Audi|Q7": {
+     "make": "Audi",
+     "model": "Q7",
+     "units": 66,
+     "yoy": -19.5,
+     "ytd": 754
+    },
+    "MINI|Aceman": {
+     "make": "MINI",
+     "model": "Aceman",
+     "units": 66,
+     "yoy": 22.2,
+     "ytd": 451
+    },
+    "KGM|Torres": {
+     "make": "KGM",
+     "model": "Torres",
+     "units": 65,
+     "yoy": 225.0,
+     "ytd": 516
+    },
+    "Lexus|UX": {
+     "make": "Lexus",
+     "model": "UX",
+     "units": 65,
+     "yoy": -35.6,
+     "ytd": 734
+    },
+    "Subaru|Impreza": {
+     "make": "Subaru",
+     "model": "Impreza",
+     "units": 63,
+     "yoy": -57.1,
+     "ytd": 584
+    },
+    "Audi|Q2": {
+     "make": "Audi",
+     "model": "Q2",
+     "units": 61,
+     "yoy": 8.9,
+     "ytd": 535
+    },
+    "Subaru|WRX": {
+     "make": "Subaru",
+     "model": "WRX",
+     "units": 61,
+     "yoy": -68.7,
+     "ytd": 1046
+    },
+    "Hyundai|Ioniq 5": {
+     "make": "Hyundai",
+     "model": "Ioniq 5",
+     "units": 60,
+     "yoy": 81.8,
+     "ytd": 414
+    },
+    "Hyundai|Staria": {
+     "make": "Hyundai",
+     "model": "Staria",
+     "units": 60,
+     "yoy": -43.9,
+     "ytd": 796
+    },
+    "UD Trucks|(HD)": {
+     "make": "UD Trucks",
+     "model": "(HD)",
+     "units": 60,
+     "yoy": 39.5,
+     "ytd": 550
+    },
+    "Volkswagen|Transporter": {
+     "make": "Volkswagen",
+     "model": "Transporter",
+     "units": 60,
+     "yoy": 1100.0,
+     "ytd": 512
+    },
+    "Volkswagen|ID. Buzz": {
+     "make": "Volkswagen",
+     "model": "ID. Buzz",
+     "units": 59,
+     "yoy": 28.3,
+     "ytd": 730
+    },
+    "JAC|T9": {
+     "make": "JAC",
+     "model": "T9",
+     "units": 58,
+     "yoy": -47.3,
+     "ytd": 629
+    },
+    "LDV|G10/G10+": {
+     "make": "LDV",
+     "model": "G10/G10+",
+     "units": 58,
+     "yoy": -40.8,
+     "ytd": 691
+    },
+    "Toyota|GR86 / 86": {
+     "make": "Toyota",
+     "model": "GR86 / 86",
+     "units": 58,
+     "yoy": 20.8,
+     "ytd": 476
+    },
+    "Hyundai|Inster": {
+     "make": "Hyundai",
+     "model": "Inster",
+     "units": 57,
+     "yoy": 0.0,
+     "ytd": 604
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz CLE-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz CLE-Class",
+     "units": 57,
+     "yoy": -26.0,
+     "ytd": 518
+    },
+    "Skoda|Kamiq": {
+     "make": "Skoda",
+     "model": "Kamiq",
+     "units": 57,
+     "yoy": -51.3,
+     "ytd": 591
+    },
+    "Volkswagen|T-Roc": {
+     "make": "Volkswagen",
+     "model": "T-Roc",
+     "units": 57,
+     "yoy": -84.5,
+     "ytd": 1453
+    },
+    "Honda|Civic": {
+     "make": "Honda",
+     "model": "Civic",
+     "units": 55,
+     "yoy": -38.2,
+     "ytd": 500
+    },
+    "Xpeng|X9": {
+     "make": "Xpeng",
+     "model": "X9",
+     "units": 55,
+     "yoy": null,
+     "ytd": 87
+    },
+    "CUPRA|Tavascan": {
+     "make": "CUPRA",
+     "model": "Tavascan",
+     "units": 54,
+     "yoy": 86.2,
+     "ytd": 394
+    },
+    "Renault|Master": {
+     "make": "Renault",
+     "model": "Master",
+     "units": 54,
+     "yoy": -58.8,
+     "ytd": 855
+    },
+    "Skoda|Elroq": {
+     "make": "Skoda",
+     "model": "Elroq",
+     "units": 54,
+     "yoy": -29.9,
+     "ytd": 434
+    },
+    "Leapmotor|C10": {
+     "make": "Leapmotor",
+     "model": "C10",
+     "units": 53,
+     "yoy": -25.4,
+     "ytd": 384
+    },
+    "Land Rover|Range Rover Evoque": {
+     "make": "Land Rover",
+     "model": "Range Rover Evoque",
+     "units": 52,
+     "yoy": -22.4,
+     "ytd": 451
+    },
+    "Subaru|Solterra": {
+     "make": "Subaru",
+     "model": "Solterra",
+     "units": 52,
+     "yoy": 2500.0,
+     "ytd": 615
+    },
+    "Volvo Car|Volvo XC60": {
+     "make": "Volvo Car",
+     "model": "Volvo XC60",
+     "units": 49,
+     "yoy": -79.5,
+     "ytd": 1219
+    },
+    "Mitsubishi|Eclipse Cross": {
+     "make": "Mitsubishi",
+     "model": "Eclipse Cross",
+     "units": 48,
+     "yoy": -67.3,
+     "ytd": 576
+    },
+    "MG|IM6": {
+     "make": "MG",
+     "model": "IM6",
+     "units": 47,
+     "yoy": 56.7,
+     "ytd": 464
+    },
+    "Volkswagen|ID.4": {
+     "make": "Volkswagen",
+     "model": "ID.4",
+     "units": 47,
+     "yoy": -73.4,
+     "ytd": 1360
+    },
+    "Fuso|F-Series (HD)": {
+     "make": "Fuso",
+     "model": "F-Series (HD)",
+     "units": 46,
+     "yoy": -48.3,
+     "ytd": 521
+    },
+    "Genesis|GV70": {
+     "make": "Genesis",
+     "model": "GV70",
+     "units": 46,
+     "yoy": -60.7,
+     "ytd": 778
+    },
+    "Honda|Prelude (2026)": {
+     "make": "Honda",
+     "model": "Prelude (2026)",
+     "units": 46,
+     "yoy": null,
+     "ytd": 393
+    },
+    "Lexus|LX": {
+     "make": "Lexus",
+     "model": "LX",
+     "units": 45,
+     "yoy": -13.5,
+     "ytd": 540
+    },
+    "Mercedes-Benz Vans|Mercedes-Benz Vito / eVito Van": {
+     "make": "Mercedes-Benz Vans",
+     "model": "Mercedes-Benz Vito / eVito Van",
+     "units": 45,
+     "yoy": -2.2,
+     "ytd": 354
+    },
+    "BMW|4 Series Coupe/Conv": {
+     "make": "BMW",
+     "model": "4 Series Coupe/Conv",
+     "units": 43,
+     "yoy": -18.9,
+     "ytd": 404
+    },
+    "CUPRA|Formentor": {
+     "make": "CUPRA",
+     "model": "Formentor",
+     "units": 43,
+     "yoy": -31.7,
+     "ytd": 435
+    },
+    "Mercedes-Benz Trucks|Mercedes (HD)": {
+     "make": "Mercedes-Benz Trucks",
+     "model": "Mercedes (HD)",
+     "units": 43,
+     "yoy": -23.2,
+     "ytd": 589
+    },
+    "Lexus|RZ": {
+     "make": "Lexus",
+     "model": "RZ",
+     "units": 42,
+     "yoy": 4100.0,
+     "ytd": 189
+    },
+    "MG|IM5": {
+     "make": "MG",
+     "model": "IM5",
+     "units": 41,
+     "yoy": 310.0,
+     "ytd": 433
+    },
+    "Suzuki|Ignis": {
+     "make": "Suzuki",
+     "model": "Ignis",
+     "units": 40,
+     "yoy": -41.2,
+     "ytd": 462
+    },
+    "Ford|Mustang Mach-E": {
+     "make": "Ford",
+     "model": "Mustang Mach-E",
+     "units": 39,
+     "yoy": 0.0,
+     "ytd": 206
+    },
+    "LDV|Deliver 9 Bus": {
+     "make": "LDV",
+     "model": "Deliver 9 Bus",
+     "units": 39,
+     "yoy": 8.3,
+     "ytd": 277
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz C-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz C-Class",
+     "units": 39,
+     "yoy": -57.6,
+     "ytd": 1005
+    },
+    "Peugeot|3008 / E3008": {
+     "make": "Peugeot",
+     "model": "3008 / E3008",
+     "units": 39,
+     "yoy": 105.3,
+     "ytd": 175
+    },
+    "Porsche|Macan": {
+     "make": "Porsche",
+     "model": "Macan",
+     "units": 39,
+     "yoy": -71.5,
+     "ytd": 460
+    },
+    "BMW|X7": {
+     "make": "BMW",
+     "model": "X7",
+     "units": 38,
+     "yoy": -59.1,
+     "ytd": 633
+    },
+    "Daf|(HD)": {
+     "make": "Daf",
+     "model": "(HD)",
+     "units": 38,
+     "yoy": -37.7,
+     "ytd": 520
+    },
+    "Mazda|MX5": {
+     "make": "Mazda",
+     "model": "MX5",
+     "units": 37,
+     "yoy": -39.3,
+     "ytd": 594
+    },
+    "Nissan|Ariya": {
+     "make": "Nissan",
+     "model": "Ariya",
+     "units": 37,
+     "yoy": -21.3,
+     "ytd": 256
+    },
+    "Mazda|CX-90": {
+     "make": "Mazda",
+     "model": "CX-90",
+     "units": 36,
+     "yoy": -33.3,
+     "ytd": 470
+    },
+    "Toyota|Landcruiser PU/CC": {
+     "make": "Toyota",
+     "model": "Landcruiser PU/CC",
+     "units": 36,
+     "yoy": -96.1,
+     "ytd": 2029
+    },
+    "BMW|X6": {
+     "make": "BMW",
+     "model": "X6",
+     "units": 35,
+     "yoy": -59.3,
+     "ytd": 435
+    },
+    "Deepal|E07": {
+     "make": "Deepal",
+     "model": "E07",
+     "units": 35,
+     "yoy": -51.4,
+     "ytd": 314
+    },
+    "LDV|Deliver 9 Motorhome": {
+     "make": "LDV",
+     "model": "Deliver 9 Motorhome",
+     "units": 35,
+     "yoy": null,
+     "ytd": 173
+    },
+    "Omoda Jaecoo|Omoda 9": {
+     "make": "Omoda Jaecoo",
+     "model": "Omoda 9",
+     "units": 35,
+     "yoy": -61.5,
+     "ytd": 527
+    },
+    "Ford|Tourneo": {
+     "make": "Ford",
+     "model": "Tourneo",
+     "units": 33,
+     "yoy": -64.1,
+     "ytd": 313
+    },
+    "Honda|Super-ONE": {
+     "make": "Honda",
+     "model": "Super-ONE",
+     "units": 33,
+     "yoy": null,
+     "ytd": 33
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz E-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz E-Class",
+     "units": 33,
+     "yoy": -15.4,
+     "ytd": 318
+    },
+    "Volkswagen|Polo": {
+     "make": "Volkswagen",
+     "model": "Polo",
+     "units": 33,
+     "yoy": -64.9,
+     "ytd": 531
+    },
+    "Volvo Car|Volvo XC90": {
+     "make": "Volvo Car",
+     "model": "Volvo XC90",
+     "units": 33,
+     "yoy": -62.1,
+     "ytd": 438
+    },
+    "Denza|D9": {
+     "make": "Denza",
+     "model": "D9",
+     "units": 32,
+     "yoy": null,
+     "ytd": 142
+    },
+    "Iveco Trucks|Iveco Van (LD)": {
+     "make": "Iveco Trucks",
+     "model": "Iveco Van (LD)",
+     "units": 32,
+     "yoy": 23.1,
+     "ytd": 254
+    },
+    "RAM|3500": {
+     "make": "RAM",
+     "model": "3500",
+     "units": 32,
+     "yoy": 966.7,
+     "ytd": 144
+    },
+    "Subaru|BRZ": {
+     "make": "Subaru",
+     "model": "BRZ",
+     "units": 32,
+     "yoy": -56.2,
+     "ytd": 443
+    },
+    "Skoda|Octavia": {
+     "make": "Skoda",
+     "model": "Octavia",
+     "units": 31,
+     "yoy": -55.7,
+     "ytd": 340
+    },
+    "Foton Mobility|(LD)": {
+     "make": "Foton Mobility",
+     "model": "(LD)",
+     "units": 30,
+     "yoy": 500.0,
+     "ytd": 120
+    },
+    "Kia|EV9": {
+     "make": "Kia",
+     "model": "EV9",
+     "units": 30,
+     "yoy": 20.0,
+     "ytd": 120
+    },
+    "MINI|Cabrio": {
+     "make": "MINI",
+     "model": "Cabrio",
+     "units": 30,
+     "yoy": -41.2,
+     "ytd": 298
+    },
+    "Volkswagen|Multivan": {
+     "make": "Volkswagen",
+     "model": "Multivan",
+     "units": 29,
+     "yoy": -14.7,
+     "ytd": 243
+    },
+    "Volkswagen|T-Cross": {
+     "make": "Volkswagen",
+     "model": "T-Cross",
+     "units": 29,
+     "yoy": -81.4,
+     "ytd": 564
+    },
+    "Volkswagen|Touareg": {
+     "make": "Volkswagen",
+     "model": "Touareg",
+     "units": 29,
+     "yoy": -39.6,
+     "ytd": 388
+    },
+    "Deepal|S07": {
+     "make": "Deepal",
+     "model": "S07",
+     "units": 28,
+     "yoy": 21.7,
+     "ytd": 610
+    },
+    "Kia|EV4": {
+     "make": "Kia",
+     "model": "EV4",
+     "units": 28,
+     "yoy": null,
+     "ytd": 361
+    },
+    "MG|MG7": {
+     "make": "MG",
+     "model": "MG7",
+     "units": 28,
+     "yoy": null,
+     "ytd": 230
+    },
+    "Western Star|(HD)": {
+     "make": "Western Star",
+     "model": "(HD)",
+     "units": 28,
+     "yoy": 86.7,
+     "ytd": 132
+    },
+    "Renault|Duster": {
+     "make": "Renault",
+     "model": "Duster",
+     "units": 27,
+     "yoy": -3.6,
+     "ytd": 463
+    },
+    "Renault|Scenic E-Tech": {
+     "make": "Renault",
+     "model": "Scenic E-Tech",
+     "units": 27,
+     "yoy": null,
+     "ytd": 154
+    },
+    "Suzuki|e Vitara": {
+     "make": "Suzuki",
+     "model": "e Vitara",
+     "units": 27,
+     "yoy": null,
+     "ytd": 67
+    },
+    "KGM|Rexton": {
+     "make": "KGM",
+     "model": "Rexton",
+     "units": 26,
+     "yoy": -67.9,
+     "ytd": 371
+    },
+    "MG|MG5": {
+     "make": "MG",
+     "model": "MG5",
+     "units": 26,
+     "yoy": -87.2,
+     "ytd": 1121
+    },
+    "GAC|M8 PHEV": {
+     "make": "GAC",
+     "model": "M8 PHEV",
+     "units": 25,
+     "yoy": null,
+     "ytd": 113
+    },
+    "Hino|(MD)": {
+     "make": "Hino",
+     "model": "(MD)",
+     "units": 25,
+     "yoy": -81.9,
+     "ytd": 434
+    },
+    "Land Rover|Range Rover Velar": {
+     "make": "Land Rover",
+     "model": "Range Rover Velar",
+     "units": 25,
+     "yoy": -37.5,
+     "ytd": 207
+    },
+    "Skoda|Karoq": {
+     "make": "Skoda",
+     "model": "Karoq",
+     "units": 25,
+     "yoy": -7.4,
+     "ytd": 232
+    },
+    "BMW|2 Series Gran Coupe": {
+     "make": "BMW",
+     "model": "2 Series Gran Coupe",
+     "units": 24,
+     "yoy": -75.0,
+     "ytd": 367
+    },
+    "Mercedes-Benz Vans|Mercedes-Benz V-Class": {
+     "make": "Mercedes-Benz Vans",
+     "model": "Mercedes-Benz V-Class",
+     "units": 23,
+     "yoy": 21.1,
+     "ytd": 198
+    },
+    "Mercedes-Benz Vans|Mercedes-Benz Vito/ eVito Tour": {
+     "make": "Mercedes-Benz Vans",
+     "model": "Mercedes-Benz Vito/ eVito Tour",
+     "units": 23,
+     "yoy": 35.3,
+     "ytd": 113
+    },
+    "Renault|Symbioz": {
+     "make": "Renault",
+     "model": "Symbioz",
+     "units": 22,
+     "yoy": null,
+     "ytd": 72
+    },
+    "Suzuki|Vitara": {
+     "make": "Suzuki",
+     "model": "Vitara",
+     "units": 22,
+     "yoy": -74.4,
+     "ytd": 245
+    },
+    "Audi|Q8": {
+     "make": "Audi",
+     "model": "Q8",
+     "units": 21,
+     "yoy": -53.3,
+     "ytd": 267
+    },
+    "Farizon|Supervan": {
+     "make": "Farizon",
+     "model": "Supervan",
+     "units": 21,
+     "yoy": null,
+     "ytd": 203
+    },
+    "Kia|EV6": {
+     "make": "Kia",
+     "model": "EV6",
+     "units": 21,
+     "yoy": 5.0,
+     "ytd": 227
+    },
+    "Toyota|Coaster": {
+     "make": "Toyota",
+     "model": "Coaster",
+     "units": 21,
+     "yoy": -74.7,
+     "ytd": 320
+    },
+    "Peugeot|Partner / E-Partner": {
+     "make": "Peugeot",
+     "model": "Partner / E-Partner",
+     "units": 20,
+     "yoy": -55.6,
+     "ytd": 228
+    },
+    "BMW|5 Series": {
+     "make": "BMW",
+     "model": "5 Series",
+     "units": 19,
+     "yoy": -20.8,
+     "ytd": 169
+    },
+    "LDV|eDeliver 5": {
+     "make": "LDV",
+     "model": "eDeliver 5",
+     "units": 19,
+     "yoy": null,
+     "ytd": 46
+    },
+    "Leapmotor|B05": {
+     "make": "Leapmotor",
+     "model": "B05",
+     "units": 19,
+     "yoy": null,
+     "ytd": 33
+    },
+    "Renault|Trafic": {
+     "make": "Renault",
+     "model": "Trafic",
+     "units": 19,
+     "yoy": -50.0,
+     "ytd": 483
+    },
+    "Volvo Car|Volvo EX60": {
+     "make": "Volvo Car",
+     "model": "Volvo EX60",
+     "units": 19,
+     "yoy": null,
+     "ytd": 19
+    },
+    "Aston Martin|Coupe/Conv": {
+     "make": "Aston Martin",
+     "model": "Coupe/Conv",
+     "units": 18,
+     "yoy": 12.5,
+     "ytd": 97
+    },
+    "CUPRA|Terramar": {
+     "make": "CUPRA",
+     "model": "Terramar",
+     "units": 18,
+     "yoy": -14.3,
+     "ytd": 335
+    },
+    "GMC|Yukon": {
+     "make": "GMC",
+     "model": "Yukon",
+     "units": 18,
+     "yoy": -65.4,
+     "ytd": 255
+    },
+    "Maserati|Grecale": {
+     "make": "Maserati",
+     "model": "Grecale",
+     "units": 18,
+     "yoy": -14.3,
+     "ytd": 136
+    },
+    "Renault|Koleos": {
+     "make": "Renault",
+     "model": "Koleos",
+     "units": 18,
+     "yoy": -70.5,
+     "ytd": 567
+    },
+    "CUPRA|Leon": {
+     "make": "CUPRA",
+     "model": "Leon",
+     "units": 17,
+     "yoy": -50.0,
+     "ytd": 141
+    },
+    "Land Rover|Range Rover": {
+     "make": "Land Rover",
+     "model": "Range Rover",
+     "units": 17,
+     "yoy": -52.8,
+     "ytd": 217
+    },
+    "Skoda|Fabia": {
+     "make": "Skoda",
+     "model": "Fabia",
+     "units": 17,
+     "yoy": -52.8,
+     "ytd": 140
+    },
+    "Farizon|V7E": {
+     "make": "Farizon",
+     "model": "V7E",
+     "units": 16,
+     "yoy": null,
+     "ytd": 83
+    },
+    "Hyundai|Sonata": {
+     "make": "Hyundai",
+     "model": "Sonata",
+     "units": 16,
+     "yoy": -30.4,
+     "ytd": 179
+    },
+    "Mazda|CX-70": {
+     "make": "Mazda",
+     "model": "CX-70",
+     "units": 16,
+     "yoy": -46.7,
+     "ytd": 182
+    },
+    "Iveco Trucks|Iveco (HD)": {
+     "make": "Iveco Trucks",
+     "model": "Iveco (HD)",
+     "units": 15,
+     "yoy": -50.0,
+     "ytd": 223
+    },
+    "Kia|Niro": {
+     "make": "Kia",
+     "model": "Niro",
+     "units": 15,
+     "yoy": 114.3,
+     "ytd": 116
+    },
+    "Mercedes-Benz Vans|Mercedes-Benz Sprinter Bus": {
+     "make": "Mercedes-Benz Vans",
+     "model": "Mercedes-Benz Sprinter Bus",
+     "units": 15,
+     "yoy": 200.0,
+     "ytd": 72
+    },
+    "Toyota|Fortuner": {
+     "make": "Toyota",
+     "model": "Fortuner",
+     "units": 15,
+     "yoy": -94.3,
+     "ytd": 1293
+    },
+    "Ferrari|Coupe/Conv": {
+     "make": "Ferrari",
+     "model": "Coupe/Conv",
+     "units": 13,
+     "yoy": 44.4,
+     "ytd": 108
+    },
+    "KGM|Actyon": {
+     "make": "KGM",
+     "model": "Actyon",
+     "units": 13,
+     "yoy": -40.9,
+     "ytd": 232
+    },
+    "Lamborghini|Coupe/Conv": {
+     "make": "Lamborghini",
+     "model": "Coupe/Conv",
+     "units": 13,
+     "yoy": -18.8,
+     "ytd": 62
+    },
+    "Man|(HD)": {
+     "make": "Man",
+     "model": "(HD)",
+     "units": 13,
+     "yoy": -43.5,
+     "ytd": 153
+    },
+    "Mercedes-Benz Trucks|Mercedes (MD)": {
+     "make": "Mercedes-Benz Trucks",
+     "model": "Mercedes (MD)",
+     "units": 13,
+     "yoy": 116.7,
+     "ytd": 60
+    },
+    "Volkswagen|ID.5": {
+     "make": "Volkswagen",
+     "model": "ID.5",
+     "units": 13,
+     "yoy": -76.8,
+     "ytd": 459
+    },
+    "BMW|7 Series": {
+     "make": "BMW",
+     "model": "7 Series",
+     "units": 12,
+     "yoy": 300.0,
+     "ytd": 39
+    },
+    "Mazda|CX-6e": {
+     "make": "Mazda",
+     "model": "CX-6e",
+     "units": 12,
+     "yoy": null,
+     "ytd": 12
+    },
+    "Volvo Commercial|Volvo Truck (MD)": {
+     "make": "Volvo Commercial",
+     "model": "Volvo Truck (MD)",
+     "units": 12,
+     "yoy": null,
+     "ytd": 59
+    },
+    "Lexus|LM": {
+     "make": "Lexus",
+     "model": "LM",
+     "units": 11,
+     "yoy": -38.9,
+     "ytd": 68
+    },
+    "Mercedes-Benz Cars|Mercedes-AMG GT Cpe/Conv": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-AMG GT Cpe/Conv",
+     "units": 11,
+     "yoy": -31.2,
+     "ytd": 98
+    },
+    "Volvo Car|Volvo EX90": {
+     "make": "Volvo Car",
+     "model": "Volvo EX90",
+     "units": 11,
+     "yoy": 0.0,
+     "ytd": 171
+    },
+    "Foton|Aumark S": {
+     "make": "Foton",
+     "model": "Aumark S",
+     "units": 10,
+     "yoy": null,
+     "ytd": 80
+    },
+    "Honda|Accord": {
+     "make": "Honda",
+     "model": "Accord",
+     "units": 10,
+     "yoy": 233.3,
+     "ytd": 59
+    },
+    "Porsche|Panamera": {
+     "make": "Porsche",
+     "model": "Panamera",
+     "units": 10,
+     "yoy": 900.0,
+     "ytd": 51
+    },
+    "Skoda|Superb": {
+     "make": "Skoda",
+     "model": "Superb",
+     "units": 10,
+     "yoy": -54.5,
+     "ytd": 109
+    },
+    "Alfa Romeo|Junior": {
+     "make": "Alfa Romeo",
+     "model": "Junior",
+     "units": 9,
+     "yoy": -60.9,
+     "ytd": 94
+    },
+    "Bentley|Bentayga": {
+     "make": "Bentley",
+     "model": "Bentayga",
+     "units": 9,
+     "yoy": 0.0,
+     "ytd": 45
+    },
+    "Jeep|Wrangler": {
+     "make": "Jeep",
+     "model": "Wrangler",
+     "units": 9,
+     "yoy": -76.9,
+     "ytd": 247
+    },
+    "Nissan|Z": {
+     "make": "Nissan",
+     "model": "Z",
+     "units": 9,
+     "yoy": 12.5,
+     "ytd": 83
+    },
+    "Alfa Romeo|Giulia": {
+     "make": "Alfa Romeo",
+     "model": "Giulia",
+     "units": 8,
+     "yoy": -55.6,
+     "ytd": 82
+    },
+    "Ford|Transit Bus": {
+     "make": "Ford",
+     "model": "Transit Bus",
+     "units": 8,
+     "yoy": 60.0,
+     "ytd": 179
+    },
+    "Freightliner|(HD)": {
+     "make": "Freightliner",
+     "model": "(HD)",
+     "units": 8,
+     "yoy": -20.0,
+     "ytd": 139
+    },
+    "BMW|iX": {
+     "make": "BMW",
+     "model": "iX",
+     "units": 7,
+     "yoy": -87.9,
+     "ytd": 113
+    },
+    "Dennis Eagle|(HD)": {
+     "make": "Dennis Eagle",
+     "model": "(HD)",
+     "units": 7,
+     "yoy": -50.0,
+     "ytd": 54
+    },
+    "Iveco Trucks|Iveco (MD)": {
+     "make": "Iveco Trucks",
+     "model": "Iveco (MD)",
+     "units": 7,
+     "yoy": null,
+     "ytd": 123
+    },
+    "Land Rover|Discovery Sport": {
+     "make": "Land Rover",
+     "model": "Discovery Sport",
+     "units": 7,
+     "yoy": -84.8,
+     "ytd": 223
+    },
+    "Peugeot|5008": {
+     "make": "Peugeot",
+     "model": "5008",
+     "units": 7,
+     "yoy": 16.7,
+     "ytd": 42
+    },
+    "Peugeot|Expert / E-Expert": {
+     "make": "Peugeot",
+     "model": "Expert / E-Expert",
+     "units": 7,
+     "yoy": -77.4,
+     "ytd": 84
+    },
+    "Volkswagen|Caddy": {
+     "make": "Volkswagen",
+     "model": "Caddy",
+     "units": 7,
+     "yoy": -12.5,
+     "ytd": 50
+    },
+    "BMW|Z4": {
+     "make": "BMW",
+     "model": "Z4",
+     "units": 6,
+     "yoy": 20.0,
+     "ytd": 54
+    },
+    "Genesis|GV60": {
+     "make": "Genesis",
+     "model": "GV60",
+     "units": 6,
+     "yoy": null,
+     "ytd": 54
+    },
+    "Genesis|GV80 Coupe": {
+     "make": "Genesis",
+     "model": "GV80 Coupe",
+     "units": 6,
+     "yoy": 50.0,
+     "ytd": 72
+    },
+    "Hyundai Commercial Vehicles|Hyundai EX10": {
+     "make": "Hyundai Commercial Vehicles",
+     "model": "Hyundai EX10",
+     "units": 6,
+     "yoy": 100.0,
+     "ytd": 36
+    },
+    "Man|(MD)": {
+     "make": "Man",
+     "model": "(MD)",
+     "units": 6,
+     "yoy": -14.3,
+     "ytd": 40
+    },
+    "Peugeot|2008": {
+     "make": "Peugeot",
+     "model": "2008",
+     "units": 6,
+     "yoy": -25.0,
+     "ytd": 55
+    },
+    "Polestar|3": {
+     "make": "Polestar",
+     "model": "3",
+     "units": 6,
+     "yoy": -88.5,
+     "ytd": 57
+    },
+    "Jeep|Gladiator": {
+     "make": "Jeep",
+     "model": "Gladiator",
+     "units": 5,
+     "yoy": -80.0,
+     "ytd": 107
+    },
+    "Lamborghini|Urus": {
+     "make": "Lamborghini",
+     "model": "Urus",
+     "units": 5,
+     "yoy": -44.4,
+     "ytd": 63
+    },
+    "Peugeot|408": {
+     "make": "Peugeot",
+     "model": "408",
+     "units": 5,
+     "yoy": 25.0,
+     "ytd": 32
+    },
+    "Suzuki|S-Cross": {
+     "make": "Suzuki",
+     "model": "S-Cross",
+     "units": 5,
+     "yoy": -75.0,
+     "ytd": 107
+    },
+    "Zeekr|009": {
+     "make": "Zeekr",
+     "model": "009",
+     "units": 5,
+     "yoy": -64.3,
+     "ytd": 114
+    },
+    "Aston Martin|DBX": {
+     "make": "Aston Martin",
+     "model": "DBX",
+     "units": 4,
+     "yoy": -33.3,
+     "ytd": 43
+    },
+    "Audi|A1": {
+     "make": "Audi",
+     "model": "A1",
+     "units": 4,
+     "yoy": -87.5,
+     "ytd": 66
+    },
+    "Bentley|Coupe/Conv": {
+     "make": "Bentley",
+     "model": "Coupe/Conv",
+     "units": 4,
+     "yoy": 0.0,
+     "ytd": 59
+    },
+    "Chevrolet|Corvette Stingray": {
+     "make": "Chevrolet",
+     "model": "Corvette Stingray",
+     "units": 4,
+     "yoy": -71.4,
+     "ytd": 81
+    },
+    "Fiat Professional|Fiat Scudo": {
+     "make": "Fiat Professional",
+     "model": "Fiat Scudo",
+     "units": 4,
+     "yoy": null,
+     "ytd": 45
+    },
+    "Genesis|G70": {
+     "make": "Genesis",
+     "model": "G70",
+     "units": 4,
+     "yoy": 100.0,
+     "ytd": 31
+    },
+    "Hyundai Commercial Vehicles|Hyundai EX4": {
+     "make": "Hyundai Commercial Vehicles",
+     "model": "Hyundai EX4",
+     "units": 4,
+     "yoy": -60.0,
+     "ytd": 72
+    },
+    "Lexus|LC": {
+     "make": "Lexus",
+     "model": "LC",
+     "units": 4,
+     "yoy": 100.0,
+     "ytd": 20
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz SL-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz SL-Class",
+     "units": 4,
+     "yoy": -33.3,
+     "ytd": 14
+    },
+    "Polestar|5": {
+     "make": "Polestar",
+     "model": "5",
+     "units": 4,
+     "yoy": null,
+     "ytd": 4
+    },
+    "Renault|Kangoo": {
+     "make": "Renault",
+     "model": "Kangoo",
+     "units": 4,
+     "yoy": -55.6,
+     "ytd": 171
+    },
+    "Rolls-Royce|Cullinan": {
+     "make": "Rolls-Royce",
+     "model": "Cullinan",
+     "units": 4,
+     "yoy": 33.3,
+     "ytd": 27
+    },
+    "Toyota|Supra": {
+     "make": "Toyota",
+     "model": "Supra",
+     "units": 4,
+     "yoy": -80.0,
+     "ytd": 123
+    },
+    "UD Trucks|(MD)": {
+     "make": "UD Trucks",
+     "model": "(MD)",
+     "units": 4,
+     "yoy": 100.0,
+     "ytd": 29
+    },
+    "Volkswagen|ID. Buzz Cargo": {
+     "make": "Volkswagen",
+     "model": "ID. Buzz Cargo",
+     "units": 4,
+     "yoy": 0.0,
+     "ytd": 174
+    },
+    "BMW|XM": {
+     "make": "BMW",
+     "model": "XM",
+     "units": 3,
+     "yoy": 0.0,
+     "ytd": 34
+    },
+    "Chevrolet|Corvette Z06": {
+     "make": "Chevrolet",
+     "model": "Corvette Z06",
+     "units": 3,
+     "yoy": 200.0,
+     "ytd": 22
+    },
+    "Ferrari|Purosangue": {
+     "make": "Ferrari",
+     "model": "Purosangue",
+     "units": 3,
+     "yoy": -50.0,
+     "ytd": 34
+    },
+    "Hyundai Commercial Vehicles|Hyundai Pavise": {
+     "make": "Hyundai Commercial Vehicles",
+     "model": "Hyundai Pavise",
+     "units": 3,
+     "yoy": -25.0,
+     "ytd": 36
+    },
+    "MG|Cyberster": {
+     "make": "MG",
+     "model": "Cyberster",
+     "units": 3,
+     "yoy": 50.0,
+     "ytd": 20
+    },
+    "Peugeot|Boxer": {
+     "make": "Peugeot",
+     "model": "Boxer",
+     "units": 3,
+     "yoy": null,
+     "ytd": 18
+    },
+    "Renault|Arkana": {
+     "make": "Renault",
+     "model": "Arkana",
+     "units": 3,
+     "yoy": -85.0,
+     "ytd": 138
+    },
+    "Volvo Car|Volvo ES90": {
+     "make": "Volvo Car",
+     "model": "Volvo ES90",
+     "units": 3,
+     "yoy": null,
+     "ytd": 138
+    },
+    "Alfa Romeo|Stelvio": {
+     "make": "Alfa Romeo",
+     "model": "Stelvio",
+     "units": 2,
+     "yoy": -66.7,
+     "ytd": 37
+    },
+    "Alfa Romeo|Tonale": {
+     "make": "Alfa Romeo",
+     "model": "Tonale",
+     "units": 2,
+     "yoy": -60.0,
+     "ytd": 52
+    },
+    "Audi|Q8 e-tron": {
+     "make": "Audi",
+     "model": "Q8 e-tron",
+     "units": 2,
+     "yoy": -71.4,
+     "ytd": 6
+    },
+    "Audi|e-tron GT": {
+     "make": "Audi",
+     "model": "e-tron GT",
+     "units": 2,
+     "yoy": 0.0,
+     "ytd": 11
+    },
+    "Fiat|500 / Abarth": {
+     "make": "Fiat",
+     "model": "500 / Abarth",
+     "units": 2,
+     "yoy": -94.7,
+     "ytd": 170
+    },
+    "Genesis|G80": {
+     "make": "Genesis",
+     "model": "G80",
+     "units": 2,
+     "yoy": 0.0,
+     "ytd": 27
+    },
+    "Genesis|GV80 Wagon": {
+     "make": "Genesis",
+     "model": "GV80 Wagon",
+     "units": 2,
+     "yoy": -90.0,
+     "ytd": 90
+    },
+    "Hyundai Commercial Vehicles|Hyundai EX9": {
+     "make": "Hyundai Commercial Vehicles",
+     "model": "Hyundai EX9",
+     "units": 2,
+     "yoy": 0.0,
+     "ytd": 8
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLS-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLS-Class",
+     "units": 2,
+     "yoy": -96.7,
+     "ytd": 189
+    },
+    "Peugeot|308/e308": {
+     "make": "Peugeot",
+     "model": "308/e308",
+     "units": 2,
+     "yoy": -71.4,
+     "ytd": 17
+    },
+    "Rolls-Royce|Sedan": {
+     "make": "Rolls-Royce",
+     "model": "Sedan",
+     "units": 2,
+     "yoy": null,
+     "ytd": 11
+    },
+    "BMW|8 Series": {
+     "make": "BMW",
+     "model": "8 Series",
+     "units": 1,
+     "yoy": -80.0,
+     "ytd": 12
+    },
+    "Daf|(MD)": {
+     "make": "Daf",
+     "model": "(MD)",
+     "units": 1,
+     "yoy": -50.0,
+     "ytd": 17
+    },
+    "Farizon|F3E": {
+     "make": "Farizon",
+     "model": "F3E",
+     "units": 1,
+     "yoy": null,
+     "ytd": 3
+    },
+    "Farizon|H9E": {
+     "make": "Farizon",
+     "model": "H9E",
+     "units": 1,
+     "yoy": null,
+     "ytd": 9
+    },
+    "GWM|Ora": {
+     "make": "GWM",
+     "model": "Ora",
+     "units": 1,
+     "yoy": -98.9,
+     "ytd": 754
+    },
+    "Hyundai|Ioniq 6": {
+     "make": "Hyundai",
+     "model": "Ioniq 6",
+     "units": 1,
+     "yoy": -83.3,
+     "ytd": 23
+    },
+    "Hyundai|Ioniq 9": {
+     "make": "Hyundai",
+     "model": "Ioniq 9",
+     "units": 1,
+     "yoy": -83.3,
+     "ytd": 65
+    },
+    "Hyundai|Mighty": {
+     "make": "Hyundai",
+     "model": "Mighty",
+     "units": 1,
+     "yoy": null,
+     "ytd": 14
+    },
+    "Hyundai Commercial Vehicles|Hyundai EX8": {
+     "make": "Hyundai Commercial Vehicles",
+     "model": "Hyundai EX8",
+     "units": 1,
+     "yoy": -66.7,
+     "ytd": 9
+    },
+    "Jeep|Avenger": {
+     "make": "Jeep",
+     "model": "Avenger",
+     "units": 1,
+     "yoy": -91.7,
+     "ytd": 49
+    },
+    "Jeep|Grand Cherokee": {
+     "make": "Jeep",
+     "model": "Grand Cherokee",
+     "units": 1,
+     "yoy": -96.4,
+     "ytd": 19
+    },
+    "McLaren|Coupe/Conv": {
+     "make": "McLaren",
+     "model": "Coupe/Conv",
+     "units": 1,
+     "yoy": -75.0,
+     "ytd": 26
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz EQB": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz EQB",
+     "units": 1,
+     "yoy": -98.9,
+     "ytd": 410
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz EQS SUV": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz EQS SUV",
+     "units": 1,
+     "yoy": -98.4,
+     "ytd": 13
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz S-Class": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz S-Class",
+     "units": 1,
+     "yoy": 0.0,
+     "ytd": 35
+    },
+    "Toyota|Hiace Commuter": {
+     "make": "Toyota",
+     "model": "Hiace Commuter",
+     "units": 1,
+     "yoy": -99.6,
+     "ytd": 140
+    },
+    "Audi|A4": {
+     "make": "Audi",
+     "model": "A4",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    },
+    "Audi|A6": {
+     "make": "Audi",
+     "model": "A6",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 3
+    },
+    "Audi|A7": {
+     "make": "Audi",
+     "model": "A7",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 2
+    },
+    "Audi|A8": {
+     "make": "Audi",
+     "model": "A8",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Audi|Q4 e-tron": {
+     "make": "Audi",
+     "model": "Q4 e-tron",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 227
+    },
+    "BMW|4 Series Gran Coupe": {
+     "make": "BMW",
+     "model": "4 Series Gran Coupe",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "BMW|8 Series Gran Coupe": {
+     "make": "BMW",
+     "model": "8 Series Gran Coupe",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 11
+    },
+    "BMW|X4": {
+     "make": "BMW",
+     "model": "X4",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 70
+    },
+    "BMW|i5": {
+     "make": "BMW",
+     "model": "i5",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 9
+    },
+    "BMW|i7": {
+     "make": "BMW",
+     "model": "i7",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 17
+    },
+    "Bentley|Sedan": {
+     "make": "Bentley",
+     "model": "Sedan",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 6
+    },
+    "CUPRA|Ateca": {
+     "make": "CUPRA",
+     "model": "Ateca",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 110
+    },
+    "CUPRA|Born": {
+     "make": "CUPRA",
+     "model": "Born",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 2
+    },
+    "Chevrolet|Corvette E-Ray": {
+     "make": "Chevrolet",
+     "model": "Corvette E-Ray",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 6
+    },
+    "Citroen|C3": {
+     "make": "Citroen",
+     "model": "C3",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Citroen|C5 Aircross": {
+     "make": "Citroen",
+     "model": "C5 Aircross",
+     "units": 0,
+     "yoy": null,
+     "ytd": 2
+    },
+    "Citroen|C5 X": {
+     "make": "Citroen",
+     "model": "C5 X",
+     "units": 0,
+     "yoy": null,
+     "ytd": 1
+    },
+    "Dennis Eagle|(MD)": {
+     "make": "Dennis Eagle",
+     "model": "(MD)",
+     "units": 0,
+     "yoy": null,
+     "ytd": 2
+    },
+    "Ford|Escape": {
+     "make": "Ford",
+     "model": "Escape",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Ford|Puma": {
+     "make": "Ford",
+     "model": "Puma",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Forthing|Taikon 5": {
+     "make": "Forthing",
+     "model": "Taikon 5",
+     "units": 0,
+     "yoy": null,
+     "ytd": 2
+    },
+    "Foton Mobility|(HD)": {
+     "make": "Foton Mobility",
+     "model": "(HD)",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Foton Mobility|(MD)": {
+     "make": "Foton Mobility",
+     "model": "(MD)",
+     "units": 0,
+     "yoy": null,
+     "ytd": 1
+    },
+    "GWM|Ute": {
+     "make": "GWM",
+     "model": "Ute",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 3
+    },
+    "Hyundai|Nexo": {
+     "make": "Hyundai",
+     "model": "Nexo",
+     "units": 0,
+     "yoy": null,
+     "ytd": 1
+    },
+    "Jaguar|E-Pace": {
+     "make": "Jaguar",
+     "model": "E-Pace",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 5
+    },
+    "Jaguar|F-Pace": {
+     "make": "Jaguar",
+     "model": "F-Pace",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 2
+    },
+    "Jaguar|F-Type": {
+     "make": "Jaguar",
+     "model": "F-Type",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Jaguar|I-Pace": {
+     "make": "Jaguar",
+     "model": "I-Pace",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    },
+    "Jaguar|XE": {
+     "make": "Jaguar",
+     "model": "XE",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Jeep|Compass": {
+     "make": "Jeep",
+     "model": "Compass",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 20
+    },
+    "KGM|Korando": {
+     "make": "KGM",
+     "model": "Korando",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 87
+    },
+    "Kia|Cerato": {
+     "make": "Kia",
+     "model": "Cerato",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "LDV|Mifa": {
+     "make": "LDV",
+     "model": "Mifa",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 1
+    },
+    "LDV|Mifa9": {
+     "make": "LDV",
+     "model": "Mifa9",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "LDV|V80": {
+     "make": "LDV",
+     "model": "V80",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    },
+    "Lexus|LS": {
+     "make": "Lexus",
+     "model": "LS",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 4
+    },
+    "Lotus|Eletre": {
+     "make": "Lotus",
+     "model": "Eletre",
+     "units": 0,
+     "yoy": null,
+     "ytd": 4
+    },
+    "Lotus|Emeya": {
+     "make": "Lotus",
+     "model": "Emeya",
+     "units": 0,
+     "yoy": null,
+     "ytd": 2
+    },
+    "Lotus|Emira": {
+     "make": "Lotus",
+     "model": "Emira",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 7
+    },
+    "Maserati|Coupe/Conv": {
+     "make": "Maserati",
+     "model": "Coupe/Conv",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 7
+    },
+    "Maserati|Ghibli": {
+     "make": "Maserati",
+     "model": "Ghibli",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Maserati|Levante": {
+     "make": "Maserati",
+     "model": "Levante",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    },
+    "Mazda|CX-8": {
+     "make": "Mazda",
+     "model": "CX-8",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Mazda|CX-9": {
+     "make": "Mazda",
+     "model": "CX-9",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Mazda|MX-30": {
+     "make": "Mazda",
+     "model": "MX-30",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Mazda|Mazda6": {
+     "make": "Mazda",
+     "model": "Mazda6",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 2
+    },
+    "Mercedes-Benz Cars|Mercedes-AMG GT 4D": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-AMG GT 4D",
+     "units": 0,
+     "yoy": null,
+     "ytd": 1
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz E-Class Cpe/Conv": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz E-Class Cpe/Conv",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz EQE": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz EQE",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 1
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz EQE SUV": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz EQE SUV",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 2
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz EQS": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz EQS",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Mercedes-Benz Cars|Mercedes-Benz GLE-Class Coupe": {
+     "make": "Mercedes-Benz Cars",
+     "model": "Mercedes-Benz GLE-Class Coupe",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 168
+    },
+    "Mercedes-Benz Vans|Mercedes-Benz EQV": {
+     "make": "Mercedes-Benz Vans",
+     "model": "Mercedes-Benz EQV",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    },
+    "Nissan|Juke": {
+     "make": "Nissan",
+     "model": "Juke",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 121
+    },
+    "Nissan|Leaf": {
+     "make": "Nissan",
+     "model": "Leaf",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Nissan|Pathfinder": {
+     "make": "Nissan",
+     "model": "Pathfinder",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 79
+    },
+    "Peugeot|208/e208": {
+     "make": "Peugeot",
+     "model": "208/e208",
+     "units": 0,
+     "yoy": null,
+     "ytd": 1
+    },
+    "Peugeot|5008 (Gen 2)": {
+     "make": "Peugeot",
+     "model": "5008 (Gen 2)",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Peugeot|508": {
+     "make": "Peugeot",
+     "model": "508",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Porsche|Boxster": {
+     "make": "Porsche",
+     "model": "Boxster",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 13
+    },
+    "Porsche|Cayman": {
+     "make": "Porsche",
+     "model": "Cayman",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 22
+    },
+    "Porsche|Taycan": {
+     "make": "Porsche",
+     "model": "Taycan",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 66
+    },
+    "Renault|Captur": {
+     "make": "Renault",
+     "model": "Captur",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Renault|Master Bus": {
+     "make": "Renault",
+     "model": "Master Bus",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    },
+    "Renault|Megane": {
+     "make": "Renault",
+     "model": "Megane",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Renault|Megane E-Tech": {
+     "make": "Renault",
+     "model": "Megane E-Tech",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 230
+    },
+    "Rolls-Royce|Coupe/Conv": {
+     "make": "Rolls-Royce",
+     "model": "Coupe/Conv",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 3
+    },
+    "Skoda|Scala": {
+     "make": "Skoda",
+     "model": "Scala",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 67
+    },
+    "Toyota|Granvia": {
+     "make": "Toyota",
+     "model": "Granvia",
+     "units": 0,
+     "yoy": null,
+     "ytd": 1
+    },
+    "Toyota|Mirai": {
+     "make": "Toyota",
+     "model": "Mirai",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volkswagen|California": {
+     "make": "Volkswagen",
+     "model": "California",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volkswagen|Caravelle": {
+     "make": "Volkswagen",
+     "model": "Caravelle",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volkswagen|Passat": {
+     "make": "Volkswagen",
+     "model": "Passat",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volkswagen|Passat Alltrack": {
+     "make": "Volkswagen",
+     "model": "Passat Alltrack",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volkswagen|Tiguan Allspace": {
+     "make": "Volkswagen",
+     "model": "Tiguan Allspace",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 48
+    },
+    "Volvo Car|Volvo C40": {
+     "make": "Volvo Car",
+     "model": "Volvo C40",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volvo Car|Volvo S60": {
+     "make": "Volvo Car",
+     "model": "Volvo S60",
+     "units": 0,
+     "yoy": null,
+     "ytd": 0
+    },
+    "Volvo Car|Volvo V60 Cross Country": {
+     "make": "Volvo Car",
+     "model": "Volvo V60 Cross Country",
+     "units": 0,
+     "yoy": -100.0,
+     "ytd": 0
+    }
+   },
+   "makes": {
+    "Toyota": {
+     "units": 17682,
+     "yoy": -3.5,
+     "share": 16.3,
+     "ytd": 152944
+    },
+    "BYD": {
+     "units": 8191,
+     "yoy": 61.1,
+     "share": 7.5,
+     "ytd": 76614
+    },
+    "Ford": {
+     "units": 7592,
+     "yoy": -8.5,
+     "share": 7.0,
+     "ytd": 61104
+    },
+    "Kia": {
+     "units": 5901,
+     "yoy": -19.5,
+     "share": 5.4,
+     "ytd": 60800
+    },
+    "Mazda": {
+     "units": 5702,
+     "yoy": -18.9,
+     "share": 5.2,
+     "ytd": 58865
+    },
+    "Tesla": {
+     "units": 5654,
+     "yoy": 21.3,
+     "share": 5.2,
+     "ytd": 41705
+    },
+    "GWM": {
+     "units": 5212,
+     "yoy": 5.4,
+     "share": 4.8,
+     "ytd": 44959
+    },
+    "Hyundai": {
+     "units": 5073,
+     "yoy": -22.0,
+     "share": 4.7,
+     "ytd": 56009
+    },
+    "MG": {
+     "units": 4635,
+     "yoy": 15.6,
+     "share": 4.3,
+     "ytd": 36832
+    },
+    "Geely": {
+     "units": 4473,
+     "yoy": 870.3,
+     "share": 4.1,
+     "ytd": 23632
+    },
+    "Chery": {
+     "units": 4205,
+     "yoy": 21.8,
+     "share": 3.9,
+     "ytd": 38022
+    },
+    "Mitsubishi": {
+     "units": 2769,
+     "yoy": -41.5,
+     "share": 2.5,
+     "ytd": 33245
+    },
+    "Isuzu Ute": {
+     "units": 2696,
+     "yoy": 1.0,
+     "share": 2.5,
+     "ytd": 28793
+    },
+    "Omoda Jaecoo": {
+     "units": 2310,
+     "yoy": 344.2,
+     "share": 2.1,
+     "ytd": 15456
+    },
+    "BMW": {
+     "units": 2152,
+     "yoy": -10.8,
+     "share": 2.0,
+     "ytd": 17771
+    },
+    "Zeekr": {
+     "units": 2050,
+     "yoy": 1608.3,
+     "share": 1.9,
+     "ytd": 12120
+    },
+    "Nissan": {
+     "units": 2028,
+     "yoy": -30.0,
+     "share": 1.9,
+     "ytd": 19212
+    },
+    "Subaru": {
+     "units": 2009,
+     "yoy": -42.6,
+     "share": 1.8,
+     "ytd": 21134
+    },
+    "Mercedes-Benz Cars": {
+     "units": 1681,
+     "yoy": -17.1,
+     "share": 1.5,
+     "ytd": 15832
+    },
+    "Volkswagen": {
+     "units": 1599,
+     "yoy": -36.9,
+     "share": 1.5,
+     "ytd": 17161
+    },
+    "LDV": {
+     "units": 1310,
+     "yoy": 20.8,
+     "share": 1.2,
+     "ytd": 9857
+    },
+    "Honda": {
+     "units": 1214,
+     "yoy": 1.5,
+     "share": 1.1,
+     "ytd": 11784
+    },
+    "GAC": {
+     "units": 1101,
+     "yoy": null,
+     "share": 1.0,
+     "ytd": 3175
+    },
+    "Suzuki": {
+     "units": 1049,
+     "yoy": -39.3,
+     "share": 1.0,
+     "ytd": 9854
+    },
+    "Audi": {
+     "units": 971,
+     "yoy": -32.6,
+     "share": 0.9,
+     "ytd": 8656
+    },
+    "Lexus": {
+     "units": 951,
+     "yoy": -6.2,
+     "share": 0.9,
+     "ytd": 9466
+    },
+    "Isuzu": {
+     "units": 863,
+     "yoy": -19.9,
+     "share": 0.8,
+     "ytd": 6843
+    },
+    "Land Rover": {
+     "units": 788,
+     "yoy": -5.6,
+     "share": 0.7,
+     "ytd": 5660
+    },
+    "Xpeng": {
+     "units": 615,
+     "yoy": null,
+     "share": 0.6,
+     "ytd": 1183
+    },
+    "MINI": {
+     "units": 475,
+     "yoy": -9.5,
+     "share": 0.4,
+     "ytd": 4030
+    },
+    "Skoda": {
+     "units": 463,
+     "yoy": -9.6,
+     "share": 0.4,
+     "ytd": 3214
+    },
+    "Volvo Car": {
+     "units": 455,
+     "yoy": -39.1,
+     "share": 0.4,
+     "ytd": 5166
+    },
+    "Denza": {
+     "units": 385,
+     "yoy": null,
+     "share": 0.4,
+     "ytd": 3339
+    },
+    "Porsche": {
+     "units": 364,
+     "yoy": -8.5,
+     "share": 0.3,
+     "ytd": 3068
+    },
+    "Mercedes-Benz Vans": {
+     "units": 345,
+     "yoy": 19.8,
+     "share": 0.3,
+     "ytd": 3163
+    },
+    "Chevrolet": {
+     "units": 300,
+     "yoy": -16.9,
+     "share": 0.3,
+     "ytd": 2671
+    },
+    "Hino": {
+     "units": 286,
+     "yoy": -30.6,
+     "share": 0.3,
+     "ytd": 2892
+    },
+    "Fuso": {
+     "units": 260,
+     "yoy": -16.7,
+     "share": 0.2,
+     "ytd": 2450
+    },
+    "Kenworth": {
+     "units": 248,
+     "yoy": -21.8,
+     "share": 0.2,
+     "ytd": 1938
+    },
+    "RAM": {
+     "units": 245,
+     "yoy": -12.5,
+     "share": 0.2,
+     "ytd": 2322
+    },
+    "Volvo Commercial": {
+     "units": 220,
+     "yoy": 11.7,
+     "share": 0.2,
+     "ytd": 1705
+    },
+    "Fiat Professional": {
+     "units": 202,
+     "yoy": 56.6,
+     "share": 0.2,
+     "ytd": 1252
+    },
+    "Polestar": {
+     "units": 200,
+     "yoy": -15.3,
+     "share": 0.2,
+     "ytd": 1681
+    },
+    "KGM": {
+     "units": 189,
+     "yoy": -37.0,
+     "share": 0.2,
+     "ytd": 2703
+    },
+    "Renault": {
+     "units": 174,
+     "yoy": -42.4,
+     "share": 0.2,
+     "ytd": 3133
+    },
+    "Iveco Trucks": {
+     "units": 150,
+     "yoy": 0.0,
+     "share": 0.1,
+     "ytd": 1190
+    },
+    "Leapmotor": {
+     "units": 146,
+     "yoy": 105.6,
+     "share": 0.1,
+     "ytd": 1168
+    },
+    "Foton": {
+     "units": 139,
+     "yoy": null,
+     "share": 0.1,
+     "ytd": 1165
+    },
+    "CUPRA": {
+     "units": 132,
+     "yoy": -12.0,
+     "share": 0.1,
+     "ytd": 1417
+    },
+    "Scania": {
+     "units": 119,
+     "yoy": 24.0,
+     "share": 0.1,
+     "ytd": 845
+    },
+    "Peugeot": {
+     "units": 89,
+     "yoy": -25.8,
+     "share": 0.1,
+     "ytd": 652
+    },
+    "Mack": {
+     "units": 72,
+     "yoy": -1.4,
+     "share": 0.1,
+     "ytd": 492
+    },
+    "Genesis": {
+     "units": 66,
+     "yoy": -54.5,
+     "share": 0.1,
+     "ytd": 1052
+    },
+    "UD Trucks": {
+     "units": 64,
+     "yoy": 42.2,
+     "share": 0.1,
+     "ytd": 579
+    },
+    "Deepal": {
+     "units": 63,
+     "yoy": -33.7,
+     "share": 0.1,
+     "ytd": 924
+    },
+    "JAC": {
+     "units": 58,
+     "yoy": -47.3,
+     "share": 0.1,
+     "ytd": 629
+    },
+    "Mercedes-Benz Trucks": {
+     "units": 56,
+     "yoy": -9.7,
+     "share": 0.1,
+     "ytd": 649
+    },
+    "Daf": {
+     "units": 39,
+     "yoy": -38.1,
+     "share": 0.0,
+     "ytd": 537
+    },
+    "Farizon": {
+     "units": 39,
+     "yoy": null,
+     "share": 0.0,
+     "ytd": 298
+    },
+    "Foton Mobility": {
+     "units": 30,
+     "yoy": 500.0,
+     "share": 0.0,
+     "ytd": 121
+    },
+    "Western Star": {
+     "units": 28,
+     "yoy": 86.7,
+     "share": 0.0,
+     "ytd": 132
+    },
+    "Aston Martin": {
+     "units": 22,
+     "yoy": 0.0,
+     "share": 0.0,
+     "ytd": 140
+    },
+    "Alfa Romeo": {
+     "units": 21,
+     "yoy": -59.6,
+     "share": 0.0,
+     "ytd": 265
+    },
+    "Man": {
+     "units": 19,
+     "yoy": -36.7,
+     "share": 0.0,
+     "ytd": 193
+    },
+    "GMC": {
+     "units": 18,
+     "yoy": -65.4,
+     "share": 0.0,
+     "ytd": 255
+    },
+    "Lamborghini": {
+     "units": 18,
+     "yoy": -28.0,
+     "share": 0.0,
+     "ytd": 125
+    },
+    "Maserati": {
+     "units": 18,
+     "yoy": -25.0,
+     "share": 0.0,
+     "ytd": 143
+    },
+    "Ferrari": {
+     "units": 16,
+     "yoy": 6.7,
+     "share": 0.0,
+     "ytd": 142
+    },
+    "Hyundai Commercial Vehicles": {
+     "units": 16,
+     "yoy": -27.3,
+     "share": 0.0,
+     "ytd": 161
+    },
+    "Jeep": {
+     "units": 16,
+     "yoy": -85.3,
+     "share": 0.0,
+     "ytd": 442
+    },
+    "Bentley": {
+     "units": 13,
+     "yoy": -13.3,
+     "share": 0.0,
+     "ytd": 110
+    },
+    "Freightliner": {
+     "units": 8,
+     "yoy": -20.0,
+     "share": 0.0,
+     "ytd": 139
+    },
+    "Dennis Eagle": {
+     "units": 7,
+     "yoy": -50.0,
+     "share": 0.0,
+     "ytd": 56
+    },
+    "Rolls-Royce": {
+     "units": 6,
+     "yoy": 20.0,
+     "share": 0.0,
+     "ytd": 41
+    },
+    "Fiat": {
+     "units": 2,
+     "yoy": -94.7,
+     "share": 0.0,
+     "ytd": 170
+    },
+    "McLaren": {
+     "units": 1,
+     "yoy": -75.0,
+     "share": 0.0,
+     "ytd": 26
+    },
+    "Citroen": {
+     "units": 0,
+     "yoy": null,
+     "share": 0.0,
+     "ytd": 3
+    },
+    "Forthing": {
+     "units": 0,
+     "yoy": null,
+     "share": 0.0,
+     "ytd": 2
+    },
+    "Jaguar": {
+     "units": 0,
+     "yoy": -100.0,
+     "share": 0.0,
+     "ytd": 7
+    },
+    "Lotus": {
+     "units": 0,
+     "yoy": -100.0,
+     "share": 0.0,
+     "ytd": 13
+    }
+   },
+   "buyer_type": {
+    "Private": {
+     "units": 55986,
+     "share": 53.1
+    },
+    "S.Fleet": {
+     "units": 15217,
+     "share": 14.4
+    },
+    "Demo": {
+     "units": 14903,
+     "share": 14.1
+    },
+    "L.Fleet": {
+     "units": 7529,
+     "share": 7.1
+    },
+    "Rental": {
+     "units": 6661,
+     "share": 6.3
+    },
+    "Govt. + NFP": {
+     "units": 3513,
+     "share": 3.3
+    },
+    "Company": {
+     "units": 1584,
+     "share": 1.5
+    }
+   },
+   "fuel_mix": {
+    "Electric": {
+     "units": 26287,
+     "share": 24.9
+    },
+    "Petrol": {
+     "units": 22959,
+     "share": 21.8
+    },
+    "Diesel": {
+     "units": 19041,
+     "share": 18.1
+    },
+    "Hybrid": {
+     "units": 17843,
+     "share": 16.9
+    },
+    "PHEV": {
+     "units": 10072,
+     "share": 9.6
+    },
+    "MHEV": {
+     "units": 9191,
+     "share": 8.7
+    }
+   },
+   "segments": {
+    "SUV Medium": {
+     "units": 32781,
+     "share": 30.1
+    },
+    "SUV Small": {
+     "units": 18600,
+     "share": 17.1
+    },
+    "PU/CC 4X4": {
+     "units": 16045,
+     "share": 14.8
+    },
+    "SUV Large": {
+     "units": 12871,
+     "share": 11.8
+    },
+    "Small": {
+     "units": 4845,
+     "share": 4.5
+    },
+    "Medium": {
+     "units": 4018,
+     "share": 3.7
+    },
+    "Light": {
+     "units": 3708,
+     "share": 3.4
+    },
+    "SUV Light": {
+     "units": 3472,
+     "share": 3.2
+    },
+    "SUV Upper Large": {
+     "units": 1988,
+     "share": 1.8
+    },
+    "Vans/CC 2.5-3.5t": {
+     "units": 1917,
+     "share": 1.8
+    },
+    "LD 3501-8000 kgs GVM": {
+     "units": 1806,
+     "share": 1.7
+    },
+    "PU/CC 4X2": {
+     "units": 1710,
+     "share": 1.6
+    },
+    "People Movers": {
+     "units": 1149,
+     "share": 1.1
+    },
+    "HD => 8001 GVM & GCM > 39000": {
+     "units": 1125,
+     "share": 1.0
+    },
+    "Sports": {
+     "units": 800,
+     "share": 0.7
+    },
+    "Pick-Up/CC > $100K": {
+     "units": 770,
+     "share": 0.7
+    },
+    "MD => 8001 GVM & GCM < 39001": {
+     "units": 454,
+     "share": 0.4
+    },
+    "Micro": {
+     "units": 395,
+     "share": 0.4
+    },
+    "Large": {
+     "units": 114,
+     "share": 0.1
+    },
+    "Vans/CC <= 2.5t": {
+     "units": 101,
+     "share": 0.1
+    },
+    "Light Buses < 20 Seats": {
+     "units": 63,
+     "share": 0.1
+    },
+    "Upper Large": {
+     "units": 25,
+     "share": 0.0
+    },
+    "Light Buses => 20 Seats": {
+     "units": 21,
+     "share": 0.0
+    }
+   },
+   "category": {
+    "SUV": {
+     "units": 69712,
+     "share": 64.1
+    },
+    "Light Commercial": {
+     "units": 20627,
+     "share": 19.0
+    },
+    "Passenger": {
+     "units": 15054,
+     "share": 13.8
+    },
+    "Heavy Commercial": {
+     "units": 3385,
+     "share": 3.1
+    }
+   },
+   "total": 105393
+  }
+ },
+ "updated": "2026-11-02T06:39:00+00:00",
+ "latest": "2026-09"
+}

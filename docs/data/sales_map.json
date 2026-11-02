@@ -1,0 +1,355 @@
+{
+ "note": "CarExpert New Car Sales Atlas (VFACTS + EVC) model names mapped to competitor ids and ZEEKR models. combined=true where VFACTS reports ICE and EV together.",
+ "source_url": "https://atlas.carexpert.com.au/latest-dataset",
+ "zeekr": {
+  "X": [
+   "Zeekr",
+   "X"
+  ],
+  "7X": [
+   "Zeekr",
+   "7X"
+  ],
+  "009": [
+   "Zeekr",
+   "009"
+  ]
+ },
+ "competitors": {
+  "volvo-ex30": [
+   "Volvo Car",
+   "Volvo EX30"
+  ],
+  "smart-1": null,
+  "smart-3": null,
+  "smart-5": null,
+  "mini-aceman": [
+   "MINI",
+   "Aceman"
+  ],
+  "mini-countryman-e": {
+   "ref": [
+    "MINI",
+    "Countryman"
+   ],
+   "combined": true
+  },
+  "kia-ev3": [
+   "Kia",
+   "EV3"
+  ],
+  "hyundai-kona-ev": {
+   "ref": [
+    "Hyundai",
+    "Kona"
+   ],
+   "combined": true
+  },
+  "byd-atto3": [
+   "BYD",
+   "Atto 3"
+  ],
+  "mb-eqa": [
+   "Mercedes-Benz Cars",
+   "Mercedes-Benz EQA"
+  ],
+  "tesla-model-y": [
+   "Tesla",
+   "Model Y"
+  ],
+  "xpeng-g6": [
+   "Xpeng",
+   "G6"
+  ],
+  "byd-sealion7": [
+   "BYD",
+   "Sealion 7"
+  ],
+  "kia-ev5": [
+   "Kia",
+   "EV5"
+  ],
+  "hyundai-elexio": [
+   "Hyundai",
+   "Elexio"
+  ],
+  "polestar-4": [
+   "Polestar",
+   "4"
+  ],
+  "volvo-ex40": {
+   "ref": [
+    "Volvo Car",
+    "Volvo XC40"
+   ],
+   "combined": true
+  },
+  "kia-ev6": [
+   "Kia",
+   "EV6"
+  ],
+  "hyundai-ioniq5": [
+   "Hyundai",
+   "Ioniq 5"
+  ],
+  "deepal-s07": [
+   "Deepal",
+   "S07"
+  ],
+  "bmw-ix1": {
+   "ref": [
+    "BMW",
+    "X1/iX1"
+   ],
+   "combined": true
+  },
+  "audi-q4": [
+   "Audi",
+   "Q4 e-tron"
+  ],
+  "toyota-bz4x": [
+   "Toyota",
+   "bZ4X"
+  ],
+  "ford-mach-e": [
+   "Ford",
+   "Mustang Mach-E"
+  ],
+  "skoda-enyaq": [
+   "Skoda",
+   "Enyaq"
+  ],
+  "geely-ex5": [
+   "Geely",
+   "EX5"
+  ],
+  "tesla-model-3": [
+   "Tesla",
+   "Model 3"
+  ],
+  "polestar-2": [
+   "Polestar",
+   "2"
+  ],
+  "byd-seal": [
+   "BYD",
+   "Seal"
+  ],
+  "im5": [
+   "MG",
+   "IM5"
+  ],
+  "kia-ev4": [
+   "Kia",
+   "EV4"
+  ],
+  "mazda-6e": [
+   "Mazda",
+   "6e"
+  ],
+  "mb-cla-ev": {
+   "ref": [
+    "Mercedes-Benz Cars",
+    "Mercedes-Benz CLA-Class"
+   ],
+   "combined": true
+  },
+  "bmw-i4": [
+   "BMW",
+   "i4"
+  ],
+  "denza-z9gt": null,
+  "xpeng-p7": null,
+  "lexus-lm": null,
+  "denza-d9": [
+   "Denza",
+   "D9"
+  ],
+  "xpeng-x9": [
+   "Xpeng",
+   "X9"
+  ],
+  "mb-eqv": [
+   "Mercedes-Benz Vans",
+   "Mercedes-Benz EQV"
+  ],
+  "mb-vclass": [
+   "Mercedes-Benz Vans",
+   "Mercedes-Benz V-Class"
+  ],
+  "kia-carnival-hev": {
+   "ref": [
+    "Kia",
+    "Carnival"
+   ],
+   "combined": true
+  },
+  "vw-id-buzz": [
+   "Volkswagen",
+   "ID. Buzz"
+  ],
+  "gac-m8": [
+   "GAC",
+   "M8 PHEV"
+  ],
+  "byd-m9": null,
+  "wey-g9": null,
+  "mb-vle": null,
+  "li-mega": null,
+  "volvo-xc90-t8": {
+   "ref": [
+    "Volvo Car",
+    "Volvo XC90"
+   ],
+   "combined": true
+  },
+  "bmw-x5-50e": {
+   "ref": [
+    "BMW",
+    "X5"
+   ],
+   "combined": true
+  },
+  "mb-gle": [
+   "Mercedes-Benz Cars",
+   "Mercedes-Benz GLE-Class Wagon"
+  ],
+  "lexus-rx450h": {
+   "ref": [
+    "Lexus",
+    "RX"
+   ],
+   "combined": true
+  },
+  "mazda-cx80-phev": {
+   "ref": [
+    "Mazda",
+    "CX-80"
+   ],
+   "combined": true
+  },
+  "denza-b8": [
+   "Denza",
+   "B8"
+  ],
+  "byd-sealion8": [
+   "BYD",
+   "Sealion 8"
+  ],
+  "kia-sorento-phev": {
+   "ref": [
+    "Kia",
+    "Sorento"
+   ],
+   "combined": true
+  },
+  "kia-ev9": [
+   "Kia",
+   "EV9"
+  ],
+  "xpeng-g9l": null,
+  "wey-v9x": null,
+  "rr-sport-p460e": {
+   "ref": [
+    "Land Rover",
+    "Range Rover Sport"
+   ],
+   "combined": true
+  },
+  "rr-p460e": {
+   "ref": [
+    "Land Rover",
+    "Range Rover"
+   ],
+   "combined": true
+  },
+  "bmw-x7": [
+   "BMW",
+   "X7"
+  ],
+  "mb-gls": [
+   "Mercedes-Benz Cars",
+   "Mercedes-Benz GLS-Class"
+  ],
+  "lexus-lx": [
+   "Lexus",
+   "LX"
+  ],
+  "porsche-cayenne-eh": {
+   "ref": [
+    "Porsche",
+    "Cayenne Wagon"
+   ],
+   "combined": true
+  },
+  "volvo-ex90": [
+   "Volvo Car",
+   "Volvo EX90"
+  ],
+  "bmw-ix": [
+   "BMW",
+   "iX"
+  ],
+  "audi-q6": [
+   "Audi",
+   "Q6 e-tron"
+  ],
+  "mb-glc": {
+   "ref": [
+    "Mercedes-Benz Cars",
+    "Mercedes-Benz GLC-Class Wagon"
+   ],
+   "combined": true
+  }
+ },
+ "driven_url": "https://thedriven.io/2026/08/05/australian-electric-vehicle-sales-by-month-in-2026-by-model-and-by-brand-3/",
+ "driven": {
+  "smart-1": "Smart #1",
+  "smart-3": "Smart #3",
+  "mini-aceman": "Mini Aceman",
+  "mini-countryman-e": "Mini Countryman Electric",
+  "kia-ev3": "Kia EV3",
+  "hyundai-kona-ev": "Hyundai Kona EV",
+  "mb-eqa": "Mercedes-Benz EQA",
+  "tesla-model-y": "Tesla Model Y",
+  "xpeng-g6": "XPeng G6",
+  "byd-sealion7": "BYD Sealion 7",
+  "kia-ev5": "Kia EV5",
+  "hyundai-elexio": "Hyundai Elexio",
+  "polestar-4": "Polestar 4",
+  "volvo-ex40": "Volvo EX40",
+  "volvo-ex30": "Volvo EX30",
+  "kia-ev6": "Kia EV6",
+  "hyundai-ioniq5": "Hyundai Ioniq 5",
+  "deepal-s07": "Deepal S07",
+  "bmw-ix1": [
+   "BMW iX1",
+   "BMW iX2"
+  ],
+  "audi-q4": "Audi Q4 e-tron",
+  "audi-q6": "Audi Q6 e-tron",
+  "toyota-bz4x": "Toyota bZ4X",
+  "ford-mach-e": "Ford Mustang Mach-E",
+  "skoda-enyaq": "Skoda Enyaq",
+  "geely-ex5": "Geely EX5",
+  "tesla-model-3": "Tesla Model 3",
+  "polestar-2": "Polestar 2",
+  "byd-seal": "BYD Seal",
+  "im5": "MG IM5",
+  "kia-ev4": "Kia EV4",
+  "mazda-6e": "Mazda 6e",
+  "bmw-i4": "BMW i4",
+  "denza-d9": "Denza D9",
+  "xpeng-x9": "XPeng X9",
+  "mb-eqv": "Mercedes-Benz EQV",
+  "kia-ev9": "Kia EV9",
+  "volvo-ex90": "Volvo EX90",
+  "bmw-ix": "BMW iX",
+  "byd-atto3": "BYD Atto 3"
+ },
+ "zeekr_driven": {
+  "X": "Zeekr X",
+  "7X": "Zeekr 7X",
+  "009": "Zeekr 009"
+ }
+}

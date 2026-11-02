@@ -13,6 +13,7 @@ from datetime import datetime, timedelta, timezone
 
 from . import collectors as C
 from . import benchmark as B
+from . import sales as S
 from . import classify as K
 from .util import (DATA_DIR, config, load_json, save_json, now_iso, sha)
 
@@ -144,6 +145,9 @@ def main(argv=None):
     if r:
         raw_items += r[0]; statuses.update(r[1]); places_state = r[2]
     bench_out = {}
+    r = step("sales", S.run_all)
+    if r:
+        _sales_out, st = r; statuses.update(st)
     r = step("benchmark", B.run_all, skip=skip)
     if r:
         bench_out, st = r
@@ -291,6 +295,7 @@ def main(argv=None):
     save_json(DATA_DIR / "zeekr.json", config("zeekr_models.json"))
     save_json(DATA_DIR / "competitors.json", comps_cfg)
     save_json(DATA_DIR / "benchmark.json", config("benchmark.json"))
+    save_json(DATA_DIR / "sales_map.json", config("sales_map.json"))
     save_json(DATA_DIR / "german_evidence.json", config("german_evidence.json"))
     print(f"run {run_at}: {len(raw_items)} raw -> {len(items)} stored ({len(new_ids)} new); sources ok {ok}/{len(statuses)}; {summary['duration_s']}s")
     for k, s in statuses.items():
