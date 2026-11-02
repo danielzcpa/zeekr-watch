@@ -300,7 +300,16 @@
     "Mercedes-Benz GLC-Class Wagon"
    ],
    "combined": true
-  }
+  },
+  "toyota-alphard": null,
+  "hyundai-staria": [
+   "Hyundai",
+   "Staria"
+  ],
+  "ldv-mifa": [
+   "LDV",
+   "Mifa"
+  ]
  },
  "driven_url": "https://thedriven.io/2026/08/05/australian-electric-vehicle-sales-by-month-in-2026-by-model-and-by-brand-3/",
  "driven": {

@@ -3113,6 +3113,132 @@
    ],
    "fit": "新进入的中国豪华品牌（长安/宁德/华为），定位与 Zeekr 重叠。",
    "fit_en": "New Chinese luxury entrant (Changan/CATL/Huawei) overlapping Zeekr's positioning."
+  },
+  {
+   "id": "toyota-alphard",
+   "brand": "Toyota",
+   "model": "Alphard / Vellfire",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "core",
+   "body": "豪华MPV 7 座（灰色进口）",
+   "body_en": "Luxury MPV, 7 seats (grey import)",
+   "powertrain": "HEV",
+   "status": "on_sale",
+   "au_launch": "未经 Toyota 澳洲官方销售，经 SEVS 平行进口",
+   "au_launch_en": "Not sold by Toyota Australia; parallel-imported under SEVS",
+   "variants": [
+    {
+     "name": "2.5 Hybrid Z / Executive Lounge（进口商挂牌，无官方 MSRP）",
+     "name_en": "2.5 Hybrid Z / Executive Lounge (importer listings, no official MSRP)",
+     "drive": "FWD/AWD",
+     "kwh": null,
+     "price": null,
+     "basis": "rrp"
+    }
+   ],
+   "offers": [],
+   "price_note": "价格由各平行进口商自定，通常高于日本本土价 $57.6k–93.1k 折算值；不计入 VFACTS。",
+   "price_note_en": "Priced by individual parallel importers, typically above the Japan list equivalent ($57.6k–93.1k); not reported in VFACTS.",
+   "model_url": "https://www.carsales.com.au/research/toyota/alphard/2026/",
+   "sources": [
+    "https://www.chasingcars.com.au/news/future-cars/why-isnt-the-toyota-alphard-people-mover-sold-in-australia/",
+    "https://www.carsales.com.au/research/toyota/alphard/2026/"
+   ],
+   "fit": "行政接待与华人客群中认知度最高的豪华 MPV，与 009 直接竞争；因无官方渠道，交付量与政策无法监控，仅可跟踪平行进口商挂牌价。",
+   "fit_en": "The best-known luxury MPV among executive-transport and Chinese-community buyers and a direct rival to 009; with no official channel, deliveries and offers cannot be monitored, only importer listings."
+  },
+  {
+   "id": "hyundai-staria",
+   "brand": "Hyundai",
+   "model": "Staria",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "MPV 8 座",
+   "body_en": "MPV, 8 seats",
+   "powertrain": "ICE（3.5 汽油 / 2.2 柴油）",
+   "powertrain_en": "ICE (3.5 petrol / 2.2 diesel)",
+   "status": "on_sale",
+   "au_launch": "2021",
+   "variants": [
+    {
+     "name": "Base 3.5 FWD",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 53978,
+     "basis": "da"
+    },
+    {
+     "name": "Elite 3.5 FWD",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 62378,
+     "basis": "da"
+    },
+    {
+     "name": "Highlander 2.2D AWD",
+     "drive": "AWD",
+     "kwh": null,
+     "price": 72878,
+     "basis": "da"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.hyundai.com/au/en/cars/staria",
+   "sources": [
+    "https://www.carexpert.com.au/hyundai/staria/2026/price-and-specs"
+   ],
+   "fit": "Carnival 之外的主流 8 座 MPV，Highlander 柴油版 DAP 约 $73k，为 009 需证明溢价的主流上限之一。",
+   "fit_en": "The other mainstream 8-seat MPV besides Carnival; Highlander diesel at about $73k DAP is one of the mainstream ceilings 009 must justify a premium over."
+  },
+  {
+   "id": "ldv-mifa",
+   "brand": "LDV",
+   "model": "MIFA",
+   "zeekr": [
+    "009"
+   ],
+   "tier": "reference",
+   "body": "MPV 7/8 座",
+   "body_en": "MPV, 7/8 seats",
+   "powertrain": "ICE（2.0T 汽油）；MIFA 9 纯电版已无申报销量",
+   "powertrain_en": "ICE (2.0T petrol); the MIFA 9 BEV no longer reports sales",
+   "status": "on_sale",
+   "au_launch": "2023",
+   "variants": [
+    {
+     "name": "Mode",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 53990,
+     "basis": "da"
+    },
+    {
+     "name": "Executive",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 63990,
+     "basis": "da"
+    },
+    {
+     "name": "Luxe",
+     "drive": "FWD",
+     "kwh": null,
+     "price": 72990,
+     "basis": "da"
+    }
+   ],
+   "offers": [],
+   "model_url": "https://www.ldvautomotive.com.au/",
+   "sources": [
+    "https://www.carexpert.com.au/ldv/mifa/2026/price-and-specs",
+    "https://atlas.carexpert.com.au/make/ldv/ldv-mifa9"
+   ],
+   "fit": "中国品牌低价 MPV 的价格底线；纯电 MIFA 9（原 $106k 起）2026 年已无申报销量，说明 $100k 以上纯电 MPV 的需求集中在 009 与 EQV。",
+   "fit_en": "Price floor for Chinese-brand MPVs; the BEV MIFA 9 (from $106k at launch) reports no 2026 sales, which shows demand for BEV MPVs above $100k is concentrated in 009 and EQV."
   }
  ]
 }
