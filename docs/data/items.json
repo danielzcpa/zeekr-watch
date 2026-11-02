@@ -1,8 +1,110 @@
 [
  {
+  "id": "85d9633824ceff8f",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/hybrid-vehicle-prices-to-go-up-under-changing-nves-rules-says-hyundai",
+  "title": "Hybrid vehicle prices to go up under changing NVES rules, says Hyundai",
+  "text": "A scheduled change to the New Vehicle Efficiency Scheme (NVES) from January 2027 may actually discourage Australians from buying hybrid models. The NVES was initially proposed as a way to reward automakers with credits for offering fuel-efficient vehicles, with penalties applied if companies exceed their CO2 emissions targets – effectively incentivising brands to offer electric and hybrid cars. However, the sliding-scale program means stricter rules will be applied from January 1, 2027 – affecting more than 50 petrol-electric hybrid vehicles currently on sale. The headline CO2 limits will fall from 117g/km to 92g/km for Type 1 vehicles (including passenger cars and many SUVs), and from 180g/km to 150g/km for Type 2 vehicles (light commercial vehicles and heavy off-road passenger vehicles), though individual vehicles are given a mass-adjusted target. Scott Nargar, Senior Manager of Future Mobility & Government Relations at Hyundai Australia, says the tighter targets could have several negative implications. “I think we need to do more to encourage people that don't want to transition [to electric vehicles] to consider a hybrid,” Mr Nargar told CarExpert. “The one problem with that,",
+  "author": "Ben Zachariah",
+  "published": "2026-11-02T06:01:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T06:41:50+00:00"
+ },
+ {
+  "id": "07afc34929f43a24",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxdWY0S0VZWm8yV1dQdE5GSlBVRE1iMi02OGRja0ZGa2w1MzZzaXJ0X25QSHU5bXlMbVU3bmM5LVJmSzFBdVk1X3M0ekRVcFh4LThmQ01fQzkySGZUZHpKa1BHbzBha2lDYnQwd3JuUWdCWld3M2c?oc=5",
+  "title": "Zeekr Takes Aim at South Korea's Premium EV Market with approximately $52,000 7X Ultra; Ride Comfort and Convenience Earn Passing Marks - BigGo Finance",
+  "text": "Zeekr Takes Aim at South Korea's Premium EV Market with approximately $52,000 7X Ultra; Ride Comfort and Convenience Earn Passing Marks BigGo Finance",
+  "author": "",
+  "published": "2026-11-02T05:56:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-02T06:41:50+00:00"
+ },
+ {
+  "id": "46939442d012d421",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 디지털투데이",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNk0wN1VzcWxjTEwwZG5hX2UzYzBUd080U1hWSWxyUFR4TGxQNHZxd2ZkajFrSDZVVGpTcW4yS2tNZlBaWFktbXJqYVpwYnY2MjZYUHpHNUNVdHVSaFowM3U5Rmd4cXJrVlBGWGpSSU1MNGhSVnJNUzNQT0R5cTh1LTduR0lFaTZzWlVLWjNyUXVwcFFUc3ZPY2dJdFB0dkVya25nYzRhX18zNy1aVHc?oc=5",
+  "title": "Zeekr says higher EV tariffs will not stop its push into Europe - 디지털투데이",
+  "text": "Zeekr says higher EV tariffs will not stop its push into Europe 디지털투데이",
+  "author": "",
+  "published": "2026-11-02T02:23:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-02T06:41:50+00:00"
+ },
+ {
   "id": "57df56df123edc9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
   "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
@@ -25,7 +127,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
@@ -474,7 +576,7 @@
  {
   "id": "a8af33cd32623473",
   "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
+  "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NZ1ljeThPTzljNHNzdFRTZmlsaVN1VGcwdFZxZzN6OTduTnVqOXJEdkJNdXpkLVU1LVA0cWNvLWgyT0s4TTlqMVE2UDhMZw?oc=5",
   "title": "GAC M8 price and specs: every variant compared - EV Central",
@@ -501,7 +603,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
@@ -841,6 +943,44 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "66be6f7394a75954",
+  "type": "post",
+  "source": "reddit-ZeekrAustraliaNZ",
+  "source_name": "Reddit r/ZeekrAustraliaNZ",
+  "url": "https://www.reddit.com/r/ZeekrAustraliaNZ/comments/1xl17m8/zeekr_7x_my27_offers/",
+  "title": "Zeekr 7x MY27 offers",
+  "text": "Have you paid a deposit on a 7x? An Exclusive Offer on the New MY27 ZEEKR 7X. Right now, we're offering an exclusive suite of premium upgrades and ownership benefits for those ready to lead the charge. The following upgrades are yours at no additional cost: - Complimentary Premium Paint Selection: Tech Grey, Crystal White, Forest Green, Tech Grey with Black Roof - Complimentary Interior Selection: Charcoal Black & Stone Grey or Ivory & Polar White - Two Complimentary Scheduled Services - Complimentary 7kW Home Wall Charger - 5000 User Points on Zeekr App - ZEEKR Complimentary Gift Package This is more than just a new vehicle; it's an invitation to experience premium electric mobility with all the extras. Offer available from 1 November 2026 to 31 December 2026. Terms and conditions apply.",
+  "author": "/u/keep-peddling",
+  "published": "2026-11-01T11:55:25+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T06:41:50+00:00"
  },
  {
   "id": "4a8d8545d170e90d",
@@ -1206,6 +1346,37 @@
   "first_seen": "2026-11-01T06:43:42+00:00"
  },
  {
+  "id": "60102fe5e70d2f4d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGtpRnJZR1o3X3daZUxBSjcwZnFXNmg5QzhxTF9ZSjBMZXE5Qi1vblZORlJEVjJaN0c0ZlFsTmpVWGwwOEZjOHozc2g3UVlrYkNyRGpOUnQ0UW00dVVQNFJkM2xOOFJ5OXpSOGU1Q21jSXlvT2dFQTExOTVLREZjcGtWd2VzenktU2NKTnBvMkNNSFNjc1NXUFJmQVc5Wkh4UkI4NnVKWmYwRWFWM2FwTE91TjU5eEU?oc=5",
+  "title": "Zeekr cars with kilometres under 20,000km with battery capacity over 10kWh for sale in Western Australia - Carsales",
+  "text": "Zeekr cars with kilometres under 20,000km with battery capacity over 10kWh for sale in Western Australia Carsales",
+  "author": "",
+  "published": "2026-11-01T05:17:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T06:41:50+00:00"
+ },
+ {
   "id": "569d6ddd211a082d",
   "type": "news_zeekr",
   "source": "whichcar",
@@ -1445,7 +1616,7 @@
  {
   "id": "c23ac47241974ca2",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1l6RlkyeGhCZXAxdWlWdGRiVHlwdTlYZmJlRmp5RnRnMzJHOXZyc2x3Sm5MWWpNc0Znc3pvNEw3bVBONndsRWhFYzA5Q3F5ZHVKSTZ1N25qazBNaXd0UFNmZzQwRHp3UWxCamw4cFJmY1hVQUF4ZDc0MUJkX0NjN0JkRkM?oc=5",
   "title": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged - Zecar",
@@ -1479,7 +1650,7 @@
   "source": "ozbargain-auto",
   "source_name": "OzBargain (Automotive deals)",
   "url": "https://www.ozbargain.com.au/node/981105",
-  "title": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia",
+  "title": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 Services + 7kW Charger + 5000 Z-Points from $57,900 + On-Road Costs @ Zeekr AU",
   "text": "Pasting from website: Right now, we're offering an exclusive suite of premium upgrades and ownership benefits for those ready to lead the charge. The following upgrades are yours at no …",
   "author": "FerreroRocher",
   "published": "2026-10-31T15:41:33+00:00",
@@ -1548,6 +1719,44 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-01T19:06:14+00:00"
+ },
+ {
+  "id": "caeb7cd59ba96d4f",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · OzBargain",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nLUI5aU9DcWo2a0FMdE11aXhzTVJKdXZOWFhwSVlBdmRTa0hGWkJOT3pLZ210MTZxLXJzY0lBbnJfSUpKLWpWUV9qSDBLQlZOZ1E?oc=5",
+  "title": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia - OzBargain",
+  "text": "[Pre Order] MY27 Zeekr 7X RWD + Premium Paint + 2 services + 7kW Charger + 5K points from $57,900 + onroads @ Zeekr Australia OzBargain",
+  "author": "",
+  "published": "2026-10-31T15:41:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-02T06:41:50+00:00"
  },
  {
   "id": "8c9ef38f9af3c4e7",
@@ -1655,7 +1864,7 @@
  {
   "id": "90edc6a3991e8e16",
   "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
+  "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0taWxENEpUdHZLVE5fdXBqdE1IQUtBQm1Jck5fdnltTG9xZE9yVktLNUlSYzlHNTREMmpwbUYtUWhXNGdvS2NrdHluRUlZMGlUNGFrS3lleVZwOXM?oc=5",
   "title": "Mazda CX-60 P50e price and specs: every variant compared - EV Central",
@@ -1680,7 +1889,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
@@ -1721,7 +1930,7 @@
  {
   "id": "477682d9a518ae53",
   "type": "competitor_news",
-  "source": "gn-zeekr-evcentral",
+  "source": "gn-evcentral-industry",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WVm1IalFZWUYwcHR0VXpwbE0tbzl4VHNfamJmVFpsRFNFVzYzalpud1ZQdjV5ZGpXUVA2bzRlZ0NXbWQ1c2tPUVlEdGVmM1hYM0dMX0NKQQ?oc=5",
   "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
@@ -1748,7 +1957,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "industry",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
@@ -1866,7 +2075,7 @@
  {
   "id": "3ebcaf638222b65d",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · caradvice.com.au",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWswMkJlTVFkam1Ec0Z2UUF3Vk5SR1BVWjE4UFJIUW1IUHdtblh1TGVNTkdnZlFhZjhxTVhhTVFfUHNVSThobjIyWWhUZFc0dl85V0h5VkxxMGFnZnNmOTFKVTZOY0trZnNPcGd5S3NwUU9EZUlhV0JUMmJuTmZsdWtkUlpFXzVYNm5Eb2ZQXzN6X3kyRjNWN1BsWks3QUE?oc=5",
   "title": "Zeekr's updated top seller is finally on sale in Australia, with more power - caradvice.com.au",
@@ -1891,7 +2100,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"

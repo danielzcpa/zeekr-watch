@@ -1,5 +1,69 @@
 [
  {
+  "id": "fff2ce97eb6f9265",
+  "key": "mazda",
+  "brand": "Mazda",
+  "url": "https://www.mazda.com.au/offers/",
+  "detected": "2026-11-02T06:44:00+00:00",
+  "added": [],
+  "removed": [
+   "DRIVEAWAY OFFERS",
+   "Great driveaway offers across a wide range of Mazda vehicles are on now."
+  ]
+ },
+ {
+  "id": "ad27d8cae9c159f5",
+  "key": "mg",
+  "brand": "MG / IM",
+  "url": "https://mgmotor.com.au/offers",
+  "detected": "2026-11-02T06:44:00+00:00",
+  "added": [
+   "$3,000 Cash Back∞",
+   "Offer ends 30 November"
+  ],
+  "removed": []
+ },
+ {
+  "id": "1ebc1d7a0dafcbc5",
+  "key": "kia",
+  "brand": "Kia",
+  "url": "https://www.kia.com/au/offers.html",
+  "detected": "2026-11-02T06:44:00+00:00",
+  "added": [
+   "Drive Away estimate from",
+   "$33,490 Plus $2,000 Cashback",
+   "Receive $2,000 cashback",
+   "$2,000 Cashback Offer",
+   "Receive a $2,000 cashback",
+   "$1,000 Cashback Offer",
+   "Receive a $1,000 cashback",
+   "$5,000 Cashback Offer",
+   "Receive $5,000 cashback",
+   "Capable, comfortable, captivating. Reinvigorate your drive with the turbocharged Sorento HEV, offering impressive power and control.",
+   "NO OFFERS WERE FOUND",
+   "Drive Away Offer",
+   "Sportage Diesel & Sorento Diesel Cashback Offer",
+   "1. Offer available at participating Kia dealers on any in-stock new or demonstrator eligible vehicle purchased and delivered between 1 November and 30 November 2026.",
+   "2. The vehicles that are eligible for the offer and the applicable cashback amount are listed below.",
+   "Cashback Amount (Incl. GST)",
+   "3. The cashback amount is redeemable at the time of purchase as a reduction in the vehicle’s purchase price only, to be recorded in the contract of sale.",
+   "4. Offer is not transferable, exchangeable or redeemable for cash.",
+   "5. Private and business buyers only. Offer is not available to fleet, government or rental buyers.",
+   "6. Offer is not available in conjunction with any other offer unless stated otherwise.",
+   "7. Kia Australia reserves the right to vary, extend or withdraw this offer at any time.",
+   "EV3 & EV5 Cashback Offer",
+   "1. Offer available at participating Kia dealers on any in-stock new or demonstrator eligible vehicle purchased and delivered between 1 September and 30 November 2026.",
+   "K4 Cashback Offer",
+   "Tasman Dual Cab Pick-up Cashback Offer",
+   "1. Offer available at participating Kia dealers on any 2025 build in-stock new or demonstrator eligible vehicle purchased and delivered between 1 November and 30 November 2026.",
+   "Tasman Cab Chassis Cashback Offer",
+   "5. ABN holders only. Offer is not available to fleet, government or rental buyers."
+  ],
+  "removed": [
+   "November Offers will be available soon. Please check again later."
+  ]
+ },
+ {
   "id": "ed392c540b233885",
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",

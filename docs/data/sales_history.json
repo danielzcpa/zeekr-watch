@@ -2,7 +2,7 @@
  "months": {
   "2026-09": {
    "label": "September 2026",
-   "fetched": "2026-11-02T06:39:00+00:00",
+   "fetched": "2026-11-02T06:43:21+00:00",
    "source": "https://atlas.carexpert.com.au/latest-dataset",
    "models": {
     "Ford|Ranger": {
@@ -4012,6 +4012,6 @@
    "total": 105393
   }
  },
- "updated": "2026-11-02T06:39:00+00:00",
+ "updated": "2026-11-02T06:43:21+00:00",
  "latest": "2026-09"
 }
