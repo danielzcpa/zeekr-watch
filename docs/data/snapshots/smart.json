@@ -2,10 +2,9 @@
  "key": "smart",
  "brand": "smart",
  "url": "https://www.smart.com.au/",
- "fetched": "2026-11-03T02:40:47+00:00",
- "digest": "81705bf45a582811",
+ "fetched": "2026-11-03T10:04:56+00:00",
+ "digest": "71036630d38cc38b",
  "lines": [
-  "Start saving on tax",
   "Whether saving for your first home or counting down to retirement, you could save on tax by making extra super contributions.",
   "Save tax on a tablet, laptop or phone",
   "You may be able to salary package a device you use mainly for work, helping you save on staying connected.",
@@ -23,5 +22,5 @@
  "money": [
   91661
  ],
- "n_lines": 14
+ "n_lines": 13
 }

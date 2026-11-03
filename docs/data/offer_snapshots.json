@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:55+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:55+00:00",
   "digest": "ae279161c9daf29c",
   "money": [
    1000,
@@ -54,7 +54,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:55+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -74,15 +74,15 @@
  },
  "mini": {
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:55+00:00",
   "lines": []
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-11-03T02:40:47+00:00",
-  "digest": "fe4fa40369e9bd26",
+  "fetched": "2026-11-03T10:04:55+00:00",
+  "digest": "e61481ea23787060",
   "money": [
    1000,
    1500,
@@ -114,7 +114,7 @@
    "Cash Back $7,000∞",
    "Cashback $2,000∞",
    "Cash Back $1,000∞ & Trade In Bonus $2000^",
-   "$3,000 Cash Back∞",
+   "$3,000 Cash Back∞ + 500 Accessories**",
    "Offer ends 30 November",
    "Additional discounts on select new 2025 build MG models. While stocks last.",
    "∞ Cashback offer and Plate Clearance available on selected vehicles sold from participating MG Dealers between 01 Nov to 31 Dec 2026 and delivered between 01 Nov to 31 Dec 2026.",
@@ -141,7 +141,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:55+00:00",
   "digest": "05db3746d520f4c2",
   "money": [
    2000,
@@ -164,14 +164,14 @@
  },
  "mercedes": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:55+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:55+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -195,7 +195,7 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:55+00:00",
   "lines": []
  },
  "byd": {
@@ -206,13 +206,15 @@
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
+  "last_error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+  "last_attempt": "2026-11-03T10:04:55+00:00",
   "lines": []
  },
  "hyundai": {
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:56+00:00",
   "digest": "0ef7bb8ec59ae215",
   "money": [],
   "n_lines": 9,
@@ -230,19 +232,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:56+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:56+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:56+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -254,14 +256,13 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-11-03T02:40:47+00:00",
-  "digest": "81705bf45a582811",
+  "fetched": "2026-11-03T10:04:56+00:00",
+  "digest": "71036630d38cc38b",
   "money": [
    91661
   ],
-  "n_lines": 14,
+  "n_lines": 13,
   "lines": [
-   "Start saving on tax",
    "Whether saving for your first home or counting down to retirement, you could save on tax by making extra super contributions.",
    "Save tax on a tablet, laptop or phone",
    "You may be able to salary package a device you use mainly for work, helping you save on staying connected.",
@@ -281,7 +282,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:56+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -291,7 +292,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:56+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -305,19 +306,19 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:56+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:56+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:56+00:00",
   "digest": "ec14a3464b60e7e1",
   "money": [
    1000,
@@ -402,7 +403,7 @@
   ],
   "n_lines": 8,
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T02:40:47+00:00",
+  "last_attempt": "2026-11-03T10:04:56+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -418,7 +419,7 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-11-03T02:40:47+00:00",
+  "fetched": "2026-11-03T10:04:56+00:00",
   "digest": "b2afee05b597e192",
   "money": [
    6056

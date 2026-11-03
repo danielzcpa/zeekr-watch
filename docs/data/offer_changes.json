@@ -1,5 +1,29 @@
 [
  {
+  "id": "55c5f63300637ba1",
+  "key": "smart",
+  "brand": "smart",
+  "url": "https://www.smart.com.au/",
+  "detected": "2026-11-03T10:04:56+00:00",
+  "added": [],
+  "removed": [
+   "Start saving on tax"
+  ]
+ },
+ {
+  "id": "3550c3d0c260a099",
+  "key": "mg",
+  "brand": "MG / IM",
+  "url": "https://mgmotor.com.au/offers",
+  "detected": "2026-11-03T10:04:55+00:00",
+  "added": [
+   "$3,000 Cash Back∞ + 500 Accessories**"
+  ],
+  "removed": [
+   "$3,000 Cash Back∞"
+  ]
+ },
+ {
   "id": "fff2ce97eb6f9265",
   "key": "mazda",
   "brand": "Mazda",

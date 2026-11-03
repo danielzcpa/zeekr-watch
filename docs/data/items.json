@@ -1,5 +1,575 @@
 [
  {
+  "id": "11b8fffe9a610eb4",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Inner East Review",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVJESWpEZm5QcXNNRzVhY3RaVW5yRHpsRFVHS04xUVJXdERENGNvZ1VUMVdJS2d0WWFqS3locEdsMzFPT0Q5SlNxaGlDbjVYTmk3d0xMd1U4NkxiaS14a0hFSTVIb1Z1d1RQY09DY0lDQUUxUWxUVHhZR2VBaDBXTlQxVGZpalZMX0NNN2FoT1NIX3lxVDRCQQ?oc=5",
+  "title": "Huge update for Tesla Model Y rival exposed - Inner East Review",
+  "text": "Huge update for Tesla Model Y rival exposed Inner East Review",
+  "author": "",
+  "published": "2026-11-03T09:54:39+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "064fcb4c32ef7101",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · EVs & Beyond",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12ZVBVNGdaVHJHbDVuTEVINlRvUU0yVmxLaHdlck9fb1c4RTFCWjdtNHhSOHVLQ295cGpIWlBtdF9JMXVrX212VDNaNFJZOWtOd1RuUDBrOHNFS3p5b0t6c2wzNjIyWFh6ZVRZLWtTczBDcExRZWhEZHFNaw?oc=5",
+  "title": "Tesla and Polestar Australian deliveries up 86% in 2026, with Model Y past 39,000 - EVs & Beyond",
+  "text": "Tesla and Polestar Australian deliveries up 86% in 2026, with Model Y past 39,000 EVs & Beyond",
+  "author": "",
+  "published": "2026-11-03T07:51:27+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla",
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "329df6eb8dfa3bb6",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4bURIV1o5dE1GOWM4UjdNV2hHMnNzbHBjTHJCNF9fVzRnYzJ5X0Q3eFlWSTl5VE9hREFZbjM3bWZsUENNNmdlYWpmV2t5eFZBTW02amRzNWJaQmM?oc=5",
+  "title": "BMW X7 vs Lepas L6 - CarsGuide",
+  "text": "BMW X7 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-03T07:47:39+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "bmw-x7"
+  ],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "201ce043ab2453b9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11YThzeWt2d1htU3BIcllHNmFqU21rRTZwZ2FKR1F5UHQwUmw5UVExajNkWVJ4ZF9NYk5XeEZrSkZsa09nZXk4OUF0VXhGUTg0WWJWU1l6ejkwMjhVd1RmU09rY1Q4NmJkR2RuZnZLaHQ?oc=5",
+  "title": "[Exclusive] China's Zeekr steps up push into Korea's EV market, seeks government relations staff - 머니투데이",
+  "text": "[Exclusive] China's Zeekr steps up push into Korea's EV market, seeks government relations staff 머니투데이",
+  "author": "",
+  "published": "2026-11-03T07:10:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "479bc0503cfafea0",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/tesla-sales-surge-342-per-cent-year-on-year-as-ev-demand-grows",
+  "title": "Tesla sales surge 342 per cent year-on-year as EV demand grows",
+  "text": "Tesla and Polestar have recorded a sharp increase in Australian deliveries according to the October 2026 sales report from the Electric Vehicle Council. The post Tesla sales surge 342 per cent year-on-year as EV demand grows first appeared on WhichCar .",
+  "author": "Michael Pickering",
+  "published": "2026-11-03T06:41:35+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla",
+   "polestar"
+  ],
+  "categories": [
+   "software",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "b7a514a77feb9ce5",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/new-volkswagen-troc-confirmed-for-australia-early-2027",
+  "title": "New Volkswagen T-Roc confirmed for Australia in early 2027",
+  "text": "Volkswagen's next-generation compact SUV will introduce mild-hybrid technology, fresh styling and upgraded safety and infotainment features. The post New Volkswagen T-Roc confirmed for Australia in early 2027 first appeared on WhichCar .",
+  "author": "Michael Pickering",
+  "published": "2026-11-03T05:56:22+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [
+   "software",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "7f4e82435852913c",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-kia-ev5-leaked-facelift-set-to-bring-tech-dynamic-upgrades",
+  "title": "2027 Kia EV5 leaked: Facelift set to bring tech, dynamic upgrades",
+  "text": "The 2027 Kia EV5 has broken cover in Australian Design Rule (ADR) certification documents, with subtle styling upgrades to be among a series of upgrades for the mid-size electric SUV. Kia Australia has previously confirmed the facelifted EV5 will arrive locally in mid-2027. The documents list carryover 64.2kWh and 88.1kWh lithium iron phosphate (LFP) batteries, but a power increase of 15kW for single-motor front-wheel drive variants (to 175kW) and 19kW for dual-motor all-wheel drive variants (to 249kW). Torque figures aren't listed, but the current Australian-market EV5 uses a 160kW/310Nm front motor, joined by a 70kW/170Nm rear motor in all-wheel drive variants, which have a total system output of 230kW and 480Nm. There continues to be a choice of 18-, 19- or 20-inch alloy wheels depending on the variant, while tare weight is up by between 21kg and 52kg and braked towing capacity for the base Standard Range variant has been increased from 300kg to 750kg; it remains 1250kg for all other variants. It's unclear if range figures will change with the update. The current EV5 has a claimed 400km of range with the smaller of its two batteries, and between 470km and 555km with the Long Ran",
+  "author": "William Stopford",
+  "published": "2026-11-03T05:55:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "69652015327e5c0f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Gasgoo",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc1o0TU1ZdWEzRXAxY2JVU3E3WktJZlNjRk5ORllpTG52M2xvTXVtdElwMXdxVjZFalNCLU1rLUZnQjlEaWhoYXQxb3RiSUNZZnVITUt4UlV3NnRNeFktZlRLRmo2d2JFeFhiOUdKblg3QVJHYUFLdENDc0VaajRKUWR3dkNsc0lhWGFtMnI1Uk8wUHY5VnlNV0swbUt6ZlVDenZySFI4UUxOaUdxejhmQ2c0Q20xUU9QUHJMRGloclkwUUZ0eWk2dWItRTFmeVpkTDkxRDVVU19KVjFXSzlXbGdxTE5TdGVTOENqRmhR?oc=5",
+  "title": "ZEEKR October Deliveries Reach 32,483 Units, Up 51.6% YoY, Exceeding Annual Target Ahead of Schedule - Gasgoo",
+  "text": "ZEEKR October Deliveries Reach 32,483 Units, Up 51.6% YoY, Exceeding Annual Target Ahead of Schedule Gasgoo",
+  "author": "",
+  "published": "2026-11-03T05:49:11+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "560912dcea150bf2",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/03/tesla-sales-dip-in-october-but-model-y-remains-well-ahead-of-last-year/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-sales-dip-in-october-but-model-y-remains-well-ahead-of-last-year",
+  "title": "Tesla sales dip in October, but Model Y remains well ahead of last year",
+  "text": "Tesla sales dipped in October as the EV giant's familiar quarterly delivery cycle continued. Meanwhile, Polestar also recorded a quieter month as its Australian sales continue to lag behind 2025. The post Tesla sales dip in October, but Model Y remains well ahead of last year appeared first on The Driven.",
+  "author": "Sam Parkinson",
+  "published": "2026-11-03T05:48:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla",
+   "polestar"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "63444fb571e926f6",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarNewsChina.com",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemhsaDl4akE2Y3pBYXRQU2EtRUhGaEhKajJpSk0tZ2d1R1ZacW55dEtjVVJQVG5xUFBJbGlmUUtUeGJwdHdXSVUtcFFTS3A1QmdPeUR5dmN3elg5R0hxVTNtM2xyOGtLR3Frc3U0WTVGZlBQdTBZRFN4Zlk2ckN2YjZpaXNBRC1HR2tYVG1GSEQ?oc=5",
+  "title": "Updated Zeekr 7X was seen in China ahead of launch - CarNewsChina.com",
+  "text": "Updated Zeekr 7X was seen in China ahead of launch CarNewsChina.com",
+  "author": "",
+  "published": "2026-11-03T05:32:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "46093f93b121863e",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/chevrolet-corvette-suv-sedan-plans-scrapped-report",
+  "title": "Chevrolet Corvette SUV, sedan plans scrapped – report",
+  "text": "General Motors (GM) has reportedly killed plans to expand the Chevrolet Corvette range, axing a proposed Corvette sub-brand including an electric four-door Corvette to rival the Porsche Taycan , and even a Corvette SUV. According to GM Authority , plans for a Corvette sub-brand were drawn up by parent company GM in 2022 and included new, potentially higher-volume spin-offs from the C8 Corvette sports car launched two years earlier. The report from GM Authority said it would involve several new models built upon the ‘GM BEV [Battery Electric Vehicle] Prime Platform’. This was said to be a more premium version of GM’s BEV3 platform used on the Cadillac Lyriq , Optiq and Vistiq electric SUVs currently sold in Australia. Key among the extended Corvette family was an electric SUV, internally codenamed ‘V284’, which would apply Corvette ‘design language’ to a crossover-type SUV. This may have followed a similar approach to the Ford Mustang Mach-E electric SUV sold here, which shares only its name and some key design elements with the Mustang sports car, as the US car giant looked to capitalise on the growth of SUV sales in key countries. In 2023, SUVs made up 48 per cent of new-car sales",
+  "author": "Damion Smy",
+  "published": "2026-11-03T05:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "ford-mach-e"
+  ],
+  "brands": [
+   "ford",
+   "porsche"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "644cbeea6a8c914b",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · BabyDrive",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yM01jRHFEbGhyWnBJbldhMDZtaTF4QnpyeTF4OVFVM28zbVp5c2VaeE1yTGxuR0JBVWJSeGsyS1k0UXhLSGo2X2NlQll1UmEtOC1WZkUycnc5N0VkaHJzbWkxLVRmd2M?oc=5",
+  "title": "BYD Atto 8 seven-seat electric SUV revealed in Paris - BabyDrive",
+  "text": "BYD Atto 8 seven-seat electric SUV revealed in Paris BabyDrive",
+  "author": "",
+  "published": "2026-11-03T04:49:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "6d1c18834a40d880",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/from-hybrid-zero-to-toyota-rival-mazda-plots-petrol-electric-suv-expansion-beyond-cx-5/",
+  "title": "From hybrid zero to Toyota rival? Mazda plots petrol-electric SUV expansion beyond CX-5",
+  "text": "Mazda CX-5 Hybrid arrives globally in 2027 as Mazda explores bringing its hybrid technology to larger SUVs including the CX-60, CX-70, CX-80 and CX-90. The post From hybrid zero to Toyota rival? Mazda plots petrol-electric SUV expansion beyond CX-5 appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-03T04:27:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "mazda"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "117f0af8cf5d96eb",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEhFZ2xsTkNnaUIzeU16Ty1aNW5DVGxZcnBBY01hb1FHU0xCcHpTRDYza3BLUWViRlExRnhNTFBBU3Q3a3RzeUxEQ2drakRTSXhnbEpGZ1BoeE1MZkVLZno5RzVLM3BYd004NFFTaURyRVkwZFV4ejFxNkY4dVJhMVFoUHhwTTNaVFhmUEd1Sk5UQ196RFdzVllzMA?oc=5",
+  "title": "GAC Aion UT and XPeng X9 score five stars - Carsales",
+  "text": "GAC Aion UT and XPeng X9 score five stars Carsales",
+  "author": "",
+  "published": "2026-11-03T03:03:47+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-x9"
+  ],
+  "brands": [
+   "xpeng",
+   "gac"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "d5f637183c8cc0c0",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/cheaper-ford-ute-to-slot-under-ranger-in-global-markets-potentially-including-australia",
+  "title": "Cheaper Ford ute to slot under Ranger in global markets, potentially including Australia",
+  "text": "Ford has confirmed it will soon release another new ute and it’s a chance for Australia, where it could slot in under the top-selling Ranger as a more affordable alternative. “Next year, we will be launching our affordable midsize pickup for international markets. We expect the base material costs for this truck to be 20 per cent lower than today's Ranger,” said Ford CEO Jim Farley in a third-quarter 2026 earnings call. “Just as Maverick has done in the US, this truck is designed to bring new customers into the Ford truck lineup internationally at a cost structure that allows us to compete, in this case with the Chinese.” Ford Australia had no comment, but Mr Farley’s reference to international markets indicates this is a model for sale outside North America, which opens up the possibility of an Australian launch. In discussing this unnamed “affordable midsize pickup”, Mr Farley wasn’t referring to the previously confirmed electric Fathom dual-cab, which he discussed further in the earnings call. This new model will be built in the US, and a right-hand drive export program has yet to be confirmed. The CEO’s reference to lower production costs and competing with Chinese automakers s",
+  "author": "William Stopford",
+  "published": "2026-11-03T02:44:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "9443a47dfbdd8ef2",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/cherys-new-lepas-brand-wont-rule-out-price-cuts",
+  "title": "Chery's new Lepas brand won't rule out price cuts",
+  "text": "Unlike recent trends from several Chinese manufacturers, Chery's new Lepas brand has launched with a more expensive 'premium' positioning, but cheaper models are on the way. The only Lepas vehicle available at launch is the L6 electric SUV, available in one highly specified 'Signature' trim and priced at $47,990 before on-road costs. That's more than the related top-spec Jaecoo J7 , and the base version of the larger Jaecoo J8 once on-road costs are applied, as well as the top-spec Chery Tiggo 8 plug-in hybrid. It's also more than key rivals like the BYD Atto 3 and Geely EX5 . \"There’s a plan for a sub-model, a ‘Classic’ version, but at the moment, we’re sticking to the single variant, and we’ll do that as hard as we can until it’s run its course and there’s a need for another one,\" Lepas Australia boss Brad Ryan told CarExpert at the brand's local launch. Asked whether price cuts could come for the L6 Signature, Mr Ryan wouldn't rule anything out. \"Look, you never say never; nothing is fixed forever; the only constant is change. Pick your metaphor,\" he told CarExpert . \"We have no plans at the moment; we’re not even considering price changes.\" Additionally, Mr Ryan acknowledged ri",
+  "author": "Max Davies",
+  "published": "2026-11-03T02:35:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "price",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price_rise",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
   "id": "5798b16c5d625476",
   "type": "news_zeekr",
   "source": "gn-ev-launch-au",
@@ -30,6 +600,39 @@
   "signals": [
    "launch",
    "offer"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "264ad1074ffe386d",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU92VmpyVmdkU2xTcGd6Q1liMWp1T1FTLW56OTMwQ2lnSS1qc3h1QXVieV9OeDV2Y1lqcjdOSmM0Z3JZU1V3T1I4M3YzTVRwb0kyYjVlVVBBWEFmQXgyLVFIUWZ2a2pfZ1RmUlJ2bzZHNVRMTk0yblZ5RmpHWmtaN2JneUdfVlMxSUNj?oc=5",
+  "title": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech - CarSauce",
+  "text": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech CarSauce",
+  "author": "",
+  "published": "2026-11-03T02:07:04+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
   ],
   "scope": "competitor",
   "au": true,
@@ -75,21 +678,21 @@
   "first_seen": "2026-11-03T02:35:13+00:00"
  },
  {
-  "id": "264ad1074ffe386d",
+  "id": "3e00d44e3787cc05",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · CarSauce",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU92VmpyVmdkU2xTcGd6Q1liMWp1T1FTLW56OTMwQ2lnSS1qc3h1QXVieV9OeDV2Y1lqcjdOSmM0Z3JZU1V3T1I4M3YzTVRwb0kyYjVlVVBBWEFmQXgyLVFIUWZ2a2pfZ1RmUlJ2bzZHNVRMTk0yblZ5RmpHWmtaN2JneUdfVlMxSUNj?oc=5",
-  "title": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech - CarSauce",
-  "text": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech CarSauce",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDNoVG16M3p6c0YzWnRfVmM4cUNJTXZSWWJ3QVotTnYyR3JBWTVCZlozX0ZtV3NaUkZqLXU4MnNscFZ6S0p6eV9NZTZVRlYxek5zLUNlWQ?oc=5",
+  "title": "BYD Sealion 5 price and specs: every variant compared - EV Central",
+  "text": "BYD Sealion 5 price and specs: every variant compared EV Central",
   "author": "",
-  "published": "2026-11-03T01:37:03+00:00",
+  "published": "2026-11-03T01:08:22+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [],
   "brands": [
-   "volkswagen"
+   "byd"
   ],
   "categories": [],
   "sentiment": {
@@ -102,10 +705,10 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "industry",
   "au": true,
   "extra": {},
-  "first_seen": "2026-11-03T02:35:13+00:00"
+  "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
   "id": "ed421ece6433d105",
@@ -145,6 +748,39 @@
   "first_seen": "2026-11-03T02:35:13+00:00"
  },
  {
+  "id": "3437b8882e01f3e5",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1QLTZneXFtSWU0Z05hb2xDaVdLY3RhZURXSGhMdUJTY0hjaFM3THhYSjNhRmE2bUttRTFEZlhiMTRPb0QtNUtjbTZMbXpmRnFZRG5kVWxVVnZ5MDVoOHpqUkdWTDQ2YnJ3SllUcWItX0RtSmNFalpqSktKNFlfT3hZelp3aEVobXhZRzlSb0YtcXdPMGJxOGlYcTZuQ0FZNHl2SlhuYk05NWdrQ1BkdEN0bHk1bEFkRmFpSDlENU1sa1d3bFJn?oc=5",
+  "title": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a full-hybrid-only line-up. - CarsGuide",
+  "text": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a full-hybrid-only line-up. CarsGuide",
+  "author": "",
+  "published": "2026-11-03T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
   "id": "ab31ad9cae08d818",
   "type": "complaint",
   "source": "reddit-Zeekr7xAustralia",
@@ -179,6 +815,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "de978c169fe789b3",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0NsM29BQXpYbFEtbHZuM3NXVGptOWJkb2tmVkFpWGZrV0haSHJIdUpJSUhQTmdJUk04Qkl3U25NY2dNdkcxNEUwc0JGcXdTWDF1aE05LV8yNFlhRFhtVXlyS2hqVDJYckhjMUxBdlZVSFFNcWFEaW5rUDJkYy1JbWZZWDBCcXBZY1k3a3lGZDhRT3l4RkxtRk1rUnotajJRNFZ0bERXU2NpZ3p6NjZ3bDRSM2V2NUJLU1NjQ3BuX0pDQnhLV2c?oc=5",
+  "title": "VW's iconic car on life support: Volkswagen ID.Golf electric car paused as brand runs out of money for 2026 Kia EV4, Leapmotor B05 rival - CarsGuide",
+  "text": "VW's iconic car on life support: Volkswagen ID.Golf electric car paused as brand runs out of money for 2026 Kia EV4, Leapmotor B05 rival CarsGuide",
+  "author": "",
+  "published": "2026-11-03T00:38:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev4"
+  ],
+  "brands": [
+   "kia",
+   "volkswagen"
+  ],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
  },
  {
   "id": "a1d038a52f9d3cc7",
@@ -321,6 +993,72 @@
   "first_seen": "2026-11-02T20:13:07+00:00"
  },
  {
+  "id": "da41f5c05f70ad4a",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MZTZGc3p6ZGFoWVRETkY0QmtGT2JWeGFxZTFjZ3FRZ1lrR1l1QVdOT0JiVFIxUHV4cUtTTS0teTFSRHJvd2owbnhFMlhnaGR1ZGYwcXdRNjRWaWxvdlE?oc=5",
+  "title": "BYD Seal vs Lepas L6 - CarsGuide",
+  "text": "BYD Seal vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-02T16:11:25+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "b3d93dc68a219878",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUpyU2REeFNVNkR3LVNaQkFHd3NYYWNiWFhBQVpoTklUR1hVX0ZKWlZlSXRIcG9wNmlYcWc3NzNLV09vbWVWbXdjb0RKNzZqVm1HUlRGYnRxV0JOYlJVamprU3NURDRzMnNXbFNqWTdsR3VJRzFYUmJPaWhxSDlrUWFVNjNiUWQzcS1UNXVBbHAtMDZON3ZLSQ?oc=5",
+  "title": "Comparison: Chery Tiggo 9 PHEV vs Kia EV6 - Autohled.cz",
+  "text": "Comparison: Chery Tiggo 9 PHEV vs Kia EV6 Autohled.cz",
+  "author": "",
+  "published": "2026-11-02T15:13:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
   "id": "74f69284d785fe51",
   "type": "news_zeekr",
   "source": "carexpert",
@@ -429,7 +1167,7 @@
  {
   "id": "7389d244a24d8fa5",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · GoAuto.com.au",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHJDVksxdTh6UmV1NW56MkVwekh6aTczdmsyWWotbGdqSVhTN3hXX0dqV0lIY2p1UGd0d29DVVpXcDY0cnNIbUpBN0dmUlpPVzVMaHo0MUZjLUMxbmE4Y0xRcXZBV2V4NHRWMTh3dGNKM2NOMmtjZUxqdW4zRDAwY3BXSy0xTFMxWldCNXhNaHFjZVFVaWJWR0N2TkMtYmE3VzBpUjVXWWpBVkFodTVWSlFpSlRLYTVWZzhyVHpBU0NLZw?oc=5",
   "title": "Hyundai Staria Load expectations revealed - GoAuto.com.au",
@@ -491,6 +1229,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "96526a0862398ec9",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · BabyDrive",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yelhYWjJuLWRmMDFDeUFJT2JYUmVocHJ1LW1LdjdIYzlPYl9QLXl6UmpHVWwzTVFHSkpmWmtRQjdDUmxuTmc0VGlmV2hiSmM2anZRVW95NFRIeVVtYm9BSUE1V1BMbEF2ck5FMQ?oc=5",
+  "title": "XPeng G9L three-row SUV coming! - BabyDrive",
+  "text": "XPeng G9L three-row SUV coming! BabyDrive",
+  "author": "",
+  "published": "2026-11-02T07:48:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g9l"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
  },
  {
   "id": "5459ad877b8d39e5",
@@ -762,7 +1533,7 @@
  {
   "id": "75ddebb2361855ab",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkotbXE3UVlHYVV3cHJnNmYzYmRmcWZPc3NUNmlUcnR0eE5ELUJMTUFUV29lby1YbkJIZjU4Q2xsTkZfYmg4SWpKXzJpbFl6VzBKZWhHWXNIeWlTZEp4YnEwbjBnRmRMQ2hlanBxcHdvSURYaXFTcDBZelVja3NYUmJOclUtdWE0Vmt6Ukc0dkNFdS0yclhVZGlBS29NcXl0OHdNUHU1MEM2NWlfT0hMV2cyekRFbFg4d1lJXzlNOEhPdjBy?oc=5",
   "title": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs - CarsGuide",
@@ -790,7 +1561,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
@@ -1099,6 +1870,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
+ },
+ {
+  "id": "05037bbd586d095b",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDkzaTZOdGk1ZXIzeDNDMHhNMlpObHlpNk5tdVc1SkpCS3ltdzlWeGhfS0FTcTEwM0hxRkc0UFROdmtSako4Q1JNbWpob3dPU1VwVjd1Tml5eXhzOGtiZ2szLVg2RzVRZWFtS1hnVUxUeDdQa0dCZlpCN1F0dTNLT0lqR0ltNWQyUkN3WDFjS25Mblo2Vm5saFEwNWhPcWtTRmxDbzhmcU4?oc=5",
+  "title": "Vergleich: Porsche Cayenne vs Mercedes-Benz GLS - Autohled.cz",
+  "text": "Vergleich: Porsche Cayenne vs Mercedes-Benz GLS Autohled.cz",
+  "author": "",
+  "published": "2026-11-01T23:43:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gls"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "porsche"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T09:58:38+00:00"
  },
  {
   "id": "92693eb4e9cb184a",
@@ -2688,39 +3493,6 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
-  "id": "3e00d44e3787cc05",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDNoVG16M3p6c0YzWnRfVmM4cUNJTXZSWWJ3QVotTnYyR3JBWTVCZlozX0ZtV3NaUkZqLXU4MnNscFZ6S0p6eV9NZTZVRlYxek5zLUNlWQ?oc=5",
-  "title": "BYD Sealion 5 price and specs: every variant compared - EV Central",
-  "text": "BYD Sealion 5 price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-31T15:02:35+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
   "id": "477682d9a518ae53",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -2762,7 +3534,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/2027-zeekr-7x-update-more-power-same-price",
   "title": "2027 Zeekr 7X update: More power, same price",
-  "text": "The 2027 Zeekr 7X electric SUV features a few minor exterior and interior tweaks, as well as a more powerful set of electric motors. Visually there's little to distinguish the 2027 model from earlier iterations. Those with eagle eyes might notice the revised front air intakes, narrower active grille shutter and redesigned rear diffuser. The rear licence plate has been moved from the bumper to the tailgate, and a new colour scheme has been added: Tech Grey paint for the lower body with a black roof. Inside there's a reworked centre console with repositioned cupholders, and an additional storage space. The three-tier model structure, as well as the pricing, are unchanged. The RWD model kicks things off at $57,900, the Long Range RWD sits in the middle with a $63,900 sticker price, and the Performance AWD tops things off at $72,900. All listed prices exclude on-road costs. All three models have updated motors, boosting power by 25kW and torque by 80Nm. Battery specs are unchanged, with the RWD supporting DC fast charging up to 450kW and the other models going up to 420kW. AC charging maxes out at 22kW. Australia, as well as Europe, misses out on the 900V electrical architecture used i",
+  "text": "UPDATED 03/11/2026 12:00pm: Zeekr Australia has revised the launch offer for the 2027 7X. Instead of applying only to the first 2000 orders, it now applies to orders placed between November 1 and December 31, 2026. The 2027 Zeekr 7X electric SUV features a few minor exterior and interior tweaks, as well as a more powerful set of electric motors. Visually there's little to distinguish the 2027 model from earlier iterations. Those with eagle eyes might notice the revised front air intakes, narrower active grille shutter and redesigned rear diffuser. The rear licence plate has been moved from the bumper to the tailgate, and a new colour scheme has been added: Tech Grey paint for the lower body with a black roof. Inside there's a reworked centre console with repositioned cupholders, and an additional storage space. The three-tier model structure, as well as the pricing, are unchanged. The RWD model kicks things off at $57,900, the Long Range RWD sits in the middle with a $63,900 sticker price, and the Performance AWD tops things off at $72,900. All listed prices exclude on-road costs. All three models have updated motors, boosting power by 25kW and torque by 80Nm. Battery specs are unc",
   "author": "Derek Fung",
   "published": "2026-10-31T14:05:00+00:00",
   "rating": null,
@@ -2776,7 +3548,7 @@
    "quality",
    "software",
    "charging",
-   "service"
+   "delivery"
   ],
   "sentiment": {
    "score": 0,
@@ -2787,6 +3559,7 @@
   "severity": null,
   "signals": [
    "launch",
+   "offer",
    "price"
   ],
   "scope": "industry",
@@ -3274,7 +4047,7 @@
  {
   "id": "5a731d55383ae097",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQ080ZHNtbVJuY3Z5dkZZYUJ2Sm1veGNTR3ZSZFpnd2pBc2xJbG9YcTRUR0RyNUw4SFdkellrQWRqN0RVeE1tS0p5MDRtNzVRdXlEZzZNZUtYR1hvekxGUG1POVFrUXhjZ1dwbldWckt0YnRW?oc=5",
   "title": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested - CarsGuide",
@@ -3303,7 +4076,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
@@ -27510,7 +28283,8 @@
    "byd",
    "polestar",
    "geely",
-   "denza"
+   "denza",
+   "ldv"
   ],
   "categories": [
    "quality"
