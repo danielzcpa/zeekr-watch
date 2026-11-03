@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-03T17:41:23+00:00",
- "duration_s": 402.9,
- "items_total": 1296,
- "new_this_run": 160,
+ "generated": "2026-11-03T23:12:04+00:00",
+ "duration_s": 350.1,
+ "items_total": 1300,
+ "new_this_run": 218,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 8,
-  "complaints_30d": 34,
+  "complaints_30d": 33,
   "high_7d": 3,
   "medium_7d": 2,
   "low_7d": 3,
-  "competitor_news_7d": 118,
+  "competitor_news_7d": 119,
   "launch_signals_7d": 24,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 57,
+  "offer_signals_7d": 3,
+  "zeekr_news_7d": 55,
   "offer_page_changes_7d": 15
  },
  "series_30d": [
@@ -44,7 +44,7 @@
   {
    "date": "2026-10-09",
    "complaints": 1,
-   "competitor_news": 15,
+   "competitor_news": 14,
    "zeekr_news": 3
   },
   {
@@ -170,32 +170,32 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 16,
+   "competitor_news": 15,
    "zeekr_news": 10
   },
   {
    "date": "2026-10-31",
    "complaints": 3,
-   "competitor_news": 14,
+   "competitor_news": 12,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 22,
+   "competitor_news": 19,
    "zeekr_news": 10
   },
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 16,
+   "competitor_news": 18,
    "zeekr_news": 10
   },
   {
    "date": "2026-11-03",
    "complaints": 1,
-   "competitor_news": 21,
-   "zeekr_news": 5
+   "competitor_news": 28,
+   "zeekr_news": 7
   }
  ],
  "categories_30d": [
@@ -203,31 +203,31 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 23
+   "n": 22
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 11
+   "n": 10
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 11
+   "n": 10
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 9
+   "n": 8
   },
   {
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 8
+   "n": 7
   },
   {
    "key": "sales",
@@ -254,7 +254,7 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 13,
+  "Reddit r/Zeekr7xAustralia": 12,
   "Google Play (AU)": 10,
   "Reddit r/AustralianEV": 3,
   "Reddit r/Zeekr": 3,
@@ -274,7 +274,9 @@
   },
   "smart-1": {
    "n_30d": 1,
-   "launch": [],
+   "launch": [
+    "93695976e0a8ea29"
+   ],
    "offer": [],
    "latest": "93695976e0a8ea29"
   },
@@ -333,7 +335,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 27,
+   "n_30d": 28,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -347,7 +349,7 @@
    "offer": [
     "36b6bc6c0c756e02"
    ],
-   "latest": "c85cabfe92c013bc"
+   "latest": "cc49fc3f5de9e799"
   },
   "xpeng-g6": {
    "n_30d": 5,
@@ -402,17 +404,17 @@
   "polestar-4": {
    "n_30d": 5,
    "launch": [
+    "db98b7fc96217946",
     "a1259168a41994e1",
     "6e80e7d18d3e2014",
     "0c648b1890f77652",
     "b5320554ddc5f545",
-    "db98b7fc96217946",
     "ef422204f206a3de"
    ],
    "offer": [
     "ef422204f206a3de"
    ],
-   "latest": "a1259168a41994e1"
+   "latest": "db98b7fc96217946"
   },
   "volvo-ex40": {
    "n_30d": 1,
@@ -537,7 +539,7 @@
    "latest": "9c17ca6e0e68d5e3"
   },
   "byd-seal": {
-   "n_30d": 10,
+   "n_30d": 11,
    "launch": [
     "1449d41803c59183",
     "977de602e7893c4e",
@@ -550,7 +552,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "da41f5c05f70ad4a"
+   "latest": "ef19d3a55d877477"
   },
   "im5": {
    "n_30d": 2,
@@ -943,6 +945,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "9cf83e3d30e44365",
+   "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-03T07:47:43+00:00",
+   "competitors": [
+    "mb-gle"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "7f4e82435852913c",
    "title": "2027 Kia EV5 leaked: Facelift set to bring tech, dynamic upgrades",
    "source": "CarExpert",
@@ -989,6 +1001,16 @@
    "t": "2026-11-02T10:35:34+00:00",
    "competitors": [
     "hyundai-staria"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "db98b7fc96217946",
+   "title": "Polestar 4 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-02T08:00:00+00:00",
+   "competitors": [
+    "polestar-4"
    ]
   },
   {
@@ -1107,54 +1129,28 @@
    ]
   },
   {
-   "kind": "competitor_launch",
-   "id": "9cf83e3d30e44365",
-   "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-01T15:35:45+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
-  },
-  {
    "kind": "offer_page_change",
    "id": "85529cdab4aaaf46",
    "title": "MG / IM 官网政策页面变化（+12 / −9 行）",
    "title_en": "MG / IM offer page changed (+12 / −9 lines)",
    "source": "https://mgmotor.com.au/offers",
    "t": "2026-11-01T00:27:45+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "87a076a4c12d482d",
-   "title": "Kia 官网政策页面变化（+1 / −25 行）",
-   "title_en": "Kia offer page changed (+1 / −25 lines)",
-   "source": "https://www.kia.com/au/offers.html",
-   "t": "2026-10-31T21:28:49+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "95627e0e3c5a978b",
-   "title": "MG / IM 官网政策页面变化（+6 / −3 行）",
-   "title_en": "MG / IM offer page changed (+6 / −3 lines)",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-10-31T17:59:36+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 77,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 39,
+   "count": 35,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1164,7 +1160,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 55,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1174,7 +1170,7 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 78,
+   "count": 75,
    "note": ""
   },
   "gn-ev-launch-au": {
@@ -1184,22 +1180,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 19,
+   "count": 20,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 24,
+   "count": 45,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 34,
+   "count": 32,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 60,
+   "count": 100,
    "note": ""
   },
   "carexpert": {
@@ -1283,24 +1279,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
