@@ -1,5 +1,135 @@
 [
  {
+  "id": "0596b69307d5f82f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Macau Business",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjRoWVdXdjZHSC1ZMHpvWEZ1R2NCNEh0ZHFkaVI5dFdRTEx0bkpoWnFOMFE4VjdmU2JMY21NcFNzS0l1WW5WWk9Md2FFQy14eTYxYUpkQk5DaVV6R1Rzbmg4dDhDQWo2UHo4clVqQ09Yay1TMnlDVVVUWXVXb0VzRjYzMk1pUDVVQ2EyMU1MV3gzUWM2NlA2Z1lNbk1uUDFLSHczUUhzNmw?oc=5",
+  "title": "Government of Antigua and Barbuda Receives 20 Zeekr 7X Vehicles for CHOGM 2026 - Macau Business",
+  "text": "Government of Antigua and Barbuda Receives 20 Zeekr 7X Vehicles for CHOGM 2026 Macau Business",
+  "author": "",
+  "published": "2026-11-03T17:03:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
+  "id": "95a4e2fb371a92bc",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/so-close-tesla-closes-on-australian-sales-record-despite-october-slowdown/",
+  "title": "So close! Tesla closes on Australian sales record despite October slowdown",
+  "text": "Tesla is just 362 deliveries from a new Australian sales record despite October slowing to 4050 vehicles, its quietest month since April. The post So close! Tesla closes on Australian sales record despite October slowdown appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-03T12:13:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
+  "id": "49fb2b1f5dea6e15",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16RlVqcUkxQWw0YmdQMGduMC1TUDExaU1fTUVIaWRaX09ZSDZUQlBzU21qbEF2ZHloM1ktcXVCTTVQY1JteEctaUV3YjNfeUV6Y3MwZlRUbl9DbDc5S2V6b0dhWXMxQm1xQ0VMRmFHa2RwemFYMVE?oc=5",
+  "title": "China's Year-End Sales Push Begins: Leapmotor and Zeekr Hit Targets Early as Most Automakers Fall Short - BigGo Finance",
+  "text": "China's Year-End Sales Push Begins: Leapmotor and Zeekr Hit Targets Early as Most Automakers Fall Short BigGo Finance",
+  "author": "",
+  "published": "2026-11-03T10:36:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
+  "id": "c85cabfe92c013bc",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGlZcW42ZjZmTFZYa0ZtaHU2ZUoxOWVJWUlmNk1aRmFEWnBERmVlVjJUM1hGR0Zzc3EwYXZIZHlxLXlNMlFjNHpBcjVmLUJVYlkxYTFVNTdBUlcycG9aRDQ0cFBWc3JMR1A5MThPVnkwRGtxQ056eTVyRDR2Wm52SC1OVTNDSFFnU2lxR2piX1k3VG5wcnliWnZTQWgxQQ?oc=5",
+  "title": "Huge update for Tesla Model Y rival exposed - St George & Sutherland Shire Leader",
+  "text": "Huge update for Tesla Model Y rival exposed St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-11-03T10:01:16+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
   "id": "11b8fffe9a610eb4",
   "type": "competitor_news",
   "source": "gn-ev-launch-au",
@@ -456,6 +586,43 @@
   "first_seen": "2026-11-03T09:58:38+00:00"
  },
  {
+  "id": "886034b5fd5c6b65",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGJOSHktWG1NLV9BTHkwakNrc1JranNVdC1ZODFDZC1RcTdDbmtUMW1qRGMzTGJ4T25nSFExNkZld05aMFpqRDFLTHU2YlBjUzFMMTROalJaT3pOSTlrRDV2MkV0TWY4cl9SMEJkbHJHeVRRTFNjcC0yUGQzZTk3UmVnaWhwVEU0RmJKUEw2TFF2VDFILXpZRmhaa0YyTTNiUWItLWhKTXhfdmhocmNzTGRJaVlMOG1YNW1FLUk0M0pFUTJ3?oc=5",
+  "title": "2027 Kia EV5 receives more power to rival 2026 Hyundai Elexio, Tesla Model Y electric mid-size SUVs - CarsGuide",
+  "text": "2027 Kia EV5 receives more power to rival 2026 Hyundai Elexio, Tesla Model Y electric mid-size SUVs CarsGuide",
+  "author": "",
+  "published": "2026-11-03T03:51:40+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "kia-ev5",
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "kia",
+   "hyundai",
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
   "id": "117f0af8cf5d96eb",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -570,43 +737,6 @@
   "first_seen": "2026-11-03T09:58:38+00:00"
  },
  {
-  "id": "5798b16c5d625476",
-  "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
-  "source_name": "Google News · CarSauce",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1FXTm9uS0lZUC1fMUFOb29tcmpwSVI5T1ZSSTdtNUNSQW1odVlBMTYzTXY0UFFFYllQTnoyTEFMcmY0b2F6MTZCX0NMNEpiRXVFRHhZVWoyR3pWMnhzbUgzRFNOR0RGTVNFWmdVdm1PR1FhQVdyTllMb2FScFV6TmgwZzg?oc=5",
-  "title": "2027 Zeekr 7X Launch Offer: Free Wallbox Deal Loses 2000-Order Cap - CarSauce",
-  "text": "2027 Zeekr 7X Launch Offer: Free Wallbox Deal Loses 2000-Order Cap CarSauce",
-  "author": "",
-  "published": "2026-11-03T02:07:04+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging",
-   "delivery"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch",
-   "offer"
-  ],
-  "scope": "competitor",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-11-03T02:35:13+00:00"
- },
- {
   "id": "264ad1074ffe386d",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -676,6 +806,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "41b7fd938995b248",
+  "type": "post",
+  "source": "reddit-AustralianEV",
+  "source_name": "Reddit r/AustralianEV",
+  "url": "https://www.reddit.com/r/AustralianEV/comments/1xmgga5/2027_zeekr_7x_launch_offer_free_wallbox_deal/",
+  "title": "2027 Zeekr 7X Launch Offer: Free Wallbox Deal Loses 2000-Order Cap",
+  "text": "",
+  "author": "/u/imissholden",
+  "published": "2026-11-03T02:01:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
  },
  {
   "id": "3e00d44e3787cc05",
@@ -750,11 +917,11 @@
  {
   "id": "3437b8882e01f3e5",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1QLTZneXFtSWU0Z05hb2xDaVdLY3RhZURXSGhMdUJTY0hjaFM3THhYSjNhRmE2bUttRTFEZlhiMTRPb0QtNUtjbTZMbXpmRnFZRG5kVWxVVnZ5MDVoOHpqUkdWTDQ2YnJ3SllUcWItX0RtSmNFalpqSktKNFlfT3hZelp3aEVobXhZRzlSb0YtcXdPMGJxOGlYcTZuQ0FZNHl2SlhuYk05NWdrQ1BkdEN0bHk1bEFkRmFpSDlENU1sa1d3bFJn?oc=5",
-  "title": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a full-hybrid-only line-up. - CarsGuide",
-  "text": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a full-hybrid-only line-up. CarsGuide",
+  "title": "2027 Volkswagen T-Roc confirmed to launch in Australia as new hybrid-only rival to Hyundai Kona and Kia Seltos small SUVs - CarsGuide",
+  "text": "2027 Volkswagen T-Roc confirmed to launch in Australia as new hybrid-only rival to Hyundai Kona and Kia Seltos small SUVs CarsGuide",
   "author": "",
   "published": "2026-11-03T01:00:00+00:00",
   "rating": null,
@@ -762,6 +929,8 @@
   "models": [],
   "competitors": [],
   "brands": [
+   "kia",
+   "hyundai",
    "volkswagen"
   ],
   "categories": [],
@@ -1097,6 +1266,44 @@
   "first_seen": "2026-11-02T20:13:07+00:00"
  },
  {
+  "id": "3c1a728c47ac118f",
+  "type": "deal",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
+  "url": "https://www.ozbargain.com.au/node/981365",
+  "title": "Geely EX5, EX2 & Starray EM-i 36-Month Finance: $0 Deposit, 0.68% p.a. Comp Rate, 1,000kwh Evie Charging Credit with Trade-in",
+  "text": "Latest offer from Geely across their entire range. 0% deposit and 36 months is a very good deal with current interest rates. Finance offer The comparison rate is based on a secured consumer …",
+  "author": "Buddy195",
+  "published": "2026-11-02T12:52:47+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
   "id": "4b4c9ff0fdb29465",
   "type": "competitor_news",
   "source": "gn-ev-launch-au",
@@ -1231,9 +1438,42 @@
   "first_seen": "2026-11-03T02:35:13+00:00"
  },
  {
+  "id": "c0e635b95049027e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
+  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-11-02T08:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
+ },
+ {
   "id": "96526a0862398ec9",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · BabyDrive",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yelhYWjJuLWRmMDFDeUFJT2JYUmVocHJ1LW1LdjdIYzlPYl9QLXl6UmpHVWwzTVFHSkpmWmtRQjdDUmxuTmc0VGlmV2hiSmM2anZRVW95NFRIeVVtYm9BSUE1V1BMbEF2ck5FMQ?oc=5",
   "title": "XPeng G9L three-row SUV coming! - BabyDrive",
@@ -1474,8 +1714,8 @@
   "source": "gn-zeekr-1d",
   "source_name": "Google News · motorexpo.co.th",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jUWFOZEN5N2R0X21CTWZMdkZKenNSa2doRmtnNmYtQkNQRTNsZF9OQzk2MzRfczNwTS13dld0QmcxTmdlY0JWNVBrX3FZNW9pWXc?oc=5",
-  "title": "Zeekr celebrates success in Thailand, delivering 10,000 vehicles - motorexpo.co.th",
-  "text": "Zeekr celebrates success in Thailand, delivering 10,000 vehicles motorexpo.co.th",
+  "title": "Zeekr ฉลองความสำเร็จในไทย ส่งมอบครบ 10,000 คัน Motor Expo 2026 - motorexpo.co.th",
+  "text": "Zeekr ฉลองความสำเร็จในไทย ส่งมอบครบ 10,000 คัน Motor Expo 2026 motorexpo.co.th",
   "author": "",
   "published": "2026-11-02T05:33:45+00:00",
   "rating": null,
@@ -3674,7 +3914,7 @@
  {
   "id": "927372d4e2e0786b",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Exhaust Notes Australia",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0ZZRmFCMlBoRjFQOWd3bVJROWtRYk1INzRrbTV6NzExdmlBemhfeDdMVTlab1NjQnhmbVZSYmEwNWRpWlZzaFFVLXozby1BeTExeVVYMHl0RFgxN1V3dFpYb09aVVYtV05Ba1dVenhQdFk5TjQ0UjFCbXlaTVJucTRB?oc=5",
   "title": "Updated 2027 Zeekr 7X launches in Australia - Exhaust Notes Australia",
@@ -3701,7 +3941,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
@@ -25767,39 +26007,6 @@
   "first_seen": "2026-10-16T18:17:58+00:00"
  },
  {
-  "id": "c0e635b95049027e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
-  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
-  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-09T20:57:14+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T10:32:20+00:00"
- },
- {
   "id": "86b5677c0d46a8a6",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -28240,7 +28447,9 @@
   "models": [
    "7GT"
   ],
-  "competitors": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
   "brands": [
    "kia",
    "hyundai",
@@ -30369,20 +30578,18 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
-  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
+  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
+  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [
-   "7GT",
-   "8X",
-   "9X"
-  ],
+  "models": [],
   "competitors": [],
   "brands": [],
-  "categories": [],
+  "categories": [
+   "price"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -31034,7 +31241,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -31057,7 +31264,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -39304,6 +39511,40 @@
   "first_seen": "2026-10-19T00:25:32+00:00"
  },
  {
+  "id": "2df7e548b7fd1b5c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbDU5eTU2d19FWEZCbUhFLV8wRTI4V2JDWDN6WjdyaHB5ZXZjNzc3a1Q0MHQ0ZDZqX0tWeUlVTFNORkxTVDc4cGVKRWk2N2MzcVJ0YVJwTGhObHMwVEp5Tkk2cE5UdTNmUnlEWEJoVDBpYlFPMkwwZk9ueUNNdlJoeTVYR0tyQUJRMnFmSFM3Umg1Vk1kejRUZE0zdndVS0UxM21hTGhfbVR1dFNmUDYzQmVfVHptY0Q4V1R4RHh5T3Q?oc=5",
+  "title": "Zeekr 9X: 660kW extended-range SUV detailed for Europe, could preview Australian lineup - CarExpert",
+  "text": "Zeekr 9X: 660kW extended-range SUV detailed for Europe, could preview Australian lineup CarExpert",
+  "author": "",
+  "published": "2026-08-05T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "76e8f9cde94ce3f9",
   "type": "complaint",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -39331,40 +39572,6 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "2df7e548b7fd1b5c",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbDU5eTU2d19FWEZCbUhFLV8wRTI4V2JDWDN6WjdyaHB5ZXZjNzc3a1Q0MHQ0ZDZqX0tWeUlVTFNORkxTVDc4cGVKRWk2N2MzcVJ0YVJwTGhObHMwVEp5Tkk2cE5UdTNmUnlEWEJoVDBpYlFPMkwwZk9ueUNNdlJoeTVYR0tyQUJRMnFmSFM3Umg1Vk1kejRUZE0zdndVS0UxM21hTGhfbVR1dFNmUDYzQmVfVHptY0Q4V1R4RHh5T3Q?oc=5",
-  "title": "Zeekr 9X: 660kW extended-range SUV detailed for Europe, could preview Australian lineup - CarExpert",
-  "text": "Zeekr 9X: 660kW extended-range SUV detailed for Europe, could preview Australian lineup CarExpert",
-  "author": "",
-  "published": "2026-08-04T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging",
-   "delivery"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
