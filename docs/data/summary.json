@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-02T20:13:07+00:00",
- "duration_s": 367.7,
- "items_total": 1259,
- "new_this_run": 192,
+ "generated": "2026-11-03T02:35:13+00:00",
+ "duration_s": 335.8,
+ "items_total": 1268,
+ "new_this_run": 179,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 6,
-  "complaints_30d": 32,
-  "high_7d": 2,
-  "medium_7d": 1,
+  "complaints_24h": 1,
+  "complaints_7d": 8,
+  "complaints_30d": 34,
+  "high_7d": 3,
+  "medium_7d": 2,
   "low_7d": 3,
-  "competitor_news_7d": 103,
-  "launch_signals_7d": 25,
-  "offer_signals_7d": 4,
+  "competitor_news_7d": 99,
+  "launch_signals_7d": 21,
+  "offer_signals_7d": 3,
   "zeekr_news_7d": 56,
-  "offer_page_changes_7d": 15
+  "offer_page_changes_7d": 14
  },
  "series_30d": [
-  {
-   "date": "2026-10-04",
-   "complaints": 1,
-   "competitor_news": 1,
-   "zeekr_news": 0
-  },
   {
    "date": "2026-10-05",
    "complaints": 1,
@@ -92,7 +86,7 @@
   {
    "date": "2026-10-16",
    "complaints": 2,
-   "competitor_news": 13,
+   "competitor_news": 14,
    "zeekr_news": 15
   },
   {
@@ -164,7 +158,7 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 19,
+   "competitor_news": 18,
    "zeekr_news": 7
   },
   {
@@ -188,14 +182,20 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 22,
+   "competitor_news": 21,
    "zeekr_news": 10
   },
   {
    "date": "2026-11-02",
-   "complaints": 0,
-   "competitor_news": 10,
+   "complaints": 1,
+   "competitor_news": 13,
    "zeekr_news": 9
+  },
+  {
+   "date": "2026-11-03",
+   "complaints": 1,
+   "competitor_news": 2,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -203,7 +203,13 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 22
+   "n": 23
+  },
+  {
+   "key": "delivery",
+   "zh": "交付/等待/订单",
+   "en": "Delivery / waiting / orders",
+   "n": 11
   },
   {
    "key": "charging",
@@ -212,21 +218,15 @@
    "n": 11
   },
   {
-   "key": "delivery",
-   "zh": "交付/等待/订单",
-   "en": "Delivery / waiting / orders",
-   "n": 10
+   "key": "service",
+   "zh": "售后/服务/保修",
+   "en": "After-sales / service / warranty",
+   "n": 9
   },
   {
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 8
-  },
-  {
-   "key": "service",
-   "zh": "售后/服务/保修",
-   "en": "After-sales / service / warranty",
    "n": 8
   },
   {
@@ -254,8 +254,8 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 12,
-  "Google Play (AU)": 9,
+  "Reddit r/Zeekr7xAustralia": 13,
+  "Google Play (AU)": 10,
   "Reddit r/AustralianEV": 3,
   "Reddit r/Zeekr": 3,
   "ProductReview.com.au": 2,
@@ -639,10 +639,10 @@
    "latest": null
   },
   "kia-carnival-hev": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [],
    "offer": [],
-   "latest": null
+   "latest": "92690e64e8ec2b43"
   },
   "vw-id-buzz": {
    "n_30d": 0,
@@ -914,7 +914,7 @@
    "id": "647f766d2b549afc",
    "title": "Toyota to build Waymo self-driving taxis for Japan, UK and beyond",
    "source": "CarExpert",
-   "t": "2026-11-02T19:30:00+00:00",
+   "t": "2026-11-02T20:48:00+00:00",
    "competitors": [
     "toyota-bz4x"
    ]
@@ -986,6 +986,13 @@
    "title_en": "MG / IM offer page changed (+1 / −1 lines)",
    "source": "https://mgmotor.com.au/offers",
    "t": "2026-11-02T02:24:46+00:00"
+  },
+  {
+   "kind": "complaint_high",
+   "id": "527c0343f23f96bb",
+   "title": "1★ · very untuitive deaign and navigation.",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-11-02T01:51:35+00:00"
   },
   {
    "kind": "competitor_launch",
@@ -1113,7 +1120,7 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 74,
+   "count": 75,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1133,7 +1140,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 56,
+   "count": 57,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1143,27 +1150,27 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 76,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 44,
+   "count": 42,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 31,
+   "count": 22,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 27,
+   "count": 13,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 21,
+   "count": 26,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1547,9 +1554,9 @@
    "note": ""
   },
   "beep-offers-lexus": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403; mirror HTTP 503"
+   "ok": true,
+   "count": 1,
+   "note": ""
   },
   "beep-offers-denza": {
    "ok": true,
@@ -1654,7 +1661,7 @@
   "policy-events": {
    "ok": true,
    "count": 0,
-   "note": "0 new; 37/38 feeds ok"
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,

@@ -1,14 +1,228 @@
 [
  {
+  "id": "5798b16c5d625476",
+  "type": "news_zeekr",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1FXTm9uS0lZUC1fMUFOb29tcmpwSVI5T1ZSSTdtNUNSQW1odVlBMTYzTXY0UFFFYllQTnoyTEFMcmY0b2F6MTZCX0NMNEpiRXVFRHhZVWoyR3pWMnhzbUgzRFNOR0RGTVNFWmdVdm1PR1FhQVdyTllMb2FScFV6TmgwZzg?oc=5",
+  "title": "2027 Zeekr 7X Launch Offer: Free Wallbox Deal Loses 2000-Order Cap - CarSauce",
+  "text": "2027 Zeekr 7X Launch Offer: Free Wallbox Deal Loses 2000-Order Cap CarSauce",
+  "author": "",
+  "published": "2026-11-03T02:07:04+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "d32e80074eace40c",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xmghry/zeekr_drops_the_2000order_cap_every_2027_7x/",
+  "title": "Zeekr drops the 2,000-order cap: every 2027 7X ordered by 31 Dec now gets the free wallbox, servicing and paint",
+  "text": "",
+  "author": "/u/imissholden",
+  "published": "2026-11-03T02:03:48+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "264ad1074ffe386d",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU92VmpyVmdkU2xTcGd6Q1liMWp1T1FTLW56OTMwQ2lnSS1qc3h1QXVieV9OeDV2Y1lqcjdOSmM0Z3JZU1V3T1I4M3YzTVRwb0kyYjVlVVBBWEFmQXgyLVFIUWZ2a2pfZ1RmUlJ2bzZHNVRMTk0yblZ5RmpHWmtaN2JneUdfVlMxSUNj?oc=5",
+  "title": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech - CarSauce",
+  "text": "All-New Volkswagen T-Roc Confirmed for Australia with Mild-Hybrid Tech CarSauce",
+  "author": "",
+  "published": "2026-11-03T01:37:03+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "ed421ece6433d105",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-volkswagen-t-roc-initial-details-for-australia",
+  "title": "2027 Volkswagen T-Roc: Initial details for Australia",
+  "text": "The second-generation Volkswagen T-Roc small SUV has been confirmed for an \"early 2027\" arrival in Australia, powered by mild-hybrid petrol engines. Full pricing and model specifications are still to be announced, though the German automaker's local division has confirmed \"mild-hybrid powertrains\", likely meaning the 110kW 1.5 eTSI and 150kW 2.0 eTSI 4Motion – both with 48V MHEV assistance – are headed Down Under. The new T-Roc has grown in just about every dimension – now 4373mm long, 1828mm wide, 1562mm tall, with a 2631mm wheelbase. Compared to the original, it's 122mm longer, 9mm wider, 9mm taller, and rides a 28mm longer wheelbase. Volkswagen claims the new T-Roc delivers increased interior space and practicality as a result, with global specifications pointing to a 475-litre boot capacity (up 30L) as well as improved rear seat accommodation allowing a 1.85m-tall passenger to sit behind a 1.85m-tall driver. Other headliners include the move to VW's latest infotainment and driver assistance technologies first seen in the larger Tiguan , and what the company describes as \"a range of comfort-focused features designed to elevate the ownership experience\". VW Australia is also prom",
+  "author": "James Wong",
+  "published": "2026-11-03T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "ab31ad9cae08d818",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xmf2gk/seriously_rude_zeekr_dealers/",
+  "title": "Seriously rude Zeekr dealers",
+  "text": "Zeekr need to screen their dealers better. Tried to buy two Zeekrs at Hornsby ( One for me and one for my wife ) . Had the misfortune to get a rude, intimidating salesman who for extra points decided to be condescending to my wife. I have owned multiple 6 x Toyotas, 2 x Subarus, 2 x Hondas, 1 x Volvo ( the original Swedish one ), 2 x Mercedes and this was definitely the worst buying experience I have had. If that is how they treat someone who is eager to spend 150K for two cars, how much contempt will they treat the customer with after the sale ? I can imagine what the after sales service will be like, if the buying experience is no terrible. Decided to buy from the parent company instead and bought two Geely's from Geely Castle Hill. In marked contrast to the Zeekr experience, the people at the Geely dealership were polite, professional and efficient.",
+  "author": "/u/AdLow1371",
+  "published": "2026-11-03T00:57:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
+  "id": "a1d038a52f9d3cc7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFZUV3U2RVNjcVVoaG1rY01UeHpqb3NteWxWWHVpVUtNWHVWdjdBYmxiSU44M1R3NG9oeFNWQlZEeTJfRkJJdVMyZm0xaUtoa0xRRHJxWG14dw?oc=5",
+  "title": "BYD Atto 2 DM-i price and specs: every variant compared - EV Central",
+  "text": "BYD Atto 2 DM-i price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-11-02T20:50:58+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
   "id": "647f766d2b549afc",
   "type": "competitor_news",
   "source": "carexpert",
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/toyota-to-build-waymo-self-driving-taxis-for-japan-uk-and-beyond",
   "title": "Toyota to build Waymo self-driving taxis for Japan, UK and beyond",
-  "text": "Toyota will build bZ4X electric SUVs kitted out with self-driving hardware and software from Waymo . The two companies expect a validation fleet of bZ4Xs to hit the roads of Japan in 2027. Cars will also be sent to the UK and other countries, but timing has yet to confirmed. Neither partner has indicated when the bZ4X Waymo will enter revenue service. As part of the announcement overnight, the two firms stated they \"will continue to explore the future of autonomous driving technology\" for privately-owned Toyotas. Production of these self-driving Toyotas will take place at the company's Takaoka factory in Toyota City, alongside manually-driven bZ4X models. Waymo's hardware suite of cameras, radars and lidar will are fitted to the car in Toyota's plant. The bZ4Xs that Toyota will build for Waymo will all be fitted with automatic doors, an electric tailgate, and ambient lighting. In a prepared statment Dmitri Dolgov, co-CEO of Waymo, claimed its vehicles are \"20 times safer than human drivers when it comes to serious crash injuries\" and said the company chose Toyota \"because of our respect for the legendary safety, reliability, and quality of their vehicles\". Hiroki Nakajima, Toyota's",
+  "text": "Toyota will build bZ4X electric SUVs kitted out with self-driving hardware and software from Waymo . The two companies expect a validation fleet of bZ4Xs to hit the roads of Japan in 2027. Cars will also be sent to the UK and other countries, but timing has yet to be confirmed. Neither partner has indicated when the bZ4X Waymo will enter revenue service. As part of the announcement overnight, the two firms stated they \"will continue to explore the future of autonomous driving technology\" for privately-owned Toyotas. Production of these self-driving Toyotas will take place at the company's Takaoka factory in Toyota City, alongside manually-driven bZ4X models. Waymo's hardware suite of cameras, radars and LiDAR will be fitted to the car in Toyota's plant. The bZ4Xs that Toyota will build for Waymo will all be equipped with automatic doors, an electric tailgate, and ambient lighting. In a prepared statement Dmitri Dolgov, co-CEO of Waymo, claimed the company’s vehicles are \"20 times safer than human drivers when it comes to serious crash injuries\" and said the company chose Toyota \"because of our respect for the legendary safety, reliability, and quality of their vehicles\". Hiroki Nak",
   "author": "Derek Fung",
-  "published": "2026-11-02T19:30:00+00:00",
+  "published": "2026-11-02T20:48:00+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
@@ -37,6 +251,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "92690e64e8ec2b43",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/kia-considering-more-phevs-but-evs-and-hybrids-are-satisfying-australias-emissions-regulations",
+  "title": "Kia considering more PHEVs, but EVs and hybrids are satisfying Australia's emissions regulations",
+  "text": "Kia Australia says it's not shutting the door on more plug-in hybrid (PHEV) models, but says its existing hybrid and electric vehicle (EV) lineup is keeping it in credit against the Federal Government's New Vehicle Efficiency Standard (NVES). \"We're always looking at more electrified and more green powertrains across all model lines with R&D... not just plug-in hybrids, but range-extender hybrid vehicles as well,\" said Raymond Pok, Kia Australia's senior manager for product planning. \"But from a current standpoint, we think our balance of having a strong EV product lineup and also now moving some internal combustion models into hybrid – like Seltos , you've seen the growth of Sportage Hybrid , Sorento Hybrid , Carnival Hybrid as well – we think it's the right mix. \"From an NVES perspective that mix for us is pretty important to make sure we sell enough EVs and enough hybrids and enough ICE [internal combustion-powered vehicles] to balance that and put us in a good good credit position. \"So nothing we we can confirm at this point in terms of any of those [powertrain types]. But they are definitely on our wishlist, and we look at it again from a model by model perspective as we get t",
+  "author": "James Wong",
+  "published": "2026-11-02T20:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-carnival-hev"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
  },
  {
   "id": "9eee2018b5e1714c",
@@ -110,6 +359,41 @@
   "first_seen": "2026-11-02T20:13:07+00:00"
  },
  {
+  "id": "4b4c9ff0fdb29465",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · The EV Report",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peGtrUi1INldfVmUxZDdHelFfYUNneGVVVUd3a19PbzR6RHZGSDMxVkFQSTVhZHBiVFR4dkFWdTNMd28yNzVnd3l0M2JXVGxObkNlN2dTdkJ3Q3R0R1dZc2U5RUFlWTlueUJJ?oc=5",
+  "title": "GAC Launches All-New E8 in Macao With 175-Mile EV Range - The EV Report",
+  "text": "GAC Launches All-New E8 in Macao With 175-Mile EV Range The EV Report",
+  "author": "",
+  "published": "2026-11-02T12:28:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "gac"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
   "id": "fc20a5ca5a4d06ef",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -176,6 +460,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "8be709081eee8150",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fbGMzQm5FazBabEdyNmpVdGFiZlk2YnI1MllRSVZDNUtNVlAyWDN4bE5fMnhDY3VlWFdFMUNrTUx4UUp1ZnlGbDk2UzlZX0ZnTXBzNTAwMWdjaDF4bEVQX2FpQQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-11-02T09:26:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-03T02:35:13+00:00"
  },
  {
   "id": "5459ad877b8d39e5",
@@ -315,7 +630,7 @@
   "source": "carexpert",
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/hybrid-vehicle-prices-to-go-up-under-changing-nves-rules-says-hyundai",
-  "title": "Hybrid vehicle prices to go up under changing NVES rules, says Hyundai",
+  "title": "More hybrid vehicles to be penalised under tighter emissions regulations",
   "text": "A scheduled change to the New Vehicle Efficiency Scheme (NVES) from January 2027 may actually discourage Australians from buying hybrid models. The NVES was initially proposed as a way to reward automakers with credits for offering fuel-efficient vehicles, with penalties applied if companies exceed their CO2 emissions targets – effectively incentivising brands to offer electric and hybrid cars. However, the sliding-scale program means stricter rules will be applied from January 1, 2027 – affecting more than 50 petrol-electric hybrid vehicles currently on sale. The headline CO2 limits will fall from 117g/km to 92g/km for Type 1 vehicles (including passenger cars and many SUVs), and from 180g/km to 150g/km for Type 2 vehicles (light commercial vehicles and heavy off-road passenger vehicles), though individual vehicles are given a mass-adjusted target. Scott Nargar, Senior Manager of Future Mobility & Government Relations at Hyundai Australia, says the tighter targets could have several negative implications. “I think we need to do more to encourage people that don't want to transition [to electric vehicles] to consider a hybrid,” Mr Nargar told CarExpert. “The one problem with that,",
   "author": "Ben Zachariah",
   "published": "2026-11-02T06:01:00+00:00",
@@ -447,7 +762,7 @@
  {
   "id": "75ddebb2361855ab",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkotbXE3UVlHYVV3cHJnNmYzYmRmcWZPc3NUNmlUcnR0eE5ELUJMTUFUV29lby1YbkJIZjU4Q2xsTkZfYmg4SWpKXzJpbFl6VzBKZWhHWXNIeWlTZEp4YnEwbjBnRmRMQ2hlanBxcHdvSURYaXFTcDBZelVja3NYUmJOclUtdWE0Vmt6Ukc0dkNFdS0yclhVZGlBS29NcXl0OHdNUHU1MEM2NWlfT0hMV2cyekRFbFg4d1lJXzlNOEhPdjBy?oc=5",
   "title": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs - CarsGuide",
@@ -475,7 +790,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
@@ -543,9 +858,41 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
+  "id": "527c0343f23f96bb",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=54c1dc6c-bbc4-49b9-a329-5f1dfb2bc236",
+  "title": "1★ · very untuitive deaign and navigation.",
+  "text": "very untuitive deaign and navigation.",
+  "author": "Suurya Bajpai",
+  "published": "2026-11-02T01:51:35+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-03T02:35:13+00:00"
+ },
+ {
   "id": "57df56df123edc9f",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
   "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
@@ -1570,39 +1917,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-01T14:13:27+00:00"
- },
- {
-  "id": "a1d038a52f9d3cc7",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFZUV3U2RVNjcVVoaG1rY01UeHpqb3NteWxWWHVpVUtNWHVWdjdBYmxiSU44M1R3NG9oeFNWQlZEeTJfRkJJdVMyZm0xaUtoa0xRRHJxWG14dw?oc=5",
-  "title": "BYD Atto 2 DM-i price and specs: every variant compared - EV Central",
-  "text": "BYD Atto 2 DM-i price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-11-01T10:13:19+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
   "id": "b223304f7bae2ff0",
@@ -2960,7 +3274,7 @@
  {
   "id": "5a731d55383ae097",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-cn",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GQ080ZHNtbVJuY3Z5dkZZYUJ2Sm1veGNTR3ZSZFpnd2pBc2xJbG9YcTRUR0RyNUw4SFdkellrQWRqN0RVeE1tS0p5MDRtNzVRdXlEZzZNZUtYR1hvekxGUG1POVFrUXhjZ1dwbldWckt0YnRW?oc=5",
   "title": "XPeng G6 2026 review: RWD Long Range | Zeekr 7X rival tested - CarsGuide",
@@ -2989,7 +3303,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T06:52:56+00:00"
@@ -5559,41 +5873,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
- },
- {
-  "id": "1380cc70d4605aa5",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLLWNZcXdlTmpDZW05R09MLXgxX0daOVBiMEZZMEx0V0VrbVM4Q1NhOUhpNU50dlNhR2drcFZHcWhaaFJtanFCMG4tbk1TQVpMV3phcnlRbVlNZWFt?oc=5",
-  "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
-  "text": "Skoda Enyaq Coupe price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-28T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "skoda-enyaq"
-  ],
-  "brands": [
-   "skoda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-17T08:45:22+00:00"
  },
  {
   "id": "e7265370d06cab77",
@@ -16978,6 +17257,41 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-17T04:09:34+00:00"
+ },
+ {
+  "id": "1380cc70d4605aa5",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLLWNZcXdlTmpDZW05R09MLXgxX0daOVBiMEZZMEx0V0VrbVM4Q1NhOUhpNU50dlNhR2drcFZHcWhaaFJtanFCMG4tbk1TQVpMV3phcnlRbVlNZWFt?oc=5",
+  "title": "Skoda Enyaq Coupe price and specs: every variant compared - EV Central",
+  "text": "Skoda Enyaq Coupe price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-16T18:30:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "skoda-enyaq"
+  ],
+  "brands": [
+   "skoda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-17T08:45:22+00:00"
  },
  {
   "id": "c207f5ebbabc0e8a",
@@ -30406,6 +30720,37 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
+  "id": "f0f6221939519615",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOQWMxUksxRlhkdmRYOVFqaVlfblN0RnBUaHUyMWp1bTN1OGtNT1h2VmlHR3pHNXlOeUNKdkE5WkxKUmJLSllzbHRLZXl4LU5pZUtyel85eUZVN0drQkJ4VmZhQWx4TFNOc0pKUWozQ2N1WWdBemRhdmNQdWhkVy1Pa05ITjQ?oc=5",
+  "title": "Zeekr confirms a world-first for Australia - CarExpert",
+  "text": "Zeekr confirms a world-first for Australia CarExpert",
+  "author": "",
+  "published": "2026-09-22T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
   "id": "5702fa1c01389729",
   "type": "news_zeekr",
   "source": "evcentral-zeekr",
@@ -30649,37 +30994,6 @@
    "price"
   ],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "f0f6221939519615",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NOQWMxUksxRlhkdmRYOVFqaVlfblN0RnBUaHUyMWp1bTN1OGtNT1h2VmlHR3pHNXlOeUNKdkE5WkxKUmJLSllzbHRLZXl4LU5pZUtyel85eUZVN0drQkJ4VmZhQWx4TFNOc0pKUWozQ2N1WWdBemRhdmNQdWhkVy1Pa05ITjQ?oc=5",
-  "title": "Zeekr confirms a world-first for Australia - CarExpert",
-  "text": "Zeekr confirms a world-first for Australia CarExpert",
-  "author": "",
-  "published": "2026-09-21T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
