@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-04T11:28:42+00:00",
- "duration_s": 309.7,
- "items_total": 1324,
- "new_this_run": 235,
+ "generated": "2026-11-04T18:48:30+00:00",
+ "duration_s": 331.6,
+ "items_total": 1332,
+ "new_this_run": 176,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -10,8 +10,8 @@
   "high_7d": 3,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 117,
-  "launch_signals_7d": 21,
+  "competitor_news_7d": 120,
+  "launch_signals_7d": 22,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 59,
   "offer_page_changes_7d": 17
@@ -182,7 +182,7 @@
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 19,
+   "competitor_news": 20,
    "zeekr_news": 12
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-11-04",
    "complaints": 0,
-   "competitor_news": 9,
-   "zeekr_news": 6
+   "competitor_news": 12,
+   "zeekr_news": 8
   }
  ],
  "categories_30d": [
@@ -265,12 +265,12 @@
  },
  "competitor_signals": {
   "volvo-ex30": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "08c8cc1262f38033"
    ],
    "offer": [],
-   "latest": "08c8cc1262f38033"
+   "latest": "4b3303d77437f249"
   },
   "smart-1": {
    "n_30d": 1,
@@ -373,15 +373,16 @@
    "latest": "286c09e247743e6d"
   },
   "kia-ev5": {
-   "n_30d": 5,
+   "n_30d": 7,
    "launch": [
+    "69780f30556bd85d",
     "7e94a8dd0f108e63",
     "7f4e82435852913c",
     "1de7c495e18800cf",
     "6c8a09ae665a20cb"
    ],
    "offer": [],
-   "latest": "7e94a8dd0f108e63"
+   "latest": "f7f79b162fb13d67"
   },
   "hyundai-elexio": {
    "n_30d": 3,
@@ -564,7 +565,7 @@
    "latest": "d1f285d82c38ea9b"
   },
   "kia-ev4": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
     "347f60946babed57",
     "d2af0ef5c3bba679",
@@ -922,6 +923,16 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "69780f30556bd85d",
+   "title": "More muscle and a fresh look for Kia EV5: Update coming for Kia’s most popular EV!",
+   "source": "EV Central",
+   "t": "2026-11-04T12:17:37+00:00",
+   "competitors": [
+    "kia-ev5"
+   ]
+  },
+  {
    "kind": "offer_page_change",
    "id": "183765d7926d5482",
    "title": "Kia 官网政策页面变化（+1 / −1 行）",
@@ -1120,56 +1131,6 @@
    "title_en": "MG / IM offer page changed (+1 / −1 lines)",
    "source": "https://mgmotor.com.au/offers",
    "t": "2026-11-02T02:24:46+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "b3518908fd266851",
-   "title": "Denza D9 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-01T16:30:41+00:00",
-   "competitors": [
-    "denza-d9"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "a8af33cd32623473",
-   "title": "GAC M8 price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-01T15:38:06+00:00",
-   "competitors": [
-    "gac-m8"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "e46c60dbdcdd31f5",
-   "title": "Smart #5 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-01T15:37:59+00:00",
-   "competitors": [
-    "smart-5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "a1259168a41994e1",
-   "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-01T15:35:52+00:00",
-   "competitors": [
-    "polestar-4"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "1449d41803c59183",
-   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-01T15:35:51+00:00",
-   "competitors": [
-    "byd-seal"
-   ]
   }
  ],
  "source_status": {
@@ -1180,12 +1141,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 26,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 100,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1195,7 +1156,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 55,
+   "count": 54,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1205,22 +1166,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 77,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 45,
+   "count": 23,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 25,
+   "count": 18,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 49,
+   "count": 29,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1230,7 +1191,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 73,
+   "count": 44,
    "note": ""
   },
   "carexpert": {
@@ -1289,14 +1250,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-Zeekr": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1311,7 +1272,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1360,7 +1321,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 27,
    "note": ""
   },
   "playstore-android": {
@@ -1726,7 +1687,7 @@
   "offers-kia": {
    "ok": true,
    "count": 30,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-polestar": {
    "ok": true,
@@ -1766,7 +1727,7 @@
   "offers-byd": {
    "ok": false,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
   },
   "offers-hyundai": {
    "ok": true,
