@@ -2,19 +2,17 @@
  "key": "zecar-offers",
  "brand": "Zecar (all-brand offers)",
  "url": "https://zecar.com/offers-and-deals",
- "fetched": "2026-11-03T23:17:53+00:00",
- "digest": "ec14a3464b60e7e1",
+ "fetched": "2026-11-04T03:14:49+00:00",
+ "digest": "48fee3ed9b009d1d",
  "lines": [
   "Deals and Offers",
-  "· 31 active offers",
+  "· 30 active offers",
   "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
   "Search Offers",
-  "Geely Four-Day Sale: Extra $1,000 Factory Bonus (11 to 14 November 2026)",
-  "Vehicle Discount",
-  "Geely is running a four-day sale from Wednesday 11 to Saturday 14 November 2026. An additional $1,000 factory bonus applies to every eligible Geely bought during the promotional period. Eligible models and terms are on Geely Australia's offers page. Conditions apply.",
   "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026)",
   "Geely is offering a 0.68% p.a. comparison rate over a 3-year term on the EX2, EX5 and Starray EM-i from 2 to 30 November 2026. Approval and settlement dates, fees and the comparison rate warning are on Geely Australia's offers page. Conditions apply.",
   "GWM Haval H7 $1,000 Launch Offer",
+  "Vehicle Discount",
   "Receive a $1,000 launch offer on the all-new Haval H7 Lux HEV and Lux PHEV. Driveaway pricing starts from $45,990 for the Lux HEV and $49,990 for the Lux PHEV. Offer ends 30 November 2026.",
   "Geely Trade-In Offer: 1,000kWh Evie Public Charging Credit (November 2026)",
   "Customers who trade in an eligible vehicle when buying a new Geely in November 2026 receive a 1,000kWh public charging credit for the Evie network, valid for one year from activation. Eligible vehicles and full terms are on Geely Australia's offers page. Conditions apply.",
@@ -46,6 +44,7 @@
   "GAC AION UT Drive-Away Offer from $31,990",
   "GAC is running a Q4 national drive-away offer on the AION UT, priced from $31,990 drive-away and bundled with a 22 kW wall charger. A 7% p.a. novated lease offer is also available. Applies to orders placed between 1 October 2026 and 31 December 2026, with a $1,000 deposit required. Prices may vary by state, model, colour, and specification.",
   "XPENG New G6 2.88% p.a. Finance, No Deposit or Balloon",
+  "Polestar 3 Complimentary Drivetrain Upgrade Worth $14,400",
   "We'll email you when a new offer goes live.",
   "Are there EV rebates or incentives in Australia in 2026?",
   "When do EV offers usually expire?"
@@ -56,6 +55,7 @@
   4000,
   5010,
   7204,
+  14400,
   19990,
   28888,
   29990,
@@ -72,5 +72,5 @@
   52990,
   70990
  ],
- "n_lines": 44
+ "n_lines": 43
 }

@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-03T23:12:04+00:00",
- "duration_s": 350.1,
- "items_total": 1300,
- "new_this_run": 218,
+ "generated": "2026-11-04T03:09:18+00:00",
+ "duration_s": 333.1,
+ "items_total": 1311,
+ "new_this_run": 202,
  "counts": {
-  "complaints_24h": 1,
-  "complaints_7d": 8,
+  "complaints_24h": 0,
+  "complaints_7d": 9,
   "complaints_30d": 33,
   "high_7d": 3,
-  "medium_7d": 2,
+  "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 119,
-  "launch_signals_7d": 24,
+  "competitor_news_7d": 124,
+  "launch_signals_7d": 25,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 55,
-  "offer_page_changes_7d": 15
+  "offer_page_changes_7d": 16
  },
  "series_30d": [
-  {
-   "date": "2026-10-05",
-   "complaints": 1,
-   "competitor_news": 0,
-   "zeekr_news": 0
-  },
   {
    "date": "2026-10-06",
    "complaints": 1,
@@ -177,7 +171,7 @@
    "date": "2026-10-31",
    "complaints": 3,
    "competitor_news": 12,
-   "zeekr_news": 6
+   "zeekr_news": 5
   },
   {
    "date": "2026-11-01",
@@ -189,13 +183,19 @@
    "date": "2026-11-02",
    "complaints": 1,
    "competitor_news": 18,
-   "zeekr_news": 10
+   "zeekr_news": 11
   },
   {
    "date": "2026-11-03",
-   "complaints": 1,
-   "competitor_news": 28,
+   "complaints": 2,
+   "competitor_news": 29,
    "zeekr_news": 7
+  },
+  {
+   "date": "2026-11-04",
+   "complaints": 0,
+   "competitor_news": 4,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 22
+   "n": 21
   },
   {
    "key": "delivery",
@@ -249,16 +249,16 @@
   }
  ],
  "models_30d": {
-  "7X": 12,
+  "7X": 11,
   "X": 1,
   "7GT": 3
  },
  "sources_30d": {
   "Reddit r/Zeekr7xAustralia": 12,
-  "Google Play (AU)": 10,
+  "Google Play (AU)": 11,
   "Reddit r/AustralianEV": 3,
-  "Reddit r/Zeekr": 3,
   "ProductReview.com.au": 2,
+  "Reddit r/Zeekr": 2,
   "Reddit r/AutoAdvice": 1,
   "Reddit r/ZeekrAustraliaNZ": 1,
   "Reddit r/EVAustralia": 1
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -370,17 +370,18 @@
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "8cd2739c66c29295"
+   "latest": "286c09e247743e6d"
   },
   "kia-ev5": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
+    "7e94a8dd0f108e63",
     "7f4e82435852913c",
     "1de7c495e18800cf",
     "6c8a09ae665a20cb"
    ],
    "offer": [],
-   "latest": "7f4e82435852913c"
+   "latest": "7e94a8dd0f108e63"
   },
   "hyundai-elexio": {
    "n_30d": 3,
@@ -748,7 +749,7 @@
    "latest": "43eef9656c6878ef"
   },
   "byd-sealion8": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "477682d9a518ae53",
     "fa15f25f5765628d",
@@ -758,7 +759,7 @@
     "7df177ffe7c98f88"
    ],
    "offer": [],
-   "latest": "477682d9a518ae53"
+   "latest": "ee03d3cd3a6d9790"
   },
   "kia-sorento-phev": {
    "n_30d": 1,
@@ -919,6 +920,24 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "877c9736e5e456b1",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+2 / −3 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+2 / −3 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-11-04T03:14:49+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "7e94a8dd0f108e63",
+   "title": "Significantly updated Kia EV5 is revealed with a power boost and facelift",
+   "source": "WhichCar",
+   "t": "2026-11-03T23:23:42+00:00",
+   "competitors": [
+    "kia-ev5"
+   ]
+  },
+  {
+   "kind": "offer_page_change",
    "id": "55c5f63300637ba1",
    "title": "smart 官网政策页面变化（+0 / −1 行）",
    "title_en": "smart offer page changed (+0 / −1 lines)",
@@ -1072,13 +1091,6 @@
    "t": "2026-11-02T02:24:46+00:00"
   },
   {
-   "kind": "complaint_high",
-   "id": "527c0343f23f96bb",
-   "title": "1★ · very untuitive deaign and navigation.",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-02T01:51:35+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "b3518908fd266851",
    "title": "Denza D9 price and specs: every 2026 variant compared - EV Central",
@@ -1127,25 +1139,17 @@
    "competitors": [
     "byd-seal"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "85529cdab4aaaf46",
-   "title": "MG / IM 官网政策页面变化（+12 / −9 行）",
-   "title_en": "MG / IM offer page changed (+12 / −9 lines)",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-11-01T00:27:45+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 77,
+   "count": 100,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 35,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1170,17 +1174,17 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 75,
+   "count": 78,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 39,
+   "count": 43,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 20,
+   "count": 18,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1190,7 +1194,7 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 32,
+   "count": 35,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1640,7 +1644,7 @@
   },
   "zecar-offers-geely": {
    "ok": true,
-   "count": 17,
+   "count": 16,
    "note": ""
   },
   "zecar-offers-zeekr": {
@@ -1731,7 +1735,7 @@
   "offers-byd": {
    "ok": false,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   "offers-hyundai": {
    "ok": true,
@@ -1780,8 +1784,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 44,
-   "note": "unchanged"
+   "count": 43,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

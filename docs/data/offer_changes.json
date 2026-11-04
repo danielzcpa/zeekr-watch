@@ -1,5 +1,21 @@
 [
  {
+  "id": "877c9736e5e456b1",
+  "key": "zecar-offers",
+  "brand": "Zecar (all-brand offers)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-11-04T03:14:49+00:00",
+  "added": [
+   "· 30 active offers",
+   "Polestar 3 Complimentary Drivetrain Upgrade Worth $14,400"
+  ],
+  "removed": [
+   "· 31 active offers",
+   "Geely Four-Day Sale: Extra $1,000 Factory Bonus (11 to 14 November 2026)",
+   "Geely is running a four-day sale from Wednesday 11 to Saturday 14 November 2026. An additional $1,000 factory bonus applies to every eligible Geely bought during the promotional period. Eligible models and terms are on Geely Australia's offers page. Conditions apply."
+  ]
+ },
+ {
   "id": "55c5f63300637ba1",
   "key": "smart",
   "brand": "smart",

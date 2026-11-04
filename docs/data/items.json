@@ -1,5 +1,355 @@
 [
  {
+  "id": "5bcf06c5c56baaf7",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarNewsChina.com",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1ZqQUt1R19vclRLclZjemkxRzhmRUNkWktvS1dhTjRsblk4SWhKNXc1dlNDSWpLY0lfMnp0Nm1Pel85WXliNk1sLXZoVUxtQ2I0ZXpKU1RDcnY1cmpPUFpKeWlYdWtIUG5EekpKYnJUdFNKb1B3RHNiclBYbE1HV19XX3AwSW9FYWdOdUpGNkdWNmdteGtfSmJNYjRxNFBIRlFNNUU5alhiV2dtWVNUQVhPOTREaTd6dGc?oc=5",
+  "title": "Zeekr 001 refreshed: new version could feature Geely’s 8-minute fully-charging tech - CarNewsChina.com",
+  "text": "Zeekr 001 refreshed: new version could feature Geely’s 8-minute fully-charging tech CarNewsChina.com",
+  "author": "",
+  "published": "2026-11-04T02:44:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "53a567d5b530f9b1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CnEVPost",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13OWxwWjZFTHhfdXdFd2lQZWtvTmFsazF6bDJFMWVvc0R4YmNsZ29KbnlLcGx0S0hEd2VEaUpEQ0NjQXhWbWNyMUtmM3hlTExaZWFSUUJfcjZhbHhZRURRdnlqc1VwZnlxYVlfbWdKdTJvZw?oc=5",
+  "title": "Zeekr reportedly plans rugged off-road SUV to rival Mercedes-Benz G-Class - CnEVPost",
+  "text": "Zeekr reportedly plans rugged off-road SUV to rival Mercedes-Benz G-Class CnEVPost",
+  "author": "",
+  "published": "2026-11-04T02:29:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "mb-gclass"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "7f2f0cdd45841139",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xnbnxq/current_offers/",
+  "title": "Current offers",
+  "text": "Hi all, I have picked up my 7x a month ago and they are currently doing bunch of offers for nov month (free scheduled service, paint upgrades, 7kw charge etc) Anyone tried their luck to get any benefits for those who picked their cars recently? Also, I have seen few posts that they offer free first service, but wasn’t mentioned by my dealer ? TIA",
+  "author": "/u/R0h1thh",
+  "published": "2026-11-04T01:45:32+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "d39f09343f822b4d",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xnbd61/novated_lease_for_zeekr_7x_performace/",
+  "title": "Novated Lease for Zeekr 7x Performace",
+  "text": "",
+  "author": "/u/Dependent-Day1886",
+  "published": "2026-11-04T01:30:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "e85033b52f36d13c",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/the-distinction-between-cars-and-suvs-is-now-meaningless-says-chinese-brand",
+  "title": "The distinction between cars and SUVs is now meaningless, says Chinese brand",
+  "text": "Industry sales data may split passenger cars from SUVs, but the lines have become increasingly blurred – and Chinese brand Leapmotor says buyers no longer make the distinction. “I think the market’s changed quite a bit. People don't go ‘I want an SUV, a hatch or an off-roader’ anymore,” Leapmotor Australia boss Andy Hoang told Australian media including CarExpert . “People go ‘how much can I spend?’ And because all the cars now overlap, it’s really about in that price range, what can you afford?” Referring specifically to his brand’s B05 electric hatchback, Mr Hoang said: “If this car is between $35,000 and $40,000, it’ll be every competitor that’s in there, that customers go ‘well what can I afford?’ “We really believe in that price range, this car stands out. First because it’s yellow, and secondly because it’s a hatch.” By this logic, Leapmotor therefore believes its B05 – priced from $35,888 to $39,888 before on-roads – will compete not only against similarly priced electric hatchbacks like the BYD Dolphin , MG 4 EV Urban , GAC Aion UT and Geely EX2 , but also vehicles marketed as SUVs such as the GWM Ora 5 , BYD Atto 2 and Jaecoo J5 EV – even Leapmotor’s own B10 . Notably, non",
+  "author": "William Stopford",
+  "published": "2026-11-04T01:09:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "geely",
+   "gac"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "387027fb8a30bd0b",
+  "type": "news_zeekr",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
+  "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
+  "text": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint Zecar",
+  "author": "",
+  "published": "2026-11-04T00:35:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "286c09e247743e6d",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iWERNUFRYZVZjc203NEQzd0pGb2RIUHBYdEh6QVZMbEZGWVYwNHUwb3VLVUEtUzNKTmp4bEFnanJhZ1M3UHhJOEE0WVJQNGZILVI4MEtQRFV5YkRqNmFkLVkzUU0?oc=5",
+  "title": "BYD Sealion 7 vs Lepas L6 - CarsGuide",
+  "text": "BYD Sealion 7 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T00:17:42+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "ee03d3cd3a6d9790",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JS2phWGdUdW14eWp0a2VWU1JtcWFsMzM4YXBXOFk4X3VZWk04VUVLcTdXc0txNnJSOURBa0VoWVdCc0lZOXhxLWR1SlV0ejZMVzI5QU92NEljR191bm5KTDdXSE8?oc=5",
+  "title": "BYD Sealion 8 vs Lepas L6 - CarsGuide",
+  "text": "BYD Sealion 8 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T00:17:41+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion8"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "f6e9cb92462991f1",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/geely-launches-new-hybrid-sedan-methanol-efficient",
+  "title": "Geely launches hyper-efficient new hybrid sedan that can run on methanol",
+  "text": "A new Geely plug-in hybrid can travel up to 1880km on a single tank and charge, thanks to an engine capable of running on methanol or petrol. The post Geely launches hyper-efficient new hybrid sedan that can run on methanol first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-04T00:10:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
+  "id": "7e94a8dd0f108e63",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/facelifted-kia-ev5-revealed-power-boost",
+  "title": "Significantly updated Kia EV5 is revealed with a power boost and facelift",
+  "text": "Kia's updated EV5 electric SUV will bring more power, revised styling and improved driving dynamics when it arrives in Australia in 2027. The post Significantly updated Kia EV5 is revealed with a power boost and facelift first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-03T23:23:42+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
   "id": "cc49fc3f5de9e799",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -131,7 +481,7 @@
  {
   "id": "1c1f8d6032f03f13",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl9tejhueE54d01jRXlnVklsdHhsX2tDQ1dwc0F1ZDNOYld3c1BzT1I3WnB6NEdoZjE2azh2Rm9idFBXZ3Y5LW5GT243bUdkSDhsQ0VlWXV5NHhHdk1YamtvUkdYdGlQc2R2TkR5Y3BJV3AtSG1JZlJteG1FMkdHRW9VMzBJT3VOaGp4S1cwNFI2bU82X2RqcTY4NVF2eDBRcTVmTHk2TDRDOEt6SWhqX2xrU1lIb2tJX0NHVA?oc=5",
   "title": "'Flipped the script': Real reason sales of 2026 Tesla Model Y, Zeekr 7X, Geely EX5 have skyrocketed - CarsGuide",
@@ -1149,6 +1499,38 @@
   "first_seen": "2026-11-03T17:41:23+00:00"
  },
  {
+  "id": "6cc5f14af9c759fe",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=10794197-8c34-4b87-8285-ab5bda3cf882",
+  "title": "2★ · when can we expect to have on Android, the same functions th",
+  "text": "when can we expect to have on Android, the same functions that iOS has?",
+  "author": "Alvaro Martinez F",
+  "published": "2026-11-03T02:00:29+00:00",
+  "rating": 2.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-04T03:09:18+00:00"
+ },
+ {
   "id": "39f20088fd4c9591",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -1466,7 +1848,7 @@
  {
   "id": "9eee2018b5e1714c",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnVyZUF5NThCbU1jX3Z5cjdHYjBfTVJHajBKX0JGRFJ2SlVqdHc0WmxVWTdQYjc2R1Jjc1I2SzE5QnZQbGJPN2tnN3BfZHlZdmFyZHF2aExING9jOURPSkNWSHh0V2ZlODdrSXlkR3JpU3dJREx2aEZfVGI3MDRyTWNHVUZNaVlHOWdMOGpWNnNiT0NoRGpZ?oc=5",
   "title": "Secret first look at Kia's next big EV launch - Drive",
@@ -1491,7 +1873,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": false,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
@@ -1594,6 +1976,40 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "7842d931540a1ad5",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · AsiaOne.com",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZk5tVjVCWWFFY0gxLWxqbG92TTdfRndMSng3NXZVY1lpcTY4WGFhdTE0c2x1WE13b2o2VDM3M2gtMTE3RjZjd2hDTVJ5QV9XTE5JZ1BmQmpEcWhEZldZZk55cVZJTDUyZU9xc0tBbkJoeER3Q0FEZEdLVW5fUnZvdXNOVFlZdW1F?oc=5",
+  "title": "Zeekr Singapore updates the 7X with more power and range, Lifestyle News - AsiaOne.com",
+  "text": "Zeekr Singapore updates the 7X with more power and range, Lifestyle News AsiaOne.com",
+  "author": "",
+  "published": "2026-11-02T13:00:24+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-31T13:33:08+00:00"
  },
  {
   "id": "74f69284d785fe51",
@@ -2410,7 +2826,7 @@
  {
   "id": "d29fb2a0776d79e1",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
   "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea - CarsGuide",
@@ -2439,7 +2855,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T09:53:02+00:00"
@@ -4212,40 +4628,6 @@
   ],
   "scope": "zeekr",
   "au": true,
-  "extra": {},
-  "first_seen": "2026-10-31T13:33:08+00:00"
- },
- {
-  "id": "7842d931540a1ad5",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · AsiaOne.com",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZk5tVjVCWWFFY0gxLWxqbG92TTdfRndMSng3NXZVY1lpcTY4WGFhdTE0c2x1WE13b2o2VDM3M2gtMTE3RjZjd2hDTVJ5QV9XTE5JZ1BmQmpEcWhEZldZZk55cVZJTDUyZU9xc0tBbkJoeER3Q0FEZEdLVW5fUnZvdXNOVFlZdW1F?oc=5",
-  "title": "Zeekr Singapore updates the 7X with more power and range, Lifestyle News - AsiaOne.com",
-  "text": "Zeekr Singapore updates the 7X with more power and range, Lifestyle News AsiaOne.com",
-  "author": "",
-  "published": "2026-10-31T13:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "software",
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
   "extra": {},
   "first_seen": "2026-10-31T13:33:08+00:00"
  },
@@ -30746,18 +31128,20 @@
   "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
-  "title": "Zeekr said deposits for its upcoming cars are building faster than expected - CarsGuide",
-  "text": "Zeekr said deposits for its upcoming cars are building faster than expected CarsGuide",
+  "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
+  "text": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand CarsGuide",
   "author": "",
   "published": "2026-09-25T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
-  "models": [],
+  "models": [
+   "7GT",
+   "8X",
+   "9X"
+  ],
   "competitors": [],
   "brands": [],
-  "categories": [
-   "price"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -30987,6 +31371,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-15T21:16:00+00:00"
+ },
+ {
+  "id": "ad827dd750d7969e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
+  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
+  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
+  "author": "",
+  "published": "2026-09-24T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
   "id": "a4234614453c5a26",
@@ -31340,39 +31757,6 @@
   "severity": "low",
   "signals": [],
   "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "ad827dd750d7969e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGVmWmpzS2xWZzRUVmR4X0NjdlVndnVrMFhhV3E5X3doM0F4d3dzU1dsekpmckNXUTdYV0UyUnVxaC1YREtrQUdtanBma0ZtS2p5LU1waWg0RDd2UC1HVG1KRDlicDh2YXl1anZjc28xdm9DTDlOX3ROME00MUhBWlFwbXBQSlJIc0pMT2hYVDR2R25pcjBtc01XOWI2ZGlWdWhqZVBvbGVkUQ?oc=5",
-  "title": "Another Chinese luxury auto brand following Denza, Zeekr to Australia - CarExpert",
-  "text": "Another Chinese luxury auto brand following Denza, Zeekr to Australia CarExpert",
-  "author": "",
-  "published": "2026-09-23T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "denza"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"

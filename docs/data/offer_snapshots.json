@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "ae279161c9daf29c",
   "money": [
    1000,
@@ -54,7 +54,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -74,14 +74,14 @@
  },
  "mini": {
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "e61481ea23787060",
   "money": [
    1000,
@@ -141,7 +141,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "05db3746d520f4c2",
   "money": [
    2000,
@@ -164,14 +164,14 @@
  },
  "mercedes": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -195,7 +195,7 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "byd": {
@@ -206,15 +206,15 @@
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
-  "last_error": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "hyundai": {
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "0ef7bb8ec59ae215",
   "money": [],
   "n_lines": 9,
@@ -232,19 +232,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -256,7 +256,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "71036630d38cc38b",
   "money": [
    91661
@@ -282,7 +282,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -292,7 +292,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -306,26 +306,27 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-11-03T23:17:53+00:00",
-  "digest": "ec14a3464b60e7e1",
+  "fetched": "2026-11-04T03:14:49+00:00",
+  "digest": "48fee3ed9b009d1d",
   "money": [
    1000,
    2000,
    4000,
    5010,
    7204,
+   14400,
    19990,
    28888,
    29990,
@@ -342,18 +343,16 @@
    52990,
    70990
   ],
-  "n_lines": 44,
+  "n_lines": 43,
   "lines": [
    "Deals and Offers",
-   "· 31 active offers",
+   "· 30 active offers",
    "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
    "Search Offers",
-   "Geely Four-Day Sale: Extra $1,000 Factory Bonus (11 to 14 November 2026)",
-   "Vehicle Discount",
-   "Geely is running a four-day sale from Wednesday 11 to Saturday 14 November 2026. An additional $1,000 factory bonus applies to every eligible Geely bought during the promotional period. Eligible models and terms are on Geely Australia's offers page. Conditions apply.",
    "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026)",
    "Geely is offering a 0.68% p.a. comparison rate over a 3-year term on the EX2, EX5 and Starray EM-i from 2 to 30 November 2026. Approval and settlement dates, fees and the comparison rate warning are on Geely Australia's offers page. Conditions apply.",
    "GWM Haval H7 $1,000 Launch Offer",
+   "Vehicle Discount",
    "Receive a $1,000 launch offer on the all-new Haval H7 Lux HEV and Lux PHEV. Driveaway pricing starts from $45,990 for the Lux HEV and $49,990 for the Lux PHEV. Offer ends 30 November 2026.",
    "Geely Trade-In Offer: 1,000kWh Evie Public Charging Credit (November 2026)",
    "Customers who trade in an eligible vehicle when buying a new Geely in November 2026 receive a 1,000kWh public charging credit for the Evie network, valid for one year from activation. Eligible vehicles and full terms are on Geely Australia's offers page. Conditions apply.",
@@ -385,6 +384,7 @@
    "GAC AION UT Drive-Away Offer from $31,990",
    "GAC is running a Q4 national drive-away offer on the AION UT, priced from $31,990 drive-away and bundled with a 22 kW wall charger. A 7% p.a. novated lease offer is also available. Applies to orders placed between 1 October 2026 and 31 December 2026, with a $1,000 deposit required. Prices may vary by state, model, colour, and specification.",
    "XPENG New G6 2.88% p.a. Finance, No Deposit or Balloon",
+   "Polestar 3 Complimentary Drivetrain Upgrade Worth $14,400",
    "We'll email you when a new offer goes live.",
    "Are there EV rebates or incentives in Australia in 2026?",
    "When do EV offers usually expire?"
@@ -403,7 +403,7 @@
   ],
   "n_lines": 8,
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-03T23:17:53+00:00",
+  "last_attempt": "2026-11-04T03:14:49+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -419,7 +419,7 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-11-03T23:17:53+00:00",
+  "fetched": "2026-11-04T03:14:49+00:00",
   "digest": "b2afee05b597e192",
   "money": [
    6056
