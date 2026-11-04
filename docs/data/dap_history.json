@@ -11,6 +11,10 @@
       [
        "2026-10-21",
        64119
+      ],
+      [
+       "2026-11-04",
+       64153
       ]
      ],
      "NSW": [
@@ -25,6 +29,10 @@
       [
        "2026-10-21",
        70371
+      ],
+      [
+       "2026-11-04",
+       70405
       ]
      ],
      "NSW": [
@@ -39,6 +47,10 @@
       [
        "2026-10-21",
        79749
+      ],
+      [
+       "2026-11-04",
+       79783
       ]
      ],
      "NSW": [
@@ -50,7 +62,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "ZEEKR 7X"
   },
@@ -79,18 +91,26 @@
       [
        "2026-10-21",
        59900
+      ],
+      [
+       "2026-11-04",
+       57990
       ]
      ],
      "NSW": [
       [
        "2026-10-21",
        59900
+      ],
+      [
+       "2026-11-04",
+       57990
       ]
      ]
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "ZEEKR X"
   },
@@ -105,6 +125,10 @@
       [
        "2026-10-21",
        124790
+      ],
+      [
+       "2026-11-04",
+       124824
       ]
      ],
      "NSW": [
@@ -119,6 +143,10 @@
       [
        "2026-10-21",
        145823
+      ],
+      [
+       "2026-11-04",
+       145857
       ]
      ],
      "NSW": [
@@ -133,6 +161,10 @@
       [
        "2026-10-21",
        150033
+      ],
+      [
+       "2026-11-04",
+       150067
       ]
      ],
      "NSW": [
@@ -144,7 +176,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "ZEEKR 009"
   },
@@ -170,7 +202,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Mercedes-Benz EQA"
   },
@@ -252,7 +284,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Mercedes-Benz CLA (new generation)"
   },
@@ -334,7 +366,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Mercedes-Benz GLC"
   },
@@ -360,7 +392,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "BMW iX1"
   },
@@ -386,7 +418,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "BMW iX2"
   },
@@ -440,7 +472,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "BMW i4"
   },
@@ -480,7 +512,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Audi Q4 e-tron"
   },
@@ -520,7 +552,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Audi Q4 Sportback e-tron"
   },
@@ -560,7 +592,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Audi Q6 e-tron"
   },
@@ -628,7 +660,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Audi A5 Avant"
   },
@@ -696,7 +728,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Tesla Model Y"
   },
@@ -736,7 +768,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "BYD Sealion 7"
   },
@@ -790,7 +822,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Xpeng G6"
   },
@@ -858,7 +890,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Kia EV5"
   },
@@ -912,7 +944,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "smart #5"
   },
@@ -952,7 +984,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Hyundai Elexio"
   },
@@ -1020,7 +1052,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Polestar 4"
   },
@@ -1074,7 +1106,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Volvo EX30"
   },
@@ -1128,7 +1160,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "smart #1"
   },
@@ -1196,7 +1228,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Tesla Model 3"
   },
@@ -1236,7 +1268,7 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "BYD Seal"
   },
@@ -1290,10 +1322,10 @@
     }
    },
    "last_error": null,
-   "checked": "2026-11-04T03:13:13+00:00",
+   "checked": "2026-11-04T11:32:14+00:00",
    "via": "mirror",
    "label_en": "Polestar 2"
   }
  },
- "updated": "2026-11-04T03:13:13+00:00"
+ "updated": "2026-11-04T11:32:14+00:00"
 }

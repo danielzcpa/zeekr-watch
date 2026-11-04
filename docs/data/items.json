@@ -1,12 +1,280 @@
 [
  {
+  "id": "d82fe645e1aa060f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Supercar Blog",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlhROVFXbVBVVm5TekRzNmRRTEFMNGg0MHhmaHZiczRkaFo2M2w5M3B2d2JzZm0yQW96TW5wVGlfcHNvTHNSdS03NkZkZVpQVy0wNVEzVG9kT2JBa3ptenZiTGRzSWltNm5FT3dqVnkzRlI5SzNkYVMyblhLQjQ3VWdYbmQwZlF3VE9pd2pTc2xvZUxuSjR2ZTJGWlpiUQ?oc=5",
+  "title": "Mercedes G-Class could have a new rival from Chinese brand Zeekr - The Supercar Blog",
+  "text": "Mercedes G-Class could have a new rival from Chinese brand Zeekr The Supercar Blog",
+  "author": "",
+  "published": "2026-11-04T06:52:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "096c3b7ba32a90a8",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/hyundai-kona-tucson-blk-edition-prices-two-more-models-join-sea-of-black-editions-in-australia",
+  "title": "Hyundai Kona, Tucson BLK Edition prices: Two more models join sea of black editions in Australia",
+  "text": "Black editions are all the rage among car brands in Australia, and Hyundai has lobbed two more of them. The Hyundai Kona BLK Edition and Tucson BLK Edition are arriving in showrooms this month, with the latter being the first model in Australia sourced from Vietnam. Based on the Elite trim of each crossover SUV and offered only with front-wheel drive and hybrid power, the BLK Edition models – as their name suggests – feature various elements finished in black, including their wheels and badging. This comes at a $2650 premium, though both special editions feature additional equipment to justify this. The Kona BLK Edition is priced at $42,600 before on-road costs and over the $39,950 Kona Elite HEV 2WD it's based on, adds: 18-inch black alloy wheels Black window surrounds and badging Silver front and rear skid plates Shadow Grey front bumper trim 8-speaker Bose sound system 12.3-inch digital instrument cluster Satellite navigation These join features found on the standard Kona Elite, including: LED headlights with automatic high-beam Keyless entry and start 12.3-inch touchscreen infotainment system Apple CarPlay and Android Auto Wireless phone charger Leather-appointed seat trim Heat",
+  "author": "William Stopford",
+  "published": "2026-11-04T06:08:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "4c85e15f3050397d",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04VE9Wd19nLW92ZUlheHAwR09uRXQ3aFlMbDVpd24xSjNsX0dzQUlyLU1HUUJ1N1pxYy1nQ3dMaklXaS1ZVmxZT2tCSDZpNzkwSlVsaWdvQ2doSU1XMm5xOUp3OGoxdw?oc=5",
+  "title": "Hyundai Staria vs Lepas L6 - CarsGuide",
+  "text": "Hyundai Staria vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T05:21:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "e508aa9cf816b4e3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarNewsChina.com",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGxPMjZPcjNmeHpRTVV4TFdZbEljSVNtRzN2cnF1NWFLSXRtQkxMWG5xcEVvY3BnclVTNFdNQWxpbUJSU0NjYWEtMW9oUkp4UTJzNHhPNUNHM0RZdG9OSXJwaXU1REQtcGxDX1pYVVB6TVc1YXAtb0RJOHo3aU9rNEt6bElpSTU5angyT01FaHc0SEtkbi11dlYtNA?oc=5",
+  "title": "Zeekr plans unibody G-Class rival for 2028–2029 production - CarNewsChina.com",
+  "text": "Zeekr plans unibody G-Class rival for 2028–2029 production CarNewsChina.com",
+  "author": "",
+  "published": "2026-11-04T05:06:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "4a88e82ca02ce122",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/04/teslas-cheapest-model-3-tested-with-fsd-supervised-on-australian-roads/?utm_source=rss&utm_medium=rss&utm_campaign=teslas-cheapest-model-3-tested-with-fsd-supervised-on-australian-roads",
+  "title": "Tesla’s cheapest Model 3 tested with FSD Supervised on Australian roads",
+  "text": "We put Tesla’s cheapest Model 3 to the test on Victorian roads, including with Tesla’s Full Self-Driving (Supervised) technology. The post Tesla’s cheapest Model 3 tested with FSD Supervised on Australian roads appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-11-04T05:05:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "4c1b2afe81c88e58",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/volvo-ex40-replacement-tipped-for-2027-as-brand-plots-turnaround",
+  "title": "Volvo EX40 replacement tipped for 2027 as brand plots turnaround",
+  "text": "A successor to the Volvo EX40 electric SUV is expected to use Volvo’s newer SPA3 underpinnings as one of 13 new models to be launched globally between now and 2030, with electric vehicles (EVs) spearheading a turnaround after falling global sales. Volvo hasn't confirmed the identity of the upcoming model, however it has announced another vehicle on the SPA3 platform targeting a lower-priced market segment than the EX60 SUV, the first model to use the new underpinnings. “In 2027 we will introduce our next BEV car based on the SPA3 platform, targeting a large lower-priced market segment, with the first customer deliveries starting after summer. This will further strengthen our BEV leadership and improve margins,” said Volvo president and CEO Håkan Samuelsson in a statement. While not specifying that the model is an EX40 replacement, the Volvo boss’ reference to a ‘large lower-priced market segment’ points to the so-called C-SUV segment in which the EX40 competes. According to an analysis published by Profit.ro , around 2.43 million C-SUVs were sold in Europe in 2025. The new SPA3 platform uses cell-to-body battery construction, which the company said has contributed to difficulties r",
+  "author": "Damion Smy",
+  "published": "2026-11-04T04:44:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex40"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "2672f4c5f999baf2",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRzV1dVprQVltUlJzREsyc1l2LUFReWJKMGo5c29jMEFtcUdRbW9mcEhCbGVqUnNUOTl1c2tRdmVpYlZOSmxRZ1BOSThNc1pzLThuSzVZQ0hVUTg?oc=5",
+  "title": "Gac M8 vs Lepas L6 - CarsGuide",
+  "text": "Gac M8 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T04:29:25+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "gac-m8"
+  ],
+  "brands": [
+   "gac"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "3816f284b1162005",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CnEVPost",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55clduLTdtbk1nUXQydVhHM0FTRmc4VkhFajk1RlI4RENqdWpJWU5XeFYtb0Q1dEs1LWdMaWp2VkJ3Vm1FS0VMdTRwQXlYaW1KanprQkxfQy1HSzR5U1RKVGxoNm1ZR0k?oc=5",
+  "title": "Zeekr files for updated 001, paving way for Q1 2027 launch - CnEVPost",
+  "text": "Zeekr files for updated 001, paving way for Q1 2027 launch CnEVPost",
+  "author": "",
+  "published": "2026-11-04T03:28:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
   "id": "5bcf06c5c56baaf7",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
   "source_name": "Google News · CarNewsChina.com",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1ZqQUt1R19vclRLclZjemkxRzhmRUNkWktvS1dhTjRsblk4SWhKNXc1dlNDSWpLY0lfMnp0Nm1Pel85WXliNk1sLXZoVUxtQ2I0ZXpKU1RDcnY1cmpPUFpKeWlYdWtIUG5EekpKYnJUdFNKb1B3RHNiclBYbE1HV19XX3AwSW9FYWdOdUpGNkdWNmdteGtfSmJNYjRxNFBIRlFNNUU5alhiV2dtWVNUQVhPOTREaTd6dGc?oc=5",
-  "title": "Zeekr 001 refreshed: new version could feature Geely’s 8-minute fully-charging tech - CarNewsChina.com",
-  "text": "Zeekr 001 refreshed: new version could feature Geely’s 8-minute fully-charging tech CarNewsChina.com",
+  "title": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech - CarNewsChina.com",
+  "text": "2027 Zeekr 001 revealed: new version could feature Geely’s 8-minute fully-charging tech CarNewsChina.com",
   "author": "",
   "published": "2026-11-04T02:44:00+00:00",
   "rating": null,
@@ -26,7 +294,9 @@
    "label": "neutral"
   },
   "severity": null,
-  "signals": [],
+  "signals": [
+   "launch"
+  ],
   "scope": "zeekr",
   "au": false,
   "extra": {},
@@ -175,7 +445,7 @@
  {
   "id": "387027fb8a30bd0b",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
   "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
@@ -415,6 +685,41 @@
   "first_seen": "2026-11-03T23:12:04+00:00"
  },
  {
+  "id": "a74f1b6b2dfff9b2",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaRTE0cGtDd3JuUlBwXzNNWlRrb2pRLVZCb3EyMzR6ZnVXVkpBT2toMTlZRnBNMjhyN0N0LTFIV1Exc0lCT0p0Z2Z1YmRNb19IUEtfSzVmUkFhY0I5ZVJrcUtlNWtDTWhkaXg1cGQySHlWT0E?oc=5",
+  "title": "Comparison: BYD Sealion 7 vs Volvo EX40 - Autohled.cz",
+  "text": "Comparison: BYD Sealion 7 vs Volvo EX40 Autohled.cz",
+  "author": "",
+  "published": "2026-11-03T20:27:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7",
+   "volvo-ex40"
+  ],
+  "brands": [
+   "volvo",
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
   "id": "a786b40a0f197750",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -481,11 +786,11 @@
  {
   "id": "1c1f8d6032f03f13",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl9tejhueE54d01jRXlnVklsdHhsX2tDQ1dwc0F1ZDNOYld3c1BzT1I3WnB6NEdoZjE2azh2Rm9idFBXZ3Y5LW5GT243bUdkSDhsQ0VlWXV5NHhHdk1YamtvUkdYdGlQc2R2TkR5Y3BJV3AtSG1JZlJteG1FMkdHRW9VMzBJT3VOaGp4S1cwNFI2bU82X2RqcTY4NVF2eDBRcTVmTHk2TDRDOEt6SWhqX2xrU1lIb2tJX0NHVA?oc=5",
-  "title": "'Flipped the script': Real reason sales of 2026 Tesla Model Y, Zeekr 7X, Geely EX5 have skyrocketed - CarsGuide",
-  "text": "'Flipped the script': Real reason sales of 2026 Tesla Model Y, Zeekr 7X, Geely EX5 have skyrocketed CarsGuide",
+  "title": "'Flipped the script': Real reason sales of 2026 Tesla model Y, Zeekr 7X, Geely EX5 have skyrocketed - CarsGuide",
+  "text": "'Flipped the script': Real reason sales of 2026 Tesla model Y, Zeekr 7X, Geely EX5 have skyrocketed CarsGuide",
   "author": "",
   "published": "2026-11-03T16:00:00+00:00",
   "rating": null,
@@ -650,6 +955,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-03T17:41:23+00:00"
+ },
+ {
+  "id": "8a6378274b4195f0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-11-03T09:13:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "064fcb4c32ef7101",
@@ -1531,6 +1867,41 @@
   "first_seen": "2026-11-04T03:09:18+00:00"
  },
  {
+  "id": "d267055a6c3273cb",
+  "type": "competitor_news",
+  "source": "chasingcars",
+  "source_name": "Chasing Cars",
+  "url": "https://www.chasingcars.com.au/news/future-cars/luxury-ev-brand-hongqi-coming-to-australia-with-e-hs9-suv-set-to-rival-volvo-ex90-and-benz-eqs/",
+  "title": "Luxury EV brand HongQi coming to Australia with E-HS9 SUV set to rival Volvo EX90 and ‘Benz EQS",
+  "text": "China’s latest Aussie bound moniker – HongQi – plans to ‘distinguish itself from century-old Western luxury brands’ with the release of an ultra-lux large electric SUV",
+  "author": "",
+  "published": "2026-11-03T01:47:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex90"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
   "id": "39f20088fd4c9591",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -1848,7 +2219,7 @@
  {
   "id": "9eee2018b5e1714c",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnVyZUF5NThCbU1jX3Z5cjdHYjBfTVJHajBKX0JGRFJ2SlVqdHc0WmxVWTdQYjc2R1Jjc1I2SzE5QnZQbGJPN2tnN3BfZHlZdmFyZHF2aExING9jOURPSkNWSHh0V2ZlODdrSXlkR3JpU3dJREx2aEZfVGI3MDRyTWNHVUZNaVlHOWdMOGpWNnNiT0NoRGpZ?oc=5",
   "title": "Secret first look at Kia's next big EV launch - Drive",
@@ -1943,6 +2314,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-03T09:58:38+00:00"
+ },
+ {
+  "id": "a001db3aeca16f75",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZXJLZjl2eHFJS0ViMHU3eVVFVm5tWVZrUDhiVnR6WGVseld1LVk5ZlFhZW1rTUUtdndXSy1RQmJwUURiRks2Q1Q3a05jVWFaVk1XTUJpaXE4MlAwbTFr?oc=5",
+  "title": "Geely EX5 vs Lepas L6 - CarsGuide",
+  "text": "Geely EX5 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-02T15:18:03+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
  },
  {
   "id": "b3d93dc68a219878",
@@ -2158,7 +2562,7 @@
  {
   "id": "7389d244a24d8fa5",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · GoAuto.com.au",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHJDVksxdTh6UmV1NW56MkVwekh6aTczdmsyWWotbGdqSVhTN3hXX0dqV0lIY2p1UGd0d29DVVpXcDY0cnNIbUpBN0dmUlpPVzVMaHo0MUZjLUMxbmE4Y0xRcXZBV2V4NHRWMTh3dGNKM2NOMmtjZUxqdW4zRDAwY3BXSy0xTFMxWldCNXhNaHFjZVFVaWJWR0N2TkMtYmE3VzBpUjVXWWpBVkFodTVWSlFpSlRLYTVWZzhyVHpBU0NLZw?oc=5",
   "title": "Hyundai Staria Load expectations revealed - GoAuto.com.au",
@@ -2624,6 +3028,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
+ },
+ {
+  "id": "e36056fc633feda6",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDBIbTFmbFRpUmdMWDJCdDBZZ0F6SVEyT1prRDZZeFhkR0dXdmJ4Y1drbDFKUGE0bmNZZUlObGhsOHZXaXFQdkwxUTJuYTI5dldLUU5lQVNYMjA4NEZrYzdkZ1lkcWR6dVVPd2VGcXVLTThUSHFySmlvWVNHVC1LS09MZDg2Zw?oc=5",
+  "title": "Zeekr cars that are brands from China between $35,000 & $200,000 for sale or order in Australia - Carsales",
+  "text": "Zeekr cars that are brands from China between $35,000 & $200,000 for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-11-02T02:43:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
  },
  {
   "id": "46939442d012d421",
@@ -5536,6 +5973,39 @@
   "first_seen": "2026-10-31T21:23:11+00:00"
  },
  {
+  "id": "73dc90e95df08b47",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGNHZnNpUGxRdkpKS1VRWFlhdWtWS0dCSllyNzUxR3VNQ0ppY1BFXzhLWmo2b0Z5MDVqNFJYOFdIYWc3T1BxSWpTSHhwQkpqTUpBT2l2dDRnS2llUFdCOXg0eWFRU3FYa3BJRXZ5LXY5dkRUNXVqZkRFY3I1eENQUXA3SlZORXlVeHJKTHRXMUNhd0I3OHJN?oc=5",
+  "title": "Zeekr cars between $20,000 & $50,000 with electric engine range over 300km for sale in Australia - Carsales",
+  "text": "Zeekr cars between $20,000 & $50,000 with electric engine range over 300km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-30T09:39:17+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
   "id": "0f8c04db6a8eb164",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -5778,6 +6248,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T08:54:34+00:00"
+ },
+ {
+  "id": "85a9d6e38cf182f2",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0ZVVklZdHpsb0xkRnBhMzhYcTNBcWE3ejQ3WTc4RVJnNnkxeEl5N1V3VHplLVJIWERQNm83enpsQ0JwemlvQ1VocERRSnRNSXdMYlIwV0RwWWJjVGJqVnNpazhiZlpVd1BSN00zNU9mcHVwRWhIZHFHWERuU2hndnVWNTQ?oc=5",
+  "title": "Zeekr cars over $90,000 with battery capacity over 10kWh for sale or order in Australia - Carsales",
+  "text": "Zeekr cars over $90,000 with battery capacity over 10kWh for sale or order in Australia Carsales",
+  "author": "",
+  "published": "2026-10-30T04:26:52+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
  },
  {
   "id": "a945902521f2d934",
@@ -6977,6 +7481,40 @@
   "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
+  "id": "dd3cba26544ad49e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFg3azhmOXpGbzl1Q3NjVWt3UVJZOW9KZi1pNFc2aTMtdEZ1T1NiSFZ2ajhDYmxBV00zUTEzSGQ1X3dhazRUVW05aHlrcWJRa0JVQkpOQXktZFJEOG1uNjRGczVQRkIzZThWbHNmYXNzenlQbi1jTXVqWnBkWFdyNWYzNFY4bVhGS0VXSkhTb2p3UmtuU0dHSm9WcGQ5SHNudG10ZG9rUEpVYjNTTVdDTGgxb21WeGVN?oc=5",
+  "title": "Zeekr Not Applicable cars between $25,000 & $50,000 with electric engine range over 350km for sale in Australia - Carsales",
+  "text": "Zeekr Not Applicable cars between $25,000 & $50,000 with electric engine range over 350km for sale in Australia Carsales",
+  "author": "",
+  "published": "2026-10-28T11:43:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
   "id": "71cb4f255e80973c",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -7068,37 +7606,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-28T14:23:40+00:00"
- },
- {
-  "id": "8a6378274b4195f0",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-28T09:33:34+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "ce243dbac0594d56",
@@ -15425,37 +15932,6 @@
   "first_seen": "2026-10-20T06:29:57+00:00"
  },
  {
-  "id": "f7d6696ca5aa3f96",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZS2RpNW9rUGIxTGRRQ2xqWnowbGdJalpQbS1MUTdyOTB0U0Q3cGZ6VkNoclRyOGZjVnpyQ0dWeUY4ekdmUTFXUDFiZ3UtcXBockF6NkRlMDE2R3FLUHhaalhn?oc=5",
-  "title": "Zeekr 7 GT/007 GT - Automotive - Whirlpool Forums",
-  "text": "Zeekr 7 GT/007 GT - Automotive Whirlpool Forums",
-  "author": "",
-  "published": "2026-10-20T04:07:37+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T00:34:31+00:00"
- },
- {
   "id": "e80ebfeda1363b05",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -18436,41 +18912,6 @@
   "competitors": [],
   "brands": [
    "volvo"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-19T22:16:04+00:00"
- },
- {
-  "id": "6c8a09ae665a20cb",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92TDAxRDZVQ0tGNVlldkRIUmFvTl8zekt2anJUdFVVdHZfX3BBaWw4WFppeFl4aDJ4WW1kQm54emV4ckh5U0NvcjNGNGVldWs?oc=5",
-  "title": "Kia EV5 review, price and specs: every 2026 variant compared - EV Central",
-  "text": "Kia EV5 review, price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "kia-ev5"
-  ],
-  "brands": [
-   "kia"
   ],
   "categories": [],
   "sentiment": {
@@ -26148,6 +26589,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "6c8a09ae665a20cb",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92TDAxRDZVQ0tGNVlldkRIUmFvTl8zekt2anJUdFVVdHZfX3BBaWw4WFppeFl4aDJ4WW1kQm54emV4ckh5U0NvcjNGNGVldWs?oc=5",
+  "title": "Kia EV5 review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Kia EV5 review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-11T06:53:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-19T22:16:04+00:00"
  },
  {
   "id": "ca8300a0bf36efb4",
@@ -45135,36 +45611,5 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "3f01313344ecb558",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NcHNyNE9zR0djVmpjQUdvYmljRHBVR0pkN2psQ3Y4MGI2ZHdzWHpMOFBuTm5LUWo0NnV2SmxJeWpndks4Nm1aNmVIYU9rTWlYNTQ4T3IwNWlWcTZUd1pTYm5jcw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-08T07:15:14+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-25T01:32:33+00:00"
  }
 ]

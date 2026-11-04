@@ -1,5 +1,18 @@
 [
  {
+  "id": "183765d7926d5482",
+  "key": "kia",
+  "brand": "Kia",
+  "url": "https://www.kia.com/au/offers.html",
+  "detected": "2026-11-04T11:33:50+00:00",
+  "added": [
+   "Latest Car Offers & Deals from Kia"
+  ],
+  "removed": [
+   "Latest Offers & Deals from Kia"
+  ]
+ },
+ {
   "id": "877c9736e5e456b1",
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",

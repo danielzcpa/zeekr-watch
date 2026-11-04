@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-04T03:09:18+00:00",
- "duration_s": 333.1,
- "items_total": 1311,
- "new_this_run": 202,
+ "generated": "2026-11-04T11:28:42+00:00",
+ "duration_s": 309.7,
+ "items_total": 1324,
+ "new_this_run": 235,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -10,11 +10,11 @@
   "high_7d": 3,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 124,
-  "launch_signals_7d": 25,
+  "competitor_news_7d": 117,
+  "launch_signals_7d": 21,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 55,
-  "offer_page_changes_7d": 16
+  "zeekr_news_7d": 59,
+  "offer_page_changes_7d": 17
  },
  "series_30d": [
   {
@@ -50,7 +50,7 @@
   {
    "date": "2026-10-11",
    "complaints": 1,
-   "competitor_news": 7,
+   "competitor_news": 8,
    "zeekr_news": 5
   },
   {
@@ -86,7 +86,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 20,
+   "competitor_news": 19,
    "zeekr_news": 9
   },
   {
@@ -153,7 +153,7 @@
    "date": "2026-10-28",
    "complaints": 0,
    "competitor_news": 18,
-   "zeekr_news": 7
+   "zeekr_news": 8
   },
   {
    "date": "2026-10-29",
@@ -165,7 +165,7 @@
    "date": "2026-10-30",
    "complaints": 2,
    "competitor_news": 15,
-   "zeekr_news": 10
+   "zeekr_news": 12
   },
   {
    "date": "2026-10-31",
@@ -182,20 +182,20 @@
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 18,
-   "zeekr_news": 11
+   "competitor_news": 19,
+   "zeekr_news": 12
   },
   {
    "date": "2026-11-03",
    "complaints": 2,
-   "competitor_news": 29,
+   "competitor_news": 31,
    "zeekr_news": 7
   },
   {
    "date": "2026-11-04",
    "complaints": 0,
-   "competitor_news": 4,
-   "zeekr_news": 3
+   "competitor_news": 9,
+   "zeekr_news": 6
   }
  ],
  "categories_30d": [
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -418,10 +418,12 @@
    "latest": "db98b7fc96217946"
   },
   "volvo-ex40": {
-   "n_30d": 1,
-   "launch": [],
+   "n_30d": 3,
+   "launch": [
+    "4c1b2afe81c88e58"
+   ],
    "offer": [],
-   "latest": "ae56fe47f847176d"
+   "latest": "4c1b2afe81c88e58"
   },
   "kia-ev6": {
    "n_30d": 8,
@@ -492,7 +494,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 9,
+   "n_30d": 10,
    "launch": [
     "9443a47dfbdd8ef2",
     "06fa47391abc61ff",
@@ -510,7 +512,7 @@
    "latest": "9443a47dfbdd8ef2"
   },
   "tesla-model-3": {
-   "n_30d": 20,
+   "n_30d": 21,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -527,7 +529,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "4a80263afe3566ca"
+   "latest": "4a88e82ca02ce122"
   },
   "polestar-2": {
    "n_30d": 3,
@@ -660,12 +662,12 @@
    "latest": null
   },
   "gac-m8": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "a8af33cd32623473"
    ],
    "offer": [],
-   "latest": "a8af33cd32623473"
+   "latest": "2672f4c5f999baf2"
   },
   "byd-m9": {
    "n_30d": 6,
@@ -845,8 +847,9 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
+    "d267055a6c3273cb",
     "2c67435d1d334093",
     "205ea3973e46d6d4",
     "3f9332c133dcaa96",
@@ -855,7 +858,7 @@
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "53adbdf5104cfb9d"
+   "latest": "d267055a6c3273cb"
   },
   "bmw-ix": {
    "n_30d": 0,
@@ -903,12 +906,12 @@
    "latest": null
   },
   "hyundai-staria": {
-   "n_30d": 2,
+   "n_30d": 3,
    "launch": [
     "7389d244a24d8fa5"
    ],
    "offer": [],
-   "latest": "7389d244a24d8fa5"
+   "latest": "4c85e15f3050397d"
   },
   "ldv-mifa": {
    "n_30d": 0,
@@ -918,6 +921,24 @@
   }
  },
  "alerts": [
+  {
+   "kind": "offer_page_change",
+   "id": "183765d7926d5482",
+   "title": "Kia 官网政策页面变化（+1 / −1 行）",
+   "title_en": "Kia offer page changed (+1 / −1 lines)",
+   "source": "https://www.kia.com/au/offers.html",
+   "t": "2026-11-04T11:33:50+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "4c1b2afe81c88e58",
+   "title": "Volvo EX40 replacement tipped for 2027 as brand plots turnaround",
+   "source": "CarExpert",
+   "t": "2026-11-04T04:44:00+00:00",
+   "competitors": [
+    "volvo-ex40"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "877c9736e5e456b1",
@@ -1000,6 +1021,16 @@
    "t": "2026-11-03T02:35:00+00:00",
    "competitors": [
     "geely-ex5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "d267055a6c3273cb",
+   "title": "Luxury EV brand HongQi coming to Australia with E-HS9 SUV set to rival Volvo EX90 and ‘Benz EQS",
+   "source": "Chasing Cars",
+   "t": "2026-11-03T01:47:14+00:00",
+   "competitors": [
+    "volvo-ex90"
    ]
   },
   {
@@ -1144,12 +1175,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 100,
+   "count": 76,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 26,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1164,7 +1195,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 100,
+   "count": 55,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1174,32 +1205,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 78,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 43,
+   "count": 45,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 18,
+   "count": 25,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 45,
+   "count": 49,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 35,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 100,
+   "count": 73,
    "note": ""
   },
   "carexpert": {
@@ -1258,9 +1289,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1268,9 +1299,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 22,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1280,12 +1311,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1329,7 +1360,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 27,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1360,7 +1391,7 @@
   "sales-thedriven": {
    "ok": true,
    "count": 136,
-   "note": "136 BEV models, 2026-01..2026-09"
+   "note": "136 BEV models, 2026-01..2026-10"
   },
   "beep-zeekr/7x": {
    "ok": true,
@@ -1695,7 +1726,7 @@
   "offers-kia": {
    "ok": true,
    "count": 30,
-   "note": "unchanged"
+   "note": "changed"
   },
   "offers-polestar": {
    "ok": true,
@@ -1785,7 +1816,7 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 43,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-thebeep-offers": {
    "ok": false,
