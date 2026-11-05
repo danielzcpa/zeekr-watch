@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-05T00:17:48+00:00",
- "duration_s": 311.8,
- "items_total": 1336,
- "new_this_run": 172,
+ "generated": "2026-11-05T07:16:57+00:00",
+ "duration_s": 123.2,
+ "items_total": 1348,
+ "new_this_run": 175,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -10,11 +10,11 @@
   "high_7d": 3,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 120,
-  "launch_signals_7d": 22,
-  "offer_signals_7d": 3,
-  "zeekr_news_7d": 60,
-  "offer_page_changes_7d": 17
+  "competitor_news_7d": 125,
+  "launch_signals_7d": 25,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 62,
+  "offer_page_changes_7d": 15
  },
  "series_30d": [
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-11-05",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 0
+   "competitor_news": 8,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -335,7 +335,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 27,
+   "n_30d": 28,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -349,7 +349,7 @@
    "offer": [
     "36b6bc6c0c756e02"
    ],
-   "latest": "cc49fc3f5de9e799"
+   "latest": "54b5d83ec5da372d"
   },
   "xpeng-g6": {
    "n_30d": 5,
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -370,10 +370,10 @@
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "286c09e247743e6d"
+   "latest": "54b5d83ec5da372d"
   },
   "kia-ev5": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "69780f30556bd85d",
     "7e94a8dd0f108e63",
@@ -382,7 +382,7 @@
     "6c8a09ae665a20cb"
    ],
    "offer": [],
-   "latest": "f7f79b162fb13d67"
+   "latest": "44134e8e29091fa7"
   },
   "hyundai-elexio": {
    "n_30d": 3,
@@ -419,12 +419,13 @@
    "latest": "db98b7fc96217946"
   },
   "volvo-ex40": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "9e424fc1a04fa9c6",
     "4c1b2afe81c88e58"
    ],
    "offer": [],
-   "latest": "4c1b2afe81c88e58"
+   "latest": "9e424fc1a04fa9c6"
   },
   "kia-ev6": {
    "n_30d": 8,
@@ -533,14 +534,15 @@
    "latest": "4a88e82ca02ce122"
   },
   "polestar-2": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "6550b50254121430",
     "479081910d666025"
    ],
    "offer": [
     "9c17ca6e0e68d5e3"
    ],
-   "latest": "9c17ca6e0e68d5e3"
+   "latest": "6550b50254121430"
   },
   "byd-seal": {
    "n_30d": 11,
@@ -907,12 +909,15 @@
    "latest": null
   },
   "hyundai-staria": {
-   "n_30d": 3,
+   "n_30d": 5,
    "launch": [
+    "2e734789c3bd7efc",
     "7389d244a24d8fa5"
    ],
-   "offer": [],
-   "latest": "4c85e15f3050397d"
+   "offer": [
+    "2e734789c3bd7efc"
+   ],
+   "latest": "b45a9e2747bc2bd1"
   },
   "ldv-mifa": {
    "n_30d": 0,
@@ -922,6 +927,36 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "2e734789c3bd7efc",
+   "title": "2027 Hyundai Staria Load Electric review: Quick drive",
+   "source": "CarExpert",
+   "t": "2026-11-05T06:00:00+00:00",
+   "competitors": [
+    "hyundai-staria"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "9e424fc1a04fa9c6",
+   "title": "Volvo boss says new battery-electric car is coming next year – and it could be the replacement for the EX40",
+   "source": "WhichCar",
+   "t": "2026-11-05T03:47:19+00:00",
+   "competitors": [
+    "volvo-ex40"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "6550b50254121430",
+   "title": "Farewell Polestar 2: Production ends for the Volvo that built an electric car brand",
+   "source": "EV Central",
+   "t": "2026-11-05T01:00:00+00:00",
+   "competitors": [
+    "polestar-2"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "69780f30556bd85d",
@@ -1073,80 +1108,22 @@
    "competitors": [
     "polestar-4"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "fff2ce97eb6f9265",
-   "title": "Mazda 官网政策页面变化（+0 / −2 行）",
-   "title_en": "Mazda offer page changed (+0 / −2 lines)",
-   "source": "https://www.mazda.com.au/offers/",
-   "t": "2026-11-02T06:44:00+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "ad27d8cae9c159f5",
-   "title": "MG / IM 官网政策页面变化（+2 / −0 行）",
-   "title_en": "MG / IM offer page changed (+2 / −0 lines)",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-11-02T06:44:00+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "1ebc1d7a0dafcbc5",
-   "title": "Kia 官网政策页面变化（+28 / −1 行）",
-   "title_en": "Kia offer page changed (+28 / −1 lines)",
-   "source": "https://www.kia.com/au/offers.html",
-   "t": "2026-11-02T06:44:00+00:00"
-  },
-  {
-   "kind": "competitor_offer",
-   "id": "3042421714674945",
-   "title": "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026) - Zecar",
-   "source": "Google News · Zecar",
-   "t": "2026-11-02T06:32:02+00:00",
-   "competitors": [
-    "geely-ex5"
-   ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "ed392c540b233885",
-   "title": "Zeekr (Zecar) 官网政策页面变化（+1 / −0 行）",
-   "title_en": "Zeekr (Zecar) offer page changed (+1 / −0 lines)",
-   "source": "https://zecar.com/offers-and-deals/zeekr",
-   "t": "2026-11-02T02:24:46+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "4413e93a5d117a64",
-   "title": "Zecar (all-brand offers) 官网政策页面变化（+7 / −5 行）",
-   "title_en": "Zecar (all-brand offers) offer page changed (+7 / −5 lines)",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-11-02T02:24:46+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "c39f7ec350c74fec",
-   "title": "MG / IM 官网政策页面变化（+1 / −1 行）",
-   "title_en": "MG / IM offer page changed (+1 / −1 lines)",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-11-02T02:24:46+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 74,
+   "count": 76,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 30,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1171,27 +1148,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 24,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 15,
+   "count": 17,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 24,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 31,
+   "count": 32,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 41,
+   "count": 34,
    "note": ""
   },
   "carexpert": {
@@ -1250,9 +1227,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1267,7 +1244,7 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
@@ -1321,7 +1298,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 27,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1346,138 +1323,138 @@
   },
   "sales-atlas": {
    "ok": true,
-   "count": 479,
-   "note": "September 2026: 479 models, total 105393"
+   "count": 482,
+   "note": "October 2026: 482 models, total 107493 (new month)"
   },
   "sales-thedriven": {
    "ok": true,
-   "count": 136,
-   "note": "136 BEV models, 2026-01..2026-10"
+   "count": 138,
+   "note": "138 BEV models, 2026-01..2026-10"
   },
   "beep-zeekr/7x": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-zeekr/x": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-zeekr/009": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-mercedes-benz/eqa-suv": {
    "ok": true,
    "count": 1,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-mercedes-benz/cla-coupe": {
    "ok": true,
    "count": 5,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-mercedes-benz/glc-suv": {
    "ok": true,
    "count": 5,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-bmw/ix1": {
    "ok": true,
    "count": 1,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-bmw/ix2": {
    "ok": true,
    "count": 1,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-bmw/i4-gran-coupe": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-audi/q4-e-tron": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-audi/q4-sportback-e-tron": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-audi/q6-e-tron": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-audi/a5-avant": {
    "ok": true,
    "count": 4,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-tesla/model-y": {
    "ok": true,
    "count": 4,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-byd/sealion-7": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-xpeng/g6": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-kia/ev5": {
    "ok": true,
    "count": 4,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-smart/5": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-hyundai/elexio": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-polestar/4": {
    "ok": true,
    "count": 4,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-volvo/ex30": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-smart/1": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-tesla/model-3": {
    "ok": true,
    "count": 4,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-byd/seal": {
    "ok": true,
    "count": 2,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-polestar/2": {
    "ok": true,
    "count": 3,
-   "note": "via mirror"
+   "note": ""
   },
   "beep-prices": {
    "ok": true,
@@ -1550,9 +1527,9 @@
    "note": ""
   },
   "beep-offers-leapmotor": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403; mirror HTTP 503"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-deepal": {
    "ok": true,
@@ -1677,7 +1654,7 @@
   "policy-events": {
    "ok": true,
    "count": 0,
-   "note": "0 new; 37/38 feeds ok"
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1695,9 +1672,9 @@
    "note": "unchanged"
   },
   "offers-mini": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 47,
+   "note": "first snapshot"
   },
   "offers-mg": {
    "ok": true,
@@ -1725,9 +1702,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
   },
   "offers-hyundai": {
    "ok": true,
@@ -1780,9 +1757,9 @@
    "note": "unchanged"
   },
   "offers-thebeep-offers": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403"
+   "ok": true,
+   "count": 8,
+   "note": "unchanged"
   },
   "offers-zeekr-offers-zecar": {
    "ok": true,

@@ -1,5 +1,455 @@
 [
  {
+  "id": "b45a9e2747bc2bd1",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE9GalpBVzNISDdJQlpfRmtTZVk2c2hiT3VBQVdHM2pEX0lfUDRPQVNZYURMd3pxZU1CRmpoeHdSZzl5akI4TERILXFlbm8wRFBCSjhjMkpQTnQxOE9wcGROOTl1ZndGZm5pb240Z3BwXy1XUGgzeGRaUTJjb2UwUWVFM2NzWkZfdjlSRW82dnhtY0xNNGJ0YzFB?oc=5",
+  "title": "Hyundai Staria Load Electric 2026 Review - Carsales",
+  "text": "Hyundai Staria Load Electric 2026 Review Carsales",
+  "author": "",
+  "published": "2026-11-05T06:08:31+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "2e734789c3bd7efc",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-hyundai-staria-load-electric-review-quick-drive",
+  "title": "2027 Hyundai Staria Load Electric review: Quick drive",
+  "text": "The term ‘quality of life’ will mean different things to different people. But ultimately, it’s about having options. And Hyundai just gave commercial van buyers another option. The Staria Load range has expanded with a new electric version joining the diesel and hybrid variants for 2027. When it comes to performance, the Staria Load Electric sits between the other two, with more power but less torque than the diesel, and less power but more torque than the hybrid. However, in terms of pricing, the battery-powered Staria Load sits at the top of the lineup, being $21,000 pricier than the diesel and $17,500 more expensive than the hybrid. And while that may seem like a steep premium, for those using a van in a professional context – like tradies and ‘last-mile’ couriers – it can make a lot of sense. For many, their days are made up of a lot of small trips – all conducted within a certain area – with perhaps a single journey to the depot or distribution centre to start or end their day. Modelling submitted by the Trade Workers Union to the Fair Work Commission in March 2026 suggests that last-mile couriers – the people delivering your wine-induced Amazon packages at all hours – are co",
+  "author": "Ben Zachariah",
+  "published": "2026-11-05T06:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_rise",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "301bd41915316f3e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarNewsChina.com",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmx3SjlNU3JKTG1fdHVBeDMzZG9lcWtla0VNTFVGWVBUTkd1bVhhNkVOV3RMck9RQVJpS2MyVFRQd25lb19qM190a3NjeHJPU2FsempWUGtvaGxJRHhMVnRlX2FQNHpYUVlVdEdDeU9vbUJqUjZGaDRtVnliM1N4LThnVk4zN2h1NkM4cnNMZ2VZRWhwWkJ5S2ROUGFucEd4S0RuMHVPT1FjMDduWkMtZA?oc=5",
+  "title": "Zeekr opens pre-sales for the 2027 Zeekr 7X in China, starting at 34,300 USD - CarNewsChina.com",
+  "text": "Zeekr opens pre-sales for the 2027 Zeekr 7X in China, starting at 34,300 USD CarNewsChina.com",
+  "author": "",
+  "published": "2026-11-05T04:14:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "9e424fc1a04fa9c6",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/volvo-new-battery-electric-car-ex40-ex50-small-suv",
+  "title": "Volvo boss says new battery-electric car is coming next year – and it could be the replacement for the EX40",
+  "text": "Volvo has confirmed plans to introduce a more affordable electric vehicle in 2027, with reports suggesting it could replace the ageing EX40 SUV. The post Volvo boss says new battery-electric car is coming next year – and it could be the replacement for the EX40 first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-05T03:47:19+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "volvo-ex40"
+  ],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "57fa1eec54c7d003",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/kia-ev7-new-midsize-electric-suv",
+  "title": "The Kia EV7 will be a new midsize all-electric SUV – and we’ve rendered what it could look like",
+  "text": "A leaked internal document has revealed plans for a Kia EV7 electric SUV, and we've rendered what it could possibly look like when it gets revealed. The post The Kia EV7 will be a new midsize all-electric SUV – and we’ve rendered what it could look like first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-05T03:28:07+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "quality",
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "5bf1fb566cb5363a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXkzdjRodEYya3ZSODY4eGlyYkxGc2RsR1lLMm9sWXhRdzlVOFlaYTIzTGFrakhzMTE0UkpNUVVCSXhuSzh1X2lLNFNZVXFXbERYMmw5VVc5YTU5Q2RQVXdjRDUxVXFhdlhnVWVKWWpCQ0xIcTlqM25ReXpJcTNXWUgxVHkwbzE3WDl3ZmVhZ0ZHbTRmU1Z3?oc=5",
+  "title": "Book your Zeekr's next service at Zeekr Carro's Sri Damansara centre – maintenance, body and paint - Paul Tan's Automotive News",
+  "text": "Book your Zeekr's next service at Zeekr Carro's Sri Damansara centre – maintenance, body and paint Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-11-05T03:02:39+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "d96e6c8d4d8fc415",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xo7iuu/what_does_a_7x_sound_like_when_driving_slow_under/",
+  "title": "What does a 7x sound like when driving slow under ADR 113/00",
+  "text": "A question for owners .. what does a slow moving 7x sound like forward and reverse? https://zecar.com/reviews/australia-ev-warning-sound-rule-now-in-force-for-all-models",
+  "author": "/u/Insights4TeePee",
+  "published": "2026-11-05T02:45:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "0bd54bc0604418c7",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CnEVPost",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCbnVpQkxaaXZkLUxmS1BrSGh0Q2l6UVZ0OWhFTUpWWDNhLWR2RWdaSVdVOEh4N3BNQ0RQQkJQZVAtMzRQREFPdHBIVnZEM21FbC16Yk5RdDBHYnNjVGVWeGQ1UUF5NzFGQnpMUFhubHc?oc=5",
+  "title": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades - CnEVPost",
+  "text": "Zeekr starts pre-sales for updated 7X in China at $34,220 with battery and comfort upgrades CnEVPost",
+  "author": "",
+  "published": "2026-11-05T02:34:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "54b5d83ec5da372d",
+  "type": "competitor_news",
+  "source": "thedriven-zeekr",
+  "source_name": "The Driven (Zeekr)",
+  "url": "https://thedriven.io/2026/11/05/electric-cars-outsell-petrol-for-third-straight-month-in-australia-as-byd-atto-2-sales-surge/?utm_source=rss&utm_medium=rss&utm_campaign=electric-cars-outsell-petrol-for-third-straight-month-in-australia-as-byd-atto-2-sales-surge",
+  "title": "Electric cars outsell petrol for third straight month in Australia",
+  "text": "EVs claim 23.1 per cent of Australia’s new vehicle market in October, again outselling petrol-only cars, with Tesla’s Model Y and BYD’s Sealion 7 leading sales. The post Electric cars outsell petrol for third straight month in Australia appeared first on The Driven.",
+  "author": "Sam Parkinson",
+  "published": "2026-11-05T02:24:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "6550b50254121430",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/farewell-polestar-2-production-ends-for-the-volvo-that-built-an-electric-car-brand/",
+  "title": "Farewell Polestar 2: Production ends for the Volvo that built an electric car brand",
+  "text": "Polestar 2 production has ended in China after six years and 6706 Australian sales, with an all-new electric fastback due to launch globally in early 2027. The post Farewell Polestar 2: Production ends for the Volvo that built an electric car brand appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-05T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "volvo",
+   "polestar"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "fb698e38453aa036",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xo58dc/whats_one_thing_youd_never_do_again_when_buying_a/",
+  "title": "What's one thing you'd NEVER do again when buying a car?",
+  "text": "",
+  "author": "/u/DealerPulseAU",
+  "published": "2026-11-05T00:53:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "44134e8e29091fa7",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPY3dqSFd1QkUyeTU5RWdHdktYeXNNSjZNb3NtclZuUExadmNDLUo5bDhZdWQ1TTd5ZG9SdUlxQmFoVWNpdU1PaHc5X0dzcVlnY0I2emVBTVJ5UXFJbHpzMGdHSkZrei10YWgzSGMyejlHdUhqYlFqa2xfVlBRMk1BazZoRnRqc1Z4UDJDa1ppREJBRFM5VWVTOHJHSUlyTXBzNFF4RHp5MzRCblpXZ0drSlQ5VFN5TjBNX1p5UjdyWEZYOVA2NGw2c3NpbG8wWHZQRlBVdTlCZnN5NHFFc1JUTDZhSWNZQ0FSZDFjRmVKRHNTZHF1bXpB?oc=5",
+  "title": "Updated 2027 Kia EV5 exposed in Korea - Carsales",
+  "text": "Updated 2027 Kia EV5 exposed in Korea Carsales",
+  "author": "",
+  "published": "2026-11-05T00:51:51+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "5550516399f0ba9b",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · 4X4 Australia",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YVl9NRHpNbW5xSm9FT3BDX05RQkdMTFIxX2R1Z1RsamtMWnotaXZadTRNRUpsTjlkUG81NWxiZkdpU3ZTdlFjYURFVTRTMGxCMFNIYldRNGtHd3VSdVBRM3FkMnJVVUFYQmZGVDY5cm1Cdk56NE84?oc=5",
+  "title": "BYD Denza N9 EV revealed with 890kW punch - 4X4 Australia",
+  "text": "BYD Denza N9 EV revealed with 890kW punch 4X4 Australia",
+  "author": "",
+  "published": "2026-11-05T00:01:03+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
   "id": "1178edaa1392dd17",
   "type": "competitor_news",
   "source": "carexpert",
@@ -826,7 +1276,7 @@
  {
   "id": "387027fb8a30bd0b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
   "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
@@ -856,7 +1306,7 @@
    "launch",
    "offer"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T03:09:18+00:00"
@@ -1170,8 +1620,8 @@
   "source": "gn-zeekr-1d",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl9tejhueE54d01jRXlnVklsdHhsX2tDQ1dwc0F1ZDNOYld3c1BzT1I3WnB6NEdoZjE2azh2Rm9idFBXZ3Y5LW5GT243bUdkSDhsQ0VlWXV5NHhHdk1YamtvUkdYdGlQc2R2TkR5Y3BJV3AtSG1JZlJteG1FMkdHRW9VMzBJT3VOaGp4S1cwNFI2bU82X2RqcTY4NVF2eDBRcTVmTHk2TDRDOEt6SWhqX2xrU1lIb2tJX0NHVA?oc=5",
-  "title": "'Flipped the script': Real reason sales of 2026 Tesla model Y, Zeekr 7X, Geely EX5 have skyrocketed - CarsGuide",
-  "text": "'Flipped the script': Real reason sales of 2026 Tesla model Y, Zeekr 7X, Geely EX5 have skyrocketed CarsGuide",
+  "title": "'Flipped the script': Real reason sales of 2026 Tesla Model Y, Zeekr 7X, Geely EX5 have skyrocketed - CarsGuide",
+  "text": "'Flipped the script': Real reason sales of 2026 Tesla Model Y, Zeekr 7X, Geely EX5 have skyrocketed CarsGuide",
   "author": "",
   "published": "2026-11-03T16:00:00+00:00",
   "rating": null,
@@ -3410,7 +3860,7 @@
  {
   "id": "75ddebb2361855ab",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkotbXE3UVlHYVV3cHJnNmYzYmRmcWZPc3NUNmlUcnR0eE5ELUJMTUFUV29lby1YbkJIZjU4Q2xsTkZfYmg4SWpKXzJpbFl6VzBKZWhHWXNIeWlTZEp4YnEwbjBnRmRMQ2hlanBxcHdvSURYaXFTcDBZelVja3NYUmJOclUtdWE0Vmt6Ukc0dkNFdS0yclhVZGlBS29NcXl0OHdNUHU1MEM2NWlfT0hMV2cyekRFbFg4d1lJXzlNOEhPdjBy?oc=5",
   "title": "2026 Jaecoo J7 Black Edition priced in Australia to rival BYD Sealion 6, Toyota RAV4 plug-in hybrid mid-size SUVs - CarsGuide",
@@ -3438,7 +3888,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T20:13:07+00:00"
@@ -3573,7 +4023,7 @@
  {
   "id": "57df56df123edc9f",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
   "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
@@ -3596,7 +4046,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-02T02:19:07+00:00"
@@ -36288,7 +36738,7 @@
  {
   "id": "c721d7aa0f59fb55",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdE1rUmVnT19paGY4bVI4cjZVcjU5QjhOX0hubWx5YlFhUEliUzlDNkF5V0RCUXYwTEFnTHFySmlZWDk3OWtWMUR1Y1h0SnVFTktDYWd6bm45SkRORGZtd04xWm9tcmV2QW5kc1Z0MGxySHUzVzNrVTluT1BXbU81Nkg1SkFDSkZSbGJjUlliNmMyM2VMRllFQnoxUmlGWDFPRE9aV0FaVmdfdzlmc2RqZlNRdjg1WFZvNkRMZHVR?oc=5",
   "title": "2026 Zeekr 7X, 7GT, 8X and 9X and more to get more buttons and dials in the future as Chinese luxury brand responds to global feedback - CarsGuide",
@@ -36314,7 +36764,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-20T11:59:50+00:00"
@@ -37218,10 +37668,10 @@
   "id": "a41e03066974598f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVnRiek12eTVSZkZyb2RaYUxFc2dhelV1MzRNamE2SWhBZmt2QVZTT1ZZWEZpZ0xNOUw5Mi12R0JMQjd0aTNIS0FKWnhhaDFBbFV6NjdiTkZwcEE2VkZuLXF4eGU3ZTczSFFhY2RYczE5LVF4dmxtY29mQno?oc=5",
-  "title": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible - The Beep",
-  "text": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible The Beep",
+  "title": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible - thebeep.com",
+  "text": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible thebeep.com",
   "author": "",
   "published": "2026-09-03T18:57:44+00:00",
   "rating": null,
@@ -37252,10 +37702,10 @@
   "id": "14adb2269d468b1f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcGdRRlNjUWpaMzVRSnJiX2FrN0I3Nk55MTZBWkt0NWhmYllFaUdYMHA3QWNHTHF2Z0JkN201UXRnandjTFgweDU1OGk5U0NaU1FubmYtX0daWXQxX29nNjgtdF9HNlRsYlRZZGcwNHFENXV6NFE?oc=5",
-  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - The Beep",
-  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price The Beep",
+  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - thebeep.com",
+  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price thebeep.com",
   "author": "",
   "published": "2026-09-03T17:53:55+00:00",
   "rating": null,
@@ -37286,10 +37736,10 @@
   "id": "f8c1f2460b36cdb1",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sT2lfS3o1WHQ1Wjhzc3J5M3g5aXhKZE1wVENSdzNJRER4ZERpYXJFLVpPczIwclZuYjMySEJpT0prWUZwTnNNQmQyY2JidkUwZEt0TVItMFVkdnRzQ1Jxd0tFdWZDeTFm?oc=5",
-  "title": "2026 Zeekr 009 review - The Beep",
-  "text": "2026 Zeekr 009 review The Beep",
+  "title": "2026 Zeekr 009 review - thebeep.com",
+  "text": "2026 Zeekr 009 review thebeep.com",
   "author": "",
   "published": "2026-09-03T17:18:24+00:00",
   "rating": null,
@@ -37417,10 +37867,10 @@
   "id": "8ebc5d599b0be1ca",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmRsQnBzb3Jsd1N2Qk5oRWN4U0dsWF8taWYzc0RYa1c3V1prQk9WMm12b2JtSDZIRDd1Y1d1MzVIU2E5TURGaXlVMU9LMEhRaFBXRS1hVXhjbHU4Y0pQcGpmSW5Yd25NamFrMU5QdVYwWlVnZFJQazF6UENMYnExdg?oc=5",
-  "title": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News - thebeep.com",
-  "text": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News thebeep.com",
+  "title": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News - The Beep",
+  "text": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News The Beep",
   "author": "",
   "published": "2026-09-03T10:19:57+00:00",
   "rating": null,
@@ -37544,10 +37994,10 @@
   "id": "88e47d7b70389ded",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aQjVRUHJqVXBKUGJxd2plaFh2TElkZ0h3TnZLSTV0Qm1rcy01ZTBoNnY0TFpSYmFiODhlSGVXVnA2QmtiZjUyUmZSaFQ2YW1raXgwMS04QVo2RXV0WGVoYy1kSkE3MkhuZlNjTWk0SzBodzRLY3c?oc=5",
-  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - The Beep",
-  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months The Beep",
+  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - thebeep.com",
+  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months thebeep.com",
   "author": "",
   "published": "2026-09-03T08:59:07+00:00",
   "rating": null,
@@ -37612,10 +38062,10 @@
   "id": "cc9b6583e66e9011",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwRHE3WnVEOVIwTVl1STlKaWdWazVobmJKbmJuOGtia0F0Z19kSU52NWNiMUJRRTlENndXOHJJNjNlYktHU2hfazd3?oc=5",
-  "title": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals - The Beep",
-  "text": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals The Beep",
+  "title": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals - thebeep.com",
+  "text": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals thebeep.com",
   "author": "",
   "published": "2026-09-03T08:57:53+00:00",
   "rating": null,
@@ -37765,10 +38215,10 @@
   "id": "5419a5cf3287542f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWlc5NVcwZ3dBN0pyUk5rMERiRzMycTV6RHRvVFhUQUZENllfb2JMWlZFbVF6UWkwWW1iV1J6S3M2czNrQnpaM3Y2SC16UQ?oc=5",
-  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - thebeep.com",
-  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 thebeep.com",
+  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 The Beep",
   "author": "",
   "published": "2026-09-03T04:14:49+00:00",
   "rating": null,
@@ -45989,40 +46439,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "dfac879576bbca22",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
-  "source_name": "Google News · CarNewsChina.com",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWFpsemN3eU5jSGdYMzE1TnRtRkk2STFHT0d3dWRNcWg0NnRjZEFkRWlHNVhwT0trOHM4V0JjVXhJVzE4U1VCX245LWI0UWNTR3ZDODFKdXFQWmZHRGpQc0R5N2xmd082UWZ0SUVQZzN0VUlJZmV2ZU5fMXVsRFU1dF9PNk1mcHhFU012Q2I1RW9BdWpQeTVCOENYYkZxdEoyVFI2NkpSN0tZRUhOVnVSaXpvMXJ6NEFJcUJ5UDFnLXB0RDUzNzg5NFRNZUFjODFHOElHU3FaZWJhZw?oc=5",
-  "title": "BYD threatens legal action as Tesla, Zeekr and EV giants deny regulator talks: “battery lock” rumors rejected - CarNewsChina.com",
-  "text": "BYD threatens legal action as Tesla, Zeekr and EV giants deny regulator talks: “battery lock” rumors rejected CarNewsChina.com",
-  "author": "",
-  "published": "2026-05-09T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd",
-   "tesla"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  }

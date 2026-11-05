@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "d5cc89a77fea160b",
   "money": [
    1000,
@@ -54,7 +54,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -73,15 +73,80 @@
   ]
  },
  "mini": {
-  "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
-  "lines": []
+  "key": "mini",
+  "brand": "Mini",
+  "url": "https://www.mini.com.au/en_AU/home/offers.html",
+  "fetched": "2026-11-05T07:19:00+00:00",
+  "digest": "d036a9c977e848e3",
+  "money": [
+   30000,
+   44900,
+   45900,
+   52900,
+   55900,
+   57900,
+   63900,
+   64899,
+   66998,
+   70236,
+   72519
+  ],
+  "n_lines": 47,
+  "lines": [
+   "Free in Google Play Store.",
+   "Current Offers",
+   "Finance & Insurance",
+   "OUR CURRENT OFFERS.",
+   "With great savings across the MINI range.",
+   "Turn every journey into an adventure with MINI Finance. Right now, enjoy a 4.99% p.a. comparison rate across the MINI range with a MINI Flex loan agreement. By making a larger deposit, you’ll unlock a more competitive rate, helping you save while experiencing MINI’s legendary go-kart handling.",
+   "Until 31 December 2026, purchase any new or demonstrator MINI model and receive a 4.99% p.a. comparison rate on a maximum amount financed, on a 36 month MINI Flex Loan agreement with the reassurance of a Guaranteed Future Value handback option.",
+   "To qualify, you’ll need to contribute a deposit of 20% of the vehicle drive-away price (varies by model), with maximum finance amounts applying to each MINI series.",
+   "The MINI Cooper S 3-Door & Cooper S 5-Door are within reach with a 4.99% p.a. comparison rate, with at least 20% customer deposit required and $0 finance setup fees. A maximum finance amount of $44,900 for the MINI Cooper S 3-Door and $45,900 for the MINI Cooper S 5-Door applies.",
+   "The MINI Countryman S ALL4 is within reach with a 4.99% p.a. comparison rate, with at least 20% customer deposit required, a maximum finance amount of $52,900 and $0 finance setup fees.",
+   "The All-Electric MINI JCW is within reach with a 4.99% p.a. comparison rate, with at least 20% customer deposit required, a maximum finance amount of $55,900 and $0 finance setup fees.",
+   "The All-Electric MINI JCW Aceman is within reach with a 4.99% p.a. comparison rate, with at least 20% customer deposit required, a maximum finance amount of $57,900 and $0 finance setup fees.",
+   "The All-Electric MINI Countryman SE ALL4 is within reach with a 4.99% p.a. comparison rate, with at least 20% customer deposit required, a maximum finance amount of $63,900 and $0 finance setup fees.",
+   "Offer valid on new and demonstrator MINI models across the range with finance applications submitted and approved with vehicles ordered and delivered between 1 October 2026 and 31 December 2026.",
+   "MINI Finance, Australian Credit Licence 392387. Fees, charges, conditions and eligibility criteria apply. MINI Finance reserves the right to change or withdraw the offer at any time. Offer cannot be combined with other offers. Lease arrangements not eligible for offer. Participating authorised MINI Garages only.",
+   "Comparison Rate Warning",
+   ". Comparison rate based on a 5 year secured loan of $30,000.",
+   "Fast Finance Estimate",
+   "FROM $166 PER WEEK AT 4.99% P.A. COMPARISON RATE.",
+   "Experience the perfect blend of iconic design and modern versatility from $166 per week at 4.99% p.a. comparison rate with the All-Electric MINI Cooper SE.",
+   "Until 31 December 2026, purchase an eligible new or demonstrator MINI Cooper SE Favoured Trim model and receive a 4.99% p.a. comparison rate on a maximum amount financed, on a 36-month MINI Flex Loan agreement with the reassurance of a Guaranteed Future Value handback option.",
+   "To qualify, you’ll need to contribute a minimum customer deposit of 30% of the vehicle drive-away price, with maximum finance amounts applicable on eligible All-Electric MINI Cooper SE Favoured Trim models.",
+   "Comparison Rate",
+   "At least 30% of the vehicle drive away price",
+   "Maximum Finance amount",
+   "Finance set up fees",
+   "Offer valid on select new and demonstrator All-Electric MINI Cooper SE Favoured Trim models with finance applications submitted and approved with vehicles ordered and delivered between 01.10.2026 and 31.12.2026.",
+   "Comparison rate warning.",
+   "4.99% p.a. annual percentage rate. Comparison rate based on a 5 year secured loan of $30,000.",
+   "This comparison rate is true only for the example given & may not include all fees and charges. Different terms, fees or other loan amounts might result in a different comparison rate.",
+   "NSW based drive away price of $64,899. Vehicle drive away price may vary by State/Territory. Contract is for 36 monthly repayments of $721. Weekly amounts estimated based on monthly payments multiplied by 12 divided by 52. Total amount payable of $70,236. Final payment equivalent to GFV at 30,000km.",
+   "FROM $171 PER WEEK AT 4.99% P.A. COMPARISON RATE.",
+   "Experience the perfect blend of urban mobility and adventure from $171 per week at 4.99% p.a. comparison rate with the All-Electric MINI Aceman SE.",
+   "Until 31 December 2026, purchase an eligible new or demonstrator MINI Aceman SE Favoured Trim model and receive a 4.99% p.a. comparison rate on a maximum amount financed, on a 36-month MINI Flex Loan agreement with the reassurance of a Guaranteed Future Value handback option.",
+   "To qualify, you’ll need to contribute a minimum customer deposit of 30% of the vehicle drive-away price, with maximum finance amounts applicable on eligible All-Electric MINI Aceman SE Favoured Trim models.",
+   "Comparison rate warning. 4.99% p.a. annual percentage rate. Comparison rate based on a 5 year secured loan of $30,000. WARNING: This comparison rate is true only for the example given & may not include all fees and charges. Different terms, fees or other loan amounts might result in a different comparison rate.",
+   "NSW based drive away price of $66,998. Vehicle drive away price may vary by State/Territory. Contract is for 36 monthly repayments of $741. Weekly amounts estimated based on monthly payments multiplied by 12 divided by 52. Total amount payable of $72,519. Final payment equivalent to GFV at 30,000km.",
+   "MINI Thrills. Maxi Savings.",
+   "6.99% P.A. LEASE RATE WITH MINI FINANCE.",
+   "An exceptional 6.99% p.a lease rate",
+   "$0 Lease set up fees*",
+   "$0 Dealer origination fees*",
+   "may offer savings with;",
+   "Potentially save on GST both in relation to the vehicle and running costs.",
+   "From the zippy MINI Convertible to the bold Countryman or the all-electric MINI, this offer applies across the full range; all you need to do is apply, and if approved, have your vehicle delivered between 1 October and 31 December 2026 on a lease term ranging from 36 to 60 months. Offer available exclusively on novated leases arranged at participating MINI Garages.",
+   "This is more than a finance offer—it’s MINI thinking, maximised.",
+   "Novated leasing finance is provided by BMW Australia Finance Pty Ltd (ACN 007 101 715). Salary packaging and novated leasing administration services are provided by Smartsalary Pty Ltd (ACN 24 096 796 100) and Autopia Management Pty Ltd (ACN 111 369 049), which are Smart™ companies."
+  ]
  },
  "mg": {
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "e61481ea23787060",
   "money": [
    1000,
@@ -141,7 +206,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "05db3746d520f4c2",
   "money": [
    2000,
@@ -164,14 +229,14 @@
  },
  "mercedes": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -195,7 +260,7 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "byd": {
@@ -206,13 +271,15 @@
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
+  "last_error": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "hyundai": {
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "0ef7bb8ec59ae215",
   "money": [],
   "n_lines": 9,
@@ -230,19 +297,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -254,7 +321,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "71036630d38cc38b",
   "money": [
    91661
@@ -280,7 +347,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -290,7 +357,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -304,19 +371,19 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
+  "last_attempt": "2026-11-05T07:19:00+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "48fee3ed9b009d1d",
   "money": [
    1000,
@@ -390,9 +457,9 @@
  },
  "thebeep-offers": {
   "key": "thebeep-offers",
-  "brand": "The Beep (全品牌政策汇总)",
+  "brand": "The Beep (all-brand offers)",
   "url": "https://thebeep.com.au/offers-and-deals",
-  "fetched": "2026-10-21T09:15:54+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "8eab8963e44886e0",
   "money": [
    4000,
@@ -400,8 +467,6 @@
    15000
   ],
   "n_lines": 8,
-  "last_error": "HTTP 403",
-  "last_attempt": "2026-11-05T00:22:58+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -417,7 +482,7 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-11-05T00:22:58+00:00",
+  "fetched": "2026-11-05T07:19:00+00:00",
   "digest": "b2afee05b597e192",
   "money": [
    6056
