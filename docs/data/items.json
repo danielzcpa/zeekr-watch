@@ -1,5 +1,117 @@
 [
  {
+  "id": "1178edaa1392dd17",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/geely-launches-methanol-plug-in-hybrid-sedan-with-1880km-range",
+  "title": "Geely launches methanol plug-in hybrid sedan with 1880km range",
+  "text": "China’s Geely has unveiled a production plug-in hybrid sedan capable of running on any mix of methanol and petrol, as well as electric power. The Xingyao 6 EF , also known as the Galaxy Starshine 6 EF , is a four-door sedan similar in size to a Toyota Camry , with a plug-in hybrid (PHEV) powertrain capable of using petrol and methanol in the same tank. This includes running on 100 per cent methanol or 100 per cent petrol, in addition to an electric-only range of 230km on the more generous CLTC cycle for higher model grades. In a statement, Geely said the sedan offers a combined range of up to 1250km (CLTC) on a tank of methanol and a full battery charge. Using petrol instead of methanol extends this to 1880km. The 1.5-litre naturally aspirated four-cylinder engine produces peak outputs of 93kW/170Nm and drives the front axle alongside a 140kW/240Nm electric motor. The entry-level version comes with a 17kWh lithium iron phosphate (LFP) battery pack for a claimed 130km electric range, with a larger 28.3kWh LFP pack offered in the two higher model grades delivering the 230km electric range. “Geely positions the Xingyao 6 not as a replacement for electric or conventional hybrid models,",
+  "author": "Damion Smy",
+  "published": "2026-11-04T21:49:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T00:17:48+00:00"
+ },
+ {
+  "id": "59a2fa16727d123f",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/byd-denza-n9-large-suv-plug-in-hybrid-specs-australia",
+  "title": "Specs for BYD’s Denza N9 large SUV revealed: BEV heavyweight comes with massive power… and bulk",
+  "text": "All 3180kg of the BYD Denza N9 could be headed down under. The post Specs for BYD’s Denza N9 large SUV revealed: BEV heavyweight comes with massive power… and bulk first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-11-04T21:04:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "denza"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T00:17:48+00:00"
+ },
+ {
+  "id": "71f7ebe31f5c7d1a",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/zeekr-planning-electric-mercedes-benz-g-class-rival-report",
+  "title": "Zeekr planning electric Mercedes-Benz G-Class rival – report",
+  "text": "Zeekr might soon add an off-road-capable car – or at least a model that looks ready to head off the beaten track – to its growing lineup, with the company reportedly prepping a rival for the Mercedes-Benz G-Class . According to Future Car Daily (via Car News China ), Zeekr is seriously considering an off-road-focussed model. The publication claims the vehicle is in the feasibility assessment stage, with the automaker matching technical requirements with potential suppliers. Although the car has yet to be given internal approval or a development code, it could apparently be unveiled as soon as 2028 or 2029. While the G-Class has a body-on-frame design, Zeekr is planning to go down the same route as Land Rover with Defender , and base the SUV on a monocoque architecture. It's unknown at this stage whether the G-Class rival would use an existing platform from the Geely stable, or whether Zeekr will come up with something new or heavily modified. The Chinese publication believes the SUV will have a motor for each wheel, allowing for electric torque distribution and obviating the need for items like locking differentials and transfer cases. Given the brand's positioning, it's likely the",
+  "author": "Derek Fung",
+  "published": "2026-11-04T19:45:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "mb-gclass"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "geely",
+   "land rover"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T00:17:48+00:00"
+ },
+ {
   "id": "f7f79b162fb13d67",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -100,6 +212,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T18:48:30+00:00"
+ },
+ {
+  "id": "9fe3dace9859bd98",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yVUV5ckZrNGh0OGhLWlctUVBCQzJVekx3VWtOUml3NnA0N2ItYUUxOHpoWEc3OHE5eHQ4M3hMYlVxMFF6MW9ZLTZkUUxDMDh6QWR2akp1VnR0UHdzVkVsUy1lcHUyRDg2TnJqMjFwZ1E?oc=5",
+  "title": "Comparison: Voyah Taishan vs ZEEKR 9X - Autohled.cz",
+  "text": "Comparison: Voyah Taishan vs ZEEKR 9X Autohled.cz",
+  "author": "",
+  "published": "2026-11-04T11:24:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T00:17:48+00:00"
  },
  {
   "id": "71d6d15edcc63987",
@@ -10508,7 +10651,7 @@
   "au": true,
   "extra": {
    "version": "1.6.7",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-10-25T22:00:01+00:00"
  },
@@ -10779,7 +10922,7 @@
   "au": true,
   "extra": {
    "version": "1.6.7",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-10-25T06:42:14+00:00"
  },
@@ -37274,10 +37417,10 @@
   "id": "8ebc5d599b0be1ca",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmRsQnBzb3Jsd1N2Qk5oRWN4U0dsWF8taWYzc0RYa1c3V1prQk9WMm12b2JtSDZIRDd1Y1d1MzVIU2E5TURGaXlVMU9LMEhRaFBXRS1hVXhjbHU4Y0pQcGpmSW5Yd25NamFrMU5QdVYwWlVnZFJQazF6UENMYnExdg?oc=5",
-  "title": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News - The Beep",
-  "text": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News The Beep",
+  "title": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News - thebeep.com",
+  "text": "Australians can drive Zeekr's unreleased 8X and 9X on New Zealand snow | Car News thebeep.com",
   "author": "",
   "published": "2026-09-03T10:19:57+00:00",
   "rating": null,
@@ -37335,10 +37478,10 @@
   "id": "6a462427ace47be8",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWktBSWd0TjBBLUU0VmRBWWVWSW9Cc01BQzNFTHMzTFZYc2RHYXhoVlUwVURiUVZ4dTNwenJuUzd3QkoweTd0STItV0dnVjdWb3p1b2FZYmxnUThkZDlQZHU2OUZCRURXLUlPbV9FbHVwcGtqT05UQU85NndLa1JSNWFqejJlQnM0YnVr?oc=5",
-  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - The Beep",
-  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia The Beep",
+  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - thebeep.com",
+  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia thebeep.com",
   "author": "",
   "published": "2026-09-03T09:45:52+00:00",
   "rating": null,
@@ -37529,10 +37672,10 @@
   "id": "e7632f73714080fe",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FVzg1d3VrVnNvTl9kdkdaVDU1d0ZiRTFBY0lpRkZsd05zcV9GZWx1UDZyNHpleWxldDRLWjRWZ29pN2dJR2pjaVhlOUxaM2s?oc=5",
-  "title": "Zeekr 009 Price, Specs & Variants | Australia 2026 - The Beep",
-  "text": "Zeekr 009 Price, Specs & Variants | Australia 2026 The Beep",
+  "title": "Zeekr 009 Price, Specs & Variants | Australia 2026 - thebeep.com",
+  "text": "Zeekr 009 Price, Specs & Variants | Australia 2026 thebeep.com",
   "author": "",
   "published": "2026-09-03T06:56:45+00:00",
   "rating": null,
@@ -37622,10 +37765,10 @@
   "id": "5419a5cf3287542f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · The Beep",
+  "source_name": "Google News · thebeep.com",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWlc5NVcwZ3dBN0pyUk5rMERiRzMycTV6RHRvVFhUQUZENllfb2JMWlZFbVF6UWkwWW1iV1J6S3M2czNrQnpaM3Y2SC16UQ?oc=5",
-  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - The Beep",
-  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 The Beep",
+  "title": "Zeekr 7X Price, Specs & Variants | Australia 2026 - thebeep.com",
+  "text": "Zeekr 7X Price, Specs & Variants | Australia 2026 thebeep.com",
   "author": "",
   "published": "2026-09-03T04:14:49+00:00",
   "rating": null,

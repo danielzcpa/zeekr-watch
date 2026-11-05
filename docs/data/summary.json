@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-04T18:48:30+00:00",
- "duration_s": 331.6,
- "items_total": 1332,
- "new_this_run": 176,
+ "generated": "2026-11-05T00:17:48+00:00",
+ "duration_s": 311.8,
+ "items_total": 1336,
+ "new_this_run": 172,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -13,16 +13,10 @@
   "competitor_news_7d": 120,
   "launch_signals_7d": 22,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 59,
+  "zeekr_news_7d": 60,
   "offer_page_changes_7d": 17
  },
  "series_30d": [
-  {
-   "date": "2026-10-06",
-   "complaints": 1,
-   "competitor_news": 2,
-   "zeekr_news": 5
-  },
   {
    "date": "2026-10-07",
    "complaints": 1,
@@ -194,8 +188,14 @@
   {
    "date": "2026-11-04",
    "complaints": 0,
-   "competitor_news": 12,
-   "zeekr_news": 8
+   "competitor_news": 14,
+   "zeekr_news": 10
+  },
+  {
+   "date": "2026-11-05",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -335,7 +335,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 28,
+   "n_30d": 27,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -443,7 +443,7 @@
    "latest": "ca6819fe95ffefd8"
   },
   "deepal-s07": {
-   "n_30d": 4,
+   "n_30d": 3,
    "launch": [
     "beacea688be7f8ba"
    ],
@@ -1136,12 +1136,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 76,
+   "count": 74,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 17,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1166,22 +1166,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 77,
+   "count": 74,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 23,
+   "count": 24,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 18,
+   "count": 15,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 29,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1191,7 +1191,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 44,
+   "count": 41,
    "note": ""
   },
   "carexpert": {
@@ -1250,14 +1250,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1272,7 +1272,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1550,9 +1550,9 @@
    "note": ""
   },
   "beep-offers-leapmotor": {
-   "ok": true,
-   "count": 5,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403; mirror HTTP 503"
   },
   "beep-offers-deepal": {
    "ok": true,
@@ -1677,7 +1677,7 @@
   "policy-events": {
    "ok": true,
    "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "note": "0 new; 37/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1725,9 +1725,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
