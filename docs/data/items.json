@@ -1,5 +1,206 @@
 [
  {
+  "id": "9b73e09aa770aece",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · GlobalChinaEV",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVS1uWEk1QnNrUjljMUN3bzFLYU5YNi1yMi1zUGNvSjhqV1hJd0tfZC1yVkVxMF8xcVhOUGFjNGphUy1BRDFRWkRYMjRMbVROaS1XT0IwU2tYemtDLU5EU0d6Z2xad3FEZnlmdHc2bThoVmhxR1lkR2wwNVdlZWRaRUkxRmxFcG5TUXhOSkJFMC1hMEtZRkNmQXZseUhrNTJwc2ozdFJxSDE5UQ?oc=5",
+  "title": "Zeekr 7X 2027 keeps 229,800 CNY start, adds an 85 kWh battery with 680 km - GlobalChinaEV",
+  "text": "Zeekr 7X 2027 keeps 229,800 CNY start, adds an 85 kWh battery with 680 km GlobalChinaEV",
+  "author": "",
+  "published": "2026-11-05T21:41:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
+  "id": "35b139ee9f1d5edc",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlJ2S3RvSmw1dFBSalVHQkhRTmlxUnRuMTR2R0FxbFhfUDBNcVptWnNFeFFkaGRzczRxaEladkhPMWlhOFZ0b3VFZkdBYmhJVlNLOXdwUEZWUnBMaUZhMndlWFQtUGpXZnNDV3BPYWJleHZ5RTIyRFlDbEdzUDB3a0NLa0l1NlFJTnZFM0twbXY5ejNT?oc=5",
+  "title": "Tesla Model 3 First car for sale or order in New South Wales - Carsales",
+  "text": "Tesla Model 3 First car for sale or order in New South Wales Carsales",
+  "author": "",
+  "published": "2026-11-05T21:01:33+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
+  "id": "3fcfdb702942c955",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSMVBVMGoyZmd0YTFzbEFfWWVVRHlDcm5FaEZ6SDdaX2xlYlFWQy1TTkJVQUxsR0JBcUtVZW4tcmJYRUQ0SV96dW1ObU1VdU9KdWxQNUVYN3gxbzdXSHVQZDg2Z1dRczlNMEZv?oc=5",
+  "title": "[Exclusive] China's Zeekr electric vehicles to feature 'Tmap Auto'... Launch of '7X' model begins in second half - 머니투데이",
+  "text": "[Exclusive] China's Zeekr electric vehicles to feature 'Tmap Auto'... Launch of '7X' model begins in second half 머니투데이",
+  "author": "",
+  "published": "2026-11-05T18:51:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
+  "id": "9cb24bbfc862c6c9",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Mezha.net",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wQjc1NGxKMnZUc0RuMkRVbmlBbGN6TTZ0NERnbXdJdEhwVWpwR3pxOEhwemNmQUdHelNOTnl3cWhpN2xMR0pIVkFlX1A3ZHRRdEJaZmZfUE5OWmE4R2JXc01haDVPNWU4NzZtZ3FOUHdSa0g4aGRmakxHY256QQ?oc=5",
+  "title": "Zeekr 7X (2027) opens pre-sales in China from $34,300 - Mezha.net",
+  "text": "Zeekr 7X (2027) opens pre-sales in China from $34,300 Mezha.net",
+  "author": "",
+  "published": "2026-11-05T17:42:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
+  "id": "2e9463eb2522f5a6",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Notebookcheck",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHVwWmg1MU9vU0Z0WVdIRTBuVzBaQlRxWFNlRnI4Y3RlZFMxRllUMXFRMG1lbHNhQXpmcmIxLVB5amgwd1lETVRydVJ3YnE2b1ZmMUg5WE83STltbDJsejdTVUpacFBJNXo5TjRqbVZsMEMtRXUxV0t6UzlpdVlCOWhqQnlseXZuckc4M3hycFd0ajNxX3c?oc=5",
+  "title": "Zeekr 7X (2027) starts pre-sales from 34,300 USD - Notebookcheck",
+  "text": "Zeekr 7X (2027) starts pre-sales from 34,300 USD Notebookcheck",
+  "author": "",
+  "published": "2026-11-05T17:21:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
+  "id": "2486cf89c41316da",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHNRdE0wUEtxeEY3NGhnUHluQWNnTVpHaDVKejdXb0hjY3NpQVoxR1hnaS1VOWkxMWpoN2FxT0NqMnZSN0QwWi1vVXhmRmRwQVBMRWZ5WEt2eDNMVFUxOURRVFl1NDI5a213Zzg2QlVEYnVRNkR1Mzg5VFRwa0lWdGdyNHROT0paemJMWUVFel9kWWVWandCd2hOVG5sQnY2eWJXaWN0XzlSNW9SZ2tUMWl1Qzl5dHpHRTdXTmtZbU0xdVBBTXhZ?oc=5",
+  "title": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 - CarsGuide",
+  "text": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 CarsGuide",
+  "author": "",
+  "published": "2026-11-05T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla",
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
   "id": "4b14cc8ff07cf423",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -753,7 +954,7 @@
  {
   "id": "5550516399f0ba9b",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · 4X4 Australia",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YVl9NRHpNbW5xSm9FT3BDX05RQkdMTFIxX2R1Z1RsamtMWnotaXZadTRNRUpsTjlkUG81NWxiZkdpU3ZTdlFjYURFVTRTMGxCMFNIYldRNGtHd3VSdVBRM3FkMnJVVUFYQmZGVDY5cm1Cdk56NE84?oc=5",
   "title": "BYD Denza N9 EV revealed with 890kW punch - 4X4 Australia",
@@ -961,6 +1162,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T18:48:30+00:00"
+ },
+ {
+  "id": "b7a4d688b70eac9c",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QWE9MbEZjbF9CZkRVZEJvNThDRkZ0Tzg1bWNuRlE3YXZ6N3lVMS1CcG1wUjBhRHI3OXowSWtncEtBTTBXblQ5eWx4ZDRrQW9rWUxQRFV4RG5QMzhN?oc=5",
+  "title": "Kia EV9 vs Lepas L6 - CarsGuide",
+  "text": "Kia EV9 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T14:36:40+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
  },
  {
   "id": "69780f30556bd85d",
@@ -1711,7 +1945,7 @@
  {
   "id": "387027fb8a30bd0b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
   "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
@@ -1741,7 +1975,7 @@
    "launch",
    "offer"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T03:09:18+00:00"
@@ -3276,8 +3510,8 @@
   "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1QLTZneXFtSWU0Z05hb2xDaVdLY3RhZURXSGhMdUJTY0hjaFM3THhYSjNhRmE2bUttRTFEZlhiMTRPb0QtNUtjbTZMbXpmRnFZRG5kVWxVVnZ5MDVoOHpqUkdWTDQ2YnJ3SllUcWItX0RtSmNFalpqSktKNFlfT3hZelp3aEVobXhZRzlSb0YtcXdPMGJxOGlYcTZuQ0FZNHl2SlhuYk05NWdrQ1BkdEN0bHk1bEFkRmFpSDlENU1sa1d3bFJn?oc=5",
-  "title": "2027 Volkswagen T-Roc confirmed to launch in Australia as new hybrid-only rival to Hyundai Kona and Kia Seltos small SUVs - CarsGuide",
-  "text": "2027 Volkswagen T-Roc confirmed to launch in Australia as new hybrid-only rival to Hyundai Kona and Kia Seltos small SUVs CarsGuide",
+  "title": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a mild-hybrid set-up. - CarsGuide",
+  "text": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a mild-hybrid set-up. CarsGuide",
   "author": "",
   "published": "2026-11-03T01:00:00+00:00",
   "rating": null,
@@ -3285,8 +3519,6 @@
   "models": [],
   "competitors": [],
   "brands": [
-   "kia",
-   "hyundai",
    "volkswagen"
   ],
   "categories": [],
