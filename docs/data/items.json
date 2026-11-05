@@ -1,5 +1,275 @@
 [
  {
+  "id": "4b14cc8ff07cf423",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdlVReDVZYnQwY0NBRGxhR3p3dnZxMEUta0FkT0NnTjBNbF9waDV0Y2RXa09JbEoyd1BZVjZkSzJTWmhUWkRFNmtCZGI2N2trdVlhRDR6YzZoZ1hWNmpVZklDLURRRW5NT21LTnZudEdVQQ?oc=5",
+  "title": "Book the Zeekr 9X at Zeekr Carro – flagship PHEV SUV, est from RM800k; visit Bangsar, PJ or Penang outlets - Paul Tan's Automotive News",
+  "text": "Book the Zeekr 9X at Zeekr Carro – flagship PHEV SUV, est from RM800k; visit Bangsar, PJ or Penang outlets Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-11-05T11:01:23+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "84c4147998a4e973",
+  "type": "competitor_news",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · The Beep",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGlwR1ZNUFJlQTdjb01OYTRUMXI3aEwyOTNFdnZQajlZTUxKUUo1ZEpNMFMxY19vbmRHVWtLZHBBZ0R3UVFpMUZxN1NnUUZCZTRxRzhqREw3VlJDYmJId3ZOdGg5TzBPU0I3YTN5UkV1V1gyR0wxZU5paElBeE5sbWowMmZUQVU?oc=5",
+  "title": "2027 Kia EV5 update adds power and towing in Australian filing - The Beep",
+  "text": "2027 Kia EV5 update adds power and towing in Australian filing The Beep",
+  "author": "",
+  "published": "2026-11-05T10:59:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev5"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "0b3e8dce43eefeab",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2Z0RExoQm1sRUpoVFFnVUdza0RuTXBzcjUtU3poV1lvQjhfVnAwbndqU1pHQ1BIcHA1eXh4d1M0ZG8xc0ZjZHFuWXJ2MzBmdVQtb2hUd1FmaTdpWnNaNG5DWVJMRWZBZWJkNkNSb1U0LTRZMzdBVGhzNFZYVGZqUWVMQlFqbEZ4V29ibS1icGExUW1X?oc=5",
+  "title": "Book your Zeekr's next service at Zeekr House Juru Autocity in Penang – Zeekr Carro's 3S centre - Paul Tan's Automotive News",
+  "text": "Book your Zeekr's next service at Zeekr House Juru Autocity in Penang – Zeekr Carro's 3S centre Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-11-05T10:49:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "e0497c5296fb2c52",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmxqbDV0T2FGdW9rUWVaTkpaU1BhWUUxLVFKamhfNzNyd0IxZS1YdWppOHA5cDUtTU1PX1V0N2lWamxucVNob2stSHA0dk5GeHlBT010WXB2Y2xEUU1WVmVxUzdILWMxMjdNMFVPSEFJNU9GMHNIWG9XQ2huUUdIU2NiVkhsQ0FUUzRaQjlLb0VMcHRiN3I0NU5fcw?oc=5",
+  "title": "Zeekr's Defender-rivalling 4WD shapes up - St George & Sutherland Shire Leader",
+  "text": "Zeekr's Defender-rivalling 4WD shapes up St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-11-05T09:15:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "b52ae9f7dc6c5ffd",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/inside-amgs-860kw-electric-gt-the-motors-and-battery-explained",
+  "title": "Inside AMG’s 860kW electric GT: The motors and battery explained",
+  "text": "AMG's new electric vehicle (EV) promises an insane amount of power, but it's not just the top-level power that makes this German-engineered EV different to the rest. Two electric motors sit side by side at the rear of the new Mercedes-AMG GT63 4-Door Coupe . They share a housing, but each drives its own wheel. At the car’s launch in Spain, René Szczepek walked CarExpert around the exposed chassis and through the engineering behind its electric drivetrain. Mr Szczepek is responsible for driving dynamics simulation and integration at Mercedes-AMG. We wanted to understand what an AMG buyer should look for in an electric motor. Cylinder counts and engine layouts have long given enthusiasts a useful starting point. A power figure tells us rather less about the machinery producing it. The GT55 and GT63 have three axial-flux motors, including one at the front. Their design comes from British specialist YASA, which Mercedes-Benz acquired in July 2021. “Mercedes-Benz is now producing them in a factory plant in Berlin,” Mr Szczepek said. An electric motor has a stationary part, the stator, and a rotating part, the rotor. In an axial-flux motor, the magnetic flux runs parallel to its axis of",
+  "author": "Alborz Fallah",
+  "published": "2026-11-05T09:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "74aa1a86fd52935f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Vietnam Investment Review - VIR",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGlvaENUQ2VYNUliWmVkMFB1LXpzZjYtQlBEVHlLcjN0THF2UThCUGx2aXIwWXpCcDBwSTdwU29zc3VUZV90U3otZzFjSXpvYjYtcVpnT0ZDQ0M3MC1BX2ItRnRzZnlDZUJvazdpdU55aUQ3ZHZqZnhOOUZ5QmVUUTQxS1hYTXRRZDktc054aHNxUVZnSzBJSmhzOVM2clk?oc=5",
+  "title": "Antigua Receives 20 Zeekr Electric Vehicles for Commonwealth Summit - Vietnam Investment Review - VIR",
+  "text": "Antigua Receives 20 Zeekr Electric Vehicles for Commonwealth Summit Vietnam Investment Review - VIR",
+  "author": "",
+  "published": "2026-11-05T08:10:36+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "9f790b5f5376ccb5",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/05/hyundai-staria-ev-review-the-good-the-bad-and-the-price-tag-video/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-staria-ev-review-the-good-the-bad-and-the-price-tag-video",
+  "title": "Hyundai Staria EV review: The good, the bad, and the price tag | Video",
+  "text": "Hyundai’s Staria Load has gone electric, bringing over 400km of range and seriously fast charging, but at roughly $71,000, does the price stack up for Australian buyers? The post Hyundai Staria EV review: The good, the bad, and the price tag | Video appeared first on The Driven.",
+  "author": "Sam Parkinson",
+  "published": "2026-11-05T07:34:50+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 2,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "806f19748c38a91d",
+  "type": "deal",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
+  "url": "https://www.ozbargain.com.au/node/981786",
+  "title": "GAC Aion V EV $40,590 + On Road Costs with Free 22-Kilowatt Wall Charger @ GAC",
+  "text": "Free 22kW wall charger and $2000 off. 510km WLTP range. LFP battery. 180kW max DC fast charging power. One of the best value mid size SUV EVs. Much larger with longer range than the similarly priced …",
+  "author": "shxhshzhz",
+  "published": "2026-11-05T07:10:43+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "gac"
+  ],
+  "categories": [
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
   "id": "b45a9e2747bc2bd1",
   "type": "competitor_news",
   "source": "gn-brands-eu",
@@ -71,6 +341,40 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "b6718ca4f4bd2802",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IYldxbXZ0d1Vna3pNQmtFUko3UDZjbzcxVjZYNTlvdTZMWkIweFNyLVhkMVJob21JU1hUUXI0S0hUd2tma0RFZUxUR0pQRHdFVnZ2RTRxWlBhNzRQQzkxNVUxMk45TzZ2NWFVNjIyeXJ2VEZuSFE?oc=5",
+  "title": "Hyundai Staria Load 2026 review: Electric - Australian first drive | Ford Transit Custom EV rival tested - CarsGuide",
+  "text": "Hyundai Staria Load 2026 review: Electric - Australian first drive | Ford Transit Custom EV rival tested CarsGuide",
+  "author": "",
+  "published": "2026-11-05T06:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai",
+   "ford"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
  },
  {
   "id": "301bd41915316f3e",
@@ -176,6 +480,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-05T07:16:57+00:00"
+ },
+ {
+  "id": "6cc0c97cf085752f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWnRsUmVXTGc0dXNtMDFqTnphVFlBSWhKRGNjdk5iNGtXZndaSzlDT2poYUh6TVBERllUWHM1RWtSdVJIbWtvakc3ZDJUSld4LVdPZTZiQVE0VlVGVGlhZ3lETm5oWWFiWkFYSDB1NVRYaGZBaXJySklWNlZOSzVfbTdUckl3LUF3NXZaMEtlckFsZ0dKanpVUGYxd2xEeVVrdllzd1pGQ0NQR3R6UTF3XzNQdldveE5wRnU3Tm5ZSXFxbjQ?oc=5",
+  "title": "‘Redefine the segment’: Zeekr’s luxury 4WD rival to 2026 Land Rover Defender and Mercedes G-Wagen firms for production - CarsGuide",
+  "text": "‘Redefine the segment’: Zeekr’s luxury 4WD rival to 2026 Land Rover Defender and Mercedes G-Wagen firms for production CarsGuide",
+  "author": "",
+  "published": "2026-11-05T03:06:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "land rover"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
  },
  {
   "id": "5bf1fb566cb5363a",
@@ -562,6 +897,39 @@
   "first_seen": "2026-11-05T00:17:48+00:00"
  },
  {
+  "id": "6edbcc3fc16dd4ae",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ha2NxaC1uT013Qkp2cWtCQzQ2YWRQX2c0T3ZkekZEak9teUx0MU9zcmpRS3h4c3hWU2gxM2hvZEJwU0p0eDQyUUU2bG11SG4wNl9YbG0yZGpVcDFD?oc=5",
+  "title": "Kia EV6 vs Lepas L6 - CarsGuide",
+  "text": "Kia EV6 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T14:36:42+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev6"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
   "id": "f7f79b162fb13d67",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -695,6 +1063,40 @@
   "first_seen": "2026-11-05T00:17:48+00:00"
  },
  {
+  "id": "d6e1c2d9b4f086d3",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=6c594a22-8a72-408e-b4a1-53da84b4f9c9",
+  "title": "1★ · Lost/disconnected the car, unlock unreliable, chews through",
+  "text": "Lost/disconnected the car, unlock unreliable, chews through battery. I was forced to uninstall it.",
+  "author": "Oliver Behrens",
+  "published": "2026-11-04T10:17:56+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": null,
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
   "id": "71d6d15edcc63987",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -825,6 +1227,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T11:28:42+00:00"
+ },
+ {
+  "id": "a589698a5902c673",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LU3pqZkd5MFhxMGI4bFVtLXMzRW82ZmxmWU11RnAzY2M0RkdzLUJoM2tZdmlINDFDbWR0SXFCVFdQeFNDemF6WW1oN1NjSFpJWTJEZ21zVDVjaExBeXk2U0FNNUpKVWc?oc=5",
+  "title": "Hyundai Ioniq 5 vs Lepas L6 - CarsGuide",
+  "text": "Hyundai Ioniq 5 vs Lepas L6 CarsGuide",
+  "author": "",
+  "published": "2026-11-04T05:21:37+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-ioniq5"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-05T15:45:35+00:00"
  },
  {
   "id": "e508aa9cf816b4e3",
@@ -1276,7 +1711,7 @@
  {
   "id": "387027fb8a30bd0b",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-1d",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
   "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
@@ -1306,7 +1741,7 @@
    "launch",
    "offer"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T03:09:18+00:00"
@@ -1617,7 +2052,7 @@
  {
   "id": "1c1f8d6032f03f13",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTl9tejhueE54d01jRXlnVklsdHhsX2tDQ1dwc0F1ZDNOYld3c1BzT1I3WnB6NEdoZjE2azh2Rm9idFBXZ3Y5LW5GT243bUdkSDhsQ0VlWXV5NHhHdk1YamtvUkdYdGlQc2R2TkR5Y3BJV3AtSG1JZlJteG1FMkdHRW9VMzBJT3VOaGp4S1cwNFI2bU82X2RqcTY4NVF2eDBRcTVmTHk2TDRDOEt6SWhqX2xrU1lIb2tJX0NHVA?oc=5",
   "title": "'Flipped the script': Real reason sales of 2026 Tesla Model Y, Zeekr 7X, Geely EX5 have skyrocketed - CarsGuide",
@@ -2841,8 +3276,8 @@
   "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1QLTZneXFtSWU0Z05hb2xDaVdLY3RhZURXSGhMdUJTY0hjaFM3THhYSjNhRmE2bUttRTFEZlhiMTRPb0QtNUtjbTZMbXpmRnFZRG5kVWxVVnZ5MDVoOHpqUkdWTDQ2YnJ3SllUcWItX0RtSmNFalpqSktKNFlfT3hZelp3aEVobXhZRzlSb0YtcXdPMGJxOGlYcTZuQ0FZNHl2SlhuYk05NWdrQ1BkdEN0bHk1bEFkRmFpSDlENU1sa1d3bFJn?oc=5",
-  "title": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a mild-hybrid set-up. - CarsGuide",
-  "text": "Volkswagen has just confirmed its next-generation T-Roc will launch in Australia with a mild-hybrid set-up. CarsGuide",
+  "title": "2027 Volkswagen T-Roc confirmed to launch in Australia as new hybrid-only rival to Hyundai Kona and Kia Seltos small SUVs - CarsGuide",
+  "text": "2027 Volkswagen T-Roc confirmed to launch in Australia as new hybrid-only rival to Hyundai Kona and Kia Seltos small SUVs CarsGuide",
   "author": "",
   "published": "2026-11-03T01:00:00+00:00",
   "rating": null,
@@ -2850,6 +3285,8 @@
   "models": [],
   "competitors": [],
   "brands": [
+   "kia",
+   "hyundai",
    "volkswagen"
   ],
   "categories": [],
@@ -3492,7 +3929,7 @@
  {
   "id": "c0e635b95049027e",
   "type": "news_zeekr",
-  "source": "gn-evcentral-industry",
+  "source": "gn-zeekr-evcentral",
   "source_name": "Google News · EV Central",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
   "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
@@ -3517,7 +3954,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "industry",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-22T10:32:20+00:00"
@@ -37668,10 +38105,10 @@
   "id": "a41e03066974598f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVVnRiek12eTVSZkZyb2RaYUxFc2dhelV1MzRNamE2SWhBZmt2QVZTT1ZZWEZpZ0xNOUw5Mi12R0JMQjd0aTNIS0FKWnhhaDFBbFV6NjdiTkZwcEE2VkZuLXF4eGU3ZTczSFFhY2RYczE5LVF4dmxtY29mQno?oc=5",
-  "title": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible - thebeep.com",
-  "text": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible thebeep.com",
+  "title": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible - The Beep",
+  "text": "Zeekr 8X and 9X confirmed for Australia with full EV versions possible The Beep",
   "author": "",
   "published": "2026-09-03T18:57:44+00:00",
   "rating": null,
@@ -37702,10 +38139,10 @@
   "id": "14adb2269d468b1f",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcGdRRlNjUWpaMzVRSnJiX2FrN0I3Nk55MTZBWkt0NWhmYllFaUdYMHA3QWNHTHF2Z0JkN201UXRnandjTFgweDU1OGk5U0NaU1FubmYtX0daWXQxX29nNjgtdF9HNlRsYlRZZGcwNHFENXV6NFE?oc=5",
-  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - thebeep.com",
-  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price thebeep.com",
+  "title": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price - The Beep",
+  "text": "2026 Zeekr X undercuts rivals with sub-$49K driveaway price The Beep",
   "author": "",
   "published": "2026-09-03T17:53:55+00:00",
   "rating": null,
@@ -37736,10 +38173,10 @@
   "id": "f8c1f2460b36cdb1",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sT2lfS3o1WHQ1Wjhzc3J5M3g5aXhKZE1wVENSdzNJRER4ZERpYXJFLVpPczIwclZuYjMySEJpT0prWUZwTnNNQmQyY2JidkUwZEt0TVItMFVkdnRzQ1Jxd0tFdWZDeTFm?oc=5",
-  "title": "2026 Zeekr 009 review - thebeep.com",
-  "text": "2026 Zeekr 009 review thebeep.com",
+  "title": "2026 Zeekr 009 review - The Beep",
+  "text": "2026 Zeekr 009 review The Beep",
   "author": "",
   "published": "2026-09-03T17:18:24+00:00",
   "rating": null,
@@ -37928,10 +38365,10 @@
   "id": "6a462427ace47be8",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWktBSWd0TjBBLUU0VmRBWWVWSW9Cc01BQzNFTHMzTFZYc2RHYXhoVlUwVURiUVZ4dTNwenJuUzd3QkoweTd0STItV0dnVjdWb3p1b2FZYmxnUThkZDlQZHU2OUZCRURXLUlPbV9FbHVwcGtqT05UQU85NndLa1JSNWFqejJlQnM0YnVr?oc=5",
-  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - thebeep.com",
-  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia thebeep.com",
+  "title": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia - The Beep",
+  "text": "Zeekr 7GT aces Euro NCAP's toughest test before it lands in Australia The Beep",
   "author": "",
   "published": "2026-09-03T09:45:52+00:00",
   "rating": null,
@@ -37994,10 +38431,10 @@
   "id": "88e47d7b70389ded",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aQjVRUHJqVXBKUGJxd2plaFh2TElkZ0h3TnZLSTV0Qm1rcy01ZTBoNnY0TFpSYmFiODhlSGVXVnA2QmtiZjUyUmZSaFQ2YW1raXgwMS04QVo2RXV0WGVoYy1kSkE3MkhuZlNjTWk0SzBodzRLY3c?oc=5",
-  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - thebeep.com",
-  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months thebeep.com",
+  "title": "Zeekr 7X hits 5,000 Australian deliveries in under eight months - The Beep",
+  "text": "Zeekr 7X hits 5,000 Australian deliveries in under eight months The Beep",
   "author": "",
   "published": "2026-09-03T08:59:07+00:00",
   "rating": null,
@@ -38122,10 +38559,10 @@
   "id": "e7632f73714080fe",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FVzg1d3VrVnNvTl9kdkdaVDU1d0ZiRTFBY0lpRkZsd05zcV9GZWx1UDZyNHpleWxldDRLWjRWZ29pN2dJR2pjaVhlOUxaM2s?oc=5",
-  "title": "Zeekr 009 Price, Specs & Variants | Australia 2026 - thebeep.com",
-  "text": "Zeekr 009 Price, Specs & Variants | Australia 2026 thebeep.com",
+  "title": "Zeekr 009 Price, Specs & Variants | Australia 2026 - The Beep",
+  "text": "Zeekr 009 Price, Specs & Variants | Australia 2026 The Beep",
   "author": "",
   "published": "2026-09-03T06:56:45+00:00",
   "rating": null,
@@ -46408,37 +46845,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": false,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "f303f06d0b1a45e7",
-  "type": "post",
-  "source": "reddit-electricvehicles",
-  "source_name": "Reddit r/electricvehicles",
-  "url": "https://www.reddit.com/r/electricvehicles/comments/1t85qcy/chinas_zeekr_unveils_ev_with_catls_ultrafast/",
-  "title": "China’s Zeekr unveils EV with CATL’s ultra-fast charging battery, 0-62 mph in 3.9 seconds",
-  "text": "submitted by /u/sksarkpoes3 [link] [comments]",
-  "author": "/u/sksarkpoes3",
-  "published": "2026-05-09T13:57:30+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  }

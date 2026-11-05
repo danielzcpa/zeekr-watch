@@ -4013,7 +4013,7 @@
   },
   "2026-10": {
    "label": "October 2026",
-   "fetched": "2026-11-05T07:18:18+00:00",
+   "fetched": "2026-11-05T15:47:20+00:00",
    "source": "https://atlas.carexpert.com.au/latest-dataset",
    "models": {
     "Toyota|Hilux": {
@@ -6144,13 +6144,6 @@
      "yoy": -58.6,
      "ytd": 183
     },
-    "Western Star|(HD)": {
-     "make": "Western Star",
-     "model": "(HD)",
-     "units": 12,
-     "yoy": 9.1,
-     "ytd": 144
-    },
     "Chevrolet|Corvette Stingray": {
      "make": "Chevrolet",
      "model": "Corvette Stingray",
@@ -6164,6 +6157,13 @@
      "units": 11,
      "yoy": -71.8,
      "ytd": 621
+    },
+    "Western Star|(HD)": {
+     "make": "Western Star",
+     "model": "(HD)",
+     "units": 11,
+     "yoy": 0.0,
+     "ytd": 144
     },
     "Aston Martin|Coupe/Conv": {
      "make": "Aston Martin",
@@ -7807,8 +7807,8 @@
      "ytd": 155
     },
     "Western Star": {
-     "units": 12,
-     "yoy": 9.1,
+     "units": 11,
+     "yoy": 0.0,
      "share": 0.0,
      "ytd": 144
     },
@@ -8012,6 +8012,6 @@
    "total": 107493
   }
  },
- "updated": "2026-11-05T07:18:18+00:00",
+ "updated": "2026-11-05T15:47:20+00:00",
  "latest": "2026-10"
 }

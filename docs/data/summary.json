@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-05T07:16:57+00:00",
- "duration_s": 123.2,
- "items_total": 1348,
- "new_this_run": 175,
+ "generated": "2026-11-05T15:45:35+00:00",
+ "duration_s": 318.3,
+ "items_total": 1360,
+ "new_this_run": 184,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 9,
-  "complaints_30d": 33,
-  "high_7d": 3,
+  "complaints_7d": 10,
+  "complaints_30d": 34,
+  "high_7d": 4,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 125,
-  "launch_signals_7d": 25,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 62,
-  "offer_page_changes_7d": 15
+  "competitor_news_7d": 130,
+  "launch_signals_7d": 26,
+  "offer_signals_7d": 5,
+  "zeekr_news_7d": 64,
+  "offer_page_changes_7d": 14
  },
  "series_30d": [
   {
@@ -187,15 +187,15 @@
   },
   {
    "date": "2026-11-04",
-   "complaints": 0,
-   "competitor_news": 14,
+   "complaints": 1,
+   "competitor_news": 16,
    "zeekr_news": 10
   },
   {
    "date": "2026-11-05",
    "complaints": 0,
-   "competitor_news": 8,
-   "zeekr_news": 3
+   "competitor_news": 12,
+   "zeekr_news": 8
   }
  ],
  "categories_30d": [
@@ -206,15 +206,15 @@
    "n": 21
   },
   {
-   "key": "delivery",
-   "zh": "交付/等待/订单",
-   "en": "Delivery / waiting / orders",
-   "n": 10
-  },
-  {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
+   "n": 11
+  },
+  {
+   "key": "delivery",
+   "zh": "交付/等待/订单",
+   "en": "Delivery / waiting / orders",
    "n": 10
   },
   {
@@ -254,8 +254,8 @@
   "7GT": 3
  },
  "sources_30d": {
+  "Google Play (AU)": 12,
   "Reddit r/Zeekr7xAustralia": 12,
-  "Google Play (AU)": 11,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
   "Reddit r/Zeekr": 2,
@@ -373,7 +373,7 @@
    "latest": "54b5d83ec5da372d"
   },
   "kia-ev5": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "69780f30556bd85d",
     "7e94a8dd0f108e63",
@@ -382,7 +382,7 @@
     "6c8a09ae665a20cb"
    ],
    "offer": [],
-   "latest": "44134e8e29091fa7"
+   "latest": "84c4147998a4e973"
   },
   "hyundai-elexio": {
    "n_30d": 3,
@@ -428,20 +428,20 @@
    "latest": "9e424fc1a04fa9c6"
   },
   "kia-ev6": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "a27bf89cf6f37c43"
    ],
    "offer": [],
-   "latest": "b3d93dc68a219878"
+   "latest": "6edbcc3fc16dd4ae"
   },
   "hyundai-ioniq5": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "ca6819fe95ffefd8"
    ],
    "offer": [],
-   "latest": "ca6819fe95ffefd8"
+   "latest": "a589698a5902c673"
   },
   "deepal-s07": {
    "n_30d": 3,
@@ -909,15 +909,17 @@
    "latest": null
   },
   "hyundai-staria": {
-   "n_30d": 5,
+   "n_30d": 7,
    "launch": [
+    "9f790b5f5376ccb5",
     "2e734789c3bd7efc",
     "7389d244a24d8fa5"
    ],
    "offer": [
+    "9f790b5f5376ccb5",
     "2e734789c3bd7efc"
    ],
-   "latest": "b45a9e2747bc2bd1"
+   "latest": "9f790b5f5376ccb5"
   },
   "ldv-mifa": {
    "n_30d": 0,
@@ -927,6 +929,16 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "9f790b5f5376ccb5",
+   "title": "Hyundai Staria EV review: The good, the bad, and the price tag | Video",
+   "source": "The Driven",
+   "t": "2026-11-05T07:34:50+00:00",
+   "competitors": [
+    "hyundai-staria"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "2e734789c3bd7efc",
@@ -974,6 +986,13 @@
    "title_en": "Kia offer page changed (+1 / −1 lines)",
    "source": "https://www.kia.com/au/offers.html",
    "t": "2026-11-04T11:33:50+00:00"
+  },
+  {
+   "kind": "complaint_high",
+   "id": "d6e1c2d9b4f086d3",
+   "title": "1★ · Lost/disconnected the car, unlock unreliable, chews through",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-11-04T10:17:56+00:00"
   },
   {
    "kind": "competitor_launch",
@@ -1088,37 +1107,17 @@
    "competitors": [
     "toyota-bz4x"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "7389d244a24d8fa5",
-   "title": "Hyundai Staria Load expectations revealed - GoAuto.com.au",
-   "source": "Google News · GoAuto.com.au",
-   "t": "2026-11-02T10:35:34+00:00",
-   "competitors": [
-    "hyundai-staria"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "db98b7fc96217946",
-   "title": "Polestar 4 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-02T08:00:00+00:00",
-   "competitors": [
-    "polestar-4"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 76,
+   "count": 74,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 17,
+   "count": 19,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1133,7 +1132,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 54,
+   "count": 55,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1153,7 +1152,7 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 17,
+   "count": 21,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1168,7 +1167,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 34,
+   "count": 17,
    "note": ""
   },
   "carexpert": {
@@ -1232,9 +1231,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1244,12 +1243,12 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1298,7 +1297,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 27,
    "note": ""
   },
   "playstore-android": {
@@ -1324,7 +1323,7 @@
   "sales-atlas": {
    "ok": true,
    "count": 482,
-   "note": "October 2026: 482 models, total 107493 (new month)"
+   "note": "October 2026: 482 models, total 107493"
   },
   "sales-thedriven": {
    "ok": true,
@@ -1334,127 +1333,127 @@
   "beep-zeekr/7x": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-zeekr/x": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-zeekr/009": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-mercedes-benz/eqa-suv": {
    "ok": true,
    "count": 1,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-mercedes-benz/cla-coupe": {
    "ok": true,
    "count": 5,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-mercedes-benz/glc-suv": {
    "ok": true,
    "count": 5,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-bmw/ix1": {
    "ok": true,
    "count": 1,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-bmw/ix2": {
    "ok": true,
    "count": 1,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-bmw/i4-gran-coupe": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-audi/q4-e-tron": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-audi/q4-sportback-e-tron": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-audi/q6-e-tron": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-audi/a5-avant": {
    "ok": true,
    "count": 4,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-tesla/model-y": {
    "ok": true,
    "count": 4,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-byd/sealion-7": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-xpeng/g6": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-kia/ev5": {
    "ok": true,
    "count": 4,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-smart/5": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-hyundai/elexio": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-polestar/4": {
    "ok": true,
    "count": 4,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-volvo/ex30": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-smart/1": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-tesla/model-3": {
    "ok": true,
    "count": 4,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-byd/seal": {
    "ok": true,
    "count": 2,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-polestar/2": {
    "ok": true,
    "count": 3,
-   "note": ""
+   "note": "via mirror"
   },
   "beep-prices": {
    "ok": true,
@@ -1513,7 +1512,7 @@
   },
   "beep-offers-volvo": {
    "ok": true,
-   "count": 4,
+   "count": 3,
    "note": ""
   },
   "beep-offers-geely": {
@@ -1538,7 +1537,7 @@
   },
   "beep-offers-mg": {
    "ok": true,
-   "count": 5,
+   "count": 3,
    "note": ""
   },
   "beep-offers-mini": {
@@ -1653,8 +1652,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 6,
+   "note": "6 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1672,9 +1671,9 @@
    "note": "unchanged"
   },
   "offers-mini": {
-   "ok": true,
-   "count": 47,
-   "note": "first snapshot"
+   "ok": false,
+   "count": 0,
+   "note": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)"
   },
   "offers-mg": {
    "ok": true,
@@ -1702,9 +1701,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by ConnectTimeoutError(<HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
@@ -1757,9 +1756,9 @@
    "note": "unchanged"
   },
   "offers-thebeep-offers": {
-   "ok": true,
-   "count": 8,
-   "note": "unchanged"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403"
   },
   "offers-zeekr-offers-zecar": {
    "ok": true,
