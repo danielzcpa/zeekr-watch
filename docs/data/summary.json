@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-06T17:22:40+00:00",
- "duration_s": 373.1,
- "items_total": 1398,
- "new_this_run": 179,
+ "generated": "2026-11-06T22:18:58+00:00",
+ "duration_s": 306.6,
+ "items_total": 1404,
+ "new_this_run": 164,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 10,
@@ -10,10 +10,10 @@
   "high_7d": 4,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 131,
-  "launch_signals_7d": 25,
-  "offer_signals_7d": 6,
-  "zeekr_news_7d": 67,
+  "competitor_news_7d": 130,
+  "launch_signals_7d": 24,
+  "offer_signals_7d": 5,
+  "zeekr_news_7d": 68,
   "offer_page_changes_7d": 14
  },
  "series_30d": [
@@ -189,13 +189,13 @@
    "date": "2026-11-05",
    "complaints": 1,
    "competitor_news": 15,
-   "zeekr_news": 16
+   "zeekr_news": 17
   },
   {
    "date": "2026-11-06",
    "complaints": 0,
-   "competitor_news": 14,
-   "zeekr_news": 7
+   "competitor_news": 16,
+   "zeekr_news": 9
   }
  ],
  "categories_30d": [
@@ -335,7 +335,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 30,
+   "n_30d": 29,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -370,7 +370,7 @@
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "c6b8a33378fc4846"
+   "latest": "54b5d83ec5da372d"
   },
   "kia-ev5": {
    "n_30d": 9,
@@ -1037,7 +1037,7 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 73,
+   "count": 71,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1047,7 +1047,7 @@
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 31,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1057,7 +1057,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 52,
+   "count": 51,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1067,32 +1067,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 78,
+   "count": 100,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 27,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 25,
+   "count": 28,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 31,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 14,
+   "count": 16,
    "note": ""
   },
   "carexpert": {
@@ -1156,9 +1156,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1168,27 +1168,27 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,

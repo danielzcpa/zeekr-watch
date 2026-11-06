@@ -1,5 +1,139 @@
 [
  {
+  "id": "371af2c0b7c3bc52",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExfUDBydVhMVmFLVUNqaVRfSDlyZWFMSVVnM2FoOHhjYTZvNU5IR0Y1ZF83ZGdibHBWOFFDR0hfYW1QbzVpbExYQkVicWdkd0czY1NRZmV6eDFPZG9uMEs5VDI5SnkwY05oWVI1Z2FWWWtuR1dNc2RSTGNZMUR4b0g2eGtSUWRBMWM4a2VseUlwMzAxLUNMYVZ1Qm0?oc=5",
+  "title": "Ford Fathom promises cheaper EV home power - Carsales",
+  "text": "Ford Fathom promises cheaper EV home power Carsales",
+  "author": "",
+  "published": "2026-11-06T22:04:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T22:18:58+00:00"
+ },
+ {
+  "id": "0541800466e33433",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xpoahc/deals_and_negotiation_on_a_7x/",
+  "title": "Deals and negotiation on a 7X",
+  "text": "I'm looking to get a 7X performance and the current deal is free paint colour, free leather choice, 2 year servicing, a charger and the 2027 model. I'm curious to know if the dealerships negotiate beyond the sticker price on these deals? Even little things they'll throw in or discount. I haven't bought an EV before and I negotiate pretty hard on ICE vehicles. My only experience was looking at a Telsa a few years ago and they are completely fixed price from what I was told at the time. I'd also consider a car buyer to get me a better deal if that's an option based on how the dealer network is setup. Any feedback is appreciated.",
+  "author": "/u/GetRichOrCryTrying1",
+  "published": "2026-11-06T21:10:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T22:18:58+00:00"
+ },
+ {
+  "id": "ad6e1fd1f5ba5a2c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XNzdLSll5dUJPNmRkVkxIQmxaVHNSUlNxWm5OMm1Jd2ladjNFUWZhRkpzWWFlYjZRTlpoWXdobndLWFYwWEp4eTFuZktiWEFWR1VGZ2dtLV8?oc=5",
+  "title": "ZEEKR 001 - Autohled.cz",
+  "text": "ZEEKR 001 Autohled.cz",
+  "author": "",
+  "published": "2026-11-06T16:37:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T22:18:58+00:00"
+ },
+ {
+  "id": "e54ddf263af6a8a4",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDl4YkN5dU5rc1czS0VTVTYyU09fekR3U243dVdjUmNlcEJpZHVlbXFZbWFzVFlNaUw2VzMxblRYMV9QX3pYYkZOYnBKWEljUVdlcEJGUUhrOEZBeWd6MGxLRDNRRTBjS3MwQ3lRZXd0Qk5ZeDh4UUd1Tk0wUEpJcGpidUNLemZSWTN0TUZhUEJvOFhYQ0tnUTAzZGVvLVAyUnVGWFZzVmNjQzNGamViSmZkTFEya0dNY0hpMGFGMHIySEZtN2Jz?oc=5",
+  "title": "Top six cheap used electric cars under $25,000: Second-hand Hyundai Kona, Ioniq, MG4 and Nissan Leaf among the best buys - CarsGuide",
+  "text": "Top six cheap used electric cars under $25,000: Second-hand Hyundai Kona, Ioniq, MG4 and Nissan Leaf among the best buys CarsGuide",
+  "author": "",
+  "published": "2026-11-06T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T22:18:58+00:00"
+ },
+ {
   "id": "c984a8f7676f79cb",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -292,6 +426,35 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "b0ad319985f2d943",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Chiang Mai Citylife",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmV1WkpEUEZJbUpaSWkxYU5wZFNUUXhNQzRWUFhkZXFWRk1JLUlQME5pWXVrQk9CXzI0b2lRUXZncTFnei1Gb0o5VHg3V2dmY295cWphcjA2dnhNQ2NxTzlhRlVCbmNCMEFTMnlZMjdDZmlxekJFZGlVMzMybFRlQkNDeDVBNnV0bW43VExEeklXLVc3TGd3aVd2SWpyNm5uUW5qZTlMOFBJcVFpa21LWVQ3U1FTZnc?oc=5",
+  "title": "Primus Group Expands ZEEKR Presence in Chiang Mai - Chiang Mai Citylife",
+  "text": "Primus Group Expands ZEEKR Presence in Chiang Mai Chiang Mai Citylife",
+  "author": "",
+  "published": "2026-11-06T07:47:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T22:18:58+00:00"
  },
  {
   "id": "b84377dbdce98c3f",
@@ -780,25 +943,20 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFk1cXQtc3ZsVGR1blA3N0lVamJYSkI3SEFpOFEtWnZ2SUNPZUZuUENPLWRkUnhoeUhEMTNVYjMxa2x3OGFvX3VXNUN5X2NmN293ZENIekthM0s5b3F5VlN6OWRTN2Zra2tzX1pkb3FLUmVCY2l4eXFkS19KMGt1SXVqZWpfZVFjOVhaODZrNVAtY01jSWk1WWhUMS16eFNvYWtwbEcxMW8yd1dOWEVWb2lxenJOeVBiQS13eWV3TXA?oc=5",
-  "title": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom - CarsGuide",
-  "text": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom CarsGuide",
+  "title": "Shop Tesla Model Y Cars - CarsGuide",
+  "text": "Shop Tesla Model Y Cars CarsGuide",
   "author": "",
   "published": "2026-11-06T03:02:25+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y",
-   "byd-sealion7"
+   "tesla-model-y"
   ],
   "brands": [
-   "byd",
-   "tesla",
-   "toyota"
+   "tesla"
   ],
-  "categories": [
-   "software"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -1022,7 +1180,7 @@
  {
   "id": "549d0aa2d84f6f9d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3VLYkRCa1l6bUtXVTlUb0I3NTQ3MDloNFE0aFl2eTFMVWhYcFQxYVJjdkdfUUpod3ltZWNVY1FXVFNXcEpxMTQ5MTljdi12bktDUlA0dTRZZk9ab3JxZVhlbTVQcXduVTVYRTJTMzlYdDM1djVTZWtLZTVfWEZBZkU1empjRzU2eUVJeEhTZDJ5X2tmOHpqb3ktMkNwRXZJWmNxejR2WnQyVTI3VGNzM0hCM1U4cXZkWi0zNi1lNVI1dkU?oc=5",
   "title": "GWM to launch 14 new cars in 2027, including 2026 Wey G9, Wey V9X and Haval H10 likely to battle Denza and Zeekr - CarsGuide",
@@ -1258,8 +1416,8 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHNRdE0wUEtxeEY3NGhnUHluQWNnTVpHaDVKejdXb0hjY3NpQVoxR1hnaS1VOWkxMWpoN2FxT0NqMnZSN0QwWi1vVXhmRmRwQVBMRWZ5WEt2eDNMVFUxOURRVFl1NDI5a213Zzg2QlVEYnVRNkR1Mzg5VFRwa0lWdGdyNHROT0paemJMWUVFel9kWWVWandCd2hOVG5sQnY2eWJXaWN0XzlSNW9SZ2tUMWl1Qzl5dHpHRTdXTmtZbU0xdVBBTXhZ?oc=5",
-  "title": "2026 Tesla Model Y outselling Toyota RAV4 in Australia as the electric mid-size SUV claims title for best-selling passenger car - CarsGuide",
-  "text": "2026 Tesla Model Y outselling Toyota RAV4 in Australia as the electric mid-size SUV claims title for best-selling passenger car CarsGuide",
+  "title": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 - CarsGuide",
+  "text": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 CarsGuide",
   "author": "",
   "published": "2026-11-05T16:00:00+00:00",
   "rating": null,
@@ -1276,10 +1434,10 @@
    "software"
   ],
   "sentiment": {
-   "score": 2,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 2,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [],
@@ -1318,7 +1476,7 @@
   "au": true,
   "extra": {
    "version": "1.6.8",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-11-06T17:22:40+00:00"
  },
@@ -1897,6 +2055,37 @@
   "first_seen": "2026-11-05T07:16:57+00:00"
  },
  {
+  "id": "8bc72c42a8493fcc",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · eletric-vehicles.com",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3IwMFM3bWM5R2d3RXJ4bkktZXRMTGtvTE9TamM1OEFHX1FsUkxxSEJKODJrUHRhUjdoMnpfZ3dzZ1FBS3NNX2txSURTNTdzVm5ucU5sUnRWTUpMdmFfTjRzOWxpRGktNzVwZGdKMjRmYXJXTmluUTRlcnItY1NuYWlR?oc=5",
+  "title": "2027 Zeekr 7X — New Colour - eletric-vehicles.com",
+  "text": "2027 Zeekr 7X — New Colour eletric-vehicles.com",
+  "author": "",
+  "published": "2026-11-05T02:46:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T22:18:58+00:00"
+ },
+ {
   "id": "d96e6c8d4d8fc415",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -2105,7 +2294,7 @@
  {
   "id": "5550516399f0ba9b",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-brands-cn",
   "source_name": "Google News · 4X4 Australia",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YVl9NRHpNbW5xSm9FT3BDX05RQkdMTFIxX2R1Z1RsamtMWnotaXZadTRNRUpsTjlkUG81NWxiZkdpU3ZTdlFjYURFVTRTMGxCMFNIYldRNGtHd3VSdVBRM3FkMnJVVUFYQmZGVDY5cm1Cdk56NE84?oc=5",
   "title": "BYD Denza N9 EV revealed with 890kW punch - 4X4 Australia",
@@ -2477,7 +2666,7 @@
   "au": true,
   "extra": {
    "version": null,
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-11-05T15:45:35+00:00"
  },
@@ -4513,7 +4702,7 @@
   "au": true,
   "extra": {
    "version": "1.6.8",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-11-04T03:09:18+00:00"
  },
