@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-06T02:13:01+00:00",
- "duration_s": 294.0,
- "items_total": 1374,
- "new_this_run": 171,
+ "generated": "2026-11-06T09:46:21+00:00",
+ "duration_s": 394.9,
+ "items_total": 1388,
+ "new_this_run": 190,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 10,
+  "complaints_7d": 9,
   "complaints_30d": 32,
-  "high_7d": 4,
+  "high_7d": 3,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 128,
+  "competitor_news_7d": 129,
   "launch_signals_7d": 25,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 71,
+  "zeekr_news_7d": 65,
   "offer_page_changes_7d": 14
  },
  "series_30d": [
@@ -27,7 +27,7 @@
    "date": "2026-10-09",
    "complaints": 1,
    "competitor_news": 14,
-   "zeekr_news": 3
+   "zeekr_news": 4
   },
   {
    "date": "2026-10-10",
@@ -171,7 +171,7 @@
    "date": "2026-11-02",
    "complaints": 1,
    "competitor_news": 20,
-   "zeekr_news": 12
+   "zeekr_news": 11
   },
   {
    "date": "2026-11-03",
@@ -189,13 +189,13 @@
    "date": "2026-11-05",
    "complaints": 0,
    "competitor_news": 15,
-   "zeekr_news": 14
+   "zeekr_news": 15
   },
   {
    "date": "2026-11-06",
    "complaints": 0,
-   "competitor_news": 2,
-   "zeekr_news": 1
+   "competitor_news": 11,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -1048,67 +1048,17 @@
    "title_en": "MG / IM offer page changed (+1 / −1 lines)",
    "source": "https://mgmotor.com.au/offers",
    "t": "2026-11-03T10:04:55+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "064fcb4c32ef7101",
-   "title": "Tesla and Polestar Australian deliveries up 86% in 2026, with Model Y past 39,000 - EVs & Beyond",
-   "source": "Google News · EVs & Beyond",
-   "t": "2026-11-03T07:51:27+00:00",
-   "competitors": [
-    "tesla-model-y"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "9cf83e3d30e44365",
-   "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-03T07:47:43+00:00",
-   "competitors": [
-    "mb-gle"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "7f4e82435852913c",
-   "title": "2027 Kia EV5 leaked: Facelift set to bring tech, dynamic upgrades",
-   "source": "CarExpert",
-   "t": "2026-11-03T05:55:00+00:00",
-   "competitors": [
-    "kia-ev5"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "46093f93b121863e",
-   "title": "Chevrolet Corvette SUV, sedan plans scrapped – report",
-   "source": "CarExpert",
-   "t": "2026-11-03T05:00:00+00:00",
-   "competitors": [
-    "ford-mach-e"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "9443a47dfbdd8ef2",
-   "title": "Chery's new Lepas brand won't rule out price cuts",
-   "source": "CarExpert",
-   "t": "2026-11-03T02:35:00+00:00",
-   "competitors": [
-    "geely-ex5"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 75,
+   "count": 73,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 20,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1123,7 +1073,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 55,
+   "count": 53,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1133,22 +1083,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 75,
+   "count": 76,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 20,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 24,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1158,7 +1108,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 17,
+   "count": 12,
    "note": ""
   },
   "carexpert": {
@@ -1227,39 +1177,39 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 22,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1288,7 +1238,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 28,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {

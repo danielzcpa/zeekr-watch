@@ -1,5 +1,482 @@
 [
  {
+  "id": "5363237675122a0a",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xp7nqp/help_needed/",
+  "title": "Help needed!",
+  "text": "Is this normal for the zeekr fridge?? I turn it fridge off it goes away within a hour.... Turn fridge back on. Water under the car (im guessing condensation) The fridge never gets to the correct temperature its put on. (Currently set for -10c struggling to get past -3c.",
+  "author": "/u/Competitive_Ad_3743",
+  "published": "2026-11-06T08:24:38+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "b84377dbdce98c3f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 스타뉴스",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHRaMVQybXJHaGpqeGFKdE9Xd1p4WkRsc2hGd1RVOVduQldGWEl6WFB1OVlmVW5JNkJESFp1aTFMMzc1R05kdkMwVmZxV291UmlIS0tGREV0TGJ4UEZVZWdYVndQVTJzSS1QblRaNkZEU3NjOU01eElYdE1qWWFfSktwZw?oc=5",
+  "title": "Zeekr 7X equipped with 900V system unveiled in China… improved performance and safety draw attention - 스타뉴스",
+  "text": "Zeekr 7X equipped with 900V system unveiled in China… improved performance and safety draw attention 스타뉴스",
+  "author": "",
+  "published": "2026-11-06T07:39:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "47542ee0c3e940b3",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nekZVWkdZdDNCcEd6NS1TMnZWZUU3TUpfQjk4aWI3MGZlTURwX2UtQ3UyRmVrZkF3SHRxV0hvRm5KZmgtaTVnSzZsTlFJOFJiSnhtNnllSXNZTlhFc2dZcGZLaS1rcU5KdUZmYXhCUHc?oc=5",
+  "title": "2026 Kia Seltos Price and Specs: Hybrid SUV From $39,990 Drive-Away - CarSauce",
+  "text": "2026 Kia Seltos Price and Specs: Hybrid SUV From $39,990 Drive-Away CarSauce",
+  "author": "",
+  "published": "2026-11-06T06:27:30+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "c7af133de8ec4a15",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-kia-seltos-price-and-specs",
+  "title": "2027 Kia Seltos price and specs",
+  "text": "The second-generation Kia Seltos small SUV arrives as a hybrid-only affair, with prices starting from $39,990 drive-away. A total of six variants will be offered in Australia – S, S with Safety Pack, Sport, Sport+, GT-Line FWD and GT-Line e-AWD – with only the flagship offering the Hyundai Motor Group's new electrified all-wheel drive system . Front-wheel drive versions will get a 113kW/265Nm 1.6-litre naturally aspirated four-cylinder hybrid powertrain, while e-AWD models will add another electric motor on the rear axle for electrified AWD, with system power boosted to around 126kW – with no quoted torque figure. Key rivals include the related Hyundai Kona Hybrid (from $39,990 D/A), in addition to the Toyota Corolla Cross Hybrid (from $37,440 plus on-roads), GWM Haval Jolion Hybrid (from $32,990 D/A), Chery C5 Hybrid (from $31,990 D/A), MG ZS Hybrid+ (from $29,990 D/A), Nissan Qashqai e-Power (from $45,850 + ORCs), and Jaecoo J5 SHS-H (from $34,990 D/A). Pricing The price of entry into the Seltos range has risen by nearly $7000 compared to its petrol-only predecessor, though this is somewhat offset by the hybridised powertrain and increased equipment levels. Model Price before on-",
+  "author": "James Wong",
+  "published": "2026-11-06T06:14:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai",
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "safety",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "57bb9e6e4b42fae7",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/kia-seltos-wont-be-the-brands-top-seller-due-to-supply-ceo",
+  "title": "Kia Seltos won't be the brand's top seller due to supply – CEO",
+  "text": "Kia Australia isn't expecting its new all-hybrid Seltos small SUV to become a runaway sales success like the related Hyundai Kona, because initial supply will be tight. Speaking with CarExpert at the Australian media launch of the 2027 Kia Seltos Hybrid range, the local boss of the Korean auto brand, Dennis Piccoli, said not to expect the Kona's current sales rate of about 1500-2000 per month due to global demand. \"There are [supply] restrictions because it has been launched abroad and it has been going really well – so I think there there's capacity constraints clearly,\" Mr Piccoli said. \"So 2000 a month, I think, with a little bit of lobbying and negotiating and going back and forth, it's a distinct possibility. But at this point in time, the first step is to get it to around 1000 [per month] or thereabouts, and then we go from there beyond that.\" Last year the Kona was the top-seller in the VFACTS small SUV under $45,000 category with 22,769 registrations, putting it ahead of the Chery Tiggo 4 (20,149) and MG ZS (20,000). That's an average of just under 1900 units registered per month, with 10,407 of those (or 45.7 per cent) being sales of the Kona Hybrid. With that in mind, Mr",
+  "author": "James Wong",
+  "published": "2026-11-06T06:14:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "619a698d499fb9a8",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-kia-seltos-no-plans-for-cheaper-petrol-only-small-suv",
+  "title": "2027 Kia Seltos: \"No plans\" for cheaper, petrol-only small SUV",
+  "text": "Kia Australia says it won't be introducing versions of the new Seltos with petrol-only or mild-hybrid powertrains to lower the price of entry to the all-new small SUV lineup any time soon. Speaking with CarExpert at the Australian media launch of the second-generation Seltos range, senior manager for product planning at Kia Australia, Raymond Pok, said that opting for an all-hybrid lineup Down Under is \"the right fit\". \"I think at this point we don't have any firm plans on introducing any other alternative powertrains that are available globally,\" Mr Pok told CarExpert . \"Often we do have a number of powertrains that we might be able to select from, but we're pretty confident in Seltos Hybrid, and we think it's the right fit for Seltos, and it's the right fit, most importantly, for the Australian market.\" Mr Pok added that the Korean brand has seen an uptick in hybrid demand across its other SUV model lines, namely the Sportage mid-size SUV. \"We think that's where the market's at,\" Mr Pok said. Pricing for the 2027 Kia Seltos Hybrid (HEV) starts from $37,990 plus on-road costs or $39,990 drive-away, compared to the $31,250 plus ORCs starting point for its petrol-only predecessor. I",
+  "author": "James Wong",
+  "published": "2026-11-06T06:13:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "30b9beca7801e59d",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/reviews/kia-seltos-sport-review-small-hybrid-suv-2026-australia",
+  "title": "2026 Kia Seltos Sport+ review: New hybrid-only small SUV deserves kudos for its interior, but drops the ball elsewhere",
+  "text": "Kia's new-generation Seltos brings sharper styling, more sophistication and hybrid power, but does it deliver enough to justify its higher pricing? The post 2026 Kia Seltos Sport+ review: New hybrid-only small SUV deserves kudos for its interior, but drops the ball elsewhere first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-06T06:11:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "1ec4e51175e3d291",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-kia-seltos-review",
+  "title": "2027 Kia Seltos review",
+  "text": "Kia's second-generation Seltos small SUV has finally arrived in Australia, and it's going all-in on hybrid. That's right, the 2027 Kia Seltos is hybrid-only in Australia, much like the UK. The Korean brand is hoping to cash in on rapidly increasing appetite for hybrid SUVs in Australia, particularly smaller ones. While it's the first hybrid-powered Seltos, it's not the first time Kia has offered a hybrid small SUV in Australia. The now-defunct Niro was available with hybrid (HEV) and battery electric (EV) powertrains, but high pricing relative to the direct competition always made it a niche player here. Now with the new Seltos HEV, Kia is putting all 10 toes (or four tyres) down in what is one of the hottest market segments in the country. Small SUVs currently account for 18 per cent of Australia's new-vehicle market, placing it second only to medium SUVs in terms of popularity. There's also some family rivalry at play here. Sister brand Hyundai has seen great success with its related Kona, which offers petrol, hybrid and electric powertrains. Halfway through 2026, the Kona Hybrid was Australia's third-best selling hybrid model with 8086 deliveries – accounting 61.6 per cent of ov",
+  "author": "James Wong",
+  "published": "2026-11-06T06:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "90882fa10964aac8",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xp4io4/please_rate_my_plan_for_melb_brisbane_and_back/",
+  "title": "Please rate my plan for Melb - Brisbane and back",
+  "text": "",
+  "author": "/u/lekkeryaya",
+  "published": "2026-11-06T05:09:44+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "9877f61791392dc5",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-zeekr-7gt-spied-in-australia-ahead-of-first-deliveries",
+  "title": "2027 Zeekr 7GT spied in Australia ahead of first deliveries",
+  "text": "The Zeekr 7GT has been spotted in right-hand drive in Australia ahead of first customer deliveries in early 2027, with local pricing yet to be announced. The electric sports wagon was previously shown in left-hand drive at the Everything Electric show in Sydney in September 2026, with this the first sighting of a right-hand-drive version in Australia. The images posted by the Zeekr 7GT Australia Facebook group show a right-hook 7GT in Newcastle, New South Wales, apparently in Performance AWD (all-wheel drive) specification, the highest of the three confirmed by Zeekr Australia . This is indicated by the larger 20-inch forged alloy wheels and orange brake calipers fitted as standard to the flagship 7GT. The 7GT will be the fourth Zeekr model in Australia, joining the small X and mid-size 7X electric SUVs and the 009 electric people mover in local showrooms. While a distinctive offering as an electric sports wagon, the 7GT could be seen as an alternative to the Tesla Model 3 sedan. The new model from Geely-owned Zeekr is one of a number of electric sports wagons confirmed for a 2027 launch in Australia, alongside the Z9 GT from BYD's premium Denza brand; the upcoming ES GT from Chery",
+  "author": "Damion Smy",
+  "published": "2026-11-06T04:41:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X",
+   "009",
+   "7GT"
+  ],
+  "competitors": [
+   "tesla-model-3",
+   "denza-z9gt"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "geely",
+   "denza"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "ea920121cb05ba2e",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/kia-leak-reveals-tasman-update-new-carnival-sorento-and-ev7",
+  "title": "Kia leak reveals Tasman update, new Carnival, Sorento and EV7",
+  "text": "Official Kia documents leaked in South Korea have revealed plans for a new-model onslaught, including a new-generation Sorento three-row SUV and an all-new Carnival people mover in 2028, as well as an updated and expanded Tasman ute range. The documents also outline plans for a new electric SUV, the Kia EV7. According to The Korean Car Blog , a document leaked from Kia’s Employment Stability Committee revealed the company’s plans across its factories in South Korea, showing significant model launches scheduled for 2028. Kia hasn't publicly confirmed timing for any of the models mentioned in the leaked document, meaning Kia Australia is also yet to make any announcements regarding their arrival in local showrooms. The Korean Car Blog reported the plans include an updated Tasman, with “product improvements” and more “derivative models”. While the report suggests this may include a Tasman-based SUV, Kia senior vice president and head of global planning Spencer Cho said earlier this year that a Tasman-based ladder-frame SUV “could be an option”, but its current lineup is “big enough”. An updated Tasman ute can’t come soon enough, however, with the 2025 launch of the brand’s Toyota HiLu",
+  "author": "Damion Smy",
+  "published": "2026-11-06T04:31:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "toyota"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "408e9e65143b01a2",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/honda-avancier-teased-as-new-hyundai-santa-fe-rival-for-australia",
+  "title": "Honda Avancier teased as new Hyundai Santa Fe rival for Australia",
+  "text": "Honda Australia is finally set to fill a major gap in its model lineup that's existed for 20 years. The Honda Avancier has been teased ahead of its expected reveal later this year, with Honda Australia publishing a press release and confirming via its social media channels that it's \"coming soon\". For now, though, the company isn't revealing any further details. The Avancier is set to finally give Honda Australia a large, three-row SUV, something it hasn't had since the MDX that was discontinued here in 2007. A teaser video shared by Honda Australia reveals crisp styling with a sharply creased shoulder line and simple, L-shaped tail-lights, as well as slim lighting elements up front. The company says it marks \"a new chapter for the brand... pointing to its future direction for design and innovation\". The teaser video confirms its use of the new Honda Hybrid system. The Avancier will be one of 15 next-generation hybrid models due on sale globally between 2027 and the end of March 2030, with the new hybrid system expected to continue to feature two electric motors like existing e:HEV Honda hybrids. Honda Hybrid models will use a new platform developed with an emphasis on weight reduc",
+  "author": "William Stopford",
+  "published": "2026-11-06T03:51:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "9116fadc3f2c6f7a",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/honda-teases-new-avancier-suv-for-australia",
+  "title": "Honda teases new Avancier SUV for Australia",
+  "text": "Honda's next-generation SUV is expected to offer seven seats and hybrid power, potentially challenging the Toyota Kluger and Hyundai Santa Fe. The post Honda teases new Avancier SUV for Australia first appeared on WhichCar .",
+  "author": "Michael Pickering",
+  "published": "2026-11-06T03:25:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
   "id": "0f7dc9e69355b6df",
   "type": "competitor_news",
   "source": "thedriven",
@@ -106,7 +583,7 @@
  {
   "id": "f3b9b545c6b4ef9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1IaXJuT3R4ZkhUa2lrcmxFSEx5eU5OVlppMFBCQjg3dDc5TmN4QmROUjJ0SUM2dU1oblRaMGNqb0NwRDhVN2ZYUzFUQmd6WkdyN0hTQ0I4RWpPR0J1bURCX3czb0ZkSEVTUFpUY0VlWFVUWWJjVmpMRkhxYlgyUzJBTXA1N3J4Umc?oc=5",
   "title": "This wagon is Zeekr's next Aussie EV sensation: CAUGHT - Drive",
@@ -127,7 +604,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T02:13:01+00:00"
@@ -205,6 +682,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T02:13:01+00:00"
+ },
+ {
+  "id": "549d0aa2d84f6f9d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3VLYkRCa1l6bUtXVTlUb0I3NTQ3MDloNFE0aFl2eTFMVWhYcFQxYVJjdkdfUUpod3ltZWNVY1FXVFNXcEpxMTQ5MTljdi12bktDUlA0dTRZZk9ab3JxZVhlbTVQcXduVTVYRTJTMzlYdDM1djVTZWtLZTVfWEZBZkU1empjRzU2eUVJeEhTZDJ5X2tmOHpqb3ktMkNwRXZJWmNxejR2WnQyVTI3VGNzM0hCM1U4cXZkWi0zNi1lNVI1dkU?oc=5",
+  "title": "GWM to launch 14 new cars in 2027, including 2026 Wey G9, Wey V9X and Haval H10 likely to battle Denza and Zeekr - CarsGuide",
+  "text": "GWM to launch 14 new cars in 2027, including 2026 Wey G9, Wey V9X and Haval H10 likely to battle Denza and Zeekr CarsGuide",
+  "author": "",
+  "published": "2026-11-05T23:15:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "wey-v9x"
+  ],
+  "brands": [
+   "denza"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T09:46:21+00:00"
  },
  {
   "id": "3423d38950356b42",
@@ -679,7 +1191,7 @@
   "source": "ozbargain-auto",
   "source_name": "OzBargain (Automotive deals)",
   "url": "https://www.ozbargain.com.au/node/981786",
-  "title": "GAC Aion V EV $40,590 + On Road Costs with Free 22-Kilowatt Wall Charger @ GAC",
+  "title": "GAC Aion V EV with Free 22kW Wall Charger $40,590 + On Road Costs @ GAC",
   "text": "Free 22kW wall charger and $2000 off. 510km WLTP range. LFP battery. 180kW max DC fast charging power. One of the best value mid size SUV EVs. Much larger with longer range than the similarly priced …",
   "author": "shxhshzhz",
   "published": "2026-11-05T07:10:43+00:00",
@@ -713,7 +1225,7 @@
  {
   "id": "b45a9e2747bc2bd1",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE9GalpBVzNISDdJQlpfRmtTZVk2c2hiT3VBQVdHM2pEX0lfUDRPQVNZYURMd3pxZU1CRmpoeHdSZzl5akI4TERILXFlbm8wRFBCSjhjMkpQTnQxOE9wcGROOTl1ZndGZm5pb240Z3BwXy1XUGgzeGRaUTJjb2UwUWVFM2NzWkZfdjlSRW82dnhtY0xNNGJ0YzFB?oc=5",
   "title": "Hyundai Staria Load Electric 2026 Review - Carsales",
@@ -2185,7 +2697,7 @@
  {
   "id": "387027fb8a30bd0b",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
   "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
@@ -2215,7 +2727,7 @@
    "launch",
    "offer"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T03:09:18+00:00"
@@ -4397,39 +4909,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-03T02:35:13+00:00"
- },
- {
-  "id": "c0e635b95049027e",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
-  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
-  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-11-02T08:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "db98b7fc96217946",
@@ -28839,6 +29318,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-16T18:17:58+00:00"
+ },
+ {
+  "id": "c0e635b95049027e",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-evcentral",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdXRRaGZHUVEtME1INGNyQXVGcTJmWWRzSjRuY182ZEdvcVRnVHhlX3d2eUVveFY0Rk1Sck42TnZLWTU3VVZrQjBib24wTVk?oc=5",
+  "title": "Zeekr X review, price and specs: every 2026 variant compared - EV Central",
+  "text": "Zeekr X review, price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-09T20:57:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-22T10:32:20+00:00"
  },
  {
   "id": "86b5677c0d46a8a6",
