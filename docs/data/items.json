@@ -1,5 +1,231 @@
 [
  {
+  "id": "c984a8f7676f79cb",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xpeof7/how_to_install_this_back_seat_cover/",
+  "title": "How to install this back seat cover?",
+  "text": "",
+  "author": "/u/Mas42",
+  "published": "2026-11-06T14:50:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "85c453209fe5a524",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/tesla-cybertruck-likely-axed-production-to-wind-down-in-2027",
+  "title": "Tesla Cybertruck likely axed, production to 'wind down' in 2027",
+  "text": "The Tesla Cybertruck was once billed as the company's next all-conquering vehicle, instead it looks to be fading out into obscurity after less than four years in production. In a post on X on Friday, Elon Musk, Tesla's CEO, said, \"Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production\". Given the car's low sales, the post implies the Cybertruck is being axed, but there's wiggle room in the wording to suggest it could be moved to another production facility. The Austin, Texas plant is the only one that has ever produced the finger-slicing electric ute. No publications have, at the time of writing, been able to get a response from Mr Musk to confirm the Cybertruck's axiing, and he hasn't made any subsequent tweets about the matter. The Cybertruck has been dogged with controversy since it was unveiled as a concept in 2019. At that event, Franz von Holzhausen, Tesla's design chief, hurled a metal ball at the vehicle, shattering the supposedly shatter-proof glass. Clad in a stainless steel body, Mr Musk claimed the Cybertruck would go on sale in the States in 2021 with a starting price of",
+  "author": "Derek Fung",
+  "published": "2026-11-06T13:34:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "48590ea740e023bb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Macau Business",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2dlRE5QeWNNdGU3NEZCVEhfN2xYcUJTZk83NVdMMXlua0dHMFNrWV9tNGVlWnVua1BPTnJDdk9aa1FoQnB2UHNKN0FVQjFWeU9oN3hnQmlnajlBQi1iTVcwVjhEUnF2VWpzQmQ0VmtUcFEzTVNuOHA0cS1GMW1VaDVMdmpMVmNLeFFSUWRZNHo1XzdNN3VnZlZGal94NWNZdGNUXzNsaHVaS2pSelE?oc=5",
+  "title": "Government of Antigua and Barbuda Receives Twenty Zeekr 7X Vehicles for CHOGM 2026 - Macau Business",
+  "text": "Government of Antigua and Barbuda Receives Twenty Zeekr 7X Vehicles for CHOGM 2026 Macau Business",
+  "author": "",
+  "published": "2026-11-06T12:45:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "a9cedb53e6b0d0a0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Motor1.com",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
+  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
+  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
+  "author": "",
+  "published": "2026-11-06T10:03:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-10-28T14:23:40+00:00"
+ },
+ {
+  "id": "5d9b7a7ad78ea4ea",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xp946j/zeekr_7x_driverpassenger_side_mesh_sunshade/",
+  "title": "Zeekr 7X driver/passenger side mesh sunshade?",
+  "text": "We're waiting for our Zeekr 7XP to arrive and thinking of getting mesh sunshade that sticks to the driver and passenger side windows, but as it's frameless the custom 7X mesh sunshade may fall out after the door is open. We will be tinting as well but live in sunny Qld. I tried googling but it doesn't say, can anyone help measure the bottom length and height of the driver side window so I can buy a generic mesh sunshade that still allows me to view the side mirror? Cheers! Photo is of BMW X3 with custom driver's side mesh sunshade, which stays on the window due to magnetic clips on the window frames.",
+  "author": "/u/Conscious_Weather_10",
+  "published": "2026-11-06T10:01:22+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "bmw"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "fee9c3f75d5e0d2b",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · autoevolution",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU9LRVE4NzdOcGxYeWxZZ2R4cHFiUmJLTWVzYkYzbHVLY3d3UE5ZOFViR2dHQzBhYU1pbzUtc2VsenBKV0dscW52N0pfSUE4TE9UekNTUC1ZRnQwbWpIbkRQTy1wSW50ZVMxeWFDaDF1QW1SMlJuU0l0X1RGWF81VFppX0VUVDRybDAyT3BuZW56YVBwOHY1YWI1UVh2T0NrZlJaOHJiVTFfY3Zuamx4eVFneXh3VXoxOHJPWVhkUVZzSTFfMGhlanV5UUZOU1l3eTN3Zkh4MXU?oc=5",
+  "title": "All-New Second-Gen Kia Seltos Compact CUV Arrives in Hybrid Form, and This Is How Much It Costs - autoevolution",
+  "text": "All-New Second-Gen Kia Seltos Compact CUV Arrives in Hybrid Form, and This Is How Much It Costs autoevolution",
+  "author": "",
+  "published": "2026-11-06T10:01:14+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "f233ca44b57a8b7c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · www.drive.com.au",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FQUIzMnFCNFRQeFFRUzFNbmlnVHNFcWo0M0Fjc2NGX2tlanFwQ1I4aU1tMnZlSWZMRkZoOFV1UGdCR0FmN0duVXRrdUlTMHB4NEhUMnpkNmFybHplZFdzdGxobw?oc=5",
+  "title": "Demo 2026 White Zeekr 7X Wagon For Sale - www.drive.com.au",
+  "text": "Demo 2026 White Zeekr 7X Wagon For Sale www.drive.com.au",
+  "author": "",
+  "published": "2026-11-06T08:26:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T22:43:37+00:00"
+ },
+ {
   "id": "5363237675122a0a",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -27,6 +253,45 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "9d0a6ef7545b0158",
+  "type": "post",
+  "source": "reddit-CarsAustralia",
+  "source_name": "Reddit r/CarsAustralia",
+  "url": "https://www.reddit.com/r/CarsAustralia/comments/1xp73tb/what_to_buy/",
+  "title": "What to buy?",
+  "text": "Bought a brand new GT line Kia sportage a few months back, broke down at 1000km and have convinced Kia to buy it back.. now stuck with making a decision on what to get now. I would love a Zeekr 7x but regularly drive a 500km trip so unsure on the range being safe enough for that drive without immediately needing to charge on arrival. Don’t want to spend more than 75ish tops. Important is heated seats with lots of adjustability (as my main issue with previous 2019 RAV4 was seat comfort), fuel economy and I like cool tech features but I guess not hugest of deal breaker. I’d like decent boot space so a medium SUV ideally but small with decent boot is fine. I’d be ok with buying a demo to save some money but really unsure what the best option is here. I just want something reliable and cost efficient. Anyone have any helpful suggestions? I felt like the Kia was great value for the features included and the fuel economy and comfort was awesome but just too worried to trust it now with the amount of highway kms I do. Thanks!",
+  "author": "/u/Due-Association1364",
+  "published": "2026-11-06T07:48:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 2,
+   "pos_hits": 4,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
  },
  {
   "id": "b84377dbdce98c3f",
@@ -62,6 +327,39 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "87342dd1d1ae5398",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Supercar Blog",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVBUMlktdkRxeW15S1N2aEFSZ2dnTGdRRjR2QjBfeGtrYWRfMDNLYkljY3BVNVZQTVc2bTdmX1hucGVDVzJOZ3lqZXpEZHQ4UThMTmRtaHRNZmNNRTkwQ0ZGcGI4VHJFMTR0Z2ZiemtTV1lUX3MxVWU3STlEZ2Juc1V6blBpNWVhYk9zT1hQSUZjR2d5Z0ZYYkpMak9PSnpyQVk0Tzh1Qmk0dw?oc=5",
+  "title": "Zeekr 7GT spotted in right-hand drive config ahead of customer deliveries - The Supercar Blog",
+  "text": "Zeekr 7GT spotted in right-hand drive config ahead of customer deliveries The Supercar Blog",
+  "author": "",
+  "published": "2026-11-06T07:24:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
  },
  {
   "id": "47542ee0c3e940b3",
@@ -475,6 +773,44 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T09:46:21+00:00"
+ },
+ {
+  "id": "c6b8a33378fc4846",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFk1cXQtc3ZsVGR1blA3N0lVamJYSkI3SEFpOFEtWnZ2SUNPZUZuUENPLWRkUnhoeUhEMTNVYjMxa2x3OGFvX3VXNUN5X2NmN293ZENIekthM0s5b3F5VlN6OWRTN2Zra2tzX1pkb3FLUmVCY2l4eXFkS19KMGt1SXVqZWpfZVFjOVhaODZrNVAtY01jSWk1WWhUMS16eFNvYWtwbEcxMW8yd1dOWEVWb2lxenJOeVBiQS13eWV3TXA?oc=5",
+  "title": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom - CarsGuide",
+  "text": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom CarsGuide",
+  "author": "",
+  "published": "2026-11-06T03:02:25+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y",
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd",
+   "tesla",
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
  },
  {
   "id": "0f7dc9e69355b6df",
@@ -953,6 +1289,40 @@
   "first_seen": "2026-11-05T21:54:41+00:00"
  },
  {
+  "id": "26e8ecb21b4ae5d9",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=2b496b1a-5346-4f3b-acc5-c2101be04cfd",
+  "title": "1★ · The app is unreliable on android. a luxury EV brand that has",
+  "text": "The app is unreliable on android. a luxury EV brand that has completely shunned an entire ecosystem of mobile phones. Unacceptable.",
+  "author": "Brian Cheang",
+  "published": "2026-11-05T14:58:41+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
   "id": "4b14cc8ff07cf423",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -1080,6 +1450,35 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "e128426fbc8b787c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1Qwd2ptUy1Yc2k1MzVtaV9aWXFVTGZIcXdrUjRVQmpfU2JrZU9sQVpPSGhJekJrUGhjdG5IYXlZNExxSm5mUEVLWmJIeExoUENENk10VlpkT1piaTY4T3JHeU5Kd01Zbm5WbUVjOXdZMFlOeTh2aENLWDRFMjBQbGk5Nl81bG9yWVYweVRoaVY?oc=5",
+  "title": "Zeekr's Defender-rivalling 4WD shapes up - The Canberra Times",
+  "text": "Zeekr's Defender-rivalling 4WD shapes up The Canberra Times",
+  "author": "",
+  "published": "2026-11-05T09:14:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-06T17:22:40+00:00"
  },
  {
   "id": "b52ae9f7dc6c5ffd",
@@ -2697,7 +3096,7 @@
  {
   "id": "387027fb8a30bd0b",
   "type": "news_zeekr",
-  "source": "gn-ev-offer-au",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTA4a0VVN0lYaGtKV3k1WVVPbVlTM29RVTd3OFNTTjB3WlFPSUZUM3pEdWo2a25QRnJoMDZrMW1IWXk5ZGJfNl9pWWVOQTRwLXBLa0dUblNzM0F3QUZESWNfcWY5T2VRMXlCM1Z1ZDBaYVp0VG0xZ19XRHQ2R1RWeHBn?oc=5",
   "title": "Zeekr 7X Launch Offer: Free Servicing, Wallbox and Paint - Zecar",
@@ -2727,7 +3126,7 @@
    "launch",
    "offer"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-04T03:09:18+00:00"
@@ -5758,37 +6157,6 @@
   "first_seen": "2026-11-01T22:43:37+00:00"
  },
  {
-  "id": "f233ca44b57a8b7c",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · www.drive.com.au",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FQUIzMnFCNFRQeFFRUzFNbmlnVHNFcWo0M0Fjc2NGX2tlanFwQ1I4aU1tMnZlSWZMRkZoOFV1UGdCR0FmN0duVXRrdUlTMHB4NEhUMnpkNmFybHplZFdzdGxobw?oc=5",
-  "title": "Demo 2026 White Zeekr 7X Wagon For Sale - www.drive.com.au",
-  "text": "Demo 2026 White Zeekr 7X Wagon For Sale www.drive.com.au",
-  "author": "",
-  "published": "2026-11-01T19:56:38+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-11-01T22:43:37+00:00"
- },
- {
   "id": "4491d862ffc057bb",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -6503,37 +6871,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-01T06:43:42+00:00"
- },
- {
-  "id": "a9cedb53e6b0d0a0",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · Motor1.com",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkRnWDRqWi1KeTIxS2RTcDV5S0l3NkZDdnc3MjN1ajc2bWpseVhXRHk5c0VaNmNEanl0RFNYTjBEck8zZ2ppcVVRT0dCMVZTX0tIMHJuZ01ubmJDQlF2VkRSU0RidlNmX0lQcmJDNXppOEdMSHo3TXNFdFJpbl9ia0RzNA?oc=5",
-  "title": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview - Motor1.com",
-  "text": "China's Zeekr Brand Wants To Give BMW And Mercedes A Run For Their Money: Interview Motor1.com",
-  "author": "",
-  "published": "2026-11-01T08:01:04+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-10-28T14:23:40+00:00"
  },
  {
   "id": "fec5274cad2323b5",

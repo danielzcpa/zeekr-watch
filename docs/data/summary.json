@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-06T09:46:21+00:00",
- "duration_s": 394.9,
- "items_total": 1388,
- "new_this_run": 190,
+ "generated": "2026-11-06T17:22:40+00:00",
+ "duration_s": 373.1,
+ "items_total": 1398,
+ "new_this_run": 179,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 9,
-  "complaints_30d": 32,
-  "high_7d": 3,
+  "complaints_7d": 10,
+  "complaints_30d": 33,
+  "high_7d": 4,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 129,
+  "competitor_news_7d": 131,
   "launch_signals_7d": 25,
   "offer_signals_7d": 6,
-  "zeekr_news_7d": 65,
+  "zeekr_news_7d": 67,
   "offer_page_changes_7d": 14
  },
  "series_30d": [
@@ -165,7 +165,7 @@
    "date": "2026-11-01",
    "complaints": 1,
    "competitor_news": 19,
-   "zeekr_news": 10
+   "zeekr_news": 8
   },
   {
    "date": "2026-11-02",
@@ -187,15 +187,15 @@
   },
   {
    "date": "2026-11-05",
-   "complaints": 0,
+   "complaints": 1,
    "competitor_news": 15,
-   "zeekr_news": 15
+   "zeekr_news": 16
   },
   {
    "date": "2026-11-06",
    "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 3
+   "competitor_news": 14,
+   "zeekr_news": 7
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 20
+   "n": 21
   },
   {
    "key": "charging",
@@ -254,7 +254,7 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 11,
+  "Google Play (AU)": 12,
   "Reddit r/Zeekr7xAustralia": 11,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
@@ -335,7 +335,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 29,
+   "n_30d": 30,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -349,7 +349,7 @@
    "offer": [
     "36b6bc6c0c756e02"
    ],
-   "latest": "2486cf89c41316da"
+   "latest": "c6b8a33378fc4846"
   },
   "xpeng-g6": {
    "n_30d": 5,
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -370,7 +370,7 @@
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "54b5d83ec5da372d"
+   "latest": "c6b8a33378fc4846"
   },
   "kia-ev5": {
    "n_30d": 9,
@@ -941,6 +941,13 @@
    ]
   },
   {
+   "kind": "complaint_high",
+   "id": "26e8ecb21b4ae5d9",
+   "title": "1★ · The app is unreliable on android. a luxury EV brand that has",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-11-05T14:58:41+00:00"
+  },
+  {
    "kind": "competitor_launch",
    "id": "9f790b5f5376ccb5",
    "title": "Hyundai Staria EV: The good, the bad, and the price tag | Video",
@@ -999,13 +1006,6 @@
    "t": "2026-11-04T11:33:50+00:00"
   },
   {
-   "kind": "complaint_high",
-   "id": "d6e1c2d9b4f086d3",
-   "title": "1★ · Lost/disconnected the car, unlock unreliable, chews through",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-04T10:17:56+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "4c1b2afe81c88e58",
    "title": "Volvo EX40 replacement tipped for 2027 as brand plots turnaround",
@@ -1032,22 +1032,6 @@
    "competitors": [
     "kia-ev5"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "55c5f63300637ba1",
-   "title": "smart 官网政策页面变化（+0 / −1 行）",
-   "title_en": "smart offer page changed (+0 / −1 lines)",
-   "source": "https://www.smart.com.au/",
-   "t": "2026-11-03T10:04:56+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "3550c3d0c260a099",
-   "title": "MG / IM 官网政策页面变化（+1 / −1 行）",
-   "title_en": "MG / IM offer page changed (+1 / −1 lines)",
-   "source": "https://mgmotor.com.au/offers",
-   "t": "2026-11-03T10:04:55+00:00"
   }
  ],
  "source_status": {
@@ -1058,7 +1042,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 22,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1073,7 +1057,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 53,
+   "count": 52,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1083,7 +1067,7 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 76,
+   "count": 78,
    "note": ""
   },
   "gn-ev-launch-au": {
@@ -1093,12 +1077,12 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 28,
+   "count": 27,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1108,7 +1092,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 12,
+   "count": 14,
    "note": ""
   },
   "carexpert": {
@@ -1172,14 +1156,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 22,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1187,14 +1171,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-AustralianEV": {
    "ok": true,
    "count": 25,
    "note": "anonymous RSS"
+  },
+  "reddit-AustralianEV": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1209,7 +1193,7 @@
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1238,7 +1222,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 28,
    "note": ""
   },
   "playstore-android": {
