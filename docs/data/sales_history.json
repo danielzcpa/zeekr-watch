@@ -4013,7 +4013,7 @@
   },
   "2026-10": {
    "label": "October 2026",
-   "fetched": "2026-11-05T21:57:20+00:00",
+   "fetched": "2026-11-06T02:14:23+00:00",
    "source": "https://atlas.carexpert.com.au/latest-dataset",
    "models": {
     "Toyota|Hilux": {
@@ -8012,6 +8012,6 @@
    "total": 107493
   }
  },
- "updated": "2026-11-05T21:57:20+00:00",
+ "updated": "2026-11-06T02:14:23+00:00",
  "latest": "2026-10"
 }

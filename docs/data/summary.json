@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-05T21:54:41+00:00",
- "duration_s": 374.9,
- "items_total": 1367,
- "new_this_run": 187,
+ "generated": "2026-11-06T02:13:01+00:00",
+ "duration_s": 294.0,
+ "items_total": 1374,
+ "new_this_run": 171,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 10,
-  "complaints_30d": 33,
+  "complaints_30d": 32,
   "high_7d": 4,
   "medium_7d": 3,
   "low_7d": 3,
-  "competitor_news_7d": 130,
+  "competitor_news_7d": 128,
   "launch_signals_7d": 25,
-  "offer_signals_7d": 5,
-  "zeekr_news_7d": 68,
+  "offer_signals_7d": 6,
+  "zeekr_news_7d": 71,
   "offer_page_changes_7d": 14
  },
  "series_30d": [
-  {
-   "date": "2026-10-07",
-   "complaints": 1,
-   "competitor_news": 4,
-   "zeekr_news": 2
-  },
   {
    "date": "2026-10-08",
    "complaints": 1,
@@ -194,8 +188,14 @@
   {
    "date": "2026-11-05",
    "complaints": 0,
-   "competitor_news": 14,
-   "zeekr_news": 12
+   "competitor_news": 15,
+   "zeekr_news": 14
+  },
+  {
+   "date": "2026-11-06",
+   "complaints": 0,
+   "competitor_news": 2,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -209,7 +209,7 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 11
+   "n": 10
   },
   {
    "key": "delivery",
@@ -249,13 +249,13 @@
   }
  ],
  "models_30d": {
-  "7X": 11,
+  "7X": 10,
   "X": 1,
   "7GT": 3
  },
  "sources_30d": {
-  "Reddit r/Zeekr7xAustralia": 12,
   "Google Play (AU)": 11,
+  "Reddit r/Zeekr7xAustralia": 11,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
   "Reddit r/Zeekr": 2,
@@ -514,7 +514,7 @@
    "latest": "9443a47dfbdd8ef2"
   },
   "tesla-model-3": {
-   "n_30d": 22,
+   "n_30d": 23,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -531,7 +531,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "35b139ee9f1d5edc"
+   "latest": "0c4317bb36218c5c"
   },
   "polestar-2": {
    "n_30d": 4,
@@ -909,17 +909,18 @@
    "latest": null
   },
   "hyundai-staria": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "9f790b5f5376ccb5",
     "2e734789c3bd7efc",
     "7389d244a24d8fa5"
    ],
    "offer": [
+    "0f7dc9e69355b6df",
     "9f790b5f5376ccb5",
     "2e734789c3bd7efc"
    ],
-   "latest": "9f790b5f5376ccb5"
+   "latest": "0f7dc9e69355b6df"
   },
   "ldv-mifa": {
    "n_30d": 0,
@@ -930,9 +931,19 @@
  },
  "alerts": [
   {
+   "kind": "competitor_offer",
+   "id": "0f7dc9e69355b6df",
+   "title": "Hyundai Staria Load Electric review: Great to drive, but is it worth $71,000?",
+   "source": "The Driven",
+   "t": "2026-11-06T01:19:41+00:00",
+   "competitors": [
+    "hyundai-staria"
+   ]
+  },
+  {
    "kind": "competitor_launch",
    "id": "9f790b5f5376ccb5",
-   "title": "Hyundai Staria EV review: The good, the bad, and the price tag | Video",
+   "title": "Hyundai Staria EV: The good, the bad, and the price tag | Video",
    "source": "The Driven",
    "t": "2026-11-05T07:34:50+00:00",
    "competitors": [
@@ -1087,16 +1098,6 @@
    "competitors": [
     "geely-ex5"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "d267055a6c3273cb",
-   "title": "Luxury EV brand HongQi coming to Australia with E-HS9 SUV set to rival Volvo EX90 and ‘Benz EQS",
-   "source": "Chasing Cars",
-   "t": "2026-11-03T01:47:14+00:00",
-   "competitors": [
-    "volvo-ex90"
-   ]
   }
  ],
  "source_status": {
@@ -1107,7 +1108,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 19,
+   "count": 23,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1122,7 +1123,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 54,
+   "count": 55,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1132,7 +1133,7 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 72,
+   "count": 75,
    "note": ""
   },
   "gn-ev-launch-au": {
@@ -1147,12 +1148,12 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 27,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 32,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1221,9 +1222,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1233,27 +1234,27 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
@@ -1691,9 +1692,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
