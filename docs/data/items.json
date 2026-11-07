@@ -1,5 +1,106 @@
 [
  {
+  "id": "bdbc15379e63364c",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xq7d0a/zeekr_7x_2027_vs_older_model_is_it_worth_paying/",
+  "title": "Zeekr 7X 2027 vs older model: Is it worth paying €6,000 extra?",
+  "text": "",
+  "author": "/u/StateMiserable5852",
+  "published": "2026-11-07T14:15:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-07T15:52:11+00:00"
+ },
+ {
+  "id": "ad50a913b8827f16",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-volvo-es90-review",
+  "title": "2027 Volvo ES90 review",
+  "text": "After a brief hiatus, Volvo is back doing what it does best – making elegant, understated executive cars. Sure, they've never been best-sellers, but previous efforts including the S60, S80 and S90 have consistently given the Germans a run for their money, offering comparable levels of luxury, practicality and performance at a significantly lower price. On paper, the same appears to be true of the new, electric ES90 in flagship Ultra guise. The large premium electric sedan is bigger, better equipped and roughly as quick as a Mercedes-Benz E-Class or BMW 5 Series / i5 , yet up to $50,000 cheaper. It's pleasant to look at, too, despite riding higher than your typical sedan. An obvious buy, then? Not necessarily. Read on to find out why. How much does the Volvo ES90 cost? The Ultra on test here retails for $107,990 before on-road costs, or $19,110 more than the base Plus. Model Price before on-road costs 2027 Volvo ES90 Plus Single Motor $88,880 2027 Volvo ES90 Ultra Single Motor $107,990 The entry-level variant therefore falls below the $91,387 Luxury Car Tax (LCT) threshold for fuel-efficient vehicles, making it eligible for a Fringe Benefits Tax (FBT) exemption under the Electric Ca",
+  "author": "Josh Nevett",
+  "published": "2026-11-07T13:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo",
+   "mercedes-benz",
+   "bmw"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-07T15:52:11+00:00"
+ },
+ {
+  "id": "7d824dd69535c849",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · InsideEVs",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43YlhJTXhrQ0c2Y2tfWjkxWk96Y195UnozWGg0ZlNpY0R1Nlc5REdRX2JYbkQxaVdnUlVTcnkxYjViWTBsT2FOWXZCclROa19CekcyX3UwQ0FteXZwenV1XzkxanhJQW5hdEJpYXBKeWlVZw?oc=5",
+  "title": "The Zeekr 7GT Made Me Question Every Other Luxury EV - InsideEVs",
+  "text": "The Zeekr 7GT Made Me Question Every Other Luxury EV InsideEVs",
+  "author": "",
+  "published": "2026-11-07T07:33:18+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-07T15:52:11+00:00"
+ },
+ {
   "id": "3fcfdb702942c955",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -169,7 +270,7 @@
  {
   "id": "e6d0b1dec1b0103f",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
   "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion - CarsGuide",
@@ -196,7 +297,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-07T02:17:46+00:00"
@@ -395,6 +496,38 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-06T17:22:40+00:00"
+ },
+ {
+  "id": "1f9767ac0490c782",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 매일경제",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoQW5zWlBYYXdXMXZRSi14bTdxd2MxQlZZTEVyaG5SZl9sMzJfS1JlZ3hwY2VDOHdkV0JmZGRaUGw4MnJqTFZOOVkwWlB2UXRscXYw?oc=5",
+  "title": "After BYD and Zeekr ... XPeng to enter Korea early next year - 매일경제",
+  "text": "After BYD and Zeekr ... XPeng to enter Korea early next year 매일경제",
+  "author": "",
+  "published": "2026-11-06T08:33:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-07T15:52:11+00:00"
  },
  {
   "id": "f233ca44b57a8b7c",
@@ -1042,20 +1175,25 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFk1cXQtc3ZsVGR1blA3N0lVamJYSkI3SEFpOFEtWnZ2SUNPZUZuUENPLWRkUnhoeUhEMTNVYjMxa2x3OGFvX3VXNUN5X2NmN293ZENIekthM0s5b3F5VlN6OWRTN2Zra2tzX1pkb3FLUmVCY2l4eXFkS19KMGt1SXVqZWpfZVFjOVhaODZrNVAtY01jSWk1WWhUMS16eFNvYWtwbEcxMW8yd1dOWEVWb2lxenJOeVBiQS13eWV3TXA?oc=5",
-  "title": "Shop Tesla Model Y Cars - CarsGuide",
-  "text": "Shop Tesla Model Y Cars CarsGuide",
+  "title": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom - CarsGuide",
+  "text": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom CarsGuide",
   "author": "",
   "published": "2026-11-06T03:02:25+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y"
+   "tesla-model-y",
+   "byd-sealion7"
   ],
   "brands": [
-   "tesla"
+   "byd",
+   "tesla",
+   "toyota"
   ],
-  "categories": [],
+  "categories": [
+   "software"
+  ],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -1517,8 +1655,8 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHNRdE0wUEtxeEY3NGhnUHluQWNnTVpHaDVKejdXb0hjY3NpQVoxR1hnaS1VOWkxMWpoN2FxT0NqMnZSN0QwWi1vVXhmRmRwQVBMRWZ5WEt2eDNMVFUxOURRVFl1NDI5a213Zzg2QlVEYnVRNkR1Mzg5VFRwa0lWdGdyNHROT0paemJMWUVFel9kWWVWandCd2hOVG5sQnY2eWJXaWN0XzlSNW9SZ2tUMWl1Qzl5dHpHRTdXTmtZbU0xdVBBTXhZ?oc=5",
-  "title": "2026 Tesla Model Y outselling Toyota RAV4 in Australia as the electric mid-size SUV claims title for best-selling passenger car - CarsGuide",
-  "text": "2026 Tesla Model Y outselling Toyota RAV4 in Australia as the electric mid-size SUV claims title for best-selling passenger car CarsGuide",
+  "title": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 - CarsGuide",
+  "text": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 CarsGuide",
   "author": "",
   "published": "2026-11-05T16:00:00+00:00",
   "rating": null,
@@ -1535,10 +1673,10 @@
    "software"
   ],
   "sentiment": {
-   "score": 2,
+   "score": 0,
    "neg_hits": 0,
-   "pos_hits": 2,
-   "label": "positive"
+   "pos_hits": 0,
+   "label": "neutral"
   },
   "severity": null,
   "signals": [],
@@ -1915,7 +2053,7 @@
  {
   "id": "b45a9e2747bc2bd1",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE9GalpBVzNISDdJQlpfRmtTZVk2c2hiT3VBQVdHM2pEX0lfUDRPQVNZYURMd3pxZU1CRmpoeHdSZzl5akI4TERILXFlbm8wRFBCSjhjMkpQTnQxOE9wcGROOTl1ZndGZm5pb240Z3BwXy1XUGgzeGRaUTJjb2UwUWVFM2NzWkZfdjlSRW82dnhtY0xNNGJ0YzFB?oc=5",
   "title": "Hyundai Staria Load Electric 2026 Review - Carsales",
@@ -5147,39 +5285,6 @@
   "first_seen": "2026-11-04T18:48:30+00:00"
  },
  {
-  "id": "a1d038a52f9d3cc7",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFZUV3U2RVNjcVVoaG1rY01UeHpqb3NteWxWWHVpVUtNWHVWdjdBYmxiSU44M1R3NG9oeFNWQlZEeTJfRkJJdVMyZm0xaUtoa0xRRHJxWG14dw?oc=5",
-  "title": "BYD Atto 2 DM-i price and specs: every variant compared - EV Central",
-  "text": "BYD Atto 2 DM-i price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-11-02T20:50:58+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
   "id": "647f766d2b549afc",
   "type": "competitor_news",
   "source": "carexpert",
@@ -6892,76 +6997,6 @@
   "competitors": [],
   "brands": [
    "bmw"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "a1259168a41994e1",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUUFnNzVpb1FqWnpSaGN3Y0ExeC1JQzJwVHo3aF9yN2hEaE9tVldSN1RfUnNNUmVXU2J2a1ZnUDl5Z1dGQmNIQUtjcnNSYmhiWHhPc1BES0o?oc=5",
-  "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
-  "text": "Polestar 4 SUV price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-11-01T15:35:52+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "polestar-4"
-  ],
-  "brands": [
-   "polestar"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T00:13:27+00:00"
- },
- {
-  "id": "1449d41803c59183",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93blgzU3NuTVBGRVp2MXZBSVl5TTZ5bFBocGNMekNBOXNQVS1Cb1FaQW16QTY1N041eXhxUnF3QlhtMlpXWWI4N0xTZ0VGeEpfalFmRFBjbUdqUQ?oc=5",
-  "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Seal 6 DM-i price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-11-01T15:35:51+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-seal"
-  ],
-  "brands": [
-   "byd"
   ],
   "categories": [],
   "sentiment": {
@@ -8785,6 +8820,74 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
+  "id": "1449d41803c59183",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93blgzU3NuTVBGRVp2MXZBSVl5TTZ5bFBocGNMekNBOXNQVS1Cb1FaQW16QTY1N041eXhxUnF3QlhtMlpXWWI4N0xTZ0VGeEpfalFmRFBjbUdqUQ?oc=5",
+  "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Seal 6 DM-i price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T16:13:56+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "a1d038a52f9d3cc7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eFZUV3U2RVNjcVVoaG1rY01UeHpqb3NteWxWWHVpVUtNWHVWdjdBYmxiSU44M1R3NG9oeFNWQlZEeTJfRkJJdVMyZm0xaUtoa0xRRHJxWG14dw?oc=5",
+  "title": "BYD Atto 2 DM-i price and specs: every variant compared - EV Central",
+  "text": "BYD Atto 2 DM-i price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T16:13:55+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
   "id": "44847ad05d4b8f36",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -9510,6 +9613,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T02:30:40+00:00"
+ },
+ {
+  "id": "a1259168a41994e1",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUUFnNzVpb1FqWnpSaGN3Y0ExeC1JQzJwVHo3aF9yN2hEaE9tVldSN1RfUnNNUmVXU2J2a1ZnUDl5Z1dGQmNIQUtjcnNSYmhiWHhPc1BES0o?oc=5",
+  "title": "Polestar 4 SUV price and specs: every 2026 variant compared - EV Central",
+  "text": "Polestar 4 SUV price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-29T23:40:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-4"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
   "id": "0d4ba2bcb5fddbe4",
@@ -39460,39 +39598,6 @@
   "first_seen": "2026-10-21T09:13:15+00:00"
  },
  {
-  "id": "a2ef570e752c0221",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkRFd1QybGFsVDVqbE5wQ3E3S1FjT2N2dkhCVHh1QlNlcWVDd214dE55VWV4ZzU5Z3RUNjN3eWVkZEhTTThyMDNsY0lWVTN3OGc3Q0c2VkN6eWlFaTUwVUh5Q2xzVzNmRFdzbnFfbXVZS1kzSW40ZVNQTS1PeUZnOHBfR0Y3Ym1QTVEyQXZ2Wm43RVIw?oc=5",
-  "title": "Zeekr 7X getting larger battery, range boost expected - CarExpert",
-  "text": "Zeekr 7X getting larger battery, range boost expected CarExpert",
-  "author": "",
-  "published": "2026-09-04T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "4db021f611ebc651",
   "type": "complaint",
   "source": "reddit-ZeekrAustraliaNZ",
@@ -40197,6 +40302,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T15:51:31+00:00"
+ },
+ {
+  "id": "a2ef570e752c0221",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkRFd1QybGFsVDVqbE5wQ3E3S1FjT2N2dkhCVHh1QlNlcWVDd214dE55VWV4ZzU5Z3RUNjN3eWVkZEhTTThyMDNsY0lWVTN3OGc3Q0c2VkN6eWlFaTUwVUh5Q2xzVzNmRFdzbnFfbXVZS1kzSW40ZVNQTS1PeUZnOHBfR0Y3Ym1QTVEyQXZ2Wm43RVIw?oc=5",
+  "title": "Zeekr 7X getting larger battery, range boost expected - CarExpert",
+  "text": "Zeekr 7X getting larger battery, range boost expected CarExpert",
+  "author": "",
+  "published": "2026-09-03T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
   "id": "e7632f73714080fe",
@@ -48457,37 +48595,6 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "ac087e29a0bb069f",
-  "type": "post",
-  "source": "reddit-ZeekrX",
-  "source_name": "Reddit r/ZeekrX",
-  "url": "https://www.reddit.com/r/ZeekrX/comments/1t9xxdh/windscreen_wipers_wont_stop/",
-  "title": "Windscreen wipers won’t stop",
-  "text": "Just started today out of the blue - any suggestions ? Anyone know where the rain sensor is located ?",
-  "author": "/u/Flat-Camp2980",
-  "published": "2026-05-11T09:15:39+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  }

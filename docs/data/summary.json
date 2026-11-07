@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-07T09:09:50+00:00",
- "duration_s": 301.5,
- "items_total": 1408,
- "new_this_run": 162,
+ "generated": "2026-11-07T15:52:11+00:00",
+ "duration_s": 348.9,
+ "items_total": 1411,
+ "new_this_run": 178,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 8,
@@ -10,11 +10,11 @@
   "high_7d": 3,
   "medium_7d": 3,
   "low_7d": 2,
-  "competitor_news_7d": 125,
-  "launch_signals_7d": 24,
+  "competitor_news_7d": 116,
+  "launch_signals_7d": 19,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 69,
-  "offer_page_changes_7d": 14
+  "zeekr_news_7d": 68,
+  "offer_page_changes_7d": 13
  },
  "series_30d": [
   {
@@ -140,13 +140,13 @@
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 9,
+   "competitor_news": 10,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 16,
+   "competitor_news": 18,
    "zeekr_news": 12
   },
   {
@@ -158,13 +158,13 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 19,
+   "competitor_news": 17,
    "zeekr_news": 8
   },
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 19,
+   "competitor_news": 18,
    "zeekr_news": 11
   },
   {
@@ -189,13 +189,13 @@
    "date": "2026-11-06",
    "complaints": 0,
    "competitor_news": 16,
-   "zeekr_news": 11
+   "zeekr_news": 12
   },
   {
    "date": "2026-11-07",
    "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 1
+   "competitor_news": 1,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -361,7 +361,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -369,7 +369,7 @@
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "54b5d83ec5da372d"
+   "latest": "c6b8a33378fc4846"
   },
   "kia-ev5": {
    "n_30d": 9,
@@ -940,13 +940,6 @@
    ]
   },
   {
-   "kind": "complaint_high",
-   "id": "26e8ecb21b4ae5d9",
-   "title": "1★ · The app is unreliable on android. a luxury EV brand that has",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-05T14:58:41+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "9f790b5f5376ccb5",
    "title": "Hyundai Staria EV: The good, the bad, and the price tag | Video",
@@ -985,35 +978,17 @@
    "competitors": [
     "polestar-2"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "69780f30556bd85d",
-   "title": "More muscle and a fresh look for Kia EV5: Update coming for Kia’s most popular EV!",
-   "source": "EV Central",
-   "t": "2026-11-04T12:17:37+00:00",
-   "competitors": [
-    "kia-ev5"
-   ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "183765d7926d5482",
-   "title": "Kia 官网政策页面变化（+1 / −1 行）",
-   "title_en": "Kia offer page changed (+1 / −1 lines)",
-   "source": "https://www.kia.com/au/offers.html",
-   "t": "2026-11-04T11:33:50+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 72,
+   "count": 71,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 19,
+   "count": 23,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1043,12 +1018,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 28,
+   "count": 27,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1058,12 +1033,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 19,
+   "count": 32,
    "note": ""
   },
   "carexpert": {
@@ -1122,9 +1097,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1132,9 +1107,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 22,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1144,12 +1119,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
