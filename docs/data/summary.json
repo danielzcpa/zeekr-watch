@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-07T15:52:11+00:00",
- "duration_s": 348.9,
- "items_total": 1411,
- "new_this_run": 178,
+ "generated": "2026-11-07T20:07:58+00:00",
+ "duration_s": 295.9,
+ "items_total": 1413,
+ "new_this_run": 165,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 8,
@@ -10,11 +10,11 @@
   "high_7d": 3,
   "medium_7d": 3,
   "low_7d": 2,
-  "competitor_news_7d": 116,
+  "competitor_news_7d": 114,
   "launch_signals_7d": 19,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 68,
-  "offer_page_changes_7d": 13
+  "offer_page_changes_7d": 12
  },
  "series_30d": [
   {
@@ -32,7 +32,7 @@
   {
    "date": "2026-10-11",
    "complaints": 1,
-   "competitor_news": 8,
+   "competitor_news": 9,
    "zeekr_news": 5
   },
   {
@@ -140,13 +140,13 @@
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 10,
+   "competitor_news": 12,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 18,
+   "competitor_news": 20,
    "zeekr_news": 12
   },
   {
@@ -158,19 +158,19 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 17,
+   "competitor_news": 16,
    "zeekr_news": 8
   },
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 18,
+   "competitor_news": 15,
    "zeekr_news": 11
   },
   {
    "date": "2026-11-03",
    "complaints": 2,
-   "competitor_news": 31,
+   "competitor_news": 30,
    "zeekr_news": 7
   },
   {
@@ -182,19 +182,19 @@
   {
    "date": "2026-11-05",
    "complaints": 2,
-   "competitor_news": 15,
+   "competitor_news": 16,
    "zeekr_news": 17
   },
   {
    "date": "2026-11-06",
    "complaints": 0,
-   "competitor_news": 16,
+   "competitor_news": 17,
    "zeekr_news": 12
   },
   {
    "date": "2026-11-07",
    "complaints": 0,
-   "competitor_news": 1,
+   "competitor_news": 2,
    "zeekr_news": 2
   }
  ],
@@ -334,7 +334,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 28,
+   "n_30d": 29,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -513,7 +513,7 @@
    "latest": "9443a47dfbdd8ef2"
   },
   "tesla-model-3": {
-   "n_30d": 23,
+   "n_30d": 24,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -530,7 +530,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "0c4317bb36218c5c"
+   "latest": "baa8632f04c02fdf"
   },
   "polestar-2": {
    "n_30d": 4,
@@ -988,7 +988,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 23,
+   "count": 21,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1023,22 +1023,22 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 27,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 27,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 31,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 32,
+   "count": 51,
    "note": ""
   },
   "carexpert": {
@@ -1107,24 +1107,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 22,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
