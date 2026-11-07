@@ -1,5 +1,38 @@
 [
  {
+  "id": "3fcfdb702942c955",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · 머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSMVBVMGoyZmd0YTFzbEFfWWVVRHlDcm5FaEZ6SDdaX2xlYlFWQy1TTkJVQUxsR0JBcUtVZW4tcmJYRUQ0SV96dW1ObU1VdU9KdWxQNUVYN3gxbzdXSHVQZDg2Z1dRczlNMEZv?oc=5",
+  "title": "[Exclusive] China's Zeekr electric vehicles to feature 'Tmap Auto'... Launch of '7X' model begins in second half - 머니투데이",
+  "text": "[Exclusive] China's Zeekr electric vehicles to feature 'Tmap Auto'... Launch of '7X' model begins in second half 머니투데이",
+  "author": "",
+  "published": "2026-11-07T06:32:34+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
   "id": "371af2c0b7c3bc52",
   "type": "competitor_news",
   "source": "gn-ev-offer-au",
@@ -136,7 +169,7 @@
  {
   "id": "e6d0b1dec1b0103f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
   "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion - CarsGuide",
@@ -163,7 +196,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-07T02:17:46+00:00"
@@ -814,6 +847,37 @@
   "first_seen": "2026-11-06T09:46:21+00:00"
  },
  {
+  "id": "1fe4ec238bc21e6a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kR1hlcHQ3WUFDeG9yVktVa1BrN1VnZDFTck9Sa3BsMHhEeEF4MHVNMnVrVFRGeGw2LTlITkVENzJmQjZBcXFiQ0FrWVpVMGdMTlBPWjZfUXZYV0hFOGJHRUhHajkycWVEdWphcDEzbEo?oc=5",
+  "title": "Vergleich: Voyah Taishan vs ZEEKR 9X - Autohled.cz",
+  "text": "Vergleich: Voyah Taishan vs ZEEKR 9X Autohled.cz",
+  "author": "",
+  "published": "2026-11-06T04:52:05+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-07T09:09:50+00:00"
+ },
+ {
   "id": "9877f61791392dc5",
   "type": "news_zeekr",
   "source": "carexpert",
@@ -1384,39 +1448,6 @@
   "first_seen": "2026-11-05T21:54:41+00:00"
  },
  {
-  "id": "3fcfdb702942c955",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · 머니투데이",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSMVBVMGoyZmd0YTFzbEFfWWVVRHlDcm5FaEZ6SDdaX2xlYlFWQy1TTkJVQUxsR0JBcUtVZW4tcmJYRUQ0SV96dW1ObU1VdU9KdWxQNUVYN3gxbzdXSHVQZDg2Z1dRczlNMEZv?oc=5",
-  "title": "[Exclusive] China's Zeekr electric vehicles to feature 'Tmap Auto'... Launch of '7X' model begins in second half - 머니투데이",
-  "text": "[Exclusive] China's Zeekr electric vehicles to feature 'Tmap Auto'... Launch of '7X' model begins in second half 머니투데이",
-  "author": "",
-  "published": "2026-11-05T18:51:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-11-05T21:54:41+00:00"
- },
- {
   "id": "9cb24bbfc862c6c9",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -1884,7 +1915,7 @@
  {
   "id": "b45a9e2747bc2bd1",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE9GalpBVzNISDdJQlpfRmtTZVk2c2hiT3VBQVdHM2pEX0lfUDRPQVNZYURMd3pxZU1CRmpoeHdSZzl5akI4TERILXFlbm8wRFBCSjhjMkpQTnQxOE9wcGROOTl1ZndGZm5pb240Z3BwXy1XUGgzeGRaUTJjb2UwUWVFM2NzWkZfdjlSRW82dnhtY0xNNGJ0YzFB?oc=5",
   "title": "Hyundai Staria Load Electric 2026 Review - Carsales",
@@ -2538,6 +2569,37 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-05T00:17:48+00:00"
+ },
+ {
+  "id": "3a36a99752358504",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1NmlGYXhBSjcwZFN6MGFvM0k2aVkyaTcxNUM2djh1dlliUzBNUW1SUXpabVg3T1dIeEozVWpwQUNyMWZLNjVaLTh1REQ4MEtKSV9zNERlSVF2b1lMUEJDMTN2Yw?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-11-04T15:20:45+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-01T00:22:34+00:00"
  },
  {
   "id": "6edbcc3fc16dd4ae",
@@ -5225,39 +5287,6 @@
   "first_seen": "2026-11-02T20:13:07+00:00"
  },
  {
-  "id": "90edc6a3991e8e16",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0taWxENEpUdHZLVE5fdXBqdE1IQUtBQm1Jck5fdnltTG9xZE9yVktLNUlSYzlHNTREMmpwbUYtUWhXNGdvS2NrdHluRUlZMGlUNGFrS3lleVZwOXM?oc=5",
-  "title": "Mazda CX-60 P50e price and specs: every variant compared - EV Central",
-  "text": "Mazda CX-60 P50e price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-11-02T17:15:55+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mazda"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
   "id": "da41f5c05f70ad4a",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -7357,37 +7386,6 @@
   "first_seen": "2026-11-01T06:43:42+00:00"
  },
  {
-  "id": "3a36a99752358504",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1NmlGYXhBSjcwZFN6MGFvM0k2aVkyaTcxNUM2djh1dlliUzBNUW1SUXpabVg3T1dIeEozVWpwQUNyMWZLNjVaLTh1REQ4MEtKSV9zNERlSVF2b1lMUEJDMTN2Yw?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-11-01T01:23:15+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-11-01T00:22:34+00:00"
- },
- {
   "id": "3d93a0fa9dad4c48",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -8551,6 +8549,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-31T00:39:16+00:00"
+ },
+ {
+  "id": "90edc6a3991e8e16",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0taWxENEpUdHZLVE5fdXBqdE1IQUtBQm1Jck5fdnltTG9xZE9yVktLNUlSYzlHNTREMmpwbUYtUWhXNGdvS2NrdHluRUlZMGlUNGFrS3lleVZwOXM?oc=5",
+  "title": "Mazda CX-60 P50e price and specs: every variant compared - EV Central",
+  "text": "Mazda CX-60 P50e price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T20:12:55+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
   "id": "623487594ca54651",

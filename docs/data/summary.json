@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-07T02:17:46+00:00",
- "duration_s": 302.0,
- "items_total": 1407,
- "new_this_run": 165,
+ "generated": "2026-11-07T09:09:50+00:00",
+ "duration_s": 301.5,
+ "items_total": 1408,
+ "new_this_run": 162,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 10,
-  "complaints_30d": 34,
-  "high_7d": 4,
+  "complaints_7d": 8,
+  "complaints_30d": 33,
+  "high_7d": 3,
   "medium_7d": 3,
-  "low_7d": 3,
-  "competitor_news_7d": 130,
+  "low_7d": 2,
+  "competitor_news_7d": 125,
   "launch_signals_7d": 24,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 69,
@@ -146,7 +146,7 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 15,
+   "competitor_news": 16,
    "zeekr_news": 12
   },
   {
@@ -164,7 +164,7 @@
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 20,
+   "competitor_news": 19,
    "zeekr_news": 11
   },
   {
@@ -183,19 +183,19 @@
    "date": "2026-11-05",
    "complaints": 2,
    "competitor_news": 15,
-   "zeekr_news": 18
+   "zeekr_news": 17
   },
   {
    "date": "2026-11-06",
    "complaints": 0,
    "competitor_news": 16,
-   "zeekr_news": 10
+   "zeekr_news": 11
   },
   {
    "date": "2026-11-07",
    "complaints": 0,
    "competitor_news": 0,
-   "zeekr_news": 0
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -249,7 +249,7 @@
   }
  ],
  "models_30d": {
-  "7X": 10,
+  "7X": 9,
   "X": 1,
   "7GT": 3
  },
@@ -260,8 +260,7 @@
   "ProductReview.com.au": 2,
   "Reddit r/Zeekr": 2,
   "Reddit r/AutoAdvice": 1,
-  "Reddit r/ZeekrAustraliaNZ": 1,
-  "Reddit r/EVAustralia": 1
+  "Reddit r/ZeekrAustraliaNZ": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -335,7 +334,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 29,
+   "n_30d": 28,
    "launch": [
     "064fcb4c32ef7101",
     "39ee8a224f7f89bb",
@@ -1004,35 +1003,17 @@
    "title_en": "Kia offer page changed (+1 / −1 lines)",
    "source": "https://www.kia.com/au/offers.html",
    "t": "2026-11-04T11:33:50+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "4c1b2afe81c88e58",
-   "title": "Volvo EX40 replacement tipped for 2027 as brand plots turnaround",
-   "source": "CarExpert",
-   "t": "2026-11-04T04:44:00+00:00",
-   "competitors": [
-    "volvo-ex40"
-   ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "877c9736e5e456b1",
-   "title": "Zecar (all-brand offers) 官网政策页面变化（+2 / −3 行）",
-   "title_en": "Zecar (all-brand offers) offer page changed (+2 / −3 lines)",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-11-04T03:14:49+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 71,
+   "count": 72,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 24,
+   "count": 19,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1047,7 +1028,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 52,
+   "count": 53,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1062,7 +1043,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 31,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1077,12 +1058,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 31,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 18,
+   "count": 19,
    "note": ""
   },
   "carexpert": {
