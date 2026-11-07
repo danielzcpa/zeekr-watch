@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-06T22:18:58+00:00",
- "duration_s": 306.6,
- "items_total": 1404,
- "new_this_run": 164,
+ "generated": "2026-11-07T02:17:46+00:00",
+ "duration_s": 302.0,
+ "items_total": 1407,
+ "new_this_run": 165,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 10,
-  "complaints_30d": 33,
+  "complaints_30d": 34,
   "high_7d": 4,
   "medium_7d": 3,
   "low_7d": 3,
   "competitor_news_7d": 130,
   "launch_signals_7d": 24,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 68,
+  "zeekr_news_7d": 69,
   "offer_page_changes_7d": 14
  },
  "series_30d": [
-  {
-   "date": "2026-10-08",
-   "complaints": 1,
-   "competitor_news": 8,
-   "zeekr_news": 2
-  },
   {
    "date": "2026-10-09",
    "complaints": 1,
@@ -187,15 +181,21 @@
   },
   {
    "date": "2026-11-05",
-   "complaints": 1,
+   "complaints": 2,
    "competitor_news": 15,
-   "zeekr_news": 17
+   "zeekr_news": 18
   },
   {
    "date": "2026-11-06",
    "complaints": 0,
    "competitor_news": 16,
-   "zeekr_news": 9
+   "zeekr_news": 10
+  },
+  {
+   "date": "2026-11-07",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -203,13 +203,13 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 21
+   "n": 22
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 10
+   "n": 11
   },
   {
    "key": "delivery",
@@ -254,7 +254,7 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 12,
+  "Google Play (AU)": 13,
   "Reddit r/Zeekr7xAustralia": 11,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
@@ -1022,16 +1022,6 @@
    "title_en": "Zecar (all-brand offers) offer page changed (+2 / −3 lines)",
    "source": "https://zecar.com/offers-and-deals",
    "t": "2026-11-04T03:14:49+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "7e94a8dd0f108e63",
-   "title": "Significantly updated Kia EV5 is revealed with a power boost and facelift",
-   "source": "WhichCar",
-   "t": "2026-11-03T23:23:42+00:00",
-   "competitors": [
-    "kia-ev5"
-   ]
   }
  ],
  "source_status": {
@@ -1042,7 +1032,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 22,
+   "count": 24,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1057,7 +1047,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 52,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1082,17 +1072,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 28,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 16,
+   "count": 18,
    "note": ""
   },
   "carexpert": {
@@ -1151,9 +1141,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1168,7 +1158,7 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,

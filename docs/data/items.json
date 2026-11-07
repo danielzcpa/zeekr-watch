@@ -134,6 +134,41 @@
   "first_seen": "2026-11-06T22:18:58+00:00"
  },
  {
+  "id": "e6d0b1dec1b0103f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
+  "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion - CarsGuide",
+  "text": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion CarsGuide",
+  "author": "",
+  "published": "2026-11-06T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-07T02:17:46+00:00"
+ },
+ {
   "id": "c984a8f7676f79cb",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -169,7 +204,7 @@
   "source_name": "CarExpert",
   "url": "https://www.carexpert.com.au/car-news/tesla-cybertruck-likely-axed-production-to-wind-down-in-2027",
   "title": "Tesla Cybertruck likely axed, production to 'wind down' in 2027",
-  "text": "The Tesla Cybertruck was once billed as the company's next all-conquering vehicle, instead it looks to be fading out into obscurity after less than four years in production. In a post on X on Friday, Elon Musk, Tesla's CEO, said, \"Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production\". Given the car's low sales, the post implies the Cybertruck is being axed, but there's wiggle room in the wording to suggest it could be moved to another production facility. The Austin, Texas plant is the only one that has ever produced the finger-slicing electric ute. No publications have, at the time of writing, been able to get a response from Mr Musk to confirm the Cybertruck's axiing, and he hasn't made any subsequent tweets about the matter. The Cybertruck has been dogged with controversy since it was unveiled as a concept in 2019. At that event, Franz von Holzhausen, Tesla's design chief, hurled a metal ball at the vehicle, shattering the supposedly shatter-proof glass. Clad in a stainless steel body, Mr Musk claimed the Cybertruck would go on sale in the States in 2021 with a starting price of",
+  "text": "The Tesla Cybertruck was once billed as the company's next all-conquering vehicle, and instead it looks to be fading out into obscurity after less than four years in production. In a post on X on Friday, Elon Musk, Tesla's CEO, said, \"Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production\". Given the car's low sales, the post implies the Cybertruck is being axed, but there's wiggle room in the wording to suggest it could be moved to another production facility. The Austin, Texas plant is the only one that has ever produced the finger-slicing electric ute. No publications have, at the time of writing, been able to get a response from Mr Musk to confirm the Cybertruck's axing, and he hasn't made any subsequent tweets about the matter. The Cybertruck has been dogged with controversy since it was unveiled as a concept in 2019. At that event, Franz von Holzhausen, Tesla's design chief, hurled a metal ball at the vehicle, shattering the supposedly shatter-proof glass. Clad in a stainless steel body, Mr Musk claimed the Cybertruck would go on sale in the States in 2021 with a starting price",
   "author": "Derek Fung",
   "published": "2026-11-06T13:34:00+00:00",
   "rating": null,
@@ -1213,6 +1248,41 @@
   "first_seen": "2026-11-06T09:46:21+00:00"
  },
  {
+  "id": "a28a8961c12acf8a",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=ff24cb8e-7a06-444f-b6e6-41514ab07083",
+  "title": "3★ · App is ok, but needs lots of work. - names and wording: when",
+  "text": "App is ok, but needs lots of work. - names and wording: when the app cannot Bluetooth to the car it is \"Disconnected\" not \"Unconnected\". - \"Power Control\" should be called \"Battery\". configurations are battery related. - Too many ads and marketing on this app. This is a Zeekr owner app to remote control the car. Why advertise the car and brand when they already own the vehicle? Example \"Discover\" on \"Vehicle\" tab. should replace with \"Register your Vehicle\" for easy vehicle enrolment.",
+  "author": "David Hao",
+  "published": "2026-11-05T22:40:05+00:00",
+  "rating": 3.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-07T02:17:46+00:00"
+ },
+ {
   "id": "3423d38950356b42",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -1416,8 +1486,8 @@
   "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHNRdE0wUEtxeEY3NGhnUHluQWNnTVpHaDVKejdXb0hjY3NpQVoxR1hnaS1VOWkxMWpoN2FxT0NqMnZSN0QwWi1vVXhmRmRwQVBMRWZ5WEt2eDNMVFUxOURRVFl1NDI5a213Zzg2QlVEYnVRNkR1Mzg5VFRwa0lWdGdyNHROT0paemJMWUVFel9kWWVWandCd2hOVG5sQnY2eWJXaWN0XzlSNW9SZ2tUMWl1Qzl5dHpHRTdXTmtZbU0xdVBBTXhZ?oc=5",
-  "title": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 - CarsGuide",
-  "text": "The Tesla Model Y has sold more units than the Toyota RAV4 in Australia up to October 2026 CarsGuide",
+  "title": "2026 Tesla Model Y outselling Toyota RAV4 in Australia as the electric mid-size SUV claims title for best-selling passenger car - CarsGuide",
+  "text": "2026 Tesla Model Y outselling Toyota RAV4 in Australia as the electric mid-size SUV claims title for best-selling passenger car CarsGuide",
   "author": "",
   "published": "2026-11-05T16:00:00+00:00",
   "rating": null,
@@ -1434,10 +1504,10 @@
    "software"
   ],
   "sentiment": {
-   "score": 0,
+   "score": 2,
    "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
+   "pos_hits": 2,
+   "label": "positive"
   },
   "severity": null,
   "signals": [],
@@ -1702,6 +1772,38 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-05T15:45:35+00:00"
+ },
+ {
+  "id": "a996222c1586096d",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · My NRMA",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1BQcEZSZnFyNFdCNEozQ1ZWdHZSTlJ4MklkSWFXN1otTUFGRHBzczhWWXBkR2RmN3dDa1NRbFN0QTVNN1pQb3RKVjZpbDNkenVMQ2QxaFBaeUlaMmRwcGZEd09FVW5ocUtRS0hGYW01QXVOd0dEQzRKVDVzbzB5V0h5SDNnQndaWHZOVkh3aw?oc=5",
+  "title": "GAC, Zeekr, XPeng: How to pronounce Australia’s new car brands - My NRMA",
+  "text": "GAC, Zeekr, XPeng: How to pronounce Australia’s new car brands My NRMA",
+  "author": "",
+  "published": "2026-11-05T08:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng",
+   "gac"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-07T02:17:46+00:00"
  },
  {
   "id": "9f790b5f5376ccb5",
@@ -44516,7 +44618,7 @@
   "title": "2026 Zeekr 7X Long Range RWD review: Long-term introduction - CarExpert",
   "text": "2026 Zeekr 7X Long Range RWD review: Long-term introduction CarExpert",
   "author": "",
-  "published": "2026-07-21T07:00:00+00:00",
+  "published": "2026-07-22T07:00:00+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -47496,6 +47598,39 @@
   "first_seen": "2026-10-15T07:17:47+00:00"
  },
  {
+  "id": "106cca00f488d845",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYnd3N0tiUV9zSHo3M2Uta1EzaGdmaXZTUUJYUml0aVBqa3A0TkhiZ18xS2xCMWwxMldtd0UtZEh6QXd4TWhnX29iSHhSRktGVXI0RGRBTzNJMEtzandLUks3blBpU2pyb2QzV1hoWmNULXJyZzlTcGhpVjRmdWhweVFoalZJRGdud1c4ajkzX3M5YnkxNmtreGlqZ19teEdkaFlmaDRjck4yTW5mQUZIeVF3eVZVVDY2UnhKR2h3b1EwbHZvR2I5WVRyY20?oc=5",
+  "title": "Zeekr 7X gets first OTA update in Australia, bringing a digital key and improved remote parking - CarExpert",
+  "text": "Zeekr 7X gets first OTA update in Australia, bringing a digital key and improved remote parking CarExpert",
+  "author": "",
+  "published": "2026-06-02T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-20T16:48:02+00:00"
+ },
+ {
   "id": "48ceb1a02c27b390",
   "type": "post",
   "source": "gn-zeekr-forums",
@@ -47559,39 +47694,6 @@
    "thumbs": 9
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "106cca00f488d845",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYnd3N0tiUV9zSHo3M2Uta1EzaGdmaXZTUUJYUml0aVBqa3A0TkhiZ18xS2xCMWwxMldtd0UtZEh6QXd4TWhnX29iSHhSRktGVXI0RGRBTzNJMEtzandLUks3blBpU2pyb2QzV1hoWmNULXJyZzlTcGhpVjRmdWhweVFoalZJRGdud1c4ajkzX3M5YnkxNmtreGlqZ19teEdkaFlmaDRjck4yTW5mQUZIeVF3eVZVVDY2UnhKR2h3b1EwbHZvR2I5WVRyY20?oc=5",
-  "title": "Zeekr 7X gets first OTA update in Australia, bringing a digital key and improved remote parking - CarExpert",
-  "text": "Zeekr 7X gets first OTA update in Australia, bringing a digital key and improved remote parking CarExpert",
-  "author": "",
-  "published": "2026-06-01T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
  },
  {
   "id": "b164f6b8d8bb37c6",
