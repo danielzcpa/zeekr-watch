@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-07T23:51:56+00:00",
- "duration_s": 304.1,
- "items_total": 1416,
- "new_this_run": 170,
+ "generated": "2026-11-08T05:49:02+00:00",
+ "duration_s": 294.9,
+ "items_total": 1419,
+ "new_this_run": 164,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
@@ -13,16 +13,10 @@
   "competitor_news_7d": 115,
   "launch_signals_7d": 20,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 68,
-  "offer_page_changes_7d": 11
+  "zeekr_news_7d": 67,
+  "offer_page_changes_7d": 10
  },
  "series_30d": [
-  {
-   "date": "2026-10-09",
-   "complaints": 1,
-   "competitor_news": 14,
-   "zeekr_news": 4
-  },
   {
    "date": "2026-10-10",
    "complaints": 0,
@@ -195,7 +189,13 @@
    "date": "2026-11-07",
    "complaints": 0,
    "competitor_news": 3,
-   "zeekr_news": 3
+   "zeekr_news": 4
+  },
+  {
+   "date": "2026-11-08",
+   "complaints": 0,
+   "competitor_news": 0,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -466,7 +466,7 @@
    "latest": null
   },
   "toyota-bz4x": {
-   "n_30d": 5,
+   "n_30d": 4,
    "launch": [
     "647f766d2b549afc",
     "3e3f285c9229d77a"
@@ -773,7 +773,7 @@
    "latest": "df6a2d5ce66b8d3d"
   },
   "kia-ev9": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "2c67435d1d334093",
     "b5c47101ca081290",
@@ -850,7 +850,7 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 6,
+   "n_30d": 5,
    "launch": [
     "d267055a6c3273cb",
     "2c67435d1d334093",
@@ -969,37 +969,17 @@
    "competitors": [
     "hyundai-staria"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "9e424fc1a04fa9c6",
-   "title": "Volvo boss says new battery-electric car is coming next year – and it could be the replacement for the EX40",
-   "source": "WhichCar",
-   "t": "2026-11-05T03:47:19+00:00",
-   "competitors": [
-    "volvo-ex40"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "6550b50254121430",
-   "title": "Farewell Polestar 2: Production ends for the Volvo that built an electric car brand",
-   "source": "EV Central",
-   "t": "2026-11-05T01:00:00+00:00",
-   "competitors": [
-    "polestar-2"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 73,
+   "count": 72,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 20,
+   "count": 18,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1014,7 +994,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 53,
+   "count": 52,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1034,7 +1014,7 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 28,
+   "count": 26,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1044,7 +1024,7 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 29,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1108,9 +1088,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1125,7 +1105,7 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
@@ -1179,7 +1159,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 28,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {

@@ -1,8 +1,101 @@
 [
  {
+  "id": "24c03404bc99c7e9",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xqo84q/zeekr_wash_and_charge/",
+  "title": "Zeekr wash and charge",
+  "text": "Zeekr brilliantly shiny after a rainwater wash and looking good for having done 25,000 KMs. And I'm looking forward to having all the time to do a lot more travelling next year! Also, who doesn't love to get paid for charging their car and driving fossil free for free!",
+  "author": "/u/Kangastan",
+  "published": "2026-11-08T03:03:28+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-08T05:49:02+00:00"
+ },
+ {
+  "id": "0319b8bfe8b4e580",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · BusinessToday Malaysia",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWN3alZNOTN3WEZRaFZLT21FREo5TGR2V0EtXy04aG5PZU5nek55Q3lfWEdvcWxJZ2FEUmF5RktyeFB2TFpOOGlIeDBnVGtBeDFPcmUzWW5saHZKd203eXI3b1p3LUkxTVlka2oyaUtOeWNEWkpETVVBaXJ2MnZodGhRRkItSXB6OWdRVDhWT0IwLUZSTl96X1EtMEZJOG1kNkN3?oc=5",
+  "title": "Zeekr 7X Review: More Than Just Another Fast Electric SUV - BusinessToday Malaysia",
+  "text": "Zeekr 7X Review: More Than Just Another Fast Electric SUV BusinessToday Malaysia",
+  "author": "",
+  "published": "2026-11-08T02:16:10+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T05:49:02+00:00"
+ },
+ {
+  "id": "f3de2ca6d29eb94f",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nT08zampPd25PeXRxbFRfamdZdUR5R3RlQWZSZkljQWNEZkhVRFhNcWUzVEgtYUlWQndqcnZwOS1HT1U3Z1lsMWJfc2dqdGJZYW9VV3lxeDcwdEN1MXJyVWF6dmM2N040ZDIw?oc=5",
+  "title": "Comparison: Hongqi HS3 vs ZEEKR X - Autohled.cz",
+  "text": "Comparison: Hongqi HS3 vs ZEEKR X Autohled.cz",
+  "author": "",
+  "published": "2026-11-07T22:49:43+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T05:49:02+00:00"
+ },
+ {
   "id": "c1152ec04e5eeaf3",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjZlWi1odjVfZmhWZ2k1RkVQMXlpcW1zYjZzY2RzdkwwenlfV3Y2bEZiZFRtd21SLV81QVhiU3VKT013c2RPaVRESUR4WVlvZ0tZZmNwakJ0U2tZUVVkYlpCZ3hoeGhfc2JEaF9fOXZsazJpNVBsVUVnMlNOSGNhS0dweTNxaExQc2k0MEk1RFZYNFVvZm5Zemo2S1E?oc=5",
   "title": "Zeekr 7X to face fresh rival on price, not size - Drive",
@@ -114,7 +207,7 @@
   "title": "The Zeekr 7GT Made Me Question Every Other Luxury EV - InsideEVs",
   "text": "The Zeekr 7GT Made Me Question Every Other Luxury EV InsideEVs",
   "author": "",
-  "published": "2026-11-07T15:29:05+00:00",
+  "published": "2026-11-07T17:29:49+00:00",
   "rating": null,
   "zeekr": true,
   "models": [
@@ -376,7 +469,7 @@
  {
   "id": "e6d0b1dec1b0103f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
   "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion - CarsGuide",
@@ -403,7 +496,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-07T02:17:46+00:00"
@@ -1347,7 +1440,7 @@
  {
   "id": "c6b8a33378fc4846",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFk1cXQtc3ZsVGR1blA3N0lVamJYSkI3SEFpOFEtWnZ2SUNPZUZuUENPLWRkUnhoeUhEMTNVYjMxa2x3OGFvX3VXNUN5X2NmN293ZENIekthM0s5b3F5VlN6OWRTN2Zra2tzX1pkb3FLUmVCY2l4eXFkS19KMGt1SXVqZWpfZVFjOVhaODZrNVAtY01jSWk1WWhUMS16eFNvYWtwbEcxMW8yd1dOWEVWb2lxenJOeVBiQS13eWV3TXA?oc=5",
   "title": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom - CarsGuide",
@@ -1377,7 +1470,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T17:22:40+00:00"
@@ -25471,7 +25564,7 @@
  {
   "id": "7560ef24987a3d67",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2EzTmM0OXlzbUUya2RNVVNQaHllNlNBeXhUVFB0ZC15OGdCT21HaV9uSkY3MlVPWDFfVG1VQUZaeHNFejVOVnVZMzJtSnJmN1ByQmF0NmJzVG9NSDFxYXkxYmJxdkZkZmR0SUhkRnN2U1VjWTRONnVtSUdmOXJhcHJvbFY5ejFTeW5NU1QxcF9laGMzbHZfa21reUF3OWtWUmRGa0FRNlh5LVJhWFl4SEJ2SkxtSFpBNWtxZGl6b29iTk9SV0E?oc=5",
   "title": "Eye-popping Zeekr rival incoming, as 2027 Avatr 06T confirmed for Australia to rival Zeekr 7GT - CarsGuide",
@@ -30160,7 +30253,7 @@
  {
   "id": "a40beb8cf3c8b2c4",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RklfZno3N1h3MWMxM05rY2ZZeHlSNjl2N0I4VE9aX0pPQWc0SHBPZHQ5VE1GazVKdks4cHZIRUJrRm5pNmJUTHVCcGN6QlhUSUVqRFdDOWlpaUpodzNEVXQ5a3paUmtSLW9JX1pBR2tocHhWRVc3eTRtZUdBcEE?oc=5",
   "title": "Zeekr is about to update the car it already can't deliver fast enough - Drive",
@@ -38573,7 +38666,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 11
+   "thumbs": 12
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -43622,37 +43715,6 @@
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
  {
-  "id": "2eabbf52b999e08d",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHk4c0pTNGtRU3FpZjBTZTZlbE9tQnQ1ZzE2cEQ0UklrRU1fU3Q3UnI4XzJuSFdXeWo4SHRic2Q3eHdwTmZjbTNnQWFOa1l0VDBlU18xam9CdmdqN2JJM0hrSUtESVQzeGdtZU9ZX0RDTDlQN0hKYWo4ZF81VWN0T3hQVUxNUTUzVThsMjdvV0ZtaFF4OS1NcA?oc=5",
-  "title": "Zeekr sets new sales record in July as 7X nudges top 10 - CarExpert",
-  "text": "Zeekr sets new sales record in July as 7X nudges top 10 CarExpert",
-  "author": "",
-  "published": "2026-08-06T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
   "id": "06db89ef3ede7415",
   "type": "post",
   "source": "reddit-EVAustralia",
@@ -43728,6 +43790,37 @@
   "signals": [],
   "scope": "zeekr_complaint",
   "au": false,
+  "extra": {},
+  "first_seen": "2026-10-13T04:58:42+00:00"
+ },
+ {
+  "id": "2eabbf52b999e08d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHk4c0pTNGtRU3FpZjBTZTZlbE9tQnQ1ZzE2cEQ0UklrRU1fU3Q3UnI4XzJuSFdXeWo4SHRic2Q3eHdwTmZjbTNnQWFOa1l0VDBlU18xam9CdmdqN2JJM0hrSUtESVQzeGdtZU9ZX0RDTDlQN0hKYWo4ZF81VWN0T3hQVUxNUTUzVThsMjdvV0ZtaFF4OS1NcA?oc=5",
+  "title": "Zeekr sets new sales record in July as 7X nudges top 10 - CarExpert",
+  "text": "Zeekr sets new sales record in July as 7X nudges top 10 CarExpert",
+  "author": "",
+  "published": "2026-08-05T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
