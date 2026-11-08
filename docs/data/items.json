@@ -1,5 +1,39 @@
 [
  {
+  "id": "be17dc48e83e81d3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · United News Ph",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tblF0R0syRUxadUJCck1OUUZQSDR5RTFod1B0bzlIdFFMUFNyZERWYUotWjZUUjVCTnc5NGNNRTEzUlZnNlpzOXdJOVlnbW1Lb1NBbC1XZUVLc3RFX3FwbEpzM3FpWXM?oc=5",
+  "title": "Geely’s Zeekr eyes Mercedes-Benz G-Class SUV rival - United News Ph",
+  "text": "Geely’s Zeekr eyes Mercedes-Benz G-Class SUV rival United News Ph",
+  "author": "",
+  "published": "2026-11-08T18:19:13+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [
+   "mb-gclass"
+  ],
+  "brands": [
+   "mercedes-benz",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T22:23:36+00:00"
+ },
+ {
   "id": "e945c6b577282b61",
   "type": "post",
   "source": "reddit-Zeekr",
@@ -1360,7 +1394,7 @@
  {
   "id": "87342dd1d1ae5398",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · The Supercar Blog",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVBUMlktdkRxeW15S1N2aEFSZ2dnTGdRRjR2QjBfeGtrYWRfMDNLYkljY3BVNVZQTVc2bTdmX1hucGVDVzJOZ3lqZXpEZHQ4UThMTmRtaHRNZmNNRTkwQ0ZGcGI4VHJFMTR0Z2ZiemtTV1lUX3MxVWU3STlEZ2Juc1V6blBpNWVhYk9zT1hQSUZjR2d5Z0ZYYkpMak9PSnpyQVk0Tzh1Qmk0dw?oc=5",
   "title": "Zeekr 7GT spotted in right-hand drive config ahead of customer deliveries - The Supercar Blog",
@@ -1385,7 +1419,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-11-06T17:22:40+00:00"
@@ -4928,41 +4962,6 @@
   "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
-  "id": "9cf83e3d30e44365",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WNnlKeHNmandxMnd5N3k1b3Y4Z2tpc1EzS05lU2x4Uy1NT2NkWFh5S0ZLOUJZRGliX3RwZjEtX3QyWWt1c3JqdnIzLU82eTI1TnU2Q1J2WDUxbDV3?oc=5",
-  "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
-  "text": "Mercedes-Benz GLE price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-11-03T07:47:43+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "mb-gle"
-  ],
-  "brands": [
-   "mercedes-benz"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
   "id": "329df6eb8dfa3bb6",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -8299,39 +8298,6 @@
   "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
-  "id": "6cbe21ff32c3b262",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
-  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-31T15:02:35+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
- },
- {
   "id": "477682d9a518ae53",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -9216,6 +9182,41 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
+  "id": "9cf83e3d30e44365",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WNnlKeHNmandxMnd5N3k1b3Y4Z2tpc1EzS05lU2x4Uy1NT2NkWFh5S0ZLOUJZRGliX3RwZjEtX3QyWWt1c3JqdnIzLU82eTI1TnU2Q1J2WDUxbDV3?oc=5",
+  "title": "Mercedes-Benz GLE price and specs: every variant compared - EV Central",
+  "text": "Mercedes-Benz GLE price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T20:12:44+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "mb-gle"
+  ],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
   "id": "623487594ca54651",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -9549,6 +9550,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
+  "id": "6cbe21ff32c3b262",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
+  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-10-30T10:56:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
   "id": "9425d102315b8967",

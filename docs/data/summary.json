@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-08T18:27:33+00:00",
- "duration_s": 324.3,
- "items_total": 1430,
- "new_this_run": 171,
+ "generated": "2026-11-08T22:23:36+00:00",
+ "duration_s": 334.1,
+ "items_total": 1431,
+ "new_this_run": 168,
  "counts": {
   "complaints_24h": 1,
   "complaints_7d": 10,
-  "complaints_30d": 37,
+  "complaints_30d": 36,
   "high_7d": 6,
   "medium_7d": 3,
   "low_7d": 1,
-  "competitor_news_7d": 106,
-  "launch_signals_7d": 17,
+  "competitor_news_7d": 104,
+  "launch_signals_7d": 16,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 67,
+  "zeekr_news_7d": 66,
   "offer_page_changes_7d": 11
  },
  "series_30d": [
@@ -140,13 +140,13 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 20,
+   "competitor_news": 22,
    "zeekr_news": 12
   },
   {
    "date": "2026-10-31",
    "complaints": 3,
-   "competitor_news": 12,
+   "competitor_news": 11,
    "zeekr_news": 5
   },
   {
@@ -164,7 +164,7 @@
   {
    "date": "2026-11-03",
    "complaints": 2,
-   "competitor_news": 30,
+   "competitor_news": 29,
    "zeekr_news": 7
   },
   {
@@ -195,7 +195,7 @@
    "date": "2026-11-08",
    "complaints": 1,
    "competitor_news": 4,
-   "zeekr_news": 4
+   "zeekr_news": 5
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 25
+   "n": 24
   },
   {
    "key": "charging",
@@ -254,7 +254,7 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 16,
+  "Google Play (AU)": 15,
   "Reddit r/Zeekr7xAustralia": 12,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
@@ -280,7 +280,7 @@
    "latest": "93695976e0a8ea29"
   },
   "smart-3": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [
     "66d89eaf334c1bb2"
    ],
@@ -428,7 +428,7 @@
    "latest": "9e424fc1a04fa9c6"
   },
   "kia-ev6": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "a27bf89cf6f37c43"
    ],
@@ -567,7 +567,7 @@
    "latest": "d1f285d82c38ea9b"
   },
   "kia-ev4": {
-   "n_30d": 6,
+   "n_30d": 5,
    "launch": [
     "347f60946babed57",
     "d2af0ef5c3bba679",
@@ -988,7 +988,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 11,
+   "count": 14,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1018,17 +1018,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 32,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 25,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 29,
+   "count": 27,
    "note": ""
   },
   "gn-brands-eu": {
