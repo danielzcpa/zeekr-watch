@@ -1,5 +1,24 @@
 [
  {
+  "id": "243e50532de23ddd",
+  "key": "zecar-offers",
+  "brand": "Zecar (all-brand offers)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-11-08T13:17:53+00:00",
+  "added": [
+   "· 32 active offers",
+   "BYD 0.99% p.a. Comparison Rate Finance on Selected Models",
+   "BYD is offering 0.99% p.a. comparison rate finance over a 36-month term with no balloon payment on the Seal 6, Sealion 5, Sealion 6, Sealion 8 and Shark 6. Applications must be approved by 21 December 2026 and settled by 31 December 2026.",
+   "BYD 6% Novated Lease Discount on Atto, Dolphin and Sealion 7",
+   "BYD is offering a 6% novated lease discount on eligible Atto 1, Atto 2, Atto 3, Dolphin and Sealion 7 models. The discount applies to the base vehicle list price and is worth up to around $3,840 on the Sealion 7 Performance. Order between 1 October and 21 December 2026, with delivery by 31 January 2027."
+  ],
+  "removed": [
+   "· 30 active offers",
+   "XPENG New G6 2.88% p.a. Finance, No Deposit or Balloon",
+   "Polestar 3 Complimentary Drivetrain Upgrade Worth $14,400"
+  ]
+ },
+ {
   "id": "183765d7926d5482",
   "key": "kia",
   "brand": "Kia",

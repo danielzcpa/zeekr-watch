@@ -1,14 +1,14 @@
 {
  "volvo": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:52+00:00",
   "lines": []
  },
  "kia": {
   "key": "kia",
   "brand": "Kia",
   "url": "https://www.kia.com/au/offers.html",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:52+00:00",
   "digest": "d5cc89a77fea160b",
   "money": [
    1000,
@@ -54,7 +54,7 @@
   "key": "polestar",
   "brand": "Polestar",
   "url": "https://www.polestar.com/au/offers/",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:52+00:00",
   "digest": "c529aae24f153d4e",
   "money": [],
   "n_lines": 11,
@@ -93,7 +93,7 @@
   ],
   "n_lines": 47,
   "last_error": "HTTPSConnectionPool(host='www.mini.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:52+00:00",
   "lines": [
    "Free in Google Play Store.",
    "Current Offers",
@@ -148,7 +148,7 @@
   "key": "mg",
   "brand": "MG / IM",
   "url": "https://mgmotor.com.au/offers",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "e61481ea23787060",
   "money": [
    1000,
@@ -208,7 +208,7 @@
   "key": "mazda",
   "brand": "Mazda",
   "url": "https://www.mazda.com.au/offers/",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "05db3746d520f4c2",
   "money": [
    2000,
@@ -231,14 +231,14 @@
  },
  "mercedes": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": []
  },
  "landrover": {
   "key": "landrover",
   "brand": "Land Rover",
   "url": "https://www.landrover.com.au/offers-and-finance/index.html",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "b3695b7a09c46c35",
   "money": [],
   "n_lines": 15,
@@ -262,14 +262,14 @@
  },
  "audi": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": []
  },
  "byd": {
   "key": "byd",
   "brand": "BYD",
   "url": "https://www.byd.com.au/offers",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -279,7 +279,7 @@
   "key": "hyundai",
   "brand": "Hyundai",
   "url": "https://www.hyundai.com/au/en/offers",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "0ef7bb8ec59ae215",
   "money": [],
   "n_lines": 9,
@@ -297,19 +297,19 @@
  },
  "tesla-my": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": []
  },
  "tesla-m3": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": []
  },
  "xpeng": {
   "key": "xpeng",
   "brand": "Xpeng",
   "url": "https://shop.xpeng.com.au/",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "a091a65391c5fd6c",
   "money": [],
   "n_lines": 1,
@@ -321,7 +321,7 @@
   "key": "smart",
   "brand": "smart",
   "url": "https://www.smart.com.au/",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "71036630d38cc38b",
   "money": [
    91661
@@ -347,7 +347,7 @@
   "key": "leapmotor",
   "brand": "Leapmotor",
   "url": "https://www.leapmotor.com.au/",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "da39a3ee5e6b4b0d",
   "money": [],
   "n_lines": 0,
@@ -357,7 +357,7 @@
   "key": "deepal",
   "brand": "Deepal",
   "url": "https://www.deepal.com.au/",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "6f4440b89b36719a",
   "money": [],
   "n_lines": 5,
@@ -371,27 +371,27 @@
  },
  "lexus": {
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": []
  },
  "bmw": {
   "last_error": "HTTPSConnectionPool(host='www.bmw.com.au', port=443): Read timed out. (read timeout=20)",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": []
  },
  "zecar-offers": {
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",
   "url": "https://zecar.com/offers-and-deals",
-  "fetched": "2026-11-08T05:53:56+00:00",
-  "digest": "48fee3ed9b009d1d",
+  "fetched": "2026-11-08T13:17:53+00:00",
+  "digest": "ed398cee296593dc",
   "money": [
    1000,
    2000,
+   3840,
    4000,
    5010,
    7204,
-   14400,
    19990,
    28888,
    29990,
@@ -408,10 +408,10 @@
    52990,
    70990
   ],
-  "n_lines": 43,
+  "n_lines": 45,
   "lines": [
    "Deals and Offers",
-   "· 30 active offers",
+   "· 32 active offers",
    "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
    "Search Offers",
    "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026)",
@@ -425,6 +425,8 @@
    "BYD Dolphin Essential $28,888 Driveaway Offer",
    "BYD Atto 1 Essential $19,990 Driveaway Offer (Up to $7,204 in Savings)",
    "The BYD Atto 1 Essential is available at $19,990 driveaway, making it Australia's cheapest new car on sale, EV or petrol. The offer is available until 15 December 2026, with the vehicle needing to be delivered by 31 December 2026. The 5% novated lease offer cannot be stacked on top of this price.",
+   "BYD 0.99% p.a. Comparison Rate Finance on Selected Models",
+   "BYD is offering 0.99% p.a. comparison rate finance over a 36-month term with no balloon payment on the Seal 6, Sealion 5, Sealion 6, Sealion 8 and Shark 6. Applications must be approved by 21 December 2026 and settled by 31 December 2026.",
    "BYD Sealion 8 $4,000 Cashback: From $52,990 Plus On-Roads",
    "BYD is offering $4,000 cashback on the Sealion 8 Dynamic FWD, Dynamic AWD and Premium AWD seven-seat plug-in hybrid SUVs. That brings the range down to an effective $52,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
    "BYD Sealion 7 $4,000 Cashback: From $50,990 Plus On-Roads",
@@ -439,6 +441,8 @@
    "BYD is offering $4,000 cashback on the Sealion 6 Essential, Dynamic Extended and Premium Extended plug-in hybrid SUVs. That brings the range down to an effective $38,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
    "BYD Sealion 5 $4,000 Cashback: From $29,990 Plus On-Roads",
    "BYD is offering $4,000 cashback on the Sealion 5 Essential and Premium plug-in hybrid SUVs. That brings the range down to an effective $29,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
+   "BYD 6% Novated Lease Discount on Atto, Dolphin and Sealion 7",
+   "BYD is offering a 6% novated lease discount on eligible Atto 1, Atto 2, Atto 3, Dolphin and Sealion 7 models. The discount applies to the base vehicle list price and is worth up to around $3,840 on the Sealion 7 Performance. Order between 1 October and 21 December 2026, with delivery by 31 January 2027.",
    "Tesla Model 3 & Model Y Trade-In Bonus ($2,000)",
    "Tesla is offering a $2,000 trade-in bonus for eligible private buyers who trade in their vehicle towards a new or demonstrator Model 3 or Model Y. The bonus is applied on top of your vehicle's assessed trade-in value, not as part of it. Offer is available until 31 December 2026.",
    "Renault Megane E-Tech Free 7kW Home Charger Offer",
@@ -448,8 +452,6 @@
    "Hyundai IONIQ 5 Drive Away Pricing From $70,990 Plus 3.90% Finance",
    "GAC AION UT Drive-Away Offer from $31,990",
    "GAC is running a Q4 national drive-away offer on the AION UT, priced from $31,990 drive-away and bundled with a 22 kW wall charger. A 7% p.a. novated lease offer is also available. Applies to orders placed between 1 October 2026 and 31 December 2026, with a $1,000 deposit required. Prices may vary by state, model, colour, and specification.",
-   "XPENG New G6 2.88% p.a. Finance, No Deposit or Balloon",
-   "Polestar 3 Complimentary Drivetrain Upgrade Worth $14,400",
    "We'll email you when a new offer goes live.",
    "Are there EV rebates or incentives in Australia in 2026?",
    "When do EV offers usually expire?"
@@ -468,7 +470,7 @@
   ],
   "n_lines": 8,
   "last_error": "HTTP 403",
-  "last_attempt": "2026-11-08T05:53:56+00:00",
+  "last_attempt": "2026-11-08T13:17:53+00:00",
   "lines": [
    "New car offers and deals",
    "brings together limited-time driveaway offers, national promotions, special editions and dealer specials",
@@ -484,7 +486,7 @@
   "key": "zeekr-offers-zecar",
   "brand": "Zeekr (Zecar)",
   "url": "https://zecar.com/offers-and-deals/zeekr",
-  "fetched": "2026-11-08T05:53:56+00:00",
+  "fetched": "2026-11-08T13:17:53+00:00",
   "digest": "b2afee05b597e192",
   "money": [
    6056

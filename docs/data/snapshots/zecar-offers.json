@@ -2,11 +2,11 @@
  "key": "zecar-offers",
  "brand": "Zecar (all-brand offers)",
  "url": "https://zecar.com/offers-and-deals",
- "fetched": "2026-11-08T05:53:56+00:00",
- "digest": "48fee3ed9b009d1d",
+ "fetched": "2026-11-08T13:17:53+00:00",
+ "digest": "ed398cee296593dc",
  "lines": [
   "Deals and Offers",
-  "· 30 active offers",
+  "· 32 active offers",
   "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
   "Search Offers",
   "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026)",
@@ -20,6 +20,8 @@
   "BYD Dolphin Essential $28,888 Driveaway Offer",
   "BYD Atto 1 Essential $19,990 Driveaway Offer (Up to $7,204 in Savings)",
   "The BYD Atto 1 Essential is available at $19,990 driveaway, making it Australia's cheapest new car on sale, EV or petrol. The offer is available until 15 December 2026, with the vehicle needing to be delivered by 31 December 2026. The 5% novated lease offer cannot be stacked on top of this price.",
+  "BYD 0.99% p.a. Comparison Rate Finance on Selected Models",
+  "BYD is offering 0.99% p.a. comparison rate finance over a 36-month term with no balloon payment on the Seal 6, Sealion 5, Sealion 6, Sealion 8 and Shark 6. Applications must be approved by 21 December 2026 and settled by 31 December 2026.",
   "BYD Sealion 8 $4,000 Cashback: From $52,990 Plus On-Roads",
   "BYD is offering $4,000 cashback on the Sealion 8 Dynamic FWD, Dynamic AWD and Premium AWD seven-seat plug-in hybrid SUVs. That brings the range down to an effective $52,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
   "BYD Sealion 7 $4,000 Cashback: From $50,990 Plus On-Roads",
@@ -34,6 +36,8 @@
   "BYD is offering $4,000 cashback on the Sealion 6 Essential, Dynamic Extended and Premium Extended plug-in hybrid SUVs. That brings the range down to an effective $38,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
   "BYD Sealion 5 $4,000 Cashback: From $29,990 Plus On-Roads",
   "BYD is offering $4,000 cashback on the Sealion 5 Essential and Premium plug-in hybrid SUVs. That brings the range down to an effective $29,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
+  "BYD 6% Novated Lease Discount on Atto, Dolphin and Sealion 7",
+  "BYD is offering a 6% novated lease discount on eligible Atto 1, Atto 2, Atto 3, Dolphin and Sealion 7 models. The discount applies to the base vehicle list price and is worth up to around $3,840 on the Sealion 7 Performance. Order between 1 October and 21 December 2026, with delivery by 31 January 2027.",
   "Tesla Model 3 & Model Y Trade-In Bonus ($2,000)",
   "Tesla is offering a $2,000 trade-in bonus for eligible private buyers who trade in their vehicle towards a new or demonstrator Model 3 or Model Y. The bonus is applied on top of your vehicle's assessed trade-in value, not as part of it. Offer is available until 31 December 2026.",
   "Renault Megane E-Tech Free 7kW Home Charger Offer",
@@ -43,8 +47,6 @@
   "Hyundai IONIQ 5 Drive Away Pricing From $70,990 Plus 3.90% Finance",
   "GAC AION UT Drive-Away Offer from $31,990",
   "GAC is running a Q4 national drive-away offer on the AION UT, priced from $31,990 drive-away and bundled with a 22 kW wall charger. A 7% p.a. novated lease offer is also available. Applies to orders placed between 1 October 2026 and 31 December 2026, with a $1,000 deposit required. Prices may vary by state, model, colour, and specification.",
-  "XPENG New G6 2.88% p.a. Finance, No Deposit or Balloon",
-  "Polestar 3 Complimentary Drivetrain Upgrade Worth $14,400",
   "We'll email you when a new offer goes live.",
   "Are there EV rebates or incentives in Australia in 2026?",
   "When do EV offers usually expire?"
@@ -52,10 +54,10 @@
  "money": [
   1000,
   2000,
+  3840,
   4000,
   5010,
   7204,
-  14400,
   19990,
   28888,
   29990,
@@ -72,5 +74,5 @@
   52990,
   70990
  ],
- "n_lines": 43
+ "n_lines": 45
 }

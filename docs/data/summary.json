@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-08T05:49:02+00:00",
- "duration_s": 294.9,
- "items_total": 1419,
- "new_this_run": 164,
+ "generated": "2026-11-08T13:12:47+00:00",
+ "duration_s": 306.7,
+ "items_total": 1427,
+ "new_this_run": 176,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 7,
-  "complaints_30d": 33,
-  "high_7d": 3,
-  "medium_7d": 2,
-  "low_7d": 2,
-  "competitor_news_7d": 115,
+  "complaints_24h": 1,
+  "complaints_7d": 9,
+  "complaints_30d": 36,
+  "high_7d": 5,
+  "medium_7d": 3,
+  "low_7d": 1,
+  "competitor_news_7d": 116,
   "launch_signals_7d": 20,
   "offer_signals_7d": 5,
   "zeekr_news_7d": 67,
-  "offer_page_changes_7d": 10
+  "offer_page_changes_7d": 11
  },
  "series_30d": [
   {
@@ -187,15 +187,15 @@
   },
   {
    "date": "2026-11-07",
-   "complaints": 0,
+   "complaints": 2,
    "competitor_news": 3,
-   "zeekr_news": 4
+   "zeekr_news": 5
   },
   {
    "date": "2026-11-08",
-   "complaints": 0,
-   "competitor_news": 0,
-   "zeekr_news": 1
+   "complaints": 1,
+   "competitor_news": 4,
+   "zeekr_news": 3
   }
  ],
  "categories_30d": [
@@ -203,7 +203,13 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 22
+   "n": 24
+  },
+  {
+   "key": "delivery",
+   "zh": "交付/等待/订单",
+   "en": "Delivery / waiting / orders",
+   "n": 11
   },
   {
    "key": "charging",
@@ -212,16 +218,10 @@
    "n": 11
   },
   {
-   "key": "delivery",
-   "zh": "交付/等待/订单",
-   "en": "Delivery / waiting / orders",
-   "n": 10
-  },
-  {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 8
+   "n": 9
   },
   {
    "key": "quality",
@@ -249,13 +249,13 @@
   }
  ],
  "models_30d": {
-  "7X": 9,
+  "7X": 10,
   "X": 1,
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 13,
-  "Reddit r/Zeekr7xAustralia": 11,
+  "Google Play (AU)": 15,
+  "Reddit r/Zeekr7xAustralia": 12,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
   "Reddit r/Zeekr": 2,
@@ -362,7 +362,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "0740f7c371cf05aa",
     "851fd88980e959a8"
@@ -370,7 +370,7 @@
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "c6b8a33378fc4846"
+   "latest": "54b5d83ec5da372d"
   },
   "kia-ev5": {
    "n_30d": 9,
@@ -393,7 +393,7 @@
    "latest": "886034b5fd5c6b65"
   },
   "smart-5": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "e46c60dbdcdd31f5",
     "3e3f285c9229d77a"
@@ -401,7 +401,7 @@
    "offer": [
     "3e3f285c9229d77a"
    ],
-   "latest": "e46c60dbdcdd31f5"
+   "latest": "4f333d643e148ba5"
   },
   "polestar-4": {
    "n_30d": 5,
@@ -428,7 +428,7 @@
    "latest": "9e424fc1a04fa9c6"
   },
   "kia-ev6": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "a27bf89cf6f37c43"
    ],
@@ -773,7 +773,7 @@
    "latest": "df6a2d5ce66b8d3d"
   },
   "kia-ev9": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "2c67435d1d334093",
     "b5c47101ca081290",
@@ -909,7 +909,7 @@
    "latest": null
   },
   "hyundai-staria": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
     "9f790b5f5376ccb5",
     "2e734789c3bd7efc",
@@ -920,7 +920,7 @@
     "9f790b5f5376ccb5",
     "2e734789c3bd7efc"
    ],
-   "latest": "0f7dc9e69355b6df"
+   "latest": "f42e17549905909d"
   },
   "ldv-mifa": {
    "n_30d": 0,
@@ -930,6 +930,14 @@
   }
  },
  "alerts": [
+  {
+   "kind": "offer_page_change",
+   "id": "243e50532de23ddd",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+5 / −3 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+5 / −3 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-11-08T13:17:53+00:00"
+  },
   {
    "kind": "competitor_launch",
    "id": "cfbbbacddbc07cfb",
@@ -941,6 +949,20 @@
    ]
   },
   {
+   "kind": "complaint_high",
+   "id": "1d6215f41f641085",
+   "title": "1★ · Does not work",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-11-07T10:12:29+00:00"
+  },
+  {
+   "kind": "complaint_high",
+   "id": "426f6601b426c9db",
+   "title": "1★ · works off and on for android. car OS is 2.0.1a , check for u",
+   "source": "Google Play (AU) · ZEEKR app",
+   "t": "2026-11-07T06:32:08+00:00"
+  },
+  {
    "kind": "competitor_offer",
    "id": "0f7dc9e69355b6df",
    "title": "Hyundai Staria Load Electric review: Great to drive, but is it worth $71,000?",
@@ -949,42 +971,22 @@
    "competitors": [
     "hyundai-staria"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "9f790b5f5376ccb5",
-   "title": "Hyundai Staria EV: The good, the bad, and the price tag | Video",
-   "source": "The Driven",
-   "t": "2026-11-05T07:34:50+00:00",
-   "competitors": [
-    "hyundai-staria"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "2e734789c3bd7efc",
-   "title": "2027 Hyundai Staria Load Electric review: Quick drive",
-   "source": "CarExpert",
-   "t": "2026-11-05T06:00:00+00:00",
-   "competitors": [
-    "hyundai-staria"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 72,
+   "count": 73,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 18,
+   "count": 12,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -994,7 +996,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 52,
+   "count": 51,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1029,7 +1031,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 55,
+   "count": 60,
    "note": ""
   },
   "carexpert": {
@@ -1088,9 +1090,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1105,7 +1107,7 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
@@ -1159,7 +1161,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 28,
    "note": ""
   },
   "playstore-android": {
@@ -1514,8 +1516,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 2,
+   "note": "2 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1614,8 +1616,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 43,
-   "note": "unchanged"
+   "count": 45,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

@@ -1,5 +1,170 @@
 [
  {
+  "id": "e0d8af346f7d8e5d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · SpeedwayMedia.com",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSk42eFVvb1IxMU9SNE1KZVNJOGhZZVhRZ0h4eGRKTXZZcWlfcHBfaFNja3BJRm81eDc5U2U1OUFPZ1FjcUNibHVhRW9JODdwaTR3WGhuWWZuVkU0elpsZW9EbWVWZjAwZEJQR1NSbzgtMHBIM2JBVXJCTFMyWmh6QXE4eFFqOUlsbEkwNlhBR056eU9qcVNaOHFGTDR1ZmVxeXJrbHpVVVM4cXpHY2ZkNTEyV2lLenNpaHNQdVM2QUlCY3M?oc=5",
+  "title": "New Chinese Electrified SUVs in the UAE: Zeekr 9X First Impressions and Where to Try One - SpeedwayMedia.com",
+  "text": "New Chinese Electrified SUVs in the UAE: Zeekr 9X First Impressions and Where to Try One SpeedwayMedia.com",
+  "author": "",
+  "published": "2026-11-08T10:01:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "4f333d643e148ba5",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkticHlHcFQtRzZ6ZzJqdl9DQUEtckp1anBzenJ4NklsMk1UbzlGN2UyVXFxckhYQTEwU3MyNnJ0aVJTdWhuXzZ4MXhuTXZyQ1M0T2JDc2VJSi1ia2pyUnJmNUVJLTJRYm9leEZFWnNIN09XdkR1aHVRYTlTaERMbko2VElEc25hUm01N09FSTc0N1E3Mi0xUmd5blZjNjREc3NsRHVRNWN2LUk0Qzk4?oc=5",
+  "title": "Life with the smart #5, from school run to coastal weekend - Carsales",
+  "text": "Life with the smart #5, from school run to coastal weekend Carsales",
+  "author": "",
+  "published": "2026-11-08T08:26:58+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "smart-5"
+  ],
+  "brands": [
+   "smart"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "c3883f6c7ebff734",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/08/gac-offers-2000-cashback-on-its-popular-well-equipped-aion-v-electric-suv-model/?utm_source=rss&utm_medium=rss&utm_campaign=gac-offers-2000-cashback-on-its-popular-well-equipped-aion-v-electric-suv-model",
+  "title": "GAC offers $2,000 cashback on its popular, well-equipped Aion V electric SUV model",
+  "text": "GAC offers $2,000 cashback or low finance rate on the Aion V electric SUV, as it aims to boost sales in a competitive electric SUV market in Australia. The post GAC offers $2,000 cashback on its popular, well-equipped Aion V electric SUV model appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-11-08T07:50:57+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "gac"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "711a4ce1fa3d2b70",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xqsizt/7x_are_the_software_issues_really_that_bad/",
+  "title": "7x are the software issues really that bad.",
+  "text": "Like most I had been tossing up between the Model Y and 7x. I know that the 7x is the “better” car but I hear so much negativity regarding updates and software issues. The Y of course seems to be great in regards to software and the regular updates and of course FSD. I just wonder if the software problems I read about is that big of a deal in terms of everyday driving ? Would it sway your purchase choice if you had your time again knowing what you know now.",
+  "author": "/u/Zestyclose-Mousse-28",
+  "published": "2026-11-08T07:16:32+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 4,
+   "pos_hits": 1,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "c1152ec04e5eeaf3",
+  "type": "news_zeekr",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjZlWi1odjVfZmhWZ2k1RkVQMXlpcW1zYjZzY2RzdkwwenlfV3Y2bEZiZFRtd21SLV81QVhiU3VKT013c2RPaVRESUR4WVlvZ0tZZmNwakJ0U2tZUVVkYlpCZ3hoeGhfc2JEaF9fOXZsazJpNVBsVUVnMlNOSGNhS0dweTNxaExQc2k0MEk1RFZYNFVvZm5Zemo2S1E?oc=5",
+  "title": "Zeekr 7X to face fresh rival on price, not size - Drive",
+  "text": "Zeekr 7X to face fresh rival on price, not size Drive",
+  "author": "",
+  "published": "2026-11-08T06:01:14+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-07T23:51:56+00:00"
+ },
+ {
   "id": "24c03404bc99c7e9",
   "type": "post",
   "source": "reddit-Zeekr7xAustralia",
@@ -62,6 +227,107 @@
   "first_seen": "2026-11-08T05:49:02+00:00"
  },
  {
+  "id": "f42e17549905909d",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/2026-hyundai-staria-load-electric-review-the-electric-van-id-want-to-drive-every-day-but-would-my-boss-pay-for-it/",
+  "title": "2026 Hyundai Staria Load Electric Brief Drive: The electric van I’d want to drive every day, but would my boss pay for it?",
+  "text": "I reckon there are two vehicle segments that have benefited the most from electrification. The first, and entirely unrelated to The post 2026 Hyundai Staria Load Electric Brief Drive: The electric van I’d want to drive every day, but would my boss pay for it? appeared first on EV Central .",
+  "author": "Andrew Chesterton",
+  "published": "2026-11-08T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-staria"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "16260cffa18f68b3",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · auroradesio.it",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMFAyeUh2NGIxdFlXSmJURXR3aEdvVjZONTEzTEthM0VGSlZmckxjeUNjd3l2dWlkOXppSThYYjdDNEh6aVBYYWEtcFZ3My1qY0dn?oc=5",
+  "title": "Vw Electric Kids Car - Volkswagen Launches Unique ADAS Features for the ID. Buzz Will Come to ID.4 Too autoevolution - auroradesio.it",
+  "text": "Vw Electric Kids Car - Volkswagen Launches Unique ADAS Features for the ID. Buzz Will Come to ID.4 Too autoevolution auroradesio.it",
+  "author": "",
+  "published": "2026-11-08T00:30:43+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "7d824dd69535c849",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · InsideEVs",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43YlhJTXhrQ0c2Y2tfWjkxWk96Y195UnozWGg0ZlNpY0R1Nlc5REdRX2JYbkQxaVdnUlVTcnkxYjViWTBsT2FOWXZCclROa19CekcyX3UwQ0FteXZwenV1XzkxanhJQW5hdEJpYXBKeWlVZw?oc=5",
+  "title": "The Zeekr 7GT Made Me Question Every Other Luxury EV - InsideEVs",
+  "text": "The Zeekr 7GT Made Me Question Every Other Luxury EV InsideEVs",
+  "author": "",
+  "published": "2026-11-07T23:36:49+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-07T15:52:11+00:00"
+ },
+ {
   "id": "f3de2ca6d29eb94f",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -91,37 +357,6 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-08T05:49:02+00:00"
- },
- {
-  "id": "c1152ec04e5eeaf3",
-  "type": "news_zeekr",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjZlWi1odjVfZmhWZ2k1RkVQMXlpcW1zYjZzY2RzdkwwenlfV3Y2bEZiZFRtd21SLV81QVhiU3VKT013c2RPaVRESUR4WVlvZ0tZZmNwakJ0U2tZUVVkYlpCZ3hoeGhfc2JEaF9fOXZsazJpNVBsVUVnMlNOSGNhS0dweTNxaExQc2k0MEk1RFZYNFVvZm5Zemo2S1E?oc=5",
-  "title": "Zeekr 7X to face fresh rival on price, not size - Drive",
-  "text": "Zeekr 7X to face fresh rival on price, not size Drive",
-  "author": "",
-  "published": "2026-11-07T21:08:23+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "competitor",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-11-07T23:51:56+00:00"
  },
  {
   "id": "cfbbbacddbc07cfb",
@@ -164,6 +399,68 @@
   "first_seen": "2026-11-07T23:51:56+00:00"
  },
  {
+  "id": "06ba93a683a92447",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SN1I3dFZzTmt0a3VTTTVqMzg3cnlvVnVibC1EVy1KTGxOUEl1RmJRenJHVlV5N3NQOUhVX19lbDhkRmp6M0VUdFdBZ2pOUGFZMzMwSUxSbHJoQ25MVTZLX1U5RW9ZdEhSQlVmVnA2YlM2VlpiSzFCMA?oc=5",
+  "title": "Comparison: Volkswagen ID.4 GTX vs ZEEKR 7X - Autohled.cz",
+  "text": "Comparison: Volkswagen ID.4 GTX vs ZEEKR 7X Autohled.cz",
+  "author": "",
+  "published": "2026-11-07T20:55:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [
+   "volkswagen"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "6a47c86e44c348c2",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xd1VyamExbFVBUC03NlpfVFVqcTZuOXdkX3RIbm1vM3piTkE4a0RxT1dGT0tLZGhvemprVGtEc2Y4V3BJb3QyMG43TGlWdERNU2tmR2RJZHMzNHJ6YVdjc2F2amVJZ3M?oc=5",
+  "title": "Comparison: Length ZEEKR 001 vs. rivals 2026 - Autohled.cz",
+  "text": "Comparison: Length ZEEKR 001 vs. rivals 2026 Autohled.cz",
+  "author": "",
+  "published": "2026-11-07T20:42:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
   "id": "baa8632f04c02fdf",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -197,37 +494,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-07T20:07:58+00:00"
- },
- {
-  "id": "7d824dd69535c849",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
-  "source_name": "Google News · InsideEVs",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43YlhJTXhrQ0c2Y2tfWjkxWk96Y195UnozWGg0ZlNpY0R1Nlc5REdRX2JYbkQxaVdnUlVTcnkxYjViWTBsT2FOWXZCclROa19CekcyX3UwQ0FteXZwenV1XzkxanhJQW5hdEJpYXBKeWlVZw?oc=5",
-  "title": "The Zeekr 7GT Made Me Question Every Other Luxury EV - InsideEVs",
-  "text": "The Zeekr 7GT Made Me Question Every Other Luxury EV InsideEVs",
-  "author": "",
-  "published": "2026-11-07T17:29:49+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
-  "extra": {},
-  "first_seen": "2026-11-07T15:52:11+00:00"
  },
  {
   "id": "bdbc15379e63364c",
@@ -300,6 +566,38 @@
   "first_seen": "2026-11-07T15:52:11+00:00"
  },
  {
+  "id": "1d6215f41f641085",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=334b5b86-6474-4633-b647-56113b9fcbb0",
+  "title": "1★ · Does not work",
+  "text": "Does not work",
+  "author": "Robert Wood",
+  "published": "2026-11-07T10:12:29+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
   "id": "3fcfdb702942c955",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -331,6 +629,42 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-05T21:54:41+00:00"
+ },
+ {
+  "id": "426f6601b426c9db",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=06625bc0-340a-46b1-b1e4-aac045598574",
+  "title": "1★ · works off and on for android. car OS is 2.0.1a , check for u",
+  "text": "works off and on for android. car OS is 2.0.1a , check for update and message the current ver latest which is not true. pull down menu for Melbourne dealership missing Doncaster. most of time don't connect to vehicle automatically. some owners gave up and use fob key or card key instead . user feedback. complaint are tag complete and ticket closes when problem in the complaint still not solved satisfactory. Zeekr has horrible after sale service",
+  "author": "hk Phang",
+  "published": "2026-11-07T06:32:08+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": -4,
+   "neg_hits": 4,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-08T13:12:47+00:00"
  },
  {
   "id": "371af2c0b7c3bc52",
@@ -469,7 +803,7 @@
  {
   "id": "e6d0b1dec1b0103f",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWZ5X0hDaXhkU0FEcTNtWUR2ZlZOeXhnbWZBNFFRdjh4LXR6a0FmZXlZM1JOLWdWN2lLaWxwRjVqbF9iOUFOTUVMajhWTXpydkxsbnN5Q1RTR0d5dTk1Z3B1U1Vfak9qekpxS1pOZ3F5VFNldjhya1FEYTZ6VGo2a0pRNzJNdm1lN2tkcGNzdktucVI3aGRsLXV5eW9GanAxbnVTdDlTSE42MTI2dk50ZlV4VDREdm1obU15eGQyRkw?oc=5",
   "title": "Xiaomi YU7 and SU7 electric cars to blow 2026 Zeekr 7X, Tesla Model Y out of the water | Opinion - CarsGuide",
@@ -496,7 +830,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-07T02:17:46+00:00"
@@ -927,7 +1261,7 @@
  {
   "id": "87342dd1d1ae5398",
   "type": "news_zeekr",
-  "source": "gn-zeekr-1d",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · The Supercar Blog",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVBUMlktdkRxeW15S1N2aEFSZ2dnTGdRRjR2QjBfeGtrYWRfMDNLYkljY3BVNVZQTVc2bTdmX1hucGVDVzJOZ3lqZXpEZHQ4UThMTmRtaHRNZmNNRTkwQ0ZGcGI4VHJFMTR0Z2ZiemtTV1lUX3MxVWU3STlEZ2Juc1V6blBpNWVhYk9zT1hQSUZjR2d5Z0ZYYkpMak9PSnpyQVk0Tzh1Qmk0dw?oc=5",
   "title": "Zeekr 7GT spotted in right-hand drive config ahead of customer deliveries - The Supercar Blog",
@@ -1440,28 +1774,23 @@
  {
   "id": "c6b8a33378fc4846",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFk1cXQtc3ZsVGR1blA3N0lVamJYSkI3SEFpOFEtWnZ2SUNPZUZuUENPLWRkUnhoeUhEMTNVYjMxa2x3OGFvX3VXNUN5X2NmN293ZENIekthM0s5b3F5VlN6OWRTN2Zra2tzX1pkb3FLUmVCY2l4eXFkS19KMGt1SXVqZWpfZVFjOVhaODZrNVAtY01jSWk1WWhUMS16eFNvYWtwbEcxMW8yd1dOWEVWb2lxenJOeVBiQS13eWV3TXA?oc=5",
-  "title": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom - CarsGuide",
-  "text": "Electric cars outsell utes: 2026 Tesla Model Y, BYD Sealion 7 combine to outsell Toyota HiLux as diesel utes sales shrink and EVs boom CarsGuide",
+  "title": "Shop Tesla Model Y Cars - CarsGuide",
+  "text": "Shop Tesla Model Y Cars CarsGuide",
   "author": "",
   "published": "2026-11-06T03:02:25+00:00",
   "rating": null,
   "zeekr": false,
   "models": [],
   "competitors": [
-   "tesla-model-y",
-   "byd-sealion7"
+   "tesla-model-y"
   ],
   "brands": [
-   "byd",
-   "tesla",
-   "toyota"
+   "tesla"
   ],
-  "categories": [
-   "software"
-  ],
+  "categories": [],
   "sentiment": {
    "score": 0,
    "neg_hits": 0,
@@ -1470,7 +1799,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T17:22:40+00:00"
@@ -2394,7 +2723,7 @@
  {
   "id": "b6718ca4f4bd2802",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IYldxbXZ0d1Vna3pNQmtFUko3UDZjbzcxVjZYNTlvdTZMWkIweFNyLVhkMVJob21JU1hUUXI0S0hUd2tma0RFZUxUR0pQRHdFVnZ2RTRxWlBhNzRQQzkxNVUxMk45TzZ2NWFVNjIyeXJ2VEZuSFE?oc=5",
   "title": "Hyundai Staria Load 2026 review: Electric - Australian first drive | Ford Transit Custom EV rival tested - CarsGuide",
@@ -2420,7 +2749,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-05T15:45:35+00:00"
@@ -34984,7 +35313,7 @@
  {
   "id": "b6cde9afc3d6f710",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzdUSWh2dDR2VkJaVFlSdVpmaFV2UFFaaVAxeWloYkNnV3VZVDFvRlNCX2c5ajNaN1VSN2xvY3YzbjNQMHNnSlM4VF8xRzQ0UzQ1QlR4dlJzZjk1a1ZKMVo2ZksxX0ZhYThPX0FXeEJybm5GcldMM0NyLThOdGp2RzJhYi10bHZCWk1EX3R4aUpFbHd2dWRITG1BM29Ydm1LdHJQZDZjczVmcHRZdGxJWFhRRkJqUUYwc1liMWRqeWFwaGw3?oc=5",
   "title": "2027 Zeekr 8X, 9X and 7GT to attract waitlist as hype builds ‘faster than expected’ for the rapidly growing luxury Chinese brand - CarsGuide",
@@ -48785,82 +49114,6 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
- },
- {
-  "id": "b627852a752efb69",
-  "type": "post",
-  "source": "reddit-CarsAustralia",
-  "source_name": "Reddit r/CarsAustralia",
-  "url": "https://www.reddit.com/r/CarsAustralia/comments/1tax6v0/midsize_ev_suv_shortlist_for_a_young_family/",
-  "title": "Mid-size EV SUV shortlist for a young family",
-  "text": "I'm currently driving a Kia Stinger so getting my kid in and out of the rear facing seat is becoming challenging as she gets bigger. While the boot has been great in the past, fitting our large pram in there leaves little space for anything else (I also have to remove the boot cover). Priorities for our next car: - Must be EV as I want to take advantage of the novated lease tax benefits and we have a good solar and battery set up at home already. We rarely do road trips so range isn't a concern. - Back seat doors need to be easy to get a baby in and out of. My current car is coupe-shaped so basically any squarish doors that SUVs have would be fine. - Large boot so we can fit our pram, baby bag and potentially some shopping without having to stress about it. I've been looking at the Geely EX5, BYD Sealion 7, and Zeekr 7x. They all seem like great cars in their respective price ranges but we're thinking of going with the 7x as that has a bit more of a wow factor compared to the other two in regards to features. Questions: - Anyone here actually living with one of these with a young family? Why did you pick it? - Do the floaty rides in the Sealion 7 make your kids car-sick? - Any othe",
-  "author": "/u/captain_sauce_code",
-  "published": "2026-05-12T10:11:43+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [
-   "byd-sealion7",
-   "geely-ex5"
-  ],
-  "brands": [
-   "kia",
-   "byd",
-   "geely"
-  ],
-  "categories": [
-   "charging"
-  ],
-  "sentiment": {
-   "score": 2,
-   "neg_hits": 0,
-   "pos_hits": 2,
-   "label": "positive"
-  },
-  "severity": null,
-  "signals": [
-   "offer"
-  ],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "51017bf56aaef5f9",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Chasing Cars",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbkxfdUwwT2hKX1hsb2l5WkZ3emV1bTJwRFJobEhnUzlXVmlXcDdRQ0lNRXdWMXh2S0NmYVQ1RnMySWQ4NGIwZ0NWMXlodHZmQk5YWV9jd0RvclhMeHRWOElMeXNRVmVFbUxlYkp4bFQtLWN6N3hWUll6Ym5jaWprT0toalpRemZxNDNGX3lRMTRuamRBYnhYcWtlNGFodDVRNl9RR0VNeTh4bFFIeXN1UnVGRG95OE9hLW1JR2dEaDE5Wk51OG1TT1ZZU1kyUmJZczFnM282UXlBME0?oc=5",
-  "title": "Zeekr 8X and 9X hybrid luxury SUVs locked in for Australia with summer release dates confirmed - Chasing Cars",
-  "text": "Zeekr 8X and 9X hybrid luxury SUVs locked in for Australia with summer release dates confirmed Chasing Cars",
-  "author": "",
-  "published": "2026-05-12T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
   "scope": "zeekr",
   "au": true,
   "extra": {},
