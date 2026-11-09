@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-09T09:36:19+00:00",
- "duration_s": 402.0,
- "items_total": 1444,
- "new_this_run": 184,
+ "generated": "2026-11-09T20:00:07+00:00",
+ "duration_s": 362.7,
+ "items_total": 1446,
+ "new_this_run": 180,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 9,
@@ -10,8 +10,8 @@
   "high_7d": 5,
   "medium_7d": 3,
   "low_7d": 1,
-  "competitor_news_7d": 104,
-  "launch_signals_7d": 17,
+  "competitor_news_7d": 102,
+  "launch_signals_7d": 19,
   "offer_signals_7d": 4,
   "zeekr_news_7d": 60,
   "offer_page_changes_7d": 6
@@ -56,7 +56,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 19,
+   "competitor_news": 18,
    "zeekr_news": 9
   },
   {
@@ -122,7 +122,7 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 18,
+   "competitor_news": 17,
    "zeekr_news": 8
   },
   {
@@ -134,7 +134,7 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 22,
+   "competitor_news": 21,
    "zeekr_news": 12
   },
   {
@@ -146,7 +146,7 @@
   {
    "date": "2026-11-01",
    "complaints": 1,
-   "competitor_news": 16,
+   "competitor_news": 14,
    "zeekr_news": 8
   },
   {
@@ -158,7 +158,7 @@
   {
    "date": "2026-11-03",
    "complaints": 2,
-   "competitor_news": 29,
+   "competitor_news": 27,
    "zeekr_news": 7
   },
   {
@@ -183,19 +183,19 @@
    "date": "2026-11-07",
    "complaints": 3,
    "competitor_news": 3,
-   "zeekr_news": 5
+   "zeekr_news": 4
   },
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 5,
+   "competitor_news": 7,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 7,
-   "zeekr_news": 2
+   "competitor_news": 12,
+   "zeekr_news": 5
   }
  ],
  "categories_30d": [
@@ -559,7 +559,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "ef19d3a55d877477"
+   "latest": "1449d41803c59183"
   },
   "im5": {
    "n_30d": 2,
@@ -671,7 +671,7 @@
     "a8af33cd32623473"
    ],
    "offer": [],
-   "latest": "2672f4c5f999baf2"
+   "latest": "a8af33cd32623473"
   },
   "byd-m9": {
    "n_30d": 6,
@@ -933,12 +933,42 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "a8af33cd32623473",
+   "title": "GAC M8 price and specs: every variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T11:55:36+00:00",
+   "competitors": [
+    "gac-m8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "8c9ef38f9af3c4e7",
    "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
-   "t": "2026-11-09T08:50:49+00:00",
+   "t": "2026-11-09T09:19:31+00:00",
    "competitors": [
     "byd-m9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "1af84a334ac544d9",
+   "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T09:19:27+00:00",
+   "competitors": [
+    "byd-atto3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "1449d41803c59183",
+   "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T09:19:23+00:00",
+   "competitors": [
+    "byd-seal"
    ]
   },
   {
@@ -976,36 +1006,22 @@
    "competitors": [
     "tesla-model-y"
    ]
-  },
-  {
-   "kind": "complaint_high",
-   "id": "eca946f32b670453",
-   "title": "1★ · When I downloaded this app, it had a 2.7-star rating, and I",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-07T14:21:23+00:00"
-  },
-  {
-   "kind": "complaint_high",
-   "id": "1d6215f41f641085",
-   "title": "1★ · Does not work",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-07T10:12:29+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 72,
+   "count": 74,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 13,
+   "count": 14,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 36,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1015,7 +1031,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 53,
+   "count": 52,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1030,7 +1046,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 27,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1040,12 +1056,12 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 26,
+   "count": 27,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1134,24 +1150,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": true,
-   "count": 25,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1584,9 +1600,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "note": "unchanged"
+   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by NameResolutionError(\"HTTPSConnectio"
   },
   "offers-hyundai": {
    "ok": true,
