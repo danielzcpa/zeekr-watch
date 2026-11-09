@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-09T01:53:50+00:00",
- "duration_s": 300.7,
- "items_total": 1436,
- "new_this_run": 169,
+ "generated": "2026-11-09T09:36:19+00:00",
+ "duration_s": 402.0,
+ "items_total": 1444,
+ "new_this_run": 184,
  "counts": {
-  "complaints_24h": 1,
+  "complaints_24h": 0,
   "complaints_7d": 9,
   "complaints_30d": 36,
   "high_7d": 5,
   "medium_7d": 3,
   "low_7d": 1,
-  "competitor_news_7d": 105,
-  "launch_signals_7d": 16,
-  "offer_signals_7d": 5,
-  "zeekr_news_7d": 64,
-  "offer_page_changes_7d": 12
+  "competitor_news_7d": 104,
+  "launch_signals_7d": 17,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 60,
+  "offer_page_changes_7d": 6
  },
  "series_30d": [
   {
@@ -140,7 +140,7 @@
   {
    "date": "2026-10-31",
    "complaints": 3,
-   "competitor_news": 11,
+   "competitor_news": 10,
    "zeekr_news": 5
   },
   {
@@ -194,8 +194,8 @@
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 2,
-   "zeekr_news": 1
+   "competitor_news": 7,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -385,12 +385,13 @@
    "latest": "84c4147998a4e973"
   },
   "hyundai-elexio": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
+    "bcc34f0ed4cf493e",
     "e0ef91f9ec5b5e79"
    ],
    "offer": [],
-   "latest": "9170c7a208d89101"
+   "latest": "bcc34f0ed4cf493e"
   },
   "smart-5": {
    "n_30d": 2,
@@ -931,6 +932,26 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "8c9ef38f9af3c4e7",
+   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T08:50:49+00:00",
+   "competitors": [
+    "byd-m9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "bcc34f0ed4cf493e",
+   "title": "Hyundai Elexio recalled, deliveries halted",
+   "source": "CarExpert",
+   "t": "2026-11-09T04:10:00+00:00",
+   "competitors": [
+    "hyundai-elexio"
+   ]
+  },
+  {
    "kind": "offer_page_change",
    "id": "9edb50303a325259",
    "title": "Zecar (all-brand offers) 官网政策页面变化（+3 / −4 行）",
@@ -969,24 +990,17 @@
    "title": "1★ · Does not work",
    "source": "Google Play (AU) · ZEEKR app",
    "t": "2026-11-07T10:12:29+00:00"
-  },
-  {
-   "kind": "complaint_high",
-   "id": "426f6601b426c9db",
-   "title": "1★ · works off and on for android. car OS is 2.0.1a , check for u",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-07T06:32:08+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 73,
+   "count": 72,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 15,
+   "count": 13,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1001,7 +1015,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 53,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1016,7 +1030,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 27,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1026,17 +1040,17 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 24,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 26,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 60,
+   "count": 61,
    "note": ""
   },
   "carexpert": {
@@ -1095,9 +1109,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1105,9 +1119,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 23,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1117,27 +1131,27 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
-   "ok": false,
-   "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 25,
+   "note": "anonymous RSS"
   },
   "reddit-EVAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AusAutomotive": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-electricvehicles": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-global": {
    "ok": false,
@@ -1521,8 +1535,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 1,
-   "note": "1 new; 38/38 feeds ok"
+   "count": 0,
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1622,7 +1636,7 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 44,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-thebeep-offers": {
    "ok": false,

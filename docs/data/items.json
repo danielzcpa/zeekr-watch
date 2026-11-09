@@ -1,5 +1,301 @@
 [
  {
+  "id": "695c18b3765bd995",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xrna1x/apple_watch_12_unlock/",
+  "title": "Apple Watch 12 unlock",
+  "text": "Hi all I'm normally an Android user but I picked up a iPhone 17e to play with. The 17e, as I found out, does not have UWB so it doesn't support digital key 3. Can anyone tell me if I get an Apple Watch 12 paired to the 17e, can I use Digital Key 3 on the watch to unlock etc my 7x? The car is running 2.1.1d. Thanks",
+  "author": "/u/beerboy80",
+  "published": "2026-11-09T09:26:37+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "8c9ef38f9af3c4e7",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQN0x0QWwxZmo5ekRaRGFrYS05TWpHMVFRT2VXYjJsSG01OVhBQ3R5RlpkZy1zdmsxWjkyUnYxNDR6T0ZmMDRiOERwQmNEUQ?oc=5",
+  "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD M9 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-11-09T08:50:49+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "e89e801aa8e1d1a7",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/mg-4-ev-urban-special-edition-gets-unique-look-for-modest-premium",
+  "title": "MG 4 EV Urban Special Edition gets unique look for modest premium",
+  "text": "The MG 4 EV Urban Special Edition five-door electric hatch has been announced for Australia, with a range of cosmetic changes and a limited run of 750 vehicles. The Special Edition is based on the MG 4 Urban Essence 54 , the higher of two model grades currently in Australian showrooms, for an additional $1000 on top of its current $32,990 drive-away price. That price includes a current promotional offer of $2000 cashback on vehicles delivered by December 31, 2026, as MG looks to rein in the slender 81-vehicle sales lead the Geely EX2 holds year-to-date over its MG 4 EV Urban. The pack brings contrasting black paintwork for the Urban’s roof and exterior mirror caps, teamed with either new Ice Blue metallic paintwork or the Diamond Red hero colour. Both avoid the usual $700 metallic paint charge. The standard dark grey interior gains additional ambient lighting – found on the door panels – in the only other change. MG Australia has previously said the higher model grade accounts for the majority of MG 4 EV Urban sales in Australia. “We're seeing a clear preference for the MG4 EV Urban with the larger 54kWh battery, which now accounts for around two-thirds of sales compared with the 4",
+  "author": "Damion Smy",
+  "published": "2026-11-09T06:36:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "770a6ccaee122c19",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/byd-new-seven-seat-family-suv-australia-ti7",
+  "title": "BYD drops a big clue that it has a new seven-seat family SUV on the way for Australia",
+  "text": "BYD's Ti7 plug-in hybrid SUV has received government approval, bringing a potential new rival to the Hyundai Santa Fe and Kia Sorento closer. The post BYD drops a big clue that it has a new seven-seat family SUV on the way for Australia first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-09T04:54:53+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai",
+   "byd"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "bcc34f0ed4cf493e",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/hyundai-elexio-recalled-deliveries-halted",
+  "title": "Hyundai Elexio recalled, deliveries halted",
+  "text": "Hyundai Motor Company Australia is recalling every locally delivered example of the Chinese-built Hyundai Elexio due to so-called ‘phantom braking’, but a fix could take months to be applied to the electric SUVs. “In certain situations, Elexio’s Forward Collision-Avoidance Assist (FCA) system may apply sudden and unexpected braking even though it is not necessary,” the company said in a statement to CarExpert , ahead of an official recall notice being published on the Department of Infrastructure website sometime this week. “Sudden braking of this nature could increase the risk of rear-end collisions with any following vehicles.” The company has also paused deliveries of the Elexio until a fix is available, and the model is no longer available to configure on the Hyundai website, though it remains part of the brand’s local lineup. Hyundai Australia says some Elexio owners have already reported this issue, which has led it to issue a voluntary safety recall. In a customer information sheet, Hyundai warned a fix – involving both replacement hardware and a software update – could take months to be deployed. “February 2027 is the estimated timing. That timeline is subject to review and",
+  "author": "William Stopford",
+  "published": "2026-11-09T04:10:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "safety",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -9,
+   "neg_hits": 9,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "544f1ca1ff9527c0",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xrhbw1/charging_in_camping_mode/",
+  "title": "Charging in Camping mode ?",
+  "text": "I'm hoping that someone may be about to advise if it's possible to charge the car overnight whilst it's in camping mode with the internal Air Conditioning on. Reason I ask , planning on taking the car to Northern Australia, where sleeping in the car with the air conditioning is preferred. I'll be staying in caravan parks that usually have a 15a plug that's for caravans . My thoughts are can I use that same plug to recharge the car a little over night , I expect that's fine as long as caravan park allows . However it's the charging and keeping air conditioner on at the same time in camping mode I'm not sure about as I thought camping mode may activate the V2L and disable the power port . I guess if it can be charged with the air conditioning running in another normal mode then that may work also . I'd imagine it would be allowed as some people may want to sit in their car whilst charging and read a book . I'm keen to hear feedback:)",
+  "author": "/u/ConsiderationFree356",
+  "published": "2026-11-09T03:34:53+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "f1f612b1e5600be8",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/byd-taking-on-rolls-royce-with-yangwang-altior-ultra-luxury-sedan",
+  "title": "BYD taking on Rolls-Royce with Yangwang Altior ultra-luxury sedan",
+  "text": "BYD's luxury brand Yangwang has unveiled a new flagship electric vehicle (EV) combining Chinese-inspired design, elaborate handcrafted details and advanced technology, including a claimed electric driving range of more than 1000km. Called the Yangwang Altior , the electric luxury sedan made its global debut in the United Arab Emirates with BYD describing it as a new expression of Chinese ultra-luxury. The launch model, dubbed the ‘Shanhe Dingyun’ limited edition, is priced from 2.08 million yuan (A$451,000) in China and is reportedly limited to 399 units worldwide. Developed over three years, the Altior takes inspiration from traditional Chinese culture, with its substantial proportions designed to communicate strength and presence. Measuring 5600mm long, 2030mm wide and 1590mm tall, the Altior sits between the Rolls-Royce Ghost and standard-wheelbase Phantom in terms of size. Its exterior features a distinctive front grille designed to resemble high jewellery, with individually positioned and polished elements intended to reflect light from different angles. The lighting system features 12 elements that illuminate sequentially from the outside towards the centre as the owner appro",
+  "author": "Dave Kavermann",
+  "published": "2026-11-09T02:25:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "yangwang"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "aba908bb84a93652",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1pJbkFwdjBTYVNGc1ZmbXpVUEg2TE90dXZnanBuLUJ3QTd1YmRHR3hwMkx0WnRERE0tdU12TE9XMDlkeGNDN25BWi1RaWQ1eFpYUExzRjBoQzVGM0FxQjZVcEE1TWt5aTJpbGNyeEQ3LWVmQXVKTjJ3ZUExVVlqc09nUlQ1MW5MWTB6Q01Pb1o0dmNwTVlEX21ZUUJWckJ1cVMtb1JKMUg0TXRuV0JtWmNLY095TTUwWDJ6bmxuRVJjMjBwYnc?oc=5",
+  "title": "New battery claims 2000km of driving range: Lithium-air to smash solid-state batteries and would revolutionise 2026 Zeekr 7X, Tesla Model Y, Geely EX5 - CarsGuide",
+  "text": "New battery claims 2000km of driving range: Lithium-air to smash solid-state batteries and would revolutionise 2026 Zeekr 7X, Tesla Model Y, Geely EX5 CarsGuide",
+  "author": "",
+  "published": "2026-11-09T02:02:09+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "tesla-model-y",
+   "geely-ex5"
+  ],
+  "brands": [
+   "tesla",
+   "geely"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
   "id": "2a9c8d2de6114846",
   "type": "news_zeekr",
   "source": "carexpert",
@@ -194,7 +490,7 @@
   "title": "Geely’s Zeekr eyes Mercedes-Benz G-Class SUV rival - United News Ph",
   "text": "Geely’s Zeekr eyes Mercedes-Benz G-Class SUV rival United News Ph",
   "author": "",
-  "published": "2026-11-08T18:19:13+00:00",
+  "published": "2026-11-08T18:11:15+00:00",
   "rating": null,
   "zeekr": true,
   "models": [],
@@ -317,6 +613,41 @@
   "first_seen": "2026-11-08T13:12:47+00:00"
  },
  {
+  "id": "febf879d09e756b7",
+  "type": "post",
+  "source": "reddit-ZeekrX",
+  "source_name": "Reddit r/ZeekrX",
+  "url": "https://www.reddit.com/r/ZeekrX/comments/1xqu7nr/zeeker_x_promos/",
+  "title": "Zeeker X promos",
+  "text": "I see a few dealers offering promotional prices/discounts/offers for the 7x. Granted it’s due to the MY27 being release but is there any for the X? Still tossing up between RWD and AWD models. Heck I might even look into 7x but not keen on the overall size.",
+  "author": "/u/SelfISO",
+  "published": "2026-11-08T09:08:03+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
   "id": "4f333d643e148ba5",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -355,8 +686,8 @@
   "source": "thedriven",
   "source_name": "The Driven",
   "url": "https://thedriven.io/2026/11/08/gac-offers-2000-cashback-on-its-popular-well-equipped-aion-v-electric-suv-model/?utm_source=rss&utm_medium=rss&utm_campaign=gac-offers-2000-cashback-on-its-popular-well-equipped-aion-v-electric-suv-model",
-  "title": "GAC offers $2,000 cashback on its popular, well-equipped Aion V electric SUV model",
-  "text": "GAC offers $2,000 cashback or low finance rate on the Aion V electric SUV, as it aims to boost sales in a competitive electric SUV market in Australia. The post GAC offers $2,000 cashback on its popular, well-equipped Aion V electric SUV model appeared first on The Driven.",
+  "title": "GAC offers $2,000 cashback and free home charger on Aion V electric SUV",
+  "text": "GAC offers $2,000 cashback or low-rate finance, plus a free home charger, as it looks to boost Aion V sales in Australia’s crowded electric SUV market. The post GAC offers $2,000 cashback and free home charger on Aion V electric SUV appeared first on The Driven.",
   "author": "Riz Akhtar",
   "published": "2026-11-08T07:50:57+00:00",
   "rating": null,
@@ -367,7 +698,8 @@
    "gac"
   ],
   "categories": [
-   "software"
+   "software",
+   "charging"
   ],
   "sentiment": {
    "score": 0,
@@ -1838,7 +2170,7 @@
  {
   "id": "bdbab69b428f7f07",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE12cHpfWTNpdUx6VFBiMk9JSHdRaUVYOU9TSTc0dU55aEFnczd6UGhtOG5wenZFdi1rSUt0b3ktekk5RGVNRnZ1dlljLVU3YmhrQkRLS2huenV0R19JVXh1b2lDV3V4MVNHcVRXSW5JcWpYYVZWM19yZHlSSGE0QS13Ump6bWVPS2N3S0tMRkpLbzhVcXpfdlpNcjVmLW5idnlKdW1UZi14NkpaUzYyczJjdDllZzJ0bnhfci1wUUdWZw?oc=5",
   "title": "2027 Honda Avancier teased ahead of likely Australian launch to rival 2026 Kia Sorento, Toyota Kluger hybrid three-row SUVs - CarsGuide",
@@ -1866,7 +2198,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-07T20:07:58+00:00"
@@ -8309,7 +8641,7 @@
  {
   "id": "c23ac47241974ca2",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1l6RlkyeGhCZXAxdWlWdGRiVHlwdTlYZmJlRmp5RnRnMzJHOXZyc2x3Sm5MWWpNc0Znc3pvNEw3bVBONndsRWhFYzA5Q3F5ZHVKSTZ1N25qazBNaXd0UFNmZzQwRHp3UWxCamw4cFJmY1hVQUF4ZDc0MUJkX0NjN0JkRkM?oc=5",
   "title": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged - Zecar",
@@ -8412,41 +8744,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-01T19:06:14+00:00"
- },
- {
-  "id": "8c9ef38f9af3c4e7",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQN0x0QWwxZmo5ekRaRGFrYS05TWpHMVFRT2VXYjJsSG01OVhBQ3R5RlpkZy1zdmsxWjkyUnYxNDR6T0ZmMDRiOERwQmNEUQ?oc=5",
-  "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD M9 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-31T15:02:35+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-m9"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
   "id": "43eef9656c6878ef",
