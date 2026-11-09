@@ -2,11 +2,11 @@
  "key": "zecar-offers",
  "brand": "Zecar (all-brand offers)",
  "url": "https://zecar.com/offers-and-deals",
- "fetched": "2026-11-08T22:29:08+00:00",
- "digest": "ed398cee296593dc",
+ "fetched": "2026-11-09T01:58:49+00:00",
+ "digest": "1ecc61f1b20b8366",
  "lines": [
   "Deals and Offers",
-  "· 32 active offers",
+  "· 35 active offers",
   "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
   "Search Offers",
   "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026)",
@@ -14,6 +14,8 @@
   "GWM Haval H7 $1,000 Launch Offer",
   "Vehicle Discount",
   "Receive a $1,000 launch offer on the all-new Haval H7 Lux HEV and Lux PHEV. Driveaway pricing starts from $45,990 for the Lux HEV and $49,990 for the Lux PHEV. Offer ends 30 November 2026.",
+  "GWM ORA 5 Lux: Extra $1,000 Off or 0.88% p.a. Finance",
+  "GAC AION V Finance Offer (0.99% Comparison Rate)",
   "Geely Trade-In Offer: 1,000kWh Evie Public Charging Credit (November 2026)",
   "Customers who trade in an eligible vehicle when buying a new Geely in November 2026 receive a 1,000kWh public charging credit for the Evie network, valid for one year from activation. Eligible vehicles and full terms are on Geely Australia's offers page. Conditions apply.",
   "GWM Cannon PHEV: $2,000 Cash Bonus or $2,000 Fuel Card",
@@ -44,9 +46,6 @@
   "Place a $200 online deposit on the new Renault Megane E-Tech electric and receive a free 7kW FoxESS L-Series wall charger valued at $749 RRP. Charger supply only, installation not included. Offer ends 31 December 2026.",
   "KGM Torres EVX $5,010 Factory Bonus",
   "KGM is offering a $5,010 factory bonus across the Torres range, covering MY26 Torres EVX and Torres Hybrid models built in the 2025 calendar year, plus MY25 Torres built in 2024. Metallic paint is a $700 extra on top. The offer is described as a limited time promotion available while stocks last, with no fixed end date published, so it could be withdrawn at any point.",
-  "Hyundai IONIQ 5 Drive Away Pricing From $70,990 Plus 3.90% Finance",
-  "GAC AION UT Drive-Away Offer from $31,990",
-  "GAC is running a Q4 national drive-away offer on the AION UT, priced from $31,990 drive-away and bundled with a 22 kW wall charger. A 7% p.a. novated lease offer is also available. Applies to orders placed between 1 October 2026 and 31 December 2026, with a $1,000 deposit required. Prices may vary by state, model, colour, and specification.",
   "We'll email you when a new offer goes live.",
   "Are there EV rebates or incentives in Australia in 2026?",
   "When do EV offers usually expire?"
@@ -62,7 +61,6 @@
   28888,
   29990,
   30990,
-  31990,
   34990,
   35990,
   38990,
@@ -71,8 +69,7 @@
   49990,
   50990,
   51900,
-  52990,
-  70990
+  52990
  ],
- "n_lines": 45
+ "n_lines": 44
 }

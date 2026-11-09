@@ -1,5 +1,191 @@
 [
  {
+  "id": "2a9c8d2de6114846",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/denza-n9-premium-byd-brands-890kw-electric-suv-breaks-cover",
+  "title": "Denza N9: Premium BYD brand's 890kW electric SUV breaks cover",
+  "text": "An electric version of the Denza N9 large SUV has been revealed in China, joining the plug-in hybrid (PHEV) version which appears set for Australian showrooms. Denza, a premium brand owned by BYD, will introduce an electric version of the N9 full-size SUV, according to government filings uncovered by CarNewsChina . The outlet said the electric version measures 5270mm long, 2030mm wide and 1830mm high on a 3125mm wheelbase, making it 233mm longer than a Volvo EX90 on a 140mm longer wheelbase. It also has similar dimensions to the Zeekr 9X plug-in hybrid SUV, which has been confirmed for Australia. Offering a choice of five or six seats, the N9 EV has the same width, height and wheelbase as the N9 PHEV detailed in Australian approval documents , but its body is 12mm longer. The N9 PHEV received Australian Design Rule (ADR) certification in October 2026, with both six- and seven-seat configurations listed. Despite this, the automaker has not yet officially confirmed the N9 for its local lineup. It could become the fifth Denza offered here, following the B5 and B8 off-roaders and D9 people mover, which commenced customer deliveries earlier this year, and the upcoming Z9 GT . Denza Aust",
+  "author": "Damion Smy",
+  "published": "2026-11-09T01:04:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [
+   "denza-z9gt",
+   "volvo-ex90"
+  ],
+  "brands": [
+   "volvo",
+   "byd",
+   "denza"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "sales"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T01:53:50+00:00"
+ },
+ {
+  "id": "b51c207ec77421ee",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/byds-rolls-royce-challenger-revealed-yangwang-altior-electric-limousine-claims-1000km-range/",
+  "title": "BYD’s Rolls-Royce challenger revealed: Yangwang Altior electric limousine claims 1000km range",
+  "text": "BYD's Yangwang Altior electric limousine claims around 1000km of CLTC range, four motors and lavish rear seating, with Australian plans still unconfirmed. The post BYD’s Rolls-Royce challenger revealed: Yangwang Altior electric limousine claims 1000km range appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-09T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "yangwang"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T01:53:50+00:00"
+ },
+ {
+  "id": "80f6474dffca45ec",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/australian-volvo-ex60-deliveries-delayed-until-late-2027",
+  "title": "Australian Volvo EX60 deliveries delayed until late 2027",
+  "text": "Australian buyers with Volvo EX60 orders could be waiting a year for their vehicle to arrive. CarExpert understands that a slower-than-expected production ramp-up at Volvo’s Swedish factory, coupled with significant demand from European markets, has contributed to delays for Australian-bound EX60s. With production now allocated to ‘Model Year 2028’ – which will begin around August or September 2027 – it’s unlikely buyers will receive their SUVs until late 2027 or early 2028. The setback also means local customers will no longer have their vehicle delivered before changes to the Australian Government's Fringe Benefits Tax exemptions for EVs. The current 100 per cent FBT exemption, which the base EX60 was eligible for as its price fell under the $91,661 Luxury Car Tax (LCT) threshold, is set to be replaced on April 1, 2027 with a reduced discount of 25 per cent. Buyers may still be able to retain the full exemption for the delayed EX60, but only if they already have a binding lease agreement in place. Volvo had initially said the EX60 would begin arriving either late in the third quarter (July to September) or the fourth quarter (October to December) of 2026. While production expansi",
+  "author": "Ben Zachariah",
+  "published": "2026-11-09T00:05:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T01:53:50+00:00"
+ },
+ {
+  "id": "9170c7a208d89101",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/hyundai-elexio-recall-australia-due-to-potentially-safety-system-fault-fac-adas",
+  "title": "Hyundai Elexio recalled in Australia due to potentially dangerous safety system fault",
+  "text": "The ADAS feature on the Hyundai Elexio has fallen victim to a software issue. The post Hyundai Elexio recalled in Australia due to potentially dangerous safety system fault first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-11-08T23:32:25+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-elexio"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -5,
+   "neg_hits": 5,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T01:53:50+00:00"
+ },
+ {
+  "id": "2b97ba470ed7e59d",
+  "type": "news_zeekr",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3NReGVOVURfcFdCbzZYVTdCZ1REdlNiWV85QlRrbHNhMl9IOVRTeGtRbFlqYS12cTFBdmZCcmFpc3NkM2NOdThHX01TMHJmemNrUlZocTJwZVVSRGJyeUpMSGJ6cXhXMG1TQ2FaM24wdlJBMG56R1ZaV3JrU0pJQllOZUhIUElEZU9fa3Mwdk1zdC1lWERaRldXbEpIeGhSQnpqbw?oc=5",
+  "title": "Avatr eyes higher prices than Zeekr in Australia - Carsales",
+  "text": "Avatr eyes higher prices than Zeekr in Australia Carsales",
+  "author": "",
+  "published": "2026-11-08T23:06:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-09T01:53:50+00:00"
+ },
+ {
   "id": "be17dc48e83e81d3",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -2044,7 +2230,7 @@
  {
   "id": "f3b9b545c6b4ef9f",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1IaXJuT3R4ZkhUa2lrcmxFSEx5eU5OVlppMFBCQjg3dDc5TmN4QmROUjJ0SUM2dU1oblRaMGNqb0NwRDhVN2ZYUzFUQmd6WkdyN0hTQ0I4RWpPR0J1bURCX3czb0ZkSEVTUFpUY0VlWFVUWWJjVmpMRkhxYlgyUzJBTXA1N3J4Umc?oc=5",
   "title": "This wagon is Zeekr's next Aussie EV sensation: CAUGHT - Drive",
@@ -2065,7 +2251,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-06T02:13:01+00:00"
@@ -6864,7 +7050,7 @@
  {
   "id": "57df56df123edc9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaG9IbEdsSE0wVXNFTTBaMWxsa3A1Y1N3UGdRcTRFQ1NfQ3F3MmRKaE1zYzVNR01SV1B6dFZENFlLelRrX1Y5d1FIZXY2R2tmZEcwb05KZVEtUFBPNXZIaTNWVnFKeHB1ZEVBbFdzVk9vNElFOG9SNlpkblpCYzdHOTVjYkRjNnY3QThkSURVUW0xMnVudzJ5UEMtREFvSjVVM09RNg?oc=5",
   "title": "2027 Zeekr 7X gets more punch for the same price - Carsales",
@@ -6968,7 +7154,7 @@
  {
   "id": "d29fb2a0776d79e1",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDdKMlRDa1Q0cUU3WlNHdGp0RzJFMkZQbVZRaTJwRUlQSmtsWFNWaGtXZGhkbEcxQXRXRVlSbDh1RDJqdjRHSXEtUFlFMVpXWDFjZXhuZGx6OHU2bTkyMW51WU51Sko4Y3lVQXF1SGFnTUEwb0dvLUlsRUM3RnRXZWVfNHBkRmZOb1Jvem13ZFhZWmFZMUp6aV9NSEI4eTR6VzBmTElwb1QyQ3FtS1R1REhDeGNEOGdwM0JIbXVMZXVtZFRk?oc=5",
   "title": "Where Australia sits on global EV uptake: Booming sales of 2026 BYD Sealion 7, Zeekr X and Geely EX5 put us above US, South Korea - CarsGuide",

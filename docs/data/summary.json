@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-08T22:23:36+00:00",
- "duration_s": 334.1,
- "items_total": 1431,
- "new_this_run": 168,
+ "generated": "2026-11-09T01:53:50+00:00",
+ "duration_s": 300.7,
+ "items_total": 1436,
+ "new_this_run": 169,
  "counts": {
   "complaints_24h": 1,
-  "complaints_7d": 10,
+  "complaints_7d": 9,
   "complaints_30d": 36,
-  "high_7d": 6,
+  "high_7d": 5,
   "medium_7d": 3,
   "low_7d": 1,
-  "competitor_news_7d": 104,
+  "competitor_news_7d": 105,
   "launch_signals_7d": 16,
   "offer_signals_7d": 5,
-  "zeekr_news_7d": 66,
-  "offer_page_changes_7d": 11
+  "zeekr_news_7d": 64,
+  "offer_page_changes_7d": 12
  },
  "series_30d": [
-  {
-   "date": "2026-10-10",
-   "complaints": 0,
-   "competitor_news": 5,
-   "zeekr_news": 3
-  },
   {
    "date": "2026-10-11",
    "complaints": 1,
@@ -194,8 +188,14 @@
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 4,
-   "zeekr_news": 5
+   "competitor_news": 5,
+   "zeekr_news": 6
+  },
+  {
+   "date": "2026-11-09",
+   "complaints": 0,
+   "competitor_news": 2,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -385,12 +385,12 @@
    "latest": "84c4147998a4e973"
   },
   "hyundai-elexio": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
     "e0ef91f9ec5b5e79"
    ],
    "offer": [],
-   "latest": "886034b5fd5c6b65"
+   "latest": "9170c7a208d89101"
   },
   "smart-5": {
    "n_30d": 2,
@@ -932,6 +932,14 @@
  "alerts": [
   {
    "kind": "offer_page_change",
+   "id": "9edb50303a325259",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+3 / −4 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+3 / −4 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-11-09T01:58:49+00:00"
+  },
+  {
+   "kind": "offer_page_change",
    "id": "243e50532de23ddd",
    "title": "Zecar (all-brand offers) 官网政策页面变化（+5 / −3 行）",
    "title_en": "Zecar (all-brand offers) offer page changed (+5 / −3 lines)",
@@ -968,16 +976,6 @@
    "title": "1★ · works off and on for android. car OS is 2.0.1a , check for u",
    "source": "Google Play (AU) · ZEEKR app",
    "t": "2026-11-07T06:32:08+00:00"
-  },
-  {
-   "kind": "competitor_offer",
-   "id": "0f7dc9e69355b6df",
-   "title": "Hyundai Staria Load Electric review: Great to drive, but is it worth $71,000?",
-   "source": "The Driven",
-   "t": "2026-11-06T01:19:41+00:00",
-   "competitors": [
-    "hyundai-staria"
-   ]
   }
  ],
  "source_status": {
@@ -988,7 +986,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 14,
+   "count": 15,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1023,12 +1021,12 @@
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 28,
+   "count": 27,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 27,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1097,14 +1095,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1119,7 +1117,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1503,7 +1501,7 @@
   },
   "zecar-offers-mg": {
    "ok": true,
-   "count": 17,
+   "count": 18,
    "note": ""
   },
   "zecar-offers-mini": {
@@ -1523,8 +1521,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 1,
+   "note": "1 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1623,8 +1621,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 45,
-   "note": "unchanged"
+   "count": 44,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

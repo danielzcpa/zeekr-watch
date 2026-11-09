@@ -1,5 +1,23 @@
 [
  {
+  "id": "9edb50303a325259",
+  "key": "zecar-offers",
+  "brand": "Zecar (all-brand offers)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-11-09T01:58:49+00:00",
+  "added": [
+   "· 35 active offers",
+   "GWM ORA 5 Lux: Extra $1,000 Off or 0.88% p.a. Finance",
+   "GAC AION V Finance Offer (0.99% Comparison Rate)"
+  ],
+  "removed": [
+   "· 32 active offers",
+   "Hyundai IONIQ 5 Drive Away Pricing From $70,990 Plus 3.90% Finance",
+   "GAC AION UT Drive-Away Offer from $31,990",
+   "GAC is running a Q4 national drive-away offer on the AION UT, priced from $31,990 drive-away and bundled with a 22 kW wall charger. A 7% p.a. novated lease offer is also available. Applies to orders placed between 1 October 2026 and 31 December 2026, with a $1,000 deposit required. Prices may vary by state, model, colour, and specification."
+  ]
+ },
+ {
   "id": "243e50532de23ddd",
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",
