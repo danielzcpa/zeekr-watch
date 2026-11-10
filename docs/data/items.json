@@ -1,8 +1,261 @@
 [
  {
+  "id": "b5d94c8e0a08ad2c",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · DSF.my",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNY2M0S0xjNlB0d001YjhIaV9OWk1jRGs4aEI1aEstMUhrcWEyb1ZaakFsc191Mm5zbEx6Mk1XZUV4aWo5dGJwbDNLNEQwR0RPYnkzZ3puRXdwcFpCYklVb1luNmd2ZjhPdEdxTjczWkU5Y2d2UXc?oc=5",
+  "title": "2027 Zeekr 7X Opens Pre-Sales In China With 900V Architecture - DSF.my",
+  "text": "2027 Zeekr 7X Opens Pre-Sales In China With 900V Architecture DSF.my",
+  "author": "",
+  "published": "2026-11-10T02:06:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
+  "id": "1c0a7b8c1d32aa15",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/australia-bound-rugged-off-road-brand-to-release-denza-b8-phev-rival",
+  "title": "Australia-bound rugged off-road brand to release Denza B8 PHEV rival",
+  "text": "Chinese off-road vehicle brand 212 is launching a new, large off-road SUV, and it could be the model it enters the Australian market with. Just months after a diesel-powered version of the new X03 ladder-frame off-road SUV appeared in a Chinese Ministry of Industry and Information Technology (MIIT) filing in August, a petrol plug-in hybrid (PHEV) variant has appeared in the latest round of MIIT filings. The official documents list a 152kW turbocharged 2.0-litre four-cylinder petrol engine and a 160kW electric motor, as well as a ternary lithium battery sourced from CATL. The X03 measures 5095mm long, 2038mm wide and 1945mm tall on a 2950mm wheelbase. That makes it 100mm shorter than the Denza B8 , albeit on a 30mm longer wheelbase. It has a kerb weight of 2935kg, up 365kg on the 140kW 2.3-litre four-cylinder turbo-diesel variant that appeared in an earlier MIIT filing. This engine was understood to have a torque figure of 500Nm. Despite its size, the X03 – regardless of powertrain – seats only five occupants. The X03 is a departure from 212's other models, which look like the Jeep Wrangler and Gladiator but are actually designed to resemble the old BAW BJ212 that entered production",
+  "author": "William Stopford",
+  "published": "2026-11-10T01:51:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "denza-b8"
+  ],
+  "brands": [
+   "denza"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
+  "id": "e63d2f7be6d02cd1",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/kia-leak-tweak-tasman-ev7-carnival-sorento",
+  "title": "Document leak reveals Kia will tweak the Tasman after its difficult Aussie launch",
+  "text": "A leaked Kia document has revealed plans to improve the slow-selling Tasman ute, potentially introducing new variants alongside a fresh electric SUV. The post Document leak reveals Kia will tweak the Tasman after its difficult Aussie launch first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-09T23:11:10+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "quality",
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
+  "id": "0d07e01ab5d2956f",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/audi-rs5-could-get-f1-inspired-special-editions-in-australia",
+  "title": "Audi RS5 could get F1-inspired special editions in Australia",
+  "text": "Hot on the heels of the launch of its first performance plug-in hybrid, Audi Australia says it's actively looking at opportunities to create special-edition models drawing upon the brand's history and current tie-ups with motorsport. Speaking with CarExpert at the Australian media launch of the new Audi RS5 in Tasmania, head of product for the Ingolstadt marque's local division, Matthew Dale, said there are \"some pretty special cars coming up\". \"This car is early in its lifecycle, obviously, we're looking into those opportunities as as we speak. We we also have a range of Audi exclusive offers in terms of paints, but that gives us a very broad spectrum to create such a limited edition,\" Mr Dale said. \"We know with motorsport in general, history tells us [there are opportunities] – we've had a special-edition R8s in the past. We created one locally, a Neuberg edition, there are 10 lucky customers out there in the Australian market, they've got a specialised edition. We've seen sister brands within our Group as well really create some special moments around motorsport.\" \"I think I think that's where motorsport really comes into play with having special liveries, special details aroun",
+  "author": "James Wong",
+  "published": "2026-11-09T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
+  "id": "3b76add49957edb9",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/audi-hints-at-updated-a3-and-q3-phevs-for-australia",
+  "title": "Audi hints at updated A3 and Q3 PHEVs for Australia",
+  "text": "Audi Australia still won't say when it will bring plug-in 'e-hybrid' versions of its popular A3 and Q3 – though the brand's local product boss has hinted that the Australian arm is waiting on imminent technology updates. Speaking with CarExpert at the launch of the new RS5 in Tasmania, head of product at Audi Australia – Matthew Dale – said the German marque's local team is waiting on updated versions of both the A3 and Q3 e-hybrids so that \"we're not bringing an outgoing vehicle\". \"What we've seen recently is is obviously there's a big shift in hybridisation in general. We've always been evaluating the the current product, but what we would do is if we were to take something, [we'd] take the latest iteration of that,\" Mr Dale said. \"There is one coming up – battery motor technology and everything starts to progress at such a rapid rate, what we're seeing is improvements in the product [during the] product lifecycle.\" \"So we're currently evaluating what would be the latest one out of Europe, and that's one that we would would like to bring to the Australian market for Australian customers, just so we're not bringing an outgoing vehicle and then in three months' time they launch a n",
+  "author": "James Wong",
+  "published": "2026-11-09T22:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
+  "id": "99c056a6ff4391eb",
+  "type": "news_zeekr",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-zeekr-7x-detailed-for-china-heres-what-australia-misses-out-on",
+  "title": "2027 Zeekr 7X detailed for China: Here’s what Australia misses out on",
+  "text": "An updated Zeekr 7X has been detailed for Australia, but it already missed out on changes made to the mid-size electric SUV in its home market – and now there have been even more updates made over there. As reported previously , the Chinese-market 7X gains a new 85kWh lithium iron phosphate (LFP) battery option, slotting between the existing 75kWh LFP and 103kWh nickel manganese cobalt packs. All Chinese-market 7Xs feature a 900V-rated thermal management system, though according to Chinese outlet Xchuxing only the largest of the three batteries is 900V-rated. Range on the CLTC cycle jumps from 620km with the 75kWh LFP battery to 680km with the 85kWh pack. The 103kWh battery remains the range champion, offering 802km of range in single-motor rear-wheel drive guise. The 7X still features double-wishbone front and five-link independent rear suspension, with air suspension on up-spec variants. However, newly standard across the range for 2027 is electromagnetic continuously controlled damping, previously exclusive to up-spec variants. Zeekr has also introduced active road noise cancellation, plus a system that can prevent the 7X from losing control should there be a tyre blowout at hig",
+  "author": "William Stopford",
+  "published": "2026-11-09T21:25:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
+  "id": "90370797c634b453",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/volvo-ex50-mid-size-suv-specs-australia",
+  "title": "Everything we know about the upcoming Volvo EX50 mid-size SUV",
+  "text": "The Volvo EX50 is expected to arrive next year to take on rivals like Tesla's Model Y. The post Everything we know about the upcoming Volvo EX50 mid-size SUV first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-11-09T20:42:13+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "volvo",
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
+ },
+ {
   "id": "833e1dcab2609869",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWVMWUNIcHpoZ2MzNFZKT0VSa0VMZERMSXpIcjAxVFBkc1ItWEtYRl9EZWdYVnROWkxmOHZ1VmN5VlBLYUJXaTdLT1BPWjdfTlhnQkVHTVlhb080dDBaMEFNSkl6VmY5bl9FaUI0NHo0aE9IYk5lSkJRckV5c2hmLTdZUU9vLWtrRUk1dzZoZG5pTl9vdV82TTh6OXhzSFJ6SnBOWTZxb2ttYXND?oc=5",
   "title": "2027 Zeekr 7X update for China already makes Australia’s version look outdated - Drive",
@@ -27,7 +280,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-09T20:00:07+00:00"
@@ -451,6 +704,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-09T09:36:19+00:00"
+ },
+ {
+  "id": "60983dfd9839f6e3",
+  "type": "competitor_news",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Best Selling Cars Blog",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWGkzdTNYZjRkU19GVTZJLTc1SVNVa2prcHRXS24zbm1qMk5BUXdqU29iS3hIQUticUgwVnhwNmo4VUZQRWcxbkhvVzdoSE5QUmNKWFczc1JQRkhCSVR6Z0RDdVVab0I2ZEpubTFEWUtidzktWk5pTksxdW1mbkVuNVhEdEp5TXVXaEMwUEpyVDI2YXp5OTJQSGs1UUNvaVp4ZmZHNkl6bEUyc3lKV08xdVFEejJHWWp3UjI5RHltM0h0QXhmNHMxcEgtVnY?oc=5",
+  "title": "Hong Kong (China) October 2026: Tesla Model Y L and iCaur V23 clear leaders, BEVs at 73.1% share - Best Selling Cars Blog",
+  "text": "Hong Kong (China) October 2026: Tesla Model Y L and iCaur V23 clear leaders, BEVs at 73.1% share Best Selling Cars Blog",
+  "author": "",
+  "published": "2026-11-09T03:19:06+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-10T02:38:46+00:00"
  },
  {
   "id": "f1f612b1e5600be8",
@@ -1013,6 +1299,107 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "6cbe21ff32c3b262",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
+  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
+  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
+  "author": "",
+  "published": "2026-11-08T08:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T15:48:02+00:00"
+ },
+ {
+  "id": "3c98fcc2e149276c",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43WWJxRk1QQWQ1VmtfN29laTFQYUZDTkRLeFZBanlmSHI1dTBST01ocVdFT01rZVRLaHZ1b0N6NHEwVWo1WFVhOFRuNGI0WXVxU2MxSw?oc=5",
+  "title": "BYD Dolphin review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Dolphin review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-11-08T08:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T00:13:27+00:00"
+ },
+ {
+  "id": "851fd88980e959a8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MV1MyeDdQTk4tbGsxWFljVkRmZ01zaXVUaE9zM3lfWDJNQUd3NVhLY0FRZGQyd1FRTk9DRF9MV3htQTlBbjJ3MTZFLUpJWEVTeXFNRmpvMA?oc=5",
+  "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
+  "text": "BYD Sealion 7 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-11-08T08:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
   "id": "c3883f6c7ebff734",
@@ -5683,37 +6070,6 @@
   "first_seen": "2026-11-03T17:41:23+00:00"
  },
  {
-  "id": "8a6378274b4195f0",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-11-03T09:13:22+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T01:44:32+00:00"
- },
- {
   "id": "064fcb4c32ef7101",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -8511,6 +8867,37 @@
   "first_seen": "2026-11-01T14:13:27+00:00"
  },
  {
+  "id": "c23ac47241974ca2",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-au",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1l6RlkyeGhCZXAxdWlWdGRiVHlwdTlYZmJlRmp5RnRnMzJHOXZyc2x3Sm5MWWpNc0Znc3pvNEw3bVBONndsRWhFYzA5Q3F5ZHVKSTZ1N25qazBNaXd0UFNmZzQwRHp3UWxCamw4cFJmY1hVQUF4ZDc0MUJkX0NjN0JkRkM?oc=5",
+  "title": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged - Zecar",
+  "text": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged Zecar",
+  "author": "",
+  "published": "2026-11-01T07:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-31T21:23:11+00:00"
+ },
+ {
   "id": "73f8fd29ba4e0118",
   "type": "complaint",
   "source": "reddit-Zeekr7xAustralia",
@@ -8806,37 +9193,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-27T06:09:34+00:00"
- },
- {
-  "id": "c23ac47241974ca2",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Zecar",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1l6RlkyeGhCZXAxdWlWdGRiVHlwdTlYZmJlRmp5RnRnMzJHOXZyc2x3Sm5MWWpNc0Znc3pvNEw3bVBONndsRWhFYzA5Q3F5ZHVKSTZ1N25qazBNaXd0UFNmZzQwRHp3UWxCamw4cFJmY1hVQUF4ZDc0MUJkX0NjN0JkRkM?oc=5",
-  "title": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged - Zecar",
-  "text": "2027 Zeekr 7X Gets 25kW More Power in Australia, Price Unchanged Zecar",
-  "author": "",
-  "published": "2026-10-31T20:41:10+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-31T21:23:11+00:00"
  },
  {
   "id": "1505fada06f3450d",
@@ -10167,39 +10523,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "6cbe21ff32c3b262",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ2JZcTZlb3hpQVRVNGxMQVBuZ2NLdkJPOE9fY3paY2l5ZENxVEFLZWtFSFJCemRzUTBqeVk3eHRRWjl1OUMtYTZhVXlXZDlxd1ZtWA?oc=5",
-  "title": "BYD Shark 6 price and specs: every 2026 variant compared - EV Central",
-  "text": "BYD Shark 6 price and specs: every 2026 variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T10:56:21+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T15:48:02+00:00"
  },
  {
   "id": "9425d102315b8967",
@@ -12407,39 +12730,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T05:11:30+00:00"
- },
- {
-  "id": "3c98fcc2e149276c",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43WWJxRk1QQWQ1VmtfN29laTFQYUZDTkRLeFZBanlmSHI1dTBST01ocVdFT01rZVRLaHZ1b0N6NHEwVWo1WFVhOFRuNGI0WXVxU2MxSw?oc=5",
-  "title": "BYD Dolphin review: every 2026 variant, price and specs - EV Central",
-  "text": "BYD Dolphin review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T00:13:27+00:00"
  },
  {
   "id": "f308fc9dc22c0bd8",
@@ -22891,41 +23181,6 @@
   "first_seen": "2026-10-16T23:51:05+00:00"
  },
  {
-  "id": "851fd88980e959a8",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MV1MyeDdQTk4tbGsxWFljVkRmZ01zaXVUaE9zM3lfWDJNQUd3NVhLY0FRZGQyd1FRTk9DRF9MV3htQTlBbjJ3MTZFLUpJWEVTeXFNRmpvMA?oc=5",
-  "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
-  "text": "BYD Sealion 7 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-17T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "byd-sealion7"
-  ],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-15T12:49:04+00:00"
- },
- {
   "id": "05c17afb9af4e4b9",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -26246,6 +26501,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-10-14T15:24:05+00:00"
+ },
+ {
+  "id": "8a6378274b4195f0",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DX1ZDNk9ONXlEUEdqSHNRY2NxbFREN19JSHNPZDFLeFdPT09RR2ZLdGlXREFwVzRYZmw1R2k4R0ZiUXZFYkowRXZiX1RGNFU2LUVfU29NNjVKOTJBQl9aWUtuUQ?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-10-14T11:38:01+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-15T01:44:32+00:00"
  },
  {
   "id": "e0ef91f9ec5b5e79",
@@ -36663,7 +36949,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -36686,7 +36972,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -42727,7 +43013,7 @@
  {
   "id": "e3c2e69d9dcac475",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDN1bFBpaXVzREg2TmdOWjZONzJDVDVpa2NZSXZ2UFdOTXYtRkdJam41Q1k1UDJBRjNXRTFsRjJUV09oZ284ZUE2dUpBM1ZNdW5JTGJsU1ZURkwzQ19COGpmbzNubmplU1NXMVlxN0tHdw?oc=5",
   "title": "Here’s exactly how long you’ll be waiting if you buy a Zeekr 7X today - Drive",
@@ -42752,7 +43038,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -48435,7 +48721,7 @@
  {
   "id": "b8864caa4cd6373d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-complaint",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDg3ZnNCejJhV0stbm4wMWE0TFI1TTlxQU5EZU9XSjRoRWpDTDdETkMzcVlBOWRhc1pkV0VCRm4wZ3FrU2ZmTmxHUmhXZEhTSDZQWGhUbVgxUk0zaDktZFhicEVXZVgzTERNTk5ueWhvVkxXUDkyXzV2UVdNOWp6U1gzbkl6LW9GUHItd0h0TFZNQ2p0ZlZsejNqNGtWRi1iUjk2dlhwZFJwVERMRzBPcm54S0JLUQ?oc=5",
   "title": "We want your help to review the Zeekr 7X - Drive",
@@ -48458,7 +48744,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
+  "scope": "zeekr",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"

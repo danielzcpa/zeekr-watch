@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-09T20:00:07+00:00",
- "duration_s": 362.7,
- "items_total": 1446,
- "new_this_run": 180,
+ "generated": "2026-11-10T02:38:46+00:00",
+ "duration_s": 341.6,
+ "items_total": 1454,
+ "new_this_run": 170,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 9,
+  "complaints_7d": 7,
   "complaints_30d": 36,
   "high_7d": 5,
-  "medium_7d": 3,
+  "medium_7d": 1,
   "low_7d": 1,
   "competitor_news_7d": 102,
-  "launch_signals_7d": 19,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 60,
+  "launch_signals_7d": 18,
+  "offer_signals_7d": 3,
+  "zeekr_news_7d": 62,
   "offer_page_changes_7d": 6
  },
  "series_30d": [
-  {
-   "date": "2026-10-11",
-   "complaints": 1,
-   "competitor_news": 9,
-   "zeekr_news": 5
-  },
   {
    "date": "2026-10-12",
    "complaints": 1,
@@ -56,7 +50,7 @@
   {
    "date": "2026-10-17",
    "complaints": 1,
-   "competitor_news": 18,
+   "competitor_news": 17,
    "zeekr_news": 9
   },
   {
@@ -122,7 +116,7 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 17,
+   "competitor_news": 16,
    "zeekr_news": 8
   },
   {
@@ -134,20 +128,20 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 21,
+   "competitor_news": 20,
    "zeekr_news": 12
   },
   {
    "date": "2026-10-31",
    "complaints": 3,
    "competitor_news": 10,
-   "zeekr_news": 5
+   "zeekr_news": 4
   },
   {
    "date": "2026-11-01",
    "complaints": 1,
    "competitor_news": 14,
-   "zeekr_news": 8
+   "zeekr_news": 9
   },
   {
    "date": "2026-11-02",
@@ -188,14 +182,20 @@
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 7,
+   "competitor_news": 10,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 12,
-   "zeekr_news": 5
+   "competitor_news": 17,
+   "zeekr_news": 6
+  },
+  {
+   "date": "2026-11-10",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -334,7 +334,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 29,
+   "n_30d": 31,
    "launch": [
     "cfbbbacddbc07cfb",
     "064fcb4c32ef7101",
@@ -349,7 +349,7 @@
    "offer": [
     "36b6bc6c0c756e02"
    ],
-   "latest": "cfbbbacddbc07cfb"
+   "latest": "90370797c634b453"
   },
   "xpeng-g6": {
    "n_30d": 5,
@@ -364,13 +364,13 @@
   "byd-sealion7": {
    "n_30d": 7,
    "launch": [
-    "0740f7c371cf05aa",
-    "851fd88980e959a8"
+    "851fd88980e959a8",
+    "0740f7c371cf05aa"
    ],
    "offer": [
     "5d83041fcade7ace"
    ],
-   "latest": "54b5d83ec5da372d"
+   "latest": "851fd88980e959a8"
   },
   "kia-ev5": {
    "n_30d": 9,
@@ -385,7 +385,7 @@
    "latest": "84c4147998a4e973"
   },
   "hyundai-elexio": {
-   "n_30d": 5,
+   "n_30d": 4,
    "launch": [
     "bcc34f0ed4cf493e",
     "e0ef91f9ec5b5e79"
@@ -535,7 +535,7 @@
    "latest": "baa8632f04c02fdf"
   },
   "polestar-2": {
-   "n_30d": 4,
+   "n_30d": 3,
    "launch": [
     "6550b50254121430",
     "479081910d666025"
@@ -745,6 +745,7 @@
   "denza-b8": {
    "n_30d": 4,
    "launch": [
+    "1c0a7b8c1d32aa15",
     "43eef9656c6878ef",
     "44ff0304dbae118d",
     "20e01fbcd796f263"
@@ -752,7 +753,7 @@
    "offer": [
     "44ff0304dbae118d"
    ],
-   "latest": "43eef9656c6878ef"
+   "latest": "1c0a7b8c1d32aa15"
   },
   "byd-sealion8": {
    "n_30d": 7,
@@ -933,6 +934,16 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "1c0a7b8c1d32aa15",
+   "title": "Australia-bound rugged off-road brand to release Denza B8 PHEV rival",
+   "source": "CarExpert",
+   "t": "2026-11-10T01:51:00+00:00",
+   "competitors": [
+    "denza-b8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "a8af33cd32623473",
    "title": "GAC M8 price and specs: every variant compared - EV Central",
    "source": "Google News · EV Central",
@@ -999,6 +1010,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "851fd88980e959a8",
+   "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-08T08:00:00+00:00",
+   "competitors": [
+    "byd-sealion7"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "cfbbbacddbc07cfb",
    "title": "GWM Haval H7: PHEV-heavy sales forecast following strong pre-launch interest",
    "source": "CarExpert",
@@ -1016,12 +1037,12 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 14,
+   "count": 13,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 36,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1031,7 +1052,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 52,
+   "count": 53,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1046,7 +1067,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 26,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1056,12 +1077,12 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 25,
+   "count": 23,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 27,
+   "count": 29,
    "note": ""
   },
   "gn-evcentral-industry": {
@@ -1125,9 +1146,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1135,9 +1156,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 23,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1147,12 +1168,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1380,9 +1401,9 @@
    "note": ""
   },
   "beep-offers-byd": {
-   "ok": true,
-   "count": 5,
-   "note": ""
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 403; mirror HTTP 500"
   },
   "beep-offers-xpeng": {
    "ok": true,
@@ -1552,7 +1573,7 @@
   "policy-events": {
    "ok": true,
    "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "note": "0 new; 37/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,
@@ -1600,9 +1621,9 @@
    "note": "HTTP 403"
   },
   "offers-byd": {
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "note": "HTTPSConnectionPool(host='ww17.byd.com.au', port=443): Max retries exceeded with url: /offers (Caused by NameResolutionError(\"HTTPSConnectio"
+   "note": "unchanged"
   },
   "offers-hyundai": {
    "ok": true,
