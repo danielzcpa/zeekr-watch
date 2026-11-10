@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T18:35:29+00:00",
- "duration_s": 334.8,
- "items_total": 1466,
- "new_this_run": 171,
+ "generated": "2026-11-10T23:40:42+00:00",
+ "duration_s": 311.5,
+ "items_total": 1467,
+ "new_this_run": 167,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
@@ -11,9 +11,9 @@
   "medium_7d": 1,
   "low_7d": 1,
   "competitor_news_7d": 99,
-  "launch_signals_7d": 18,
+  "launch_signals_7d": 17,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 60,
+  "zeekr_news_7d": 61,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -182,20 +182,20 @@
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 15,
-   "zeekr_news": 6
+   "competitor_news": 17,
+   "zeekr_news": 8
   },
   {
    "date": "2026-11-09",
    "complaints": 0,
    "competitor_news": 16,
-   "zeekr_news": 7
+   "zeekr_news": 6
   },
   {
    "date": "2026-11-10",
    "complaints": 0,
-   "competitor_news": 11,
-   "zeekr_news": 4
+   "competitor_news": 12,
+   "zeekr_news": 5
   }
  ],
  "categories_30d": [
@@ -758,7 +758,7 @@
    "latest": "1c0a7b8c1d32aa15"
   },
   "byd-sealion8": {
-   "n_30d": 7,
+   "n_30d": 8,
    "launch": [
     "477682d9a518ae53",
     "fa15f25f5765628d",
@@ -768,7 +768,7 @@
     "7df177ffe7c98f88"
    ],
    "offer": [],
-   "latest": "ee03d3cd3a6d9790"
+   "latest": "d1d523303073098c"
   },
   "kia-sorento-phev": {
    "n_30d": 1,
@@ -896,7 +896,7 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 6,
+   "n_30d": 4,
    "launch": [
     "e23ca822c454fb48",
     "bd09876b341075d3",
@@ -1049,32 +1049,22 @@
    "competitors": [
     "hyundai-ioniq5"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "cfbbbacddbc07cfb",
-   "title": "GWM Haval H7: PHEV-heavy sales forecast following strong pre-launch interest",
-   "source": "CarExpert",
-   "t": "2026-11-07T21:00:00+00:00",
-   "competitors": [
-    "tesla-model-y"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 72,
+   "count": 73,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 14,
+   "count": 13,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 33,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1084,7 +1074,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 54,
+   "count": 55,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1094,17 +1084,17 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 100,
+   "count": 86,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 22,
+   "count": 23,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 25,
+   "count": 27,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1119,7 +1109,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 61,
+   "count": 60,
    "note": ""
   },
   "carexpert": {
@@ -1200,7 +1190,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 403 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
