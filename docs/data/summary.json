@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T10:58:13+00:00",
- "duration_s": 339.7,
- "items_total": 1463,
- "new_this_run": 185,
+ "generated": "2026-11-10T18:35:29+00:00",
+ "duration_s": 334.8,
+ "items_total": 1466,
+ "new_this_run": 171,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
@@ -10,10 +10,10 @@
   "high_7d": 5,
   "medium_7d": 1,
   "low_7d": 1,
-  "competitor_news_7d": 94,
+  "competitor_news_7d": 99,
   "launch_signals_7d": 18,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 62,
+  "zeekr_news_7d": 60,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
@@ -116,7 +116,7 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 15,
+   "competitor_news": 14,
    "zeekr_news": 8
   },
   {
@@ -128,7 +128,7 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 20,
+   "competitor_news": 18,
    "zeekr_news": 12
   },
   {
@@ -141,13 +141,13 @@
    "date": "2026-11-01",
    "complaints": 1,
    "competitor_news": 14,
-   "zeekr_news": 9
+   "zeekr_news": 8
   },
   {
    "date": "2026-11-02",
    "complaints": 1,
    "competitor_news": 15,
-   "zeekr_news": 11
+   "zeekr_news": 12
   },
   {
    "date": "2026-11-03",
@@ -182,19 +182,19 @@
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 11,
+   "competitor_news": 15,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 17,
+   "competitor_news": 16,
    "zeekr_news": 7
   },
   {
    "date": "2026-11-10",
    "complaints": 0,
-   "competitor_news": 8,
+   "competitor_news": 11,
    "zeekr_news": 4
   }
  ],
@@ -405,7 +405,7 @@
    "latest": "4f333d643e148ba5"
   },
   "polestar-4": {
-   "n_30d": 5,
+   "n_30d": 4,
    "launch": [
     "db98b7fc96217946",
     "a1259168a41994e1",
@@ -478,12 +478,12 @@
    "latest": "647f766d2b549afc"
   },
   "ford-mach-e": {
-   "n_30d": 1,
+   "n_30d": 2,
    "launch": [
     "46093f93b121863e"
    ],
    "offer": [],
-   "latest": "46093f93b121863e"
+   "latest": "f589478c8b013892"
   },
   "skoda-enyaq": {
    "n_30d": 2,
@@ -976,16 +976,6 @@
   },
   {
    "kind": "competitor_launch",
-   "id": "8c9ef38f9af3c4e7",
-   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-09T09:19:31+00:00",
-   "competitors": [
-    "byd-m9"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
    "id": "1af84a334ac544d9",
    "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
    "source": "Google News · EV Central",
@@ -1032,6 +1022,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "8c9ef38f9af3c4e7",
+   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-08T08:00:00+00:00",
+   "competitors": [
+    "byd-m9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "851fd88980e959a8",
    "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
    "source": "Google News · EV Central",
@@ -1064,17 +1064,17 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 71,
+   "count": 72,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 13,
+   "count": 14,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 36,
+   "count": 32,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1084,7 +1084,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 53,
+   "count": 54,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1099,17 +1099,17 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 27,
+   "count": 22,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 24,
+   "count": 25,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1119,7 +1119,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 62,
+   "count": 61,
    "note": ""
   },
   "carexpert": {
@@ -1183,14 +1183,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 23,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1205,7 +1205,7 @@
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
