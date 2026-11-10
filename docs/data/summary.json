@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-10T02:38:46+00:00",
- "duration_s": 341.6,
- "items_total": 1454,
- "new_this_run": 170,
+ "generated": "2026-11-10T10:58:13+00:00",
+ "duration_s": 339.7,
+ "items_total": 1463,
+ "new_this_run": 185,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
-  "complaints_30d": 36,
+  "complaints_30d": 35,
   "high_7d": 5,
   "medium_7d": 1,
   "low_7d": 1,
-  "competitor_news_7d": 102,
+  "competitor_news_7d": 94,
   "launch_signals_7d": 18,
   "offer_signals_7d": 3,
   "zeekr_news_7d": 62,
-  "offer_page_changes_7d": 6
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -116,7 +116,7 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 16,
+   "competitor_news": 15,
    "zeekr_news": 8
   },
   {
@@ -182,20 +182,20 @@
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 10,
+   "competitor_news": 11,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-09",
    "complaints": 0,
    "competitor_news": 17,
-   "zeekr_news": 6
+   "zeekr_news": 7
   },
   {
    "date": "2026-11-10",
    "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 1
+   "competitor_news": 8,
+   "zeekr_news": 4
   }
  ],
  "categories_30d": [
@@ -203,7 +203,7 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 24
+   "n": 23
   },
   {
    "key": "charging",
@@ -227,7 +227,7 @@
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 7
+   "n": 6
   },
   {
    "key": "sales",
@@ -254,7 +254,7 @@
   "7GT": 3
  },
  "sources_30d": {
-  "Google Play (AU)": 15,
+  "Google Play (AU)": 14,
   "Reddit r/Zeekr7xAustralia": 12,
   "Reddit r/AustralianEV": 3,
   "ProductReview.com.au": 2,
@@ -373,7 +373,7 @@
    "latest": "851fd88980e959a8"
   },
   "kia-ev5": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "69780f30556bd85d",
     "7e94a8dd0f108e63",
@@ -442,7 +442,7 @@
     "ca6819fe95ffefd8"
    ],
    "offer": [],
-   "latest": "a589698a5902c673"
+   "latest": "ca6819fe95ffefd8"
   },
   "deepal-s07": {
    "n_30d": 3,
@@ -535,19 +535,21 @@
    "latest": "baa8632f04c02fdf"
   },
   "polestar-2": {
-   "n_30d": 3,
+   "n_30d": 4,
    "launch": [
+    "698a08aad2929bd7",
     "6550b50254121430",
     "479081910d666025"
    ],
    "offer": [
     "9c17ca6e0e68d5e3"
    ],
-   "latest": "6550b50254121430"
+   "latest": "698a08aad2929bd7"
   },
   "byd-seal": {
-   "n_30d": 11,
+   "n_30d": 12,
    "launch": [
+    "56685ff6847bff61",
     "1449d41803c59183",
     "977de602e7893c4e",
     "4362e9a45be33f4e",
@@ -559,7 +561,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "1449d41803c59183"
+   "latest": "56685ff6847bff61"
   },
   "im5": {
    "n_30d": 2,
@@ -934,6 +936,26 @@
  "alerts": [
   {
    "kind": "competitor_launch",
+   "id": "56685ff6847bff61",
+   "title": "BYD Seal 07 DM-i Spotted in Sydney Ahead of Likely 2027 Launch - CarSauce",
+   "source": "Google News · CarSauce",
+   "t": "2026-11-10T09:54:29+00:00",
+   "competitors": [
+    "byd-seal"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "698a08aad2929bd7",
+   "title": "Polestar Formula 2030: Sleek shooting brake concept previews brand's next-gen EVs",
+   "source": "CarExpert",
+   "t": "2026-11-10T08:00:00+00:00",
+   "competitors": [
+    "polestar-2"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "1c0a7b8c1d32aa15",
    "title": "Australia-bound rugged off-road brand to release Denza B8 PHEV rival",
    "source": "CarExpert",
@@ -1020,6 +1042,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "ca6819fe95ffefd8",
+   "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-08T08:00:00+00:00",
+   "competitors": [
+    "hyundai-ioniq5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "cfbbbacddbc07cfb",
    "title": "GWM Haval H7: PHEV-heavy sales forecast following strong pre-launch interest",
    "source": "CarExpert",
@@ -1032,7 +1064,7 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 74,
+   "count": 71,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1042,7 +1074,7 @@
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 36,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1067,27 +1099,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 26,
+   "count": 27,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 27,
+   "count": 24,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 23,
+   "count": 24,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 29,
+   "count": 28,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 61,
+   "count": 62,
    "note": ""
   },
   "carexpert": {
@@ -1146,9 +1178,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1156,9 +1188,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 23,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1168,12 +1200,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1401,9 +1433,9 @@
    "note": ""
   },
   "beep-offers-byd": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 403; mirror HTTP 500"
+   "ok": true,
+   "count": 5,
+   "note": ""
   },
   "beep-offers-xpeng": {
    "ok": true,
@@ -1573,7 +1605,7 @@
   "policy-events": {
    "ok": true,
    "count": 0,
-   "note": "0 new; 37/38 feeds ok"
+   "note": "0 new; 38/38 feeds ok"
   },
   "offers-volvo": {
    "ok": false,

@@ -1,5 +1,355 @@
 [
  {
+  "id": "56685ff6847bff61",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGlKN0czZlB2QjgzY0ZLUXBZLWtaSjRnU0VFZmpTN3lsaXNseG1hQnRsdVo0T0VWRk0zNDZRaWpvOUs1T0hwaFNxUWY1UVNvbGdlcklNbmk4ZUp1SENrcXBpSjc2b1V3QVNQQy1rTEJxaEF3Zm00REs2dHRPa1dGYXln?oc=5",
+  "title": "BYD Seal 07 DM-i Spotted in Sydney Ahead of Likely 2027 Launch - CarSauce",
+  "text": "BYD Seal 07 DM-i Spotted in Sydney Ahead of Likely 2027 Launch CarSauce",
+  "author": "",
+  "published": "2026-11-10T09:54:29+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-seal"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "698a08aad2929bd7",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/polestar-formula-2030-sleek-shooting-brake-concept-previews-brands-next-gen-evs",
+  "title": "Polestar Formula 2030: Sleek shooting brake concept previews brand's next-gen EVs",
+  "text": "Polestar has finally revealed its Formula 2030 design study, a high-performance four-door electric shooting brake concept that's said to preview the designs of the brand's upcoming models, while also paying homage to its existing and past vehicles. Said to be the \"physical manifestation\" of the brand's 'Formula 2030' future design strategy, the concept previews the next generation of the Swedish brand's design language, and is said to feature \"various design attributes\" from the next Polestar 2 and upcoming Polestar 7 . The \"four-door sports car\" measures just 4680mm long but 2021mm wide on a 2780mm wheelbase, with a 1350mm roofline that's even lower than that of the existing Polestar 5 electric GT. Up front, the latest interpretation of Polestar's signature Dual Blade headlights preview the face of the next-generation Polestar 2 due in 2027 , while the wraparound windscreen and single vertically oriented wiper pays homage to the original (current) Polestar 2. The sculpted rear-end debuts a new Single Blade tail-light signature, moving away from the rear light bar treatment that adorns all members of the brand's existing model range. According to Polestar's head of design, Phillip",
+  "author": "James Wong",
+  "published": "2026-11-10T08:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "3b89cb8a621426df",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · SoyaCincau",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mV0xOdTdTZlFKbVZtTlhobVN6QktOQXpfRDB5SHdQbmFJbzNWTHhaOTFRaUo0RkdQSE5PcV83RmRPWmRkS2lUNDFpN0NtZzhpWXVoeFhKMVZZdHE4OXltU3hqeDNPUHFZOXAxdzBHLWtUcmxjekNfUnpiSGJTZw?oc=5",
+  "title": "Zeekr 009 with 800V architecture coming to Malaysia by end-2026, featuring swivel seats and 31-speaker Naim audio - SoyaCincau",
+  "text": "Zeekr 009 with 800V architecture coming to Malaysia by end-2026, featuring swivel seats and 31-speaker Naim audio SoyaCincau",
+  "author": "",
+  "published": "2026-11-10T07:09:30+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "8398b835376d2a02",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHdhanBXd1pDUnJsR1U0el84amZQcTNnczQtRldLbmtXd18tWnhDcndiZVlQX1hqalRoa3ZvZVNxcm5heFZfNDZiaVA2VGI2aEExZEJZaUxON0x3X1FVVDB1aVFtLW5EQXRZV09fNkNoakEwT2h1M0hsOXFScngwWjlGRQ?oc=5",
+  "title": "2027 BYD Atto 8 Revealed With Claimed Nine-Minute Charging - CarSauce",
+  "text": "2027 BYD Atto 8 Revealed With Claimed Nine-Minute Charging CarSauce",
+  "author": "",
+  "published": "2026-11-10T06:44:28+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "87ccaec8b5523909",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/aussie-fuel-rip-off-service-station-chain-allegedly-sold-91-octane-petrol-as-premium-98",
+  "title": "Aussie fuel rip-off: Service station chain allegedly sold 91-octane petrol as premium 98",
+  "text": "A service station chain in Western Australia is facing court action for allegedly selling regular 91-octane unleaded petrol as more expensive 98-octane premium fuel, amounting to what the Consumer Protection Agency (CPA) described as a “massive breach of trust”. According to the ABC , the CPA ordered independent testing of fuel samples taken from the Burk service station chain, which operates 14 locations across Perth and regional WA. It said all the samples of fuel sold as ‘B-Pro Premium 98’ came back as regular 91RON unleaded petrol. Regular unleaded is not suitable for all cars, such as the Toyota RAV4 hybrid, Australia's top-selling SUV, which requires at least 95-octane premium unleaded. Customers also pay more for 98- and 95-octane petrol than regular 91-octane unleaded. According to the Australian Competition and Consumer Commission (ACCC), the average price of 98-octane fuel compared to 91-octane is between 20-25 cents per litre. This equates to customers paying up to $13.75 more per fill-up in a RAV4, which has a 55-litre fuel tank across all current hybrid vehicles. The news comes as Australian motorists continue to face high fuel prices following record petrol and diesel",
+  "author": "Damion Smy",
+  "published": "2026-11-10T06:13:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "delivery",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_rise"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "375a5636bf366a70",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Harper's Bazaar Australia",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PUEVpWGlUM2JIOTJJZzlrYlQ3YUZfVTVBaU1JOFE2SXVZYVVtUVhGVDdSLTRmNXFsNjB4WHV3UlV4UnUxQmFVSHg0aWNEbDREQ1BCRE9GRFpjbkZrNkpXN0kzdzJqcGdzR0pVX2h4dS1sbjBiY3c?oc=5",
+  "title": "The Zeekr X Sets Out On A Roadtrip | Zeekr X Review - Harper's Bazaar Australia",
+  "text": "The Zeekr X Sets Out On A Roadtrip | Zeekr X Review Harper's Bazaar Australia",
+  "author": "",
+  "published": "2026-11-10T04:44:27+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "f265562e34210c19",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/10/tesla-hits-200000-electric-vehicle-deliveries-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-hits-200000-electric-vehicle-deliveries-in-australia",
+  "title": "Tesla hits 200,000 electric vehicle deliveries in Australia",
+  "text": "Tesla has delivered 200,000 electric vehicles in Australia, reaching the milestone as it heads towards its strongest annual sales result yet. The post Tesla hits 200,000 electric vehicle deliveries in Australia appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-11-10T04:24:40+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "780bb6d2bd614f21",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/im6-performance-this-kind-of-performance-and-technology-should-cost-a-lot-more",
+  "title": "IM6 Performance: This kind of performance and technology should cost a lot more",
+  "text": "SPONSORED There was a time when buying a properly sophisticated performance SUV meant heading directly to one of the established European premium brands and arriving armed with a pretty substantial budget. The IM6 Performance makes you question whether that still needs to be the case. It's the latest offering from IM Motors, a new premium electric vehicle brand backed by automotive giant SAIC Motor, the same global powerhouse behind MG. But while MG has made its name on value, IM Motors is taking things up a notch, with a focus on sophisticated design, luxury and cutting-edge technology. In fact, IM stands for Intelligence in Motion, and the IM6 Performance is a pretty convincing demonstration of that philosophy. Because beneath the sleek bodywork of this large electric SUV is an extraordinary suite of technology: dual electric motors producing 572kW of power and 802Nm of torque, all-wheel drive, intelligent four-wheel steering, a digital chassis, adaptive air suspension, continuously controlled damping, and an 800-volt electrical architecture capable of charging at up to 396kW, providing a 30-80 per cent charge in just over 15 minutes*. And it’ll demolish the 0-100km/h sprint in j",
+  "author": "Anthony Crawford",
+  "published": "2026-11-10T04:09:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "im"
+  ],
+  "categories": [
+   "quality",
+   "charging",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "e0710940063a0462",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-gwm-haval-h7-review",
+  "title": "2027 GWM Haval H7 review",
+  "text": "Is it a Jeep, or a Land Rover? No, it's a... GWM! The new 2027 GWM Haval H7 has arrived in Australia and it's a proper departure from its unloved predecessor. Gone are the bulgy 'Big Dog' looks in favour of a square, boxy mid-size SUV that has a very classic off-roader vibe about it, and it comes exclusively with electrified powertrains – both hybrid (HEV) and plug-in hybrid (PHEV). Not to accuse anyone of copying, but there are pretty distinct hints of Land Rover Defender and Jeep Wrangler about the design, which certainly should appeal to Australia's more adventurous SUV buyer demographic. Similarities with existing off-road icons or not, the new H7 has certainly resonated with buyers, at least according to GWM, which has reported record pre-launch interest – more than any other GWM model before it, in fact. Part of the reason for that is likely the price – you can get into one of these for as little as $45,990 drive-away, while the PHEV kicks off from $49,990 drive-away. But those thinking this is a cheap, hybridised rival for the Toyota Prado will need to think again, because the new H7 is more or less a Chinese-market Haval H6L – a monocoque (car-based) medium SUV that's more",
+  "author": "James Wong",
+  "published": "2026-11-10T03:06:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota",
+   "land rover"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
+  "id": "441fb30da5001b48",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · www.goauto.com.au",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEc0cEVxSWlwTmhHQzRRLW5uLWkzUFVrTmVubDNDU2JMRHpXTTlQWEM5ejdkcTlqVmRUZlExR1ctQllYejRhQzVYQWdhdm1ETWtvcmVHS1lwcmhOV25acXpKZWVRQ3Nac0UyZklFUjV0OTdkVkNRX2dTV1VqZHY3Z2J6bWRHUXFtSnp4UlZCVW9yUVV4VEt3UjF0VlNSUnZQYWFaamp3?oc=5",
+  "title": "Exlantix eyes Zeekr amid Chery R&D push - www.goauto.com.au",
+  "text": "Exlantix eyes Zeekr amid Chery R&D push www.goauto.com.au",
+  "author": "",
+  "published": "2026-11-10T02:12:41+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
   "id": "b5d94c8e0a08ad2c",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -739,6 +1089,37 @@
   "first_seen": "2026-11-10T02:38:46+00:00"
  },
  {
+  "id": "842fb16952cb4b87",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNLUNvZ1ZWbGx1MC1ubWZHM0NGbGFnRVBScDc4UmpaMWVQdzZrM3VOa1puckxLZDZaWmtINlhXcW1aS1N1UkJ0VG1pQzVYOERPMUlBTHRkMUhmV1pn?oc=5",
+  "title": "Why I chose the Subaru Trailseeker Over Zeekr and XPeng - YouTube",
+  "text": "Why I chose the Subaru Trailseeker Over Zeekr and XPeng YouTube",
+  "author": "",
+  "published": "2026-11-09T03:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-10T10:58:13+00:00"
+ },
+ {
   "id": "f1f612b1e5600be8",
   "type": "competitor_news",
   "source": "carexpert",
@@ -1402,6 +1783,41 @@
   "first_seen": "2026-10-15T12:49:04+00:00"
  },
  {
+  "id": "ca6819fe95ffefd8",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
+  "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
+  "text": "Hyundai IONIQ 5 review: every 2026 variant, price and specs EV Central",
+  "author": "",
+  "published": "2026-11-08T08:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "hyundai-ioniq5"
+  ],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-14T23:07:25+00:00"
+ },
+ {
   "id": "c3883f6c7ebff734",
   "type": "competitor_news",
   "source": "thedriven",
@@ -1475,7 +1891,7 @@
  {
   "id": "c1152ec04e5eeaf3",
   "type": "news_zeekr",
-  "source": "gn-brands-eu",
+  "source": "gn-brands-cn",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjZlWi1odjVfZmhWZ2k1RkVQMXlpcW1zYjZzY2RzdkwwenlfV3Y2bEZiZFRtd21SLV81QVhiU3VKT013c2RPaVRESUR4WVlvZ0tZZmNwakJ0U2tZUVVkYlpCZ3hoeGhfc2JEaF9fOXZsazJpNVBsVUVnMlNOSGNhS0dweTNxaExQc2k0MEk1RFZYNFVvZm5Zemo2S1E?oc=5",
   "title": "Zeekr 7X to face fresh rival on price, not size - Drive",
@@ -12592,41 +13008,6 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-19T00:25:32+00:00"
- },
- {
-  "id": "ca6819fe95ffefd8",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Wi0zMHN4Y3pfNUJIbUo4NWpWaC1JRUlhM0twYWluZUl4RDlKTjdZNEo3a0NkVmdWMUFGUFJ2NHhiZ0NNZ1N0T2dnM3Z6RDI4d1YtYVZ6MVY3UQ?oc=5",
-  "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
-  "text": "Hyundai IONIQ 5 review: every 2026 variant, price and specs EV Central",
-  "author": "",
-  "published": "2026-10-28T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "hyundai-ioniq5"
-  ],
-  "brands": [
-   "hyundai"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-14T23:07:25+00:00"
  },
  {
   "id": "06fa47391abc61ff",
@@ -36949,7 +37330,7 @@
  {
   "id": "117ec150938e761d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCN05CdlZ5X0YxaFBkUWhDUy1rVElZcjNVVmJ1cnV6RHRCU2llbng0NW9ENmJyUHM4U0lGTDByUzdSU0YzeHZpWE02UGRtd0tsdm5vdUdyWFF4LW1nTHV5NmFUV1NJU2pZYUFQd1BTZw?oc=5",
   "title": "‘What I wish I knew before buying a Zeekr 7X’ - Drive",
@@ -36972,7 +37353,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -38750,7 +39131,7 @@
  {
   "id": "d8077d87495f3358",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · CarExpert",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTlYdnJfRmFmQzNOcHFzVlpwU2s1MHBJbUZYNmFFRTIzWVFmWlktaWVLU3JVTWtjNmFSR0VvUEpENVYzSlVHVnpKVXJYb1o5UnVWcUY0QmYweFhkZEhIM1A0OXAtNUxKbFRNU2lrYS1yRXM2Tjd6RGw4NGZ3b0VDNUJ4V0piaTc5d3VVWEE3YVNpbjNWVjN4SVlOU09jVHBVcDZyX3Z5RU5IVjZpQ0d0LXBHcVU?oc=5",
   "title": "2027 Zeekr 7GT: Australian arrival timing locked in for electric sports wagon - CarExpert",
@@ -38775,7 +39156,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -43013,7 +43394,7 @@
  {
   "id": "e3c2e69d9dcac475",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDN1bFBpaXVzREg2TmdOWjZONzJDVDVpa2NZSXZ2UFdOTXYtRkdJam41Q1k1UDJBRjNXRTFsRjJUV09oZ284ZUE2dUpBM1ZNdW5JTGJsU1ZURkwzQ19COGpmbzNubmplU1NXMVlxN0tHdw?oc=5",
   "title": "Here’s exactly how long you’ll be waiting if you buy a Zeekr 7X today - Drive",
@@ -43038,7 +43419,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
@@ -48721,7 +49102,7 @@
  {
   "id": "b8864caa4cd6373d",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-complaint",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDg3ZnNCejJhV0stbm4wMWE0TFI1TTlxQU5EZU9XSjRoRWpDTDdETkMzcVlBOWRhc1pkV0VCRm4wZ3FrU2ZmTmxHUmhXZEhTSDZQWGhUbVgxUk0zaDktZFhicEVXZVgzTERNTk5ueWhvVkxXUDkyXzV2UVdNOWp6U1gzbkl6LW9GUHItd0h0TFZNQ2p0ZlZsejNqNGtWRi1iUjk2dlhwZFJwVERMRzBPcm54S0JLUQ?oc=5",
   "title": "We want your help to review the Zeekr 7X - Drive",
@@ -48744,7 +49125,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr",
+  "scope": "zeekr_complaint",
   "au": false,
   "extra": {},
   "first_seen": "2026-10-20T16:48:02+00:00"
@@ -50019,72 +50400,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "fc44d423515213d0",
-  "type": "complaint",
-  "source": "reddit-CarsAustralia",
-  "source_name": "Reddit r/CarsAustralia",
-  "url": "https://www.reddit.com/r/CarsAustralia/comments/1tctdy0/is_it_over_for_genesis_australia_when_zeekr_drops/",
-  "title": "Is it over for Genesis Australia when Zeekr drops their 8X and 9X cars?",
-  "text": "Genesis Australia has been quietly struggling for years, but the arrival of Zeekr’s 8X and 9X could be the final blow. With just 464 total sales in the first four months of 2026, a GV60 that has sold 3 cars all year, and Zeekr already outselling the entire Genesis lineup 6:1 with just one model, the numbers tell a brutal story. The 8X and 9X haven’t even landed yet.",
-  "author": "/u/DarkFourze",
-  "published": "2026-05-14T09:51:22+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "8X",
-   "9X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [
-   "software"
-  ],
-  "sentiment": {
-   "score": -1,
-   "neg_hits": 1,
-   "pos_hits": 0,
-   "label": "negative"
-  },
-  "severity": "low",
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "4690a874bfbc3086",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-au",
-  "source_name": "Google News · Carsales",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlYyS1BGOFdkT2tKWFMyZVh1ZlVUa1ZvM0JnZFFGX3JpNHdIV2c1c0pCVHlDaVRwWWFweTJYMHpXUEtnc1NjaTQ4cmxkeG9Kc2E2N2phUEJQakg4eHE5aF9EVVI4YkU4azZFM2Yyb015V2w2c2FvOEVnOHVjU0k0bUtudnQ1UWx2V204bFVGTUpmNTIzaVdzQWF6eDF6SGRrZnc?oc=5",
-  "title": "Zeekr bets on 7GT wagon rather than big sedans - Carsales",
-  "text": "Zeekr bets on 7GT wagon rather than big sedans Carsales",
-  "author": "",
-  "published": "2026-05-14T07:00:00+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7GT"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-20T16:48:02+00:00"
  }
 ]
