@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-11T05:54:52+00:00",
- "duration_s": 309.0,
- "items_total": 1477,
- "new_this_run": 177,
+ "generated": "2026-11-11T14:00:04+00:00",
+ "duration_s": 350.2,
+ "items_total": 1483,
+ "new_this_run": 181,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 7,
+  "complaints_7d": 6,
   "complaints_30d": 35,
-  "high_7d": 5,
+  "high_7d": 4,
   "medium_7d": 1,
   "low_7d": 1,
-  "competitor_news_7d": 99,
-  "launch_signals_7d": 17,
+  "competitor_news_7d": 109,
+  "launch_signals_7d": 22,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 56,
-  "offer_page_changes_7d": 4
+  "zeekr_news_7d": 53,
+  "offer_page_changes_7d": 3
  },
  "series_30d": [
   {
@@ -110,25 +110,25 @@
   {
    "date": "2026-10-28",
    "complaints": 0,
-   "competitor_news": 14,
+   "competitor_news": 13,
    "zeekr_news": 8
   },
   {
    "date": "2026-10-29",
    "complaints": 0,
-   "competitor_news": 12,
+   "competitor_news": 13,
    "zeekr_news": 4
   },
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 18,
+   "competitor_news": 17,
    "zeekr_news": 12
   },
   {
    "date": "2026-10-31",
    "complaints": 3,
-   "competitor_news": 10,
+   "competitor_news": 9,
    "zeekr_news": 4
   },
   {
@@ -140,13 +140,13 @@
   {
    "date": "2026-11-02",
    "complaints": 1,
-   "competitor_news": 15,
+   "competitor_news": 14,
    "zeekr_news": 12
   },
   {
    "date": "2026-11-03",
    "complaints": 2,
-   "competitor_news": 27,
+   "competitor_news": 26,
    "zeekr_news": 7
   },
   {
@@ -182,19 +182,19 @@
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 16,
+   "competitor_news": 25,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-10",
    "complaints": 0,
-   "competitor_news": 12,
+   "competitor_news": 13,
    "zeekr_news": 6
   },
   {
    "date": "2026-11-11",
    "complaints": 0,
-   "competitor_news": 9,
+   "competitor_news": 11,
    "zeekr_news": 0
   }
  ],
@@ -280,7 +280,7 @@
    "latest": "93695976e0a8ea29"
   },
   "smart-3": {
-   "n_30d": 0,
+   "n_30d": 1,
    "launch": [
     "66d89eaf334c1bb2"
    ],
@@ -288,7 +288,7 @@
    "latest": "66d89eaf334c1bb2"
   },
   "mini-aceman": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [],
    "offer": [],
    "latest": "1271814d7dd366de"
@@ -501,8 +501,9 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 9,
+   "n_30d": 10,
    "launch": [
+    "6c8da9fc04a93fde",
     "9443a47dfbdd8ef2",
     "06fa47391abc61ff",
     "0ea6624a635cd203",
@@ -516,7 +517,7 @@
     "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
-   "latest": "9443a47dfbdd8ef2"
+   "latest": "6c8da9fc04a93fde"
   },
   "tesla-model-3": {
    "n_30d": 25,
@@ -617,7 +618,7 @@
    "latest": "37c27ec512d23c97"
   },
   "xpeng-p7": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [
     "ae42ba43dffef44c"
    ],
@@ -639,7 +640,7 @@
    "latest": "b3518908fd266851"
   },
   "xpeng-x9": {
-   "n_30d": 10,
+   "n_30d": 9,
    "launch": [
     "2c8e385c13663939",
     "59331c007457eaac"
@@ -784,7 +785,7 @@
    "latest": "df6a2d5ce66b8d3d"
   },
   "kia-ev9": {
-   "n_30d": 7,
+   "n_30d": 6,
    "launch": [
     "2c67435d1d334093",
     "b5c47101ca081290",
@@ -798,7 +799,7 @@
    "latest": "b7a4d688b70eac9c"
   },
   "xpeng-g9l": {
-   "n_30d": 15,
+   "n_30d": 14,
    "launch": [
     "9fe67c888fe6cda7",
     "d7c532d0efb387ba",
@@ -861,8 +862,9 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "26d9d3952c5a1280",
     "d267055a6c3273cb",
     "2c67435d1d334093",
     "205ea3973e46d6d4",
@@ -872,7 +874,7 @@
    "offer": [
     "d03e92850d21bd42"
    ],
-   "latest": "d267055a6c3273cb"
+   "latest": "26d9d3952c5a1280"
   },
   "bmw-ix": {
    "n_30d": 0,
@@ -887,14 +889,15 @@
    "latest": "a945902521f2d934"
   },
   "yangwang-u8": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
+    "26f6e7fb82389472",
     "b89e8f752e996826",
     "f658b7a5cfd318c7",
     "f05fc111c7ac03b7"
    ],
    "offer": [],
-   "latest": "b89e8f752e996826"
+   "latest": "26f6e7fb82389472"
   },
   "audi-q9": {
    "n_30d": 0,
@@ -951,6 +954,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "6c8da9fc04a93fde",
+   "title": "2027 Deepal S05 confirmed for Australian launch, will rival 2026 BYD Atto 3, Geely EX5 affordable electric SUVs - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-11-11T05:30:00+00:00",
+   "competitors": [
+    "geely-ex5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "b964e806819bb2d5",
    "title": "BYD end-of-year deals include thousands off Shark 6, Sealion 7, plus novated lease discounts",
    "source": "CarExpert",
@@ -983,6 +996,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "26f6e7fb82389472",
+   "title": "2026 Yangwang U8 debuts BYD's robotic arm EV charger to rival Chery, Xiaomi, Huawei and more - CarsGuide",
+   "source": "Google News · CarsGuide",
+   "t": "2026-11-10T04:05:42+00:00",
+   "competitors": [
+    "yangwang-u8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "1c0a7b8c1d32aa15",
    "title": "Australia-bound rugged off-road brand to release Denza B8 PHEV rival",
    "source": "CarExpert",
@@ -1003,6 +1026,26 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "66d89eaf334c1bb2",
+   "title": "Smart #3 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T09:19:31+00:00",
+   "competitors": [
+    "smart-3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "db98b7fc96217946",
+   "title": "Polestar 4 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T09:19:28+00:00",
+   "competitors": [
+    "polestar-4"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "1af84a334ac544d9",
    "title": "BYD Atto 3 Evo review: every 2026 variant, price and specs - EV Central",
    "source": "Google News · EV Central",
@@ -1013,12 +1056,32 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "477682d9a518ae53",
+   "title": "BYD Sealion 8 price and specs: every 2026 variant compared - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T09:19:25+00:00",
+   "competitors": [
+    "byd-sealion8"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "1449d41803c59183",
    "title": "BYD Seal 6 DM-i price and specs: every 2026 variant compared - EV Central",
    "source": "Google News · EV Central",
    "t": "2026-11-09T09:19:23+00:00",
    "competitors": [
     "byd-seal"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "26d9d3952c5a1280",
+   "title": "Volvo EX90 review: every 2026 variant, price and specs - EV Central",
+   "source": "Google News · EV Central",
+   "t": "2026-11-09T09:19:22+00:00",
+   "competitors": [
+    "volvo-ex90"
    ]
   },
   {
@@ -1038,50 +1101,12 @@
    "title_en": "Zecar (all-brand offers) offer page changed (+3 / −4 lines)",
    "source": "https://zecar.com/offers-and-deals",
    "t": "2026-11-09T01:58:49+00:00"
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "243e50532de23ddd",
-   "title": "Zecar (all-brand offers) 官网政策页面变化（+5 / −3 行）",
-   "title_en": "Zecar (all-brand offers) offer page changed (+5 / −3 lines)",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-11-08T13:17:53+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "8c9ef38f9af3c4e7",
-   "title": "BYD M9 price and specs: every 2026 variant compared - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-08T08:00:00+00:00",
-   "competitors": [
-    "byd-m9"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "851fd88980e959a8",
-   "title": "BYD Sealion 7 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-08T08:00:00+00:00",
-   "competitors": [
-    "byd-sealion7"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "ca6819fe95ffefd8",
-   "title": "Hyundai IONIQ 5 review: every 2026 variant, price and specs - EV Central",
-   "source": "Google News · EV Central",
-   "t": "2026-11-08T08:00:00+00:00",
-   "competitors": [
-    "hyundai-ioniq5"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 73,
+   "count": 70,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1091,7 +1116,7 @@
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 35,
+   "count": 33,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1116,7 +1141,7 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 25,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1136,7 +1161,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 62,
+   "count": 56,
    "note": ""
   },
   "carexpert": {
@@ -1195,9 +1220,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1205,9 +1230,9 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 23,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1217,12 +1242,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1266,7 +1291,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 28,
+   "count": 0,
    "note": ""
   },
   "playstore-android": {
@@ -1722,7 +1747,7 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 44,
-   "note": "changed"
+   "note": "unchanged"
   },
   "offers-thebeep-offers": {
    "ok": false,
