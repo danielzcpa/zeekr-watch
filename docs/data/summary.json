@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T23:40:42+00:00",
- "duration_s": 311.5,
- "items_total": 1467,
- "new_this_run": 167,
+ "generated": "2026-11-11T05:54:52+00:00",
+ "duration_s": 309.0,
+ "items_total": 1477,
+ "new_this_run": 177,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 7,
@@ -12,17 +12,11 @@
   "low_7d": 1,
   "competitor_news_7d": 99,
   "launch_signals_7d": 17,
-  "offer_signals_7d": 3,
-  "zeekr_news_7d": 61,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 56,
   "offer_page_changes_7d": 4
  },
  "series_30d": [
-  {
-   "date": "2026-10-12",
-   "complaints": 1,
-   "competitor_news": 19,
-   "zeekr_news": 10
-  },
   {
    "date": "2026-10-13",
    "complaints": 2,
@@ -182,7 +176,7 @@
   {
    "date": "2026-11-08",
    "complaints": 1,
-   "competitor_news": 17,
+   "competitor_news": 18,
    "zeekr_news": 8
   },
   {
@@ -195,7 +189,13 @@
    "date": "2026-11-10",
    "complaints": 0,
    "competitor_news": 12,
-   "zeekr_news": 5
+   "zeekr_news": 6
+  },
+  {
+   "date": "2026-11-11",
+   "complaints": 0,
+   "competitor_news": 9,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -316,16 +316,18 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "b964e806819bb2d5",
     "1af84a334ac544d9",
     "0148c4f0c14b8662",
     "37c34a9709de995f"
    ],
    "offer": [
+    "b964e806819bb2d5",
     "37c34a9709de995f"
    ],
-   "latest": "1af84a334ac544d9"
+   "latest": "b964e806819bb2d5"
   },
   "mb-eqa": {
    "n_30d": 0,
@@ -334,7 +336,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 31,
+   "n_30d": 30,
    "launch": [
     "cfbbbacddbc07cfb",
     "064fcb4c32ef7101",
@@ -352,7 +354,7 @@
    "latest": "90370797c634b453"
   },
   "xpeng-g6": {
-   "n_30d": 5,
+   "n_30d": 4,
    "launch": [
     "6a4c860a7340b58c",
     "1ded87a0f1ae20c9",
@@ -362,15 +364,17 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 7,
+   "n_30d": 9,
    "launch": [
+    "b964e806819bb2d5",
     "851fd88980e959a8",
     "0740f7c371cf05aa"
    ],
    "offer": [
+    "b964e806819bb2d5",
     "5d83041fcade7ace"
    ],
-   "latest": "851fd88980e959a8"
+   "latest": "515e2e29476b63a3"
   },
   "kia-ev5": {
    "n_30d": 8,
@@ -515,7 +519,7 @@
    "latest": "9443a47dfbdd8ef2"
   },
   "tesla-model-3": {
-   "n_30d": 24,
+   "n_30d": 25,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -532,10 +536,10 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "baa8632f04c02fdf"
+   "latest": "392cb52ea11ae011"
   },
   "polestar-2": {
-   "n_30d": 4,
+   "n_30d": 6,
    "launch": [
     "698a08aad2929bd7",
     "6550b50254121430",
@@ -544,7 +548,7 @@
    "offer": [
     "9c17ca6e0e68d5e3"
    ],
-   "latest": "698a08aad2929bd7"
+   "latest": "894dd714e828e0ff"
   },
   "byd-seal": {
    "n_30d": 12,
@@ -758,8 +762,9 @@
    "latest": "1c0a7b8c1d32aa15"
   },
   "byd-sealion8": {
-   "n_30d": 8,
+   "n_30d": 9,
    "launch": [
+    "b964e806819bb2d5",
     "477682d9a518ae53",
     "fa15f25f5765628d",
     "0148c4f0c14b8662",
@@ -767,8 +772,10 @@
     "25bf1b85357981b9",
     "7df177ffe7c98f88"
    ],
-   "offer": [],
-   "latest": "d1d523303073098c"
+   "offer": [
+    "b964e806819bb2d5"
+   ],
+   "latest": "b964e806819bb2d5"
   },
   "kia-sorento-phev": {
    "n_30d": 1,
@@ -935,6 +942,26 @@
  },
  "alerts": [
   {
+   "kind": "offer_page_change",
+   "id": "59e0f65e88778dd3",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+1 / −1 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+1 / −1 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-11-11T05:59:59+00:00"
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "b964e806819bb2d5",
+   "title": "BYD end-of-year deals include thousands off Shark 6, Sealion 7, plus novated lease discounts",
+   "source": "CarExpert",
+   "t": "2026-11-11T00:09:00+00:00",
+   "competitors": [
+    "byd-atto3",
+    "byd-sealion7",
+    "byd-sealion8"
+   ]
+  },
+  {
    "kind": "competitor_launch",
    "id": "56685ff6847bff61",
    "title": "BYD Seal 07 DM-i Spotted in Sydney Ahead of Likely 2027 Launch - CarSauce",
@@ -1064,7 +1091,7 @@
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 33,
+   "count": 35,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1074,7 +1101,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 55,
+   "count": 54,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1084,17 +1111,17 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 86,
+   "count": 85,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 23,
+   "count": 25,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 27,
+   "count": 29,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1104,12 +1131,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 28,
+   "count": 29,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 60,
+   "count": 62,
    "note": ""
   },
   "carexpert": {
@@ -1168,14 +1195,14 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-Zeekr": {
    "ok": true,
    "count": 50,
    "note": "anonymous RSS"
+  },
+  "reddit-Zeekr": {
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
    "ok": false,
@@ -1190,7 +1217,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 403 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1695,7 +1722,7 @@
   "offers-zecar-offers": {
    "ok": true,
    "count": 44,
-   "note": "unchanged"
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

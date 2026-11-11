@@ -1,5 +1,18 @@
 [
  {
+  "id": "59e0f65e88778dd3",
+  "key": "zecar-offers",
+  "brand": "Zecar (all-brand offers)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-11-11T05:59:59+00:00",
+  "added": [
+   "· 36 active offers"
+  ],
+  "removed": [
+   "· 35 active offers"
+  ]
+ },
+ {
   "id": "9edb50303a325259",
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",

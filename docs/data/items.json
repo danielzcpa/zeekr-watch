@@ -1,5 +1,325 @@
 [
  {
+  "id": "392cb52ea11ae011",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/this-is-a-tesla-model-3-hoffman-badger-turns-ev-sedan-into-an-11-seat-electric-bus/",
+  "title": "This is a Tesla Model 3? Hoffman Badger turns EV sedan into an 11-seat electric bus",
+  "text": "Hoffman Badger transforms a used Tesla Model 3 into an 11-seat electric minibus with removable body panels, with US sales targeted for 2027. The post This is a Tesla Model 3? Hoffman Badger turns EV sedan into an 11-seat electric bus appeared first on EV Central .",
+  "author": "Bruce Newton",
+  "published": "2026-11-11T05:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 3,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "72600439cf9fedd0",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/ford-battery-life-study-mustang-mach-e-degredation-capacity",
+  "title": "Huge battery life study covering 3.2 billion kilometres is great news for EV owners",
+  "text": "Ford has analysed battery health data from more than 36,000 EVs, revealing encouraging results after five years of usage. The post Huge battery life study covering 3.2 billion kilometres is great news for EV owners first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-11T04:51:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "ford"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "894dd714e828e0ff",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/11/polestar-formula-2030-concept-previews-next-polestar-2-and-polestar-7/?utm_source=rss&utm_medium=rss&utm_campaign=polestar-formula-2030-concept-previews-next-polestar-2-and-polestar-7",
+  "title": "Polestar Formula 2030 concept previews next Polestar 2 and Polestar 7",
+  "text": "Physical buttons and a rear window return in Polestar’s Formula 2030 concept, offering a glimpse of what’s in store for the next-generation Polestar 2 and the upcoming Polestar 7. The post Polestar Formula 2030 concept previews next Polestar 2 and Polestar 7 appeared first on The Driven.",
+  "author": "Joshua S. Hill",
+  "published": "2026-11-11T04:29:03+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "9ea64651691cecac",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/audi-a2-e-tron-compact-ev-firming-for-australia",
+  "title": "Audi A2 e-tron: Compact EV firming for Australia",
+  "text": "Audi Australia says it's actively evaluating what the A2 e-tron lineup would look like Down Under, all but confirming the electric hatchback for a local introduction next year. Speaking with CarExpert at the launch of the new Audi RS5 in Tasmania, head of product for the German premium marque's local arm, Matthew Dale, says the A2 e-tron is \"a significant opportunity\". \"We do have plans to to look at a lower EV in our range. There is a market for that in the Australian market as we speak right now,\" Mr Dale said. \"There are competitors that have great products in that market, priced extremely competitively. So we're looking at currently what the drivetrains are, what the specification might be to suit the Australian consumer, what those plans are in kind of permanent form – but we can't tell you yet. \"There's a whole heap of drivetrains as well in terms of power outputs, battery sizes; so that's something that the team are obviously looking at quite closely. \"We'll have a confirmation shortly when that's done too, hopefully get the car to the Australian market because it is a hotly contested market at that end of the EV range,\" Mr Dale continued. \"The other thing to note as well is",
+  "author": "James Wong",
+  "published": "2026-11-11T03:16:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "82ef0628eca78f7b",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2VkY253ZnoyZFBEU3JTdzNsaDBrX3dRS2hUSVpBb3RtTFpxUUZRUUw5NXJVRzFBbkItYkd1LUt3WkNYdHpSRkMzWWZtX19oaDRPVXlqZGw3anc1dlBXaThMY1BzY2pRLUNJZ0R1eWRmNTAzeGlFNUpEZ1RZdGxjdFg0QlRUZGZEaTBwX01jZG4?oc=5",
+  "title": "Hyundai Santa Fe EREV Coming to Australia as PHEV Sales Surge - Zecar",
+  "text": "Hyundai Santa Fe EREV Coming to Australia as PHEV Sales Surge Zecar",
+  "author": "",
+  "published": "2026-11-11T02:40:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "515e2e29476b63a3",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/11/queensland-ev-owner-calls-for-rule-change-after-v2g-charger-rejected/?utm_source=rss&utm_medium=rss&utm_campaign=queensland-ev-owner-calls-for-rule-change-after-v2g-charger-rejected",
+  "title": "Queensland EV owner calls for rule change after V2G charger rejected",
+  "text": "A Queensland BYD Sealion 7 owner is petitioning for a rule change after his rooftop solar inverter left him unable to install a vehicle-to-grid charger. The post Queensland EV owner calls for rule change after V2G charger rejected appeared first on The Driven.",
+  "author": "Rachel Williamson",
+  "published": "2026-11-11T02:12:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "e9c4413b84ef8679",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHJJNDRfSU5ucFVHZHM3WmJhcmlJZjRmOVl2TGZWSkRHZWt0NzExZHJCRnhDa1gyN0xxR3RUal9JeVkzSHcxUzBMeUFkZnk4X1dqaU1ERWliN3NoR2J4TktxaUo3c0NfX2ZyS0R6a2pFVy1ETnVveVZibldCaTg3clJXc1VIMnFaX1N5M2RUYnpHcHU0RDVPbjlycFZXcHN1cWtsZFl6Q2c0MkxySjJ4WQ?oc=5",
+  "title": "Polestar 2 production ends with final Australian shipment - Carsales",
+  "text": "Polestar 2 production ends with final Australian shipment Carsales",
+  "author": "",
+  "published": "2026-11-11T00:35:43+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "0da691ee7eaa3e2d",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYndkaTEtaTZJU2hxSUV3dFJEYmU0VlF5MFB3RnlpMkRMQ1hFRlhpNGxybEN5a1p1RGZtM0NycTJJQXBBMjdpamFLWWt6WVhPNnktck9kQ19QZ3M3Wl9MME5fdDNJb2hWWm83MjZHSi1PRXd3c3dkMFdUNUxpTWVJMGRQbEhNWVdYWmtXT2FJTFVuR3l3czRjRFdFMHhYLUJOVmhB?oc=5",
+  "title": "Polestar Formula 2030 electric concept revealed - Carsales",
+  "text": "Polestar Formula 2030 electric concept revealed Carsales",
+  "author": "",
+  "published": "2026-11-11T00:20:42+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "b964e806819bb2d5",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/byd-end-of-year-deals-include-thousands-off-shark-6-sealion-7-plus-novated-lease-discounts",
+  "title": "BYD end-of-year deals include thousands off Shark 6, Sealion 7, plus novated lease discounts",
+  "text": "BYD is offering a swag of deals across much of its model lineup as it looks to close out a massive 2026 that has seen it rocket up the charts to become Australia’s second-best selling auto brand. Covering novated lease discounts, cashback, and more affordable financing across both plug-in hybrid (PHEV) and electric vehicles (EVs), the deals are in addition to previously announced drive-away deals for the Atto 1 Essential electric hatch ($19,990 drive-away), Atto 2 DM-i Essential electric SUV ($25,990 drive-away) and Dolphin Essential electric hatch ($28,888 drive-away). The only members of the BYD lineup not eligible for any of the brand’s current deals are the newly launched M9 PHEV people mover and Atto 3 Evo electric SUV, plus the familiar Seal electric sedan. Cashback deals BYD is offering $4000 off the Seal 6 sedan and wagon, Shark 6 ute, and the Sealion 5 , Sealion 6 , Sealion 7 and Sealion 8 SUVs. This offer is valid for orders placed between October 1 and December 21, 2026 for vehicles delivered by December 31, 2026, though BYD says it may approve an extension to the offer if a customer’s vehicle can’t be delivered in time. The deal isn’t available in conjunction with any o",
+  "author": "William Stopford",
+  "published": "2026-11-11T00:09:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-atto3",
+   "byd-sealion7",
+   "byd-sealion8"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
   "id": "833e1dcab2609869",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -31,6 +351,42 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-09T20:00:07+00:00"
+ },
+ {
+  "id": "ad3f579bee039283",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVBZZUs0LVZGT1ZLUEhNdnc1X1NDVmk1SzlkV0otMlp0d05QaGxwcE1iQnhpWDh3VEJaRm9wYllKN3g1UEFZRnF2bS1iNWxzLTVZRklPMzN1cW9nZWhmdnJScFRZU2ZJMnR2dXVKVWRPTXNic1BQZU1EUWt4S0Qxc0paYkNXdDJjSlIyT3lGS0g3VzdnSEctOUNXUmIwUWZJbDkzeE1yOWtNNG02NU02Y1kySkVxSDI1d2M5U2lyVElLdlVY?oc=5",
+  "title": "'Crash test dummy': Australia the test case for how Audi will deal with Chinese assault led by BYD, Geely and Zeekr - CarsGuide",
+  "text": "'Crash test dummy': Australia the test case for how Audi will deal with Chinese assault led by BYD, Geely and Zeekr CarsGuide",
+  "author": "",
+  "published": "2026-11-10T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "audi",
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
  },
  {
   "id": "869db9c4d15bd2c0",
@@ -2260,6 +2616,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-08T13:12:47+00:00"
+ },
+ {
+  "id": "92468002ba504e7b",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEZwcnVvY0pkdHFTbm5jWmRkUFI5YnNKTVNKYVczM0Z3YUl5dHpWalNfeHdTZFdnaUJ2ak9aYi1aRHhvaHNDNURrZmlxX3M5ekNxWTRfb2ZVVTFsSkV1THFNbTBKd0dRQ0FUOXo1dXIwX0tGcmIwSkdKZTB6emJ0dWJJVHhIWFJXeVEwSXczc2RtaDF6VU5lTFBHZnVTT21kLWItcWJVZXdtYUk0bFVzdC1Jd2tuMDVLYmFlWjdwaWp5U0RFMVczLTc5S2RqZ0FE?oc=5",
+  "title": "2026 Nissan X-TRAIL ST-L vs 2026 Mercedes-Benz GLC-Class GLC400 electric Launch Edition - Carsales",
+  "text": "2026 Nissan X-TRAIL ST-L vs 2026 Mercedes-Benz GLC-Class GLC400 electric Launch Edition Carsales",
+  "author": "",
+  "published": "2026-11-08T07:32:44+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T05:54:52+00:00"
  },
  {
   "id": "711a4ce1fa3d2b70",
@@ -50509,36 +50898,5 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "fd9acdae8e95cfb3",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · Whirlpool Forums",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUVVxZjNZeHN4MTc0RGxseGpVdzRlemFYVkRYZExtSWNJa3hTc1lYRlR5VFBDT2gtdHBfajRBMUh6cTRlR1hXcl9waXZxQUxBSEFfSE1ZQ3pKWUhHbnpmMEktNA?oc=5",
-  "title": "Zeekr 7X SUV - Whirlpool Forums",
-  "text": "Zeekr 7X SUV Whirlpool Forums",
-  "author": "",
-  "published": "2026-05-15T03:31:20+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-28T07:20:56+00:00"
  }
 ]
