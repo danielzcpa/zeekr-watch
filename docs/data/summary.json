@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T14:00:04+00:00",
- "duration_s": 350.2,
- "items_total": 1483,
- "new_this_run": 181,
+ "generated": "2026-11-11T21:14:00+00:00",
+ "duration_s": 313.2,
+ "items_total": 1484,
+ "new_this_run": 161,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 6,
@@ -10,10 +10,10 @@
   "high_7d": 4,
   "medium_7d": 1,
   "low_7d": 1,
-  "competitor_news_7d": 109,
+  "competitor_news_7d": 106,
   "launch_signals_7d": 22,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 53,
+  "zeekr_news_7d": 52,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -194,7 +194,7 @@
   {
    "date": "2026-11-11",
    "complaints": 0,
-   "competitor_news": 11,
+   "competitor_news": 12,
    "zeekr_news": 0
   }
  ],
@@ -681,13 +681,13 @@
    "latest": "a8af33cd32623473"
   },
   "byd-m9": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
     "8c9ef38f9af3c4e7",
     "2c8e385c13663939"
    ],
    "offer": [],
-   "latest": "8c9ef38f9af3c4e7"
+   "latest": "e86067202404d683"
   },
   "wey-g9": {
    "n_30d": 0,
@@ -1106,12 +1106,12 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 70,
+   "count": 69,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 13,
+   "count": 17,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1141,12 +1141,12 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 27,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 29,
+   "count": 28,
    "note": ""
   },
   "gn-brands-cn": {
@@ -1156,12 +1156,12 @@
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 56,
+   "count": 46,
    "note": ""
   },
   "carexpert": {
@@ -1230,24 +1230,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 23,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1291,7 +1291,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 28,
    "note": ""
   },
   "playstore-android": {

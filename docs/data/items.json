@@ -1,5 +1,38 @@
 [
  {
+  "id": "e86067202404d683",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9seF9IT3hzTjh1WWlmMXVFYjExTlRvRU5wUEpFMUV2RnpoQmE3WXpXOWZNbXlFUzRWVGFscTdhNVFPejVLUFZ6Z2pOdEoxY3JPdXZsSWR2N2VxYU14cHUtWkVHWUY?oc=5",
+  "title": "BYD M9 Dynamic 2026 Price & Specs - CarsGuide",
+  "text": "BYD M9 Dynamic 2026 Price & Specs CarsGuide",
+  "author": "",
+  "published": "2026-11-11T14:40:06+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-m9"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-11T21:14:00+00:00"
+ },
+ {
   "id": "bfc3a4780e4a5f1e",
   "type": "competitor_news",
   "source": "carexpert",
@@ -323,7 +356,7 @@
  {
   "id": "0da691ee7eaa3e2d",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYndkaTEtaTZJU2hxSUV3dFJEYmU0VlF5MFB3RnlpMkRMQ1hFRlhpNGxybEN5a1p1RGZtM0NycTJJQXBBMjdpamFLWWt6WVhPNnktck9kQ19QZ3M3Wl9MME5fdDNJb2hWWm83MjZHSi1PRXd3c3dkMFdUNUxpTWVJMGRQbEhNWVdYWmtXT2FJTFVuR3l3czRjRFdFMHhYLUJOVmhB?oc=5",
   "title": "Polestar Formula 2030 electric concept revealed - Carsales",
