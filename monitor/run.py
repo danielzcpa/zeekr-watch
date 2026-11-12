@@ -14,6 +14,7 @@ from datetime import datetime, timedelta, timezone
 from . import collectors as C
 from . import benchmark as B
 from . import sales as S
+from . import tp as TP
 from . import classify as K
 from .util import (DATA_DIR, config, load_json, save_json, now_iso, sha)
 
@@ -152,6 +153,9 @@ def main(argv=None):
     if r:
         bench_out, st = r
         statuses.update(st)
+    r = step("tp", TP.run_all)   # after benchmark: uses the refreshed DAP history
+    if r:
+        statuses["tp-reference"] = {"ok": True, "count": r.get("rows", 0), "note": "TP reference rebuilt from config/tp_evidence.json + DAP history"}
     offer_changes, offer_snaps = [], {}
     r = step("offers", C.offer_pages)
     if r:

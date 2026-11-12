@@ -1,0 +1,1153 @@
+{
+ "as_of": "2026-11-12",
+ "note": "真实成交价（TP）证据库，人工维护。kind: demo=展车/近新车挂牌上路价（低于新车成交价，按 uplift 折算）, newcar=新车 DAP 减官方优惠, agency=直销/代理制固定价格（TP=DAP）, est=无证据，DAP × 随机系数。offer.cash 为按 DAP 扣减的官方现金优惠。variants[].replaces 指向 competitors.json 中被覆盖的版本名。",
+ "params": {
+  "uplift_low": 1.03,
+  "uplift_high": 1.06,
+  "est_range": [
+   0.92,
+   0.96
+  ],
+  "seed": 20261109,
+  "agency_brands": [
+   "Tesla",
+   "Polestar",
+   "smart",
+   "Mercedes-Benz"
+  ],
+  "zeekr_dap_map": {
+   "7X": {
+    "Standard A0/A1": "RWD",
+    "Long Range A0/A1": "Long Range RWD",
+    "Performance A0/A1": "Performance AWD"
+   },
+   "X": {
+    "Standard A2": "RWD",
+    "Flagship A2": "AWD"
+   },
+   "009": {
+    "Standard A2": "7 Seat FWD",
+    "Flagship A2": "7 Seat AWD"
+   }
+  }
+ },
+ "models": {
+  "bmw-x5-50e": {
+   "variants": [
+    {
+     "name": "xDrive30d M Sport（现款入门，清库）",
+     "msrp": 139900,
+     "dap": 149013,
+     "dap_source": "Sydney DAP（CarExpert）",
+     "kind": "demo",
+     "observed": 136700,
+     "note": "MY26 展车 DA（SA，1,588 km）",
+     "note_en": "MY26 demo, drive-away (SA, 1,588 km)",
+     "range": "MY26 展车 $136,700；MY25 展车 $118,880–149,500",
+     "confidence": "高",
+     "name_en": "xDrive30d M Sport (runout entry)"
+    },
+    {
+     "name": "xDrive50e M Sport（现款，清库）",
+     "msrp": 154900,
+     "dap": 164763,
+     "dap_source": "Sydney DAP（CarExpert）",
+     "kind": "demo",
+     "observed": 152990,
+     "note": "MY26 展车 DA 中位数（5 台）",
+     "note_en": "Median of 5 MY26 demos, drive-away",
+     "range": "MY26 展车 $149,680–158,750；MY25 展车 $137,850–152,879",
+     "confidence": "高",
+     "replaces": "xDrive50e M Sport（现款，清库）"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$149,680 DA / $131,615 EGC",
+     "price_type": "demo_listing",
+     "date": "listed Nov 2026",
+     "state": "VIC",
+     "km": 1500,
+     "source_url": "https://www.carsales.com.au/cars/bmw/x5/plug-in-hybrid-fueltype/",
+     "note": "MY26 dealer demo; 9.2% below Sydney DAP, EGC 15.0% below MSRP"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$149,990 DA / $131,663 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 3104,
+     "source_url": "https://www.carsales.com.au/cars/bmw/x5/plug-in-hybrid-fueltype/",
+     "note": "MY26 demo; -9.0% vs Sydney DAP"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$152,990 DA / $134,284 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "TAS",
+     "km": 1785,
+     "source_url": "https://www.carsales.com.au/cars/bmw/x5/plug-in-hybrid-fueltype/",
+     "note": "MY26 demo"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$157,900 DA / $136,255 EGC; $158,750 DA / $138,308 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "QLD; VIC",
+     "km": "1,535; 1,556",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x5/plug-in-hybrid-fueltype/",
+     "note": "MY26 demos at upper end (likely optioned)"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$137,850 DA / $122,766 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 4133,
+     "source_url": "https://www.carsales.com.au/cars/2025/bmw/x5/",
+     "note": "MY25 demo (OAG-AD-25807882); 16.3% below Sydney DAP; EGC 20.7% below MSRP"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$141,991 DA; $142,990 DA; $144,900 DA",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW; VIC; NSW",
+     "km": "3,154; 6,729; 1,501",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x5/plug-in-hybrid-fueltype/",
+     "note": "MY25 demos"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$152,879 DA",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "WA",
+     "km": 1516,
+     "source_url": "https://usedcars.bmw.com.au/details/OAG-AD-26229651/2025-bmw-x5-demo",
+     "note": "MY25 demo, Auto Classic BMW Osborne Park (BMW official used site)"
+    },
+    {
+     "variant": "xDrive50e M Sport",
+     "price": "$123,990 DA (MY25, 4,721 km); $127,990 DA (MY26, 4,768 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "QLD",
+     "km": "4,721 / 4,768",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x5/plug-in-hybrid-fueltype/",
+     "note": "dealer near-new ('used') stock, lowest asking prices seen"
+    },
+    {
+     "variant": "xDrive30d M Sport",
+     "price": "$136,700 DA (was $138,700)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "SA (Adelaide)",
+     "km": 1588,
+     "source_url": "https://www.carsguide.com.au/buy-a-car/ex-demonstrator/bmw/x5/over-$50000/lane-departure-warning",
+     "note": "MY26 demo; 8.3% below Sydney DAP"
+    },
+    {
+     "variant": "xDrive30d M Sport",
+     "price": "$118,880 DA / $106,366 EGC (NSW, 5,046 km); $122,880 DA / $106,954 EGC (VIC, 1,518 km); $122,900 DA / $109,524 EGC (QLD, 1,722 km); $128,700 / $131,899 DA (QLD); $149,500 DA (NSW, 3,581 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/VIC/QLD",
+     "km": "1,518–5,118",
+     "source_url": "https://www.carsales.com.au/cars/2025/bmw/x5/",
+     "note": "MY25 demos; EGC 8–24% below $139,900 MSRP"
+    },
+    {
+     "variant": "M60i",
+     "price": "$159,850 DA / $136,381 EGC (5,100 km); $161,900 DA / $137,881 EGC (1,611 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": "5,100 / 1,611",
+     "source_url": "https://www.carsales.com.au/cars/2025/bmw/x5/",
+     "note": "MY25 demos; ~15% below Sydney DAP $188,913"
+    },
+    {
+     "variant": "xDrive50e M Sport (and all X5)",
+     "price": "GST-equivalent saving: 50e $12,749; 30d $11,473; 40i $11,753; M60i $14,131",
+     "price_type": "official_offer",
+     "date": "EOFY, to 30 Jun 2026",
+     "state": "national (NSW figures quoted)",
+     "km": "n/a",
+     "source_url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia",
+     "note": "BMW paid GST equivalent on X-range for private buyers ordered & delivered by 30-Jun-2026"
+    },
+    {
+     "variant": "X5 range",
+     "price": "no figure",
+     "price_type": "official_offer",
+     "date": "from 26 Aug 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://thebeep.com.au/cars/bmw/x5",
+     "note": "'X5 now in runout' – dealer-level offers, no published amount; 5.99% finance to 30 Sep 2026 on 30d M Sport"
+    }
+   ]
+  },
+  "mb-gle": {
+   "variants": [
+    {
+     "name": "GLE 300 d 4MATIC（现款入门）",
+     "msrp": 138100,
+     "dap": 145433,
+     "dap_source": "Sydney DAP（CarExpert）",
+     "kind": "demo",
+     "observed": 120218,
+     "note": "MY26 展车 DA 中位数（7 台）",
+     "note_en": "Median of 7 MY26 demos, drive-away",
+     "range": "MY26 展车 $113,772–126,833",
+     "confidence": "高",
+     "replaces": "GLE 300d",
+     "name_en": "GLE 300 d 4MATIC (runout entry)"
+    },
+    {
+     "name": "GLE 450 d 4MATIC",
+     "msrp": 156600,
+     "dap": 164900,
+     "dap_source": "估算：MSRP × 1.053",
+     "kind": "demo",
+     "observed": 134608,
+     "note": "MY25 展车 DA（VIC，4,935 km）",
+     "note_en": "MY25 demo, drive-away (VIC, 4,935 km)",
+     "range": "MY25 展车 $134,608–134,880",
+     "confidence": "中"
+    },
+    {
+     "name": "AMG GLE 53 4MATIC+",
+     "msrp": 197400,
+     "dap": 200562,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "demo",
+     "observed": 183569,
+     "note": "MY26 展车 DA 中位数（6 台）",
+     "note_en": "Median of 6 MY26 demos, drive-away",
+     "range": "MY26 展车 $179,221–196,847",
+     "confidence": "高"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "GLE 300 d",
+     "price": "$113,772 DA / $102,625 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 4414,
+     "source_url": "https://www.carsales.com.au/cars/2026/mercedes-benz/gle-class/",
+     "note": "MY26 demo; 21.8% below Sydney DAP; EGC 25.7% below MSRP"
+    },
+    {
+     "variant": "GLE 300 d",
+     "price": "$115,549 DA / $103,927 EGC (NSW 4,350 km); $119,433 DA (TAS 3,154 km); $120,218 DA (SA 3,740 km); $122,719 DA / $106,829 EGC (VIC 3,375 km); $125,509 DA (SA 2,782 km); $126,833 DA (NSW 4,429 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/TAS/SA/VIC",
+     "km": "2,782–4,429",
+     "source_url": "https://www.carsales.com.au/cars/2026/mercedes-benz/gle-class/",
+     "note": "MY26 dealer demos; cluster $114k–$127k DA"
+    },
+    {
+     "variant": "GLE 300 d",
+     "price": "$113,832–$120,960 DA / $106,337–$113,002 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": "4,002–8,546",
+     "source_url": "https://www.carsales.com.au/cars/2025/mercedes-benz/gle-class/",
+     "note": "MY25 Mercedes-Certified near-new"
+    },
+    {
+     "variant": "GLE 450",
+     "price": "$148,211 DA / $125,684 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "WA",
+     "km": 4766,
+     "source_url": "https://www.carsales.com.au/cars/2026/mercedes-benz/gle-class/",
+     "note": "MY26 demo (petrol 450)"
+    },
+    {
+     "variant": "GLE 450 d",
+     "price": "$134,608 DA / $115,382 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 4935,
+     "source_url": "https://www.carsales.com.au/cars/2025/mercedes-benz/gle-class/",
+     "note": "MY25 demo; EGC 26.3% below $156,600 MSRP"
+    },
+    {
+     "variant": "GLE 450 d",
+     "price": "$134,880 DA / $129,273 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 6504,
+     "source_url": "https://www.carsales.com.au/cars/2025/mercedes-benz/gle-class/",
+     "note": "MY25 Mercedes-Certified near-new"
+    },
+    {
+     "variant": "AMG GLE 53",
+     "price": "$179,221 DA / $150,571 EGC (NSW 3,501 km); $179,548 DA (ACT); $183,569 DA (WA); $185,034–$196,847 DA (VIC)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/ACT/WA/VIC",
+     "km": "3,140–4,720",
+     "source_url": "https://www.carsales.com.au/cars/2026/mercedes-benz/gle-class/",
+     "note": "MY26 demos; EGC ~20–25% below $197,400 MSRP"
+    },
+    {
+     "variant": "AMG GLE 63 S",
+     "price": "$239,503 DA / $187,627 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 4739,
+     "source_url": "https://www.carsales.com.au/cars/2025/mercedes-benz/gle-class/",
+     "note": "MY25 demo; EGC 32.6% below $278,200 MSRP"
+    },
+    {
+     "variant": "GLE (and standard MB range)",
+     "price": "GST-equivalent covered (amount not stated for GLE)",
+     "price_type": "official_offer",
+     "date": "to 30 Jun 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia",
+     "note": "Mercedes-Benz EOFY offer on petrol/diesel/hybrid passenger range; GLE not explicitly excluded"
+    },
+    {
+     "variant": "GLE demonstrators",
+     "price": "no figure",
+     "price_type": "official_offer",
+     "date": "Nov 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://www.mercedes-benz.com.au/passengercars/buy/offers.html",
+     "note": "'Demonstrator season': 3 yrs complimentary servicing on demos; $5,000 festive bonus applies to C/GLA/GLC only, not GLE/GLS"
+    }
+   ]
+  },
+  "rr-sport-p460e": {
+   "variants": [
+    {
+     "name": "P460e Dynamic HSE",
+     "msrp": 188500,
+     "dap": 208106,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "newcar",
+     "observed": 193106,
+     "note": "NSW DAP − 官方 Black Event 优惠 $15,000（10-22 至 11-30）",
+     "note_en": "NSW DAP less official Black Event offer of $15,000 (22 Oct–30 Nov)",
+     "range": "MY26 展车 $208,888–214,990（含选装）；官方优惠最高 $15,000",
+     "confidence": "中",
+     "replaces": "P460e Dynamic HSE"
+    },
+    {
+     "name": "P460e Autobiography",
+     "msrp": 211900,
+     "dap": 232676,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "newcar",
+     "observed": 217676,
+     "note": "NSW DAP − 官方 Black Event 优惠 $15,000",
+     "note_en": "NSW DAP less official Black Event offer of $15,000",
+     "range": "官方 Black Event 优惠最高 $15,000（10-22 至 11-30）",
+     "confidence": "中",
+     "replaces": "P460e Autobiography"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "P460e Dynamic HSE",
+     "price": "$177,486 EGC (original list $216,174 DA on 16-Oct-2025)",
+     "price_type": "demo_listing",
+     "date": "price cut 26-Aug-2026 (-$4,705), 4 earlier cuts Mar–Aug 2026",
+     "state": "VIC (Doncaster)",
+     "km": 4788,
+     "source_url": "https://www.drive.com.au/cars-for-sale/car/969943296/",
+     "note": "MY25 demo with 22in wheels, pano roof, Black pack; EGC 5.8% below MSRP; ~18% below its own original DA list after ~46 weeks unsold"
+    },
+    {
+     "variant": "P460e Dynamic HSE",
+     "price": "$209,888 DA / $176,062 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 1561,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/land-rover/range-rover-sport/",
+     "note": "MY26 demo; +2.7% vs VIC DAP (optioned); EGC 6.6% below MSRP"
+    },
+    {
+     "variant": "P460e Dynamic HSE",
+     "price": "$214,990 DA / $176,421 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "WA",
+     "km": 4500,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/land-rover/range-rover-sport/",
+     "note": "MY26 demo; +1.7% vs WA DAP"
+    },
+    {
+     "variant": "P460e Dynamic HSE",
+     "price": "$208,888 DA / $175,318 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 413,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/land-rover/range-rover-sport/",
+     "note": "MY25 demo"
+    },
+    {
+     "variant": "P460e Dynamic HSE",
+     "price": "$206,878 (title of listing, basis not readable)",
+     "price_type": "demo_listing",
+     "date": "2026",
+     "state": "NSW (Parramatta JLR)",
+     "km": "n/a",
+     "source_url": "https://parramattajlr.com.au/stock/details/OAG-AD-24352365/2025-land-rover-range-rover-sport-demo",
+     "note": "MY25 demo; page would not load, figure from search title only"
+    },
+    {
+     "variant": "P460e Dynamic SE (MY24, superseded)",
+     "price": "$157,888 DA / $151,473 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 13193,
+     "source_url": "https://www.carsales.com.au/cars/land-rover/range-rover-sport/phev-p460e-dynamic-se-badge/plug-in-hybrid-fueltype/",
+     "note": "dealer used MY24 – reference only"
+    },
+    {
+     "variant": "P460e Autobiography",
+     "price": "no evidence found",
+     "price_type": "n/a",
+     "date": "",
+     "state": "",
+     "km": "",
+     "source_url": "",
+     "note": "no demo/discounted listing of P460e Autobiography located; new carsales indicative DA $219,273–$236,525"
+    },
+    {
+     "variant": "Range Rover Sport (selected stock)",
+     "price": "up to $15,000 bonus (price reduction)",
+     "price_type": "official_offer",
+     "date": "22 Oct – 30 Nov 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://www.rangerover.com/en-au/offers-and-finance/range-rover-sport-offer.html",
+     "note": "'Black Event'; excludes Battersea Edition; not for fleet/rental; ≈7.3% of Dynamic HSE VIC DAP, ≈6.5% of Autobiography"
+    },
+    {
+     "variant": "Range Rover Sport (selected)",
+     "price": "up to $7,500 bonus",
+     "price_type": "official_offer",
+     "date": "1–31 Oct 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://thebeep.com.au/offers-and-deals/land-rover",
+     "note": "Range Rover Bonus Offer, October 2026"
+    },
+    {
+     "variant": "Range Rover Sport SE / D300 SE, HSE and PHEV",
+     "price": "$5,000 trade-in bonus (SE); $10,000 trade-in bonus (D300 SE, HSE, PHEV)",
+     "price_type": "official_offer",
+     "date": "to 30 Jun 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia",
+     "note": "EOFY 2026; trade-in ≤10 yrs from approved premium brands"
+    }
+   ]
+  },
+  "rr-p460e": {
+   "variants": [
+    {
+     "name": "P460e HSE SWB",
+     "msrp": 284900,
+     "dap": 312056,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "est",
+     "observed": null,
+     "note": "无展车、折扣挂牌或成交记录",
+     "note_en": "No demo, discounted listing or settlement record found",
+     "range": "—",
+     "confidence": "低",
+     "replaces": "P460e HSE SWB"
+    },
+    {
+     "name": "P460e Autobiography SWB",
+     "msrp": 313700,
+     "dap": 354056,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "demo",
+     "observed": 332990,
+     "note": "MY26 展车 DA（NSW，2,572 km）",
+     "note_en": "MY26 demo, drive-away (NSW, 2,572 km)",
+     "range": "MY26 展车 $332,990 DA",
+     "confidence": "低–中",
+     "replaces": "P460e Autobiography SWB"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "P460e Autobiography (MY26)",
+     "price": "$332,990 DA / $265,728 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 2572,
+     "source_url": "https://www.carsales.com.au/cars/land-rover/range-rover/plug-in-hybrid-fueltype/",
+     "note": "only P460e demo found; 7.9% below MY27 new indicative DA $361,373; EGC 15.3% below $313,700 MSRP"
+    },
+    {
+     "variant": "P460e Autobiography SWB (MY26, new, arriving)",
+     "price": "$347,950 'Recommended Drive Away Price for Victoria'",
+     "price_type": "new_listing_discounted",
+     "date": "available from 7-Mar-2026",
+     "state": "VIC (Melbourne City Land Rover)",
+     "km": "new",
+     "source_url": "https://quote.landrover.com.au/showroom/new-range-rover-2026-plug-in-hybrid-phev-p460e-petrol-plug-in-hybrid-automatic-santorini-black-86641",
+     "note": "dealer showroom quote incl. options (22in wheels, Shadow pack, fridge etc.) – RDAP, not a discounted price"
+    },
+    {
+     "variant": "P460e HSE",
+     "price": "no evidence found",
+     "price_type": "n/a",
+     "date": "",
+     "state": "",
+     "km": "",
+     "source_url": "",
+     "note": "no demo or discounted HSE PHEV listing located; carsales 2025/2026 pages show only P530 HSE demos ($299,990–$314,990 DA)"
+    },
+    {
+     "variant": "Range Rover (reference, P530 Autobiography MY25 demos)",
+     "price": "$299,888–$358,888 DA / $230,243–$284,071 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC/QLD/SA/NSW",
+     "km": "158–7,092",
+     "source_url": "https://www.carsales.com.au/cars/2025/land-rover/range-rover/",
+     "note": "shows typical full-size RR demo discounting (EGC ~18–33% below $346,100 MSRP) – not PHEV"
+    }
+   ]
+  },
+  "bmw-x7": {
+   "variants": [
+    {
+     "name": "xDrive40d M Sport",
+     "msrp": 181400,
+     "dap": 192588,
+     "dap_source": "Sydney DAP（CarExpert）",
+     "kind": "demo",
+     "observed": 166384,
+     "note": "MY26 展车 DA 中位数（4 台）",
+     "note_en": "Median of 4 MY26 demos, drive-away",
+     "range": "MY26 展车 $159,800–172,850；MY25 展车 $129,990–164,850",
+     "confidence": "高",
+     "replaces": "xDrive40d M Sport"
+    },
+    {
+     "name": "M60i xDrive",
+     "msrp": 212400,
+     "dap": 225390,
+     "dap_source": "Sydney DAP（CarExpert）",
+     "kind": "demo",
+     "observed": 201945,
+     "note": "MY26 展车 DA 中位数（4 台）",
+     "note_en": "Median of 4 MY26 demos, drive-away",
+     "range": "MY26 展车 $198,800–212,925；MY25 展车 $169,900–195,880",
+     "confidence": "高",
+     "replaces": "M60i"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "xDrive40d M Sport",
+     "price": "$159,800 DA / $136,343 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 1543,
+     "source_url": "https://www.carsales.com.au/cars/bmw/x7/diesel-fueltype/",
+     "note": "MY26 demo (OAG-AD-26359490); 17.0% below Sydney DAP; EGC 24.8% below MSRP"
+    },
+    {
+     "variant": "xDrive40d M Sport",
+     "price": "$162,880 DA / $139,096 EGC (QLD 1,502 km); $169,888 DA / $138,496 EGC (VIC 1,525 km); $172,850 DA / $145,904 EGC (NSW 1,516 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "QLD/VIC/NSW",
+     "km": "1,502–1,525",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x7/diesel-fueltype/",
+     "note": "MY26 demos; -10% to -15% vs Sydney DAP"
+    },
+    {
+     "variant": "xDrive40d M Sport",
+     "price": "$139,990 DA / $119,254 EGC (VIC 7,433 km); $149,850 DA / $129,054 EGC (NSW 6,082 km); $159,500 DA / $136,124 EGC (NSW 1,577 km); $164,850 DA / $140,043 EGC (NSW 5,016 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC/NSW",
+     "km": "1,577–7,433",
+     "source_url": "https://www.carsales.com.au/cars/2025/bmw/x7/",
+     "note": "MY25 demos; -14% to -27% vs Sydney DAP"
+    },
+    {
+     "variant": "xDrive40d M Sport",
+     "price": "$129,990 DA / $124,956 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "QLD",
+     "km": 5364,
+     "source_url": "https://www.carsales.com.au/cars/2025/bmw/x7/",
+     "note": "MY25 dealer near-new ('used'); lowest asking price seen, -32.5% vs Sydney DAP"
+    },
+    {
+     "variant": "xDrive40i M Sport",
+     "price": "$142,800 DA / $123,889 EGC (NSW 1,601 km); $149,000 DA (NSW 4,200 km); $169,990 DA (NSW 50 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": "50–4,200",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x7/g07-lci-series/",
+     "note": "MY26 demos (petrol entry)"
+    },
+    {
+     "variant": "M60i",
+     "price": "$199,990 DA / $165,789 EGC (1,500 km); $198,800 DA / $164,916 EGC (1,598 km); $203,900 DA / $168,651 EGC (1,501 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": "1,500–1,598",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x7/m60i-badge/prestige-lifestyles/",
+     "note": "MY26 demos; -9.5% to -11.3% vs Sydney DAP; EGC ~21–22% below MSRP"
+    },
+    {
+     "variant": "M60i",
+     "price": "$212,925 DA / $172,425 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "WA",
+     "km": 1560,
+     "source_url": "https://www.carsales.com.au/cars/bmw/x7/m60i-badge/prestige-lifestyles/",
+     "note": "MY26 demo"
+    },
+    {
+     "variant": "M60i",
+     "price": "$167,990 EGC (2,200 km); $174,990 EGC (1,850 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": "1,850–2,200",
+     "source_url": "https://www.carsales.com.au/cars/bmw/x7/g07-lci-series/",
+     "note": "MY26 dealer near-new; EGC 18–21% below MSRP"
+    },
+    {
+     "variant": "M60i",
+     "price": "$169,900–$195,880 DA / $144,287–$156,841 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "QLD/NSW/VIC",
+     "km": "1,525–6,045",
+     "source_url": "https://www.carsales.com.au/cars/2025/bmw/x7/",
+     "note": "MY25 demos (6 listings)"
+    },
+    {
+     "variant": "X7 range",
+     "price": "GST-equivalent saving: 40d $14,341; 40i $13,851; M60i $16,508",
+     "price_type": "official_offer",
+     "date": "to 30 Jun 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://www.carexpert.com.au/car-news/2026-eofy-deals-the-biggest-discounts-on-new-cars-in-australia",
+     "note": "BMW EOFY GST-off X-range offer"
+    }
+   ]
+  },
+  "mb-gls": {
+   "variants": [
+    {
+     "name": "GLS 450 d 4MATIC（现款）",
+     "msrp": 191200,
+     "dap": 201877,
+     "dap_source": "NSW DAP（The Beep，2027 款 450 d）",
+     "kind": "demo",
+     "observed": 162880,
+     "note": "MY25 认证近新车 DA（NSW，1,150 km）",
+     "note_en": "MY25 certified near-new, drive-away (NSW, 1,150 km)",
+     "range": "MY25 近新车 $162,880 DA",
+     "confidence": "中",
+     "replaces": "GLS450d",
+     "name_en": "GLS 450 d 4MATIC (current)"
+    },
+    {
+     "name": "AMG GLS 63 4MATIC+（现款）",
+     "msrp": 299900,
+     "dap": 333126,
+     "dap_source": "NSW DAP（The Beep，2027 款 63）",
+     "kind": "demo",
+     "observed": 306507,
+     "note": "MY25 展车 DA 中位数（3 台）",
+     "note_en": "Median of 3 MY25 demos, drive-away",
+     "range": "MY25 展车 $287,178–309,923",
+     "confidence": "中",
+     "replaces": "AMG GLS63 S",
+     "name_en": "AMG GLS 63 4MATIC+ (current)"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "GLS 450 d",
+     "price": "$162,880 DA / $155,938 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 1150,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/mercedes-benz/gls-class/",
+     "note": "MY25 Mercedes-Certified near-new; EGC 18.4% below $191,200 MSRP"
+    },
+    {
+     "variant": "AMG GLS 63",
+     "price": "$287,178 DA / $221,268 EGC (5,859 km); $306,507 DA / $234,918 EGC (2,608 km); $309,923 DA / $237,325 EGC (2,608 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": "2,608–5,859",
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/mercedes-benz/gls-class/",
+     "note": "MY25 demos; EGC 21–26% below ~$299,900 MSRP"
+    },
+    {
+     "variant": "Maybach GLS 600",
+     "price": "$355,880 DA / $339,748 EGC (NSW 4,157 km); $388,770 DA / $373,784 EGC (QLD 900 km); $389,000 EGC (NSW 621 km, MY26)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/QLD",
+     "km": "621–4,157",
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/mercedes-benz/gls-class/",
+     "note": "near-new Maybach stock; 5–17% below ~$409,900 MSRP (EGC basis)"
+    },
+    {
+     "variant": "GLS 450 / 450d (2027)",
+     "price": "complimentary 3-year service plan on pre-orders before 30 Sep 2026",
+     "price_type": "official_offer",
+     "date": "Jul–Sep 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://www.carsales.com.au/editorial/details/2026-mercedes-benz-gls-range-priced-for-australia-152530/",
+     "note": "launch incentive, not a price discount"
+    }
+   ]
+  },
+  "lexus-lx": {
+   "variants": [
+    {
+     "name": "LX500d Luxury 7 座",
+     "msrp": 164200,
+     "dap": 177221,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "est",
+     "observed": null,
+     "note": "无同款展车；LX 600 Luxury 展车 −15.6%、LX 500d Sports Luxury 库存车 −6.1%（较 MSRP）",
+     "note_en": "No same-grade demo; LX 600 Luxury demo −15.6% and LX 500d Sports Luxury stock −6.1% vs MSRP",
+     "range": "相邻版本 −6% 至 −16%",
+     "confidence": "中",
+     "replaces": "LX500d Luxury 7 座",
+     "name_en": "LX 500d Luxury 7-seat"
+    },
+    {
+     "name": "LX700h F Sport",
+     "msrp": 202000,
+     "dap": 216911,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "demo",
+     "observed": 199890,
+     "note": "MY25 近新车 DA（VIC，6,788 km）",
+     "note_en": "MY25 near-new, drive-away (VIC, 6,788 km)",
+     "range": "MY25 近新 $184,990–199,890 DA；700h Sports Luxury 展车 $194,990–204,990",
+     "confidence": "中"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "LX 600 Luxury",
+     "price": "$141,620 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 2136,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY25 demo; 15.6% below $167,700 MSRP (closest entry-variant evidence; no LX 500d Luxury demo found)"
+    },
+    {
+     "variant": "LX 500d Sports Luxury (7 seat)",
+     "price": "$168,000 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "QLD (Woodridge)",
+     "km": 30,
+     "source_url": "https://www.carsguide.com.au/buy-a-car/lexus/lx500d/qld",
+     "note": "MY26, 30 km dealer stock; 6.1% below $178,900 MSRP"
+    },
+    {
+     "variant": "LX 500d Sports Luxury",
+     "price": "$179,888 DA / $164,990 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 2711,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY25 dealer near-new; EGC 6.4% below $176,300 MSRP"
+    },
+    {
+     "variant": "LX 500d Overtrail",
+     "price": "$191,880 DA / $154,027 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 6510,
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY26 demo; DA ~ at Sydney DAP ($193,895); EGC 15.5% below MSRP"
+    },
+    {
+     "variant": "LX 600 Sports Luxury",
+     "price": "$197,000 DA / $163,597 EGC (NSW 2,008 km, MY26 demo); $193,990 DA / $160,065 EGC (QLD 2,253 km, MY26 demo); $186,888 DA / $171,397 EGC (VIC 4,571 km, MY25); $188,880 DA / $173,226 EGC (VIC 7,767 km, MY25)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/QLD/VIC",
+     "km": "2,008–7,767",
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY26 demo DA ≈ +1–3% vs Sydney DAP $191,270; EGC 9–11% below $179,800 MSRP"
+    },
+    {
+     "variant": "LX 600 F Sport",
+     "price": "$199,990 DA (was $205,990)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC (Wodonga)",
+     "km": 2540,
+     "source_url": "https://www.carsguide.com.au/buy-a-car/ex-demonstrator/lexus/push-button-start",
+     "note": "MY26 demo per CarsGuide (carsales lists same car as LX700h F Sport MY25 $199,990 DA / $159,740 EGC); ≈ +1% vs LX600 F Sport Sydney DAP"
+    },
+    {
+     "variant": "LX 700h Sports Luxury",
+     "price": "$192,990 EGC (SA 2,085 km); $194,990 DA / $156,212 EGC (VIC 2,335 km); $195,909 DA / $162,800 EGC (NSW 2,451 km); $204,990 DA / $168,087 EGC (QLD 2,071 km); $214,888 DA / $170,257 EGC (VIC 5,248 km, MY25)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "SA/VIC/NSW/QLD",
+     "km": "2,071–5,248",
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY26 demos; DA -6% to -2% vs Sydney DAP $208,170; EGC 14–20% below $196,000 MSRP"
+    },
+    {
+     "variant": "LX 700h Sports Luxury",
+     "price": "$174,990 EGC (NSW 1,088 km); $189,999 EGC (WA 1,463 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/WA",
+     "km": "1,088–1,463",
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY26 dealer near-new; $174,990 is 10.7% below MSRP"
+    },
+    {
+     "variant": "LX 700h F Sport",
+     "price": "$175,999 EGC (NSW 6,315 km); $184,990 DA / $169,660 EGC (VIC 7,153 km); $199,890 DA / $183,337 EGC (VIC 6,788 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/VIC",
+     "km": "6,315–7,153",
+     "source_url": "https://www.carsales.com.au/cars/used/demo-and-near-new-subcondition/lexus/lx/",
+     "note": "MY25 dealer near-new; $175,999 EGC = 12.9% below $202,000 MSRP; $184,990 DA = 13.7% below Sydney DAP"
+    },
+    {
+     "variant": "LX (all)",
+     "price": "no LX offer",
+     "price_type": "official_offer",
+     "date": "Nov 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://thebeep.com.au/offers-and-deals/lexus",
+     "note": "Lexus corporate program covers NX/RX only; no LX drive-away or bonus campaign found"
+    }
+   ]
+  },
+  "porsche-cayenne-eh": {
+   "variants": [
+    {
+     "name": "Cayenne E-Hybrid",
+     "msrp": 171400,
+     "dap": 179620,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "newcar",
+     "observed": 179620,
+     "note": "近新车 DA 下限 ≈ NSW DAP，无折扣",
+     "note_en": "Near-new drive-away floor ≈ NSW DAP; no discount",
+     "range": "近新 $179,000–188,000 DA（多含选装）",
+     "confidence": "中",
+     "replaces": "Cayenne E-Hybrid"
+    },
+    {
+     "name": "Turbo E-Hybrid",
+     "msrp": 303300,
+     "dap": 334339,
+     "dap_source": "NSW DAP（The Beep）",
+     "kind": "demo",
+     "observed": 319990,
+     "note": "MY26 近新车 DA（VIC，2,500 km）",
+     "note_en": "MY26 near-new, drive-away (VIC, 2,500 km)",
+     "range": "近新 $319,990 / $344,900 DA；展车 $349,990（含选装）",
+     "confidence": "中",
+     "replaces": "Turbo E-Hybrid"
+    }
+   ],
+   "evidence": [
+    {
+     "variant": "E-Hybrid Black Edition (SUV)",
+     "price": "$199,800 DA / $168,151 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": 2126,
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY26 dealer demo; DA +11% vs NSW E-Hybrid DAP (optioned); EGC 4.4% below Black Edition MSRP"
+    },
+    {
+     "variant": "E-Hybrid Black Edition (SUV)",
+     "price": "$179,900 DA / $172,148 EGC (NSW 7,524 km, MY26); $189,900 DA / $182,200 EGC (VIC 2,500 km, MY26); $194,990 DA (VIC 4,000 km); $195,990 DA (VIC 5,000 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW/VIC",
+     "km": "2,500–7,524",
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY26 dealer near-new; lowest ≈ at NSW base E-Hybrid DAP"
+    },
+    {
+     "variant": "E-Hybrid / E-Hybrid Black Edition (SUV)",
+     "price": "$179,000–$188,000 DA / $171,293–$179,863 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "NSW",
+     "km": "5,550–13,127",
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY25 dealer near-new (5 listings)"
+    },
+    {
+     "variant": "E-Hybrid Coupé",
+     "price": "$155,856 DA (est.)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "SA (Porsche Centre Adelaide)",
+     "km": 19204,
+     "source_url": "https://finder.porsche.com/au/en-AU/search/Cayenne",
+     "note": "MY24 Porsche Approved pre-owned – reference only; several 2025 E-Hybrid Coupé approved cars (50–4,431 km) at PC Canberra/Hobart/Brighton already sold, prices withdrawn"
+    },
+    {
+     "variant": "S E-Hybrid Black Edition (SUV)",
+     "price": "$232,990 DA / $223,551 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 1500,
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY26 near-new; well above $199,882 VIC S E-Hybrid DAP – heavily optioned; no discount evident"
+    },
+    {
+     "variant": "S E-Hybrid (SUV)",
+     "price": "$179,900 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "WA",
+     "km": 11009,
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY25 dealer used; 4.2% below $187,800 MSRP"
+    },
+    {
+     "variant": "Turbo E-Hybrid (SUV)",
+     "price": "$349,990 DA / $279,484 EGC",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC",
+     "km": 1500,
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY26 dealer demo; DA +4.7% vs VIC DAP (optioned); EGC 7.9% below MSRP"
+    },
+    {
+     "variant": "Turbo E-Hybrid (SUV)",
+     "price": "$319,990 DA / $307,040 EGC (VIC 2,500 km); $344,900 DA / $329,293 EGC (NSW 760 km)",
+     "price_type": "demo_listing",
+     "date": "Nov 2026",
+     "state": "VIC/NSW",
+     "km": "760–2,500",
+     "source_url": "https://www.carsales.com.au/cars/porsche/cayenne/hybrid-fueltype/",
+     "note": "MY26 dealer near-new; $319,990 = 4.2% below VIC DAP"
+    },
+    {
+     "variant": "Cayenne (all)",
+     "price": "no official offer",
+     "price_type": "official_offer",
+     "date": "Nov 2026",
+     "state": "national",
+     "km": "n/a",
+     "source_url": "https://thebeep.com.au/cars/porsche/cayenne",
+     "note": "No Porsche Australia campaign; The Beep shows 1-yr DAP trend E-Hybrid -$86, S E-Hybrid -$5,080 (-2.5%)"
+    }
+   ]
+  },
+  "volvo-ex30": {
+   "offer": {
+    "kind": "newcar",
+    "note": "官方 DAP 活动价：Plus 单电机 $55,990 上路（2026-05-01 至 2026-12-31）；其余版本按 The Beep NSW DAP",
+    "note_en": "Official drive-away campaign: Plus Single Motor $55,990 (1 May–31 Dec 2026); other grades at The Beep NSW DAP",
+    "urls": [
+     "https://zecar.com/offers-and-deals/volvo-ex30-driveaway-offer-october-2026",
+     "https://thebeep.com.au/cars/volvo/ex30"
+    ],
+    "confidence": "中"
+   }
+  },
+  "kia-ev5": {
+   "offer": {
+    "kind": "newcar",
+    "cash": -2000,
+    "note": "官方 $2,000 现金返还（全系，库存新车与展车，2026-09-01 至 11-30），按 DAP 扣减",
+    "note_en": "Official $2,000 cashback on all grades (in-stock new and demo, 1 Sep–30 Nov 2026), deducted from DAP",
+    "urls": [
+     "https://www.kia.com/au/shopping-tools/offers/car-offers/ev-offers.html",
+     "https://thebeep.com.au/cars/kia/ev5"
+    ],
+    "confidence": "中"
+   }
+  },
+  "kia-ev3": {
+   "offer": {
+    "kind": "newcar",
+    "cash": -1000,
+    "note": "官方 $1,000 现金返还（全系，至 2026-11-30），按 DAP 扣减",
+    "note_en": "Official $1,000 cashback on all grades (to 30 Nov 2026), deducted from DAP",
+    "urls": [
+     "https://www.kia.com/au/shopping-tools/offers/car-offers/ev-offers.html"
+    ],
+    "confidence": "中"
+   }
+  },
+  "kia-ev4": {
+   "variants": [
+    {
+     "name": "Air Standard Range",
+     "msrp": 49990,
+     "dap": 52990,
+     "dap_source": "官方 DAP 活动价（Kia，2026-11）",
+     "kind": "newcar",
+     "observed": 52990,
+     "note": "官方 11 月 DAP 活动价 $52,990",
+     "note_en": "Official November drive-away campaign $52,990",
+     "range": "$52,990 DA",
+     "confidence": "中",
+     "replaces": "Air Standard Range"
+    }
+   ]
+  },
+  "byd-sealion7": {
+   "offer": {
+    "kind": "newcar",
+    "cash": -4000,
+    "note": "官方 $4,000 现金返还（2026-10-01 至 12-21 下单，不含展车），按 DAP 扣减",
+    "note_en": "Official $4,000 cashback (orders 1 Oct–21 Dec 2026, demos excluded), deducted from DAP",
+    "urls": [
+     "https://thebeep.com.au/cars/byd/sealion-7",
+     "https://zecar.com/offers-and-deals"
+    ],
+    "confidence": "中"
+   }
+  },
+  "byd-sealion8": {
+   "offer": {
+    "kind": "newcar",
+    "cash": -4000,
+    "note": "官方 $4,000 现金返还（至 2026-12-21），按 DAP 扣减",
+    "note_en": "Official $4,000 cashback (to 21 Dec 2026), deducted from DAP",
+    "urls": [
+     "https://zecar.com/offers-and-deals"
+    ],
+    "confidence": "中"
+   }
+  },
+  "im5": {
+   "offer": {
+    "kind": "newcar",
+    "cash": -3000,
+    "note": "10 月官方 $3,000 现金返还 + $500 配件（至 10-31，11 月政策待确认），按 DAP 扣减",
+    "note_en": "October official $3,000 cashback + $500 accessories (to 31 Oct; November terms to be confirmed), deducted from DAP",
+    "urls": [
+     "https://zecar.com/offers-and-deals"
+    ],
+    "confidence": "低–中"
+   }
+  },
+  "hyundai-elexio": {
+   "offer": {
+    "kind": "newcar",
+    "note": "上市 DAP 活动价（The Beep NSW DAP 低于 MSRP）",
+    "note_en": "Launch drive-away campaign (The Beep NSW DAP sits below MSRP)",
+    "urls": [
+     "https://thebeep.com.au/cars/hyundai/elexio"
+    ],
+    "confidence": "中"
+   }
+  },
+  "tesla-model-y": {
+   "offer": {
+    "kind": "agency",
+    "note": "直销固定价格；10 月库存车约 5% 折让（最高 $2,950）已于 10-31 结束",
+    "note_en": "Direct-sales fixed pricing; October inventory discount of about 5% (up to $2,950) ended 31 Oct",
+    "urls": [
+     "https://zecar.com/offers-and-deals"
+    ],
+    "confidence": "高"
+   }
+  },
+  "tesla-model-3": {
+   "offer": {
+    "kind": "agency",
+    "note": "直销固定价格；10 月库存车约 5% 折让已于 10-31 结束",
+    "note_en": "Direct-sales fixed pricing; October inventory discount ended 31 Oct",
+    "urls": [
+     "https://zecar.com/offers-and-deals"
+    ],
+    "confidence": "高"
+   }
+  },
+  "polestar-4": {
+   "offer": {
+    "kind": "agency",
+    "note": "代理制固定价格；现行为 0.80% 金融与 novated 周供优惠，无现金折让（Q1-26 的 $79,000 上路活动已结束）",
+    "note_en": "Agency fixed pricing; current offers are 0.80% finance and novated weekly rates, no cash discount (Q1-26 $79,000 drive-away offer ended)",
+    "urls": [
+     "https://thebeep.com.au/cars/polestar/4",
+     "https://www.polestar.com/au/offers/"
+    ],
+    "confidence": "高"
+   }
+  },
+  "polestar-2": {
+   "offer": {
+    "kind": "agency",
+    "note": "代理制固定价格",
+    "note_en": "Agency fixed pricing",
+    "urls": [
+     "https://www.polestar.com/au/offers/"
+    ],
+    "confidence": "中"
+   }
+  }
+ }
+}

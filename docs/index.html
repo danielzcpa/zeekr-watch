@@ -146,6 +146,7 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
   <div class="tab" data-tab="prices" data-i="t.prices">价格与销售政策</div>
   <div class="tab" data-tab="timeline" data-i="t.timeline">政策时间线 2026</div>
   <div class="tab" data-tab="benchmark" data-i="t.benchmark">终端折扣</div>
+  <div class="tab" data-tab="tp" data-i="t.tp">真实成交价</div>
   <div class="tab" data-tab="matrix" data-i="t.matrix">对标矩阵</div>
   <div class="tab" data-tab="sources" data-i="t.sources">数据源状态</div>
 </div></nav>
@@ -184,13 +185,14 @@ table.sticky th:first-child,table.sticky td:first-child{position:sticky;left:0;b
   <section class="page" id="prices"></section>
   <section class="page" id="timeline"></section>
   <section class="page" id="benchmark"></section>
+  <section class="page" id="tp"></section>
   <section class="page" id="matrix"></section>
   <section class="page" id="sources"></section>
 </main>
-<footer><span id="build" class="small" style="display:block;margin-bottom:4px">build 2026-11-02c</span><span data-i="footer">数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。</span></footer>
+<footer><span id="build" class="small" style="display:block;margin-bottom:4px">build 2026-11-12a</span><span data-i="footer">数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。</span></footer>
 <script>
 const I18N = {
- zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.deliveries":"交付量","t.prices":"价格与销售政策","t.timeline":"政策时间线 2026","t.benchmark":"终端折扣","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
+ zh:{title:"ZEEKR 澳洲市场监控","t.overview":"总览","t.complaints":"投诉监控","t.launches":"竞品上市","t.deliveries":"交付量","t.prices":"价格与销售政策","t.timeline":"政策时间线 2026","t.benchmark":"终端折扣","t.tp":"真实成交价","t.matrix":"对标矩阵","t.sources":"数据源状态",loading:"数据加载中…",
   footer:"数据来自公开来源（Google News、行业媒体 RSS、Reddit、ProductReview、OzBargain、应用商店、Google 地图、各品牌官网）。关键词规则分类，供内部参考，重要事项请核对原文。",
   updated:"更新于",next:"下次约",k24:"近 24 小时投诉",k7:"近 7 天投诉",khigh:"高严重度（7 天）",klaunch:"竞品上市信号（7 天）",koffer:"竞品价格/政策信号（7 天）",kpage:"官网政策页面变化（7 天）",knews:"ZEEKR 相关报道（7 天）",kitems:"数据库条目",
   alerts:"需要关注",noalerts:"近 72 小时无新的高严重度投诉或竞品重大信号。",series:"近 30 天趋势（按发布日期）",cats:"投诉分类（近 30 天）",models:"涉及车型（近 30 天）",srcs:"投诉来源（近 30 天）",
@@ -210,7 +212,7 @@ const I18N = {
   f_win:"时间",w24:"近 24 小时",w7:"近 7 天",w30:"近 30 天",f_news:"ZEEKR 报道/官方",l_sig:"信号",l_sig_launch:"上市/发布信号",l_sig_offer:"价格/政策信号",l_sig_all:"全部竞品动态",
   login_t:"ZEEKR 澳洲市场监控",login_p:"请输入用户名与密码",login_b:"进入",login_e:"用户名或密码不正确",login_u:"用户名",login_pw:"密码",logout:"退出",pw_title:"修改密码",pw_note:"站点为静态页面，新密码需由管理员更新账号表后生效。生成记录后发给管理员，或由管理员直接在 GitHub 上更新。",pw_cur:"当前密码",pw_new:"新密码（至少 8 位）",pw_new2:"再次输入新密码",pw_btn:"生成新密码记录",pw_cancel:"取消",pw_err_cur:"当前密码不正确",pw_err_match:"两次输入的新密码不一致",pw_err_len:"新密码至少 8 位",pw_err_same:"新密码不能与当前密码相同",pw_done:"已生成。请把下面这条记录发给管理员；管理员提交后请用新密码重新登录。",pw_copy:"复制记录",pw_copied:"已复制",pw_mail:"发邮件给管理员",pw_github:"管理员：在 GitHub 上更新",
  },
- en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.deliveries":"Deliveries","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Terminal discounts","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
+ en:{title:"ZEEKR Australia Market Watch","t.overview":"Overview","t.complaints":"Complaints","t.launches":"Competitor launches","t.deliveries":"Deliveries","t.prices":"Prices & offers","t.timeline":"Policy timeline 2026","t.benchmark":"Terminal discounts","t.tp":"Transaction prices","t.matrix":"Benchmark matrix","t.sources":"Sources",loading:"Loading…",
   footer:"Public sources only (Google News, industry RSS, Reddit, ProductReview, OzBargain, app stores, Google Maps, brand sites). Rule-based keyword classification for internal reference; verify against the original before acting.",
   updated:"Updated",next:"Next ~",k24:"Complaints, 24h",k7:"Complaints, 7d",khigh:"High severity, 7d",klaunch:"Launch signals, 7d",koffer:"Price / offer signals, 7d",kpage:"Offer-page changes, 7d",knews:"ZEEKR coverage, 7d",kitems:"Items in database",
   alerts:"Needs attention",noalerts:"No new high-severity complaints or major competitor signals in the last 72 hours.",series:"30-day trend (by publish date)",cats:"Complaint categories, 30d",models:"Models mentioned, 30d",srcs:"Complaint sources, 30d",
@@ -438,7 +440,7 @@ function renderAll(){
   const g=D.summary.generated; document.getElementById('updated').textContent=`${T('updated')} ${fmtTime(g)} (${ago(g)})`;
   const nx=new Date(new Date(g).getTime()+30*60000); document.getElementById('nextrun').textContent=`${T('next')} ${nx.toLocaleTimeString(lang==='zh'?'zh-CN':'en-AU',{timeZone:tz,hour:'2-digit',minute:'2-digit',hour12:false})}`;
   renderOverview(); renderComplaints(); renderLaunches(); renderPrices(); renderMatrix(); renderSources();
-  if(window.renderTimeline) renderTimeline(); if(window.renderBenchmark) renderBenchmark(); if(window.renderDeliveries) renderDeliveries();
+  if(window.renderTimeline) renderTimeline(); if(window.renderBenchmark) renderBenchmark(); if(window.renderDeliveries) renderDeliveries(); if(window.renderTP) renderTP();
 }
 function go(tab){ document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===tab)); document.querySelectorAll('.page').forEach(p=>p.classList.toggle('active',p.id===tab)); try{localStorage.setItem('zw.tab',tab);}catch(e){} window.scrollTo({top:0}); }
 document.getElementById('tabs').addEventListener('click',e=>{ const t=e.target.closest('.tab'); if(t) go(t.dataset.tab); });
@@ -481,7 +483,7 @@ async function load(){
   const t=Date.now(); const j=async n=>{ const r=await fetch(`data/${n}.json?t=${t}`); if(!r.ok) throw new Error(n+': '+r.status); return r.json(); };
   const opt=async n=>{ try{ return await j(n);}catch(e){ return null; } };
   [D.summary,D.items,D.zeekr,D.comps] = await Promise.all([j('summary'),j('items'),j('zeekr'),j('competitors')]);
-  [D.changes,D.snaps,D.runs,D.places,D.policy,D.dap,D.german,D.bench,D.sales,D.ev,D.smap] = await Promise.all([opt('offer_changes'),opt('offer_snapshots'),opt('runs'),opt('places'),opt('policy_events'),opt('dap_history'),opt('german_evidence'),opt('benchmark'),opt('sales_history'),opt('ev_monthly'),opt('sales_map')]);
+  [D.changes,D.snaps,D.runs,D.places,D.policy,D.dap,D.german,D.bench,D.sales,D.ev,D.smap,D.tp] = await Promise.all([opt('offer_changes'),opt('offer_snapshots'),opt('runs'),opt('places'),opt('policy_events'),opt('dap_history'),opt('german_evidence'),opt('benchmark'),opt('sales_history'),opt('ev_monthly'),opt('sales_map'),opt('tp')]);
   D.bench = D.bench || {};
   document.getElementById('loading').style.display='none';
   renderAll();
@@ -491,5 +493,6 @@ gateOK().then(ok=>{ if(ok) load().catch(e=>{ document.getElementById('loading').
 </script>
 <script src="timeline.js?v=4"></script>
 <script src="deliveries.js?v=4"></script>
+<script src="tp.js?v=1"></script>
 </body>
 </html>
