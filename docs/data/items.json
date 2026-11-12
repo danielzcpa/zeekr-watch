@@ -1,5 +1,286 @@
 [
  {
+  "id": "0fcf92893e36794d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON01DNlUya3pxRTlvZHdDelhvYklLRXF3RWNxT3YwSUpUc3pLRUt2UUxSODd1MjdtVW9EWFBCZFAxYmRTZDZEMmc0OUtnUkpsTXktcTREclNRZWN0ZFNwbU14emw4LUMwcmR6ekFDUG05YzZZRHpzSktpMVlrd1hWUmNQeU5seTh1RWhSWlpTRWNtWnVfSVdpNnVtNGF4UQ?oc=5",
+  "title": "2025 Zeekr 7X Performance Auto AWD MY26 - Carsales",
+  "text": "2025 Zeekr 7X Performance Auto AWD MY26 Carsales",
+  "author": "",
+  "published": "2026-11-12T22:50:26+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "2efd6f5d24c1e85b",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/audi-q4-e-tron-to-lead-connected-services-rollout-for-volkswagen-group-evs-in-australia",
+  "title": "Audi Q4 e-tron to lead connected services rollout for Volkswagen Group EVs in Australia",
+  "text": "Audi Australia has quietly confirmed connectivity for its updated Q4 e-tron electric SUV range due early next year, marking the first time any Volkswagen Group MEB model has offered connected services in Australia. Speaking with CarExpert at the recent launch of the new Audi RS5 in Tasmania, head of product for the German marque's local arm, Matthew Dale, said Audi leading the local rollout of connectivity for models based on the German auto giant’s electric MEB platform is a logical step given its existing infrastructure. \"Audi was in a very strong position to begin with – we launched connected services, the full suite as per Europe, and all of the the connectivity services, remote services, in-car infotainment services. That's across our whole range,\" Mr Dale said. \"So we have a very strong business case to speak to the MEB product and say 'for Q4 e-tron, we require connectivity', and we know BEV customers are tech-focused and really position technology as high in their top five [priorities]. \"So when we looked at that, we had a very strong business case, and we managed to get the factory to develop connected services for the Australian market using an already very strong platfor",
+  "author": "James Wong",
+  "published": "2026-11-12T22:45:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "audi-q4"
+  ],
+  "brands": [
+   "audi",
+   "volkswagen"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "e1de3734af9b46e1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · St George & Sutherland Shire Leader",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblIwUkpHUmVEdlBRVS1oUGlIdnhLb0VDT0N3WUxpaWRXOWFWMHVxazd5cFI1RW91dXc1bjhHN3BnNFVhVHJnS0VDS0lZaFY2R3lWWDVuOXZ1NFhOTzBMcERYQ3Nza2c3SFg4ZmNkU3ZSeE9XRmVCV1I3cEdhWE4zM2lPUXNjV2lyWDJDRG9UYlR2dVRCMzVLcUJaSQ?oc=5",
+  "title": "New Zeekr rival wants a ute just for Oz - St George & Sutherland Shire Leader",
+  "text": "New Zeekr rival wants a ute just for Oz St George & Sutherland Shire Leader",
+  "author": "",
+  "published": "2026-11-12T22:08:46+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "d7cb7a73ac6455cf",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHE3XzVKSHAwQk9EZWZoNnBOVU5xMlBqSjRRY1NYSUxQQldyeko5ZkRuUXotUlJHaGFxSW9BV2d3eHJHUFBhSGlJN3RQSDZkQjlUb2ZGcHBobU90ZGRTSl9JRVQ3SS1ZZEVrS3o4ankzWjRITktDT05pT3RXOEtYRm1jVnViVWVmMXZDX180Nl9JdWxtRFZxbkl3UUViNHJRa3k1VlVmcmZTUF9FSzdZbnU4WkxkSUxuTzlIRGFNZTA?oc=5",
+  "title": "2027 Hongqi ute: New Zeekr-rivalling Chinese brand aims to build Chery Stockman, Toyota HiLux rival just for Australia - CarsGuide",
+  "text": "2027 Hongqi ute: New Zeekr-rivalling Chinese brand aims to build Chery Stockman, Toyota HiLux rival just for Australia CarsGuide",
+  "author": "",
+  "published": "2026-11-12T21:58:07+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "62a7a24af3bd91a9",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/jlr-v-byd-update-jlr-ordered-to-destroy-seized-byd-files-as-ti7-defender-dispute-continues/",
+  "title": "JLR v BYD update: JLR ordered to destroy seized BYD files as Ti7 Defender dispute continues",
+  "text": "Jaguar Land Rover must destroy files seized from BYD in the Netherlands, but the court has not ruled on allegations involving the Ti7 and Defender. The post JLR v BYD update: JLR ordered to destroy seized BYD files as Ti7 Defender dispute continues appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-12T21:29:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "land rover"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "de143325c2bfa6e4",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xuosti/v2h_code_for_australian_7x/",
+  "title": "V2H code for Australian 7x",
+  "text": "",
+  "author": "/u/ThunderboltsRock",
+  "published": "2026-11-12T21:09:21+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "63b99cc8c15a3b28",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/audi-a8-production-ends-successor-may-be-made-in-china-on-huawei-platform-report",
+  "title": "Audi A8 production ends, successor may be made in China on Huawei platform – report",
+  "text": "The Audi A8 , once an aluminium pioneer and the brand's flagship model, is no more. Although a successor has yet to be confirmed, the company is reportedly mulling two follow-up models. According to Auto Motor und Sport , production of the fourth-generation A8 has concluded at Audi's plant in Neckarsulm. The space formerly used to manufacture the large sedan has been used to expand production capacity for the Audi A5 sedan and wagon. As we've reported before, no direct successor to the A8 has been lined up, meaning the Q9 large SUV unveiled in July has become Audi's flagship model, for now. While a fifth-generation A8 has yet to be approved, a report late last month from Manager Magazin indicated Audi is planning two successors for the large luxury sedan. The German publication understands Audi is in discussions with Huawei to use the Chinese tech firm's EV architecture for a China-specific A8 model. This A8 could be built at the Changchun factory that's run as a joint venture with FAW. Opened in 2024 to produce the electric Q6L SUV and A6L sedan for the local market, the plant is running far below capacity with combined sales for both cars totalling just 12,000 so far this year. I",
+  "author": "Derek Fung",
+  "published": "2026-11-12T19:45:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "a31935bed6ff6280",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/chinese-luxury-brand-to-decide-on-ute-for-australia-within-six-months",
+  "title": "Chinese luxury brand to decide on ute for Australia within six months",
+  "text": "HQ or Hongqi Australia has confirmed three electric vehicles (EVs) for its local lineup, but it hopes to grow that to five models in the not-too-distant future, and one of those could be a ute. The Chinese luxury brand's initial range will consist of the 5.2m-long E-HS9 large SUV with a starting price (excluding on-road costs) under $150,000 , as well as the 4.5m-long EHS4 small SUV that's based on the Leapmotor B10 , and which will be launched Down Under early in December. They will be joined some time next year by another SUV, the mid-size EHS5. At this week's official launch of the Hongqi E-HS9, Jim (Baojun) Wu, head of the local distributor, told Australian media: \"With these three cars, I hope we can reach 1000 [cars] per month\". Looking slightly deeper into his crystal ball, Mr Wu said he hopes to grow the local HQ or Hongqi range to five cars to include a sedan and a ute. This will enable the brand to \"challenge [for] 2500 or 3000 [sales] per month\". For reference, 3000 sales per month is 36,000 cars in a year. Last year, the manufacturers closest to that number were BMW (26,842), Mercedes-Benz (27,581), Tesla (28,856), Volkswagen (28,970), Chery (34,889) and Nissan (35,511)",
+  "author": "Derek Fung",
+  "published": "2026-11-12T19:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mercedes-benz",
+   "tesla",
+   "bmw",
+   "volkswagen"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
   "id": "78b7db7fc9efe4e6",
   "type": "competitor_news",
   "source": "carexpert",
@@ -1283,7 +1564,7 @@
  {
   "id": "56685ff6847bff61",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · CarSauce",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGlKN0czZlB2QjgzY0ZLUXBZLWtaSjRnU0VFZmpTN3lsaXNseG1hQnRsdVo0T0VWRk0zNDZRaWpvOUs1T0hwaFNxUWY1UVNvbGdlcklNbmk4ZUp1SENrcXBpSjc2b1V3QVNQQy1rTEJxaEF3Zm00REs2dHRPa1dGYXln?oc=5",
   "title": "BYD Seal 07 DM-i Spotted in Sydney Ahead of Likely 2027 Launch - CarSauce",

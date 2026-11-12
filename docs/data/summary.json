@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-12T18:32:40+00:00",
- "duration_s": 316.6,
- "items_total": 1504,
- "new_this_run": 168,
+ "generated": "2026-11-12T23:49:29+00:00",
+ "duration_s": 319.6,
+ "items_total": 1512,
+ "new_this_run": 178,
  "counts": {
   "complaints_24h": 0,
-  "complaints_7d": 6,
+  "complaints_7d": 5,
   "complaints_30d": 33,
   "high_7d": 3,
   "medium_7d": 2,
-  "low_7d": 1,
-  "competitor_news_7d": 104,
-  "launch_signals_7d": 23,
+  "low_7d": 0,
+  "competitor_news_7d": 106,
+  "launch_signals_7d": 24,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 47,
+  "zeekr_news_7d": 46,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -194,8 +194,8 @@
   {
    "date": "2026-11-12",
    "complaints": 0,
-   "competitor_news": 6,
-   "zeekr_news": 7
+   "competitor_news": 10,
+   "zeekr_news": 10
   }
  ],
  "categories_30d": [
@@ -412,7 +412,7 @@
    "latest": "4f333d643e148ba5"
   },
   "polestar-4": {
-   "n_30d": 4,
+   "n_30d": 3,
    "launch": [
     "db98b7fc96217946",
     "a1259168a41994e1",
@@ -468,10 +468,12 @@
    "latest": null
   },
   "audi-q4": {
-   "n_30d": 0,
-   "launch": [],
+   "n_30d": 1,
+   "launch": [
+    "2efd6f5d24c1e85b"
+   ],
    "offer": [],
-   "latest": null
+   "latest": "2efd6f5d24c1e85b"
   },
   "toyota-bz4x": {
    "n_30d": 5,
@@ -525,7 +527,7 @@
    "latest": "008b73b9c410f706"
   },
   "tesla-model-3": {
-   "n_30d": 24,
+   "n_30d": 22,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -558,7 +560,7 @@
    "latest": "55dbbe830943aaf2"
   },
   "byd-seal": {
-   "n_30d": 12,
+   "n_30d": 11,
    "launch": [
     "56685ff6847bff61",
     "1449d41803c59183",
@@ -646,7 +648,7 @@
    "latest": "b3518908fd266851"
   },
   "xpeng-x9": {
-   "n_30d": 5,
+   "n_30d": 4,
    "launch": [
     "2c8e385c13663939",
     "59331c007457eaac"
@@ -769,7 +771,7 @@
    "latest": "1c0a7b8c1d32aa15"
   },
   "byd-sealion8": {
-   "n_30d": 8,
+   "n_30d": 7,
    "launch": [
     "b964e806819bb2d5",
     "477682d9a518ae53",
@@ -807,7 +809,7 @@
    "latest": "e57b115d1292ba36"
   },
   "xpeng-g9l": {
-   "n_30d": 7,
+   "n_30d": 6,
    "launch": [
     "9fe67c888fe6cda7",
     "d7c532d0efb387ba",
@@ -953,6 +955,16 @@
  },
  "alerts": [
   {
+   "kind": "competitor_launch",
+   "id": "2efd6f5d24c1e85b",
+   "title": "Audi Q4 e-tron to lead connected services rollout for Volkswagen Group EVs in Australia",
+   "source": "CarExpert",
+   "t": "2026-11-12T22:45:00+00:00",
+   "competitors": [
+    "audi-q4"
+   ]
+  },
+  {
    "kind": "competitor_offer",
    "id": "78b7db7fc9efe4e6",
    "title": "2027 Xpeng G6 review",
@@ -1086,7 +1098,7 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 66,
+   "count": 64,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1106,7 +1118,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 51,
+   "count": 53,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1116,32 +1128,32 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 80,
+   "count": 81,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 27,
+   "count": 23,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 30,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 16,
+   "count": 15,
    "note": ""
   },
   "carexpert": {
@@ -1222,7 +1234,7 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 403 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
@@ -1626,8 +1638,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 4,
-   "note": "4 new; 38/38 feeds ok"
+   "count": 0,
+   "note": "0 new; 38/38 feeds ok"
   },
   "tp-reference": {
    "ok": true,
