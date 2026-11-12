@@ -1,5 +1,45 @@
 [
  {
+  "id": "78b7db7fc9efe4e6",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-xpeng-g6-review",
+  "title": "2027 Xpeng G6 review",
+  "text": "The Xpeng G6 is back, and there's now a few different versions of the mid-size electric SUV to choose from. As with its rivals, there’s been a focus on the all-singing, all-dancing dual-motor all-wheel drive flagship variant, which is a very convincing electric vehicle in its own right. But for those who realise the whole neck-snapping acceleration thing is actually just a gimmick, one of the Long Range versions might make more sense. It's the rear-wheel drive Long Range RWD variant we're testing in this review, and below we’ll give you a thorough rundown of its pros and cons. How much does the Xpeng G6 cost? The Xpeng G6 is competitively positioned in the Australian EV market. Here’s a rundown of the variants on offer, including the vehicle tested here marked in bold. Model Price before on-road costs 2027 Xpeng G6 RWD Standard Range $51,800 2027 Xpeng G6 RWD Long Range $56,800 2027 Xpeng G6 AWD Performance $63,800 2027 Xpeng G6 AWD Performance Black Edition $66,800 It sure makes a strong impression on price and spec – a full standard equipment list is just a few scrolls away – and definitely stands out on value compared to the Black Edition that Max drove recently. However, if you",
+  "author": "Matt Campbell",
+  "published": "2026-11-12T13:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T18:32:40+00:00"
+ },
+ {
   "id": "d9f2d7b305f2142a",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -128,7 +168,7 @@
  {
   "id": "f5e922bc847c06ad",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZfLWpia3dzOG04YkVvSUYtZWt2NXk4THhJZWd4Y1hJTkxkS0FfY0dkT1AySzlfUUY2bmV6VUJlaTRFY1E2NFprbWdSZmVxaEg4N19GR3JVX1ZaWVlMb054S1hSQ2Jia3JILVJhemVUVjRtbHl2WkM2R2VRaHJ3d2xlai0wU3BlcnVqQkFydmdyZHdsbjhLQTRKeVgwTlNfeFhHX3k2XzBHUQ?oc=5",
   "title": "BMW to launch Hyundai-inspired artificial EV gearbox - Carsales",
@@ -408,6 +448,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "606a219be082a73b",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDhNQVo1OHhkTDNvSmZMZ2lMLXhYQ2NHQ3MwcEF1ZDJNSm5mNHh5SHpJQld0NFljSHRQUUFSdm9mdkVYYXVOclJhV1dNODlEdzVsTTRtTVBuejhLeHM2VlFYdmE2YnhmcEZEdGV3ZmRRM3gtVU1hb2Vjcmx1eG9uTzFxOGZtb1J6Y013S1VPZXlHb0tUeGpPdDV0M0VoSURkVFBFNlVJZjA3T3JaMWZDdEZjUkdHZ0VXazVKcE1KU0NrQmd6?oc=5",
+  "title": "Record-setting EV brand edges closer to Aus: 2027 Lucid Cosmos teased ahead of right-hand drive launch in UK to rival Rivian R2, Volvo EX60 - CarsGuide",
+  "text": "Record-setting EV brand edges closer to Aus: 2027 Lucid Cosmos teased ahead of right-hand drive launch in UK to rival Rivian R2, Volvo EX60 CarsGuide",
+  "author": "",
+  "published": "2026-11-11T23:56:21+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "volvo"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T18:32:40+00:00"
  },
  {
   "id": "dc4286f52f7f7e90",
