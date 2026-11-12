@@ -1,5 +1,401 @@
 [
  {
+  "id": "404f06f9d36ea720",
+  "type": "news_zeekr",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · caradvice.com.au",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZG1VZ2I4YlFuZ1U3SEU0RVhPQlUzWFFxbG1TVnFkMnZOSThGSzVxamIzQ051X3hBXzJ2Y3dYTGtXRnJLTUJlbzRPa00wQ2k3RVI3aDI4V2ZsUlBNQ2JVeUMzVGk4WUVVdzFVeEVlX1F1Q05qSXlaaGhKS0VGTGJpdmFEZlB3MjFVZnVGODlLZldPVDFzb3gwRjBkYl9sRlk?oc=5",
+  "title": "China's most prestigious car brand is about to challenge Zeekr in Australia - caradvice.com.au",
+  "text": "China's most prestigious car brand is about to challenge Zeekr in Australia caradvice.com.au",
+  "author": "",
+  "published": "2026-11-12T02:16:42+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "6b72905a5e12a9bb",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Alvinology",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTdSRlBmSFVnUjBZLU9OVHBKVGs0UGI3ci1LeEl2SDU1UjZuM0pqSnZMYm4zbW5ITElEY3R5dVVlWDcyeTliWmw3cE8wLVJOX0RnQjZhRXBOaGN1and6YmFHUW96b1cyUzNsU0hpLTZXMGRnOWF2bGYzV1d4N21OYXo4WlFHNm5ESndTNThkZVl2YzdLYlV3M0FINmhJekRULXZiYlkwemF3ZVpEalpvWmNrSXgtLV9feDdrRWpRcjl6RW1EMUtINGVaMzc?oc=5",
+  "title": "Premium Auto EV Festival 2026 Brings AVATR, CHANGAN, XPENG and ZEEKR to Pasir Panjang Power Station - Alvinology",
+  "text": "Premium Auto EV Festival 2026 Brings AVATR, CHANGAN, XPENG and ZEEKR to Pasir Panjang Power Station Alvinology",
+  "author": "",
+  "published": "2026-11-12T01:30:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "xpeng",
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "55dbbe830943aaf2",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/polestar-formula-2030-revealed-electric-sports-car-concept-shows-the-face-of-the-next-polestar-2/",
+  "title": "Polestar Formula 2030 revealed: Electric sports car concept shows the face of the next Polestar 2",
+  "text": "Polestar Formula 2030 concept previews the next Polestar 2 and Polestar 7, revealing a new performance-focused design direction and driver-first cabin. The post Polestar Formula 2030 revealed: Electric sports car concept shows the face of the next Polestar 2 appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-12T01:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "polestar-2"
+  ],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "2fe1ad4c6d46d915",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/gwm-ora-5-plus-ev-to-take-on-tesla-byd-in-2027",
+  "title": "GWM Ora 5 Plus EV to take on Tesla, BYD in 2027",
+  "text": "GWM Australia has confirmed a second electric mid-size SUV for early next year, as the Chinese brand continues its product onslaught. Due in the first quarter of 2027, the GWM Ora 5 Plus EV will sit alongside the also-confirmed GWM Haval Jolion Max , which will be sold with PHEV and EV powertrains. While not officially revealed in Australian-spec just yet, the Ora 5 Plus sold in Thailand appears to be an export version of the Ora 5 Touring revealed in Chinese government filings back in August . In Thailand the Ora 5 Plus is available with electric (EV) and petrol-electric hybrid (HEV) powertrains like the smaller Ora 5 SUV , though in Australia it appears both Ora models will be EV-only at least for the time being. Measuring 4758mm long, 1833mm wide and 1630mm tall riding on a 2720mm wheelbase, the GWM Ora 5 Plus is almost 300mm longer in overall length than the existing Ora 5, but retains the same width and wheelbase. It appears all of the Ora 5 Plus's extra size is in the extended rear overhang, which opens up 495L of cargo capacity according to Thai specifications, compared to the Australian-market Ora 5's 362L boot. Under the skin of the EV version is a 150kW/260Nm electric mot",
+  "author": "James Wong",
+  "published": "2026-11-12T00:33:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "008b73b9c410f706",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/chinas-forthing-locks-in-updated-geely-ex5-rival-for-new-zealand-australian-timing-unclear",
+  "title": "China's Forthing locks in updated Geely EX5 rival for New Zealand, Australian timing unclear",
+  "text": "Having been revealed to the world at last month’s Paris motor show, the Forthing TK5 – a facelift for the model formerly known here as the Taikon 5 – has been confirmed for the New Zealand market, with its arrival pencilled in for early 2027. However, an Australian launch date has yet to be announced. \"The model known as the Forthing TK5 in Europe is not confirmed for the Australian market. We have announced three new models for Australia over the next 18 months and will have more to add closer to local showroom arrivals,\" said a spokesperson for Forthing Australia. The TK5 is essentially a comprehensive update for the Taikon 5, a mid-size SUV that debuted the Forthing brand in Australia and New Zealand earlier this year and which offers both electric (EV) and extended-range electric (EREV) powertrains. A Forthing New Zealand representative confirmed to CarExpert NZ that the TK5 is expected to land locally “towards the end of Q1 2027”, with the brand's TK7 people mover set to arrive at the same time. The TK7 has also been confirmed for Australia, though specific local launch timing has yet to be announced. It's unclear when the updated mid-size will arrive in Australia. The model’s",
+  "author": "Matthew Hansen",
+  "published": "2026-11-12T00:16:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "1501bbef00e45af6",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDQ5UWd6MDdYYVhmU2M5MklJQnl4MFVIQTFTWExybW1EUGxBc21pVHgzTE51NlpkNGp2djJQbVkyZUcycXhyNG9XcWJHa3FGQ2VQeUp0dG1HdnROa1BjT1F4RWtZNzFmMHE1azZNU3BvcVFVZkRiY0hjX282R01zRi1lVDE2eUpTTnpBTVZuaE1JSk1Mb1E?oc=5",
+  "title": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow - Drive",
+  "text": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow Drive",
+  "author": "",
+  "published": "2026-11-11T23:39:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "dc4286f52f7f7e90",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-audi-a5-unplugs-ice-variants-as-phev-demand-surges",
+  "title": "2027 Audi A5 unplugs ICE variants as PHEV demand surges",
+  "text": "Audi Australia has streamlined the A5 Sedan and Avant range, removing non-PHEV (plug-in hybrid) versions or relegating them to \"customer order only\". The 2027 Audi A5 and S5 lineup is now available to order, with the previous TFSI 150kW and TFSI 200kW quattro models now conspicuously absent from the updated spec guide. Speaking with CarExpert at the recent launch of the flagship Audi RS5 , product planning manager for the Ingolstadt marque in Australia, Esther Choi, said the majority of A5 customers had been opting for the plug-in 'e-hybrid' versions anyway. \"A5 plug-in hybrid [were doing] most of the heavy lifting. So I guess our strategy in terms of positioning and [focusing on] value for the customer worked,\" Ms Choi said. \"The 200kW quattro is now customer order only for now. Obviously, when we launched it, we were saying the [A4] 45 TFSI was quite a significant part of our volume – it was more than 50 per cent – so plug-in was an unknown territory. \"We positioned it [alongside the 200kW quattro], providing more value for the customer and trying to convert those customers into a plug-in hybrid, and that has shown in our sales numbers... and we've been getting very high interest",
+  "author": "James Wong",
+  "published": "2026-11-11T22:38:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "price"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "e57b115d1292ba36",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-hongqi-e-hs9-luxury-electric-suv-to-start-below-dollar150k-arriving-in-january",
+  "title": "2027 Hongqi E-HS9: Luxury electric SUV to start below $150k, arriving in January",
+  "text": "The Hongqi E-HS9 (or HQ E-HS9, as it's sometimes also branded in Australia) electric SUV will arrive in Australia from January 18 with a starting price below $150,000 before on-road costs. With the E-HS9 measuring over 5.2m long, Max Pang, the Australian head of FAW, Hongqi's parent company, thinks the E-HS9 will entice buyers from established European luxury brands, as well as those considering large electric SUVs, like the Kia EV9 . For the Australian market, the E-HS9 will be available solely with the most powerful drivetrain and largest battery combination. With two motors driving all four wheels, local E-HS9 models have a total system output of 405kW and 606Nm . Fed by a 120kWh nickel manganese cobalt (NMC) battery pack from CATL, it has a WLTP driving range of 548km. Weighing a hefty 2636kg, the E-HS9 is capable of completing the 0-100km/h sprint in 5.5 seconds, and hitting a top speed of 200km/h. The car uses a 400V electrical architecture, and supports AC charging up to 11kW, while DC fast charging maxes out at 140kW. While full specifications have yet to be revealed, locally delivered versions of the E-HS9 will be equipped with matrix LED headlights, 21-inch alloy wheels,",
+  "author": "Derek Fung",
+  "published": "2026-11-11T22:07:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "45ccf0fdf71f5bea",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/hongqi-launches-in-australia-as-hq-chinese-luxury-ev-maker-takes-aim-at-bmw-and-lexus-with-150k-suv/",
+  "title": "Hongqi launches in Australia as HQ: Chinese luxury EV maker takes aim at BMW and Lexus with $150K SUV",
+  "text": "Hongqi launches in Australia as HQ, taking on BMW and Lexus with the E-HS9 electric SUV and up to $10,000 cashback for early buyers. The post Hongqi launches in Australia as HQ: Chinese luxury EV maker takes aim at BMW and Lexus with $150K SUV appeared first on EV Central .",
+  "author": "Toby Hagon",
+  "published": "2026-11-11T22:04:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "bmw",
+   "lexus"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "ef5d7f60ba082c70",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/changan-deepal-s05-suv-sale-australia-specs",
+  "title": "Changan confirms its cut-price Deepal S05 SUV is coming to Australia",
+  "text": "The Deepal S05 should compete with rivals like the BYD Atto3 and Geely EX5. The post Changan confirms its cut-price Deepal S05 SUV is coming to Australia first appeared on WhichCar .",
+  "author": "Shayne Bugden",
+  "published": "2026-11-11T21:21:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "byd",
+   "deepal",
+   "geely"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "476f221e56c2dac0",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHNQWFFVRzhoTmcxa0w1REJpZDVkMnRkTkJqTXMyYzBRcHEtaUhGZkhlc1RIT19xV08yY2RlNnQ0cGxGUzBjamdScUFhR0txbzloN1YxbEJSMWxUQmtJeDktaE1JODJ5V1NqdDBRQmlYdXU3bTlLSXQ5SlVoalB2MENGRE00RXZhQjZQVmgwVDBPOWh2WGVQdExMSDViOC1pdVhNamJibTRuYkVtS1BMR24xV2Y2eGhNelpBTGowSEk?oc=5",
+  "title": "2027 Audi Q7, Q9 confirmed with A2 e-tron under consideration to battle 2026 Zeekr X - CarsGuide",
+  "text": "2027 Audi Q7, Q9 confirmed with A2 e-tron under consideration to battle 2026 Zeekr X CarsGuide",
+  "author": "",
+  "published": "2026-11-11T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [
+   "audi"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
   "id": "e86067202404d683",
   "type": "competitor_news",
   "source": "gn-zeekr-media",
@@ -356,7 +752,7 @@
  {
   "id": "0da691ee7eaa3e2d",
   "type": "competitor_news",
-  "source": "gn-ev-launch-au",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYndkaTEtaTZJU2hxSUV3dFJEYmU0VlF5MFB3RnlpMkRMQ1hFRlhpNGxybEN5a1p1RGZtM0NycTJJQXBBMjdpamFLWWt6WVhPNnktck9kQ19QZ3M3Wl9MME5fdDNJb2hWWm83MjZHSi1PRXd3c3dkMFdUNUxpTWVJMGRQbEhNWVdYWmtXT2FJTFVuR3l3czRjRFdFMHhYLUJOVmhB?oc=5",
   "title": "Polestar Formula 2030 electric concept revealed - Carsales",
@@ -1787,6 +2183,39 @@
   "first_seen": "2026-10-30T20:39:16+00:00"
  },
  {
+  "id": "623487594ca54651",
+  "type": "competitor_news",
+  "source": "gn-evcentral-industry",
+  "source_name": "Google News · EV Central",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GM19kQzN2OTFWNDhhTldySnl0aVozU2xCUUJPY2h2RHZUdkJHMEFVdmVMcUJ3b1hOWS1FN0VFR3hvQnZkQXI4YzZ5LUlVdjVoSko5ZUNZX0RQRVk?oc=5",
+  "title": "Mazda CX-80 P50e price and specs: every variant compared - EV Central",
+  "text": "Mazda CX-80 P50e price and specs: every variant compared EV Central",
+  "author": "",
+  "published": "2026-11-09T09:19:24+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "mazda"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-10-30T20:39:16+00:00"
+ },
+ {
   "id": "1449d41803c59183",
   "type": "competitor_news",
   "source": "gn-evcentral-industry",
@@ -2338,7 +2767,7 @@
  {
   "id": "2b97ba470ed7e59d",
   "type": "news_zeekr",
-  "source": "gn-brands-cn",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3NReGVOVURfcFdCbzZYVTdCZ1REdlNiWV85QlRrbHNhMl9IOVRTeGtRbFlqYS12cTFBdmZCcmFpc3NkM2NOdThHX01TMHJmemNrUlZocTJwZVVSRGJyeUpMSGJ6cXhXMG1TQ2FaM24wdlJBMG56R1ZaV3JrU0pJQllOZUhIUElEZU9fa3Mwdk1zdC1lWERaRldXbEpIeGhSQnpqbw?oc=5",
   "title": "Avatr eyes higher prices than Zeekr in Australia - Carsales",
@@ -2361,7 +2790,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-09T01:53:50+00:00"
@@ -11736,39 +12165,6 @@
   ],
   "brands": [
    "mercedes-benz"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-30T20:39:16+00:00"
- },
- {
-  "id": "623487594ca54651",
-  "type": "competitor_news",
-  "source": "gn-evcentral-industry",
-  "source_name": "Google News · EV Central",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GM19kQzN2OTFWNDhhTldySnl0aVozU2xCUUJPY2h2RHZUdkJHMEFVdmVMcUJ3b1hOWS1FN0VFR3hvQnZkQXI4YzZ5LUlVdjVoSko5ZUNZX0RQRVk?oc=5",
-  "title": "Mazda CX-80 P50e price and specs: every variant compared - EV Central",
-  "text": "Mazda CX-80 P50e price and specs: every variant compared EV Central",
-  "author": "",
-  "published": "2026-10-30T20:12:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "mazda"
   ],
   "categories": [],
   "sentiment": {
@@ -43073,10 +43469,10 @@
   "id": "cc9b6583e66e9011",
   "type": "news_zeekr",
   "source": "gn-zeekr-evcentral",
-  "source_name": "Google News · thebeep.com",
+  "source_name": "Google News · The Beep",
   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwRHE3WnVEOVIwTVl1STlKaWdWazVobmJKbmJuOGtia0F0Z19kSU52NWNiMUJRRTlENndXOHJJNjNlYktHU2hfazd3?oc=5",
-  "title": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals - thebeep.com",
-  "text": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals thebeep.com",
+  "title": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals - The Beep",
+  "text": "Zeekr Cars Australia | Compare 2026 Models, Prices & Deals The Beep",
   "author": "",
   "published": "2026-09-03T08:57:53+00:00",
   "rating": null,

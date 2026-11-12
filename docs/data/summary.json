@@ -1,28 +1,22 @@
 {
- "generated": "2026-11-11T21:14:00+00:00",
- "duration_s": 313.2,
- "items_total": 1484,
- "new_this_run": 161,
+ "generated": "2026-11-12T02:27:49+00:00",
+ "duration_s": 308.6,
+ "items_total": 1495,
+ "new_this_run": 175,
  "counts": {
   "complaints_24h": 0,
   "complaints_7d": 6,
-  "complaints_30d": 35,
+  "complaints_30d": 33,
   "high_7d": 4,
   "medium_7d": 1,
   "low_7d": 1,
-  "competitor_news_7d": 106,
-  "launch_signals_7d": 22,
-  "offer_signals_7d": 4,
-  "zeekr_news_7d": 52,
+  "competitor_news_7d": 108,
+  "launch_signals_7d": 25,
+  "offer_signals_7d": 5,
+  "zeekr_news_7d": 56,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
-  {
-   "date": "2026-10-13",
-   "complaints": 2,
-   "competitor_news": 33,
-   "zeekr_news": 16
-  },
   {
    "date": "2026-10-14",
    "complaints": 2,
@@ -122,7 +116,7 @@
   {
    "date": "2026-10-30",
    "complaints": 2,
-   "competitor_news": 17,
+   "competitor_news": 16,
    "zeekr_news": 12
   },
   {
@@ -182,7 +176,7 @@
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 25,
+   "competitor_news": 26,
    "zeekr_news": 6
   },
   {
@@ -194,8 +188,14 @@
   {
    "date": "2026-11-11",
    "complaints": 0,
-   "competitor_news": 12,
-   "zeekr_news": 0
+   "competitor_news": 16,
+   "zeekr_news": 2
+  },
+  {
+   "date": "2026-11-12",
+   "complaints": 0,
+   "competitor_news": 3,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -203,19 +203,19 @@
    "key": "software",
    "zh": "软件/APP/车机",
    "en": "Software / app / infotainment",
-   "n": 23
+   "n": 22
   },
   {
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 12
+   "n": 10
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 11
+   "n": 10
   },
   {
    "key": "service",
@@ -227,7 +227,7 @@
    "key": "quality",
    "zh": "质量/故障",
    "en": "Quality / faults",
-   "n": 6
+   "n": 5
   },
   {
    "key": "sales",
@@ -255,9 +255,9 @@
  },
  "sources_30d": {
   "Google Play (AU)": 14,
-  "Reddit r/Zeekr7xAustralia": 12,
-  "Reddit r/AustralianEV": 3,
+  "Reddit r/Zeekr7xAustralia": 11,
   "ProductReview.com.au": 2,
+  "Reddit r/AustralianEV": 2,
   "Reddit r/Zeekr": 2,
   "Reddit r/AutoAdvice": 1,
   "Reddit r/ZeekrAustraliaNZ": 1
@@ -336,7 +336,7 @@
    "latest": null
   },
   "tesla-model-y": {
-   "n_30d": 30,
+   "n_30d": 28,
    "launch": [
     "cfbbbacddbc07cfb",
     "064fcb4c32ef7101",
@@ -364,7 +364,7 @@
    "latest": "315ef0e84f51afd1"
   },
   "byd-sealion7": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "b964e806819bb2d5",
     "851fd88980e959a8",
@@ -501,8 +501,10 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 10,
+   "n_30d": 11,
    "launch": [
+    "008b73b9c410f706",
+    "ef5d7f60ba082c70",
     "6c8da9fc04a93fde",
     "9443a47dfbdd8ef2",
     "06fa47391abc61ff",
@@ -517,10 +519,10 @@
     "36b6bc6c0c756e02",
     "37c34a9709de995f"
    ],
-   "latest": "6c8da9fc04a93fde"
+   "latest": "008b73b9c410f706"
   },
   "tesla-model-3": {
-   "n_30d": 25,
+   "n_30d": 24,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -540,8 +542,9 @@
    "latest": "392cb52ea11ae011"
   },
   "polestar-2": {
-   "n_30d": 6,
+   "n_30d": 7,
    "launch": [
+    "55dbbe830943aaf2",
     "698a08aad2929bd7",
     "6550b50254121430",
     "479081910d666025"
@@ -549,7 +552,7 @@
    "offer": [
     "9c17ca6e0e68d5e3"
    ],
-   "latest": "894dd714e828e0ff"
+   "latest": "55dbbe830943aaf2"
   },
   "byd-seal": {
    "n_30d": 12,
@@ -640,7 +643,7 @@
    "latest": "b3518908fd266851"
   },
   "xpeng-x9": {
-   "n_30d": 9,
+   "n_30d": 6,
    "launch": [
     "2c8e385c13663939",
     "59331c007457eaac"
@@ -681,7 +684,7 @@
    "latest": "a8af33cd32623473"
   },
   "byd-m9": {
-   "n_30d": 7,
+   "n_30d": 6,
    "launch": [
     "8c9ef38f9af3c4e7",
     "2c8e385c13663939"
@@ -763,7 +766,7 @@
    "latest": "1c0a7b8c1d32aa15"
   },
   "byd-sealion8": {
-   "n_30d": 9,
+   "n_30d": 8,
    "launch": [
     "b964e806819bb2d5",
     "477682d9a518ae53",
@@ -787,6 +790,7 @@
   "kia-ev9": {
    "n_30d": 6,
    "launch": [
+    "e57b115d1292ba36",
     "2c67435d1d334093",
     "b5c47101ca081290",
     "205ea3973e46d6d4",
@@ -794,12 +798,13 @@
     "d03e92850d21bd42"
    ],
    "offer": [
+    "e57b115d1292ba36",
     "d03e92850d21bd42"
    ],
-   "latest": "b7a4d688b70eac9c"
+   "latest": "e57b115d1292ba36"
   },
   "xpeng-g9l": {
-   "n_30d": 14,
+   "n_30d": 11,
    "launch": [
     "9fe67c888fe6cda7",
     "d7c532d0efb387ba",
@@ -862,7 +867,7 @@
    "latest": "0cad556c45557e97"
   },
   "volvo-ex90": {
-   "n_30d": 6,
+   "n_30d": 5,
    "launch": [
     "26d9d3952c5a1280",
     "d267055a6c3273cb",
@@ -944,6 +949,46 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "55dbbe830943aaf2",
+   "title": "Polestar Formula 2030 revealed: Electric sports car concept shows the face of the next Polestar 2",
+   "source": "EV Central",
+   "t": "2026-11-12T01:00:00+00:00",
+   "competitors": [
+    "polestar-2"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "008b73b9c410f706",
+   "title": "China's Forthing locks in updated Geely EX5 rival for New Zealand, Australian timing unclear",
+   "source": "CarExpert",
+   "t": "2026-11-12T00:16:00+00:00",
+   "competitors": [
+    "geely-ex5"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "e57b115d1292ba36",
+   "title": "2027 Hongqi E-HS9: Luxury electric SUV to start below $150k, arriving in January",
+   "source": "CarExpert",
+   "t": "2026-11-11T22:07:00+00:00",
+   "competitors": [
+    "kia-ev9"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
+   "id": "ef5d7f60ba082c70",
+   "title": "Changan confirms its cut-price Deepal S05 SUV is coming to Australia",
+   "source": "WhichCar",
+   "t": "2026-11-11T21:21:45+00:00",
+   "competitors": [
+    "geely-ex5"
+   ]
+  },
   {
    "kind": "offer_page_change",
    "id": "59e0f65e88778dd3",
@@ -1093,20 +1138,12 @@
    "competitors": [
     "hyundai-elexio"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "9edb50303a325259",
-   "title": "Zecar (all-brand offers) 官网政策页面变化（+3 / −4 行）",
-   "title_en": "Zecar (all-brand offers) offer page changed (+3 / −4 lines)",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-11-09T01:58:49+00:00"
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 69,
+   "count": 66,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1116,7 +1153,7 @@
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 33,
+   "count": 34,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1136,12 +1173,12 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 85,
+   "count": 80,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 27,
+   "count": 28,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1151,7 +1188,7 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 25,
+   "count": 23,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1161,7 +1198,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 46,
+   "count": 34,
    "note": ""
   },
   "carexpert": {
@@ -1220,9 +1257,9 @@
    "note": "anonymous RSS"
   },
   "reddit-ZeekrAustraliaNZ": {
-   "ok": false,
-   "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr": {
    "ok": false,
@@ -1237,7 +1274,7 @@
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
