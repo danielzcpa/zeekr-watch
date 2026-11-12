@@ -1,5 +1,202 @@
 [
  {
+  "id": "d9f2d7b305f2142a",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Citizen",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0ppZV9Nc2wySEtzWlBOWW5JR3pYb3dJWVhRZmtUM3A5YWc3ZE40bmQ4a1BkRkgzRTdRdmZqYW8yQlpwWV92SEVUZkhZMTFSV1ctTUNyb0lSTGZaLXdZb1o1QUVKM1RZLXNQeTl4NmptMTY0LWtadTdxblVGTTIydWNSYw?oc=5",
+  "title": "Zeekr slowly gearing up for South Africa based on new online discovery - The Citizen",
+  "text": "Zeekr slowly gearing up for South Africa based on new online discovery The Citizen",
+  "author": "",
+  "published": "2026-11-12T08:03:35+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
+  "id": "549ef86db5756e3b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEtFYWdyUm9iRW9IQ3dXZDkyT2lRbkFxdjhJRkRvOENTaTNfaEdHb2pmTkJSUE80cTA0LTVZbmJnMl9pWTRaNjRHR3E3US13NzdnS1YzMkVFd0llU0JEd1d0YlhjRHBUM0tIX016cDhyZllSUjBSQVpYZ2laS1BLLWp1ajY5LUtLNjZscTIwUQ?oc=5",
+  "title": "New $150K Zeekr 9X rival detailed in Oz - The Canberra Times",
+  "text": "New $150K Zeekr 9X rival detailed in Oz The Canberra Times",
+  "author": "",
+  "published": "2026-11-12T07:17:09+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
+  "id": "e72253c27e7b9928",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Paul Tan's Automotive News",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IaWdPd3hUdDQ3akZTTzJ1cmVJUGFRdzVCQ08tTW1JZTBpWnoybHNLZ2I3ZjQyT0JZaFFjWWVXNWpwb2VrSjNrNDFtdFJBWFpTYjhaeVQxZ1JZZGhpSVdQT1REeVVFdHlUa0x0YVQ1Z3lRSzhyYUtid01fVWpWQQ?oc=5",
+  "title": "2027 Zeekr 009 launching in Malaysia soon - now 800V, 822 PS, 560 kW DC; new swivel seats, Naim speakers - Paul Tan's Automotive News",
+  "text": "2027 Zeekr 009 launching in Malaysia soon - now 800V, 822 PS, 560 kW DC; new swivel seats, Naim speakers Paul Tan's Automotive News",
+  "author": "",
+  "published": "2026-11-12T06:17:27+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
+  "id": "1501bbef00e45af6",
+  "type": "news_zeekr",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDQ5UWd6MDdYYVhmU2M5MklJQnl4MFVIQTFTWExybW1EUGxBc21pVHgzTE51NlpkNGp2djJQbVkyZUcycXhyNG9XcWJHa3FGQ2VQeUp0dG1HdnROa1BjT1F4RWtZNzFmMHE1azZNU3BvcVFVZkRiY0hjX282R01zRi1lVDE2eUpTTnpBTVZuaE1JSk1Mb1E?oc=5",
+  "title": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow - Drive",
+  "text": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow Drive",
+  "author": "",
+  "published": "2026-11-12T05:53:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "competitor",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "f5e922bc847c06ad",
+  "type": "competitor_news",
+  "source": "gn-ev-offer-au",
+  "source_name": "Google News · Carsales",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZfLWpia3dzOG04YkVvSUYtZWt2NXk4THhJZWd4Y1hJTkxkS0FfY0dkT1AySzlfUUY2bmV6VUJlaTRFY1E2NFprbWdSZmVxaEg4N19GR3JVX1ZaWVlMb054S1hSQ2Jia3JILVJhemVUVjRtbHl2WkM2R2VRaHJ3d2xlai0wU3BlcnVqQkFydmdyZHdsbjhLQTRKeVgwTlNfeFhHX3k2XzBHUQ?oc=5",
+  "title": "BMW to launch Hyundai-inspired artificial EV gearbox - Carsales",
+  "text": "BMW to launch Hyundai-inspired artificial EV gearbox Carsales",
+  "author": "",
+  "published": "2026-11-12T04:52:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "bmw"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
+  "id": "c8ff254b30b0f7eb",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/news/gwm-ora-5-plus-confirmed-sale-australia",
+  "title": "2027 GWM Ora 5 Plus confirmed for Australia as an affordable Tesla Model Y rival",
+  "text": "GWM is preparing to expand its Australian electric lineup with a Ora 5 Plus medium SUV, potentially offering family-friendly practicality for a cheap price. The post 2027 GWM Ora 5 Plus confirmed for Australia as an affordable Tesla Model Y rival first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-12T04:23:18+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-y"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
   "id": "404f06f9d36ea720",
   "type": "news_zeekr",
   "source": "gn-brands-eu",
@@ -59,6 +256,45 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "753fcb13028a89e3",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON29mVmtXS0tHa1dyUzVUaTBabzRocmUxYjVsVlEzYnpKMS1ZcGxRRmN1SVc0SFU4ZC1qalNWSU85MlNwczNTNDJ4ZS1GdGYySU8yRlQ0VGxVc1VLVFVpWUJoUzhxSTRwNXBBbnR4MWJ3MVVabFNhWUJsNGQ2QnFiYkU2VHZWS1J6YUhYcFZieVNKZkZSSnJTdXFmM01nbTBhRVZLTVM2RDFKMzRNSjlNbGt1dmFQYjM1d29zTHBobFQ5YmQ3Ymc?oc=5",
+  "title": "2027 Hongqi E-HS9 detailed ahead of Australian deliveries: $150k Zeekr 8X and Kia EV9 rival bets on luxury - CarsGuide",
+  "text": "2027 Hongqi E-HS9 detailed ahead of Australian deliveries: $150k Zeekr 8X and Kia EV9 rival bets on luxury CarsGuide",
+  "author": "",
+  "published": "2026-11-12T01:12:12+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "8X"
+  ],
+  "competitors": [
+   "kia-ev9"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
  },
  {
   "id": "55dbbe830943aaf2",
@@ -170,37 +406,6 @@
   ],
   "scope": "industry",
   "au": true,
-  "extra": {},
-  "first_seen": "2026-11-12T02:27:49+00:00"
- },
- {
-  "id": "1501bbef00e45af6",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · Drive",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDQ5UWd6MDdYYVhmU2M5MklJQnl4MFVIQTFTWExybW1EUGxBc21pVHgzTE51NlpkNGp2djJQbVkyZUcycXhyNG9XcWJHa3FGQ2VQeUp0dG1HdnROa1BjT1F4RWtZNzFmMHE1azZNU3BvcVFVZkRiY0hjX282R01zRi1lVDE2eUpTTnpBTVZuaE1JSk1Mb1E?oc=5",
-  "title": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow - Drive",
-  "text": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow Drive",
-  "author": "",
-  "published": "2026-11-11T23:39:12+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [
-   "7X"
-  ],
-  "competitors": [],
-  "brands": [],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr",
-  "au": false,
   "extra": {},
   "first_seen": "2026-11-12T02:27:49+00:00"
  },
@@ -394,6 +599,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-12T02:27:49+00:00"
+ },
+ {
+  "id": "49b576f02760d974",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0RsZnhOMWtrYnFscWZEN1JqNmFpZDFsaW1VU1RpSlktYm5hNFB4bzFkTnlPS1NqRWw4XzQ2QmprTE43REd5VDlRWnQ4YmJvTU1yV1dMLVBrWUc1OHRuUllVdmxObWVEd3NrVUY0OW5xRXc3V3plQ214M0ZMOWFfc2xDSy1mckxSa0wycHFjbXNsRThQTnA3NnE1cnpSMlpPVmZNNkdmVjg2dkhZUzN4U0NDem0tMi1OakhsZklRYXJTakdNeUE?oc=5",
+  "title": "Japan to strike back against China: 2027 Nissan Patrol and increased supply of 2026 Toyota bZ4X, LandCruiser to lead the fightback - CarsGuide",
+  "text": "Japan to strike back against China: 2027 Nissan Patrol and increased supply of 2026 Toyota bZ4X, LandCruiser to lead the fightback CarsGuide",
+  "author": "",
+  "published": "2026-11-11T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
  },
  {
   "id": "e86067202404d683",
@@ -3898,6 +4138,42 @@
   "first_seen": "2026-11-07T20:07:58+00:00"
  },
  {
+  "id": "752bee50867bac45",
+  "type": "complaint",
+  "source": "reddit-Zeekr",
+  "source_name": "Reddit r/Zeekr",
+  "url": "https://www.reddit.com/r/Zeekr/comments/1xqbnus/zeekr_7gt_rwd_essence/",
+  "title": "Zeekr 7GT RWD (Essence)",
+  "text": "Hi everyone! I’m expecting delivery of my Zeekr 7GT RWD (Essence) soon, and I’d love to hear some honest feedback from current owners. How has your experience been so far with the car, especially regarding software, ADAS, bugs, real-world range, driving comfort, and overall reliability? What about the air-condition in a very hot country over 34 degrees is it that bad Have recent software updates fixed any issues? Are there any problems I should be aware of before taking delivery? I’d really appreciate hearing both the positives and negatives. Thanks in advance!",
+  "author": "/u/sameeeeeeererr",
+  "published": "2026-11-07T17:20:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7GT"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "safety"
+  ],
+  "sentiment": {
+   "score": -2,
+   "neg_hits": 3,
+   "pos_hits": 1,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
   "id": "eca946f32b670453",
   "type": "complaint",
   "source": "playstore-android",
@@ -3928,7 +4204,7 @@
   "au": true,
   "extra": {
    "version": "1.6.8",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-11-08T18:27:33+00:00"
  },
@@ -5512,7 +5788,7 @@
   "au": true,
   "extra": {
    "version": "1.6.8",
-   "thumbs": 0
+   "thumbs": 1
   },
   "first_seen": "2026-11-07T02:17:46+00:00"
  },
@@ -41587,7 +41863,7 @@
   "au": true,
   "extra": {
    "version": "1.6.3",
-   "thumbs": 12
+   "thumbs": 13
   },
   "first_seen": "2026-10-13T04:58:42+00:00"
  },
@@ -51499,45 +51775,6 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "500d5a6fb24b8e5e",
-  "type": "post",
-  "source": "gn-zeekr-forums",
-  "source_name": "Google News · OzBargain",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Tb19od0o5RWJyNkZPY1ZYS0tNZGlfMTZiWDNJWWpidGY5ZHNzY1dFcnBReXNPUUF6clhpdGFESm9KOWFtSERTN0kyNE93QXg1UHc?oc=5",
-  "title": "$5,000 Deposit Bonus on Min. $10,000 Finance on 2WD bZ4X EV: ~$59,000 Driveaway @ Toyota Finance - OzBargain",
-  "text": "$5,000 Deposit Bonus on Min. $10,000 Finance on 2WD bZ4X EV: ~$59,000 Driveaway @ Toyota Finance OzBargain",
-  "author": "",
-  "published": "2026-05-16T07:00:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [
-   "toyota-bz4x"
-  ],
-  "brands": [
-   "toyota"
-  ],
-  "categories": [
-   "software",
-   "price"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "offer",
-   "price"
-  ],
   "scope": "zeekr_complaint",
   "au": true,
   "extra": {},
