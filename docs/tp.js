@@ -40,6 +40,7 @@ function groupCard(zkey){
   const med=sm.median_disc_evidence!=null?pct(sm.median_disc_evidence):'—';
   return `<div class="card" style="margin-top:12px"><div class="model-head"><h2 style="margin:0">${esc(zm.name)}</h2><span class="band">${esc(zh()?(zm.segment||''):(zm.segment_en||zm.segment||''))}</span>
     <span class="small" style="margin-left:auto">${zh()?`${sm.n} 个版本 · 有证据 ${sm.n_evidence} · 固定价格 ${sm.n_agency} · 估算 ${sm.n_est} · 有证据版本较 DAP 折扣中位数 ${med}`:`${sm.n} variants · evidence ${sm.n_evidence} · fixed price ${sm.n_agency} · estimates ${sm.n_est} · median discount vs DAP (evidence rows) ${med}`}</span></div>
+    <div class="small" style="margin:6px 0 2px">${zh()?'排序：对标强度（直接对标 › 价格参照 › 观察）→ 置信度（高 › 中 › 低–中 › 低）':'Sorted by benchmark strength (core › reference › watch), then confidence (high › medium › low–medium › low)'}</div>
     <div class="twrap hint" data-hint="${zh()?'表格可左右滑动':'Swipe sideways to see more'}"><table class="sticky"><thead><tr><th>${zh()?'车型 / 版本':'Model / variant'}</th><th class="num">MSRP</th><th class="num">DAP</th><th>${zh()?'口径':'Basis'}</th><th class="num">${zh()?'观测价格':'Observed'}</th><th class="num">${zh()?'新车 TP（中值）':'New-car TP (mid)'}</th><th class="num">${zh()?'较 DAP':'vs DAP'}</th><th class="num">${zh()?'较 MSRP':'vs MSRP'}</th><th>${zh()?'置信度':'Confidence'}</th><th>${zh()?'依据':'Basis note'}</th></tr></thead>
     <tbody>${own.map(r=>tr(r,true)).join('')}${rows.map(r=>tr(r,false)).join('')}</tbody></table></div>${evBtns}</div>`;
 }

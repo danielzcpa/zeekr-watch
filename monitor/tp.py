@@ -200,8 +200,11 @@ def build() -> dict:
     for r in rows:
         for z in r["zeekr"]:
             groups.setdefault(z, []).append(r)
+    conf_rank = {"高": 0, "中": 1, "低–中": 2, "低-中": 2, "低": 3}
     for z in groups:
-        groups[z].sort(key=lambda r: ({"core": 0, "reference": 1, "watch": 2}.get(r["tier"], 3), r["brand"], r["model"], r["msrp"] or 0))
+        # two-level sort: benchmark strength (core > reference > watch), then confidence (high > medium > low-medium > low)
+        groups[z].sort(key=lambda r: ({"core": 0, "reference": 1, "watch": 2}.get(r["tier"], 3), conf_rank.get(r["confidence"], 4),
+                                      r["brand"], r["model"], r["msrp"] or 0))
     # summary per group: median discount vs DAP among evidence-backed rows
     summary = {}
     for z, rs in groups.items():
