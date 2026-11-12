@@ -136,6 +136,10 @@ def _row(p: dict, cid: str, brand: str, model: str, model_en: str, tier: str, zk
         else:
             kind = "est"
     factor = None
+    if kind == "demo" and not p.get("use_demo", True):
+        # demo / near-new asking prices are excluded from the TP estimate: treat as no evidence
+        kind, observed, conf = "est", None, "低"
+        note, note_en = "展车/近新车挂牌价不计入；按 DAP × 随机系数估算", "Demo / near-new asking prices excluded; DAP x seeded random factor"
     if kind == "est" or (kind == "demo" and observed is None):
         kind = "est"
         lo, hi = p["est_range"]
