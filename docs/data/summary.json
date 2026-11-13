@@ -1,19 +1,19 @@
 {
- "generated": "2026-11-13T06:23:01+00:00",
- "duration_s": 305.5,
- "items_total": 1523,
- "new_this_run": 177,
+ "generated": "2026-11-13T14:50:59+00:00",
+ "duration_s": 294.3,
+ "items_total": 1527,
+ "new_this_run": 173,
  "counts": {
-  "complaints_24h": 0,
-  "complaints_7d": 6,
+  "complaints_24h": 1,
+  "complaints_7d": 7,
   "complaints_30d": 33,
   "high_7d": 4,
-  "medium_7d": 2,
+  "medium_7d": 3,
   "low_7d": 0,
   "competitor_news_7d": 100,
-  "launch_signals_7d": 25,
+  "launch_signals_7d": 26,
   "offer_signals_7d": 3,
-  "zeekr_news_7d": 45,
+  "zeekr_news_7d": 40,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
@@ -193,9 +193,9 @@
   },
   {
    "date": "2026-11-13",
-   "complaints": 0,
-   "competitor_news": 7,
-   "zeekr_news": 1
+   "complaints": 1,
+   "competitor_news": 9,
+   "zeekr_news": 2
   }
  ],
  "categories_30d": [
@@ -209,13 +209,13 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 12
+   "n": 13
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 10
+   "n": 11
   },
   {
    "key": "service",
@@ -245,22 +245,21 @@
    "key": "price",
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
-   "n": 2
+   "n": 1
   }
  ],
  "models_30d": {
-  "7X": 9,
-  "7GT": 3,
+  "7X": 10,
+  "7GT": 2,
   "X": 1
  },
  "sources_30d": {
   "Google Play (AU)": 15,
-  "Reddit r/Zeekr7xAustralia": 10,
+  "Reddit r/Zeekr7xAustralia": 11,
   "Reddit r/Zeekr": 2,
   "ProductReview.com.au": 2,
   "Reddit r/AustralianEV": 2,
-  "Reddit r/AutoAdvice": 1,
-  "Reddit r/ZeekrAustraliaNZ": 1
+  "Reddit r/AutoAdvice": 1
  },
  "competitor_signals": {
   "volvo-ex30": {
@@ -300,7 +299,7 @@
    "latest": null
   },
   "kia-ev3": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
     "4618bbf2441d565e",
     "61681d4b998204cc",
@@ -308,7 +307,7 @@
     "e56ee2a603252f5b"
    ],
    "offer": [],
-   "latest": "4618bbf2441d565e"
+   "latest": "3d6655b0937f2625"
   },
   "hyundai-kona-ev": {
    "n_30d": 0,
@@ -393,7 +392,7 @@
    "latest": "84c4147998a4e973"
   },
   "hyundai-elexio": {
-   "n_30d": 4,
+   "n_30d": 3,
    "launch": [
     "bcc34f0ed4cf493e",
     "e0ef91f9ec5b5e79"
@@ -528,7 +527,7 @@
    "latest": "008b73b9c410f706"
   },
   "tesla-model-3": {
-   "n_30d": 22,
+   "n_30d": 21,
    "launch": [
     "418bf3453df753e5",
     "dba085ae5a42f62c",
@@ -690,7 +689,7 @@
    "latest": "a8af33cd32623473"
   },
   "byd-m9": {
-   "n_30d": 3,
+   "n_30d": 2,
    "launch": [
     "8c9ef38f9af3c4e7",
     "2c8e385c13663939"
@@ -917,15 +916,16 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 4,
+   "n_30d": 5,
    "launch": [
+    "ed9032effceb915b",
     "e23ca822c454fb48",
     "bd09876b341075d3",
     "157903045605fdfb",
     "42ac9b11351bb021"
    ],
    "offer": [],
-   "latest": "6ce3d687a8d69803"
+   "latest": "ed9032effceb915b"
   },
   "toyota-alphard": {
    "n_30d": 0,
@@ -955,6 +955,16 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "ed9032effceb915b",
+   "title": "Avatr prepares Australian launch with 07L electric SUV and 06T wagon - Zecar",
+   "source": "Google News · Zecar",
+   "t": "2026-11-13T08:33:28+00:00",
+   "competitors": [
+    "avatr"
+   ]
+  },
   {
    "kind": "competitor_launch",
    "id": "4618bbf2441d565e",
@@ -1071,37 +1081,17 @@
     "byd-sealion7",
     "byd-sealion8"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "56685ff6847bff61",
-   "title": "BYD Seal 07 DM-i Spotted in Sydney Ahead of Likely 2027 Launch - CarSauce",
-   "source": "Google News · CarSauce",
-   "t": "2026-11-10T09:54:29+00:00",
-   "competitors": [
-    "byd-seal"
-   ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "698a08aad2929bd7",
-   "title": "Polestar Formula 2030: Sleek shooting brake concept previews brand's next-gen EVs",
-   "source": "CarExpert",
-   "t": "2026-11-10T08:00:00+00:00",
-   "competitors": [
-    "polestar-2"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 67,
+   "count": 65,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 10,
+   "count": 12,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1126,22 +1116,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 92,
+   "count": 91,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 27,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 28,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1151,7 +1141,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 16,
+   "count": 14,
    "note": ""
   },
   "carexpert": {
@@ -1281,7 +1271,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 0,
+   "count": 28,
    "note": ""
   },
   "playstore-android": {

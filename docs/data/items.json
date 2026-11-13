@@ -1,5 +1,186 @@
 [
  {
+  "id": "3d6655b0937f2625",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/kia-ev3-air-standard-range-long-term-review-1-can-kia-justify-the-extra-money-compared-to-chinese-rivals/",
+  "title": "Kia EV3 Air Standard Range Long Term Review #1: Can Kia justify the extra money compared to Chinese rivals?",
+  "text": "Kia EV3 Air Standard Range joins our long-term test fleet. Can its driving appeal, practicality and efficiency justify its premium over Chinese EVs? The post Kia EV3 Air Standard Range Long Term Review #1: Can Kia justify the extra money compared to Chinese rivals? appeared first on EV Central .",
+  "author": "Bruce Newton",
+  "published": "2026-11-13T12:57:20+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "99340829aeb339d7",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xv4d61/zeekr_7x_interior_quality_am_i_missing_something/",
+  "title": "Zeekr 7X interior quality – am I missing something, or is it genuinely disappointing?",
+  "text": "TLDR: - poor service as only customer in empty dealership - thought interior felt cheap - what do people think? I’ve been researching EVs for quite a while now and, based on everything I’d read and watched, had pretty much settled on the Zeekr 7X Long Range. On paper, it seemed like an incredible package, and the overwhelmingly positive reviews had me convinced it was the one. My wife and I both had today off so I took her to look at a few options. The plan was simple: start at BYD and show her the Sealion 7, which I assumed would be a decent baseline, then head to Zeekr where she’d be blown away by the difference. Unfortunately, the exact opposite happened. First, both dealership experiences were pretty underwhelming. It was a rainy Friday afternoon and we were the only customers in either showroom, yet neither sales team seemed particularly interested in engaging with us beyond pointing us towards the cars. Zeekr was particularly disappointing. The showroom was big, empty and cold, and I genuinely felt like I was inconveniencing the staff by being there. They didn’t have the green colour we wanted to see on display, and when I explained to the saleswoman that I’d done my research",
+  "author": "/u/Janus_au",
+  "published": "2026-11-13T10:25:40+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 3,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "medium",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "5dc37a119a0cc57c",
+  "type": "competitor_news",
+  "source": "whichcar",
+  "source_name": "WhichCar",
+  "url": "https://www.whichcar.com.au/features/australias-10-best-selling-electric-cars-2026-so-far",
+  "title": "Revealed: Australia’s 10 best-selling electric cars in 2026 so far",
+  "text": "Electric vehicle sales are booming in Australia, with Tesla facing growing competition. Here are the 10 EVs Australians are buying most. The post Revealed: Australia’s 10 best-selling electric cars in 2026 so far first appeared on WhichCar .",
+  "author": "Jake Williams",
+  "published": "2026-11-13T10:02:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 2,
+   "neg_hits": 0,
+   "pos_hits": 2,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "ed9032effceb915b",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXVVbVhVelFoaUdINXFpTExOQUpsU1NNZGZ5X193NzRZcHFObkx6Y0VRMGV6VVpVeDk2Wi1oRDA4VGZkS3FkQVp4dlRnTVNsNUhwQThkRWxibm12VzB5WEhnVDhXSjZmaTBEVG0xU0E0U2N6YW1MUS04c2VibTc5bWJseV9Xd2lvTy1UY0NGMkctTGpKVG94NjdR?oc=5",
+  "title": "Avatr prepares Australian launch with 07L electric SUV and 06T wagon - Zecar",
+  "text": "Avatr prepares Australian launch with 07L electric SUV and 06T wagon Zecar",
+  "author": "",
+  "published": "2026-11-13T08:33:28+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "avatr"
+  ],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "9a5905854450e8ae",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · DSF.my",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFl2UWVMc19xQ200Y1RDSmNranR4N1p2aDlIUkhzVk1DcHRYQjdCRk5DZjZEcElqdUJwckZpMEpUeFc2N1laMENlRWMwRHdEbW10NkROajFhWTgyY1owY3FOTGdSbUYzRkIzLWcyMDZrRk9EaTRyNDRKZXpSdGY5b0l3dndtcHVwcDl1aXRzRzR1dFhLSUwzMWloaXFBRng2SjdpRll3ZzJrdU43NEZEVnh3QkZQVWo3aVNaSzFhbFpzanlDZHFxQjJFaldBdnJz?oc=5",
+  "title": "Updated 2027 Zeekr 009 Ready for Malaysia: 800V Fast Charging, 822 PS Dual-Motor Grunt, Swiveling Lounge Seats - DSF.my",
+  "text": "Updated 2027 Zeekr 009 Ready for Malaysia: 800V Fast Charging, 822 PS Dual-Motor Grunt, Swiveling Lounge Seats DSF.my",
+  "author": "",
+  "published": "2026-11-13T08:19:33+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "009"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
   "id": "21cd8d3fd75ba3c8",
   "type": "competitor_news",
   "source": "evcentral",
@@ -134,39 +315,6 @@
   "severity": null,
   "signals": [],
   "scope": "industry",
-  "au": true,
-  "extra": {},
-  "first_seen": "2026-11-13T06:23:01+00:00"
- },
- {
-  "id": "d845c9e3770ae2b9",
-  "type": "competitor_news",
-  "source": "gn-brands-eu",
-  "source_name": "Google News · CarExpert",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDhYZFQ1OWhlb0JlcWMxazUyMHppUVoyR0xCUWZNc1dsNW1RSkFuN1R1RDFLZUhISTVWZ1NuamJmdHd3cGU3OEY3Y0tVT2F5NXJWei1LUzM4SVVFdXhOT2ZNU0l6Q0dGSXFJUzVySXlOTHd2MFQ1ampjUktzaXNhVkNrU29CazVVajhjQ2lEbE1IMGxybXpvaEFGQ2h5YWs5U01Mb05RWm1GN2ZJcDhvR3AwUzRrOXdR?oc=5",
-  "title": "BYD Shark 6 getting another PHEV rival as new cut-price ute firms for Australia - CarExpert",
-  "text": "BYD Shark 6 getting another PHEV rival as new cut-price ute firms for Australia CarExpert",
-  "author": "",
-  "published": "2026-11-13T02:33:00+00:00",
-  "rating": null,
-  "zeekr": false,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T06:23:01+00:00"
@@ -6393,7 +6541,7 @@
  {
   "id": "f3b9b545c6b4ef9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1IaXJuT3R4ZkhUa2lrcmxFSEx5eU5OVlppMFBCQjg3dDc5TmN4QmROUjJ0SUM2dU1oblRaMGNqb0NwRDhVN2ZYUzFUQmd6WkdyN0hTQ0I4RWpPR0J1bURCX3czb0ZkSEVTUFpUY0VlWFVUWWJjVmpMRkhxYlgyUzJBTXA1N3J4Umc?oc=5",
   "title": "This wagon is Zeekr's next Aussie EV sensation: CAUGHT - Drive",
