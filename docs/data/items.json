@@ -1,5 +1,358 @@
 [
  {
+  "id": "21cd8d3fd75ba3c8",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/chery-stockman-goes-byd-shark-6-hunting-diesel-phev-ute-priced-from-52990-will-it-topple-the-apex-predator/",
+  "title": "Chery Stockman goes BYD Shark 6 hunting: Diesel PHEV ute priced from $52,990, will it topple the apex predator?",
+  "text": "Chery Stockman diesel PHEV starts at $52,990 plus on-road costs, undercutting the 3500kg-rated BYD Shark 6 Performance by $9910. The post Chery Stockman goes BYD Shark 6 hunting: Diesel PHEV ute priced from $52,990, will it topple the apex predator? appeared first on EV Central .",
+  "author": "EV Central team",
+  "published": "2026-11-13T05:34:07+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "2abb7b5569e36e7d",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · EVs & Beyond",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tcVRVRU9KSGpwUVlVR0QtQzJIVFJvOXJ5U3l1N2ZfeWZoeGp2WnNUbmZ1RzRENEJLVlJ1QW5VLVBQdkNmS2gxSGlaRmUyVzRubnlBS0d3LVlSSi1LZjZ6RjQ4LThhZHhEaW9WQlNqQTNGbWNpWjV0SklMbTI?oc=5",
+  "title": "Polestar 5 and Zeekr 9X make public NZ debut at EV & Tech Expo - EVs & Beyond",
+  "text": "Polestar 5 and Zeekr 9X make public NZ debut at EV & Tech Expo EVs & Beyond",
+  "author": "",
+  "published": "2026-11-13T03:55:31+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "d4f294a92a9d8f6c",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xuxnxt/5000_zeekr_points/",
+  "title": "5000 Zeekr Points???",
+  "text": "Does anyone know what you can actually get for 5000 Zeekr Points? Any accessories for the Zeekr 7X?",
+  "author": "/u/spiceemeatbal",
+  "published": "2026-11-13T03:49:32+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "6ce3d687a8d69803",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/13/avatrs-australian-website-goes-live-with-07l-electric-suv-and-06t-wagon/?utm_source=rss&utm_medium=rss&utm_campaign=avatrs-australian-website-goes-live-with-07l-electric-suv-and-06t-wagon",
+  "title": "Avatr’s Australian website goes live with 07L electric SUV and 06T wagon",
+  "text": "Avatr is taking expressions of interest in Australia for its 07L electric SUV and 06T wagon, with the SUV due to arrive first in early 2027. The post Avatr’s Australian website goes live with 07L electric SUV and 06T wagon appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-11-13T03:03:29+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "avatr"
+  ],
+  "brands": [
+   "avatr"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "d845c9e3770ae2b9",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarExpert",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDhYZFQ1OWhlb0JlcWMxazUyMHppUVoyR0xCUWZNc1dsNW1RSkFuN1R1RDFLZUhISTVWZ1NuamJmdHd3cGU3OEY3Y0tVT2F5NXJWei1LUzM4SVVFdXhOT2ZNU0l6Q0dGSXFJUzVySXlOTHd2MFQ1ampjUktzaXNhVkNrU29CazVVajhjQ2lEbE1IMGxybXpvaEFGQ2h5YWs5U01Mb05RWm1GN2ZJcDhvR3AwUzRrOXdR?oc=5",
+  "title": "BYD Shark 6 getting another PHEV rival as new cut-price ute firms for Australia - CarExpert",
+  "text": "BYD Shark 6 getting another PHEV rival as new cut-price ute firms for Australia CarExpert",
+  "author": "",
+  "published": "2026-11-13T02:33:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "8c61296dc48dedbd",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/byd-shark-6-getting-another-rival-as-new-cut-price-phev-ute-firms-for-australia",
+  "title": "BYD Shark 6 getting another rival as new cut-price PHEV ute firms for Australia",
+  "text": "A plug-in hybrid (PHEV) version of the Foton Tunland dual-cab ute appears to be nearing a local launch, with Australian Design Rule (ADR) certification documents appearing online. While Foton Australia has yet to officially confirm the model for this market, a spokesperson told CarExpert : “We’re very much interested in expanding the Foton product portfolio, so stay tuned for now.” For now, the ADR documents – which list the name as the Tunland P4 PHEV – have been left largely blank. However, Foton has confirmed specifications for its PHEV ute overseas. Revealed in September, the Tunland V9 PHEV uses a turbocharged 2.0-litre four-cylinder petrol engine mated with two electric motors (one a generator, the other a drive motor), plus a four-speed Dedicated Hybrid Transmission and a 32.85kWh battery. Total system outputs are 350kW of power and 800Nm of torque. Foton claims an electric range of 87km on the WLTP cycle, and total combined range of up to 1000km. The battery can be charged on DC power at up to 32kW, allowing a 30-80 per cent charge in 30 minutes. It matches the BYD Shark 6 Performance , Ford Ranger Hybrid and GWM Cannon PHEV and Cannon Alpha PHEV dual-cabs with a braked tow",
+  "author": "William Stopford",
+  "published": "2026-11-13T02:33:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "ford"
+  ],
+  "categories": [
+   "quality",
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "00bc7ffe6461c619",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/2027-chery-stockman-pricing-diesel-phev-ute-undercuts-byd-shark-6",
+  "title": "2027 Chery Stockman pricing: Diesel PHEV ute undercuts BYD Shark 6",
+  "text": "The all-new Chery Stockman , Australia's first diesel plug-in hybrid (PHEV) dual-cab ute, has been priced from $52,990 before on-road costs ahead of its arrival early next year. Australian deliveries are set to commence from February 1, 2027, when the Stockman will be available in two trim levels: the previously confirmed Ultimate at $57,990 plus on-roads, plus the base Urban. Those prices see it positioned competitively against petrol PHEV rivals such as the top-selling BYD Shark 6 , priced from $57,900 plus ORCs in dual-cab pickup guise; the GWM Cannon PHEV , from $50,990 drive-away; the GWM Cannon Alpha PHEV , from $57,490 drive-away; and the Ford Ranger Hybrid , priced from $61,000 plus ORCs. The Stockman will be launched with a 2.5-litre turbo-diesel four-cylinder PHEV powertrain mated with a dedicated hybrid transmission and a 34kWh lithium iron phosphate (LFP) battery mounted under the tub, with total system outputs of 350kW and 800Nm. It features an 80-litre fuel tank and is claimed to consume between 1.0 and 1.1L/100km on the combined cycle, while emitting 25-30g/km of CO2. Chery hasn’t published a fuel consumption figure for the Stockman with a depleted battery. Electric",
+  "author": "William Stopford",
+  "published": "2026-11-13T01:32:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "ford"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "offer",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "4618bbf2441d565e",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFlZZHBjRmN2SUdYd29KUTlHdE16ckJBSHNSZUJhMVcyUkozbWVUQUd3QkV4TjhiR3k0TFo4OUFRbWJFU0plQVhnWE5PZ013Y1FFX0pBckhxLW1wVHhDRzVSWTJ1blhWTDlqX09xN2Q0M0xyQzZtc1NlbndWbVR1UmE3UGQyLXNidk5mNHVJZFdoSXdnZzM3R2x2QjBmM1pBempRWTRqNXV5aHlMNC1jTUtWWVQxT3ptaTlzUDhoZXdUUQ?oc=5",
+  "title": "New cheap EV spied in Australia: 2026 Arcfox T1 caught testing as Kia EV3, Jaecoo J5 & BYD Atto 2 rival firms for Down Under debut - CarsGuide",
+  "text": "New cheap EV spied in Australia: 2026 Arcfox T1 caught testing as Kia EV3, Jaecoo J5 & BYD Atto 2 rival firms for Down Under debut CarsGuide",
+  "author": "",
+  "published": "2026-11-13T01:31:36+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "kia-ev3"
+  ],
+  "brands": [
+   "kia",
+   "byd"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "face8aa7843dc7ea",
+  "type": "competitor_news",
+  "source": "evcentral",
+  "source_name": "EV Central",
+  "url": "https://evcentral.com.au/foton-tunland-phev-ute-firms-for-australia-surprise-new-shark-6-rival-boasts-350kw-800nm-punch/",
+  "title": "Foton Tunland PHEV ute firms for Australia: Surprise new BYD Shark 6 rival boasts 350kW/800Nm punch",
+  "text": "Foton Tunland PHEV appears in Australian vehicle approval documents, raising hopes of a 350kW plug-in hybrid ute to rival the BYD Shark 6. The post Foton Tunland PHEV ute firms for Australia: Surprise new BYD Shark 6 rival boasts 350kW/800Nm punch appeared first on EV Central .",
+  "author": "Bruce Newton",
+  "published": "2026-11-13T01:02:17+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "7cde802647eb722e",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xuu7c7/australia_ev_warning_sound_rule_now_in_force/",
+  "title": "Australia EV Warning Sound Rule Now in Force - something to consider with the new 7x",
+  "text": "",
+  "author": "/u/todaytomato",
+  "published": "2026-11-13T01:00:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
   "id": "0fcf92893e36794d",
   "type": "news_zeekr",
   "source": "gn-zeekr-media",
@@ -71,6 +424,35 @@
   "first_seen": "2026-11-12T23:49:29+00:00"
  },
  {
+  "id": "810a50645c654f61",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Canberra Times",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2ZwVDlXU1AwaDN2S2JWcC1KaWJlNUFhOUpTR1B2UWdRZzNFeWs3X2QzLWRuMkd2MzdIOFgtUnJoQm1BczZwU21hQzFucl9QcTZhVjg3TVhhdmx0ZHowUjVWUkE3RUxLSWY1a1dNQzlnaHNIYjZQeHU2NExwUDFNVDIyTmJUYnBVQUU3dDg1Mzc?oc=5",
+  "title": "New Zeekr rival wants a ute just for Oz - The Canberra Times",
+  "text": "New Zeekr rival wants a ute just for Oz The Canberra Times",
+  "author": "",
+  "published": "2026-11-12T22:21:15+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
   "id": "e1de3734af9b46e1",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -96,42 +478,6 @@
   "signals": [],
   "scope": "zeekr",
   "au": false,
-  "extra": {},
-  "first_seen": "2026-11-12T23:49:29+00:00"
- },
- {
-  "id": "d7cb7a73ac6455cf",
-  "type": "news_zeekr",
-  "source": "gn-zeekr-media",
-  "source_name": "Google News · CarsGuide",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHE3XzVKSHAwQk9EZWZoNnBOVU5xMlBqSjRRY1NYSUxQQldyeko5ZkRuUXotUlJHaGFxSW9BV2d3eHJHUFBhSGlJN3RQSDZkQjlUb2ZGcHBobU90ZGRTSl9JRVQ3SS1ZZEVrS3o4ankzWjRITktDT05pT3RXOEtYRm1jVnViVWVmMXZDX180Nl9JdWxtRFZxbkl3UUViNHJRa3k1VlVmcmZTUF9FSzdZbnU4WkxkSUxuTzlIRGFNZTA?oc=5",
-  "title": "2027 Hongqi ute: New Zeekr-rivalling Chinese brand aims to build Chery Stockman, Toyota HiLux rival just for Australia - CarsGuide",
-  "text": "2027 Hongqi ute: New Zeekr-rivalling Chinese brand aims to build Chery Stockman, Toyota HiLux rival just for Australia CarsGuide",
-  "author": "",
-  "published": "2026-11-12T21:58:07+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "toyota"
-  ],
-  "categories": [
-   "software",
-   "delivery"
-  ],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [
-   "launch"
-  ],
-  "scope": "zeekr",
-  "au": true,
   "extra": {},
   "first_seen": "2026-11-12T23:49:29+00:00"
  },
@@ -276,6 +622,42 @@
    "price"
   ],
   "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-12T23:49:29+00:00"
+ },
+ {
+  "id": "d7cb7a73ac6455cf",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHE3XzVKSHAwQk9EZWZoNnBOVU5xMlBqSjRRY1NYSUxQQldyeko5ZkRuUXotUlJHaGFxSW9BV2d3eHJHUFBhSGlJN3RQSDZkQjlUb2ZGcHBobU90ZGRTSl9JRVQ3SS1ZZEVrS3o4ankzWjRITktDT05pT3RXOEtYRm1jVnViVWVmMXZDX180Nl9JdWxtRFZxbkl3UUViNHJRa3k1VlVmcmZTUF9FSzdZbnU4WkxkSUxuTzlIRGFNZTA?oc=5",
+  "title": "2027 Hongqi ute: New Zeekr-rivalling Chinese brand aims to build Chery Stockman, Toyota HiLux rival just for Australia - CarsGuide",
+  "text": "2027 Hongqi ute: New Zeekr-rivalling Chinese brand aims to build Chery Stockman, Toyota HiLux rival just for Australia CarsGuide",
+  "author": "",
+  "published": "2026-11-12T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-12T23:49:29+00:00"
@@ -516,6 +898,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-12T10:10:30+00:00"
+ },
+ {
+  "id": "4d69249b06855bed",
+  "type": "complaint",
+  "source": "playstore-android",
+  "source_name": "Google Play (AU) · ZEEKR app",
+  "url": "https://play.google.com/store/apps/details?id=com.zeekr.global&hl=en_AU&gl=AU&reviewId=af292321-c1a1-466c-a500-3d079e836c0c",
+  "title": "1★ · Huge battery drain and will randomly logout of app or lose a",
+  "text": "Huge battery drain and will randomly logout of app or lose ability to remotely control car.",
+  "author": "Andy Lau",
+  "published": "2026-11-12T04:00:40+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {
+   "version": "1.6.8",
+   "thumbs": 0
+  },
+  "first_seen": "2026-11-13T06:23:01+00:00"
  },
  {
   "id": "404f06f9d36ea720",
@@ -1421,7 +1838,7 @@
  {
   "id": "833e1dcab2609869",
   "type": "news_zeekr",
-  "source": "gn-ev-launch-au",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWVMWUNIcHpoZ2MzNFZKT0VSa0VMZERMSXpIcjAxVFBkc1ItWEtYRl9EZWdYVnROWkxmOHZ1VmN5VlBLYUJXaTdLT1BPWjdfTlhnQkVHTVlhb080dDBaMEFNSkl6VmY5bl9FaUI0NHo0aE9IYk5lSkJRckV5c2hmLTdZUU9vLWtrRUk1dzZoZG5pTl9vdV82TTh6OXhzSFJ6SnBOWTZxb2ttYXND?oc=5",
   "title": "2027 Zeekr 7X update for China already makes Australia’s version look outdated - Drive",
@@ -1446,7 +1863,7 @@
   },
   "severity": null,
   "signals": [],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-09T20:00:07+00:00"
@@ -5976,7 +6393,7 @@
  {
   "id": "f3b9b545c6b4ef9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1IaXJuT3R4ZkhUa2lrcmxFSEx5eU5OVlppMFBCQjg3dDc5TmN4QmROUjJ0SUM2dU1oblRaMGNqb0NwRDhVN2ZYUzFUQmd6WkdyN0hTQ0I4RWpPR0J1bURCX3czb0ZkSEVTUFpUY0VlWFVUWWJjVmpMRkhxYlgyUzJBTXA1N3J4Umc?oc=5",
   "title": "This wagon is Zeekr's next Aussie EV sensation: CAUGHT - Drive",
@@ -52101,37 +52518,6 @@
    "version": "1.5.7",
    "thumbs": 1
   },
-  "first_seen": "2026-10-13T04:58:42+00:00"
- },
- {
-  "id": "cd012dc78726b3e4",
-  "type": "post",
-  "source": "reddit-CarsAustralia",
-  "source_name": "Reddit r/CarsAustralia",
-  "url": "https://www.reddit.com/r/CarsAustralia/comments/1tfduhk/while_some_chinese_brands_like_byd_zeekr_and/",
-  "title": "While some Chinese brands like BYD, Zeekr, and Chery are growing their share in Australia, others are not so lucky",
-  "text": "",
-  "author": "/u/kstetter",
-  "published": "2026-05-17T03:22:34+00:00",
-  "rating": null,
-  "zeekr": true,
-  "models": [],
-  "competitors": [],
-  "brands": [
-   "byd"
-  ],
-  "categories": [],
-  "sentiment": {
-   "score": 0,
-   "neg_hits": 0,
-   "pos_hits": 0,
-   "label": "neutral"
-  },
-  "severity": null,
-  "signals": [],
-  "scope": "zeekr_complaint",
-  "au": true,
-  "extra": {},
   "first_seen": "2026-10-13T04:58:42+00:00"
  }
 ]
