@@ -1,5 +1,77 @@
 [
  {
+  "id": "21c728a38fc8c4e4",
+  "type": "complaint",
+  "source": "productreview-zeekr",
+  "source_name": "ProductReview.com.au",
+  "url": "https://www.productreview.com.au/reviews/5825afa4-6b5f-5764-a661-7542068c65a1",
+  "title": "Review (1.0★)",
+  "text": "Was so excited about our new purchase but then the glaring lack of communication between sales and depot began and quickly escalated into a blame hame including the sales rep blaming his boss and then everyone lying. No accountability. Most responses by text or not at all … until we demanded our money back and then we finally had a response. Weirdly it took me minutes to transfer the money to them but will take 10 days to get our money back. Sharksters. I would be worried about the service/…",
+  "author": "Mel",
+  "published": "2026-11-13T20:06:05+00:00",
+  "rating": 1.0,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software",
+   "service",
+   "sales"
+  ],
+  "sentiment": {
+   "score": -3,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "high",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T21:22:10+00:00"
+ },
+ {
+  "id": "ed4cec1e1d3b5c45",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-news/ev-tops-racqs-most-affordable-car-rankings-for-the-first-time",
+  "title": "EV tops RACQ’s most affordable car rankings for the first time",
+  "text": "The BYD Atto 1 electric hatch is the most affordable vehicle to own and run in 2026, according to the Royal Automobile Club of Queensland (RACQ), and could save motorists as much as $1000 a year compared with the cheapest petrol model. It’s the first time an electric vehicle (EV) has been named the cheapest to own and run by RACQ, with the Royal Automobile Club of Western Australia (RAC WA) also ranking the Atto 1 as the cheapest small passenger car in its annual running costs report published this month . However, RAC WA’s figures put the petrol-powered MG ZS Vibe small SUV slightly ahead of the Atto 1 overall. The BYD Dolphin electric hatch topped the RAC WA rankings last year. RACQ also found the electric Toyota HiLux SR5 BEV to be cheaper to own and operate overall than a Ford Ranger Wildtrak diesel over five years. “When you add purchase price, loan repayments and fuel or charging costs, EVs and plug-in hybrids are becoming a much stronger proposition for motorists,” said Dr Ian Jeffreys, RACQ Principal Economic and Affordability Specialist, in a statement. “However, we know a cheap car isn’t always the right car. Motorists should still do their homework on safety, security an",
+  "author": "Damion Smy",
+  "published": "2026-11-13T20:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd",
+   "toyota",
+   "ford"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "safety"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price_cut"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T21:22:10+00:00"
+ },
+ {
   "id": "3d6655b0937f2625",
   "type": "competitor_news",
   "source": "evcentral",
@@ -34,6 +106,45 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "d964b4b1834ad93a",
+  "type": "deal",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
+  "url": "https://www.ozbargain.com.au/node/983023",
+  "title": "[Pre Order] Free 3 Years Scheduled Servicing & $2000 Bunnings Gift Card with Chery Stockman PHEV (from $52,990 + ORC) @ Chery",
+  "text": "Chery has released pricing with a pre order offer for the first diesel PHEV ute in the world. Much cheaper than a BYD Shark 6 with comparable towing capacity. 3495kg braked towing capacity. Up to …",
+  "author": "shxhshzhz",
+  "published": "2026-11-13T10:38:05+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "quality",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price_cut",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-13T21:22:10+00:00"
  },
  {
   "id": "99340829aeb339d7",
@@ -217,6 +328,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "a22da01978db71e1",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Autohled.cz",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TR08xV0hIak9nZUxCMm9xLW92cWF5aUtJRTB2a2h3YmJnUS1uUTc0bHFMbW9jSkhBMnRxYlFQSm13Smd5YU1iQXJzR2JwX3hub1NhRmpmRFlrN1k4UHdTYTlRc3VzTnQzN3lBUGw3OThRUHNjTXFneHFHcmtTbWs?oc=5",
+  "title": "Comparison: Audi Q4 e-tron Sportback vs ZEEKR 7X - Autohled.cz",
+  "text": "Comparison: Audi Q4 e-tron Sportback vs ZEEKR 7X Autohled.cz",
+  "author": "",
+  "published": "2026-11-13T04:43:56+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [
+   "audi-q4"
+  ],
+  "brands": [
+   "audi"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-13T21:22:10+00:00"
  },
  {
   "id": "2abb7b5569e36e7d",
