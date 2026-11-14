@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T21:22:10+00:00",
- "duration_s": 362.4,
- "items_total": 1531,
- "new_this_run": 187,
+ "generated": "2026-11-14T01:40:40+00:00",
+ "duration_s": 298.2,
+ "items_total": 1537,
+ "new_this_run": 182,
  "counts": {
   "complaints_24h": 2,
   "complaints_7d": 8,
@@ -10,19 +10,13 @@
   "high_7d": 5,
   "medium_7d": 3,
   "low_7d": 0,
-  "competitor_news_7d": 99,
-  "launch_signals_7d": 26,
-  "offer_signals_7d": 3,
-  "zeekr_news_7d": 39,
+  "competitor_news_7d": 101,
+  "launch_signals_7d": 27,
+  "offer_signals_7d": 4,
+  "zeekr_news_7d": 41,
   "offer_page_changes_7d": 3
  },
  "series_30d": [
-  {
-   "date": "2026-10-15",
-   "complaints": 2,
-   "competitor_news": 9,
-   "zeekr_news": 12
-  },
   {
    "date": "2026-10-16",
    "complaints": 2,
@@ -189,13 +183,19 @@
    "date": "2026-11-12",
    "complaints": 1,
    "competitor_news": 10,
-   "zeekr_news": 11
+   "zeekr_news": 12
   },
   {
    "date": "2026-11-13",
    "complaints": 2,
-   "competitor_news": 10,
-   "zeekr_news": 3
+   "competitor_news": 12,
+   "zeekr_news": 4
+  },
+  {
+   "date": "2026-11-14",
+   "complaints": 0,
+   "competitor_news": 1,
+   "zeekr_news": 0
   }
  ],
  "categories_30d": [
@@ -316,7 +316,7 @@
    "latest": null
   },
   "byd-atto3": {
-   "n_30d": 6,
+   "n_30d": 5,
    "launch": [
     "b964e806819bb2d5",
     "1af84a334ac544d9",
@@ -355,16 +355,18 @@
    "latest": "c8ff254b30b0f7eb"
   },
   "xpeng-g6": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
+    "58446653e8470e7f",
     "6a4c860a7340b58c",
     "1ded87a0f1ae20c9",
     "5ed70c4b9f6db41c"
    ],
    "offer": [
+    "58446653e8470e7f",
     "78b7db7fc9efe4e6"
    ],
-   "latest": "78b7db7fc9efe4e6"
+   "latest": "58446653e8470e7f"
   },
   "byd-sealion7": {
    "n_30d": 8,
@@ -452,7 +454,7 @@
    "latest": "ca6819fe95ffefd8"
   },
   "deepal-s07": {
-   "n_30d": 3,
+   "n_30d": 2,
    "launch": [
     "beacea688be7f8ba"
    ],
@@ -506,7 +508,7 @@
    "latest": "1380cc70d4605aa5"
   },
   "geely-ex5": {
-   "n_30d": 11,
+   "n_30d": 9,
    "launch": [
     "008b73b9c410f706",
     "ef5d7f60ba082c70",
@@ -722,7 +724,7 @@
    "latest": null
   },
   "bmw-x5-50e": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [
     "0cad556c45557e97"
    ],
@@ -732,7 +734,7 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 5,
+   "n_30d": 3,
    "launch": [
     "9cf83e3d30e44365",
     "73e54738eb48f209",
@@ -862,7 +864,7 @@
    "latest": null
   },
   "porsche-cayenne-eh": {
-   "n_30d": 1,
+   "n_30d": 0,
    "launch": [
     "0cad556c45557e97"
    ],
@@ -955,6 +957,16 @@
   }
  },
  "alerts": [
+  {
+   "kind": "competitor_launch",
+   "id": "58446653e8470e7f",
+   "title": "XPENG G6 New Pricing From $49,990 in Australia - Zecar",
+   "source": "Google News · Zecar",
+   "t": "2026-11-14T01:10:00+00:00",
+   "competitors": [
+    "xpeng-g6"
+   ]
+  },
   {
    "kind": "complaint_high",
    "id": "21c728a38fc8c4e4",
@@ -1076,18 +1088,6 @@
    "competitors": [
     "geely-ex5"
    ]
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "b964e806819bb2d5",
-   "title": "BYD end-of-year deals include thousands off Shark 6, Sealion 7, plus novated lease discounts",
-   "source": "CarExpert",
-   "t": "2026-11-11T00:09:00+00:00",
-   "competitors": [
-    "byd-atto3",
-    "byd-sealion7",
-    "byd-sealion8"
-   ]
   }
  ],
  "source_status": {
@@ -1098,7 +1098,7 @@
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 12,
+   "count": 14,
    "note": ""
   },
   "gn-zeekr-complaint": {
@@ -1128,27 +1128,27 @@
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 28,
+   "count": 29,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 30,
+   "count": 29,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 29,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
    "ok": true,
-   "count": 32,
+   "count": 31,
    "note": ""
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 14,
+   "count": 12,
    "note": ""
   },
   "carexpert": {
@@ -1212,14 +1212,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
+   "ok": true,
+   "count": 50,
+   "note": "anonymous RSS"
+  },
+  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
-  },
-  "reddit-ZeekrX": {
-   "ok": true,
-   "count": 23,
-   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1229,12 +1229,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 403 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,

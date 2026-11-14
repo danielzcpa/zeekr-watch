@@ -1,5 +1,73 @@
 [
  {
+  "id": "58446653e8470e7f",
+  "type": "competitor_news",
+  "source": "gn-brands-cn",
+  "source_name": "Google News · Zecar",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GTVpMM3JYWXpxTF9aRWNPd3lzYzk0Skl6emdGMWdvSVRjTG5kY1RoaFlPVkdLY1RFM2hDVENEdENoRVRzUEZYcjZ2Qm94UlZTU04zcHpLWUVIWFlQaEZDYVNpd2FTWllvdEQ2M0c4bw?oc=5",
+  "title": "XPENG G6 New Pricing From $49,990 in Australia - Zecar",
+  "text": "XPENG G6 New Pricing From $49,990 in Australia Zecar",
+  "author": "",
+  "published": "2026-11-14T01:10:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "xpeng-g6"
+  ],
+  "brands": [
+   "xpeng"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch",
+   "price"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T01:40:40+00:00"
+ },
+ {
+  "id": "a2e7a136f1d738a5",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xvner7/would_you_pay_1000_more_to_buy_from_a_better/",
+  "title": "Would you pay $1,000 more to buy from a better dealership?",
+  "text": "",
+  "author": "/u/DealerPulseAU",
+  "published": "2026-11-13T23:40:11+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T01:40:40+00:00"
+ },
+ {
   "id": "21c728a38fc8c4e4",
   "type": "complaint",
   "source": "productreview-zeekr",
@@ -70,6 +138,77 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T21:22:10+00:00"
+ },
+ {
+  "id": "388deea3011de28b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGlWYzFvWm1sd0VuTV9XdEVWOVR0ZElNQXpiT3J4NlJHSmZSNFBoOFc0bi12aFJ5ZFo1OUlxQzZrTU9TdGpWR2t5ZU9qWWpacFVwdl9RSjRMaW1BX0dHNy1VMXNzNlBESXlyTmdXZjk2dXBWUE1oSzhZbk1KcEg1aWtVYkFRNTZMeVBMR0R2NC1wUXQtQ1N4VU8zbVNhSGJpLUp6bVpyaUlKYlM2Z3VqM3JpT1VTUE9xTm95TA?oc=5",
+  "title": "Cars are getting too powerful and too fast: 2026 Yangwang U9 breaks 500km/h as Geely battleship 700 and Zeekr 9X get more than 800kW of power | Opinion - CarsGuide",
+  "text": "Cars are getting too powerful and too fast: 2026 Yangwang U9 breaks 500km/h as Geely battleship 700 and Zeekr 9X get more than 800kW of power | Opinion CarsGuide",
+  "author": "",
+  "published": "2026-11-13T16:00:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "geely",
+   "yangwang"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T01:40:40+00:00"
+ },
+ {
+  "id": "a9325c26c19238d0",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · CarsGuide",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlBfWHV5aVR2V25XMklTWGxKUWRwd2xVY3hJQUhaMWltaEhDSEtOS19CdXhESmN0QkcxdHB5S1duRnZ3YS04RVBfTVR2bEZNa0ktVDBRTXVkQ3VfQmFwV2hpZk9BbUdoVmVaQ19CZHlBaGNjT0JqRF9oUUtfeXJSRjZ6ZXh0b24tWWJKeGluUUZLZm1DcHdQSE4yUHZoVFRRM09kMkdqazQ1NTl5LXdOTjQ4R0lDc29UNlhLUzhWUFJ6aEpi?oc=5",
+  "title": "Hyundai's cut-price EV overhaul confirmed! Cheap models coming to hit back against Chinese players BYD, Geely and Chery - CarsGuide",
+  "text": "Hyundai's cut-price EV overhaul confirmed! Cheap models coming to hit back against Chinese players BYD, Geely and Chery CarsGuide",
+  "author": "",
+  "published": "2026-11-13T16:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "hyundai",
+   "byd",
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T01:40:40+00:00"
  },
  {
   "id": "3d6655b0937f2625",
@@ -502,6 +641,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "d8e788ba18f756c5",
+  "type": "competitor_news",
+  "source": "gn-brands-eu",
+  "source_name": "Google News · CarSauce",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3U2VmRuazNNV21rS2lUd2dfUXRoT2p0MFd0d3A1U0pCVFJIX2FfQWlFVEdiWGFCNi1mSGNIS1E5QmJhMmNVWGFCWjFBWmNwdERwOXNTTVpvcjZ4cG5OaVlIc3Qwa3lyVDd1NmJvMzZ2T0lxUmx5UXdCbkhEZVRIMlQ2VEYtcTBWVlYyQWJ1VUIzVWxyVEdiaEszbzlzUHB2QkE?oc=5",
+  "title": "Chery Stockman vs BYD Shark 6 vs GWM Cannon vs Cannon Alpha vs JAC Hunter: PHEV Ute Prices and Specs Compared - CarSauce",
+  "text": "Chery Stockman vs BYD Shark 6 vs GWM Cannon vs Cannon Alpha vs JAC Hunter: PHEV Ute Prices and Specs Compared CarSauce",
+  "author": "",
+  "published": "2026-11-13T02:02:17+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T01:40:40+00:00"
  },
  {
   "id": "00bc7ffe6461c619",
@@ -1059,6 +1233,37 @@
   "first_seen": "2026-11-12T10:10:30+00:00"
  },
  {
+  "id": "03b5ffb8cf33a44b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Forbes Middle East",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnJIbERLVVF1U1RSZ1VWNkp3ajZMMEp0TEdFdks2b3VlaTNsRXc2VTN6NjJBc3NyOTZnczREU2pBMUtCM2Z5Z0JRMk9nZVhDOXlrNHJVTER1MGJMUWYxMzB6MS12YldEVENsQ1dEaXlVQUNvUUk1QUFEcmVrVE5BT2xOS2dXUV93bTBkNm45YjlRRW51TVpvdDdrVUpZelJYWHlVSEl3SmRnVlV0aEc0YnF2SDVPeE5OZlpSQUpWQXpTS3MxWHc?oc=5",
+  "title": "Geely's EV Brand Zeekr Aims To Secure $750M In Funding - Forbes Middle East",
+  "text": "Geely's EV Brand Zeekr Aims To Secure $750M In Funding Forbes Middle East",
+  "author": "",
+  "published": "2026-11-12T06:59:47+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "geely"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-14T01:40:40+00:00"
+ },
+ {
   "id": "e72253c27e7b9928",
   "type": "news_zeekr",
   "source": "gn-zeekr-1d",
@@ -1125,7 +1330,7 @@
  {
   "id": "f5e922bc847c06ad",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-offer-au",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZfLWpia3dzOG04YkVvSUYtZWt2NXk4THhJZWd4Y1hJTkxkS0FfY0dkT1AySzlfUUY2bmV6VUJlaTRFY1E2NFprbWdSZmVxaEg4N19GR3JVX1ZaWVlMb054S1hSQ2Jia3JILVJhemVUVjRtbHl2WkM2R2VRaHJ3d2xlai0wU3BlcnVqQkFydmdyZHdsbjhLQTRKeVgwTlNfeFhHX3k2XzBHUQ?oc=5",
   "title": "BMW to launch Hyundai-inspired artificial EV gearbox - Carsales",
@@ -5269,7 +5474,7 @@
   "au": true,
   "extra": {
    "version": "1.6.8",
-   "thumbs": 1
+   "thumbs": 2
   },
   "first_seen": "2026-11-08T18:27:33+00:00"
  },
