@@ -1,20 +1,20 @@
 {
- "generated": "2026-11-14T08:52:10+00:00",
- "duration_s": 330.9,
- "items_total": 1547,
- "new_this_run": 189,
+ "generated": "2026-11-14T15:43:00+00:00",
+ "duration_s": 285.5,
+ "items_total": 1551,
+ "new_this_run": 167,
  "counts": {
-  "complaints_24h": 4,
-  "complaints_7d": 9,
+  "complaints_24h": 3,
+  "complaints_7d": 7,
   "complaints_30d": 34,
-  "high_7d": 4,
+  "high_7d": 2,
   "medium_7d": 3,
   "low_7d": 2,
-  "competitor_news_7d": 104,
+  "competitor_news_7d": 105,
   "launch_signals_7d": 28,
   "offer_signals_7d": 4,
-  "zeekr_news_7d": 41,
-  "offer_page_changes_7d": 3
+  "zeekr_news_7d": 42,
+  "offer_page_changes_7d": 4
  },
  "series_30d": [
   {
@@ -164,7 +164,7 @@
   {
    "date": "2026-11-09",
    "complaints": 0,
-   "competitor_news": 26,
+   "competitor_news": 27,
    "zeekr_news": 6
   },
   {
@@ -189,12 +189,12 @@
    "date": "2026-11-13",
    "complaints": 2,
    "competitor_news": 13,
-   "zeekr_news": 4
+   "zeekr_news": 5
   },
   {
    "date": "2026-11-14",
    "complaints": 2,
-   "competitor_news": 3,
+   "competitor_news": 4,
    "zeekr_news": 1
   }
  ],
@@ -478,7 +478,7 @@
    "latest": "2efd6f5d24c1e85b"
   },
   "toyota-bz4x": {
-   "n_30d": 5,
+   "n_30d": 6,
    "launch": [
     "647f766d2b549afc",
     "3e3f285c9229d77a"
@@ -959,6 +959,14 @@
  },
  "alerts": [
   {
+   "kind": "offer_page_change",
+   "id": "2fb5bbc99dc1da93",
+   "title": "Zecar (all-brand offers) 官网政策页面变化（+6 / −7 行）",
+   "title_en": "Zecar (all-brand offers) offer page changed (+6 / −7 lines)",
+   "source": "https://zecar.com/offers-and-deals",
+   "t": "2026-11-14T15:47:44+00:00"
+  },
+  {
    "kind": "competitor_launch",
    "id": "58446653e8470e7f",
    "title": "XPENG G6 New Pricing From $49,990 in Australia - Zecar",
@@ -1079,7 +1087,7 @@
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 65,
+   "count": 67,
    "note": ""
   },
   "gn-zeekr-1d": {
@@ -1109,22 +1117,22 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 77,
+   "count": 76,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 30,
+   "count": 29,
    "note": ""
   },
   "gn-ev-offer-au": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 27,
+   "count": 26,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1134,7 +1142,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 14,
+   "count": 15,
    "note": ""
   },
   "carexpert": {
@@ -1203,24 +1211,24 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-ZeekrX": {
-   "ok": true,
-   "count": 24,
-   "note": "anonymous RSS"
+   "ok": false,
+   "count": 0,
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
@@ -1264,7 +1272,7 @@
   },
   "appstore-ios": {
    "ok": true,
-   "count": 28,
+   "count": 29,
    "note": ""
   },
   "playstore-android": {
@@ -1579,7 +1587,7 @@
   },
   "zecar-offers-geely": {
    "ok": true,
-   "count": 16,
+   "count": 17,
    "note": ""
   },
   "zecar-offers-zeekr": {
@@ -1599,7 +1607,7 @@
   },
   "zecar-offers-mg": {
    "ok": true,
-   "count": 18,
+   "count": 20,
    "note": ""
   },
   "zecar-offers-mini": {
@@ -1619,8 +1627,8 @@
   },
   "policy-events": {
    "ok": true,
-   "count": 0,
-   "note": "0 new; 38/38 feeds ok"
+   "count": 4,
+   "note": "4 new; 38/38 feeds ok"
   },
   "tp-reference": {
    "ok": true,
@@ -1724,8 +1732,8 @@
   },
   "offers-zecar-offers": {
    "ok": true,
-   "count": 44,
-   "note": "unchanged"
+   "count": 43,
+   "note": "changed"
   },
   "offers-thebeep-offers": {
    "ok": false,

@@ -2,11 +2,11 @@
  "key": "zecar-offers",
  "brand": "Zecar (all-brand offers)",
  "url": "https://zecar.com/offers-and-deals",
- "fetched": "2026-11-14T08:57:40+00:00",
- "digest": "c9dea147886cb571",
+ "fetched": "2026-11-14T15:47:44+00:00",
+ "digest": "3f08bec604fef5e0",
  "lines": [
   "Deals and Offers",
-  "· 36 active offers",
+  "· 41 active offers",
   "Find the latest EV deals, electric car discounts, and special offers in Australia. Compare EV prices, rebates, free charging packages, low-interest EV finance, and servicing offers. Updated regularly, this is Australia's trusted resource for electric car deals.",
   "Search Offers",
   "Geely 0.68% p.a. Finance Offer on EX2, EX5 and Starray EM-i (November 2026)",
@@ -14,11 +14,16 @@
   "GWM Haval H7 $1,000 Launch Offer",
   "Vehicle Discount",
   "Receive a $1,000 launch offer on the all-new Haval H7 Lux HEV and Lux PHEV. Driveaway pricing starts from $45,990 for the Lux HEV and $49,990 for the Lux PHEV. Offer ends 30 November 2026.",
+  "IM5 & IM6 $3,000 Cashback + $500 Accessories Bonus",
   "GWM ORA 5 Lux: Extra $1,000 Off or 0.88% p.a. Finance",
   "GAC AION V Finance Offer (0.99% Comparison Rate)",
   "Geely Trade-In Offer: 1,000kWh Evie Public Charging Credit (November 2026)",
   "Customers who trade in an eligible vehicle when buying a new Geely in November 2026 receive a 1,000kWh public charging credit for the Evie network, valid for one year from activation. Eligible vehicles and full terms are on Geely Australia's offers page. Conditions apply.",
   "GWM Cannon PHEV: $2,000 Cash Bonus or $2,000 Fuel Card",
+  "Geely 6% Novated Lease Discount on EX2, EX5 and Starray EM-i (November 2026)",
+  "Geely is offering a 6% novated lease discount on eligible vehicles delivered between 1 and 30 November 2026, arranged through a Geely-approved fleet management organisation. Confirm model eligibility and the exact discount basis with your novated lease provider before you order.",
+  "Chery E5 Ultimate Black Friday: 2 Years Free Servicing Plus 0.70% Finance or $2,000 Cashback",
+  "Chery's Black Friday offer on the E5 Ultimate includes two years or 30,000km of free servicing, available until 30 November 2026. Buyers can pair it with 0.70% finance (10% deposit, 36 months) or take $2,000 cashback, with the finance and cashback offer running to 21 December 2026. Driveaway pricing varies by postcode, so confirm your total with a Chery dealer.",
   "BYD Dolphin Essential $28,888 Driveaway Offer",
   "BYD Atto 1 Essential $19,990 Driveaway Offer (Up to $7,204 in Savings)",
   "The BYD Atto 1 Essential is available at $19,990 driveaway, making it Australia's cheapest new car on sale, EV or petrol. The offer is available until 15 December 2026, with the vehicle needing to be delivered by 31 December 2026. The 5% novated lease offer cannot be stacked on top of this price.",
@@ -40,12 +45,6 @@
   "BYD is offering $4,000 cashback on the Sealion 5 Essential and Premium plug-in hybrid SUVs. That brings the range down to an effective $29,990 before on-road costs. Orders must be placed between 1 October and 21 December 2026, with delivery by 31 December 2026.",
   "BYD 6% Novated Lease Discount on Atto, Dolphin and Sealion 7",
   "BYD is offering a 6% novated lease discount on eligible Atto 1, Atto 2, Atto 3, Dolphin and Sealion 7 models. The discount applies to the base vehicle list price and is worth up to around $3,840 on the Sealion 7 Performance. Order between 1 October and 21 December 2026, with delivery by 31 January 2027.",
-  "Tesla Model 3 & Model Y Trade-In Bonus ($2,000)",
-  "Tesla is offering a $2,000 trade-in bonus for eligible private buyers who trade in their vehicle towards a new or demonstrator Model 3 or Model Y. The bonus is applied on top of your vehicle's assessed trade-in value, not as part of it. Offer is available until 31 December 2026.",
-  "Renault Megane E-Tech Free 7kW Home Charger Offer",
-  "Place a $200 online deposit on the new Renault Megane E-Tech electric and receive a free 7kW FoxESS L-Series wall charger valued at $749 RRP. Charger supply only, installation not included. Offer ends 31 December 2026.",
-  "KGM Torres EVX $5,010 Factory Bonus",
-  "KGM is offering a $5,010 factory bonus across the Torres range, covering MY26 Torres EVX and Torres Hybrid models built in the 2025 calendar year, plus MY25 Torres built in 2024. Metallic paint is a $700 extra on top. The offer is described as a limited time promotion available while stocks last, with no fixed end date published, so it could be withdrawn at any point.",
   "We'll email you when a new offer goes live.",
   "Are there EV rebates or incentives in Australia in 2026?",
   "When do EV offers usually expire?"
@@ -53,9 +52,9 @@
  "money": [
   1000,
   2000,
+  3000,
   3840,
   4000,
-  5010,
   7204,
   19990,
   28888,
@@ -71,5 +70,5 @@
   51900,
   52990
  ],
- "n_lines": 44
+ "n_lines": 43
 }

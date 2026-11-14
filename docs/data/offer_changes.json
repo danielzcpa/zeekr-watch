@@ -1,5 +1,29 @@
 [
  {
+  "id": "2fb5bbc99dc1da93",
+  "key": "zecar-offers",
+  "brand": "Zecar (all-brand offers)",
+  "url": "https://zecar.com/offers-and-deals",
+  "detected": "2026-11-14T15:47:44+00:00",
+  "added": [
+   "· 41 active offers",
+   "IM5 & IM6 $3,000 Cashback + $500 Accessories Bonus",
+   "Geely 6% Novated Lease Discount on EX2, EX5 and Starray EM-i (November 2026)",
+   "Geely is offering a 6% novated lease discount on eligible vehicles delivered between 1 and 30 November 2026, arranged through a Geely-approved fleet management organisation. Confirm model eligibility and the exact discount basis with your novated lease provider before you order.",
+   "Chery E5 Ultimate Black Friday: 2 Years Free Servicing Plus 0.70% Finance or $2,000 Cashback",
+   "Chery's Black Friday offer on the E5 Ultimate includes two years or 30,000km of free servicing, available until 30 November 2026. Buyers can pair it with 0.70% finance (10% deposit, 36 months) or take $2,000 cashback, with the finance and cashback offer running to 21 December 2026. Driveaway pricing varies by postcode, so confirm your total with a Chery dealer."
+  ],
+  "removed": [
+   "· 36 active offers",
+   "Tesla Model 3 & Model Y Trade-In Bonus ($2,000)",
+   "Tesla is offering a $2,000 trade-in bonus for eligible private buyers who trade in their vehicle towards a new or demonstrator Model 3 or Model Y. The bonus is applied on top of your vehicle's assessed trade-in value, not as part of it. Offer is available until 31 December 2026.",
+   "Renault Megane E-Tech Free 7kW Home Charger Offer",
+   "Place a $200 online deposit on the new Renault Megane E-Tech electric and receive a free 7kW FoxESS L-Series wall charger valued at $749 RRP. Charger supply only, installation not included. Offer ends 31 December 2026.",
+   "KGM Torres EVX $5,010 Factory Bonus",
+   "KGM is offering a $5,010 factory bonus across the Torres range, covering MY26 Torres EVX and Torres Hybrid models built in the 2025 calendar year, plus MY25 Torres built in 2024. Metallic paint is a $700 extra on top. The offer is described as a limited time promotion available while stocks last, with no fixed end date published, so it could be withdrawn at any point."
+  ]
+ },
+ {
   "id": "59e0f65e88778dd3",
   "key": "zecar-offers",
   "brand": "Zecar (all-brand offers)",

@@ -1,5 +1,44 @@
 [
  {
+  "id": "57dd6b3dca81e220",
+  "type": "competitor_news",
+  "source": "carexpert",
+  "source_name": "CarExpert",
+  "url": "https://www.carexpert.com.au/car-reviews/2027-kia-telluride-review-quick-drive",
+  "title": "2027 Kia Telluride review: Quick drive",
+  "text": "There’s always been a healthy undercurrent of interest in the Kia Telluride in Australia, despite the fact it's never been sold here – making this handsome large SUV forbidden fruit, to some degree. We always want what we can’t have. Unveiled in late 2025 and related to the Hyundai Palisade, the all-new, second-generation Telluride is a three-row SUV – slightly longer than the Toyota LandCruiser 300 Series, but with some echoes of Range Rover styling outside, and a Kia badge up front. Unlike the Palisade, the Telluride is only built in North America for left-hand drive markets, meaning it’s unlikely to be offered in Australia unless a right-hand drive production line is carved out for it in South Korea. That only happens if there’s enough interest and pressure from buyers to establish a business case. In the metal, the Telluride looks fantastic. Even with the unashamed Range Rover influence at the rear, the whole vehicle has some real presence. It’s very well proportioned, and the black accents on our test car look especially slick. Kia advertises an astonishing 18 different variants of the Telluride in the US, with a choice of petrol and hybrid powertrains and front- or all-wheel",
+  "author": "Ben Zachariah",
+  "published": "2026-11-14T13:00:00+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "kia",
+   "hyundai",
+   "toyota"
+  ],
+  "categories": [
+   "software",
+   "charging",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T15:43:00+00:00"
+ },
+ {
   "id": "567b8bc41f2983d4",
   "type": "competitor_news",
   "source": "thedriven",
@@ -676,7 +715,7 @@
  {
   "id": "ed9032effceb915b",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-ev-launch-au",
   "source_name": "Google News · Zecar",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXVVbVhVelFoaUdINXFpTExOQUpsU1NNZGZ5X193NzRZcHFObkx6Y0VRMGV6VVpVeDk2Wi1oRDA4VGZkS3FkQVp4dlRnTVNsNUhwQThkRWxibm12VzB5WEhnVDhXSjZmaTBEVG0xU0E0U2N6YW1MUS04c2VibTc5bWJseV9Xd2lvTy1UY0NGMkctTGpKVG94NjdR?oc=5",
   "title": "Avatr prepares Australian launch with 07L electric SUV and 06T wagon - Zecar",
@@ -741,6 +780,37 @@
   "au": false,
   "extra": {},
   "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "b1e96c2e384bcf6f",
+  "type": "post",
+  "source": "gn-zeekr-forums",
+  "source_name": "Google News · Whirlpool Forums",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtTFRQdUpCaWZCV1ByZkRoblpsZHpEZXkwTWxUdHRaQy1FbnRxRWNLRkRIWVI3Sm9BZ1dMenBBT1I3Q1dMZ25mVFlBdTZDUGh6dHliT3IwLTJLZmFnTFU5ZWlB?oc=5",
+  "title": "Zeekr 7X SUV - Whirlpool Forums",
+  "text": "Zeekr 7X SUV Whirlpool Forums",
+  "author": "",
+  "published": "2026-11-13T07:55:57+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T15:43:00+00:00"
  },
  {
   "id": "21cd8d3fd75ba3c8",
@@ -880,6 +950,39 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T06:23:01+00:00"
+ },
+ {
+  "id": "cc84a86250e173b8",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · Auto Trader NZ",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXRCVTlyQXNlbzJWVENtYTViaHBnbDMxNXIyaVZQcUw2b0FneVNLN2lEdXBlR1c4M0U0R3pGa2hJZkNuVTQyTFc5OFZRTUNWazZreGxYdXhPQV9BcEhVcHRybjNwY3NCaVZHN25MeVktZHVlTHpTZXdESXItYVFMbU5QNEhoTDFUUC16TlViNW1GQ2JnUC1DVmlSNA?oc=5",
+  "title": "Polestar 5, Zeekr 9X on show for the first time at NZ EV & Tech Expo - Auto Trader NZ",
+  "text": "Polestar 5, Zeekr 9X on show for the first time at NZ EV & Tech Expo Auto Trader NZ",
+  "author": "",
+  "published": "2026-11-13T03:12:50+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "9X"
+  ],
+  "competitors": [],
+  "brands": [
+   "polestar"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-14T15:43:00+00:00"
  },
  {
   "id": "6ce3d687a8d69803",
@@ -4186,6 +4289,41 @@
   "first_seen": "2026-11-09T09:36:19+00:00"
  },
  {
+  "id": "6419b055548d8383",
+  "type": "competitor_news",
+  "source": "gn-zeekr-media",
+  "source_name": "Google News · Drive",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEJXRVBzalFWbUZUYzNPMllXSkNCb1N0S2lkeGxlUEdvS3V6UUZScTIwQXJtQTI0SDVIYzdqZ2w2U3JaSGxrX1BRTkhNWS1tVGJjTmVkX1RfQ3Fhd3IxdG4xQkMyOTFKY1g4YXdVVXdmX2oweDlRcTNyUklTUVJMZGVLNWhZUlZqT2xZSA?oc=5",
+  "title": "2026 Toyota bZ4X Touring Review: A wagon after 20 long years - Drive",
+  "text": "2026 Toyota bZ4X Touring Review: A wagon after 20 long years Drive",
+  "author": "",
+  "published": "2026-11-09T06:16:19+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "toyota-bz4x"
+  ],
+  "brands": [
+   "toyota"
+  ],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-14T15:43:00+00:00"
+ },
+ {
   "id": "770a6ccaee122c19",
   "type": "competitor_news",
   "source": "whichcar",
@@ -7241,7 +7379,7 @@
  {
   "id": "f3b9b545c6b4ef9f",
   "type": "news_zeekr",
-  "source": "gn-zeekr-media",
+  "source": "gn-zeekr-au",
   "source_name": "Google News · Drive",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1IaXJuT3R4ZkhUa2lrcmxFSEx5eU5OVlppMFBCQjg3dDc5TmN4QmROUjJ0SUM2dU1oblRaMGNqb0NwRDhVN2ZYUzFUQmd6WkdyN0hTQ0I4RWpPR0J1bURCX3czb0ZkSEVTUFpUY0VlWFVUWWJjVmpMRkhxYlgyUzJBTXA1N3J4Umc?oc=5",
   "title": "This wagon is Zeekr's next Aussie EV sensation: CAUGHT - Drive",
