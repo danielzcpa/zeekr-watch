@@ -1,5 +1,282 @@
 [
  {
+  "id": "567b8bc41f2983d4",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/14/tesla-offers-nearly-5000-off-some-inventory-models/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-offers-nearly-5000-off-some-inventory-models",
+  "title": "Tesla offers nearly $5,000 off some inventory models",
+  "text": "Tesla offers a $4,860 on some Model 3 in-stock vehicles to help move inventory. The post Tesla offers nearly $5,000 off some inventory models appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-11-14T08:46:23+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "delivery"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "c4d8fa3748d769a1",
+  "type": "competitor_news",
+  "source": "thedriven",
+  "source_name": "The Driven",
+  "url": "https://thedriven.io/2026/11/14/tesla-reclaims-crown-for-australias-biggest-ev-fast-charging-site-with-expanded-28-bay-facility/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-reclaims-crown-for-australias-biggest-ev-fast-charging-site-with-expanded-28-bay-facility",
+  "title": "Tesla reclaims crown for Australia’s biggest EV fast-charging site with expanded 28-bay facility",
+  "text": "Tesla reclaims crown of having Australia's biggest EV fast-charging site, with faster charging and 28 bays along major inter-city route. The post Tesla reclaims crown for Australia’s biggest EV fast-charging site with expanded 28-bay facility appeared first on The Driven.",
+  "author": "Riz Akhtar",
+  "published": "2026-11-14T08:38:15+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [
+   "software",
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "012605965485545d",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xvwylw/delivery_anxiety/",
+  "title": "Delivery anxiety",
+  "text": "My partner and I need a bigger car to accommodate a twin pregnancy and our toddler. The Zeekr, although more expensive, is the only EV we tested that can fit the car seats and capsules in a configuration that doesn't require a new mom to do mechanical engineering and gymnastics when putting the babies in and out of the car. Why the anxiety? Well, the due date is in April, and we want to have the car available before then. The dealer said they have a couple hundred orders from people who have been waiting for months, and they are only getting less than 60 cars in December, with maybe another hundred by February next year. Which is cutting it close, really I am worried we might be waiting longer than April, and with two newborns, that might be a crazy time to also be dealing with the anxiety of when the new car will arrive. Any options? Can I buy it from a different town, like Melbourne, Brisbane, or Adelaide and drive it back? How would that affect service and so on?",
+  "author": "/u/OBSTErCU",
+  "published": "2026-11-14T08:05:16+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "delivery",
+   "service",
+   "price"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [
+   "price_rise"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "d9188499fe6ddc95",
+  "type": "post",
+  "source": "reddit-ZeekrX",
+  "source_name": "Reddit r/ZeekrX",
+  "url": "https://www.reddit.com/r/ZeekrX/comments/1xvwge3/android_auto_not_automatically_launching_after/",
+  "title": "Android Auto not automatically launching after restarting the car",
+  "text": "Android Auto not automatically launching after restarting the car Has anyone else experienced this with their Zeekr X? I'm using a Samsung Galaxy S25 Ultra with wireless Android Auto. Bluetooth connects automatically without any issues, and Android Auto also connects perfectly when I manually tap the Android Auto icon on the infotainment screen. However, every time I turn the car off and get back in, Android Auto doesn't automatically launch. I have to manually tap the Android Auto icon on the screen every time. I've already checked my phone's Android Auto settings, and everything seems to be configured correctly. Is this normal behaviour with the Zeekr X, or is there a way to make Android Auto automatically launch whenever I start the car? Would appreciate hearing from other Android users. Thanks!",
+  "author": "/u/Famous-Watercress891",
+  "published": "2026-11-14T07:34:26+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 1,
+   "pos_hits": 1,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "zeekr_complaint",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "6425063f41e9424b",
+  "type": "news_zeekr",
+  "source": "gn-zeekr-1d",
+  "source_name": "Google News · The Cool Down",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiQmRURlpYWUxpR1NFem5lbGtYNUdDZWZoRlZMSHp5S2NHTzRHOXdCZjN4Nm9YN0cxYjBWbjhfMmlOR091R2hXcTlnVjlzMTF5OXhXc3lyalZSMk00bWxic0FUTWRxRHVOdDNjQWtGaDR2VGd3NnBLYnpYcE9vZw?oc=5",
+  "title": "EV reviewer buys a Zeekr 7X with his own money — then its driving assist tries to run a red light - The Cool Down",
+  "text": "EV reviewer buys a Zeekr 7X with his own money — then its driving assist tries to run a red light The Cool Down",
+  "author": "",
+  "published": "2026-11-14T07:23:00+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [
+   "7X"
+  ],
+  "competitors": [],
+  "brands": [],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [],
+  "scope": "zeekr",
+  "au": false,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "6e14ff75f8fb216d",
+  "type": "post",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xvrmvz/free_charging_at_dealership/",
+  "title": "Free Charging at Dealership",
+  "text": "Given the abundance of high-speed charging stations at Zeekr dealers. Wouldn't it be lovely if the premium brand opened up a few of them exclusively to Zeekr customers to use as a perk ? I'll be putting forward the suggestion. Surely, the brand uplift would outweigh any inconvenience or the insignificant cost to Zeekr .",
+  "author": "/u/ConsiderationFree356",
+  "published": "2026-11-14T03:04:55+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "charging",
+   "delivery",
+   "service"
+  ],
+  "sentiment": {
+   "score": 1,
+   "neg_hits": 0,
+   "pos_hits": 1,
+   "label": "positive"
+  },
+  "severity": null,
+  "signals": [
+   "offer"
+  ],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "709690188a0f4206",
+  "type": "complaint",
+  "source": "reddit-Zeekr7xAustralia",
+  "source_name": "Reddit r/Zeekr7xAustralia",
+  "url": "https://www.reddit.com/r/Zeekr7xAustralia/comments/1xvr4un/car_unsynced_from_phone_app/",
+  "title": "Car unsynced from phone app",
+  "text": "Hi all, Has anyone else had this issue where their car has unsynced from their phone app? My profile still says signed in... But I can't get it to recognise my vehicle.",
+  "author": "/u/janenkm",
+  "published": "2026-11-14T02:39:20+00:00",
+  "rating": null,
+  "zeekr": true,
+  "models": [],
+  "competitors": [],
+  "brands": [],
+  "categories": [
+   "software"
+  ],
+  "sentiment": {
+   "score": -1,
+   "neg_hits": 1,
+   "pos_hits": 0,
+   "label": "negative"
+  },
+  "severity": "low",
+  "signals": [],
+  "scope": "zeekr_complaint",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
+  "id": "15238c52a22594fb",
+  "type": "deal",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
+  "url": "https://www.ozbargain.com.au/node/983089",
+  "title": "Extra $2,000 Cashback on Top of Existing $4,000 Cashback for BYD Sealion 7 from $48,990 + On-Road Costs @ BYD",
+  "text": "BYD is holding its one-day-only Not Black Friday event today, with dealers offering an additional $2,000 cashback on top of the existing $4,000 cashback promotion. I can confirm this worked for our …",
+  "author": "Trillian",
+  "published": "2026-11-14T01:40:46+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "byd-sealion7"
+  ],
+  "brands": [
+   "byd"
+  ],
+  "categories": [
+   "service"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "offer",
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
+ },
+ {
   "id": "58446653e8470e7f",
   "type": "competitor_news",
   "source": "gn-brands-cn",
@@ -178,7 +455,7 @@
  {
   "id": "a9325c26c19238d0",
   "type": "competitor_news",
-  "source": "gn-zeekr-media",
+  "source": "gn-brands-eu",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlBfWHV5aVR2V25XMklTWGxKUWRwd2xVY3hJQUhaMWltaEhDSEtOS19CdXhESmN0QkcxdHB5S1duRnZ3YS04RVBfTVR2bEZNa0ktVDBRTXVkQ3VfQmFwV2hpZk9BbUdoVmVaQ19CZHlBaGNjT0JqRF9oUUtfeXJSRjZ6ZXh0b24tWWJKeGluUUZLZm1DcHdQSE4yUHZoVFRRM09kMkdqazQ1NTl5LXdOTjQ4R0lDc29UNlhLUzhWUFJ6aEpi?oc=5",
   "title": "Hyundai's cut-price EV overhaul confirmed! Cheap models coming to hit back against Chinese players BYD, Geely and Chery - CarsGuide",
@@ -205,7 +482,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "zeekr",
+  "scope": "competitor",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-14T01:40:40+00:00"
@@ -245,6 +522,41 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-13T14:50:59+00:00"
+ },
+ {
+  "id": "5f2057af18b9921e",
+  "type": "competitor_news",
+  "source": "gn-ev-launch-au",
+  "source_name": "Google News · Man of Many",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QWJhYlJJdDRMTkZQNkY1QzJBYVFyeTBqYkNNdV8wNVJKWlFCdGdWRkJwYjkzcXhHeXRPdzFUb3hZY0dtZmRCOXNPaHZJSnZDZm9tNWJjb2pRaV9yZzlWRk9oLS1DSTl1UENacHhkOWxWbG9jTFNzRFM2VnBaV0U?oc=5",
+  "title": "Tesla Model 3 Rear-Wheel Drive Revealed as Australia’s Cheapest Electric Sedan - Man of Many",
+  "text": "Tesla Model 3 Rear-Wheel Drive Revealed as Australia’s Cheapest Electric Sedan Man of Many",
+  "author": "",
+  "published": "2026-11-13T10:52:45+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "tesla-model-3"
+  ],
+  "brands": [
+   "tesla"
+  ],
+  "categories": [],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "launch"
+  ],
+  "scope": "competitor",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
  },
  {
   "id": "d964b4b1834ad93a",
@@ -1330,7 +1642,7 @@
  {
   "id": "f5e922bc847c06ad",
   "type": "competitor_news",
-  "source": "gn-ev-offer-au",
+  "source": "gn-brands-eu",
   "source_name": "Google News · Carsales",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZfLWpia3dzOG04YkVvSUYtZWt2NXk4THhJZWd4Y1hJTkxkS0FfY0dkT1AySzlfUUY2bmV6VUJlaTRFY1E2NFprbWdSZmVxaEg4N19GR3JVX1ZaWVlMb054S1hSQ2Jia3JILVJhemVUVjRtbHl2WkM2R2VRaHJ3d2xlai0wU3BlcnVqQkFydmdyZHdsbjhLQTRKeVgwTlNfeFhHX3k2XzBHUQ?oc=5",
   "title": "BMW to launch Hyundai-inspired artificial EV gearbox - Carsales",
@@ -1980,7 +2292,7 @@
  {
   "id": "6c8da9fc04a93fde",
   "type": "competitor_news",
-  "source": "gn-brands-eu",
+  "source": "gn-zeekr-media",
   "source_name": "Google News · CarsGuide",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3NuVzdMdDg1el9NVi1PeE5qS0JnR3p3NnMyLU5hUks2em5MdW9aZFFZNWNGTkZjUnEzVGtEMXdIN01iT1R6OXl3RElHR2FUVFY4WUJ4aUx0M3ZEM2xoWUFXdHo3UjNNWl9vaUVVNUpxT1o1aExNZ05wVFVjOXFRbEZXWllrVjFyWjhST0JzLXZVWmU1c0RQbzE0YW1rZC1yaVUwVUlrY01XZ3NTZlNpUFJmSjJsbVQtRjQ4eFpTUQ?oc=5",
   "title": "2027 Deepal S05 confirmed for Australian launch, will rival 2026 BYD Atto 3, Geely EX5 affordable electric SUVs - CarsGuide",
@@ -2009,7 +2321,7 @@
   "signals": [
    "launch"
   ],
-  "scope": "competitor",
+  "scope": "zeekr",
   "au": true,
   "extra": {},
   "first_seen": "2026-11-11T14:00:04+00:00"
@@ -2223,6 +2535,43 @@
   "au": true,
   "extra": {},
   "first_seen": "2026-11-11T05:54:52+00:00"
+ },
+ {
+  "id": "4da5900225ae9ab7",
+  "type": "deal",
+  "source": "ozbargain-auto",
+  "source_name": "OzBargain (Automotive deals)",
+  "url": "https://www.ozbargain.com.au/node/982525",
+  "title": "Geely Starray EM-i Complete PHEV from $36,490 + ORC, EX5 Complete EV $40,990 + ORC @ Geely",
+  "text": "$1000 off the Geely Starray PHEV and EX5 EV for the 4 day sale. Mode 2 Charging Cable included. EX5: Up to 475km range. Starray: Up to 83km EV range. Very efficient in hybrid mode.",
+  "author": "shxhshzhz",
+  "published": "2026-11-11T01:11:08+00:00",
+  "rating": null,
+  "zeekr": false,
+  "models": [],
+  "competitors": [
+   "geely-ex5"
+  ],
+  "brands": [
+   "geely"
+  ],
+  "categories": [
+   "charging"
+  ],
+  "sentiment": {
+   "score": 0,
+   "neg_hits": 0,
+   "pos_hits": 0,
+   "label": "neutral"
+  },
+  "severity": null,
+  "signals": [
+   "price"
+  ],
+  "scope": "industry",
+  "au": true,
+  "extra": {},
+  "first_seen": "2026-11-14T08:52:10+00:00"
  },
  {
   "id": "e9c4413b84ef8679",
@@ -38016,7 +38365,7 @@
   "source": "ozbargain-auto",
   "source_name": "OzBargain (Automotive deals)",
   "url": "https://www.ozbargain.com.au/node/977227",
-  "title": "$4000 Cashback on BYD Seal 6, Seal 6 Touring, Sealion 5, Sealion 6, Sealion 7, Sealion 8 & Shark 6 @ BYD",
+  "title": "$4,000 Cashback on BYD Seal 6, Seal 6 Touring, Sealion 5, Sealion 6, Sealion 7, Sealion 8 & Shark 6 @ BYD",
   "text": "$4000 off most BYD models. The Seal 6 Touring is the cheapest PHEV wagon and cheapest wagon in Australia. 100km WLTP range. 670L boot space, much larger than most SUVs. $35,990 + ORC. Sealion 5 …",
   "author": "shxhshzhz",
   "published": "2026-09-30T23:09:19+00:00",

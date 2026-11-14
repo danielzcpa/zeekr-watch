@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-14T01:40:40+00:00",
- "duration_s": 298.2,
- "items_total": 1537,
- "new_this_run": 182,
+ "generated": "2026-11-14T08:52:10+00:00",
+ "duration_s": 330.9,
+ "items_total": 1547,
+ "new_this_run": 189,
  "counts": {
-  "complaints_24h": 2,
-  "complaints_7d": 8,
+  "complaints_24h": 4,
+  "complaints_7d": 9,
   "complaints_30d": 34,
-  "high_7d": 5,
+  "high_7d": 4,
   "medium_7d": 3,
-  "low_7d": 0,
-  "competitor_news_7d": 101,
-  "launch_signals_7d": 27,
+  "low_7d": 2,
+  "competitor_news_7d": 104,
+  "launch_signals_7d": 28,
   "offer_signals_7d": 4,
   "zeekr_news_7d": 41,
   "offer_page_changes_7d": 3
@@ -188,14 +188,14 @@
   {
    "date": "2026-11-13",
    "complaints": 2,
-   "competitor_news": 12,
+   "competitor_news": 13,
    "zeekr_news": 4
   },
   {
    "date": "2026-11-14",
-   "complaints": 0,
-   "competitor_news": 1,
-   "zeekr_news": 0
+   "complaints": 2,
+   "competitor_news": 3,
+   "zeekr_news": 1
   }
  ],
  "categories_30d": [
@@ -209,25 +209,19 @@
    "key": "charging",
    "zh": "充电/续航/电池",
    "en": "Charging / range / battery",
-   "n": 13
+   "n": 12
   },
   {
    "key": "delivery",
    "zh": "交付/等待/订单",
    "en": "Delivery / waiting / orders",
-   "n": 11
+   "n": 10
   },
   {
    "key": "service",
    "zh": "售后/服务/保修",
    "en": "After-sales / service / warranty",
-   "n": 10
-  },
-  {
-   "key": "quality",
-   "zh": "质量/故障",
-   "en": "Quality / faults",
-   "n": 5
+   "n": 9
   },
   {
    "key": "sales",
@@ -236,20 +230,26 @@
    "n": 4
   },
   {
-   "key": "safety",
-   "zh": "召回/安全",
-   "en": "Recall / safety",
-   "n": 2
+   "key": "quality",
+   "zh": "质量/故障",
+   "en": "Quality / faults",
+   "n": 4
   },
   {
    "key": "price",
    "zh": "价格/贬值/退款",
    "en": "Price / resale / refund",
-   "n": 1
+   "n": 2
+  },
+  {
+   "key": "safety",
+   "zh": "召回/安全",
+   "en": "Recall / safety",
+   "n": 2
   }
  ],
  "models_30d": {
-  "7X": 10,
+  "7X": 8,
   "7GT": 2,
   "X": 1
  },
@@ -529,8 +529,9 @@
    "latest": "008b73b9c410f706"
   },
   "tesla-model-3": {
-   "n_30d": 20,
+   "n_30d": 22,
    "launch": [
+    "5f2057af18b9921e",
     "418bf3453df753e5",
     "dba085ae5a42f62c",
     "5366678f10e4adb3",
@@ -546,7 +547,7 @@
     "347f60946babed57",
     "d2af0ef5c3bba679"
    ],
-   "latest": "392cb52ea11ae011"
+   "latest": "567b8bc41f2983d4"
   },
   "polestar-2": {
    "n_30d": 7,
@@ -734,7 +735,7 @@
    "latest": "0cad556c45557e97"
   },
   "mb-gle": {
-   "n_30d": 3,
+   "n_30d": 2,
    "launch": [
     "9cf83e3d30e44365",
     "73e54738eb48f209",
@@ -918,7 +919,7 @@
    "latest": null
   },
   "avatr": {
-   "n_30d": 5,
+   "n_30d": 3,
    "launch": [
     "ed9032effceb915b",
     "e23ca822c454fb48",
@@ -976,6 +977,16 @@
   },
   {
    "kind": "competitor_launch",
+   "id": "5f2057af18b9921e",
+   "title": "Tesla Model 3 Rear-Wheel Drive Revealed as Australia’s Cheapest Electric Sedan - Man of Many",
+   "source": "Google News · Man of Many",
+   "t": "2026-11-13T10:52:45+00:00",
+   "competitors": [
+    "tesla-model-3"
+   ]
+  },
+  {
+   "kind": "competitor_launch",
    "id": "ed9032effceb915b",
    "title": "Avatr prepares Australian launch with 07L electric SUV and 06T wagon - Zecar",
    "source": "Google News · Zecar",
@@ -1025,13 +1036,6 @@
    ]
   },
   {
-   "kind": "complaint_high",
-   "id": "4d69249b06855bed",
-   "title": "1★ · Huge battery drain and will randomly logout of app or lose a",
-   "source": "Google Play (AU) · ZEEKR app",
-   "t": "2026-11-12T04:00:40+00:00"
-  },
-  {
    "kind": "competitor_launch",
    "id": "55dbbe830943aaf2",
    "title": "Polestar Formula 2030 revealed: Electric sports car concept shows the face of the next Polestar 2",
@@ -1070,40 +1074,22 @@
    "competitors": [
     "geely-ex5"
    ]
-  },
-  {
-   "kind": "offer_page_change",
-   "id": "59e0f65e88778dd3",
-   "title": "Zecar (all-brand offers) 官网政策页面变化（+1 / −1 行）",
-   "title_en": "Zecar (all-brand offers) offer page changed (+1 / −1 lines)",
-   "source": "https://zecar.com/offers-and-deals",
-   "t": "2026-11-11T05:59:59+00:00"
-  },
-  {
-   "kind": "competitor_launch",
-   "id": "6c8da9fc04a93fde",
-   "title": "2027 Deepal S05 confirmed for Australian launch, will rival 2026 BYD Atto 3, Geely EX5 affordable electric SUVs - CarsGuide",
-   "source": "Google News · CarsGuide",
-   "t": "2026-11-11T05:30:00+00:00",
-   "competitors": [
-    "geely-ex5"
-   ]
   }
  ],
  "source_status": {
   "gn-zeekr-au": {
    "ok": true,
-   "count": 67,
+   "count": 65,
    "note": ""
   },
   "gn-zeekr-1d": {
    "ok": true,
-   "count": 14,
+   "count": 10,
    "note": ""
   },
   "gn-zeekr-complaint": {
    "ok": true,
-   "count": 32,
+   "count": 31,
    "note": ""
   },
   "gn-zeekr-media": {
@@ -1113,7 +1099,7 @@
   },
   "gn-zeekr-forums": {
    "ok": true,
-   "count": 54,
+   "count": 53,
    "note": ""
   },
   "gn-zeekr-recall": {
@@ -1123,12 +1109,12 @@
   },
   "gn-zeekr-evcentral": {
    "ok": true,
-   "count": 90,
+   "count": 77,
    "note": ""
   },
   "gn-ev-launch-au": {
    "ok": true,
-   "count": 29,
+   "count": 30,
    "note": ""
   },
   "gn-ev-offer-au": {
@@ -1138,7 +1124,7 @@
   },
   "gn-brands-cn": {
    "ok": true,
-   "count": 26,
+   "count": 27,
    "note": ""
   },
   "gn-brands-eu": {
@@ -1148,7 +1134,7 @@
   },
   "gn-evcentral-industry": {
    "ok": true,
-   "count": 12,
+   "count": 14,
    "note": ""
   },
   "carexpert": {
@@ -1212,14 +1198,14 @@
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-Zeekr": {
-   "ok": true,
-   "count": 50,
-   "note": "anonymous RSS"
-  },
-  "reddit-ZeekrX": {
    "ok": false,
    "count": 0,
    "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+  },
+  "reddit-ZeekrX": {
+   "ok": true,
+   "count": 24,
+   "note": "anonymous RSS"
   },
   "reddit-Zeekr7Gt": {
    "ok": false,
@@ -1229,12 +1215,12 @@
   "reddit-CarsAustralia": {
    "ok": false,
    "count": 0,
-   "note": "HTTP 403 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-AustralianEV": {
    "ok": false,
    "count": 0,
-   "note": "skipped after repeated 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
+   "note": "HTTP 429 (anonymous RSS; add REDDIT_CLIENT_ID/SECRET secrets)"
   },
   "reddit-EVAustralia": {
    "ok": false,
